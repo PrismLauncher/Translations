@@ -129,7 +129,7 @@ msgstr "팩 구성 요소를 만드는데 실패하였습니다."
 #: src/launcher/ui/dialogs/AboutDialog.ui:97
 msgctxt "AboutDialog|"
 msgid "About"
-msgstr "MultiMC 정보"
+msgstr "PolyMC 정보"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:106
 msgctxt "AboutDialog|"
@@ -2014,7 +2014,7 @@ msgstr "경고: 이는 인스턴스가 손상되게 할 수 있으며, 마인크
 #: src/launcher/launch/LaunchTask.cpp:215
 #, fuzzy, qt-format
 #| msgid ""
-#| "MultiMC stopped watching the game log because the log length surpassed %1 "
+#| "PolyMC stopped watching the game log because the log length surpassed %1 "
 #| "lines.\n"
 #| "You may have to fix your mods because the game is still logging to files "
 #| "and likely wasting harddrive space at an alarming rate!"
@@ -2025,7 +2025,7 @@ msgid ""
 "You may have to fix your mods because the game is still logging to files and "
 "likely wasting harddrive space at an alarming rate!"
 msgstr ""
-"MultiMC는 로그 길이가 %1 줄을 넘었기에 게임 로그 감시를 중단하였습니다.\n"
+"PolyMC는 로그 길이가 %1 줄을 넘었기에 게임 로그 감시를 중단하였습니다.\n"
 "게임은 여전히 로그를 작성 중이며 (아마도) 저장 공간을 매우 빠르게 잡아먹고 있기에 모드를 손 볼 필요가 있는 것 같습니다!"
 
 #: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:16
@@ -2442,14 +2442,14 @@ msgstr "이전 버전의 인스턴스들."
 #: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:29
 #, fuzzy
 #| msgid ""
-#| "<html><body><h1>Upgrade is required</h1><p>MultiMC now supports old "
+#| "<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old "
 #| "Minecraft versions and all the required features in the new (OneSix) "
 #| "instance format. As a consequence, the old (Legacy) format has been "
 #| "entirely disabled and old instances need to be upgraded.</p><p>The "
 #| "upgrade will create a new instance with the same contents as the current "
 #| "one, in the new format. The original instance will remain untouched, in "
 #| "case anything goes wrong in the process.</p><p>Please report any issues "
-#| "on our <a href=\"https://github.com/MultiMC/Launcher/issues\">github "
+#| "on our <a href=\"https://github.com/PolyMC/PolyMC/issues\">github "
 #| "issues page</a>.</p><p>There is also a <a "
 #| "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
 #| "here</a>.</p></body></html>"
@@ -2467,11 +2467,11 @@ msgid ""
 "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
 "here</a>.</p></body></html>"
 msgstr ""
-"<html><body><h1>업그레이드가 필요합니다</h1><p>MultiMC는 이제 오래된 마인크래프트 버전과 새로운 인스턴스 "
+"<html><body><h1>업그레이드가 필요합니다</h1><p>PolyMC는 이제 오래된 마인크래프트 버전과 새로운 인스턴스 "
 "포맷(OneSix)에 필요한 모든 기능을 지원합니다. 하지만, 이 때문에 이전의 레거시 포맷은 완전히 폐기되었고 오래된 인스턴스들은 "
 "업그레이드가 필요합니다.</p><p>이 업그레이드는 기존의 인스턴스 내용과 동일한 정보를 담고 있는 OneSix 포맷의 인스턴스를 생성할 "
 "것입니다. (만일의 사태에 대비하여) 기존의 인스턴스는 변경 없이 남겨놓습니다.</p><p>문제가 있다면 <a "
-"href=\"https://github.com/MultiMC/Launcher/issues\"> 에 남겨주십시오.</p><p> <a "
+"href=\"https://github.com/PolyMC/PolyMC/issues\"> 에 남겨주십시오.</p><p> <a "
 "href=\"https://discord.gg/GtPmv93\"> 테스팅을 위한 디스코드 채널도 "
 "있습니다</a>.</p></body></html>"
 
@@ -3586,7 +3586,7 @@ msgstr "메모들"
 #: src/launcher/ui/dialogs/NotificationDialog.ui:14
 msgctxt "NotificationDialog|"
 msgid "Notification"
-msgstr "MultiMC 알림"
+msgstr "PolyMC 알림"
 
 #: src/launcher/ui/dialogs/NotificationDialog.ui:65
 #: src/launcher/ui/dialogs/NotificationDialog.cpp:30
@@ -4959,10 +4959,10 @@ msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:14
 #, fuzzy
-#| msgid "MultiMC Update"
+#| msgid "PolyMC Update"
 msgctxt "UpdateDialog|"
 msgid "PolyMC Update"
-msgstr "MultiMC 업데이트"
+msgstr "PolyMC 업데이트"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:61
 msgctxt "UpdateDialog|"
@@ -5342,7 +5342,7 @@ msgstr "Intermediary mappings 버전 목록을 불러오거나 다운로드하�
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
 #, fuzzy
 #| msgid ""
-#| "MultiMC cannot download Minecraft or update instances unless you have at "
+#| "PolyMC cannot download Minecraft or update instances unless you have at "
 #| "least one account added.\n"
 #| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"

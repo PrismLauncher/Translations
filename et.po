@@ -2014,7 +2014,7 @@ msgstr ""
 #: src/launcher/launch/LaunchTask.cpp:215
 #, fuzzy, qt-format
 #| msgid ""
-#| "MultiMC stopped watching the game log because the log length surpassed %1 "
+#| "PolyMC stopped watching the game log because the log length surpassed %1 "
 #| "lines.\n"
 #| "You may have to fix your mods because the game is still logging to files "
 #| "and likely wasting harddrive space at an alarming rate!"
@@ -2025,7 +2025,7 @@ msgid ""
 "You may have to fix your mods because the game is still logging to files and "
 "likely wasting harddrive space at an alarming rate!"
 msgstr ""
-"MultiMC lõpetas mängulogi jälgimise, kuna logi pikkus ületas %1 rida.\n"
+"PolyMC lõpetas mängulogi jälgimise, kuna logi pikkus ületas %1 rida.\n"
 "Sa pead ilmselt oma modid parandama, kuna mäng ikka veel logib andmeid, "
 "ilmselt raisates kettaruumi kohutava kiirusega!"
 
@@ -2442,14 +2442,14 @@ msgstr "Eksemplar eelmistest versioonidest."
 
 #: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:29
 #| msgid ""
-#| "<html><body><h1>Upgrade is required</h1><p>MultiMC now supports old "
+#| "<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old "
 #| "Minecraft versions and all the required features in the new (OneSix) "
 #| "instance format. As a consequence, the old (Legacy) format has been "
 #| "entirely disabled and old instances need to be upgraded.</p><p>The "
 #| "upgrade will create a new instance with the same contents as the current "
 #| "one, in the new format. The original instance will remain untouched, in "
 #| "case anything goes wrong in the process.</p><p>Please report any issues "
-#| "on our <a href=\"https://github.com/MultiMC/Launcher/issues\">github "
+#| "on our <a href=\"https://github.com/PolyMC/PolyMC/issues\">github "
 #| "issues page</a>.</p><p>There is also a <a "
 #| "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
 #| "here</a>.</p></body></html>"
@@ -3948,7 +3948,7 @@ msgctxt "ProxyPage|"
 msgid ""
 "This only applies to the launcher. Minecraft does not accept proxy settings."
 msgstr ""
-"See kehtib ainult MultiMC puhul. Minecraft ei aktsepteeri proksisätteid."
+"See kehtib ainult PolyMC puhul. Minecraft ei aktsepteeri proksisätteid."
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -4006,7 +4006,7 @@ msgid ""
 "Note: Proxy username and password are stored in plain text inside the "
 "launcher's configuration file!"
 msgstr ""
-"Märkus: Proksi kasutajanimi ja parool on talletatud MultiMC seadistusfailis "
+"Märkus: Proksi kasutajanimi ja parool on talletatud PolyMC seadistusfailis "
 "lihttekstina!"
 
 #: src/launcher/ui/pages/global/ProxyPage.h:39
@@ -4948,10 +4948,10 @@ msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:14
 #, fuzzy
-#| msgid "MultiMC Update"
+#| msgid "PolyMC Update"
 msgctxt "UpdateDialog|"
 msgid "PolyMC Update"
-msgstr "MultiMC uuendus"
+msgstr "PolyMC uuendus"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:61
 msgctxt "UpdateDialog|"
@@ -5331,7 +5331,7 @@ msgstr ""
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
 #, fuzzy
 #| msgid ""
-#| "MultiMC cannot download Minecraft or update instances unless you have at "
+#| "PolyMC cannot download Minecraft or update instances unless you have at "
 #| "least one account added.\n"
 #| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
@@ -5340,7 +5340,7 @@ msgid ""
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"MultiMC ei saa Minecrafti allalaadida ega eksemplare uuendada, kuni sul pole "
+"PolyMC ei saa Minecrafti allalaadida ega eksemplare uuendada, kuni sul pole "
 "vähemalt ühte kontot lisatud. Palun lisa oma Mojangi või Minecrafti konto."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:424

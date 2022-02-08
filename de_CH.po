@@ -2038,7 +2038,7 @@ msgstr ""
 #: src/launcher/launch/LaunchTask.cpp:215
 #, fuzzy, qt-format
 #| msgid ""
-#| "MultiMC stopped watching the game log because the log length surpassed %1 "
+#| "PolyMC stopped watching the game log because the log length surpassed %1 "
 #| "lines.\n"
 #| "You may have to fix your mods because the game is still logging to files "
 #| "and likely wasting harddrive space at an alarming rate!"
@@ -2049,7 +2049,7 @@ msgid ""
 "You may have to fix your mods because the game is still logging to files and "
 "likely wasting harddrive space at an alarming rate!"
 msgstr ""
-"MultiMC hat aufgehört, den Log zu bewachen, weil er mehr als %1 Zeilen lang "
+"PolyMC hat aufgehört, den Log zu bewachen, weil er mehr als %1 Zeilen lang "
 "würde.\n"
 "Es kann notwendig sein deine benutzen Mods zu ändern da das Spiel deine "
 "Festplatte sehr schnell mit Log-Dateien füllt!"
@@ -2470,14 +2470,14 @@ msgstr "Lade Liste von früheren Minecraft-Versionen."
 
 #: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:29
 #| msgid ""
-#| "<html><body><h1>Upgrade is required</h1><p>MultiMC now supports old "
+#| "<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old "
 #| "Minecraft versions and all the required features in the new (OneSix) "
 #| "instance format. As a consequence, the old (Legacy) format has been "
 #| "entirely disabled and old instances need to be upgraded.</p><p>The "
 #| "upgrade will create a new instance with the same contents as the current "
 #| "one, in the new format. The original instance will remain untouched, in "
 #| "case anything goes wrong in the process.</p><p>Please report any issues "
-#| "on our <a href=\"https://github.com/MultiMC/Launcher/issues\">github "
+#| "on our <a href=\"https://github.com/PolyMC/PolyMC/issues\">github "
 #| "issues page</a>.</p><p>There is also a <a "
 #| "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
 #| "here</a>.</p></body></html>"
@@ -5018,10 +5018,10 @@ msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:14
 #, fuzzy
-#| msgid "MultiMC Update"
+#| msgid "PolyMC Update"
 msgctxt "UpdateDialog|"
 msgid "PolyMC Update"
-msgstr "MultiMC Update"
+msgstr "PolyMC Update"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:61
 msgctxt "UpdateDialog|"
@@ -5037,14 +5037,14 @@ msgstr "Noch nicht aktualisieren"
 #, qt-format
 msgctxt "UpdateDialog|"
 msgid "A new %1 update is available!"
-msgstr "Eine neue %1 Version von MultiMC ist verfügbar!"
+msgstr "Eine neue %1 Version von PolyMC ist verfügbar!"
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:21
 #, qt-format
 msgctxt "UpdateDialog|"
 msgid "No %1 updates found. You are running the latest version."
 msgstr ""
-"Es wurde kein %1 Update für MultiMC gefunden!\n"
+"Es wurde kein %1 Update für PolyMC gefunden!\n"
 "Du verwendest bereits die neueste Version."
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:23
@@ -5406,7 +5406,7 @@ msgstr ""
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
 #, fuzzy
 #| msgid ""
-#| "MultiMC cannot download Minecraft or update instances unless you have at "
+#| "PolyMC cannot download Minecraft or update instances unless you have at "
 #| "least one account added.\n"
 #| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
@@ -5415,7 +5415,7 @@ msgid ""
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"MultiMC kann Minecraft nicht herunterladen und keine Instanzen "
+"PolyMC kann Minecraft nicht herunterladen und keine Instanzen "
 "aktualisieren, solange du kein Konto hinzugefügt hast.\n"
 "Bitte füge dein Mojang- oder Minecraft-Konto hinzu."
 

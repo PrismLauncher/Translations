@@ -1851,7 +1851,7 @@ msgid ""
 "account now?"
 msgstr ""
 "För att kunna spela Minecraft måste du ha minst ett konto från Mojang eller "
-"Minecraft tillagt i MultiMC. Vill du öppna kontohanteraren och lägga till "
+"Minecraft tillagt i PolyMC. Vill du öppna kontohanteraren och lägga till "
 "ett konto nu?"
 
 #: src/launcher/LaunchController.cpp:77
@@ -2029,7 +2029,7 @@ msgstr ""
 #: src/launcher/launch/LaunchTask.cpp:215
 #, fuzzy, qt-format
 #| msgid ""
-#| "MultiMC stopped watching the game log because the log length surpassed %1 "
+#| "PolyMC stopped watching the game log because the log length surpassed %1 "
 #| "lines.\n"
 #| "You may have to fix your mods because the game is still logging to files "
 #| "and likely wasting harddrive space at an alarming rate!"
@@ -2040,7 +2040,7 @@ msgid ""
 "You may have to fix your mods because the game is still logging to files and "
 "likely wasting harddrive space at an alarming rate!"
 msgstr ""
-"MultiMC slutade kolla spelloggen för att den övergick %1 linjer.\n"
+"PolyMC slutade kolla spelloggen för att den övergick %1 linjer.\n"
 "Du kan behöva fixa dina mods då spelet fortsätter att logga filer vilket gör "
 "det möjligt att den överanvänder hårddiskyta!"
 
@@ -2108,7 +2108,7 @@ msgstr "Ikoner:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:163
 msgctxt "LauncherPage|"
 msgid "Move the data to new location (will restart the launcher)"
-msgstr "Flytta MultiMC-data till en ny plats (kommer starta om MultiMC)"
+msgstr "Flytta PolyMC-data till en ny plats (kommer starta om PolyMC)"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:184
 msgctxt "LauncherPage|"
@@ -2456,14 +2456,14 @@ msgstr "Instans från föregående version."
 
 #: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:29
 #| msgid ""
-#| "<html><body><h1>Upgrade is required</h1><p>MultiMC now supports old "
+#| "<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old "
 #| "Minecraft versions and all the required features in the new (OneSix) "
 #| "instance format. As a consequence, the old (Legacy) format has been "
 #| "entirely disabled and old instances need to be upgraded.</p><p>The "
 #| "upgrade will create a new instance with the same contents as the current "
 #| "one, in the new format. The original instance will remain untouched, in "
 #| "case anything goes wrong in the process.</p><p>Please report any issues "
-#| "on our <a href=\"https://github.com/MultiMC/Launcher/issues\">github "
+#| "on our <a href=\"https://github.com/PolyMC/PolyMC/issues\">github "
 #| "issues page</a>.</p><p>There is also a <a "
 #| "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
 #| "here</a>.</p></body></html>"
@@ -3599,7 +3599,7 @@ msgstr "Anteckningar"
 #: src/launcher/ui/dialogs/NotificationDialog.ui:14
 msgctxt "NotificationDialog|"
 msgid "Notification"
-msgstr "MultiMC-notifikationer"
+msgstr "PolyMC-notifikationer"
 
 #: src/launcher/ui/dialogs/NotificationDialog.ui:65
 #: src/launcher/ui/dialogs/NotificationDialog.cpp:30
@@ -4984,10 +4984,10 @@ msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:14
 #, fuzzy
-#| msgid "MultiMC Update"
+#| msgid "PolyMC Update"
 msgctxt "UpdateDialog|"
 msgid "PolyMC Update"
-msgstr "MultiMC-uppdatering"
+msgstr "PolyMC-uppdatering"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:61
 msgctxt "UpdateDialog|"
@@ -5367,7 +5367,7 @@ msgstr "Kunde inte ladda eller ladda ner mellanmappningarnas versionslistor!"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
 #, fuzzy
 #| msgid ""
-#| "MultiMC cannot download Minecraft or update instances unless you have at "
+#| "PolyMC cannot download Minecraft or update instances unless you have at "
 #| "least one account added.\n"
 #| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
@@ -5376,7 +5376,7 @@ msgid ""
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"MultiMC kan inte ladda ned Minecraft eller uppdatera instanser ifall du inte "
+"PolyMC kan inte ladda ned Minecraft eller uppdatera instanser ifall du inte "
 "har minst ett konto tilllagt.\n"
 "Var god och lägg till ditt Mojang- eller Minecraft konto."
 
