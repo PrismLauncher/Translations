@@ -1,0 +1,5930 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: ko_KR\n"
+"X-Qt-Contexts: true\n"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:94
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Could not understand pack manifest:\n"
+msgstr "팩 manifest를 해석하지 못함:\n"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:102
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:183
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to get local metadata index for %1"
+msgstr "다음의 로컬 메타데이터를 얻는 데에 실패하였습니다: %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:108
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to get local metadata index for '%1' v%2"
+msgstr "다음의 로컬 메타데이터를 얻는 데에 실패하였습니다: '%1' v%2"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:170
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unknown mod type: %1"
+msgstr "알 수 없는 모드 종류: %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:215
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to find version for %1 loader"
+msgstr "%1 로더에 대한 버전을 찾는데 실패하였습니다"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:229
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "No loader version set for modpack!"
+msgstr "모드팩 로더 버전이 설정되지 않았습니다!"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:333
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unknown or unsupported download type: %1"
+msgstr "알 수 없거나 지원하지 않는 다운로드 유형: %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:426
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Downloading configs..."
+msgstr "설정 다운로드 중..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:427
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Config download"
+msgstr "설정 다운로드"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:467
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Extracting configs..."
+msgstr "설정 내보내는 중..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:474
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to open pack configs %1!"
+msgstr "팩 설정 %1을 여는 데에 실패했습니다!"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:504
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Selecting optional mods..."
+msgstr "선택적 모드 선택 중..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:508
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Downloading mods..."
+msgstr "모드 다운로드 중..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:511
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Mod download"
+msgstr "모드 다운로드"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:525
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unsupported download type: %1"
+msgstr "지원하지 않는 다운로드 유형: %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:531
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unknown download type: %1"
+msgstr "알 수 없는 다운로드 유형: %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:645
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to extract mods..."
+msgstr "모드(들) 추출 실패..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:656
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Extracting mods..."
+msgstr "모드 추출 중..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:718
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Installing modpack"
+msgstr "모드팩 설치 중"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:732
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to create libraries component"
+msgstr "라이브러리 구성 요소를 만드는데 실패하였습니다."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:756
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unknown loader type: "
+msgstr "알 수 없는 로더 종류: "
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:770
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to create pack component"
+msgstr "팩 구성 요소를 만드는데 실패하였습니다."
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:97
+msgctxt "AboutDialog|"
+msgid "About"
+msgstr "MultiMC 정보"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:106
+msgctxt "AboutDialog|"
+msgid ""
+"<html><head/><body><p>A custom launcher that makes managing Minecraft easier "
+"by allowing you to have multiple instances of Minecraft at "
+"once.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>여러 마인크래프트 프로필들을 더 쉽게 관리할 수 있게 해 주는 커스텀 "
+"런쳐입니다.</p></body></html>"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:157
+msgctxt "AboutDialog|"
+msgid "Version:"
+msgstr "버전:"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:167
+msgctxt "AboutDialog|"
+msgid "Platform:"
+msgstr "플랫폼:"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:177
+msgctxt "AboutDialog|"
+msgid "Build Number:"
+msgstr "빌드 번호:"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:187
+msgctxt "AboutDialog|"
+msgid "Channel:"
+msgstr "채널:"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:211
+msgctxt "AboutDialog|"
+msgid "Credits"
+msgstr "개발자"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:228
+msgctxt "AboutDialog|"
+msgid "License"
+msgstr "라이센스"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:264
+msgctxt "AboutDialog|"
+msgid "About Qt"
+msgstr "Qt에 대해"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:284
+msgctxt "AboutDialog|"
+msgid "Close"
+msgstr "닫기"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:73
+#, qt-format
+msgctxt "AboutDialog|"
+msgid "About %1"
+msgstr "%1 정보"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:86
+msgctxt "AboutDialog|"
+msgid "Version"
+msgstr "버전"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:87
+msgctxt "AboutDialog|"
+msgid "Platform"
+msgstr "플랫폼"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:90
+msgctxt "AboutDialog|"
+msgid "Build Number"
+msgstr "빌드 번호"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:95
+msgctxt "AboutDialog|"
+msgid "Channel"
+msgstr "채널"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:277
+msgctxt "AccountList|Account status"
+msgid "Unchecked"
+msgstr "체크 해제"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:280
+msgctxt "AccountList|Account status"
+msgid "Offline"
+msgstr "오프라인"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:283
+msgctxt "AccountList|Account status"
+msgid "Online"
+msgstr "온라인"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:286
+msgctxt "AccountList|Account status"
+msgid "Working"
+msgstr "작동됨"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:289
+msgctxt "AccountList|Account status"
+msgid "Errored"
+msgstr "오류"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:292
+msgctxt "AccountList|Account status"
+msgid "Expired"
+msgstr "만료됨"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:295
+msgctxt "AccountList|Account status"
+msgid "Gone"
+msgstr "사라짐"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:306
+msgctxt "AccountList|Can Migrate?"
+msgid "N/A"
+msgstr "N/A"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:309
+msgctxt "AccountList|Can Migrate?"
+msgid "Yes"
+msgstr "가능"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:312
+msgctxt "AccountList|Can Migrate?"
+msgid "No"
+msgstr "불가능"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:346
+msgctxt "AccountList|"
+msgid "Account"
+msgstr "계정"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:348
+msgctxt "AccountList|"
+msgid "Type"
+msgstr "유형"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:350
+msgctxt "AccountList|"
+msgid "Status"
+msgstr "상태"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:352
+msgctxt "AccountList|"
+msgid "Can Migrate?"
+msgstr "마이그레이션"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:354
+msgctxt "AccountList|"
+msgid "Profile"
+msgstr "프로필"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:363
+msgctxt "AccountList|"
+msgid "User name of the account."
+msgstr "계정 유저 이름"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:365
+msgctxt "AccountList|"
+msgid "Type of the account - Mojang or MSA."
+msgstr "계정 유형 - Mojang 혹은 Microsoft"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:367
+msgctxt "AccountList|"
+msgid "Current status of the account."
+msgstr "현재 계정 상태"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:369
+msgctxt "AccountList|"
+msgid "Can this account migrate to Microsoft account?"
+msgstr "이 계정을 Microsoft 계정으로 마이그레이션이 가능한가?"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:371
+msgctxt "AccountList|"
+msgid "Name of the Minecraft profile associated with the account."
+msgstr "마인크래프트 프로필의 이름이 계정과 연결되어 있습니다."
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:67
+msgctxt "AccountListPage|"
+msgid "Add Mojang"
+msgstr "Mojang 계정 추가"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:72
+msgctxt "AccountListPage|"
+msgid "Remove"
+msgstr "제거"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:77
+msgctxt "AccountListPage|"
+msgid "Set Default"
+msgstr "기본으로 설정"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:85
+msgctxt "AccountListPage|"
+msgid "No Default"
+msgstr "기본 해제"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:90
+msgctxt "AccountListPage|"
+msgid "Upload Skin"
+msgstr "스킨 업로드"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:95
+msgctxt "AccountListPage|"
+msgid "Delete Skin"
+msgstr "스킨 삭제"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:98
+msgctxt "AccountListPage|"
+msgid "Delete the currently active skin and go back to the default one"
+msgstr "현재 활성화된 스킨을 삭제하고 기본값으로 되돌리기"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:103
+msgctxt "AccountListPage|"
+msgid "Add Microsoft"
+msgstr "Microsoft 계정 추가"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:108
+msgctxt "AccountListPage|"
+msgid "Refresh"
+msgstr "새로고침"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:111
+msgctxt "AccountListPage|"
+msgid "Refresh the account tokens"
+msgstr "계정 토큰 새로고침"
+
+#: src/launcher/ui/pages/global/AccountListPage.h:42
+msgctxt "AccountListPage|"
+msgid "Accounts"
+msgstr "계정"
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:44
+msgctxt "AccountListPage|"
+msgid ""
+"Welcome!\n"
+"If you're new here, you can click the \"Add\" button to add your Mojang or "
+"Minecraft account."
+msgstr ""
+"환영합니다!\n"
+"처음이시라면, \"추가\"버튼을 눌러 Mojang 혹은 마인크래프트 계정을 추가하세요."
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:85
+msgctxt "AccountListPage|"
+msgid "Context menu"
+msgstr "컨텍스트 메뉴"
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:116
+#: src/launcher/ui/pages/global/AccountListPage.cpp:144
+msgctxt "AccountListPage|"
+msgid ""
+"Please enter your Mojang account email and password to add your account."
+msgstr "계정을 추가하기 위해 Mojang 계정 이메일과 비밀번호를 입력하세요."
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:133
+msgctxt "AccountListPage|"
+msgid "Microsoft Accounts not available"
+msgstr "마이크로소프트 계정은 사용할 수 없습니다."
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:134
+msgctxt "AccountListPage|"
+msgid ""
+"Microsoft accounts are only usable on macOS 10.13 or newer, with fully "
+"updated PolyMC.\n"
+"\n"
+"Please update both your operating system and PolyMC."
+msgstr ""
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:243
+msgctxt "AccountListPage|"
+msgid "Skin Delete"
+msgstr "스킨 삭제"
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:243
+msgctxt "AccountListPage|"
+msgid "Failed to delete current skin!"
+msgstr "현재 스킨 삭제에 실패했습니다!"
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:41
+msgctxt "AccountTask|"
+msgid "Sending request to auth servers..."
+msgstr "인증 서버에 요청을 보내는 중..."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:43
+msgctxt "AccountTask|"
+msgid "Authentication task succeeded."
+msgstr "인증 작업 성공함."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:45
+msgctxt "AccountTask|"
+msgid "Failed to contact the authentication server."
+msgstr "인증 서버에 접속하는 데 실패하였습니다."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:47
+msgctxt "AccountTask|"
+msgid "Encountered an error during authentication."
+msgstr "인증 중 오류가 발생했습니다."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:49
+msgctxt "AccountTask|"
+msgid "Failed to authenticate. The session has expired."
+msgstr "인증하지 못했습니다 세션이 만료되었습니다."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:51
+msgctxt "AccountTask|"
+msgid "Failed to authenticate. The account no longer exists."
+msgstr "인증에 실패하였습니다. 계정이 더 이상 존재하지 않습니다."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:53
+msgctxt "AccountTask|"
+msgid "..."
+msgstr "..."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:100
+#, qt-format
+msgctxt "AccountTask|"
+msgid "Unknown account task state: %1"
+msgstr "알 수 없는 계정 작업 상태: %1"
+
+#: src/launcher/Application.cpp:722
+msgctxt "Application|"
+msgid "Settings"
+msgstr "설정"
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:21
+msgctxt "AssetUpdateTask|"
+msgid "Updating assets index..."
+msgstr "에셋 인덱스 업데이트 중..."
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:28
+#, qt-format
+msgctxt "AssetUpdateTask|"
+msgid "Asset index for %1"
+msgstr "%1의 에셋 인덱스"
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:73
+msgctxt "AssetUpdateTask|"
+msgid "Failed to read the assets index!"
+msgstr "에셋 인덱스를 읽는 데 실패했습니다!"
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:79
+msgctxt "AssetUpdateTask|"
+msgid "Getting the assets files from Mojang..."
+msgstr "Mojang에서 에셋 파일들을 가져오는 중..."
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:93
+#, qt-format
+msgctxt "AssetUpdateTask|"
+msgid ""
+"Failed to download the assets index:\n"
+"%1"
+msgstr ""
+"에셋 인덱스를 다운로드하는 데 실패했습니다:\n"
+"%1"
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:98
+#, qt-format
+msgctxt "AssetUpdateTask|"
+msgid ""
+"Failed to download assets:\n"
+"%1"
+msgstr ""
+"에셋을 다운로드하는 데 실패했습니다:\n"
+"%1"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp:30
+msgctxt "Atl::FilterModel|"
+msgid "Sort by popularity"
+msgstr "인기순 정렬"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp:31
+msgctxt "Atl::FilterModel|"
+msgid "Sort by name"
+msgstr "이름순 정렬"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp:32
+msgctxt "Atl::FilterModel|"
+msgid "Sort by game version"
+msgstr "게임 버전으로 정렬"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:14
+msgctxt "AtlOptionalModDialog|"
+msgid "Select Mods To Install"
+msgstr "설치할 모드 선택"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:20
+msgctxt "AtlOptionalModDialog|"
+msgid "Install"
+msgstr "설치"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:30
+msgctxt "AtlOptionalModDialog|"
+msgid "Select Recommended"
+msgstr "권장 선택"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:40
+msgctxt "AtlOptionalModDialog|"
+msgid "Use Share Code"
+msgstr "공유 코드 사용"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:47
+msgctxt "AtlOptionalModDialog|"
+msgid "Clear All"
+msgstr "모두 지우기"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui:42
+msgctxt "AtlPage|"
+msgid ""
+"Warning: This is still a work in progress. If you run into issues with the "
+"imported modpack, it may be a bug."
+msgstr "경고: 이 기능은 아직 개발 중에 있습니다. 읽어들인 모드팩에서 문제가 발생한다면, 버그일 가능성이 높습니다."
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui:59
+msgctxt "AtlPage|"
+msgid "Version selected:"
+msgstr "선택된 버전:"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui:74
+msgctxt "AtlPage|"
+msgid "Search and filter ..."
+msgstr "검색 및 필터..."
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:158
+#, qt-format
+msgctxt "AtlPage|"
+msgid "No versions are currently available for Minecraft %1"
+msgstr "마인크래프트 %1에 사용가능한 버전이 없습니다."
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:161
+msgctxt "AtlPage|"
+msgid "No versions are currently available"
+msgstr "현재 사용가능한 버전들이 없습니다"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:163
+msgctxt "AtlPage|"
+msgid "Couldn't load or download the version lists!"
+msgstr "버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
+msgctxt "AtlPage|"
+msgid "ATLauncher"
+msgstr "ATLauncher"
+
+#: src/launcher/minecraft/auth/flows/AuthFlow.cpp:20
+msgctxt "AuthFlow|"
+msgid "Finished all authentication steps"
+msgstr "모든 인증 단계를 완료했습니다."
+
+#: src/launcher/minecraft/auth/flows/AuthFlow.cpp:28
+msgctxt "AuthFlow|"
+msgid "Initializing"
+msgstr "초기화 중"
+
+#: src/launcher/minecraft/auth/flows/AuthFlow.cpp:58
+msgctxt "AuthFlow|"
+msgid "Working..."
+msgstr "작업하는 중..."
+
+#: src/launcher/tools/BaseProfiler.cpp:30
+msgctxt "BaseProfiler|"
+msgid "Profiler aborted"
+msgstr "프로파일러 중단됨"
+
+#: src/launcher/minecraft/services/CapeChange.cpp:19
+msgctxt "CapeChange|"
+msgid "Equipping cape"
+msgstr "망토 착용"
+
+#: src/launcher/minecraft/services/CapeChange.cpp:33
+msgctxt "CapeChange|"
+msgid "Removing cape"
+msgstr "망토 착용 해제"
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:270
+msgctxt "ComponentUpdateTask|"
+msgid "Some component metadata load tasks failed."
+msgstr "일부 컴포넌트 메타데이터를 로딩하는 데에 실패했습니다."
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:526
+msgctxt "ComponentUpdateTask|"
+msgid "Conflicting requirements detected during dependency checking!"
+msgstr "의존성 검사 확인 중 충돌하는 요구 사항이 확인됐습니다!"
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:545
+msgctxt "ComponentUpdateTask|"
+msgid "Instance has conflicting dependencies."
+msgstr "인스턴스가 서로 충돌하는 요구 사항을 가지고 있습니다."
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:552
+msgctxt "ComponentUpdateTask|"
+msgid "Instance has unresolved dependencies while loading/checking for launch."
+msgstr "인스턴스에 로드/시작 전 검사 과정에서 해결되지 않은 의존성이 있습니다."
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:702
+#, qt-format
+msgctxt "ComponentUpdateTask|"
+msgid ""
+"Component metadata update task failed while downloading from remote server:\n"
+"%1"
+msgstr ""
+"다음 원격 서버에서 다운로드하는 중 컴포넌트 메타데이타 업데이트 작업이 실패했습니다:\n"
+"%1"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:17
+msgctxt "CopyInstanceDialog|"
+msgid "Copy Instance"
+msgstr "인스턴스 복사"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:74
+msgctxt "CopyInstanceDialog|"
+msgid "Name"
+msgstr "이름"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:90
+msgctxt "CopyInstanceDialog|"
+msgid "&Group"
+msgstr "그룹 (&G)"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:115
+msgctxt "CopyInstanceDialog|"
+msgid "Copy saves"
+msgstr "월드 복사"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:122
+msgctxt "CopyInstanceDialog|"
+msgid "Keep play time"
+msgstr "실행 시간 유지"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.cpp:54
+msgctxt "CopyInstanceDialog|"
+msgid "No group"
+msgstr "그룹 없음"
+
+#: src/launcher/minecraft/launch/CreateGameFolders.cpp:18
+msgctxt "CreateGameFolders|"
+msgid "Couldn't create the main game folder"
+msgstr "주 게임 폴더를 만들 수 없습니다."
+
+#: src/launcher/ui/widgets/CustomCommands.ui:32
+msgctxt "CustomCommands|"
+msgid "Cus&tom Commands"
+msgstr "사용자 지정 명령어 (&T)"
+
+#: src/launcher/ui/widgets/CustomCommands.ui:44
+msgctxt "CustomCommands|"
+msgid "Post-exit command:"
+msgstr "종료 후 명령어:"
+
+#: src/launcher/ui/widgets/CustomCommands.ui:54
+msgctxt "CustomCommands|"
+msgid "Pre-launch command:"
+msgstr "실행 전 명령어:"
+
+#: src/launcher/ui/widgets/CustomCommands.ui:64
+msgctxt "CustomCommands|"
+msgid "Wrapper command:"
+msgstr "래퍼 명령어:"
+
+#: src/launcher/ui/widgets/CustomCommands.ui:77
+msgctxt "CustomCommands|"
+msgid ""
+"<html><head/><body><p>Pre-launch command runs before the instance launches "
+"and post-exit command runs after it exits.</p><p>Both will be run in the "
+"launcher's working folder with extra environment "
+"variables:</p><ul><li>$INST_NAME - Name of the instance</li><li>$INST_ID - "
+"ID of the instance (its folder name)</li><li>$INST_DIR - absolute path of "
+"the instance</li><li>$INST_MC_DIR - absolute path of "
+"minecraft</li><li>$INST_JAVA - java binary used for "
+"launch</li><li>$INST_JAVA_ARGS - command-line parameters used for "
+"launch</li></ul><p>Wrapper command allows launching using an extra wrapper "
+"program (like 'optirun' on Linux)</p></body></html>"
+msgstr ""
+"<html><head/><body><p>실행 전 명령어는 인스턴스 시작 전에 실행되며, 종료 후 명령어는 종료 이후에 "
+"실행됩니다.</p><p>둘 모두 다음의 환경 변수를 사용하여 런처의 실행중인 폴더에서 실행됩니다:</p><ul><li>$INST_NAME "
+"- 인스턴스 이름</li><li>$INST_ID - 인스턴스 ID (폴더명)</li><li>$INST_DIR - 인스턴스 절대 "
+"경로</li><li>$INST_MC_DIR - 마인크래프트 절대 경로</li><li>$INST_JAVA - 실행에 사용되는 java "
+"바이너리</li><li>$INST_JAVA_ARGS - 실행에 사용되는 명령줄 인자</li></ul><p>래퍼 명령어는 별도의 래퍼 "
+"프로그램을 이용한 실행을 가능케 합니다 (리눅스에서의 'optirun' 등)</p></body></html>"
+
+#: src/launcher/ui/pages/global/CustomCommandsPage.h:35
+msgctxt "CustomCommandsPage|"
+msgid "Custom Commands"
+msgstr "사용자 지정 명령어"
+
+#: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:69
+#, qt-format
+msgctxt "DirectJavaLaunch|"
+msgid "The wrapper command \"%1\" couldn't be found."
+msgstr "래퍼 명령어 \"%1\"을 찾을 수 없습니다."
+
+#. Error message displayed if instance can't start
+#: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:91
+msgctxt "DirectJavaLaunch|"
+msgid "Could not launch minecraft!"
+msgstr "마인크래프트를 실행할 수 없었습니다!"
+
+#: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:100
+#: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:110
+msgctxt "DirectJavaLaunch|"
+msgid "Game crashed."
+msgstr "게임이 튕겼습니다."
+
+#: src/launcher/ui/dialogs/EditAccountDialog.ui:14
+msgctxt "EditAccountDialog|"
+msgid "Login"
+msgstr "로그인"
+
+#: src/launcher/ui/dialogs/EditAccountDialog.ui:33
+msgctxt "EditAccountDialog|"
+msgid "Email"
+msgstr "이메일"
+
+#: src/launcher/ui/dialogs/EditAccountDialog.ui:43
+msgctxt "EditAccountDialog|"
+msgid "Password"
+msgstr "비밀번호"
+
+#: src/launcher/minecraft/auth/steps/EntitlementsStep.cpp:14
+msgctxt "EntitlementsStep|"
+msgid "Determining game ownership."
+msgstr "게임 소유권을 알아내는 중."
+
+#: src/launcher/minecraft/auth/steps/EntitlementsStep.cpp:52
+msgctxt "EntitlementsStep|"
+msgid "Got entitlements"
+msgstr "자격 얻는 중."
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.ui:14
+msgctxt "ExportInstanceDialog|"
+msgid "Export Instance"
+msgstr "인스턴스 내보내기"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:384
+#, qt-format
+msgctxt "ExportInstanceDialog|"
+msgid "Export %1"
+msgstr "%1 내보내기"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:393
+msgctxt "ExportInstanceDialog|"
+msgid "Overwrite?"
+msgstr "덮어쓸까요?"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:394
+msgctxt "ExportInstanceDialog|"
+msgid "This file already exists. Do you want to overwrite it?"
+msgstr "동일한 이름의 파일이 존재합니다. 덮어쓸까요?"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
+msgctxt "ExportInstanceDialog|"
+msgid "Error"
+msgstr "오류"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
+msgctxt "ExportInstanceDialog|"
+msgid "Unable to export instance"
+msgstr "인스턴스를 내보낼 수 없음"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:59
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:96
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:133
+msgctxt "ExternalToolsPage|"
+msgid "Check"
+msgstr "문제 여부 확인"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:150
+msgctxt "ExternalToolsPage|"
+msgid "External Editors (leave empty for system default)"
+msgstr "외부 편집기 (시스템 기본 편집기 사용시 빈칸으로 남겨두기)"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:159
+msgctxt "ExternalToolsPage|"
+msgid "Text Editor:"
+msgstr "텍스트 편집기:"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.h:37
+msgctxt "ExternalToolsPage|"
+msgid "External Tools"
+msgstr "외부 도구"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:90
+msgctxt "ExternalToolsPage|"
+msgid "JProfiler Folder"
+msgstr "JProfiler 폴더"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:98
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:113
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:135
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:150
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:176
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:191
+msgctxt "ExternalToolsPage|"
+msgid "Error"
+msgstr "오류"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:98
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:113
+#, qt-format
+msgctxt "ExternalToolsPage|"
+msgid ""
+"Error while checking JProfiler install:\n"
+"%1"
+msgstr ""
+"JProfiler 설치 확인 중 오류 발생:\n"
+"%1"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:154
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
+msgctxt "ExternalToolsPage|"
+msgid "OK"
+msgstr "확인"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
+msgctxt "ExternalToolsPage|"
+msgid "JProfiler setup seems to be OK"
+msgstr "JProfiler 설치가 정상인 것으로 보임"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:127
+msgctxt "ExternalToolsPage|"
+msgid "JVisualVM Executable"
+msgstr "JVisualVM 실행파일"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:135
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:150
+#, qt-format
+msgctxt "ExternalToolsPage|"
+msgid ""
+"Error while checking JVisualVM install:\n"
+"%1"
+msgstr ""
+"JVisualVM 설치 확인 중 오류 발생:\n"
+"%1"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:154
+msgctxt "ExternalToolsPage|"
+msgid "JVisualVM setup seems to be OK"
+msgstr "JVisualVM 설치가 정상인 것으로 보임"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:165
+msgctxt "ExternalToolsPage|"
+msgid "MCEdit Application"
+msgstr "MCEdit 프로그램"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:167
+msgctxt "ExternalToolsPage|"
+msgid "MCEdit Folder"
+msgstr "MCEdit 폴더"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:176
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:191
+#, qt-format
+msgctxt "ExternalToolsPage|"
+msgid ""
+"Error while checking MCEdit install:\n"
+"%1"
+msgstr ""
+"MCEdit 설치 확인 중 오류 발생:\n"
+"%1"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
+msgctxt "ExternalToolsPage|"
+msgid "MCEdit setup seems to be OK"
+msgstr "MCEdit 설치가 정상인것으로 보임"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:202
+msgctxt "ExternalToolsPage|"
+msgid "JSON Editor"
+msgstr "JSON 편집기"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:224
+msgctxt "ExternalToolsPage|"
+msgid "Invalid"
+msgstr "잘못됨"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:225
+msgctxt "ExternalToolsPage|"
+msgid "The file chosen does not seem to be an executable"
+msgstr "선택된 파일은 실행 가능한 파일이 아닌 듯 합니다"
+
+#: src/launcher/minecraft/launch/ExtractNatives.cpp:104
+#, qt-format
+msgctxt "ExtractNatives|"
+msgid "Couldn't extract native jar '%1' to destination '%2'"
+msgstr "네이티브 JAR '%1'을 '%2'로 추출하는 데에 실패하였습니다"
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:39
+msgctxt "FMLLibrariesTask|"
+msgid "Checking for FML libraries..."
+msgstr "FML 라이브러리들을 확인하고 있습니다..."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:63
+msgctxt "FMLLibrariesTask|"
+msgid "Downloading FML libraries..."
+msgstr "FML 라이브러리들을 다운로드하고 있습니다..."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:90
+msgctxt "FMLLibrariesTask|"
+msgid "Copying FML libraries into the instance..."
+msgstr "인스턴스에 FML 라이브러리들을 복사하고 있습니다..."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:101
+msgctxt "FMLLibrariesTask|"
+msgid "Failed creating FML library folder inside the instance."
+msgstr "인스턴스 안에 FML 라이브러리 폴더를 생성하는 데 실패했습니다."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:106
+#, qt-format
+msgctxt "FMLLibrariesTask|"
+msgid "Failed copying Forge/FML library: %1."
+msgstr "Forge/FML 라이브러리 복사 실패: %1."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:119
+#, qt-format
+msgctxt "FMLLibrariesTask|"
+msgid ""
+"Failed to download the following files:\n"
+"%1\n"
+"\n"
+"Reason:%2\n"
+"Please try again."
+msgstr ""
+"다음 파일들을 다운로드하는 데 실패했습니다:\n"
+"%1\n"
+"\n"
+"원인:%2\n"
+"다시 시도해 주십시오."
+
+#: src/launcher/modplatform/flame/FileResolvingTask.cpp:15
+msgctxt "Flame::FileResolvingTask|"
+msgid "Resolving mod IDs..."
+msgstr "모드 ID 처리중..."
+
+#: src/launcher/modplatform/flame/FileResolvingTask.cpp:61
+msgctxt "Flame::FileResolvingTask|"
+msgid "Some mod ID resolving tasks failed."
+msgstr "일부 모드 ID 처리 작업이 실패하였습니다."
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:52
+msgctxt "FlamePage|"
+msgid "Version selected:"
+msgstr "선택된 버전:"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:67
+msgctxt "FlamePage|"
+msgid "Search"
+msgstr "검색"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:74
+msgctxt "FlamePage|"
+msgid "Search and filter ..."
+msgstr "검색 및 필터..."
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.h:45
+msgctxt "FlamePage|"
+msgid "CurseForge"
+msgstr "CurseForge"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:25
+msgctxt "FlamePage|"
+msgid "Sort by featured"
+msgstr "인기순 정렬"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:26
+msgctxt "FlamePage|"
+msgid "Sort by popularity"
+msgstr "인기순 정렬"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:27
+msgctxt "FlamePage|"
+msgid "Sort by last updated"
+msgstr "업데이트순 정렬"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:28
+msgctxt "FlamePage|"
+msgid "Sort by name"
+msgstr "이름순 정렬"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:29
+msgctxt "FlamePage|"
+msgid "Sort by author"
+msgstr "작성자순 정렬"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:30
+msgctxt "FlamePage|"
+msgid "Sort by total downloads"
+msgstr "다운로드 수순 정렬"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:103
+msgctxt "FlamePage|"
+msgid " by "
+msgstr " 제작자 "
+
+#: src/launcher/minecraft/update/FoldersTask.cpp:17
+msgctxt "FoldersTask|"
+msgid "Failed to create folder for minecraft binaries."
+msgstr "마인크래프트 바이너리 폴더를 생성할 수 없습니다."
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:29
+msgctxt "Ftb::FilterModel|"
+msgid "Sort by plays"
+msgstr "플레이 수로 정렬"
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:30
+msgctxt "Ftb::FilterModel|"
+msgid "Sort by installs"
+msgstr "설치 수로 정렬"
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:31
+msgctxt "Ftb::FilterModel|"
+msgid "Sort by name"
+msgstr "이름순 정렬"
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbPage.ui:22
+msgctxt "FtbPage|"
+msgid "Version selected:"
+msgstr "선택된 버전:"
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbPage.ui:37
+msgctxt "FtbPage|"
+msgid "Search and filter ..."
+msgstr "검색 및 필터..."
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbPage.h:43
+msgctxt "FtbPage|"
+msgid "FTB"
+msgstr "FTB"
+
+#: src/launcher/minecraft/gameoptions/GameOptions.cpp:82
+msgctxt "GameOptions|"
+msgid "Key"
+msgstr "키"
+
+#: src/launcher/minecraft/gameoptions/GameOptions.cpp:84
+msgctxt "GameOptions|"
+msgid "Value"
+msgstr "값"
+
+#: src/launcher/ui/pages/instance/GameOptionsPage.h:45
+msgctxt "GameOptionsPage|"
+msgid "Game Options"
+msgstr "게임 옵션들"
+
+#: src/launcher/minecraft/World.cpp:69
+msgctxt "GameType|"
+msgid "Survival"
+msgstr "서바이벌"
+
+#: src/launcher/minecraft/World.cpp:71
+msgctxt "GameType|"
+msgid "Creative"
+msgstr "크리에이티브"
+
+#: src/launcher/minecraft/World.cpp:73
+msgctxt "GameType|"
+msgid "Adventure"
+msgstr "모험"
+
+#: src/launcher/minecraft/World.cpp:75
+msgctxt "GameType|"
+msgid "Spectator"
+msgstr "관전자"
+
+#: src/launcher/minecraft/World.cpp:80
+#, qt-format
+msgctxt "GameType|"
+msgid "Unknown (%1)"
+msgstr "알 수 없음 (%1)"
+
+#: src/launcher/minecraft/World.cpp:82
+msgctxt "GameType|"
+msgid "Undefined"
+msgstr "정의되지 않음"
+
+#: src/launcher/minecraft/auth/steps/GetSkinStep.cpp:16
+msgctxt "GetSkinStep|"
+msgid "Getting skin."
+msgstr "스킨 가져오는 중."
+
+#: src/launcher/minecraft/auth/steps/GetSkinStep.cpp:42
+msgctxt "GetSkinStep|"
+msgid "Got skin"
+msgstr "스킨 가져오기"
+
+#: src/launcher/updater/DownloadTask.cpp:48
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Loading version information..."
+msgstr "버전 정보 불러오는 중..."
+
+#: src/launcher/updater/DownloadTask.cpp:85
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Failed to download version info files."
+msgstr "버전 정보 파일을 다운로드하는 데 실패했습니다."
+
+#: src/launcher/updater/DownloadTask.cpp:93
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Reading file list for new version..."
+msgstr "새 버전에 대한 파일 목록 읽는 중..."
+
+#: src/launcher/updater/DownloadTask.cpp:106
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Reading file list for current version..."
+msgstr "해당 버전에 대한 파일 목록 읽는 중..."
+
+#: src/launcher/updater/DownloadTask.cpp:121
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Processing file lists - figuring out how to install the update..."
+msgstr "파일 목록 처리중 - 업데이트를 어떻게 설치하는 지 알아내는 중..."
+
+#: src/launcher/updater/DownloadTask.cpp:129
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Failed to process update lists..."
+msgstr "업데이트 목록 처리에 실패하였습니다..."
+
+#: src/launcher/updater/DownloadTask.cpp:140
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Downloading one update file."
+msgstr "업데이트 파일을 하나 다운로드 하는 중."
+
+#: src/launcher/updater/DownloadTask.cpp:144
+#, qt-format
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Downloading %1 update files."
+msgstr "%1 업데이트 파일들을 다운로드 하는 중."
+
+#: src/launcher/updater/DownloadTask.cpp:159
+#, qt-format
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Failed to download update files: %1"
+msgstr "다음의 업데이트 파일들을 다운로드하는 데 실패하였습니다: %1"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.ui:14
+msgctxt "IconPickerDialog|"
+msgid "Pick icon"
+msgstr "아이콘 선택"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:65
+msgctxt "IconPickerDialog|"
+msgid "Add Icon"
+msgstr "아이콘 추가"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:66
+msgctxt "IconPickerDialog|"
+msgid "Remove Icon"
+msgstr "아이콘 제거"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:75
+msgctxt "IconPickerDialog|"
+msgid "Open Folder"
+msgstr "폴더 보기"
+
+#. The title of the select icons open file dialog
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:105
+msgctxt "IconPickerDialog|"
+msgid "Select Icons"
+msgstr "아이콘 선택"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:108
+#, qt-format
+msgctxt "IconPickerDialog|"
+msgid "Icons %1"
+msgstr "아이콘(들) %1"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.ui:17
+msgctxt "ImportPage|"
+msgid "Browse"
+msgstr "탐색하기"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.ui:31
+msgctxt "ImportPage|"
+msgid "Local file or link to a direct download:"
+msgstr "로컬 파일 또는 다운로드 링크:"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.h:40
+msgctxt "ImportPage|"
+msgid "Import from zip"
+msgstr "Zip으로부터 읽어들이기"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.cpp:106
+msgctxt "ImportPage|"
+msgid "Choose modpack"
+msgstr "모드팩 선택"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.cpp:106
+msgctxt "ImportPage|"
+msgid "Zip (*.zip)"
+msgstr "Zip 압축파일 (*.zip)"
+
+#: src/launcher/meta/Index.cpp:71
+#, fuzzy
+msgctxt "Index|"
+msgid "Name"
+msgstr "이름"
+
+#: src/launcher/ui/widgets/InstanceCardWidget.ui:27
+msgctxt "InstanceCardWidget|"
+msgid "&Name:"
+msgstr "이름 (&N):"
+
+#: src/launcher/ui/widgets/InstanceCardWidget.ui:40
+msgctxt "InstanceCardWidget|"
+msgid "&Group:"
+msgstr "그룹 (&G):"
+
+#: src/launcher/InstanceCopyTask.cpp:24
+#, qt-format
+msgctxt "InstanceCopyTask|"
+msgid "Copying instance %1"
+msgstr "인스턴스 %1 복사 중"
+
+#: src/launcher/InstanceCopyTask.cpp:40
+msgctxt "InstanceCopyTask|"
+msgid "Instance folder copy failed."
+msgstr "인스턴스 폴더 복사에 실패했습니다."
+
+#: src/launcher/InstanceCopyTask.cpp:58
+msgctxt "InstanceCopyTask|"
+msgid "Instance folder copy has been aborted."
+msgstr "인스턴스 폴더 복사가 중지됐습니다."
+
+#: src/launcher/InstanceCreationTask.cpp:16
+#, qt-format
+msgctxt "InstanceCreationTask|"
+msgid "Creating instance from version %1"
+msgstr "버전 %1으로부터 인스턴스 생성 중"
+
+#: src/launcher/InstanceImportTask.cpp:52
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid ""
+"Downloading modpack:\n"
+"%1"
+msgstr ""
+"모드팩 다운로드 중:\n"
+"%1"
+
+#: src/launcher/InstanceImportTask.cpp:58
+msgctxt "InstanceImportTask|"
+msgid "Modpack download"
+msgstr "모드팩 다운로드"
+
+#: src/launcher/InstanceImportTask.cpp:88
+msgctxt "InstanceImportTask|"
+msgid "Extracting modpack"
+msgstr "모드팩 추출 중"
+
+#: src/launcher/InstanceImportTask.cpp:96
+msgctxt "InstanceImportTask|"
+msgid "Unable to open supplied modpack zip file."
+msgstr "모드팩 압축 파일을 열 수 없음."
+
+#: src/launcher/InstanceImportTask.cpp:129
+#: src/launcher/InstanceImportTask.cpp:193
+msgctxt "InstanceImportTask|"
+msgid "Archive does not contain a recognized modpack type."
+msgstr "압축 파일이 인식 가능한 모드팩을 가지고 있지 않음."
+
+#: src/launcher/InstanceImportTask.cpp:145
+msgctxt "InstanceImportTask|"
+msgid "Failed to extract modpack"
+msgstr "모드팩 추출 실패"
+
+#: src/launcher/InstanceImportTask.cpp:172
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "Could not fix permissions for %1"
+msgstr "%1에 대한 권한 문제를 해결하지 못함"
+
+#: src/launcher/InstanceImportTask.cpp:200
+msgctxt "InstanceImportTask|"
+msgid "Instance import has been aborted."
+msgstr "인스턴스 읽어들이기가 중단되었습니다."
+
+#: src/launcher/InstanceImportTask.cpp:221
+msgctxt "InstanceImportTask|"
+msgid "Could not understand pack manifest:\n"
+msgstr "팩 manifest를 해석하지 못함:\n"
+
+#: src/launcher/InstanceImportTask.cpp:232
+msgctxt "InstanceImportTask|"
+msgid "Could not rename the overrides folder:\n"
+msgstr "덮어쓰는 폴더를 이름 바꾸지 못함:\n"
+
+#: src/launcher/InstanceImportTask.cpp:238
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid ""
+"The specified overrides folder (%1) is missing. Maybe the modpack was "
+"already used before?"
+msgstr "지정된 덮어쓸 폴더 (%1)이 존재하지 않습니다. 이미 모드팩이 쓰였을지도요?"
+
+#: src/launcher/InstanceImportTask.cpp:259
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "Unknown mod loader in manifest: %1"
+msgstr "Manifest의 알 수 없는 모드 로더 오류: %1"
+
+#: src/launcher/InstanceImportTask.cpp:272
+msgctxt "InstanceImportTask|"
+msgid ""
+"Mysterious trailing dots removed from Minecraft version while importing pack."
+msgstr "읽어들이는 중 마인크래프트 버전에 있는 먼지를 청소했습니다."
+
+#: src/launcher/InstanceImportTask.cpp:288
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "Could not map recommended forge version for Minecraft %1"
+msgstr "마인크래프트 %1에 권장되는 포지 버전을 결정하지 못하였습니다"
+
+#: src/launcher/InstanceImportTask.cpp:340
+msgctxt "InstanceImportTask|"
+msgid "Mod download"
+msgstr "모드 다운로드"
+
+#: src/launcher/InstanceImportTask.cpp:356
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "This 'Folder' may need extracting: %1"
+msgstr "이 '폴더'는 추출을 필요로 할 지도 모릅니다: %1"
+
+#: src/launcher/InstanceImportTask.cpp:368
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid ""
+"Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1"
+msgstr "중첩된 구조, 즉 모드팩 안의 모드팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1"
+
+#: src/launcher/InstanceImportTask.cpp:373
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "Unrecognized/unhandled PackageType for: %1"
+msgstr "인식불가/사용불가인 패키지 유형(PackageType) 으로 나타남: %1"
+
+#: src/launcher/InstanceImportTask.cpp:393
+msgctxt "InstanceImportTask|"
+msgid "Downloading mods..."
+msgstr "모드 다운로드 중..."
+
+#: src/launcher/InstanceImportTask.cpp:400
+msgctxt "InstanceImportTask|"
+msgid "Unable to resolve mod IDs:\n"
+msgstr "모드 ID 처리 실패:\n"
+
+#: src/launcher/InstanceList.cpp:150
+#, qt-format
+msgctxt "InstanceList|"
+msgid "%1 Instance"
+msgstr "%1 인스턴스"
+
+#: src/launcher/InstancePageProvider.h:40
+msgctxt "InstancePageProvider|"
+msgid "Loader mods"
+msgstr "로더 모드(들)"
+
+#: src/launcher/InstancePageProvider.h:43
+msgctxt "InstancePageProvider|"
+msgid "Core mods"
+msgstr "코어 모드(들)"
+
+#: src/launcher/InstancePageProvider.h:72
+#, qt-format
+msgctxt "InstancePageProvider|"
+msgid "Edit Instance (%1)"
+msgstr "인스턴스 편집 (%1)"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:29
+msgctxt "InstanceSettingsPage|"
+msgid "Open Global Settings"
+msgstr "전역 설정 열기"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:32
+msgctxt "InstanceSettingsPage|"
+msgid "The settings here are overrides for global settings."
+msgstr "이곳의 설정들은 전역 설정을 오버라이딩합니다."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:55
+msgctxt "InstanceSettingsPage|"
+msgid "Java insta&llation"
+msgstr "자바 설치본 (&L)"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:70
+msgctxt "InstanceSettingsPage|"
+msgid "Auto-detect..."
+msgstr "자동 감지..."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:77
+msgctxt "InstanceSettingsPage|"
+msgid "Browse..."
+msgstr "탐색..."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:84
+msgctxt "InstanceSettingsPage|"
+msgid "Test"
+msgstr "테스트"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:97
+msgctxt "InstanceSettingsPage|"
+msgid "Memor&y"
+msgstr "메모리 (&Y)"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:109
+msgctxt "InstanceSettingsPage|"
+msgid "Minimum memory allocation:"
+msgstr "메모리 최소 할당량:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:116
+msgctxt "InstanceSettingsPage|"
+msgid "The maximum amount of memory Minecraft is allowed to use."
+msgstr "마인크래프트에 할당된 사용 가능한 최대 메모리입니다."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:138
+msgctxt "InstanceSettingsPage|"
+msgid "The amount of memory Minecraft is started with."
+msgstr "마인크래프트는 이 용량의 메모리를 할당받고 실행됩니다."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:160
+msgctxt "InstanceSettingsPage|"
+msgid "The amount of memory available to store loaded Java classes."
+msgstr "로드된 자바 클래스를 저장하는 데에 사용 가능한 메모리입니다."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:189
+msgctxt "InstanceSettingsPage|"
+msgid "Maximum memory allocation:"
+msgstr "메모리 최대 할당량:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:196
+msgctxt "InstanceSettingsPage|"
+msgid "Note: Permgen is set automatically by Java 8 and later"
+msgstr "참고: 펌젠(Permgen) 은 자바 8 이상일 경우 자동설정됩니다"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:209
+msgctxt "InstanceSettingsPage|"
+msgid "Java argumen&ts"
+msgstr "자바 명령행 인자 (&T)"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:228
+msgctxt "InstanceSettingsPage|"
+msgid "Game windows"
+msgstr "게임 창(들)"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:237
+msgctxt "InstanceSettingsPage|"
+msgid "Game Window"
+msgstr "게임 창"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:249
+msgctxt "InstanceSettingsPage|"
+msgid "Start Minecraft maximized?"
+msgstr "마인크래프트를 최대화된 상태로 시작할까요?"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:258
+msgctxt "InstanceSettingsPage|"
+msgid "Window height:"
+msgstr "창 높이:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:265
+msgctxt "InstanceSettingsPage|"
+msgid "Window width:"
+msgstr "창 너비:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:309
+msgctxt "InstanceSettingsPage|"
+msgid "Conso&le Settings"
+msgstr "콘솔 설정 (&L)"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:321
+msgctxt "InstanceSettingsPage|"
+msgid "Show console while the game is running?"
+msgstr "게임이 실행 중일때도 콘솔을 표시할까요?"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:328
+msgctxt "InstanceSettingsPage|"
+msgid "Automatically close console when the game quits?"
+msgstr "게임 종료시 콘솔을 자동으로 닫을까요?"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:335
+msgctxt "InstanceSettingsPage|"
+msgid "Show console when the game crashes?"
+msgstr "게임이 충돌했을 때도 콘솔을 표시할까요?"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:359
+msgctxt "InstanceSettingsPage|"
+msgid "Custom commands"
+msgstr "사용자 정의 명령어들"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:369
+msgctxt "InstanceSettingsPage|"
+msgid "Workarounds"
+msgstr "해결책"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:378
+msgctxt "InstanceSettingsPage|"
+msgid "Native libraries"
+msgstr "네이티브 라이브러리"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:390
+msgctxt "InstanceSettingsPage|"
+msgid "Use system installation of GLFW"
+msgstr "시스템에 설치되어 있는 GLFW 사용하기"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:397
+msgctxt "InstanceSettingsPage|"
+msgid "Use system installation of OpenAL"
+msgstr "시스템에 설치되어 있는 OpenAL 사용하기"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:421
+msgctxt "InstanceSettingsPage|"
+msgid "Miscellaneous"
+msgstr "기타"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:430
+msgctxt "InstanceSettingsPage|"
+msgid "Override global game time settings"
+msgstr "전역 게임 시간 설정을 오버라이드"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:442
+msgctxt "InstanceSettingsPage|"
+msgid "Show time spent playing this instance"
+msgstr "인스턴스에서 플레이 한 시간 보기"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:449
+msgctxt "InstanceSettingsPage|"
+msgid "Record time spent playing this instance"
+msgstr "인스턴스에서 플레이 한 시간 기록"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:459
+msgctxt "InstanceSettingsPage|"
+msgid "Set a server to join on launch"
+msgstr "실행 후 바로 접속 할 서버 설정"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:479
+msgctxt "InstanceSettingsPage|"
+msgid "Server address:"
+msgstr "서버 주소:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.h:42
+msgctxt "InstanceSettingsPage|"
+msgid "Settings"
+msgstr "설정"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.cpp:284
+msgctxt "InstanceSettingsPage|"
+msgid "Select a Java version"
+msgstr "자바 버전을 선택하세요"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.cpp:302
+msgctxt "InstanceSettingsPage|"
+msgid "Find Java executable"
+msgstr "자바 실행 파일 찾기"
+
+#: src/launcher/InstanceList.cpp:832
+msgctxt "InstanceStaging|"
+msgid ""
+"Failed to commit instance, even after multiple retries. It is being blocked "
+"by something."
+msgstr "여러 번의 시도에도 인스턴스를 수정 할 수 없었습니다. 무엇인가에 의해 막힌 것 같습니다."
+
+#: src/launcher/ui/InstanceWindow.cpp:40
+msgctxt "InstanceWindow|"
+msgid "Console window for "
+msgstr "콘솔창 "
+
+#: src/launcher/ui/InstanceWindow.cpp:64
+msgctxt "InstanceWindow|"
+msgid "Help"
+msgstr "도움말"
+
+#: src/launcher/ui/InstanceWindow.cpp:77
+msgctxt "InstanceWindow|"
+msgid "Launch Offline"
+msgstr "오프라인으로 실행"
+
+#: src/launcher/ui/InstanceWindow.cpp:82
+msgctxt "InstanceWindow|"
+msgid "Close"
+msgstr "닫기"
+
+#: src/launcher/ui/InstanceWindow.cpp:126
+msgctxt "InstanceWindow|"
+msgid "Kill"
+msgstr "강제 종료"
+
+#: src/launcher/ui/InstanceWindow.cpp:128
+msgctxt "InstanceWindow|"
+msgid "Kill the running instance"
+msgstr "실행중인 인스턴스 강제 종료"
+
+#: src/launcher/ui/InstanceWindow.cpp:133
+#: src/launcher/ui/InstanceWindow.cpp:141
+msgctxt "InstanceWindow|"
+msgid "Launch"
+msgstr "실행"
+
+#: src/launcher/ui/InstanceWindow.cpp:135
+#: src/launcher/ui/InstanceWindow.cpp:143
+msgctxt "InstanceWindow|"
+msgid "Launch the instance"
+msgstr "선택한 인스턴스를 실행합니다"
+
+#: src/launcher/tools/JProfiler.cpp:34
+#, qt-format
+msgctxt "JProfiler|"
+msgid "Listening on port: %1"
+msgstr "다음 포트에서 수신중: %1"
+
+#: src/launcher/tools/JProfiler.cpp:41
+msgctxt "JProfiler|"
+msgid "Profiler aborted"
+msgstr "프로파일러 중단됨"
+
+#: src/launcher/tools/JVisualVM.cpp:32
+msgctxt "JVisualVM|"
+msgid "JVisualVM started"
+msgstr "JVisualVM 시작됨"
+
+#: src/launcher/tools/JVisualVM.cpp:39
+msgctxt "JVisualVM|"
+msgid "Profiler aborted"
+msgstr "프로파일러 중단됨"
+
+#: src/launcher/java/JavaInstallList.cpp:147
+msgctxt "JavaListLoadTask|"
+msgid "Detecting Java installations..."
+msgstr "자바 설치본들을 감지하는 중..."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:45
+msgctxt "JavaPage|"
+msgid "Memory"
+msgstr "메모리"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:51
+msgctxt "JavaPage|"
+msgid "The maximum amount of memory Minecraft is allowed to use."
+msgstr "마인크래프트에 할당된 사용 가능한 최대 메모리입니다."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:73
+msgctxt "JavaPage|"
+msgid "Minimum memory allocation:"
+msgstr "메모리 최소 할당량:"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:80
+msgctxt "JavaPage|"
+msgid "Maximum memory allocation:"
+msgstr "메모리 최대 할당량:"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:87
+msgctxt "JavaPage|"
+msgid "The amount of memory Minecraft is started with."
+msgstr "마인크래프트는 이 용량의 메모리를 할당받고 실행됩니다."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:116
+msgctxt "JavaPage|"
+msgid "The amount of memory available to store loaded Java classes."
+msgstr "로드된 자바 클래스를 저장하는 데에 사용 가능한 메모리입니다."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:141
+msgctxt "JavaPage|"
+msgid "Java Runtime"
+msgstr "자바 런타임"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:153
+msgctxt "JavaPage|"
+msgid "Java path:"
+msgstr "자바 경로:"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:195
+msgctxt "JavaPage|"
+msgid "JVM arguments:"
+msgstr "JVM 명령줄 인수:"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:208
+msgctxt "JavaPage|"
+msgid "Auto-detect..."
+msgstr "자동감지..."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:221
+msgctxt "JavaPage|"
+msgid "Test"
+msgstr "테스트"
+
+#: src/launcher/ui/pages/global/JavaPage.h:42
+msgctxt "JavaPage|"
+msgid "Java"
+msgstr "자바"
+
+#: src/launcher/ui/pages/global/JavaPage.cpp:107
+msgctxt "JavaPage|"
+msgid "Select a Java version"
+msgstr "자바 버전을 선택하세요"
+
+#: src/launcher/ui/pages/global/JavaPage.cpp:120
+msgctxt "JavaPage|"
+msgid "Find Java executable"
+msgstr "자바 실행파일 찾기"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:151
+msgctxt "JavaSettingsWidget|"
+msgid "No Java version selected"
+msgstr "자바 버전이 선택되지 않음"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:152
+#, qt-format
+msgctxt "JavaSettingsWidget|"
+msgid ""
+"You didn't select a Java version or selected something that doesn't work.\n"
+"%1 will not be able to start Minecraft.\n"
+"Do you wish to proceed without any Java?\n"
+"\n"
+"You can change the Java version in the settings later.\n"
+msgstr ""
+"자바 버전을 선택하지 않았거나 작동하지 않는 것을 선택하셨습니다.\n"
+"%1는 마인크래프트를 시작할 수 없습니다.\n"
+"자바 선택 없이 계속하시겠습니까?\n"
+"\n"
+"자바 버전은 이후 설정에서 수정 가능합니다.\n"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:265
+msgctxt "JavaSettingsWidget|"
+msgid "Find Java executable"
+msgstr "자바 실행파일 찾기"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:425
+msgctxt "JavaSettingsWidget|"
+msgid "Memory"
+msgstr "메모리"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:426
+msgctxt "JavaSettingsWidget|"
+msgid "The maximum amount of memory Minecraft is allowed to use."
+msgstr "마인크래프트에 할당된 사용 가능한 최대 메모리입니다."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:427
+msgctxt "JavaSettingsWidget|"
+msgid "Minimum memory allocation:"
+msgstr "메모리 최소 할당량:"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:428
+msgctxt "JavaSettingsWidget|"
+msgid "Maximum memory allocation:"
+msgstr "메모리 최대 할당량:"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:429
+msgctxt "JavaSettingsWidget|"
+msgid "The amount of memory Minecraft is started with."
+msgstr "마인크래프트는 이 용량의 메모리를 할당받고 실행됩니다."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:430
+msgctxt "JavaSettingsWidget|"
+msgid "The amount of memory available to store loaded Java classes."
+msgstr "로드된 자바 클래스를 저장하는 데에 사용 가능한 메모리입니다."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:431
+msgctxt "JavaSettingsWidget|"
+msgid "Browse"
+msgstr "탐색하기"
+
+#: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
+msgctxt "JavaWizardPage|"
+msgid "Java"
+msgstr "자바"
+
+#: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
+msgctxt "JavaWizardPage|"
+msgid ""
+"You do not have a working Java set up yet or it went missing.\n"
+"Please select one of the following or browse for a java executable."
+msgstr ""
+"실행 가능한 자바가 아직 선택되지 않았거나 설정이 분실되었을 수 있습니다.\n"
+"다음 중에 선택하거나 자바 실행파일을 찾아보십시오."
+
+#: src/launcher/ui/pages/global/LanguagePage.h:35
+msgctxt "LanguagePage|"
+msgid "Language"
+msgstr "언어"
+
+#: src/launcher/ui/widgets/LanguageSelectionWidget.cpp:54
+#, qt-format
+msgctxt "LanguageSelectionWidget|"
+msgid ""
+"Don't see your language or the quality is poor?<br/><a href=\"%1\">Help us "
+"with translations!</a>"
+msgstr "당신의 언어가 지원되지 않거나 번역의 질이 좋지 않나요?<br/><a href=\"%1\">번역 작업을 도와주세요!</a>"
+
+#: src/launcher/ui/setupwizard/LanguageWizardPage.cpp:46
+msgctxt "LanguageWizardPage|"
+msgid "Language"
+msgstr "언어"
+
+#: src/launcher/ui/setupwizard/LanguageWizardPage.cpp:47
+#, qt-format
+msgctxt "LanguageWizardPage|"
+msgid "Select the language to use in %1"
+msgstr "%1에서 쓸 언어를 선택하십시오"
+
+#: src/launcher/LaunchController.cpp:35
+msgctxt "LaunchController|"
+msgid "No instance specified!"
+msgstr "선택한 인스턴스 없음!"
+
+#: src/launcher/LaunchController.cpp:57
+msgctxt "LaunchController|"
+msgid "No Accounts"
+msgstr "계정 없음"
+
+#: src/launcher/LaunchController.cpp:58
+msgctxt "LaunchController|"
+msgid ""
+"In order to play Minecraft, you must have at least one Mojang or Minecraft "
+"account logged in.Would you like to open the account manager to add an "
+"account now?"
+msgstr ""
+"마인크래프트를 이용하시려면, 반드시 최소 하나 이상의 모장 또는 마인크래프트 계정으로 로그인해야합니다. 계정 추가를 위해 계정 관리자를 "
+"여시겠습니까?"
+
+#: src/launcher/LaunchController.cpp:77
+msgctxt "LaunchController|"
+msgid "Which account would you like to use?"
+msgstr "어떤 계정을 사용하시겠습니까?"
+
+#: src/launcher/LaunchController.cpp:101
+msgctxt "LaunchController|"
+msgid "No account selected for launch."
+msgstr "실행에 사용될 계정이 선택되지 않음."
+
+#: src/launcher/LaunchController.cpp:110
+msgctxt "LaunchController|"
+msgid ""
+"Your account is currently not logged in. Please enter your password to log "
+"in again. <br /> <br /> This could be caused by a password change."
+msgstr ""
+"당신의 계정이 로그인 되어있지 않습니다. 다시 로그인하기 위해 비밀번호를 입력하세요. <br /><br /> 이것은 비밀번호 변경에 의해 "
+"발생할 수 있습니다."
+
+#: src/launcher/LaunchController.cpp:131
+msgctxt "LaunchController|"
+msgid "Player name"
+msgstr "플레이어 이름"
+
+#: src/launcher/LaunchController.cpp:132
+msgctxt "LaunchController|"
+msgid "Choose your offline mode player name."
+msgstr "오프라인 모드에서의 플레이어 이름을 고르세요."
+
+#: src/launcher/LaunchController.cpp:160
+msgctxt "LaunchController|"
+msgid "Received undetermined session status during login."
+msgstr "로그인 과정에서 불분명한 세션 상태를 수신함."
+
+#: src/launcher/LaunchController.cpp:171
+msgctxt "LaunchController|"
+msgid "Play demo?"
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:172
+msgctxt "LaunchController|"
+msgid ""
+"This account does not own Minecraft.\n"
+"You need to purchase the game first to play it.\n"
+"\n"
+"Do you want to play the demo?"
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:174
+msgctxt "LaunchController|"
+msgid "Play Demo"
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:175
+msgctxt "LaunchController|"
+msgid "Cancel"
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:185
+msgctxt "LaunchController|"
+msgid "Launch cancelled - account does not own Minecraft."
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:201
+msgctxt "LaunchController|"
+msgid "Play Offline"
+msgstr "오프라인으로 실행"
+
+#: src/launcher/LaunchController.cpp:214
+msgctxt "LaunchController|"
+msgid "The account has expired and needs to be logged into manually again."
+msgstr "계정이 만료되었으므로 수동으로 다시 로그인해야 합니다."
+
+#: src/launcher/LaunchController.cpp:217
+msgctxt "LaunchController|"
+msgid "Account refresh failed"
+msgstr "계정 리셋 실패"
+
+#: src/launcher/LaunchController.cpp:226
+msgctxt "LaunchController|"
+msgid ""
+"The account no longer exists on the servers. It may have been migrated, in "
+"which case please add the new account you migrated this one to."
+msgstr "계정이 서버에 더 이상 존재하지 않습니다. 마이그레이션되었을 수 있으므로 마이그레이션된 새 계정을 추가하십시오."
+
+#: src/launcher/LaunchController.cpp:229
+msgctxt "LaunchController|"
+msgid "Account gone"
+msgstr "계정이 없어짐"
+
+#: src/launcher/LaunchController.cpp:239
+msgctxt "LaunchController|"
+msgid "Failed to launch."
+msgstr "실행에 실패하였습니다."
+
+#: src/launcher/LaunchController.cpp:249 src/launcher/LaunchController.cpp:321
+msgctxt "LaunchController|"
+msgid "Error!"
+msgstr "오류!"
+
+#: src/launcher/LaunchController.cpp:249 src/launcher/LaunchController.cpp:250
+msgctxt "LaunchController|"
+msgid "Couldn't load the instance profile."
+msgstr "인스턴스 프로필을 불러오는 데 실패하였습니다."
+
+#: src/launcher/LaunchController.cpp:257
+msgctxt "LaunchController|"
+msgid "Couldn't instantiate a launcher."
+msgstr "런처를 인스턴스화하지 못하였습니다."
+
+#: src/launcher/LaunchController.cpp:321
+#, qt-format
+msgctxt "LaunchController|"
+msgid "Couldn't start profiler: %1"
+msgstr "프로파일러를 시작할 수 없었습니다: %1"
+
+#: src/launcher/LaunchController.cpp:330
+#, qt-format
+msgctxt "LaunchController|"
+msgid ""
+"The game launch is delayed until you press the button. This is the right "
+"time to setup the profiler, as the profiler server is running now.\n"
+"\n"
+"%1"
+msgstr ""
+"게임 실행은 버튼을 누를 때까지 지연됩니다. 프로파일러 서버가 현재 실행 중이므로 지금이 프로파일러를 설정하기에 적합한 시점입니다.\n"
+"\n"
+"%1"
+
+#: src/launcher/LaunchController.cpp:333
+msgctxt "LaunchController|"
+msgid "Waiting."
+msgstr "대기중."
+
+#: src/launcher/LaunchController.cpp:335
+msgctxt "LaunchController|"
+msgid "Launch"
+msgstr "실행"
+
+#: src/launcher/LaunchController.cpp:343
+#, qt-format
+msgctxt "LaunchController|"
+msgid "Couldn't start the profiler: %1"
+msgstr "프로파일러를 시작할 수 없었습니다: %1"
+
+#: src/launcher/LaunchController.cpp:344
+msgctxt "LaunchController|"
+msgid "Error"
+msgstr "오류"
+
+#: src/launcher/LaunchController.cpp:372
+msgctxt "LaunchController|"
+msgid "Abort"
+msgstr "강제 종료"
+
+#: src/launcher/LaunchController.cpp:388
+msgctxt "LaunchController|"
+msgid "Kill Minecraft?"
+msgstr "마인크래프트를 강제 종료할까요?"
+
+#: src/launcher/LaunchController.cpp:389
+msgctxt "LaunchController|"
+msgid ""
+"This can cause the instance to get corrupted and should only be used if "
+"Minecraft is frozen for some reason"
+msgstr "경고: 이는 인스턴스가 손상되게 할 수 있으며, 마인크래프트가 어떤 이유에서인지 응답하지 않을 때에만 사용되어야 합니다"
+
+#: src/launcher/launch/LaunchTask.cpp:215
+#, fuzzy, qt-format
+#| msgid ""
+#| "MultiMC stopped watching the game log because the log length surpassed %1 "
+#| "lines.\n"
+#| "You may have to fix your mods because the game is still logging to files "
+#| "and likely wasting harddrive space at an alarming rate!"
+msgctxt "LaunchTask|"
+msgid ""
+"PolyMC stopped watching the game log because the log length surpassed %1 "
+"lines.\n"
+"You may have to fix your mods because the game is still logging to files and "
+"likely wasting harddrive space at an alarming rate!"
+msgstr ""
+"MultiMC는 로그 길이가 %1 줄을 넘었기에 게임 로그 감시를 중단하였습니다.\n"
+"게임은 여전히 로그를 작성 중이며 (아마도) 저장 공간을 매우 빠르게 잡아먹고 있기에 모드를 손 볼 필요가 있는 것 같습니다!"
+
+#: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:16
+msgctxt "LauncherLoginStep|"
+msgid "Accessing Mojang services."
+msgstr "Mojang 서비스에 접속하는 중."
+
+#: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:61
+#, qt-format
+msgctxt "LauncherLoginStep|"
+msgid "Failed to get Minecraft access token: %1"
+msgstr "마인크래프트 액세스 토큰을 가져오지 못했습니다: %1"
+
+#: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:73
+msgctxt "LauncherLoginStep|"
+msgid "Failed to parse the Minecraft access token response."
+msgstr "마인크래프트 액세스 토큰 응답을 분석하지 못했습니다."
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:45
+msgctxt "LauncherPage|"
+msgid "Features"
+msgstr "기능"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:51
+msgctxt "LauncherPage|"
+msgid "Update Settings"
+msgstr "업데이트 설정"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:57
+msgctxt "LauncherPage|"
+msgid "Check for updates on start?"
+msgstr "시작 시 업데이트 확인하시겠습니까?"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:64
+msgctxt "LauncherPage|"
+msgid "Up&date Channel:"
+msgstr "업데이트 채널(&D):"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:81
+msgctxt "LauncherPage|"
+msgid "No channel selected."
+msgstr "선택된 채널이 없습니다."
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:94
+msgctxt "LauncherPage|"
+msgid "Folders"
+msgstr "폴더"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:100
+msgctxt "LauncherPage|"
+msgid "I&nstances:"
+msgstr "인스턴스 (&N):"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:120
+msgctxt "LauncherPage|"
+msgid "&Mods:"
+msgstr "모드 (&M):"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:143
+msgctxt "LauncherPage|"
+msgid "&Icons:"
+msgstr "아이콘 (&I):"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:163
+msgctxt "LauncherPage|"
+msgid "Move the data to new location (will restart the launcher)"
+msgstr "새로운 경로로 이동 (재시작 필요)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:184
+msgctxt "LauncherPage|"
+msgid "User Interface"
+msgstr "사용자 인터페이스"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:190
+msgctxt "LauncherPage|"
+msgid "Launcher notifications"
+msgstr "런처 알림"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:196
+msgctxt "LauncherPage|"
+msgid "Reset hidden notifications"
+msgstr "숨겨진 알림 초기화"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:212
+msgctxt "LauncherPage|"
+msgid "Instance view sorting mode"
+msgstr "인스턴스 보기 정렬 모드"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:218
+msgctxt "LauncherPage|"
+msgid "By &last launched"
+msgstr "최근 실행 순 (&L)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:228
+msgctxt "LauncherPage|"
+msgid "By &name"
+msgstr "이름순 (&N)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:241
+msgctxt "LauncherPage|"
+msgid "Theme"
+msgstr "테마"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:247
+msgctxt "LauncherPage|"
+msgid "&Icons"
+msgstr "아이콘 (&I)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:267
+msgctxt "LauncherPage|"
+msgid "Simple (Dark Icons)"
+msgstr "간단 (어두운 아이콘들)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:272
+msgctxt "LauncherPage|"
+msgid "Simple (Light Icons)"
+msgstr "간단 (밝은 아이콘들)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:277
+msgctxt "LauncherPage|"
+msgid "Simple (Blue Icons)"
+msgstr "간단 (파란 아이콘들)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:282
+msgctxt "LauncherPage|"
+msgid "Simple (Colored Icons)"
+msgstr "간단 (다색 아이콘들)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:302
+msgctxt "LauncherPage|"
+msgid "Custom"
+msgstr "사용자 정의"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:307
+msgctxt "LauncherPage|"
+msgid "MultiMC"
+msgstr ""
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:328
+msgctxt "LauncherPage|"
+msgid "Colors"
+msgstr "색깔"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:355
+msgctxt "LauncherPage|"
+msgid "Console"
+msgstr "콘솔"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:361
+msgctxt "LauncherPage|"
+msgid "Console Settings"
+msgstr "콘솔 설정"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:367
+msgctxt "LauncherPage|"
+msgid "Show console while the game is running?"
+msgstr "게임이 실행 중일 때도 콘솔을 표시할까요?"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:374
+msgctxt "LauncherPage|"
+msgid "Automatically close console when the game quits?"
+msgstr "게임 종료 시 콘솔을 자동으로 닫을까요?"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:381
+msgctxt "LauncherPage|"
+msgid "Show console when the game crashes?"
+msgstr "게임이 충돌했을 때도 콘솔을 표시할까요?"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:391
+msgctxt "LauncherPage|"
+msgid "History limit"
+msgstr "히스토리 길이 제한"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:397
+msgctxt "LauncherPage|"
+msgid "Stop logging when log overflows"
+msgstr "로그가 오버플로우할 때에 로깅 멈추기"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:410
+msgctxt "LauncherPage|"
+msgid " lines"
+msgstr " 줄"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:438
+msgctxt "LauncherPage|"
+msgid "Console font"
+msgstr "콘솔 창 폰트"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:101
+msgctxt "LauncherPage|"
+msgid "Instance Folder"
+msgstr "인스턴스 폴더"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:110
+msgctxt "LauncherPage|"
+msgid ""
+"You're trying to specify an instance folder which's path contains at least "
+"one '!'. Java is known to cause problems if that is the case, your instances "
+"(probably) won't start!"
+msgstr ""
+"'!'를 포함하는 경로로 인스턴스 경로를 지정하려 하고 있습니다. 이 경우 자바가 문제를 일으킬 수 있습니다. 인스턴스가 시작하려 하지 "
+"않을 수 있습니다!"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:115
+msgctxt "LauncherPage|"
+msgid ""
+"Do you really want to use this path? Selecting \"No\" will close this and "
+"not alter your instance path."
+msgstr "정말로 이 경로를 쓰시겠습니까? \"No\"를 선택하면 닫고 인스턴스 경로를 변경하지 않을 것입니다."
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:133
+msgctxt "LauncherPage|"
+msgid "Icons Folder"
+msgstr "아이콘 폴더"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:144
+msgctxt "LauncherPage|"
+msgid "Mods Folder"
+msgstr "모드 폴더"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:427
+msgctxt "LauncherPage|"
+msgid "[Something/ERROR] A spooky error!"
+msgstr "[무언가/ERROR] 고양이가 당신의 컴퓨터를 침공합니다!"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:436
+msgctxt "LauncherPage|"
+msgid "[Test/INFO] A harmless message..."
+msgstr "[테스트/INFO] 고양이는 귀엽습니다."
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:445
+msgctxt "LauncherPage|"
+msgid "[Something/WARN] A not so spooky warning."
+msgstr "[무언가/WARN] 귀여운 고양이가 당신을 공격합니다."
+
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:122
+#, qt-format
+msgctxt "LauncherPartLaunch|"
+msgid "The wrapper command \"%1\" couldn't be found."
+msgstr "래퍼 명령어 \"%1\"를 찾지 못하였습니다."
+
+#. Error message displayed if instace can't start
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:144
+msgctxt "LauncherPartLaunch|"
+msgid "Could not launch minecraft!"
+msgstr "마인크래프트를 실행할 수 없습니다!"
+
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:153
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:163
+msgctxt "LauncherPartLaunch|"
+msgid "Game crashed."
+msgstr "게임이 튕겼습니다."
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:19
+msgctxt "LegacyFTB::FilterModel|"
+msgid "Sort by name"
+msgstr "이름으로 정렬"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:20
+msgctxt "LegacyFTB::FilterModel|"
+msgid "Sort by game version"
+msgstr "게임 버전으로 정렬"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:81
+msgctxt "LegacyFTB::ListModel|"
+msgid "Public Modpack"
+msgstr "공개 모드팩"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:83
+msgctxt "LegacyFTB::ListModel|"
+msgid "Third Party Modpack"
+msgstr "서드파티 모드팩"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:85
+msgctxt "LegacyFTB::ListModel|"
+msgid "Private Modpack"
+msgstr "비공개 모드팩"
+
+#: src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp:78
+msgctxt "LegacyFTB::PackFetchTask|"
+msgid "Public Packs"
+msgstr "공개 팩"
+
+#: src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp:83
+msgctxt "LegacyFTB::PackFetchTask|"
+msgid "Third Party Packs"
+msgstr "서드파티 팩"
+
+#: src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp:88
+#, qt-format
+msgctxt "LegacyFTB::PackFetchTask|"
+msgid "Failed to download some pack lists: %1"
+msgstr "몇개의 팩을 다운로드 하는데 실패했습니다: %1"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:32
+#, qt-format
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Downloading zip for %1"
+msgstr "%1의 압축 파일 다운로드 중"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:75
+#, qt-format
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Downloading zip for %1 (%2%)"
+msgstr "%1의 압축 파일 다운로드 중 (%2)"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:81
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Extracting modpack"
+msgstr "모드팩 추출 중"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:87
+#, qt-format
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Failed to open modpack file %1!"
+msgstr "모드팩 파일 %1을 여는 데에 실패했습니다!"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:110
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Installing modpack"
+msgstr "모드팩 설치 중"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:117
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Failed to move unzipped minecraft!"
+msgstr "압축 해제된 마인크래프트를 옮기는 데에 실패했습니다!"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:186
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "No installation method found!"
+msgstr "설치 방법을 발견하지 못했습니다!"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:21
+msgctxt "LegacyFTB::Page|"
+msgid "Public"
+msgstr "공개"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:44
+msgctxt "LegacyFTB::Page|"
+msgid "3rd Party"
+msgstr "서드파티"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:67
+msgctxt "LegacyFTB::Page|"
+msgid "Private"
+msgstr "비공개"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:86
+msgctxt "LegacyFTB::Page|"
+msgid "Add pack"
+msgstr "팩 추가"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:93
+msgctxt "LegacyFTB::Page|"
+msgid "Remove selected pack"
+msgstr "선택한 팩 제거"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:109
+msgctxt "LegacyFTB::Page|"
+msgid "Version selected:"
+msgstr "선택된 버전:"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
+msgctxt "LegacyFTB::Page|"
+msgid "FTB Legacy"
+msgstr "레거시 FTB"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:194
+msgctxt "LegacyFTB::Page|"
+msgid "FTB private packs"
+msgstr "FTB 비공개 팩"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:195
+#, qt-format
+msgctxt "LegacyFTB::Page|"
+msgid ""
+"Failed to download pack information for code %1.\n"
+"Should it be removed now?"
+msgstr ""
+"팩의 정보를 다운로드가 %1 코드를 리턴하며 실패하였습니다.\n"
+"지금 제거하시겠습니까?"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:333
+msgctxt "LegacyFTB::Page|"
+msgid "Add FTB pack"
+msgstr "FTB 팩 추가"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:334
+msgctxt "LegacyFTB::Page|"
+msgid "Enter pack code:"
+msgstr "팩 코드를 입력해 주세요:"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:357
+msgctxt "LegacyFTB::Page|"
+msgid "Remove pack"
+msgstr "팩 제거"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:358
+#, qt-format
+msgctxt "LegacyFTB::Page|"
+msgid "Are you sure you want to remove pack %1?"
+msgstr "정말 %1 팩을 제거하시겠습니까?"
+
+#: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
+msgctxt "LegacyInstance|"
+msgid "Legacy"
+msgstr "레거시"
+
+#: src/launcher/minecraft/legacy/LegacyInstance.cpp:225
+msgctxt "LegacyInstance|"
+msgid "Instance from previous versions."
+msgstr "이전 버전의 인스턴스들."
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:29
+#, fuzzy
+#| msgid ""
+#| "<html><body><h1>Upgrade is required</h1><p>MultiMC now supports old "
+#| "Minecraft versions and all the required features in the new (OneSix) "
+#| "instance format. As a consequence, the old (Legacy) format has been "
+#| "entirely disabled and old instances need to be upgraded.</p><p>The "
+#| "upgrade will create a new instance with the same contents as the current "
+#| "one, in the new format. The original instance will remain untouched, in "
+#| "case anything goes wrong in the process.</p><p>Please report any issues "
+#| "on our <a href=\"https://github.com/MultiMC/Launcher/issues\">github "
+#| "issues page</a>.</p><p>There is also a <a "
+#| "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
+#| "here</a>.</p></body></html>"
+msgctxt "LegacyUpgradePage|"
+msgid ""
+"<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old Minecraft "
+"versions and all the required features in the new (OneSix) instance format. "
+"As a consequence, the old (Legacy) format has been entirely disabled and old "
+"instances need to be upgraded.</p><p>The upgrade will create a new instance "
+"with the same contents as the current one, in the new format. The original "
+"instance will remain untouched, in case anything goes wrong in the "
+"process.</p><p>Please report any issues on our <a "
+"href=\"https://github.com/PolyMC/PolyMC/issues\">github issues "
+"page</a>.</p><p>There is also a <a "
+"href=\"https://discord.gg/GtPmv93\">discord channel for testing "
+"here</a>.</p></body></html>"
+msgstr ""
+"<html><body><h1>업그레이드가 필요합니다</h1><p>MultiMC는 이제 오래된 마인크래프트 버전과 새로운 인스턴스 "
+"포맷(OneSix)에 필요한 모든 기능을 지원합니다. 하지만, 이 때문에 이전의 레거시 포맷은 완전히 폐기되었고 오래된 인스턴스들은 "
+"업그레이드가 필요합니다.</p><p>이 업그레이드는 기존의 인스턴스 내용과 동일한 정보를 담고 있는 OneSix 포맷의 인스턴스를 생성할 "
+"것입니다. (만일의 사태에 대비하여) 기존의 인스턴스는 변경 없이 남겨놓습니다.</p><p>문제가 있다면 <a "
+"href=\"https://github.com/MultiMC/Launcher/issues\"> 에 남겨주십시오.</p><p> <a "
+"href=\"https://discord.gg/GtPmv93\"> 테스팅을 위한 디스코드 채널도 "
+"있습니다</a>.</p></body></html>"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:39
+msgctxt "LegacyUpgradePage|"
+msgid "Upgrade the instance"
+msgstr "인스턴스 업그레이드하기"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:27
+msgctxt "LegacyUpgradePage|"
+msgid "Error"
+msgstr "오류"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:30
+msgctxt "LegacyUpgradePage|"
+msgid "Abort"
+msgstr "중단"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:39
+#, qt-format
+msgctxt "LegacyUpgradePage|"
+msgid "%1 (Migrated)"
+msgstr "%1 (이동됨)"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.h:39
+msgctxt "LegacyUpgradePage|"
+msgid "Upgrade"
+msgstr "업그레이드"
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:20
+#, qt-format
+msgctxt "LegacyUpgradeTask|"
+msgid "Copying instance %1"
+msgstr "인스턴스 %1 복사 중"
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:59
+msgctxt "LegacyUpgradeTask|"
+msgid "Instance folder copy failed."
+msgstr "인스턴스 폴더 복사에 실패하였습니다."
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:82
+msgctxt "LegacyUpgradeTask|"
+msgid "Could not decide Minecraft version."
+msgstr "마인크래프트 버전 결정에 실패했습니다."
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:135
+msgctxt "LegacyUpgradeTask|"
+msgid "Instance folder copy has been aborted."
+msgstr "인스턴스 폴더 복사가 중단되었습니다."
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:15
+msgctxt "LibrariesTask|"
+msgid "Getting the library files from Mojang..."
+msgstr "Mojang에서 라이브러리 파일들을 가져오는 중..."
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:23
+#, qt-format
+msgctxt "LibrariesTask|"
+msgid "Libraries for instance %1"
+msgstr "인스턴스 %1 을 위하 라이브러리들"
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:34
+msgctxt "LibrariesTask|"
+msgid "Null jar is specified in the metadata, aborting."
+msgstr "'Null Jar'으로 메타데이터에 명시되어있으므로 중지합니다."
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:61
+#, qt-format
+msgctxt "LibrariesTask|"
+msgid ""
+"Some artifacts marked as 'local' are missing their files:\n"
+"%1\n"
+"\n"
+"You need to either add the files, or removed the packages that require "
+"them.\n"
+"You'll have to correct this problem manually."
+msgstr ""
+"로컬에 있어야할 파일들이 실종되었습니다:\n"
+"%1\n"
+"\n"
+"파일들을 직접 추가하거나, 그 파일을 요구하는 패키지를 삭제하세요.\n"
+"수동으로 이 오류를 해결해야합니다."
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:78
+#, qt-format
+msgctxt "LibrariesTask|"
+msgid ""
+"Game update failed: it was impossible to fetch the required libraries.\n"
+"Reason:\n"
+"%1"
+msgstr ""
+"게임 업데이트 실패: 필요한 라이브러리를 가져오는 것이 불가능하였습니다.\n"
+"원인:\n"
+"%1"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:60
+msgctxt "LogPage|"
+msgid "Keep updating"
+msgstr "계속 업데이트"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:70
+msgctxt "LogPage|"
+msgid "Wrap lines"
+msgstr "자동 줄바꿈"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:93
+msgctxt "LogPage|"
+msgid "Copy the whole log into the clipboard"
+msgstr "로그 전체를 클립보드로 복사"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:96
+msgctxt "LogPage|"
+msgid "&Copy"
+msgstr "복사 (&C)"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:103
+#, fuzzy
+#| msgid "Upload the log to paste.ee - it will stay online for a month"
+msgctxt "LogPage|"
+msgid "Upload the log to the paste service configured in preferences"
+msgstr "로그를 paste.ee에 업로드합니다. - 한 달 동안 보관됩니다"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:106
+msgctxt "LogPage|"
+msgid "Upload"
+msgstr "업로드"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:113
+msgctxt "LogPage|"
+msgid "Clear the log"
+msgstr "로그 지우기"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:116
+msgctxt "LogPage|"
+msgid "Clear"
+msgstr "지우기"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:125
+msgctxt "LogPage|"
+msgid "Search:"
+msgstr "검색:"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:132
+msgctxt "LogPage|"
+msgid "Find"
+msgstr "찾기"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:142
+msgctxt "LogPage|"
+msgid "Scroll all the way to bottom"
+msgstr "맨 아래까지 스크롤 내리기"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:145
+msgctxt "LogPage|"
+msgid "Bottom"
+msgstr "마지막으로"
+
+#: src/launcher/ui/pages/instance/LogPage.h:41
+msgctxt "LogPage|"
+msgid "Minecraft Log"
+msgstr "마인크래프트 로그"
+
+#. Message displayed on instance exit
+#: src/launcher/LoggedProcess.cpp:68
+#, qt-format
+msgctxt "LoggedProcess|"
+msgid "Process exited with code %1."
+msgstr "마인크래프트가 종료 코드 %1와(과) 함께 종료했습니다."
+
+#. Message displayed on instance crashed
+#: src/launcher/LoggedProcess.cpp:75
+msgctxt "LoggedProcess|"
+msgid "Process crashed."
+msgstr "프로세스가 충돌했습니다."
+
+#: src/launcher/LoggedProcess.cpp:77
+#, qt-format
+msgctxt "LoggedProcess|"
+msgid "Process crashed with exitcode %1."
+msgstr "프로세스가 종료 코드 %1와(과) 함께 충돌했습니다."
+
+#. Message displayed after the instance exits due to kill request
+#: src/launcher/LoggedProcess.cpp:84
+msgctxt "LoggedProcess|"
+msgid "Process was killed by user."
+msgstr "마인크래프트가 사용자에 의해 강제로 종료되었습니다."
+
+#: src/launcher/LoggedProcess.cpp:95
+msgctxt "LoggedProcess|"
+msgid "The process failed to start."
+msgstr "명령어 시작에 실패했습니다."
+
+#: src/launcher/ui/dialogs/LoginDialog.ui:20
+msgctxt "LoginDialog|"
+msgid "Add Account"
+msgstr "계정 추가"
+
+#: src/launcher/ui/dialogs/LoginDialog.ui:39
+msgctxt "LoginDialog|"
+msgid "Email"
+msgstr "이메일"
+
+#: src/launcher/ui/dialogs/LoginDialog.ui:49
+msgctxt "LoginDialog|"
+msgid "Password"
+msgstr "비밀번호"
+
+#: src/launcher/ui/dialogs/MSALoginDialog.ui:20
+msgctxt "MSALoginDialog|"
+msgid "Add Microsoft Account"
+msgstr "Microsoft 계정 추가"
+
+#: src/launcher/ui/dialogs/MSALoginDialog.ui:56
+msgctxt "MSALoginDialog|"
+msgid "Open page and copy code"
+msgstr ""
+
+#: src/launcher/ui/dialogs/MSALoginDialog.cpp:87
+#, qt-format
+msgctxt "MSALoginDialog|"
+msgid ""
+"<p>Please open up %1 in a browser and put in the code <b>%2</b> to proceed "
+"with login.</p>"
+msgstr "<p>브라우저로 %1 에 접속하여 로그인 진행을 위해 코드 <b>%2</b> 를 입력하세요.</p>"
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:31
+msgctxt "MSAStep|"
+msgid "Logging in with Microsoft account."
+msgstr "Microsoft 계정으로 로그인 중."
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:87
+msgctxt "MSAStep|"
+msgid "Got "
+msgstr "획득 "
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:93
+msgctxt "MSAStep|"
+msgid "Microsoft user authentication ended with a network error."
+msgstr "Microsoft 유저 인증이 네트워크 오류로 종료되었습니다."
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:98
+msgctxt "MSAStep|"
+msgid "Microsoft user authentication failed - user no longer exists."
+msgstr "Microsoft 유저 인증 실패 - 사용자가 더 이상 존재하지 않습니다."
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:103
+msgctxt "MSAStep|"
+msgid "Microsoft user authentication failed."
+msgstr "Microsoft 유저 인증에 실패했습니다."
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:108
+msgctxt "MSAStep|"
+msgid "Microsoft user authentication completed with an unrecognized result."
+msgstr "Microsoft 유저 인증을 완료했지만 알 수 없는 결과가 발생했습니다."
+
+#: src/launcher/ui/MainWindow.cpp:254
+msgctxt "MainWindow|"
+msgid "Kill"
+msgstr "강제 종료"
+
+#: src/launcher/ui/MainWindow.cpp:255
+msgctxt "MainWindow|"
+msgid "Kill the running instance"
+msgstr "실행중인 인스턴스 강제 종료"
+
+#: src/launcher/ui/MainWindow.cpp:259 src/launcher/ui/MainWindow.cpp:944
+msgctxt "MainWindow|"
+msgid "Launch"
+msgstr "실행"
+
+#: src/launcher/ui/MainWindow.cpp:260
+msgctxt "MainWindow|"
+msgid "Launch the selected instance."
+msgstr "선택한 인스턴스를 실행합니다."
+
+#: src/launcher/ui/MainWindow.cpp:278
+msgctxt "MainWindow|"
+msgid "Main Toolbar"
+msgstr "메인 툴바"
+
+#: src/launcher/ui/MainWindow.cpp:283
+msgctxt "MainWindow|"
+msgid "Add Instance"
+msgstr "인스턴스 추가"
+
+#: src/launcher/ui/MainWindow.cpp:284
+msgctxt "MainWindow|"
+msgid "Add a new instance."
+msgstr "새로운 인스턴스를 추가합니다."
+
+#: src/launcher/ui/MainWindow.cpp:296
+msgctxt "MainWindow|"
+msgid "View Instance Folder"
+msgstr "인스턴스 폴더 보기"
+
+#: src/launcher/ui/MainWindow.cpp:297
+msgctxt "MainWindow|"
+msgid "Open the instance folder in a file browser."
+msgstr "파일 탐색기에서 인스턴스 폴더를 엽니다."
+
+#: src/launcher/ui/MainWindow.cpp:304
+msgctxt "MainWindow|"
+msgid "View Central Mods Folder"
+msgstr "중앙 모드 폴더 보기"
+
+#: src/launcher/ui/MainWindow.cpp:305
+msgctxt "MainWindow|"
+msgid "Open the central mods folder in a file browser."
+msgstr "파일 탐색기로 중앙 모드 폴더를 엽니다."
+
+#: src/launcher/ui/MainWindow.cpp:310 src/launcher/ui/MainWindow.cpp:642
+msgctxt "MainWindow|"
+msgid "Folders"
+msgstr "폴더"
+
+#: src/launcher/ui/MainWindow.cpp:311
+msgctxt "MainWindow|"
+msgid "Open one of the folders shared between instances."
+msgstr "인스턴스 간에 공유되는 폴더 중 하나를 엽니다."
+
+#: src/launcher/ui/MainWindow.cpp:326
+msgctxt "MainWindow|"
+msgid "Settings"
+msgstr "설정"
+
+#: src/launcher/ui/MainWindow.cpp:327
+msgctxt "MainWindow|"
+msgid "Change settings."
+msgstr "설정을 변경합니다."
+
+#: src/launcher/ui/MainWindow.cpp:338
+msgctxt "MainWindow|"
+msgid "Report a Bug"
+msgstr "버그 보고"
+
+#: src/launcher/ui/MainWindow.cpp:339
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open the bug tracker to report a bug with %1."
+msgstr "%1의 버그 보고를 위해 버그 트래커를 엽니다."
+
+#: src/launcher/ui/MainWindow.cpp:348
+msgctxt "MainWindow|"
+msgid "Discord"
+msgstr "디스코드"
+
+#: src/launcher/ui/MainWindow.cpp:349
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open %1 discord voice chat."
+msgstr "%1 디스코드 음성 채팅을 엽니다."
+
+#: src/launcher/ui/MainWindow.cpp:358
+msgctxt "MainWindow|"
+msgid "Reddit"
+msgstr "레딧"
+
+#: src/launcher/ui/MainWindow.cpp:359
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open %1 subreddit."
+msgstr "%1 서브레딧을 엽니다."
+
+#: src/launcher/ui/MainWindow.cpp:368
+#, qt-format
+msgctxt "MainWindow|"
+msgid "About %1"
+msgstr "%1 에 대하여"
+
+#: src/launcher/ui/MainWindow.cpp:369
+#, qt-format
+msgctxt "MainWindow|"
+msgid "View information about %1."
+msgstr "%1에 관한 정보를 봅니다."
+
+#: src/launcher/ui/MainWindow.cpp:374 src/launcher/ui/MainWindow.cpp:643
+msgctxt "MainWindow|"
+msgid "Help"
+msgstr "도움말"
+
+#: src/launcher/ui/MainWindow.cpp:375
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Get help with %1 or Minecraft."
+msgstr "%1 또는 마인크래프트에 관한 도움을 받습니다."
+
+#: src/launcher/ui/MainWindow.cpp:391
+msgctxt "MainWindow|"
+msgid "Update"
+msgstr "지금 업데이트"
+
+#: src/launcher/ui/MainWindow.cpp:392
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Check for new updates for %1."
+msgstr "새 %1 업데이트가 있는 지 확인합니다."
+
+#: src/launcher/ui/MainWindow.cpp:403
+msgctxt "MainWindow|"
+msgid "Meow"
+msgstr "애-옹 :😺"
+
+#: src/launcher/ui/MainWindow.cpp:404
+msgctxt "MainWindow|"
+msgid "It's a fluffy kitty :3"
+msgstr "솜털로 뒤덮인 아기고양이에요 (^>ω<^)"
+
+#: src/launcher/ui/MainWindow.cpp:412
+msgctxt "MainWindow|"
+msgid "Manage Accounts"
+msgstr "계정 관리"
+
+#: src/launcher/ui/MainWindow.cpp:438
+msgctxt "MainWindow|"
+msgid "Instance Toolbar"
+msgstr "인스턴스 툴바"
+
+#: src/launcher/ui/MainWindow.cpp:445
+msgctxt "MainWindow|"
+msgid "Change Icon"
+msgstr "아이콘 변경"
+
+#: src/launcher/ui/MainWindow.cpp:446
+msgctxt "MainWindow|"
+msgid "Change the selected instance's icon."
+msgstr "선택한 인스턴스의 아이콘을 바꿉니다."
+
+#: src/launcher/ui/MainWindow.cpp:459
+msgctxt "MainWindow|"
+msgid "Rename"
+msgstr "이름 바꾸기"
+
+#: src/launcher/ui/MainWindow.cpp:460
+msgctxt "MainWindow|"
+msgid "Rename the selected instance."
+msgstr "선택한 인스턴스의 이름을 바꿉니다."
+
+#: src/launcher/ui/MainWindow.cpp:479 src/launcher/ui/MainWindow.cpp:945
+msgctxt "MainWindow|"
+msgid "Launch Offline"
+msgstr "오프라인으로 실행"
+
+#: src/launcher/ui/MainWindow.cpp:480
+msgctxt "MainWindow|"
+msgid "Launch the selected instance in offline mode."
+msgstr "선택한 인스턴스를 오프라인 모드로 시작합니다."
+
+#: src/launcher/ui/MainWindow.cpp:488
+msgctxt "MainWindow|"
+msgid "Edit Instance"
+msgstr "인스턴스 편집"
+
+#: src/launcher/ui/MainWindow.cpp:489
+msgctxt "MainWindow|"
+msgid "Change the instance settings, mods and versions."
+msgstr "인스턴스의 설정, 모드, 그리고 버전을 편집합니다."
+
+#: src/launcher/ui/MainWindow.cpp:495
+msgctxt "MainWindow|"
+msgid "Edit Notes"
+msgstr "메모 편집"
+
+#: src/launcher/ui/MainWindow.cpp:496
+msgctxt "MainWindow|"
+msgid "Edit the notes for the selected instance."
+msgstr "선택한 인스턴스의 메모를 편집합니다."
+
+#: src/launcher/ui/MainWindow.cpp:502
+msgctxt "MainWindow|"
+msgid "View Mods"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:503
+msgctxt "MainWindow|"
+msgid "View the mods of this instance."
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:509
+msgctxt "MainWindow|"
+msgid "View Worlds"
+msgstr "월드(들) 보기"
+
+#: src/launcher/ui/MainWindow.cpp:510
+msgctxt "MainWindow|"
+msgid "View the worlds of this instance."
+msgstr "선택한 인스턴스의 월드를 살펴봅니다."
+
+#: src/launcher/ui/MainWindow.cpp:516
+msgctxt "MainWindow|"
+msgid "Manage Screenshots"
+msgstr "스크린샷 관리"
+
+#: src/launcher/ui/MainWindow.cpp:517
+msgctxt "MainWindow|"
+msgid "View and upload screenshots for this instance."
+msgstr "이 인스턴스의 스크린샷을 보고 업로드합니다."
+
+#: src/launcher/ui/MainWindow.cpp:523
+msgctxt "MainWindow|"
+msgid "Change Group"
+msgstr "그룹 변경"
+
+#: src/launcher/ui/MainWindow.cpp:524
+msgctxt "MainWindow|"
+msgid "Change the selected instance's group."
+msgstr "선택한 인스턴스가 속하는 그룹을 바꿉니다."
+
+#: src/launcher/ui/MainWindow.cpp:532
+msgctxt "MainWindow|"
+msgid "Minecraft Folder"
+msgstr "마인크래프트 폴더"
+
+#: src/launcher/ui/MainWindow.cpp:533
+msgctxt "MainWindow|"
+msgid "Open the selected instance's minecraft folder in a file browser."
+msgstr "선택한 인스턴스의 디렉토리를 파일 탐색기로 엽니다."
+
+#: src/launcher/ui/MainWindow.cpp:548
+msgctxt "MainWindow|"
+msgid "Config Folder"
+msgstr "설정 폴더"
+
+#: src/launcher/ui/MainWindow.cpp:549
+msgctxt "MainWindow|"
+msgid "Open the instance's config folder."
+msgstr "인스턴스의 설정 폴더를 엽니다."
+
+#: src/launcher/ui/MainWindow.cpp:555
+msgctxt "MainWindow|"
+msgid "Instance Folder"
+msgstr "인스턴스 폴더"
+
+#: src/launcher/ui/MainWindow.cpp:556
+msgctxt "MainWindow|"
+msgid "Open the selected instance's root folder in a file browser."
+msgstr "파일 탐색기로 선택한 인스턴스의 최상위 디렉토리를 엽니다."
+
+#: src/launcher/ui/MainWindow.cpp:564
+msgctxt "MainWindow|"
+msgid "Export Instance"
+msgstr "인스턴스 내보내기"
+
+#: src/launcher/ui/MainWindow.cpp:571
+msgctxt "MainWindow|"
+msgid "Delete"
+msgstr "삭제"
+
+#: src/launcher/ui/MainWindow.cpp:572
+msgctxt "MainWindow|"
+msgid "Delete the selected instance."
+msgstr "선택한 인스턴스를 삭제합니다."
+
+#: src/launcher/ui/MainWindow.cpp:579
+msgctxt "MainWindow|"
+msgid "Copy Instance"
+msgstr "인스턴스 복사"
+
+#: src/launcher/ui/MainWindow.cpp:580
+msgctxt "MainWindow|"
+msgid "Copy the selected instance."
+msgstr "선택한 인스턴스를 복사합니다."
+
+#: src/launcher/ui/MainWindow.cpp:622
+#, qt-format
+msgctxt "MainWindow|Launcher - Version X"
+msgid "%1 - Version %2"
+msgstr "%1 - 버전 %2"
+
+#: src/launcher/ui/MainWindow.cpp:625
+#, qt-format
+msgctxt "MainWindow|on platform, as in operating system"
+msgid " on %1"
+msgstr " (%1에 있음)"
+
+#: src/launcher/ui/MainWindow.cpp:721 src/launcher/ui/MainWindow.cpp:824
+msgctxt "MainWindow|"
+msgid "No instance selected"
+msgstr "선택한 인스턴스 없음"
+
+#: src/launcher/ui/MainWindow.cpp:722
+msgctxt "MainWindow|"
+msgid "Total playtime: 0s"
+msgstr "총 플레이 시간: 0초"
+
+#: src/launcher/ui/MainWindow.cpp:818 src/launcher/ui/MainWindow.cpp:1108
+msgctxt "MainWindow|"
+msgid "Profiles"
+msgstr "프로파일들"
+
+#: src/launcher/ui/MainWindow.cpp:877
+msgctxt "MainWindow|"
+msgid "Create instance"
+msgstr "인스턴스 생성"
+
+#: src/launcher/ui/MainWindow.cpp:893
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Delete group '%1'"
+msgstr "그룹 '%1' 삭제"
+
+#: src/launcher/ui/MainWindow.cpp:954
+msgctxt "MainWindow|"
+msgid "Profilers"
+msgstr "프로파일러들"
+
+#: src/launcher/ui/MainWindow.cpp:966
+msgctxt "MainWindow|"
+msgid "Profiler not setup correctly. Go into settings, \"External Tools\"."
+msgstr "프로파일러가 바르게 구성되지 않았습니다. 설정에 들어가서, \"외부 도구\"를 보세요."
+
+#: src/launcher/ui/MainWindow.cpp:1006
+msgctxt "MainWindow|"
+msgid "No accounts added!"
+msgstr "계정 추가되지 않음!"
+
+#: src/launcher/ui/MainWindow.cpp:1039
+msgctxt "MainWindow|"
+msgid "No Default Account"
+msgstr "기본 계정 없음"
+
+#: src/launcher/ui/MainWindow.cpp:1303
+msgctxt "MainWindow|"
+msgid "Warnings"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
+msgctxt "MainWindow|"
+msgid "Abort"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1358
+msgctxt "MainWindow|"
+msgid ""
+"The launcher cannot download Minecraft or update instances unless you have "
+"at least one account added.\n"
+"Please add your Mojang or Minecraft account."
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1492
+msgctxt "MainWindow|"
+msgid "Group name"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1492
+msgctxt "MainWindow|"
+msgid "Enter a new group name."
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1514
+msgctxt "MainWindow|"
+msgid "Delete group"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1514
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Are you sure you want to delete the group %1"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1632
+msgctxt "MainWindow|"
+msgid "CAREFUL!"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1633
+#, qt-format
+msgctxt "MainWindow|"
+msgid ""
+"About to delete: %1\n"
+"This is permanent and will completely delete the instance.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1838
+msgctxt "MainWindow|"
+msgid "Rename Instance"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1851
+msgctxt "MainWindow|"
+msgid ""
+"Your instance folder contains '!' and this is known to cause Java problems!"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1853
+#, qt-format
+msgctxt "MainWindow|"
+msgid ""
+"You have now two options: <br/> - change the instance folder in the settings "
+"<br/> - move this installation of %1 to a different folder"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1862
+msgctxt "MainWindow|"
+msgid ""
+"This is a problem: <br/> - The launcher will likely be deleted without "
+"warning by the operating system <br/> - close the launcher now and extract "
+"it to a real location, not a temporary folder"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1869
+msgctxt "MainWindow|"
+msgid ""
+"Your instance folder contains 'Rar$' - that means you haven't extracted the "
+"launcher archive!"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1877
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Your instance folder is in a temporary folder: '%1'!"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1890
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Total playtime: %1"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1221 src/launcher/ui/MainWindow.cpp:1238
+#: src/launcher/ui/MainWindow.cpp:1296 src/launcher/ui/MainWindow.cpp:1345
+#: src/launcher/ui/MainWindow.cpp:1357
+msgctxt "MainWindow|"
+msgid "Error"
+msgstr "오류"
+
+#: src/launcher/ui/MainWindow.cpp:1221
+#, qt-format
+msgctxt "MainWindow|"
+msgid ""
+"Couldn't create folder for update downloads:\n"
+"%1"
+msgstr ""
+"업데이트 다운로드를 위한 폴더를 생성하지 못하였습니다:\n"
+"%1"
+
+#: src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp:15
+msgctxt "MigrationEligibilityStep|"
+msgid "Checking for migration eligibility."
+msgstr "마이그레이션 자격 확인중."
+
+#: src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp:44
+msgctxt "MigrationEligibilityStep|"
+msgid "Got migration flags"
+msgstr "마이그레이션 플래그 받기"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:703
+msgctxt "MinecraftInstance|"
+msgid "<SESSION ID>"
+msgstr "<SESSION ID>"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:705
+msgctxt "MinecraftInstance|"
+msgid "<ACCESS TOKEN>"
+msgstr "<ACCESS TOKEN>"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:707
+msgctxt "MinecraftInstance|"
+msgid "<CLIENT TOKEN>"
+msgstr "<CLIENT TOKEN>"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:709
+msgctxt "MinecraftInstance|"
+msgid "<PROFILE ID>"
+msgstr "<PROFILE ID>"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:781
+msgctxt "MinecraftInstance|"
+msgid "broken"
+msgstr "손상됨"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:785
+#, qt-format
+msgctxt "MinecraftInstance|"
+msgid "Minecraft %1 (%2)"
+msgstr "마인크래프트 %1 (%2)"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:789
+#, qt-format
+msgctxt "MinecraftInstance|"
+msgid ", last played for %1"
+msgstr ", %1동안 지난 플레이함"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:793
+#, qt-format
+msgctxt "MinecraftInstance|"
+msgid ", total played for %1"
+msgstr ", 총 %1동안 플레이 함"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:798
+msgctxt "MinecraftInstance|"
+msgid ", has crashed."
+msgstr ", 는 튕겼습니다."
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:48
+msgctxt "MinecraftPage|"
+msgid "Window Size"
+msgstr "창 크기"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:54
+msgctxt "MinecraftPage|"
+msgid "Start Minecraft maximized?"
+msgstr "마인크래프트를 최대화된 상태로 시작할까요?"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:63
+msgctxt "MinecraftPage|"
+msgid "Window hei&ght:"
+msgstr "창 높이 (&G):"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:73
+msgctxt "MinecraftPage|"
+msgid "W&indow width:"
+msgstr "창 너비 (&I):"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:117
+msgctxt "MinecraftPage|"
+msgid "Native library workarounds"
+msgstr "네이티브 라이브러리 workarounds"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:123
+msgctxt "MinecraftPage|"
+msgid "Use system installation of GLFW"
+msgstr "시스템에 설치되어 있는 GLFW 사용하기"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:130
+msgctxt "MinecraftPage|"
+msgid "Use system installation of OpenAL"
+msgstr "시스템에 설치되어 있는 OpenAL 사용하기"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:140
+msgctxt "MinecraftPage|"
+msgid "Game time"
+msgstr "게임 시간"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:146
+msgctxt "MinecraftPage|"
+msgid "Show time spent playing instances"
+msgstr "인스턴스에서 플레이 한 시간 보기"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:153
+msgctxt "MinecraftPage|"
+msgid "Show time spent playing across all instances"
+msgstr "모든 인스턴스에서 플레이 한 시간 보기"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:160
+msgctxt "MinecraftPage|"
+msgid "Record time spent playing instances"
+msgstr "인스턴스에서 플레이 한 시간 기록"
+
+#: src/launcher/ui/pages/global/MinecraftPage.h:42
+msgctxt "MinecraftPage|"
+msgid "Minecraft"
+msgstr "마인크래프트"
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:15
+msgctxt "MinecraftProfileStep|"
+msgid "Fetching the Minecraft profile."
+msgstr "마인크래프트 프로필 가져오는 중."
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:54
+msgctxt "MinecraftProfileStep|"
+msgid "Account has no Minecraft profile."
+msgstr "계정에 마인크래프트 프로필이 없습니다."
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:69
+msgctxt "MinecraftProfileStep|"
+msgid "Minecraft Java profile acquisition failed."
+msgstr "마인크래프트 Java 프로필을 획득하지 못했습니다."
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:77
+msgctxt "MinecraftProfileStep|"
+msgid "Minecraft Java profile response could not be parsed"
+msgstr "마인크래프트 Java 프로필의 응답을 분석할 수 없습니다."
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:89
+msgctxt "MinecraftProfileStep|"
+msgid "Minecraft Java profile acquisition succeeded."
+msgstr "마인크래프트 Java 프로필을 획득했습니다."
+
+#: src/launcher/minecraft/MinecraftUpdate.cpp:87
+msgctxt "MinecraftUpdate|"
+msgid "Aborted by user."
+msgstr "사용자에 의해 강제로 중단됨."
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:368
+msgctxt "ModFolderModel|"
+msgid "Folder"
+msgstr "폴더"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:370
+msgctxt "ModFolderModel|"
+msgid "File"
+msgstr "파일"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:464
+msgctxt "ModFolderModel|"
+msgid "Name"
+msgstr "이름"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:466
+msgctxt "ModFolderModel|"
+msgid "Version"
+msgstr "버전"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:468
+msgctxt "ModFolderModel|"
+msgid "Last changed"
+msgstr "최근 수정일"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:477
+msgctxt "ModFolderModel|"
+msgid "Is the mod enabled?"
+msgstr "모드가 활성 상태입니까?"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:479
+msgctxt "ModFolderModel|"
+msgid "The name of the mod."
+msgstr "모드의 이름입니다."
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:481
+msgctxt "ModFolderModel|"
+msgid "The version of the mod."
+msgstr "모드의 버전입니다."
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:483
+msgctxt "ModFolderModel|"
+msgid "The date and time this mod was last changed (or added)."
+msgstr "모드가 마지막으로 수정(또는 추가) 된 날짜와 시각"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:39
+msgctxt "ModFolderPage|"
+msgid "Filter:"
+msgstr "필터:"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:75
+msgctxt "ModFolderPage|"
+msgid "Actions"
+msgstr "작업"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:96
+msgctxt "ModFolderPage|"
+msgid "&Add"
+msgstr "추가 (&A)"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:99
+msgctxt "ModFolderPage|"
+msgid "Add mods"
+msgstr "모드 추가"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:104
+msgctxt "ModFolderPage|"
+msgid "&Remove"
+msgstr "제거 (&R)"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:107
+msgctxt "ModFolderPage|"
+msgid "Remove selected mods"
+msgstr "선택된 모드 제거"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:112
+msgctxt "ModFolderPage|"
+msgid "&Enable"
+msgstr "활성화 (&E)"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:115
+msgctxt "ModFolderPage|"
+msgid "Enable selected mods"
+msgstr "선택된 모드 활성화"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:120
+msgctxt "ModFolderPage|"
+msgid "&Disable"
+msgstr "비활성화 (&D)"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:123
+msgctxt "ModFolderPage|"
+msgid "Disable selected mods"
+msgstr "선택된 모드 활성화"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:128
+msgctxt "ModFolderPage|"
+msgid "View &Configs"
+msgstr "설정 보기 (&C)"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:131
+msgctxt "ModFolderPage|"
+msgid "Open the 'config' folder in the system file manager."
+msgstr "시스템 파일 탐색기에서 설정 폴더를 엽니다."
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:136
+msgctxt "ModFolderPage|"
+msgid "View &Folder"
+msgstr "폴더 보기 (&F)"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.cpp:191
+msgctxt "ModFolderPage|"
+msgid "Context menu"
+msgstr "컨텍스트 메뉴"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.cpp:304
+#, qt-format
+msgctxt ""
+"ModFolderPage|Select whatever type of files the page contains. Example: "
+"'Loader Mods'"
+msgid "Select %1"
+msgstr "%1 선택"
+
+#: src/launcher/minecraft/launch/ModMinecraftJar.cpp:36
+msgctxt "ModMinecraftJar|"
+msgid "Couldn't create the bin folder for Minecraft.jar"
+msgstr "Minecraft.jar을 위한 바이너리 폴더 생성 불가"
+
+#: src/launcher/minecraft/launch/ModMinecraftJar.cpp:42
+#, qt-format
+msgctxt "ModMinecraftJar|"
+msgid "Couldn't remove stale jar file: %1"
+msgstr "오래된 버전의 jar 파일을 삭제하지 못하였습니다 : %1"
+
+#: src/launcher/minecraft/launch/ModMinecraftJar.cpp:57
+msgctxt "ModMinecraftJar|"
+msgid "Failed to create the custom Minecraft jar file."
+msgstr "커스텀 마인크래프트 jar 파일을 생성하는 데에 실패하였습니다."
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:62
+#, qt-format
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Failed to find pack version %1"
+msgstr "다음 팩버전을 찾는데 실패하였습니다 %1"
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:97
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Could not understand pack manifest:\n"
+msgstr "팩 manifest를 해석하지 못함:\n"
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:113
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Downloading mods..."
+msgstr "모드 다운로드 중..."
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:115
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Mod download"
+msgstr "모드 다운로드"
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:166
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Copying modpack files"
+msgstr "모드팩 파일(들) 복사중"
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:174
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Failed to copy files"
+msgstr "파일 복사에 실패했습니다."
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:179
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Installing modpack"
+msgstr "모드팩 설치 중"
+
+#: src/launcher/net/NetJob.cpp:128
+#, qt-format
+msgctxt "NetJob|"
+msgid ""
+"Job '%1' failed to process:\n"
+"%2"
+msgstr ""
+"작업 '%1'은 다음을 처리하는 데에 실패하였습니다:\n"
+"%2"
+
+#: src/launcher/ui/dialogs/NewComponentDialog.ui:17
+msgctxt "NewComponentDialog|"
+msgid "Add Empty Component"
+msgstr "빈 컴포넌트 추가"
+
+#: src/launcher/ui/dialogs/NewComponentDialog.ui:30
+msgctxt "NewComponentDialog|"
+msgid "Name"
+msgstr "이름"
+
+#: src/launcher/ui/dialogs/NewComponentDialog.ui:37
+msgctxt "NewComponentDialog|"
+msgid "uid"
+msgstr "uid"
+
+#: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
+#: src/launcher/ui/dialogs/NewInstanceDialog.cpp:143
+msgctxt "NewInstanceDialog|"
+msgid "New Instance"
+msgstr "새 인스턴스"
+
+#: src/launcher/ui/dialogs/NewInstanceDialog.ui:39
+msgctxt "NewInstanceDialog|"
+msgid "&Group:"
+msgstr "그룹 (&G):"
+
+#: src/launcher/ui/dialogs/NewInstanceDialog.ui:52
+msgctxt "NewInstanceDialog|"
+msgid "&Name:"
+msgstr "이름 (&N):"
+
+#: src/launcher/ui/dialogs/NewInstanceDialog.cpp:69
+msgctxt "NewInstanceDialog|"
+msgid "No group"
+msgstr "그룹 없음"
+
+#: src/launcher/ui/pages/instance/NotesPage.h:38
+msgctxt "NotesPage|"
+msgid "Notes"
+msgstr "메모들"
+
+#: src/launcher/ui/dialogs/NotificationDialog.ui:14
+msgctxt "NotificationDialog|"
+msgid "Notification"
+msgstr "MultiMC 알림"
+
+#: src/launcher/ui/dialogs/NotificationDialog.ui:65
+#: src/launcher/ui/dialogs/NotificationDialog.cpp:30
+msgctxt "NotificationDialog|"
+msgid "Don't show again"
+msgstr "다시는 보여주지 마세요"
+
+#: src/launcher/ui/dialogs/NotificationDialog.ui:75
+#: src/launcher/ui/dialogs/NotificationDialog.cpp:31
+msgctxt "NotificationDialog|"
+msgid "Close"
+msgstr "닫기"
+
+#: src/launcher/NullInstance.h:20
+msgctxt "NullInstance|"
+msgid "Unknown instance type"
+msgstr "알 수 없는 인스턴스 유형"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
+msgctxt "OtherLogsPage|"
+msgid "Find"
+msgstr "찾기"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:67
+msgctxt "OtherLogsPage|"
+msgid "Copy the whole log into the clipboard"
+msgstr "클립보드로 로그 전체 복사"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:70
+msgctxt "OtherLogsPage|"
+msgid "&Copy"
+msgstr "복사 (&C)"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:77
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:97
+msgctxt "OtherLogsPage|"
+msgid "Clear the log"
+msgstr "로그 지우기"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:80
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:197
+msgctxt "OtherLogsPage|"
+msgid "Delete"
+msgstr "삭제"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:87
+#, fuzzy
+#| msgid "Upload the log to paste.ee - it will stay online for a month"
+msgctxt "OtherLogsPage|"
+msgid "Upload the log to the paste service configured in preferences."
+msgstr "로그를 paste.ee로 업로드 - 한 달 동안 유지됩니다"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
+msgctxt "OtherLogsPage|"
+msgid "Upload"
+msgstr "업로드"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:100
+msgctxt "OtherLogsPage|"
+msgid "Clean"
+msgstr "지우기"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:107
+msgctxt "OtherLogsPage|"
+msgid "Reload"
+msgstr "새로고침"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:126
+msgctxt "OtherLogsPage|"
+msgid "Search:"
+msgstr "검색:"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:126
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:206
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:253
+msgctxt "OtherLogsPage|"
+msgid "Error"
+msgstr "오류"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:126
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid "Unable to open %1 for reading: %2"
+msgstr "%1를 읽기 위해 열 수 없습니다: %2"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:147
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid ""
+"The file (%1) is too big. You may want to open it in a viewer optimized for "
+"large files."
+msgstr "파일 %1은 너무 큽니다. 더 큰 파일에 최적화된 뷰어로 보시길 권장합니다."
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:162
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid "The file (%1) is not readable."
+msgstr "파일 %1을 읽을 수 없습니다."
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:198
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid "Do you really want to delete %1?"
+msgstr "%1를 진짜로 삭제하기를 원하십니까?"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:206
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid "Unable to delete %1: %2"
+msgstr "%1를 삭제할 수 없습니다: %2"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:221
+msgctxt "OtherLogsPage|"
+msgid "Clean up"
+msgstr "깔끔히 지우기"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:224
+msgctxt "OtherLogsPage|"
+msgid "Do you really want to delete all log files?"
+msgstr "모든 로그를 진짜로 삭제하기를 원하십니까?"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:229
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid ""
+"Do you really want to delete these files?\n"
+"%1"
+msgstr ""
+"다음 파일들을 진짜로 삭제하기를 원하십니까?\n"
+"%1"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:256
+msgctxt "OtherLogsPage|"
+msgid "Couldn't delete some files!"
+msgstr "일부 파일 제거 실패!"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:261
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid ""
+"Couldn't delete some files:\n"
+"%1"
+msgstr ""
+"일부 파일 제거 실패:\n"
+"%1"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.h:45
+msgctxt "OtherLogsPage|"
+msgid "Other logs"
+msgstr "다른 로그들"
+
+#: src/launcher/minecraft/PackProfile.cpp:853
+msgctxt "PackProfile|"
+msgid "Name"
+msgstr "이름"
+
+#: src/launcher/minecraft/PackProfile.cpp:855
+msgctxt "PackProfile|"
+msgid "Version"
+msgstr "버전"
+
+#: src/launcher/ui/pages/global/PastePage.ui:39
+msgctxt "PastePage|"
+msgid "Pastebin URL"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:57
+msgctxt "PastePage|"
+msgid ""
+"<html><head/><body><p>Note: only input that starts with <span style=\" "
+"font-weight:600;\">http://</span> or <span style=\" "
+"font-weight:600;\">https://</span> will be accepted.</p></body></html>"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:74
+msgctxt "PastePage|"
+msgid "https://0x0.st"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:79
+msgctxt "PastePage|"
+msgid "https://paste.polymc.org"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:87
+msgctxt "PastePage|"
+msgid ""
+"<html><head/><body><p>Here you can choose from a predefined list of paste "
+"services, or input the URL of a different paste service of your choice, "
+"provided it supports the same protocol as 0x0.st, that is POST a file "
+"parameter to the URL and return a link in the response "
+"body.</p></body></html>"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.h:37
+#, fuzzy
+msgctxt "PastePage|"
+msgid "Log Upload"
+msgstr "로그 업로드"
+
+#: src/launcher/net/PasteUpload.cpp:37
+#, qt-format
+msgctxt "PasteUpload|"
+msgid "Uploading to %1"
+msgstr ""
+
+#: src/launcher/net/PasteUpload.cpp:58
+#, qt-format
+msgctxt "PasteUpload|"
+msgid "Network error: %1"
+msgstr ""
+
+#: src/launcher/net/PasteUpload.cpp:65
+#, qt-format
+msgctxt "PasteUpload|"
+msgid "Error: %1 returned unexpected status code %2 %3"
+msgstr ""
+
+#: src/launcher/launch/steps/PostLaunchCommand.cpp:31
+#, qt-format
+msgctxt "PostLaunchCommand|"
+msgid "Running Post-Launch command: %1"
+msgstr "실행 후 명령어 실행중: %1"
+
+#: src/launcher/launch/steps/PostLaunchCommand.cpp:39
+#, qt-format
+msgctxt "PostLaunchCommand|"
+msgid ""
+"Post-Launch command failed with code %1.\n"
+"\n"
+msgstr ""
+"실행 후 명령어가 실패했습니다. 코드는 %1입니다.\n"
+"\n"
+
+#: src/launcher/launch/steps/PostLaunchCommand.cpp:62
+msgctxt "PostLaunchCommand|"
+msgid ""
+"Post-Launch command ran successfully.\n"
+"\n"
+msgstr ""
+"실행 후 명령어가 성공적으로 실행됬습니다.\n"
+"\n"
+
+#: src/launcher/launch/steps/PreLaunchCommand.cpp:32
+#, qt-format
+msgctxt "PreLaunchCommand|"
+msgid "Running Pre-Launch command: %1"
+msgstr "실행 전 명령어 실행중: %1"
+
+#: src/launcher/launch/steps/PreLaunchCommand.cpp:40
+#, qt-format
+msgctxt "PreLaunchCommand|"
+msgid ""
+"Pre-Launch command failed with code %1.\n"
+"\n"
+msgstr ""
+"실행 전 명령어가 코드 %1와 함께 실패했습니다.\n"
+"\n"
+
+#: src/launcher/launch/steps/PreLaunchCommand.cpp:63
+msgctxt "PreLaunchCommand|"
+msgid ""
+"Pre-Launch command ran successfully.\n"
+"\n"
+msgstr ""
+"실행 전 명령어가 성공적으로 실행되었습니다.\n"
+"\n"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.ui:14
+msgctxt "ProfileSelectDialog|"
+msgid "Select an Account"
+msgstr "계정 선택"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.ui:20
+msgctxt "ProfileSelectDialog|"
+msgid "Select a profile."
+msgstr "프로필을 선택하세요."
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.ui:38
+msgctxt "ProfileSelectDialog|"
+msgid "Use as default?"
+msgstr "기본값으로?"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.ui:45
+msgctxt "ProfileSelectDialog|"
+msgid "Use as default for this instance only?"
+msgstr "이 인스턴스에서만의 기본값으로?"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:41
+#: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:45
+msgctxt "ProfileSelectDialog|"
+msgid "Name"
+msgstr "이름"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:53
+#, qt-format
+msgctxt "ProfileSelectDialog|"
+msgid "%1 (in use)"
+msgstr "%1 (이미 사용중)"
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.ui:14
+msgctxt "ProfileSetupDialog|"
+msgid "Choose Minecraft name"
+msgstr "마인크래프트 이름 선택"
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.ui:26
+msgctxt "ProfileSetupDialog|"
+msgid ""
+"You just need to take one more step to be able to play Minecraft on this "
+"account.\n"
+"\n"
+"Choose your name carefully:"
+msgstr ""
+"이 계정으로 마인크래프트를 플레이 하려면 한 단계만 더 걸으면 됩니다.\n"
+"\n"
+"이름을 신중하게 선택하십시오:"
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:104
+msgctxt "ProfileSetupDialog|"
+msgid "Name is too short - must be between 3 and 16 characters long."
+msgstr "이름이 너무 짧습니다 - 길이는 3~16자 사이여야 합니다."
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:164
+#, qt-format
+msgctxt "ProfileSetupDialog|"
+msgid "Minecraft profile with name %1 already exists."
+msgstr "이름이 %1인 마인크래프트 프로필이 이미 있습니다."
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:167
+#, qt-format
+msgctxt "ProfileSetupDialog|"
+msgid "The name %1 is not allowed."
+msgstr "이 이름 %1은 허용되지 않습니다."
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:170
+#, qt-format
+msgctxt "ProfileSetupDialog|"
+msgid "Unhandled profile name status: %1"
+msgstr "처리되지 않은 프로필 이름 상태: %1"
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:174
+msgctxt "ProfileSetupDialog|"
+msgid "Failed to check name availability."
+msgstr "이름을 찾을 수 없습니다."
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:251
+msgctxt "ProfileSetupDialog|"
+msgid "The server returned the following error:"
+msgstr "서버에서 다음 오류를 반환했습니다:"
+
+#: src/launcher/ui/dialogs/ProgressDialog.ui:26
+msgctxt "ProgressDialog|"
+msgid "Please wait..."
+msgstr "잠시만 기다려주세요..."
+
+#: src/launcher/ui/dialogs/ProgressDialog.ui:32
+msgctxt "ProgressDialog|"
+msgid "Task Status..."
+msgstr "작업 상태..."
+
+#: src/launcher/ui/dialogs/ProgressDialog.ui:58
+msgctxt "ProgressDialog|"
+msgid "Skip"
+msgstr "건너뛰기"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:42
+msgctxt "ProxyPage|"
+msgid ""
+"This only applies to the launcher. Minecraft does not accept proxy settings."
+msgstr "이는 런처에만 적용됩니다. 마인크래프트는 프록시 설정을 사용하지 않습니다."
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:55
+msgctxt "ProxyPage|"
+msgid "Type"
+msgstr "유형"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:61
+msgctxt "ProxyPage|"
+msgid "Uses your system's default proxy settings."
+msgstr "시스템의 기본 프록시 설정을 사용합니다."
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:64
+msgctxt "ProxyPage|"
+msgid "&Default"
+msgstr "기본값 (&D)"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:74
+msgctxt "ProxyPage|"
+msgid "&None"
+msgstr "없음 (&N)"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:84
+msgctxt "ProxyPage|"
+msgid "SOC&KS5"
+msgstr "SOC&KS5"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:94
+msgctxt "ProxyPage|"
+msgid "H&TTP"
+msgstr "H&TTP"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:107
+msgctxt "ProxyPage|"
+msgid "Address and Port"
+msgstr "주소와 포트"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:139
+msgctxt "ProxyPage|"
+msgid "Authentication"
+msgstr "인증"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:148
+msgctxt "ProxyPage|"
+msgid "Username:"
+msgstr "아이디:"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:155
+msgctxt "ProxyPage|"
+msgid "Password:"
+msgstr "비밀번호:"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:169
+msgctxt "ProxyPage|"
+msgid ""
+"Note: Proxy username and password are stored in plain text inside the "
+"launcher's configuration file!"
+msgstr "참고: 프록시 아이디와 비밀번호는 런처의 설정 파일에 평문으로 저장됩니다!"
+
+#: src/launcher/ui/pages/global/ProxyPage.h:39
+msgctxt "ProxyPage|"
+msgid "Proxy"
+msgstr "프록시"
+
+#: src/launcher/ui/themes/DarkTheme.cpp:10
+msgctxt "QObject|"
+msgid "Dark"
+msgstr "어두움"
+
+#: src/launcher/ui/themes/SystemTheme.cpp:47
+msgctxt "QObject|"
+msgid "System"
+msgstr "시스템"
+
+#: src/launcher/ui/themes/BrightTheme.cpp:10
+msgctxt "QObject|"
+msgid "Bright"
+msgstr "밝음"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:122
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"<p>There are no code changes between your current version and latest %1.</p>"
+msgstr "<p> 현재 버전과 최신 버전 %1 사이에 코드 차이가 없습니다.</p>"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:126
+msgctxt "QObject|"
+msgid "<p>Following commits were added since last update:</p>"
+msgstr "<p>다음과 같은 커밋이 지난 번 업데이트 이후로 추가되었습니다:</p>"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:133
+#, qt-format
+msgctxt "QObject|"
+msgid "<p>The update removes %1 commits and adds the following %2:</p>"
+msgstr "<p>이번 업데이트는 커밋 %1을 제거하고 다음 커밋 %2를 추가합니다:</p>"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:136
+#, qt-format
+msgctxt "QObject|"
+msgid "<p>You can <a href=\"%1\">look at the changes on github</a>.</p>"
+msgstr "<p> <a href=\"%1\">에서 깃헙에서의 변화를 볼 수 있습니다</a>.</p>"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:36
+msgctxt "QObject|About Credits"
+msgid "Developers"
+msgstr "개발자"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:44
+msgctxt "QObject|About Credits"
+msgid "With thanks to"
+msgstr "다음 사람들에게 고마움을 표하며:"
+
+#: src/launcher/ui/MainWindow.cpp:100
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 (in use)"
+msgstr "%1 (이미 사용중)"
+
+#: src/launcher/ui/GuiUtil.cpp:27
+msgctxt "QObject|"
+msgid "Upload failed"
+msgstr "업로드 실패"
+
+#: src/launcher/ui/GuiUtil.cpp:38
+msgctxt "QObject|"
+msgid "Upload finished"
+msgstr "업로드 완료됨"
+
+#: src/launcher/ui/GuiUtil.cpp:39
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"The <a href=\"%1\">link to the uploaded log</a> has been placed in your "
+"clipboard."
+msgstr "<a href=\"%1\">업로드된 로그 링크</a>는 클립보드에 복사되었습니다."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:285
+msgctxt "QObject|"
+msgid "The specified file either doesn't exist or is not a proper executable."
+msgstr "이 파일은 존재하지 않거나 올바른 실행 파일이 아닌 듯 합니다."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:290
+msgctxt "QObject|"
+msgid "The specified java binary didn't start properly.<br />"
+msgstr "선택된 자바 실행 파일이 정상적으로 시작되지 않았습니다.<br />"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:302
+msgctxt "QObject|"
+msgid "The specified java binary returned unexpected results:<br />"
+msgstr "선택된 자바 실행 파일이 예측되지 않은 다음 결과를 반환하였습니다:<br />"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:313
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"Java test succeeded!<br />Platform reported: %1<br />Java version reported: "
+"%2<br />"
+msgstr "자바 테스트 성공!<br />플랫폼 보고됨: %1<br />자바 버전 보고됨: %2<br />"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:322
+#: src/launcher/JavaCommon.cpp:35
+msgctxt "QObject|"
+msgid "Java test success"
+msgstr "자바 테스트 성공"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:322
+#: src/launcher/JavaCommon.cpp:45 src/launcher/JavaCommon.cpp:54
+msgctxt "QObject|"
+msgid "Java test failure"
+msgstr "자바 테스트 실패"
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:31
+msgctxt "QObject|"
+msgid "Minecraft Server"
+msgstr "마인크래프트 서버"
+
+#: src/launcher/minecraft/Component.cpp:249
+msgctxt "QObject|"
+msgid "Patch is not loaded yet."
+msgstr "패치가 아직 로드되지 않았습니다."
+
+#: src/launcher/minecraft/MojangVersionFormat.cpp:154
+#, qt-format
+msgctxt "QObject|"
+msgid "processArguments is set to unknown value '%1'"
+msgstr "processArguments이 알 수 없는 값 '%1'으로 설정되었습니다"
+
+#: src/launcher/minecraft/MojangVersionFormat.cpp:179
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"The 'minimumLauncherVersion' value of this version (%1) is higher than "
+"supported by %3 (%2). It might not work properly!"
+msgstr ""
+"이 버전의 'minimumLauncherVersion' 값(%1) 이 %3가 지원하는 (%2) 보다 높습니다. 올바로 작동하지 않을 수 "
+"있습니다!"
+
+#: src/launcher/minecraft/MojangVersionFormat.cpp:299
+#, qt-format
+msgctxt "QObject|"
+msgid "Library %1 name is broken and cannot be processed."
+msgstr "라이브러리 %1 이름이 손상되어 처리할 수 없습니다."
+
+#: src/launcher/minecraft/PackProfile.cpp:191
+#, qt-format
+msgctxt "QObject|"
+msgid "Invalid component file version, expected %1"
+msgstr "유효하지 않은 컴포넌트 파일 버전, %1을 예상하였음"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:162
+msgctxt "QObject|"
+msgid ""
+"Version file has both '+libraries' and 'libraries'. This is no longer "
+"supported."
+msgstr "버전 파일이 '+libraries'와 'libraries'를 모두 가지고 있습니다. 이는 더 이상 지원되지 않습니다."
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:202
+msgctxt "QObject|"
+msgid ""
+"URL for the main jar could not be determined - Mojang removed the server "
+"that we used as fallback."
+msgstr ""
+"메인 jar을 받을 URL을 결정할 수 없었음 - Mojang이 기존에 파일을 제공하던 서버를 내려 더 이상 찾을 수 없습니다."
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:235
+msgctxt "QObject|"
+msgid "Version file contains unsupported element 'tweakers'"
+msgstr "버전 파일이 지원되지 않는 요소 'tweakers'를 지니고 있음"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:239
+msgctxt "QObject|"
+msgid "Version file contains unsupported element '-libraries'"
+msgstr "버전 파일이 지원되지 않는 요소 '-libraries'를 지니고 있음"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:243
+msgctxt "QObject|"
+msgid "Version file contains unsupported element '-tweakers'"
+msgstr "버전 파일이 지원되지 않는 요소 '-tweakers'를 지니고 있음"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:247
+msgctxt "QObject|"
+msgid "Version file contains unsupported element '-minecraftArguments'"
+msgstr "버전 파일이 지원되지 않는 요소 '-minecraftArguments'를 지니고 있음"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:251
+msgctxt "QObject|"
+msgid "Version file contains unsupported element '+minecraftArguments'"
+msgstr "버전 파일이 지원되지 않는 요소 '+minecraftArguments'를 지니고 있음"
+
+#: src/launcher/minecraft/AssetsUtils.cpp:323
+#, qt-format
+msgctxt "QObject|"
+msgid "Assets for %1"
+msgstr "%1의 에셋"
+
+#: src/launcher/minecraft/ProfileUtils.cpp:51
+#, qt-format
+msgctxt "QObject|"
+msgid "Invalid order file version, expected %1"
+msgstr "유효하지 않은 순서의 파일 버전, %1을 예상하였음"
+
+#: src/launcher/minecraft/ProfileUtils.cpp:96
+#: src/launcher/minecraft/ProfileUtils.cpp:149
+#, qt-format
+msgctxt "QObject|"
+msgid "Unable to open the version file %1: %2."
+msgstr "버전 파일 %1을 열 수 없습니다: %2."
+
+#: src/launcher/minecraft/ProfileUtils.cpp:117
+#, qt-format
+msgctxt "QObject|"
+msgid "Unable to process the version file %1: %2 at line %3 column %4."
+msgstr "버전 파일 %1을 처리할 수 없습니다: %3번째 줄의 %4열, %2."
+
+#: src/launcher/minecraft/ProfileUtils.cpp:157
+#, qt-format
+msgctxt "QObject|"
+msgid "Unable to process the version file %1."
+msgstr "버전 파일 %1을 처리 할 수 없습니다."
+
+#: src/launcher/minecraft/auth/AccountData.cpp:418
+#, qt-format
+msgctxt "QObject|"
+msgid "No profile (%1)"
+msgstr "프로필 없음(%1)"
+
+#: src/launcher/UpdateController.cpp:366
+msgctxt "QObject|"
+msgid "Update failed!"
+msgstr "업로드 실패!"
+
+#: src/launcher/UpdateController.cpp:367
+msgctxt "QObject|"
+msgid "Rollback failed!"
+msgstr "롤백 실패!"
+
+#: src/launcher/UpdateController.cpp:372
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"Couldn't replace file %1. Changes will be reverted.\n"
+"See the %2 log file for details."
+msgstr ""
+"파일 %1을 교체할 수 없었습니다. 모든 변경 사항은 취소될 것입니다.\n"
+"더 자세한 내용은 %2 로그에서 확인하십시오."
+
+#: src/launcher/UpdateController.cpp:382
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"Couldn't remove file %1. Changes will be reverted.\n"
+"See the %2 log file for details."
+msgstr ""
+"파일 %1을 제거할 수 없었습니다. 모든 변경 사항은 취소될 것입니다.\n"
+"더 자세한 내용은 %2 로그에서 확인하십시오."
+
+#: src/launcher/UpdateController.cpp:392
+msgctxt "QObject|"
+msgid ""
+"The new version didn't start or is too old and doesn't respond to startup "
+"checks.\n"
+"\n"
+"Roll back to previous version?"
+msgstr ""
+"새 버전이 시작되지 않앗거나 너무 오래되어 시작 체크에 응답하지 않았습니다.\n"
+"\n"
+"이전 버전으로 롤백할까요?"
+
+#: src/launcher/UpdateController.cpp:414
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"The rollback failed too.\n"
+"You will have to repair %1 manually.\n"
+"Please let us know why and how this happened."
+msgstr ""
+"롤백조차 실패하였습니다.\n"
+"%1를 직접 고치셔야 할 것 같습니다.\n"
+"우리들에게 어떻게 일어난 일이고, 왜 일어났는지 보고해주시기 바랍니다."
+
+#: src/launcher/MMCTime.cpp:31
+#, qt-format
+msgctxt "QObject|"
+msgid "%1m %2s"
+msgstr "%1분 %2초"
+
+#: src/launcher/MMCTime.cpp:35
+#, qt-format
+msgctxt "QObject|"
+msgid "%1h %2m"
+msgstr "%1시 %2분"
+
+#: src/launcher/MMCTime.cpp:37
+#, qt-format
+msgctxt "QObject|"
+msgid "%1d %2h %3m"
+msgstr "%1일 %2시 %3분"
+
+#: src/launcher/JavaCommon.cpp:10
+msgctxt "QObject|"
+msgid ""
+"You tried to manually set a JVM memory option (using \"-XX:PermSize\", "
+"\"-XX-MaxHeapSize\", \"-XX:InitialHeapSize\",  \"-Xmx\" or \"-Xms\").\n"
+"There are dedicated boxes for these in the settings (Java tab, in the Memory "
+"group at the top).\n"
+"This message will be displayed until you remove them from the JVM arguments."
+msgstr ""
+"당신은 수동으로 JVM 메모리 옵션을 설정하려 했습니다(\"-XX:PermSize\", \"-XX-MaxHeapSize\", "
+"\"-XX:InitialHeapSize\",  \"-Xmx\" 또는 \"-Xms\" 사용).\n"
+"설정에 메모리 설정을 위한 전용 옵션들이 있습니다. (자바 탭 가장 위쪽의 메모리 그룹).\n"
+"수동 설정은 전용 옵션에 의해 재정의 될 것입니다.\n"
+"이 메세지는 JVM 명령줄 인수에서 메모리 옵션을 지울때까지 표시됩니다."
+
+#: src/launcher/JavaCommon.cpp:15
+msgctxt "QObject|"
+msgid "JVM arguments warning"
+msgstr "JVM 명령줄 인수 경고"
+
+#: src/launcher/JavaCommon.cpp:26
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"Java test succeeded!<br />Platform reported: %1<br />Java version reported: "
+"%2<br />Java vendor reported: %3<br />"
+msgstr ""
+"자바 테스트 성공!<br />플랫폼 보고됨: %1<br />자바 버전 보고됨: %2<br />자바 벤더 보고됨: %3<br />"
+
+#: src/launcher/JavaCommon.cpp:33
+#, qt-format
+msgctxt "QObject|"
+msgid "<br />Warnings:<br /><font color=\"orange\">%1</font>"
+msgstr "<br />경고:<br /><font color=\"orange\">%1</font>"
+
+#: src/launcher/JavaCommon.cpp:43
+msgctxt "QObject|"
+msgid ""
+"The specified java binary didn't work with the arguments you provided:<br />"
+msgstr "지정된 자바 실행 파일에 제공된 명령행 인수들을 적용하여 실행하지 못하였습니다:<br />"
+
+#: src/launcher/JavaCommon.cpp:51
+msgctxt "QObject|"
+msgid ""
+"The specified java binary didn't work.<br />You should use the auto-detect "
+"feature, or set the path to the java executable.<br />"
+msgstr ""
+"지정된 자바 바이너리는 동작하지 않습니다.<br />자동감지 기능을 사용하거나, path 환경 변수에 자바 실행파일 경로를 "
+"추가하세요.<br />"
+
+#: src/launcher/meta/BaseEntity.cpp:120
+#, qt-format
+msgctxt "QObject|"
+msgid "Download of meta file %1"
+msgstr "%1 메타 파일들을 다운로드 하는 중"
+
+#: src/launcher/meta/JsonFormat.cpp:140 src/launcher/meta/JsonFormat.cpp:153
+#: src/launcher/meta/JsonFormat.cpp:166
+msgctxt "QObject|"
+msgid "Unknown format version!"
+msgstr "알 수 없는 포맷 버전!"
+
+#: src/launcher/tools/JProfiler.cpp:99 src/launcher/tools/JVisualVM.cpp:92
+msgctxt "QObject|"
+msgid "Empty path"
+msgstr "빈 경로"
+
+#: src/launcher/tools/JVisualVM.cpp:98
+msgctxt "QObject|"
+msgid "Invalid path to JVisualVM"
+msgstr "유효하지 않은 JVisualVM 경로"
+
+#: src/launcher/tools/MCEditTool.cpp:37 src/launcher/tools/JProfiler.cpp:105
+msgctxt "QObject|"
+msgid "Path does not exist"
+msgstr "존재하지 않는 경로"
+
+#: src/launcher/tools/JProfiler.cpp:110
+msgctxt "QObject|"
+msgid "Invalid JProfiler install"
+msgstr "유효하지 않은 JProfiler 설치"
+
+#: src/launcher/tools/MCEditTool.cpp:31
+msgctxt "QObject|"
+msgid "Path is empty"
+msgstr "경로가 비어있습니다"
+
+#: src/launcher/tools/MCEditTool.cpp:42
+msgctxt "QObject|"
+msgid "Path does not seem to be a MCEdit path"
+msgstr "경로가 MCEdit 경로인 것 같지 않습니다"
+
+#: src/launcher/minecraft/mod/ResourcePackFolderModel.cpp:10
+msgctxt "ResourcePackFolderModel|"
+msgid "Is the resource pack enabled?"
+msgstr "리소스 팩이 활성화 되어있는가?"
+
+#: src/launcher/minecraft/mod/ResourcePackFolderModel.cpp:12
+msgctxt "ResourcePackFolderModel|"
+msgid "The name of the resource pack."
+msgstr "리소스 팩 이름"
+
+#: src/launcher/minecraft/mod/ResourcePackFolderModel.cpp:14
+msgctxt "ResourcePackFolderModel|"
+msgid "The version of the resource pack."
+msgstr "리소스 팩 버전"
+
+#: src/launcher/minecraft/mod/ResourcePackFolderModel.cpp:16
+msgctxt "ResourcePackFolderModel|"
+msgid "The date and time this resource pack was last changed (or added)."
+msgstr "리소스 팩이 마지막으로 수정(또는 추가) 된 날짜와 시각"
+
+#: src/launcher/ui/pages/instance/ResourcePackPage.h:12
+msgctxt "ResourcePackPage|"
+msgid "Resource packs"
+msgstr "리소스 팩"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:41
+msgctxt "ScreenshotsPage|"
+msgid "Actions"
+msgstr "작업"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:59
+msgctxt "ScreenshotsPage|"
+msgid "Upload"
+msgstr "업로드"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:64
+msgctxt "ScreenshotsPage|"
+msgid "Delete"
+msgstr "삭제"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:69
+msgctxt "ScreenshotsPage|"
+msgid "Rename"
+msgstr "이름 바꾸기"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:74
+msgctxt "ScreenshotsPage|"
+msgid "View Folder"
+msgstr "폴더 보기"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.h:52
+msgctxt "ScreenshotsPage|"
+msgid "Screenshots"
+msgstr "스크린샷들"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:274
+msgctxt "ScreenshotsPage|"
+msgid "Context menu"
+msgstr "컨텍스트 메뉴"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:320
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:360
+msgctxt "ScreenshotsPage|"
+msgid "Failed to upload screenshots!"
+msgstr "스크린샷을 업로드 하는 데 실패하였습니다!"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:321
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:361
+msgctxt "ScreenshotsPage|"
+msgid "Unknown error"
+msgstr "알 수 없는 오류"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:330
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:372
+msgctxt "ScreenshotsPage|"
+msgid "Upload finished"
+msgstr "업로드 완료함"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:331
+#, qt-format
+msgctxt "ScreenshotsPage|"
+msgid ""
+"The <a href=\"%1\">link  to the uploaded screenshot</a> has been placed in "
+"your clipboard."
+msgstr "업로드된 <a href=\"%1\"> 스크린샷의 링크</a>는 클립보드에 복사되었습니다."
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:373
+#, qt-format
+msgctxt "ScreenshotsPage|"
+msgid ""
+"The <a href=\"%1\">link  to the uploaded album</a> has been placed in your "
+"clipboard."
+msgstr "업로드된 <a href=\"%1\"> 앨범의 링크</a>는 클립보드에 복사되었습니다."
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
+msgctxt "ScreenshotsPage|"
+msgid "Are you sure?"
+msgstr "정말로 하시겠습니까?"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
+msgctxt "ScreenshotsPage|"
+msgid "This will delete all selected screenshots."
+msgstr "선택한 모든 스크린샷이 삭제됩니다."
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:289
+msgctxt "ServersModel|"
+msgid "Name"
+msgstr "이름"
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:291
+msgctxt "ServersModel|"
+msgid "Address"
+msgstr "주소"
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:293
+msgctxt "ServersModel|"
+msgid "Latency"
+msgstr "지연시간"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:72
+msgctxt "ServersPage|"
+msgid "&Name"
+msgstr "이름 (&N)"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:85
+msgctxt "ServersPage|"
+msgid "Address"
+msgstr "주소와 포트"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:98
+msgctxt "ServersPage|"
+msgid "Reso&urces"
+msgstr "리소스 (U)"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:109
+msgctxt "ServersPage|"
+msgid "Ask to download"
+msgstr "다운로드 요청"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:114
+msgctxt "ServersPage|"
+msgid "Always download"
+msgstr "항상 다운로드"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:119
+msgctxt "ServersPage|"
+msgid "Never download"
+msgstr "다운로드 금지"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:130
+msgctxt "ServersPage|"
+msgid "Actions"
+msgstr "작업"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:155
+msgctxt "ServersPage|"
+msgid "Add"
+msgstr "추가"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:160
+msgctxt "ServersPage|"
+msgid "Remove"
+msgstr "제거"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:165
+msgctxt "ServersPage|"
+msgid "Move Up"
+msgstr "위로 이동"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:170
+msgctxt "ServersPage|"
+msgid "Move Down"
+msgstr "아래로 이동"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:175
+msgctxt "ServersPage|"
+msgid "Join"
+msgstr "가입"
+
+#: src/launcher/ui/pages/instance/ServersPage.h:46
+msgctxt "ServersPage|"
+msgid "Servers"
+msgstr "서버"
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:605
+msgctxt "ServersPage|"
+msgid "Context menu"
+msgstr "컨텍스트 메뉴"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:28
+msgctxt "SetupWizard|"
+msgid "&Next >"
+msgstr "다음 (&N) >"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:29
+msgctxt "SetupWizard|"
+msgid "< &Back"
+msgstr "< 뒤로가기 (&B)"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:30
+msgctxt "SetupWizard|"
+msgid "&Finish"
+msgstr "마침 (&F)"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:31
+msgctxt "SetupWizard|"
+msgid "&Refresh"
+msgstr "새로고침 (&R)"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:32
+#, qt-format
+msgctxt "SetupWizard|"
+msgid "%1 Quick Setup"
+msgstr "%1 빠른 설치"
+
+#: src/launcher/ui/pages/instance/ShaderPackPage.h:12
+msgctxt "ShaderPackPage|"
+msgid "Shader packs"
+msgstr "쉐이더 팩"
+
+#: src/launcher/minecraft/services/SkinDelete.cpp:20
+msgctxt "SkinDelete|"
+msgid "Deleting skin"
+msgstr "스킨 삭제 중"
+
+#: src/launcher/minecraft/services/SkinUpload.cpp:45
+msgctxt "SkinUpload|"
+msgid "Uploading skin"
+msgstr "스킨 업로드 중"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:14
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:43
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:55
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:71
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:93
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:97
+msgctxt "SkinUploadDialog|"
+msgid "Skin Upload"
+msgstr "스킨 업로드 완료"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:20
+msgctxt "SkinUploadDialog|"
+msgid "Skin File"
+msgstr "스킨 파일"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:51
+msgctxt "SkinUploadDialog|"
+msgid "Player Model"
+msgstr "플레이어 모델"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:57
+msgctxt "SkinUploadDialog|"
+msgid "Steve Model"
+msgstr "클래식 (4x4)"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:67
+msgctxt "SkinUploadDialog|"
+msgid "Alex Model"
+msgstr "슬림 (3*4)"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:77
+msgctxt "SkinUploadDialog|"
+msgid "Cape"
+msgstr "망토"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:44
+msgctxt "SkinUploadDialog|"
+msgid "Using remote URLs for setting skins is not implemented yet."
+msgstr "원격 URL로 스킨을 지정하는 것은 아직 구현되지 않았습니다."
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:56
+msgctxt "SkinUploadDialog|"
+msgid "You cannot use an invalid URL for uploading skins."
+msgstr "유효하지 않은 URL으로는 스킨을 업로드할 수 없습니다."
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:71
+msgctxt "SkinUploadDialog|"
+msgid "Skin file does not exist!"
+msgstr "스킨 파일이 존재하지 않습니다!"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:93
+msgctxt "SkinUploadDialog|"
+msgid "Failed to upload skin!"
+msgstr "스킨 업로드에 실패하였습니다!"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:97
+msgctxt "SkinUploadDialog|"
+msgid "Success"
+msgstr "성공"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:103
+msgctxt "SkinUploadDialog|"
+msgid "Select Skin Texture"
+msgstr "스킨 텍스처 선택"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:120
+msgctxt "SkinUploadDialog|"
+msgid "No Cape"
+msgstr "망토 없음"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:42
+#, qt-format
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid ""
+"Downloading modpack:\n"
+"%1"
+msgstr ""
+"모드팩 다운로드 중:\n"
+"%1"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:47
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Modpack download"
+msgstr "모드팩 다운로드"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:61
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Extracting modpack"
+msgstr "모드팩 추출 중"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:69
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Unable to open supplied modpack zip file."
+msgstr "모드팩 압축 파일을 열 수 없음."
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:97
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Failed to extract modpack"
+msgstr "모드팩 추출 실패"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:124
+#, qt-format
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Could not fix permissions for %1"
+msgstr "%1에 대한 권한 문제를 해결하지 못함"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:141
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Instance import has been aborted."
+msgstr "인스턴스 읽어들이기가 중단되었습니다."
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:44
+#, qt-format
+msgctxt "Technic::SolderPackInstallTask|"
+msgid ""
+"Finding recommended version:\n"
+"%1"
+msgstr ""
+"권장 버전을 찾는 중:\n"
+"%1"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:45
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Finding recommended version"
+msgstr "권장 버전을 찾는 중"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:69
+#, qt-format
+msgctxt "Technic::SolderPackInstallTask|"
+msgid ""
+"Resolving modpack files:\n"
+"%1"
+msgstr "다음의 모드팩 파일(들) 처리중: %1"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:70
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Resolving modpack files"
+msgstr "모드팩 파일(들) 처리중"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:80
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Downloading modpack:"
+msgstr "모드팩 다운로드 중:"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:102
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Downloading modpack"
+msgstr "모드팩 다운로드 중"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:123
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Extracting modpack"
+msgstr "모드팩 추출 중"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:164
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Failed to extract modpack"
+msgstr "모드팩 추출 실패"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:191
+#, qt-format
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Could not fix permissions for %1"
+msgstr "%1에 대한 권한 문제를 해결하지 못함"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:208
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Instance import has been aborted."
+msgstr "인스턴스 읽어들이기가 중단되었습니다."
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:58
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to open \"bin/modpack.jar\" file!"
+msgstr "\"bin/modpack.jar\" 파일을 열 수 없습니다!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:70
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to open \"fmlversion.properties\"!"
+msgstr "\"fmlversion.properties\"를 열 수 없습니다!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:84
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:139
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to open \"version.json\"!"
+msgstr "\"version.json\"를 열 수 없습니다!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:93
+msgctxt "Technic::TechnicPackProcessor|"
+msgid ""
+"Could not find \"version.json\" inside \"bin/modpack.jar\", but minecraft "
+"version is unknown"
+msgstr ""
+"\"bin/modpack.jar\"에서 \"version.json\"을 찾지 못하였으며, 수동으로 선택하지도 않아 마인크래프트 버전을 알 "
+"수 없음"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:107
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to open \"forgeversion.properties\""
+msgstr "\"forgeversion.properties\"를 열 수 없음"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:122
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Invalid \"forgeversion.properties\"!"
+msgstr "유효하지 않은 \"forgeversion.properties\"!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:148
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to find a \"version.json\"!"
+msgstr "\"version.json\"를 찾을 수 없습니다!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:161
+msgctxt "Technic::TechnicPackProcessor|"
+msgid ""
+"Could not understand \"version.json\":\n"
+"inheritsFrom is missing"
+msgstr ""
+"\"version.json\"을 해석하지 못함:\n"
+"inheritsFrom 누락됨"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:202
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Could not understand \"version.json\":\n"
+msgstr "\"version.json\"을 해석하지 못함:\n"
+
+#: src/launcher/ui/pages/modplatform/technic/TechnicPage.ui:32
+msgctxt "TechnicPage|"
+msgid "Search and filter ..."
+msgstr "검색 및 필터..."
+
+#: src/launcher/ui/pages/modplatform/technic/TechnicPage.ui:39
+msgctxt "TechnicPage|"
+msgid "Search"
+msgstr "검색"
+
+#: src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp:187
+msgctxt "TechnicPage|"
+msgid " by "
+msgstr " by "
+
+#: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:45
+msgctxt "TechnicPage|"
+msgid "Technic"
+msgstr "테크닉"
+
+#: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
+msgctxt "TexturePackFolderModel|"
+msgid "Is the texture pack enabled?"
+msgstr "텍스처 팩이 활성화 되어있는가?"
+
+#: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:12
+msgctxt "TexturePackFolderModel|"
+msgid "The name of the texture pack."
+msgstr "텍스처 팩 이름"
+
+#: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:14
+msgctxt "TexturePackFolderModel|"
+msgid "The version of the texture pack."
+msgstr "텍스처 팩 버전"
+
+#: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:16
+msgctxt "TexturePackFolderModel|"
+msgid "The date and time this texture pack was last changed (or added)."
+msgstr "텍스쳐 팩이 마지막으로 수정(또는 추가) 된 날짜와 시각"
+
+#: src/launcher/ui/pages/instance/TexturePackPage.h:12
+msgctxt "TexturePackPage|"
+msgid "Texture packs"
+msgstr "텍스처 팩"
+
+#: src/launcher/translations/TranslationsModel.cpp:407
+#, qt-format
+msgctxt "TranslationsModel|"
+msgid ""
+"%1:\n"
+"%2 translated\n"
+"%3 fuzzy\n"
+"%4 total"
+msgstr ""
+"%1:\n"
+"번역됨: %2\n"
+"정확하지 않음: %3\n"
+"전체: %4"
+
+#: src/launcher/translations/TranslationsModel.cpp:425
+msgctxt "TranslationsModel|"
+msgid "Language"
+msgstr "언어"
+
+#: src/launcher/translations/TranslationsModel.cpp:429
+msgctxt "TranslationsModel|"
+msgid "Completeness"
+msgstr "완료됨"
+
+#: src/launcher/translations/TranslationsModel.cpp:439
+msgctxt "TranslationsModel|"
+msgid "The native language name."
+msgstr "언어의 이름."
+
+#: src/launcher/translations/TranslationsModel.cpp:443
+msgctxt "TranslationsModel|"
+msgid ""
+"Completeness is the percentage of fully translated strings, not counting "
+"automatically guessed ones."
+msgstr "완료된 정도는 완전히 번역된 문장의 비율이며, 자동 번역 문장은 포함되지 않습니다."
+
+#: src/launcher/launch/steps/Update.cpp:23
+msgctxt "Update|"
+msgid "Task aborted."
+msgstr "작업 중단됨."
+
+#: src/launcher/launch/steps/Update.cpp:52
+#, qt-format
+msgctxt "Update|"
+msgid ""
+"Instance update failed because: %1\n"
+"\n"
+msgstr ""
+"인스턴스 업데이트가 다음과 같은 이유로 실패하였습니다: %1.\n"
+"\n"
+
+#: src/launcher/ui/dialogs/UpdateDialog.ui:14
+#, fuzzy
+#| msgid "MultiMC Update"
+msgctxt "UpdateDialog|"
+msgid "PolyMC Update"
+msgstr "MultiMC 업데이트"
+
+#: src/launcher/ui/dialogs/UpdateDialog.ui:61
+msgctxt "UpdateDialog|"
+msgid "Update now"
+msgstr "지금 업데이트"
+
+#: src/launcher/ui/dialogs/UpdateDialog.ui:74
+msgctxt "UpdateDialog|"
+msgid "Don't update yet"
+msgstr "아직 업데이트하지 않기"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:17
+#, qt-format
+msgctxt "UpdateDialog|"
+msgid "A new %1 update is available!"
+msgstr "새로운 %1 업데이트가 가능합니다!"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:21
+#, qt-format
+msgctxt "UpdateDialog|"
+msgid "No %1 updates found. You are running the latest version."
+msgstr "%1 업데이트가 발견되지 않았습니다. 당신은 최신 버전을 사용하고 계십니다."
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:23
+msgctxt "UpdateDialog|"
+msgid "Close"
+msgstr "닫기"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:25
+msgctxt "UpdateDialog|"
+msgid "<center><h1>Loading changelog...</h1></center>"
+msgstr "<center><h1>변경사항 읽는 중...</h1></center>"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:165
+#, qt-format
+msgctxt "UpdateDialog|"
+msgid ""
+"<p align=\"center\" <span style=\"font-size:22pt;\">Failed to fetch "
+"changelog... Error: %1</span></p>"
+msgstr ""
+"<p align=\"center\" <span style=\"font-size:22pt;\">변경사항을 불러 오지 못했습니다... 오류: "
+"%1</span></p>"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:41
+msgctxt "VanillaPage|"
+msgid "Filter"
+msgstr "필터"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:51
+msgctxt "VanillaPage|"
+msgid "Releases"
+msgstr "일반 릴리즈"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:64
+msgctxt "VanillaPage|"
+msgid "Snapshots"
+msgstr "스냅샷"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:74
+msgctxt "VanillaPage|"
+msgid "Old Snapshots"
+msgstr "이전 버전 스냅샷"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:84
+msgctxt "VanillaPage|"
+msgid "Betas"
+msgstr "베타"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:94
+msgctxt "VanillaPage|"
+msgid "Alphas"
+msgstr "알파"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:104
+msgctxt "VanillaPage|"
+msgid "Experiments"
+msgstr "실험적"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:127
+msgctxt "VanillaPage|"
+msgid "Refresh"
+msgstr "새로고침"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.h:40
+msgctxt "VanillaPage|"
+msgid "Vanilla"
+msgstr "바닐라"
+
+#: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:26
+msgctxt "VerifyJavaInstall|"
+msgid "Minecraft 1.18 Pre Release 2 and above require the use of Java 17"
+msgstr "마인크래프트 1.18 Pre Release 2 이상은 Java 17의 사용을 요구합니다."
+
+#: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:35
+msgctxt "VerifyJavaInstall|"
+msgid "Minecraft 21w19a and above require the use of Java 16"
+msgstr "마인크래프트 21w19a 이상은 Java 16의 사용을 요구합니다."
+
+#: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:44
+msgctxt "VerifyJavaInstall|"
+msgid "Minecraft 17w13a and above require the use of Java 8"
+msgstr "마인크래프트 17w13a 이상은 Java 8의 사용을 요구합니다."
+
+#: src/launcher/ui/widgets/VersionListView.cpp:26
+msgctxt "VersionListView|"
+msgid "No versions are currently available."
+msgstr "현재 사용가능한 버전들이 없습니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:60
+msgctxt "VersionPage|"
+msgid "Filter:"
+msgstr "필터:"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:82
+msgctxt "VersionPage|"
+msgid "Actions"
+msgstr "작업"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:125
+msgctxt "VersionPage|"
+msgid "Change version"
+msgstr "버전 변경"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:128
+msgctxt "VersionPage|"
+msgid "Change version of the selected package."
+msgstr "선택한 패키지의 버전을 바꿉니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:133
+msgctxt "VersionPage|"
+msgid "Move up"
+msgstr "위로 이동"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:136
+msgctxt "VersionPage|"
+msgid "Make the selected package apply sooner."
+msgstr "선택한 패키지가 더 먼저 적용되도록 합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:141
+msgctxt "VersionPage|"
+msgid "Move down"
+msgstr "아래로 이동"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:144
+msgctxt "VersionPage|"
+msgid "Make the selected package apply later."
+msgstr "선택된 패키지가 더 나중에 적용되도록 합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:149
+msgctxt "VersionPage|"
+msgid "Remove"
+msgstr "제거"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:152
+msgctxt "VersionPage|"
+msgid "Remove selected package from the instance."
+msgstr "선택한 패키지를 인스턴스로부터 제거합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:157
+msgctxt "VersionPage|"
+msgid "Customize"
+msgstr "사용자 설정"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:160
+msgctxt "VersionPage|"
+msgid "Customize selected package."
+msgstr "선택한 패키지를 세부 설정합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:165
+msgctxt "VersionPage|"
+msgid "Edit"
+msgstr "편집"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:168
+msgctxt "VersionPage|"
+msgid "Edit selected package."
+msgstr "선택한 패키지를 편집합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:173
+msgctxt "VersionPage|"
+msgid "Revert"
+msgstr "되돌리기"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:176
+msgctxt "VersionPage|"
+msgid "Revert the selected package to default."
+msgstr "선택한 패키지를 기본값으로 되돌립니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:181
+msgctxt "VersionPage|"
+msgid "Install Forge"
+msgstr "포지 설치"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:184
+msgctxt "VersionPage|"
+msgid "Install the Minecraft Forge package."
+msgstr "마인크래프트 포지 패키지를 설치합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:189
+msgctxt "VersionPage|"
+msgid "Install Fabric"
+msgstr "패브릭 설치"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:192
+msgctxt "VersionPage|"
+msgid "Install the Fabric Loader package."
+msgstr "패브릭 로더 패키지를 설치합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:197
+msgctxt "VersionPage|"
+msgid "Install LiteLoader"
+msgstr "라이트로더 설치"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:200
+msgctxt "VersionPage|"
+msgid "Install the LiteLoader package."
+msgstr "라이트로더 패키지를 설치합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:205
+msgctxt "VersionPage|"
+msgid "Install mods"
+msgstr "모드 설치"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:208
+msgctxt "VersionPage|"
+msgid "Install normal mods."
+msgstr "일반 모드를 설치합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:213
+msgctxt "VersionPage|"
+msgid "Add to Minecraft.jar"
+msgstr "마인크래프트 jar에 추가하기"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:216
+msgctxt "VersionPage|"
+msgid "Add a mod into the Minecraft jar file."
+msgstr "마인크래프트 jar 파일에 모드를 추가합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:221
+msgctxt "VersionPage|"
+msgid "Replace Minecraft.jar"
+msgstr "마인크래프트 jar 대체하기"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:226
+msgctxt "VersionPage|"
+msgid "Add Empty"
+msgstr "빈 것 추가"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:229
+msgctxt "VersionPage|"
+msgid "Add an empty custom package."
+msgstr "비어있는 사용자 정의 패키지를 추가합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:234
+msgctxt "VersionPage|"
+msgid "Reload"
+msgstr "새로고침"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:237
+msgctxt "VersionPage|"
+msgid "Reload all packages."
+msgstr "모든 패키지 다시 로드하기."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:242
+msgctxt "VersionPage|"
+msgid "Download All"
+msgstr "모두 다운로드"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:245
+msgctxt "VersionPage|"
+msgid "Download the files needed to launch the instance now."
+msgstr "인스턴스 실행에 필요한 모든 파일을 지금 다운로드합니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:250
+msgctxt "VersionPage|"
+msgid "Open .minecraft"
+msgstr ".minecraft 열기"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:253
+msgctxt "VersionPage|"
+msgid "Open the instance's .minecraft folder."
+msgstr "인스턴스의 .minecraft 폴더를 엽니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:258
+msgctxt "VersionPage|"
+msgid "Open libraries"
+msgstr "라이브러리 열기"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:261
+msgctxt "VersionPage|"
+msgid "Open the instance's local libraries folder."
+msgstr "인스턴스의 로컬 라이브러리 폴더를 엽니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:155
+msgctxt "VersionPage|"
+msgid "Context menu"
+msgstr "컨텍스트 메뉴"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:173
+#, qt-format
+msgctxt "VersionPage|"
+msgid "%1 possibly has issues."
+msgstr "%1은 아마도 문제가 있습니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:176
+#, qt-format
+msgctxt "VersionPage|"
+msgid "%1 has issues!"
+msgstr "%1은 문제가 있습니다!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:190
+msgctxt "VersionPage|"
+msgid "Error: "
+msgstr "오류: "
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:194
+msgctxt "VersionPage|"
+msgid "Warning: "
+msgstr "경고: "
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:253
+#: src/launcher/ui/pages/instance/VersionPage.cpp:259
+#: src/launcher/ui/pages/instance/VersionPage.cpp:278
+#: src/launcher/ui/pages/instance/VersionPage.cpp:322
+#: src/launcher/ui/pages/instance/VersionPage.cpp:335
+#: src/launcher/ui/pages/instance/VersionPage.cpp:397
+msgctxt "VersionPage|"
+msgid "Error"
+msgstr "오류"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:260
+msgctxt "VersionPage|"
+msgid "Couldn't load the instance profile."
+msgstr "인스턴스 프로필을 불러올 수 없었습니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:278
+msgctxt "VersionPage|"
+msgid "Couldn't remove file"
+msgstr "파일을 제거할 수 없음"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:296
+msgctxt "VersionPage|"
+msgid "Select jar mods"
+msgstr "Jar 모드 선택"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:296
+msgctxt "VersionPage|"
+msgid "Minecraft.jar mods (*.zip *.jar)"
+msgstr "마인크래프트 jar 모드들 (*.zip *.jar)"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:306
+msgctxt "VersionPage|"
+msgid "Select jar"
+msgstr "Jar 모드 선택"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:306
+msgctxt "VersionPage|"
+msgid "Minecraft.jar replacement (*.jar)"
+msgstr "마인크래프트 jar 대체하기 (*.jar)"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:366
+#, qt-format
+msgctxt "VersionPage|"
+msgid "Change %1 version"
+msgstr "%1 버전 변경"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:369
+msgctxt "VersionPage|"
+msgid "No intermediary mappings versions are currently available."
+msgstr "현재 사용 가능한 intermediary mappings 버전이 없습니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:370
+msgctxt "VersionPage|"
+msgid "Couldn't load or download the intermediary mappings version lists!"
+msgstr "Intermediary mappings 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:398
+#, fuzzy
+#| msgid ""
+#| "MultiMC cannot download Minecraft or update instances unless you have at "
+#| "least one account added.\n"
+#| "Please add your Mojang or Minecraft account."
+msgctxt "VersionPage|"
+msgid ""
+"PolyMC cannot download Minecraft or update instances unless you have at "
+"least one account added.\n"
+"Please add your Mojang or Minecraft account."
+msgstr ""
+"최소 하나 이상의 계정을 추가하지 않을 시 마인크래프트를 다운로드하거나 인스턴스들을 업데이트할 수 없습니다.\n"
+"Mojang 및 마인크래프트 계정을 추가해주세요."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:424
+msgctxt "VersionPage|"
+msgid "Select Forge version"
+msgstr "포지 버전을 선택하세요"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:426
+msgctxt "VersionPage|"
+msgid "No Forge versions are currently available for Minecraft "
+msgstr "사용가능한 포지 버전이 없습니다. "
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:427
+msgctxt "VersionPage|"
+msgid "Couldn't load or download the Forge version lists!"
+msgstr "포지 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:453
+msgctxt "VersionPage|"
+msgid "Select Fabric Loader version"
+msgstr "패브릭 로더 버전을 선택하세요"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:454
+msgctxt "VersionPage|"
+msgid "No Fabric Loader versions are currently available."
+msgstr "현재 사용가능한 패브릭 로더 버전(들)이 없습니다."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:455
+msgctxt "VersionPage|"
+msgid "Couldn't load or download the Fabric Loader version lists!"
+msgstr "패브릭 로더 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:498
+msgctxt "VersionPage|"
+msgid "Select LiteLoader version"
+msgstr "라이트로더 버전을 선택하세요"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:500
+msgctxt "VersionPage|"
+msgid "No LiteLoader versions are currently available for Minecraft "
+msgstr "사용가능한 라이트로더 버전이 없습니다. "
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:501
+msgctxt "VersionPage|"
+msgid "Couldn't load or download the LiteLoader version lists!"
+msgstr "라이트로더 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:557
+msgctxt "VersionPage|"
+msgid "Error updating instance"
+msgstr "인스턴스 업데이트 중 오류"
+
+#: src/launcher/ui/pages/instance/VersionPage.h:38
+msgctxt "VersionPage|"
+msgid "Version"
+msgstr "버전"
+
+#: src/launcher/VersionProxyModel.cpp:76
+msgctxt "VersionProxyModel|"
+msgid "Version"
+msgstr "버전"
+
+#: src/launcher/VersionProxyModel.cpp:78
+msgctxt "VersionProxyModel|"
+msgid "Minecraft"
+msgstr "마인크래프트"
+
+#: src/launcher/VersionProxyModel.cpp:80
+msgctxt "VersionProxyModel|"
+msgid "Branch"
+msgstr "분류"
+
+#: src/launcher/VersionProxyModel.cpp:82
+msgctxt "VersionProxyModel|"
+msgid "Type"
+msgstr "유형"
+
+#: src/launcher/VersionProxyModel.cpp:84
+msgctxt "VersionProxyModel|"
+msgid "Architecture"
+msgstr "아키텍처"
+
+#: src/launcher/VersionProxyModel.cpp:86
+msgctxt "VersionProxyModel|"
+msgid "Path"
+msgstr "경로"
+
+#: src/launcher/VersionProxyModel.cpp:88
+msgctxt "VersionProxyModel|"
+msgid "Released"
+msgstr "릴리즈 시기"
+
+#: src/launcher/VersionProxyModel.cpp:96
+msgctxt "VersionProxyModel|"
+msgid "The name of the version."
+msgstr "버전의 이름입니다."
+
+#: src/launcher/VersionProxyModel.cpp:98
+msgctxt "VersionProxyModel|"
+msgid "Minecraft version"
+msgstr "마인크래프트 버전"
+
+#: src/launcher/VersionProxyModel.cpp:100
+msgctxt "VersionProxyModel|"
+msgid "The version's branch"
+msgstr "버전의 분류"
+
+#: src/launcher/VersionProxyModel.cpp:102
+msgctxt "VersionProxyModel|"
+msgid "The version's type"
+msgstr "버전의 유형"
+
+#: src/launcher/VersionProxyModel.cpp:104
+msgctxt "VersionProxyModel|"
+msgid "CPU Architecture"
+msgstr "CPU 아키텍처"
+
+#: src/launcher/VersionProxyModel.cpp:106
+msgctxt "VersionProxyModel|"
+msgid "Filesystem path to this version"
+msgstr "이 버전으로의 파일 시스템 경로"
+
+#: src/launcher/VersionProxyModel.cpp:108
+msgctxt "VersionProxyModel|"
+msgid "Release date of this version"
+msgstr "이 버전의 릴리즈 날짜"
+
+#: src/launcher/VersionProxyModel.cpp:133
+#, qt-format
+msgctxt "VersionProxyModel|"
+msgid "%1 (installed)"
+msgstr "%1 (설치됨)"
+
+#: src/launcher/VersionProxyModel.cpp:164
+msgctxt "VersionProxyModel|"
+msgid "Recommended"
+msgstr "권장"
+
+#: src/launcher/VersionProxyModel.cpp:171
+#: src/launcher/VersionProxyModel.cpp:176
+msgctxt "VersionProxyModel|"
+msgid "Latest"
+msgstr "최신"
+
+#: src/launcher/ui/dialogs/VersionSelectDialog.cpp:81
+msgctxt "VersionSelectDialog|"
+msgid "Choose Version"
+msgstr "버전을 선택하세요"
+
+#: src/launcher/ui/dialogs/VersionSelectDialog.cpp:82
+msgctxt "VersionSelectDialog|"
+msgid "Reloads the version list."
+msgstr "버전 목록을 새로 고칩니다."
+
+#: src/launcher/ui/dialogs/VersionSelectDialog.cpp:83
+msgctxt "VersionSelectDialog|"
+msgid "&Refresh"
+msgstr "새로고침 (&R)"
+
+#: src/launcher/ui/widgets/VersionSelectWidget.cpp:128
+msgctxt "VersionSelectWidget|"
+msgid "Error"
+msgstr "오류"
+
+#: src/launcher/ui/widgets/VersionSelectWidget.cpp:128
+#, qt-format
+msgctxt "VersionSelectWidget|"
+msgid ""
+"List update failed:\n"
+"%1"
+msgstr ""
+"목록 업데이트 실패:\n"
+"%1"
+
+#: src/launcher/minecraft/WorldList.cpp:227
+msgctxt "WorldList|"
+msgid "Name"
+msgstr "이름"
+
+#: src/launcher/minecraft/WorldList.cpp:229
+msgctxt "WorldList|"
+msgid "Game Mode"
+msgstr "게임 모드"
+
+#: src/launcher/minecraft/WorldList.cpp:231
+msgctxt "WorldList|"
+msgid "Last Played"
+msgstr "최근 실행일"
+
+#: src/launcher/minecraft/WorldList.cpp:240
+msgctxt "WorldList|"
+msgid "The name of the world."
+msgstr "월드 이름입니다."
+
+#: src/launcher/minecraft/WorldList.cpp:242
+msgctxt "WorldList|"
+msgid "Game mode of the world."
+msgstr "월드의 게임 모드입니다."
+
+#: src/launcher/minecraft/WorldList.cpp:244
+msgctxt "WorldList|"
+msgid "Date and time the world was last played."
+msgstr "월드가 마지막으로 플레이 된 날짜와 시각"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:65
+msgctxt "WorldListPage|"
+msgid "Actions"
+msgstr "작업"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:97
+msgctxt "WorldListPage|"
+msgid "Add"
+msgstr "추가"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:102
+msgctxt "WorldListPage|"
+msgid "Rename"
+msgstr "이름 바꾸기"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:107
+msgctxt "WorldListPage|"
+msgid "Copy"
+msgstr "복사"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:112
+msgctxt "WorldListPage|"
+msgid "Remove"
+msgstr "제거"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:117
+msgctxt "WorldListPage|"
+msgid "MCEdit"
+msgstr "MCEdit"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:122
+msgctxt "WorldListPage|"
+msgid "Copy Seed"
+msgstr "시드 복사"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:127
+msgctxt "WorldListPage|"
+msgid "Refresh"
+msgstr "새로고침"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:132
+msgctxt "WorldListPage|"
+msgid "View Folder"
+msgstr "폴더 보기"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:137
+msgctxt "WorldListPage|"
+msgid "Reset Icon"
+msgstr "아이콘 초기화"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:140
+msgctxt "WorldListPage|"
+msgid "Remove world icon to make the game re-generate it on next load."
+msgstr "월드 아이콘을 제거하여 다음 번 실행시 게임이 이를 다시 만들도록 합니다."
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:145
+msgctxt "WorldListPage|"
+msgid "Datapacks"
+msgstr "데이터팩"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:148
+msgctxt "WorldListPage|"
+msgid "Manage datapacks inside the world."
+msgstr "월드에 있는 데이터팩 관리하기."
+
+#: src/launcher/ui/pages/instance/WorldListPage.h:45
+msgctxt "WorldListPage|"
+msgid "Worlds"
+msgstr "월드"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:108
+msgctxt "WorldListPage|"
+msgid "Context menu"
+msgstr "컨텍스트 메뉴"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:158
+msgctxt "WorldListPage|"
+msgid "Are you sure?"
+msgstr "정말로 하시겠습니까?"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:159
+msgctxt "WorldListPage|"
+msgid ""
+"This will remove the selected world permenantly.\n"
+"The world will be gone forever (A LONG TIME).\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"이 작업은 선택된 월드를 완전히 제거할 것입니다.\n"
+"이 월드는 시공 속으로 사라지는 겁니다.\n"
+"\n"
+"그래도 계속하시겠습니까?"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:270
+msgctxt "WorldListPage|"
+msgid "No MCEdit found or set up!"
+msgstr "MCEdit이 설치되지 않았거나 감지되지 않습니다!"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:271
+msgctxt "WorldListPage|"
+msgid ""
+"You do not have MCEdit set up or it was moved.\n"
+"You can set it up in the global settings."
+msgstr ""
+"MCEdit이 없거나 이동되었습니다.\n"
+"이는 전역 설정에서 설정 가능합니다."
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:280
+msgctxt "WorldListPage|"
+msgid "MCEdit failed to start!"
+msgstr "MCEdit 시작에 실패하였습니다!"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:281
+msgctxt "WorldListPage|"
+msgid ""
+"MCEdit failed to start.\n"
+"It may be necessary to reinstall it."
+msgstr ""
+"MCEdit 시작에 실패하였습니다.\n"
+"재설치가 필요할 수도 있습니다."
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:330
+msgctxt "WorldListPage|"
+msgid "Select a Minecraft world zip"
+msgstr "마인크래프트 월드 zip 선택하기"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:331
+msgctxt "WorldListPage|"
+msgid "Minecraft World Zip File (*.zip)"
+msgstr "마인크래프트 월드 zip 파일 (*.zip)"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:352
+msgctxt "WorldListPage|"
+msgid "Copy World"
+msgstr "월드 복사하기"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:352
+msgctxt "WorldListPage|"
+msgid ""
+"Changing a world while Minecraft is running is potentially unsafe.\n"
+"Do you wish to proceed?"
+msgstr ""
+"마인크래프트가 실행중인 동안 월드를 수정하는 것은 잠재적으로 위험합니다.\n"
+"그래도 계속하시겠습니까?"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:376
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:399
+msgctxt "WorldListPage|"
+msgid "World name"
+msgstr "월드 이름"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:376
+msgctxt "WorldListPage|"
+msgid "Enter a new name for the copy."
+msgstr "복사본을 위한 새로운 이름을 입력하세요."
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:399
+msgctxt "WorldListPage|"
+msgid "Enter a new world name."
+msgstr "새로운 월드 이름을 입력하세요."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:21
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Getting authorization to access %1 services."
+msgstr "%1 서비스에 액세스할 수 있는 권한을 얻는 중."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:68
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Failed to get authorization for %1 services. Error %1."
+msgstr "%1 서비스의 권한을 얻는 데 실패하였습니다. 오류 %1."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:78
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Could not parse authorization response for access to %1 services."
+msgstr "%1 서비스에 대한 액세스 권한 부여 응답을 분석할 수 없습니다."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:86
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid ""
+"Server has changed %1 authorization user hash in the reply. Something is "
+"wrong."
+msgstr "서버가 응답에서 %1 인증 사용자 해시를 변경했습니다. 뭔가 잘못되었습니다."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:93
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Got authorization to access %1"
+msgstr "%1 액세스 권한 부여하기"
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:109
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Cannot parse %1 authorization error response as JSON: %2"
+msgstr "JSON에 대한 %1 권한 부여 오류 반응을 분석할 수 없습니다: %2"
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:119
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "XErr element is missing from %1 authorization error response."
+msgstr "XErr element가 %1 인증 오류 응답에서 누락되었습니다."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:127
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid ""
+"This Microsoft account does not have an XBox Live profile. Buy the game on "
+"%1 first."
+msgstr "이 Microsoft 계정은 XBox Live 프로필을 가지고 있지 않습니다. 먼저 %1에서 게임을 구입하십시오."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:136
+msgctxt "XboxAuthorizationStep|"
+msgid "XBox Live is not available in your country. You've been blocked."
+msgstr "해당 국가에서는 XBox Live를 사용할 수 없습니다. 당신은 차단되었습니다."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:143
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid ""
+"This Microsoft account is underaged and is not linked to a family.\n"
+"\n"
+"Please set up your account according to %1."
+msgstr ""
+"이 Microsoft 계정은 나이가 낮으며 가족 계정에 연결되어 있지 않습니다.\n"
+" \n"
+"%1를 따라 계정을 설정해주세요."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:151
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid ""
+"XSTS authentication ended with unrecognized error(s):\n"
+"\n"
+"%1"
+msgstr ""
+"XSTS 인증이 다음의 인식할 수 없는 오류(들) 로 종료되었습니다:\n"
+"\n"
+"%1"
+
+#: src/launcher/minecraft/auth/steps/XboxProfileStep.cpp:17
+msgctxt "XboxProfileStep|"
+msgid "Fetching Xbox profile."
+msgstr "Xbox 프로필을 가져오는 중."
+
+#: src/launcher/minecraft/auth/steps/XboxProfileStep.cpp:63
+msgctxt "XboxProfileStep|"
+msgid "Failed to retrieve the Xbox profile."
+msgstr "Xbox 프로필을 찾지 못했습니다."
+
+#: src/launcher/minecraft/auth/steps/XboxProfileStep.cpp:72
+msgctxt "XboxProfileStep|"
+msgid "Got Xbox profile"
+msgstr "Xbox 프로필 가져오기"
+
+#: src/launcher/minecraft/auth/steps/XboxUserStep.cpp:15
+msgctxt "XboxUserStep|"
+msgid "Logging in as an Xbox user."
+msgstr "Xbox 유저로 로그인하는 중."
+
+#: src/launcher/minecraft/auth/steps/XboxUserStep.cpp:56
+msgctxt "XboxUserStep|"
+msgid "XBox user authentication failed."
+msgstr "XBox 유저 인증에 실패했습니다."
+
+#: src/launcher/minecraft/auth/steps/XboxUserStep.cpp:63
+msgctxt "XboxUserStep|"
+msgid "XBox user authentication response could not be understood."
+msgstr "XBox 유저 인증 응답을 이해할 수 없습니다."
+
+#: src/launcher/minecraft/auth/steps/XboxUserStep.cpp:67
+msgctxt "XboxUserStep|"
+msgid "Got Xbox user token"
+msgstr "Xbox 사용자 토큰 가져오기"
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:188
+msgctxt "Yggdrasil|"
+msgid "Authentication server didn't send a client token."
+msgstr "인증 서버가 클라이언트 토큰을 보내지 않았습니다."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:195
+msgctxt "Yggdrasil|"
+msgid ""
+"Authentication server attempted to change the client token. This isn't "
+"supported."
+msgstr "인증 서버가 클라이언트 토큰 변경을 시도하였습니다. 이것은 지원되지 않습니다."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:204
+msgctxt "Yggdrasil|"
+msgid "Authentication server didn't send an access token."
+msgstr "인증 서버가 접근 토큰을 보내지 않았습니다."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:226
+msgctxt "Yggdrasil|"
+msgid "Authentication operation timed out."
+msgstr "인증 작업 시간이 초과되었습니다."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:229
+msgctxt "Yggdrasil|"
+msgid "Authentication operation cancelled."
+msgstr "인증 작업이 취소되었습니다."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:234
+msgctxt "Yggdrasil|"
+msgid ""
+"<b>SSL Handshake failed.</b><br/>There might be a few causes for "
+"it:<br/><ul><li>You use Windows and need to update your root certificates, "
+"please install any outstanding updates.</li><li>Some device on your network "
+"is interfering with SSL traffic. In that case, you have bigger worries than "
+"Minecraft not starting.</li><li>Possibly something else. Check the log file "
+"for details</li></ul>"
+msgstr ""
+"<b>SSL 핸드쉐이크에 실패했습니다.</b><br/>이에 대해 몇 가지 원인이 있을 수 있습니다:<br/><ul><li>Windows를 "
+"쓰신다면 루트 인증서를 업데이트해야 합니다. 중요한 업데이트를 설치하십시오.</li><li>네트워크에 어떤 장치가 SSL 트래픽을 방해할 "
+"수 있습니다. 이 경우, 마인크래프트가 시작 안 하는 것에 대한 걱정보다 더 큰 걱정을 해야 합니다.</li><li>아마도 다른 원인일 "
+"수도 있습니다. 더 자세한 사항은 로그를 확인하세요.</li></ul>"
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:252
+msgctxt "Yggdrasil|"
+msgid ""
+"The Mojang account no longer exists. It may have been migrated to a "
+"Microsoft account."
+msgstr "Mojang 계정이 더 이상 존재하지 않습니다. 아마 Microsoft 계정으로 마이그레이션 되었을지도 모릅니다."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:258
+#, qt-format
+msgctxt "Yggdrasil|"
+msgid "Authentication operation failed due to a network error: %1 (%2)"
+msgstr "인증 작업이 네트워크 오류로 인해 실패하였습니다: %1 (%2)"
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:283
+#, qt-format
+msgctxt "Yggdrasil|"
+msgid ""
+"Failed to parse authentication server response JSON response: %1 at offset "
+"%2."
+msgstr "인증 서버 응답의 JSON 응답을 파싱하는 데 실패하였습니다: 오프셋 %2의 %1."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:307
+#, qt-format
+msgctxt "Yggdrasil|"
+msgid ""
+"An unknown error occurred when trying to communicate with the authentication "
+"server: %1"
+msgstr "인증 서버와 통신을 시도하는데 알 수 없는 오류가 발생했습니다: %1"
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:329
+msgctxt "Yggdrasil|"
+msgid "An unknown Yggdrasil error occurred."
+msgstr "알 수 없는 Yggdrasil 오류가 발생했습니다."
+
+#: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:17
+msgctxt "YggdrasilStep|"
+msgid "Logging in with Mojang account."
+msgstr "Mojang 계정으로 로그인 중."
+
+#: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:34
+msgctxt "YggdrasilStep|"
+msgid "Logged in with Mojang"
+msgstr "Mojang으로 로그인됨"
+
+#: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:43
+msgctxt "YggdrasilStep|"
+msgid "Mojang user authentication failed."
+msgstr "Mojang 유저 인증에 실패했습니다."
+
+#: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:48
+msgctxt "YggdrasilStep|"
+msgid "Mojang user authentication ended with a network error."
+msgstr "Mojang 유저 인증이 네트워크 오류로 종료되었습니다."

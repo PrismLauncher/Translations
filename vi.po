@@ -1,0 +1,6015 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: vi_VN\n"
+"X-Qt-Contexts: true\n"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:94
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Could not understand pack manifest:\n"
+msgstr "Không thể hiểu gói manifest:\n"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:102
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:183
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to get local metadata index for %1"
+msgstr "Không tải được metadata cục bộ cho %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:108
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to get local metadata index for '%1' v%2"
+msgstr "Không tải được metadata cục bộ cho '%1' v%2"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:170
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unknown mod type: %1"
+msgstr "Mod không rõ: %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:215
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to find version for %1 loader"
+msgstr "Không thể tìm thấy phiên bản cho %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:229
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "No loader version set for modpack!"
+msgstr "Không có phiên bản loader nào được đặt cho modpack!"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:333
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unknown or unsupported download type: %1"
+msgstr "Loại tải xuống không xác định hoặc không được hỗ trợ: %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:426
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Downloading configs..."
+msgstr "Đang tải xuống config..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:427
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Config download"
+msgstr "Tải xuống config"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:467
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Extracting configs..."
+msgstr "Đang giải nén config..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:474
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to open pack configs %1!"
+msgstr "Không mở được gói config %1!"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:504
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Selecting optional mods..."
+msgstr "Đang chọn các mod tùy chọn..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:508
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Downloading mods..."
+msgstr "Đang tải xuống mod..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:511
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Mod download"
+msgstr "Tải xuống mod"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:525
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unsupported download type: %1"
+msgstr "Loại tải xuống không được hỗ trợ: %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:531
+#, qt-format
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unknown download type: %1"
+msgstr "Loại tải xuống không xác định: %1"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:645
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to extract mods..."
+msgstr "Giải nén mod thất bại..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:656
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Extracting mods..."
+msgstr "Đang giải nén mod..."
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:718
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Installing modpack"
+msgstr "Đang cài đặt modpack"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:732
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to create libraries component"
+msgstr "Không tạo được thành phần thư viện"
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:756
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Unknown loader type: "
+msgstr "Loại loader không xác định: "
+
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:770
+msgctxt "ATLauncher::PackInstallTask|"
+msgid "Failed to create pack component"
+msgstr "Không tạo được thành phần gói"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:97
+msgctxt "AboutDialog|"
+msgid "About"
+msgstr "Về chúng tôi"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:106
+msgctxt "AboutDialog|"
+msgid ""
+"<html><head/><body><p>A custom launcher that makes managing Minecraft easier "
+"by allowing you to have multiple instances of Minecraft at "
+"once.</p></body></html>"
+msgstr ""
+"<html><head/><body><p>MultiMC là một launcher mà khiến cho việc quản lí "
+"Minecraft dễ dàng hơn bằng cách tạo ra nhiều phiên bản Minecraft khác "
+"nhau.</p></body></html>"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:157
+msgctxt "AboutDialog|"
+msgid "Version:"
+msgstr "Phiên bản:"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:167
+msgctxt "AboutDialog|"
+msgid "Platform:"
+msgstr "Nền tảng:"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:177
+msgctxt "AboutDialog|"
+msgid "Build Number:"
+msgstr "Bản dựng:"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:187
+msgctxt "AboutDialog|"
+msgid "Channel:"
+msgstr "Kênh:"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:211
+msgctxt "AboutDialog|"
+msgid "Credits"
+msgstr "Những người đóng góp"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:228
+msgctxt "AboutDialog|"
+msgid "License"
+msgstr "Giấy phép"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:264
+msgctxt "AboutDialog|"
+msgid "About Qt"
+msgstr "Về Qt"
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:284
+msgctxt "AboutDialog|"
+msgid "Close"
+msgstr "Đóng"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:73
+#, qt-format
+msgctxt "AboutDialog|"
+msgid "About %1"
+msgstr "Về %1"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:86
+msgctxt "AboutDialog|"
+msgid "Version"
+msgstr "Phiên bản"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:87
+msgctxt "AboutDialog|"
+msgid "Platform"
+msgstr "Nền tảng"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:90
+msgctxt "AboutDialog|"
+msgid "Build Number"
+msgstr "Bản dựng"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:95
+msgctxt "AboutDialog|"
+msgid "Channel"
+msgstr "Kênh"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:277
+msgctxt "AccountList|Account status"
+msgid "Unchecked"
+msgstr "Chưa kiểm tra"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:280
+msgctxt "AccountList|Account status"
+msgid "Offline"
+msgstr "Ngoại tuyến"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:283
+msgctxt "AccountList|Account status"
+msgid "Online"
+msgstr "Trực tuyến"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:286
+msgctxt "AccountList|Account status"
+msgid "Working"
+msgstr "Đang hoạt động"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:289
+msgctxt "AccountList|Account status"
+msgid "Errored"
+msgstr "Lỗi"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:292
+msgctxt "AccountList|Account status"
+msgid "Expired"
+msgstr "Đã hết hạn"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:295
+msgctxt "AccountList|Account status"
+msgid "Gone"
+msgstr "Biến mất"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:306
+msgctxt "AccountList|Can Migrate?"
+msgid "N/A"
+msgstr "Không Rõ"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:309
+msgctxt "AccountList|Can Migrate?"
+msgid "Yes"
+msgstr "Có"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:312
+msgctxt "AccountList|Can Migrate?"
+msgid "No"
+msgstr "Không"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:346
+msgctxt "AccountList|"
+msgid "Account"
+msgstr "Tài khoản"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:348
+msgctxt "AccountList|"
+msgid "Type"
+msgstr "Loại"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:350
+msgctxt "AccountList|"
+msgid "Status"
+msgstr "Trạng thái"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:352
+msgctxt "AccountList|"
+msgid "Can Migrate?"
+msgstr "Có thể chuyển đổi?"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:354
+msgctxt "AccountList|"
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:363
+msgctxt "AccountList|"
+msgid "User name of the account."
+msgstr "Tên người dùng của tài khoản."
+
+#: src/launcher/minecraft/auth/AccountList.cpp:365
+msgctxt "AccountList|"
+msgid "Type of the account - Mojang or MSA."
+msgstr "Loại tài khoản - Mojang hoặc Microsoft."
+
+#: src/launcher/minecraft/auth/AccountList.cpp:367
+msgctxt "AccountList|"
+msgid "Current status of the account."
+msgstr "Tình trạng hiện tại của tài khoản."
+
+#: src/launcher/minecraft/auth/AccountList.cpp:369
+msgctxt "AccountList|"
+msgid "Can this account migrate to Microsoft account?"
+msgstr "Tài khoản này có thể chuyển đổi sang tài khoản Microsoft?"
+
+#: src/launcher/minecraft/auth/AccountList.cpp:371
+msgctxt "AccountList|"
+msgid "Name of the Minecraft profile associated with the account."
+msgstr "Tên của hồ sơ Minecraft được liên kết với tài khoản."
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:67
+msgctxt "AccountListPage|"
+msgid "Add Mojang"
+msgstr "Thêm tài khoản Mojang"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:72
+msgctxt "AccountListPage|"
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:77
+msgctxt "AccountListPage|"
+msgid "Set Default"
+msgstr "Đặt làm mặc định"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:85
+msgctxt "AccountListPage|"
+msgid "No Default"
+msgstr "Không có mặc định"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:90
+msgctxt "AccountListPage|"
+msgid "Upload Skin"
+msgstr "Tải lên skin"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:95
+msgctxt "AccountListPage|"
+msgid "Delete Skin"
+msgstr "Xoá skin"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:98
+msgctxt "AccountListPage|"
+msgid "Delete the currently active skin and go back to the default one"
+msgstr "Xoá skin hiện tại và chuyển về skin mặc định"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:103
+msgctxt "AccountListPage|"
+msgid "Add Microsoft"
+msgstr "Thêm tài khoản Microsoft"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:108
+msgctxt "AccountListPage|"
+msgid "Refresh"
+msgstr "Làm mới"
+
+#: src/launcher/ui/pages/global/AccountListPage.ui:111
+msgctxt "AccountListPage|"
+msgid "Refresh the account tokens"
+msgstr "Làm mới token tài khoản"
+
+#: src/launcher/ui/pages/global/AccountListPage.h:42
+msgctxt "AccountListPage|"
+msgid "Accounts"
+msgstr "Tài khoản"
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:44
+msgctxt "AccountListPage|"
+msgid ""
+"Welcome!\n"
+"If you're new here, you can click the \"Add\" button to add your Mojang or "
+"Minecraft account."
+msgstr ""
+"Chào mừng!\n"
+"Nếu bạn là người mới, chọn nút \"Thêm\" để cho tài khoản Mojang hoặc "
+"Minecraft của bạn vào."
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:85
+msgctxt "AccountListPage|"
+msgid "Context menu"
+msgstr "Menu ngữ cảnh"
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:116
+#: src/launcher/ui/pages/global/AccountListPage.cpp:144
+msgctxt "AccountListPage|"
+msgid ""
+"Please enter your Mojang account email and password to add your account."
+msgstr ""
+"Vui lòng nhập email và mật khẩu tài khoản Mojang của bạn để thêm tài khoản "
+"của bạn."
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:133
+msgctxt "AccountListPage|"
+msgid "Microsoft Accounts not available"
+msgstr "Tài khoản Microsoft không khả dụng"
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:134
+msgctxt "AccountListPage|"
+msgid ""
+"Microsoft accounts are only usable on macOS 10.13 or newer, with fully "
+"updated PolyMC.\n"
+"\n"
+"Please update both your operating system and PolyMC."
+msgstr ""
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:243
+msgctxt "AccountListPage|"
+msgid "Skin Delete"
+msgstr "Xóa skin"
+
+#: src/launcher/ui/pages/global/AccountListPage.cpp:243
+msgctxt "AccountListPage|"
+msgid "Failed to delete current skin!"
+msgstr "Xoá skin hiện tại thất bại!"
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:41
+msgctxt "AccountTask|"
+msgid "Sending request to auth servers..."
+msgstr "Đang gửi yêu cầu lên máy chủ xác thực..."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:43
+msgctxt "AccountTask|"
+msgid "Authentication task succeeded."
+msgstr "Tác vụ xác thực đã thành công."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:45
+msgctxt "AccountTask|"
+msgid "Failed to contact the authentication server."
+msgstr "Không liên hệ được với máy chủ xác thực."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:47
+msgctxt "AccountTask|"
+msgid "Encountered an error during authentication."
+msgstr "Đã gặp lỗi trong quá trình xác thực."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:49
+msgctxt "AccountTask|"
+msgid "Failed to authenticate. The session has expired."
+msgstr "Không thể xác thực. Phiên làm việc đã hết hạn."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:51
+msgctxt "AccountTask|"
+msgid "Failed to authenticate. The account no longer exists."
+msgstr "Xác thực thất bại. Tài khoản không còn tồn tại."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:53
+msgctxt "AccountTask|"
+msgid "..."
+msgstr "..."
+
+#: src/launcher/minecraft/auth/AccountTask.cpp:100
+#, qt-format
+msgctxt "AccountTask|"
+msgid "Unknown account task state: %1"
+msgstr "Trạng thái tác vụ của tài khoản không xác định: %1"
+
+#: src/launcher/Application.cpp:722
+msgctxt "Application|"
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:21
+msgctxt "AssetUpdateTask|"
+msgid "Updating assets index..."
+msgstr "Đang cập nhật dữ liệu..."
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:28
+#, qt-format
+msgctxt "AssetUpdateTask|"
+msgid "Asset index for %1"
+msgstr "Dữ liệu cho %1"
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:73
+msgctxt "AssetUpdateTask|"
+msgid "Failed to read the assets index!"
+msgstr "Không thể đọc được dữ liệu!"
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:79
+msgctxt "AssetUpdateTask|"
+msgid "Getting the assets files from Mojang..."
+msgstr "Đang tải dữ liệu từ Mojang..."
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:93
+#, qt-format
+msgctxt "AssetUpdateTask|"
+msgid ""
+"Failed to download the assets index:\n"
+"%1"
+msgstr ""
+"Không tải xuống được chỉ mục dữ liệu:\n"
+"%1"
+
+#: src/launcher/minecraft/update/AssetUpdateTask.cpp:98
+#, qt-format
+msgctxt "AssetUpdateTask|"
+msgid ""
+"Failed to download assets:\n"
+"%1"
+msgstr ""
+"Không tải xuống được dữ liệu: \n"
+"%1"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp:30
+msgctxt "Atl::FilterModel|"
+msgid "Sort by popularity"
+msgstr "Sắp xếp theo mức độ phổ biến"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp:31
+msgctxt "Atl::FilterModel|"
+msgid "Sort by name"
+msgstr "Sắp xếp theo tên"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp:32
+msgctxt "Atl::FilterModel|"
+msgid "Sort by game version"
+msgstr "Sắp xếp theo phiên bản trò chơi"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:14
+msgctxt "AtlOptionalModDialog|"
+msgid "Select Mods To Install"
+msgstr "Chọn Mod để cài đặt"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:20
+msgctxt "AtlOptionalModDialog|"
+msgid "Install"
+msgstr "Cài đặt"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:30
+msgctxt "AtlOptionalModDialog|"
+msgid "Select Recommended"
+msgstr "Chọn được đề xuất"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:40
+msgctxt "AtlOptionalModDialog|"
+msgid "Use Share Code"
+msgstr "Sử dụng mã chia sẻ"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui:47
+msgctxt "AtlOptionalModDialog|"
+msgid "Clear All"
+msgstr "Xóa tất cả"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui:42
+msgctxt "AtlPage|"
+msgid ""
+"Warning: This is still a work in progress. If you run into issues with the "
+"imported modpack, it may be a bug."
+msgstr ""
+"Lưu ý: Chương trình đang trong giai đoạn thử nghiệm. Nếu bạn gặp sự cố với "
+"modpack đã nhập, đó có thể là lỗi."
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui:59
+msgctxt "AtlPage|"
+msgid "Version selected:"
+msgstr "Phiên bản đã chọn:"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui:74
+msgctxt "AtlPage|"
+msgid "Search and filter ..."
+msgstr "Tìm kiếm và lọc..."
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:158
+#, qt-format
+msgctxt "AtlPage|"
+msgid "No versions are currently available for Minecraft %1"
+msgstr "Hiện không có phiên bản nào cho Minecraft %1"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:161
+msgctxt "AtlPage|"
+msgid "No versions are currently available"
+msgstr "Không có phiên bản nào có sẵn hiện tại"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:163
+msgctxt "AtlPage|"
+msgid "Couldn't load or download the version lists!"
+msgstr "Không thể tải hoặc tải xuống danh sách phiên bản!"
+
+#: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
+msgctxt "AtlPage|"
+msgid "ATLauncher"
+msgstr "ATLauncher"
+
+#: src/launcher/minecraft/auth/flows/AuthFlow.cpp:20
+msgctxt "AuthFlow|"
+msgid "Finished all authentication steps"
+msgstr "Đã hoàn thành tất cả các bước xác thực"
+
+#: src/launcher/minecraft/auth/flows/AuthFlow.cpp:28
+msgctxt "AuthFlow|"
+msgid "Initializing"
+msgstr "Đang khởi tạo"
+
+#: src/launcher/minecraft/auth/flows/AuthFlow.cpp:58
+msgctxt "AuthFlow|"
+msgid "Working..."
+msgstr "Đang hoạt động..."
+
+#: src/launcher/tools/BaseProfiler.cpp:30
+msgctxt "BaseProfiler|"
+msgid "Profiler aborted"
+msgstr "Profiler đã bị hủy"
+
+#: src/launcher/minecraft/services/CapeChange.cpp:19
+msgctxt "CapeChange|"
+msgid "Equipping cape"
+msgstr "Sử dụng áo choàng"
+
+#: src/launcher/minecraft/services/CapeChange.cpp:33
+msgctxt "CapeChange|"
+msgid "Removing cape"
+msgstr "Gỡ áo choàng"
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:270
+msgctxt "ComponentUpdateTask|"
+msgid "Some component metadata load tasks failed."
+msgstr "Một số tác vụ tải metadata thất bại."
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:526
+msgctxt "ComponentUpdateTask|"
+msgid "Conflicting requirements detected during dependency checking!"
+msgstr ""
+"Yêu cầu xung đột được phát hiện trong quá trình kiểm tra tệp phụ thuộc!"
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:545
+msgctxt "ComponentUpdateTask|"
+msgid "Instance has conflicting dependencies."
+msgstr "Phiên bản có các yêu cầu mâu thuẫn."
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:552
+msgctxt "ComponentUpdateTask|"
+msgid "Instance has unresolved dependencies while loading/checking for launch."
+msgstr ""
+"Phiên bản có các tệp phụ thuộc chưa được giải quyết trong khi tải / kiểm tra "
+"để khởi chạy."
+
+#: src/launcher/minecraft/ComponentUpdateTask.cpp:702
+#, qt-format
+msgctxt "ComponentUpdateTask|"
+msgid ""
+"Component metadata update task failed while downloading from remote server:\n"
+"%1"
+msgstr "Tác vụ cập nhật metadata không thành công khi tải xuống từ máy chủ: %1"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:17
+msgctxt "CopyInstanceDialog|"
+msgid "Copy Instance"
+msgstr "Sao chép phiên bản"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:74
+msgctxt "CopyInstanceDialog|"
+msgid "Name"
+msgstr "Tên"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:90
+msgctxt "CopyInstanceDialog|"
+msgid "&Group"
+msgstr "Nhóm"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:115
+msgctxt "CopyInstanceDialog|"
+msgid "Copy saves"
+msgstr "Sao chép thế giới"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.ui:122
+msgctxt "CopyInstanceDialog|"
+msgid "Keep play time"
+msgstr "Giữ nguyên thời gian chơi"
+
+#: src/launcher/ui/dialogs/CopyInstanceDialog.cpp:54
+msgctxt "CopyInstanceDialog|"
+msgid "No group"
+msgstr "Không thuộc nhóm nào"
+
+#: src/launcher/minecraft/launch/CreateGameFolders.cpp:18
+msgctxt "CreateGameFolders|"
+msgid "Couldn't create the main game folder"
+msgstr "Không thể tạo thư mục trò chơi chính"
+
+#: src/launcher/ui/widgets/CustomCommands.ui:32
+msgctxt "CustomCommands|"
+msgid "Cus&tom Commands"
+msgstr "Lệnh &tùy chỉnh"
+
+#: src/launcher/ui/widgets/CustomCommands.ui:44
+msgctxt "CustomCommands|"
+msgid "Post-exit command:"
+msgstr "Lệnh sau khi thoát:"
+
+#: src/launcher/ui/widgets/CustomCommands.ui:54
+msgctxt "CustomCommands|"
+msgid "Pre-launch command:"
+msgstr "Lệnh trước khi khởi chạy:"
+
+#: src/launcher/ui/widgets/CustomCommands.ui:64
+msgctxt "CustomCommands|"
+msgid "Wrapper command:"
+msgstr "Lệnh Wrapper:"
+
+#: src/launcher/ui/widgets/CustomCommands.ui:77
+msgctxt "CustomCommands|"
+msgid ""
+"<html><head/><body><p>Pre-launch command runs before the instance launches "
+"and post-exit command runs after it exits.</p><p>Both will be run in the "
+"launcher's working folder with extra environment "
+"variables:</p><ul><li>$INST_NAME - Name of the instance</li><li>$INST_ID - "
+"ID of the instance (its folder name)</li><li>$INST_DIR - absolute path of "
+"the instance</li><li>$INST_MC_DIR - absolute path of "
+"minecraft</li><li>$INST_JAVA - java binary used for "
+"launch</li><li>$INST_JAVA_ARGS - command-line parameters used for "
+"launch</li></ul><p>Wrapper command allows launching using an extra wrapper "
+"program (like 'optirun' on Linux)</p></body></html>"
+msgstr ""
+"<html><head/><body><p>Lệnh trước khởi chạy trước khi phiên bản khởi chạy và "
+"lệnh sau thoát chạy sau khi thoát.</p><p>Cả hai sẽ được chạy trong thư mục "
+"làm việc của MultiMC với các biến môi trường bổ sung:</p><ul><li>$INST_NAME "
+"- Tên của instance</li><li>$INST_ID - ID của instance (tên thư mục của "
+"nó)</li><li>$INST_DIR - đường dẫn tuyệt đối của "
+"instance</li><li>$INST_MC_DIR - đường dẫn tuyệt đối của "
+"minecraft</li><li>$INST_JAVA - java nhị phân được sử dụng để khởi "
+"chạy</li><li>$INST_JAVA_ARGS - các tham số dòng lệnh được sử dụng để khởi "
+"chạy </li></ul><p>Lệnh Wrapper cho phép khởi chạy bằng một chương trình "
+"wrapper bổ sung (như 'optirun' trên Linux)</p></body></html>"
+
+#: src/launcher/ui/pages/global/CustomCommandsPage.h:35
+msgctxt "CustomCommandsPage|"
+msgid "Custom Commands"
+msgstr "Các câu lệnh tùy biến"
+
+#: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:69
+#, qt-format
+msgctxt "DirectJavaLaunch|"
+msgid "The wrapper command \"%1\" couldn't be found."
+msgstr "Câu lệnh wrapper \"%1\" không thể tìm thấy."
+
+#. Error message displayed if instance can't start
+#: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:91
+msgctxt "DirectJavaLaunch|"
+msgid "Could not launch minecraft!"
+msgstr "Không thể khởi chạy Minecraft!"
+
+#: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:100
+#: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:110
+msgctxt "DirectJavaLaunch|"
+msgid "Game crashed."
+msgstr "Game đã bị hỏng."
+
+#: src/launcher/ui/dialogs/EditAccountDialog.ui:14
+msgctxt "EditAccountDialog|"
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: src/launcher/ui/dialogs/EditAccountDialog.ui:33
+msgctxt "EditAccountDialog|"
+msgid "Email"
+msgstr "Email"
+
+#: src/launcher/ui/dialogs/EditAccountDialog.ui:43
+msgctxt "EditAccountDialog|"
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: src/launcher/minecraft/auth/steps/EntitlementsStep.cpp:14
+msgctxt "EntitlementsStep|"
+msgid "Determining game ownership."
+msgstr "Đang xác định quyền sở hữu trò chơi."
+
+#: src/launcher/minecraft/auth/steps/EntitlementsStep.cpp:52
+msgctxt "EntitlementsStep|"
+msgid "Got entitlements"
+msgstr "Đã có entitlements"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.ui:14
+msgctxt "ExportInstanceDialog|"
+msgid "Export Instance"
+msgstr "Xuất phiên bản"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:384
+#, qt-format
+msgctxt "ExportInstanceDialog|"
+msgid "Export %1"
+msgstr "Xuất %1"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:393
+msgctxt "ExportInstanceDialog|"
+msgid "Overwrite?"
+msgstr "Ghi đè lên?"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:394
+msgctxt "ExportInstanceDialog|"
+msgid "This file already exists. Do you want to overwrite it?"
+msgstr "Tập tin này đã tồn tại. Bạn có muốn ghi đè không?"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
+msgctxt "ExportInstanceDialog|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
+msgctxt "ExportInstanceDialog|"
+msgid "Unable to export instance"
+msgstr "Không thể xuất gói phiên bản"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:59
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:96
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:133
+msgctxt "ExternalToolsPage|"
+msgid "Check"
+msgstr "Kiểm tra"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:150
+msgctxt "ExternalToolsPage|"
+msgid "External Editors (leave empty for system default)"
+msgstr "Trình chỉnh sửa bên ngoài (để trống cho mặc định)"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.ui:159
+msgctxt "ExternalToolsPage|"
+msgid "Text Editor:"
+msgstr "Trình chỉnh sửa văn bản:"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.h:37
+msgctxt "ExternalToolsPage|"
+msgid "External Tools"
+msgstr "Các công cụ khác"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:90
+msgctxt "ExternalToolsPage|"
+msgid "JProfiler Folder"
+msgstr "Thư mục JProfiler"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:98
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:113
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:135
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:150
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:176
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:191
+msgctxt "ExternalToolsPage|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:98
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:113
+#, qt-format
+msgctxt "ExternalToolsPage|"
+msgid ""
+"Error while checking JProfiler install:\n"
+"%1"
+msgstr ""
+"Có lỗi khi kiểm tra JProfiler:\n"
+"%1"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:154
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
+msgctxt "ExternalToolsPage|"
+msgid "OK"
+msgstr "Hoàn tất"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
+msgctxt "ExternalToolsPage|"
+msgid "JProfiler setup seems to be OK"
+msgstr "Phiên bản JProfiler có vẻ đã hoạt động đúng"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:127
+msgctxt "ExternalToolsPage|"
+msgid "JVisualVM Executable"
+msgstr "JVisualVM thực thi"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:135
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:150
+#, qt-format
+msgctxt "ExternalToolsPage|"
+msgid ""
+"Error while checking JVisualVM install:\n"
+"%1"
+msgstr ""
+"Có lỗi khi đang kiểm tra JVisualVM:\n"
+"%1"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:154
+msgctxt "ExternalToolsPage|"
+msgid "JVisualVM setup seems to be OK"
+msgstr "Trình JVisualVM có vẻ đã hoạt động ổn định"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:165
+msgctxt "ExternalToolsPage|"
+msgid "MCEdit Application"
+msgstr "Ứng Dụng MCEdit"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:167
+msgctxt "ExternalToolsPage|"
+msgid "MCEdit Folder"
+msgstr "Thư mục MCEdit"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:176
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:191
+#, qt-format
+msgctxt "ExternalToolsPage|"
+msgid ""
+"Error while checking MCEdit install:\n"
+"%1"
+msgstr ""
+"Có lỗi khi đang kiểm tra MCEdit:\n"
+"%1"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
+msgctxt "ExternalToolsPage|"
+msgid "MCEdit setup seems to be OK"
+msgstr "MCEdit có vẻ đã hoạt động ổn định"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:202
+msgctxt "ExternalToolsPage|"
+msgid "JSON Editor"
+msgstr "Công cụ chỉnh sửa JSON"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:224
+msgctxt "ExternalToolsPage|"
+msgid "Invalid"
+msgstr "Không hợp lệ"
+
+#: src/launcher/ui/pages/global/ExternalToolsPage.cpp:225
+msgctxt "ExternalToolsPage|"
+msgid "The file chosen does not seem to be an executable"
+msgstr "Tập tin được chọn này dường như không phải là tệp để thực thi"
+
+#: src/launcher/minecraft/launch/ExtractNatives.cpp:104
+#, qt-format
+msgctxt "ExtractNatives|"
+msgid "Couldn't extract native jar '%1' to destination '%2'"
+msgstr "Không thể trích xuất jar gốc '%1' đến '%2'"
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:39
+msgctxt "FMLLibrariesTask|"
+msgid "Checking for FML libraries..."
+msgstr "Đang kiểm tra thư viện FML..."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:63
+msgctxt "FMLLibrariesTask|"
+msgid "Downloading FML libraries..."
+msgstr "Đang tải thư viện FML..."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:90
+msgctxt "FMLLibrariesTask|"
+msgid "Copying FML libraries into the instance..."
+msgstr "Đang sao chép thư viện FML vào phiên bản..."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:101
+msgctxt "FMLLibrariesTask|"
+msgid "Failed creating FML library folder inside the instance."
+msgstr "Thất bại trong việc tạo thư mục thư viện FML vào phiên bản."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:106
+#, qt-format
+msgctxt "FMLLibrariesTask|"
+msgid "Failed copying Forge/FML library: %1."
+msgstr "Sao chép thư viện Forge/FML thất bại: %1."
+
+#: src/launcher/minecraft/update/FMLLibrariesTask.cpp:119
+#, qt-format
+msgctxt "FMLLibrariesTask|"
+msgid ""
+"Failed to download the following files:\n"
+"%1\n"
+"\n"
+"Reason:%2\n"
+"Please try again."
+msgstr ""
+"Thất bại khi tải những tập tin sau đây:\n"
+"%1\n"
+"\n"
+"Nguyên nhân:%2\n"
+"Vui lòng thử lại."
+
+#: src/launcher/modplatform/flame/FileResolvingTask.cpp:15
+msgctxt "Flame::FileResolvingTask|"
+msgid "Resolving mod IDs..."
+msgstr "Đang giải quyết mod IDs..."
+
+#: src/launcher/modplatform/flame/FileResolvingTask.cpp:61
+msgctxt "Flame::FileResolvingTask|"
+msgid "Some mod ID resolving tasks failed."
+msgstr "Một vài tác vụ giải quyết mod ID thất bại."
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:52
+msgctxt "FlamePage|"
+msgid "Version selected:"
+msgstr "Phiên bản đã chọn:"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:67
+msgctxt "FlamePage|"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:74
+msgctxt "FlamePage|"
+msgid "Search and filter ..."
+msgstr "Tìm kiếm và lọc..."
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.h:45
+msgctxt "FlamePage|"
+msgid "CurseForge"
+msgstr "CurseForge"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:25
+msgctxt "FlamePage|"
+msgid "Sort by featured"
+msgstr "Sắp xếp theo tính năng"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:26
+msgctxt "FlamePage|"
+msgid "Sort by popularity"
+msgstr "Sắp xếp theo mức độ phổ biến"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:27
+msgctxt "FlamePage|"
+msgid "Sort by last updated"
+msgstr "Sắp xếp theo cập nhật lần cuối"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:28
+msgctxt "FlamePage|"
+msgid "Sort by name"
+msgstr "Sắp xếp theo tên"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:29
+msgctxt "FlamePage|"
+msgid "Sort by author"
+msgstr "Sắp xếp theo tác giả"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:30
+msgctxt "FlamePage|"
+msgid "Sort by total downloads"
+msgstr "Sắp xếp theo lượt tải xuống"
+
+#: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:103
+msgctxt "FlamePage|"
+msgid " by "
+msgstr " bởi "
+
+#: src/launcher/minecraft/update/FoldersTask.cpp:17
+msgctxt "FoldersTask|"
+msgid "Failed to create folder for minecraft binaries."
+msgstr "Không tạo được thư mục cho các tệp nhị phân minecraft."
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:29
+msgctxt "Ftb::FilterModel|"
+msgid "Sort by plays"
+msgstr "Sắp xếp theo lượt"
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:30
+msgctxt "Ftb::FilterModel|"
+msgid "Sort by installs"
+msgstr "Sắp xếp theo lượt cài đặt"
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:31
+msgctxt "Ftb::FilterModel|"
+msgid "Sort by name"
+msgstr "Sắp xếp theo tên"
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbPage.ui:22
+msgctxt "FtbPage|"
+msgid "Version selected:"
+msgstr "Phiên bản đã chọn:"
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbPage.ui:37
+msgctxt "FtbPage|"
+msgid "Search and filter ..."
+msgstr "Tìm kiếm và lọc..."
+
+#: src/launcher/ui/pages/modplatform/ftb/FtbPage.h:43
+msgctxt "FtbPage|"
+msgid "FTB"
+msgstr "FTB"
+
+#: src/launcher/minecraft/gameoptions/GameOptions.cpp:82
+msgctxt "GameOptions|"
+msgid "Key"
+msgstr "Mã"
+
+#: src/launcher/minecraft/gameoptions/GameOptions.cpp:84
+msgctxt "GameOptions|"
+msgid "Value"
+msgstr "Giá trị"
+
+#: src/launcher/ui/pages/instance/GameOptionsPage.h:45
+msgctxt "GameOptionsPage|"
+msgid "Game Options"
+msgstr "Cài đặt game"
+
+#: src/launcher/minecraft/World.cpp:69
+msgctxt "GameType|"
+msgid "Survival"
+msgstr "Sinh tồn"
+
+#: src/launcher/minecraft/World.cpp:71
+msgctxt "GameType|"
+msgid "Creative"
+msgstr "Sáng tạo"
+
+#: src/launcher/minecraft/World.cpp:73
+msgctxt "GameType|"
+msgid "Adventure"
+msgstr "Phiêu lưu"
+
+#: src/launcher/minecraft/World.cpp:75
+msgctxt "GameType|"
+msgid "Spectator"
+msgstr "Khán giả"
+
+#: src/launcher/minecraft/World.cpp:80
+#, qt-format
+msgctxt "GameType|"
+msgid "Unknown (%1)"
+msgstr "Không xác định (%1)"
+
+#: src/launcher/minecraft/World.cpp:82
+msgctxt "GameType|"
+msgid "Undefined"
+msgstr "Chưa xác định"
+
+#: src/launcher/minecraft/auth/steps/GetSkinStep.cpp:16
+msgctxt "GetSkinStep|"
+msgid "Getting skin."
+msgstr "Đang lấy skin."
+
+#: src/launcher/minecraft/auth/steps/GetSkinStep.cpp:42
+msgctxt "GetSkinStep|"
+msgid "Got skin"
+msgstr "Đã có skin"
+
+#: src/launcher/updater/DownloadTask.cpp:48
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Loading version information..."
+msgstr "Đang tải thông tin phiên bản..."
+
+#: src/launcher/updater/DownloadTask.cpp:85
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Failed to download version info files."
+msgstr "Không thể tải xuống được tệp thông tin phiên bản."
+
+#: src/launcher/updater/DownloadTask.cpp:93
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Reading file list for new version..."
+msgstr "Đang đọc danh sách tập tin cho phiên bản mới..."
+
+#: src/launcher/updater/DownloadTask.cpp:106
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Reading file list for current version..."
+msgstr "Đang đọc danh sách tập tin cho phiên bản hiện tại..."
+
+#: src/launcher/updater/DownloadTask.cpp:121
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Processing file lists - figuring out how to install the update..."
+msgstr "Đang xử lý danh sách tệp - đang tìm cách cài bản cập nhật..."
+
+#: src/launcher/updater/DownloadTask.cpp:129
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Failed to process update lists..."
+msgstr "Xử lý thất bại danh sách cập nhật..."
+
+#: src/launcher/updater/DownloadTask.cpp:140
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Downloading one update file."
+msgstr "Đang tải về các tệp cập nhật."
+
+#: src/launcher/updater/DownloadTask.cpp:144
+#, qt-format
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Downloading %1 update files."
+msgstr "Đang tải %1 files."
+
+#: src/launcher/updater/DownloadTask.cpp:159
+#, qt-format
+msgctxt "GoUpdate::DownloadTask|"
+msgid "Failed to download update files: %1"
+msgstr "Không thể tải về các tệp cập nhật sau: %1"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.ui:14
+msgctxt "IconPickerDialog|"
+msgid "Pick icon"
+msgstr "Chọn một biểu tượng"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:65
+msgctxt "IconPickerDialog|"
+msgid "Add Icon"
+msgstr "Thêm biểu tượng"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:66
+msgctxt "IconPickerDialog|"
+msgid "Remove Icon"
+msgstr "Loại bỏ biểu tượng"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:75
+msgctxt "IconPickerDialog|"
+msgid "Open Folder"
+msgstr "Mở thư mục"
+
+#. The title of the select icons open file dialog
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:105
+msgctxt "IconPickerDialog|"
+msgid "Select Icons"
+msgstr "Chọn biểu tượng"
+
+#: src/launcher/ui/dialogs/IconPickerDialog.cpp:108
+#, qt-format
+msgctxt "IconPickerDialog|"
+msgid "Icons %1"
+msgstr "Biểu tượng %1"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.ui:17
+msgctxt "ImportPage|"
+msgid "Browse"
+msgstr "Chọn"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.ui:31
+msgctxt "ImportPage|"
+msgid "Local file or link to a direct download:"
+msgstr "Vị trí tệp hoặc đường dẫn để trực tiếp tải xuống:"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.h:40
+msgctxt "ImportPage|"
+msgid "Import from zip"
+msgstr "Nhập từ tập tin zip"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.cpp:106
+msgctxt "ImportPage|"
+msgid "Choose modpack"
+msgstr "Chọn modpack"
+
+#: src/launcher/ui/pages/modplatform/ImportPage.cpp:106
+msgctxt "ImportPage|"
+msgid "Zip (*.zip)"
+msgstr "Zip (*.zip)"
+
+#: src/launcher/meta/Index.cpp:71
+#, fuzzy
+msgctxt "Index|"
+msgid "Name"
+msgstr "Tên"
+
+#: src/launcher/ui/widgets/InstanceCardWidget.ui:27
+msgctxt "InstanceCardWidget|"
+msgid "&Name:"
+msgstr "&Tên:"
+
+#: src/launcher/ui/widgets/InstanceCardWidget.ui:40
+msgctxt "InstanceCardWidget|"
+msgid "&Group:"
+msgstr "&Nhóm:"
+
+#: src/launcher/InstanceCopyTask.cpp:24
+#, qt-format
+msgctxt "InstanceCopyTask|"
+msgid "Copying instance %1"
+msgstr "Sao chép phiên bản %1"
+
+#: src/launcher/InstanceCopyTask.cpp:40
+msgctxt "InstanceCopyTask|"
+msgid "Instance folder copy failed."
+msgstr "Sao chép phiên bản không thành công."
+
+#: src/launcher/InstanceCopyTask.cpp:58
+msgctxt "InstanceCopyTask|"
+msgid "Instance folder copy has been aborted."
+msgstr "Sao chép phiên bản đã bị hủy."
+
+#: src/launcher/InstanceCreationTask.cpp:16
+#, qt-format
+msgctxt "InstanceCreationTask|"
+msgid "Creating instance from version %1"
+msgstr "Tạo phiên bản từ phiên bản %1"
+
+#: src/launcher/InstanceImportTask.cpp:52
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid ""
+"Downloading modpack:\n"
+"%1"
+msgstr ""
+"Đang tải modpack:\n"
+"%1"
+
+#: src/launcher/InstanceImportTask.cpp:58
+msgctxt "InstanceImportTask|"
+msgid "Modpack download"
+msgstr "Tải xuống modpack"
+
+#: src/launcher/InstanceImportTask.cpp:88
+msgctxt "InstanceImportTask|"
+msgid "Extracting modpack"
+msgstr "Đang giải nén modpack"
+
+#: src/launcher/InstanceImportTask.cpp:96
+msgctxt "InstanceImportTask|"
+msgid "Unable to open supplied modpack zip file."
+msgstr "Không thể mở tập tin modpack zip đã cho."
+
+#: src/launcher/InstanceImportTask.cpp:129
+#: src/launcher/InstanceImportTask.cpp:193
+msgctxt "InstanceImportTask|"
+msgid "Archive does not contain a recognized modpack type."
+msgstr "Kho lưu trữ không chứa modpack đã cho."
+
+#: src/launcher/InstanceImportTask.cpp:145
+msgctxt "InstanceImportTask|"
+msgid "Failed to extract modpack"
+msgstr "Không thể giải nén được modpack"
+
+#: src/launcher/InstanceImportTask.cpp:172
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "Could not fix permissions for %1"
+msgstr "Không thể sửa quyền hạn cho %1"
+
+#: src/launcher/InstanceImportTask.cpp:200
+msgctxt "InstanceImportTask|"
+msgid "Instance import has been aborted."
+msgstr "Xuất phiên bản đã huỷ bỏ."
+
+#: src/launcher/InstanceImportTask.cpp:221
+msgctxt "InstanceImportTask|"
+msgid "Could not understand pack manifest:\n"
+msgstr "Không thể hiểu rõ gói manifest:\n"
+
+#: src/launcher/InstanceImportTask.cpp:232
+msgctxt "InstanceImportTask|"
+msgid "Could not rename the overrides folder:\n"
+msgstr "Không thể thay đổi tên thư mục ghi đè:\n"
+
+#: src/launcher/InstanceImportTask.cpp:238
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid ""
+"The specified overrides folder (%1) is missing. Maybe the modpack was "
+"already used before?"
+msgstr ""
+"Thư mục ghi đè được chỉ định (%1) bị thiếu. Có thể modpack đã được sử dụng "
+"trước đó?"
+
+#: src/launcher/InstanceImportTask.cpp:259
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "Unknown mod loader in manifest: %1"
+msgstr "Mod loader không xác định trong tệp manifest: %1"
+
+#: src/launcher/InstanceImportTask.cpp:272
+msgctxt "InstanceImportTask|"
+msgid ""
+"Mysterious trailing dots removed from Minecraft version while importing pack."
+msgstr "Các dấu chấm bí ẩn đã xóa khỏi phiên bản Minecraft khi đang nhập gói."
+
+#: src/launcher/InstanceImportTask.cpp:288
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "Could not map recommended forge version for Minecraft %1"
+msgstr "Không thể lập bản đồ phiên bản khuyến khích Forge cho Minecraft %1"
+
+#: src/launcher/InstanceImportTask.cpp:340
+msgctxt "InstanceImportTask|"
+msgid "Mod download"
+msgstr "Tải xuống mod"
+
+#: src/launcher/InstanceImportTask.cpp:356
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "This 'Folder' may need extracting: %1"
+msgstr "'Thư Mục' này có thể cần giải nén: %1"
+
+#: src/launcher/InstanceImportTask.cpp:368
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid ""
+"Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1"
+msgstr ""
+"Việc lồng các modpack trong modpack không thể bắt đầu, không thứ gì đã được "
+"tải xuống: %1"
+
+#: src/launcher/InstanceImportTask.cpp:373
+#, qt-format
+msgctxt "InstanceImportTask|"
+msgid "Unrecognized/unhandled PackageType for: %1"
+msgstr "Chưa được công nhận/chưa xử lý PackageType cho: %1"
+
+#: src/launcher/InstanceImportTask.cpp:393
+msgctxt "InstanceImportTask|"
+msgid "Downloading mods..."
+msgstr "Đang tải xuống mod..."
+
+#: src/launcher/InstanceImportTask.cpp:400
+msgctxt "InstanceImportTask|"
+msgid "Unable to resolve mod IDs:\n"
+msgstr "Không thể giải quyết mod IDs:\n"
+
+#: src/launcher/InstanceList.cpp:150
+#, qt-format
+msgctxt "InstanceList|"
+msgid "%1 Instance"
+msgstr "Phiên bản %1"
+
+#: src/launcher/InstancePageProvider.h:40
+msgctxt "InstancePageProvider|"
+msgid "Loader mods"
+msgstr "Loader mods"
+
+#: src/launcher/InstancePageProvider.h:43
+msgctxt "InstancePageProvider|"
+msgid "Core mods"
+msgstr "Mod lõi"
+
+#: src/launcher/InstancePageProvider.h:72
+#, qt-format
+msgctxt "InstancePageProvider|"
+msgid "Edit Instance (%1)"
+msgstr "Chỉnh sửa phiên bản (%1)"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:29
+msgctxt "InstanceSettingsPage|"
+msgid "Open Global Settings"
+msgstr "Mở phần cài đặt chung"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:32
+msgctxt "InstanceSettingsPage|"
+msgid "The settings here are overrides for global settings."
+msgstr "Những thiết lập này sẽ ghi đè các cài đặt chung."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:55
+msgctxt "InstanceSettingsPage|"
+msgid "Java insta&llation"
+msgstr "Cài đặt Java"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:70
+msgctxt "InstanceSettingsPage|"
+msgid "Auto-detect..."
+msgstr "Tự động phát hiện..."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:77
+msgctxt "InstanceSettingsPage|"
+msgid "Browse..."
+msgstr "Chọn..."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:84
+msgctxt "InstanceSettingsPage|"
+msgid "Test"
+msgstr "Kiểm tra"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:97
+msgctxt "InstanceSettingsPage|"
+msgid "Memor&y"
+msgstr "Bộ nhớ"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:109
+msgctxt "InstanceSettingsPage|"
+msgid "Minimum memory allocation:"
+msgstr "Bộ nhớ cấp phát tối thiểu:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:116
+msgctxt "InstanceSettingsPage|"
+msgid "The maximum amount of memory Minecraft is allowed to use."
+msgstr "Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:138
+msgctxt "InstanceSettingsPage|"
+msgid "The amount of memory Minecraft is started with."
+msgstr "Dung lượng bộ nhớ mà Minecraft khởi động với."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:160
+msgctxt "InstanceSettingsPage|"
+msgid "The amount of memory available to store loaded Java classes."
+msgstr "Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải."
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:189
+msgctxt "InstanceSettingsPage|"
+msgid "Maximum memory allocation:"
+msgstr "Bộ nhớ cấp phát tối đa:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:196
+msgctxt "InstanceSettingsPage|"
+msgid "Note: Permgen is set automatically by Java 8 and later"
+msgstr "Lưu ý: Permgen được đặt tự động bởi Java 8 trở lên"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:209
+msgctxt "InstanceSettingsPage|"
+msgid "Java argumen&ts"
+msgstr "Giá &trị Java"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:228
+msgctxt "InstanceSettingsPage|"
+msgid "Game windows"
+msgstr "Cửa sổ trò chơi"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:237
+msgctxt "InstanceSettingsPage|"
+msgid "Game Window"
+msgstr "Chỉnh sửa cửa sổ trò chơi"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:249
+msgctxt "InstanceSettingsPage|"
+msgid "Start Minecraft maximized?"
+msgstr "Khởi động Minecraft tối đa cửa sổ?"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:258
+msgctxt "InstanceSettingsPage|"
+msgid "Window height:"
+msgstr "Chiều cao cửa sổ:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:265
+msgctxt "InstanceSettingsPage|"
+msgid "Window width:"
+msgstr "Chiều rộng cửa sổ:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:309
+msgctxt "InstanceSettingsPage|"
+msgid "Conso&le Settings"
+msgstr "Cài đặt Conso&le"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:321
+msgctxt "InstanceSettingsPage|"
+msgid "Show console while the game is running?"
+msgstr "Hiện bảng điều khiển khi trò chơi đang chạy?"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:328
+msgctxt "InstanceSettingsPage|"
+msgid "Automatically close console when the game quits?"
+msgstr "Tự động đóng bảng điều khiển khi thoát trò chơi?"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:335
+msgctxt "InstanceSettingsPage|"
+msgid "Show console when the game crashes?"
+msgstr "Hiển bảng điều khiển khi trò chơi gặp sự cố?"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:359
+msgctxt "InstanceSettingsPage|"
+msgid "Custom commands"
+msgstr "Các câu lệnh tùy biến"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:369
+msgctxt "InstanceSettingsPage|"
+msgid "Workarounds"
+msgstr "Cách giải quyết"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:378
+msgctxt "InstanceSettingsPage|"
+msgid "Native libraries"
+msgstr "Thư viện native"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:390
+msgctxt "InstanceSettingsPage|"
+msgid "Use system installation of GLFW"
+msgstr "Sử dụng hệ thống cài đặt của GLFW"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:397
+msgctxt "InstanceSettingsPage|"
+msgid "Use system installation of OpenAL"
+msgstr "Sử dụng hệ thống cài đặt của OpenAL"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:421
+msgctxt "InstanceSettingsPage|"
+msgid "Miscellaneous"
+msgstr "Khác"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:430
+msgctxt "InstanceSettingsPage|"
+msgid "Override global game time settings"
+msgstr "Ghi đè cài đặt thời gian trò chơi"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:442
+msgctxt "InstanceSettingsPage|"
+msgid "Show time spent playing this instance"
+msgstr "Hiển thị thời gian đã chơi của phiên bản này"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:449
+msgctxt "InstanceSettingsPage|"
+msgid "Record time spent playing this instance"
+msgstr "Ghi lại thời gian đã chơi của phiên bản này"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:459
+msgctxt "InstanceSettingsPage|"
+msgid "Set a server to join on launch"
+msgstr "Đặt máy chủ để tham gia khi khởi chạy"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:479
+msgctxt "InstanceSettingsPage|"
+msgid "Server address:"
+msgstr "Địa chỉ máy chủ:"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.h:42
+msgctxt "InstanceSettingsPage|"
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.cpp:284
+msgctxt "InstanceSettingsPage|"
+msgid "Select a Java version"
+msgstr "Chọn phiên bản Java"
+
+#: src/launcher/ui/pages/instance/InstanceSettingsPage.cpp:302
+msgctxt "InstanceSettingsPage|"
+msgid "Find Java executable"
+msgstr "Tìm tệp thực thi Java"
+
+#: src/launcher/InstanceList.cpp:832
+msgctxt "InstanceStaging|"
+msgid ""
+"Failed to commit instance, even after multiple retries. It is being blocked "
+"by something."
+msgstr ""
+"Không uỷ thác được phiên bản, ngay cả sau nhiều lần thử lại. Nó đang bị chặn "
+"bởi một thứ gì đó."
+
+#: src/launcher/ui/InstanceWindow.cpp:40
+msgctxt "InstanceWindow|"
+msgid "Console window for "
+msgstr "Cửa sổ bảng điều khiển cho "
+
+#: src/launcher/ui/InstanceWindow.cpp:64
+msgctxt "InstanceWindow|"
+msgid "Help"
+msgstr "Hỗ trợ"
+
+#: src/launcher/ui/InstanceWindow.cpp:77
+msgctxt "InstanceWindow|"
+msgid "Launch Offline"
+msgstr "Chơi ngoại tuyến"
+
+#: src/launcher/ui/InstanceWindow.cpp:82
+msgctxt "InstanceWindow|"
+msgid "Close"
+msgstr "Đóng"
+
+#: src/launcher/ui/InstanceWindow.cpp:126
+msgctxt "InstanceWindow|"
+msgid "Kill"
+msgstr "Tắt"
+
+#: src/launcher/ui/InstanceWindow.cpp:128
+msgctxt "InstanceWindow|"
+msgid "Kill the running instance"
+msgstr "Tắt tiến trình đang chạy"
+
+#: src/launcher/ui/InstanceWindow.cpp:133
+#: src/launcher/ui/InstanceWindow.cpp:141
+msgctxt "InstanceWindow|"
+msgid "Launch"
+msgstr "Khởi động"
+
+#: src/launcher/ui/InstanceWindow.cpp:135
+#: src/launcher/ui/InstanceWindow.cpp:143
+msgctxt "InstanceWindow|"
+msgid "Launch the instance"
+msgstr "Khởi động phiên bản"
+
+#: src/launcher/tools/JProfiler.cpp:34
+#, qt-format
+msgctxt "JProfiler|"
+msgid "Listening on port: %1"
+msgstr "Đang phát trên cổng: %1"
+
+#: src/launcher/tools/JProfiler.cpp:41
+msgctxt "JProfiler|"
+msgid "Profiler aborted"
+msgstr "Profiler đã bị hủy"
+
+#: src/launcher/tools/JVisualVM.cpp:32
+msgctxt "JVisualVM|"
+msgid "JVisualVM started"
+msgstr "JVisualVM khởi chạy"
+
+#: src/launcher/tools/JVisualVM.cpp:39
+msgctxt "JVisualVM|"
+msgid "Profiler aborted"
+msgstr "Profiler đã bị hủy"
+
+#: src/launcher/java/JavaInstallList.cpp:147
+msgctxt "JavaListLoadTask|"
+msgid "Detecting Java installations..."
+msgstr "Đang nhận diện trình cài đặt Java..."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:45
+msgctxt "JavaPage|"
+msgid "Memory"
+msgstr "Bộ nhớ"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:51
+msgctxt "JavaPage|"
+msgid "The maximum amount of memory Minecraft is allowed to use."
+msgstr "Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:73
+msgctxt "JavaPage|"
+msgid "Minimum memory allocation:"
+msgstr "Bộ nhớ cấp phát tối thiểu:"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:80
+msgctxt "JavaPage|"
+msgid "Maximum memory allocation:"
+msgstr "Bộ nhớ cấp phát tối đa:"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:87
+msgctxt "JavaPage|"
+msgid "The amount of memory Minecraft is started with."
+msgstr "Dung lượng bộ nhớ mà Minecraft cần khởi động với."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:116
+msgctxt "JavaPage|"
+msgid "The amount of memory available to store loaded Java classes."
+msgstr "Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:141
+msgctxt "JavaPage|"
+msgid "Java Runtime"
+msgstr "Java Runtime"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:153
+msgctxt "JavaPage|"
+msgid "Java path:"
+msgstr "Đường dẫn Java:"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:195
+msgctxt "JavaPage|"
+msgid "JVM arguments:"
+msgstr "Giá trị JVM:"
+
+#: src/launcher/ui/pages/global/JavaPage.ui:208
+msgctxt "JavaPage|"
+msgid "Auto-detect..."
+msgstr "Tự động phát hiện..."
+
+#: src/launcher/ui/pages/global/JavaPage.ui:221
+msgctxt "JavaPage|"
+msgid "Test"
+msgstr "Kiểm tra"
+
+#: src/launcher/ui/pages/global/JavaPage.h:42
+msgctxt "JavaPage|"
+msgid "Java"
+msgstr "Java"
+
+#: src/launcher/ui/pages/global/JavaPage.cpp:107
+msgctxt "JavaPage|"
+msgid "Select a Java version"
+msgstr "Chọn phiên bản Java"
+
+#: src/launcher/ui/pages/global/JavaPage.cpp:120
+msgctxt "JavaPage|"
+msgid "Find Java executable"
+msgstr "Tìm tệp thực thi Java"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:151
+msgctxt "JavaSettingsWidget|"
+msgid "No Java version selected"
+msgstr "Không có phiên bản Java nào được lựa chọn"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:152
+#, qt-format
+msgctxt "JavaSettingsWidget|"
+msgid ""
+"You didn't select a Java version or selected something that doesn't work.\n"
+"%1 will not be able to start Minecraft.\n"
+"Do you wish to proceed without any Java?\n"
+"\n"
+"You can change the Java version in the settings later.\n"
+msgstr ""
+"Bạn chưa chọn một phiên bản Java hoặc chọn cái gì đó không hoạt động.\n"
+"%1 sẽ không thể khởi động Minecraft.\n"
+"Bạn có muốn thực hiện mà không cần Java?\n"
+"\n"
+"Bạn có thể thay đổi phiên bản Java ở phần cài đặt ở lần sau.\n"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:265
+msgctxt "JavaSettingsWidget|"
+msgid "Find Java executable"
+msgstr "Tìm tệp thực thi Java"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:425
+msgctxt "JavaSettingsWidget|"
+msgid "Memory"
+msgstr "Bộ nhớ"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:426
+msgctxt "JavaSettingsWidget|"
+msgid "The maximum amount of memory Minecraft is allowed to use."
+msgstr "Dung lượng bộ nhớ tối đa mà Minecraft được phép sử dụng."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:427
+msgctxt "JavaSettingsWidget|"
+msgid "Minimum memory allocation:"
+msgstr "Bộ nhớ cấp phát tối thiểu:"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:428
+msgctxt "JavaSettingsWidget|"
+msgid "Maximum memory allocation:"
+msgstr "Bộ nhớ cấp phát tối đa:"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:429
+msgctxt "JavaSettingsWidget|"
+msgid "The amount of memory Minecraft is started with."
+msgstr "Dung lượng bộ nhớ mà Minecraft khởi động với."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:430
+msgctxt "JavaSettingsWidget|"
+msgid "The amount of memory available to store loaded Java classes."
+msgstr "Dung lượng bộ nhớ có sẵn để lưu trữ các lớp Java đã tải."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:431
+msgctxt "JavaSettingsWidget|"
+msgid "Browse"
+msgstr "Chọn"
+
+#: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
+msgctxt "JavaWizardPage|"
+msgid "Java"
+msgstr "Java"
+
+#: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
+msgctxt "JavaWizardPage|"
+msgid ""
+"You do not have a working Java set up yet or it went missing.\n"
+"Please select one of the following or browse for a java executable."
+msgstr ""
+"Bạn không có một phiên bản Java để hoạt động hoặc nó biến mất.\n"
+"Hãy chọn một trong những tuỳ chọn sau để tìm tệp Java."
+
+#: src/launcher/ui/pages/global/LanguagePage.h:35
+msgctxt "LanguagePage|"
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: src/launcher/ui/widgets/LanguageSelectionWidget.cpp:54
+#, qt-format
+msgctxt "LanguageSelectionWidget|"
+msgid ""
+"Don't see your language or the quality is poor?<br/><a href=\"%1\">Help us "
+"with translations!</a>"
+msgstr ""
+"Không thấy ngôn ngữ của bạn hoặc chất lượng thấp?<br/><a href=\"%1\">Hãy "
+"tham gia vào nhóm dịch với chúng tôi!</a>"
+
+#: src/launcher/ui/setupwizard/LanguageWizardPage.cpp:46
+msgctxt "LanguageWizardPage|"
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: src/launcher/ui/setupwizard/LanguageWizardPage.cpp:47
+#, qt-format
+msgctxt "LanguageWizardPage|"
+msgid "Select the language to use in %1"
+msgstr "Chọn ngôn ngữ để dùng cho %1"
+
+#: src/launcher/LaunchController.cpp:35
+msgctxt "LaunchController|"
+msgid "No instance specified!"
+msgstr "Không có phiên bản được chỉ định!"
+
+#: src/launcher/LaunchController.cpp:57
+msgctxt "LaunchController|"
+msgid "No Accounts"
+msgstr "Không Tài khoản"
+
+#: src/launcher/LaunchController.cpp:58
+msgctxt "LaunchController|"
+msgid ""
+"In order to play Minecraft, you must have at least one Mojang or Minecraft "
+"account logged in.Would you like to open the account manager to add an "
+"account now?"
+msgstr ""
+"Để chơi Minecraft, bạn phải có ít nhất một tài khoản Minecraft hoặc Mojang "
+"để đăng nhập vào MultiMC. Bạn có muốn mở phần quản lý tài khoản để thêm tài "
+"khoản bây giờ chứ?"
+
+#: src/launcher/LaunchController.cpp:77
+msgctxt "LaunchController|"
+msgid "Which account would you like to use?"
+msgstr "Tài khoản nào mà bạn muốn sử dụng?"
+
+#: src/launcher/LaunchController.cpp:101
+msgctxt "LaunchController|"
+msgid "No account selected for launch."
+msgstr "Không có tài khoản nào được chọn để chạy."
+
+#: src/launcher/LaunchController.cpp:110
+msgctxt "LaunchController|"
+msgid ""
+"Your account is currently not logged in. Please enter your password to log "
+"in again. <br /> <br /> This could be caused by a password change."
+msgstr ""
+"Tài khoản của bạn hiện giờ chưa được đăng nhập. Hãy nhập mật khẩu của bạn để "
+"đăng nhập lại. <br /> <br /> Điều này có thể gây nên bởi việc thay đổi mật "
+"khẩu."
+
+#: src/launcher/LaunchController.cpp:131
+msgctxt "LaunchController|"
+msgid "Player name"
+msgstr "Tên người chơi"
+
+#: src/launcher/LaunchController.cpp:132
+msgctxt "LaunchController|"
+msgid "Choose your offline mode player name."
+msgstr "Chọn tên người chơi ngoại tuyến của bạn."
+
+#: src/launcher/LaunchController.cpp:160
+msgctxt "LaunchController|"
+msgid "Received undetermined session status during login."
+msgstr "Đã nhận được trạng thái phiên không xác định trong khi đăng nhập."
+
+#: src/launcher/LaunchController.cpp:171
+msgctxt "LaunchController|"
+msgid "Play demo?"
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:172
+msgctxt "LaunchController|"
+msgid ""
+"This account does not own Minecraft.\n"
+"You need to purchase the game first to play it.\n"
+"\n"
+"Do you want to play the demo?"
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:174
+msgctxt "LaunchController|"
+msgid "Play Demo"
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:175
+msgctxt "LaunchController|"
+msgid "Cancel"
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:185
+msgctxt "LaunchController|"
+msgid "Launch cancelled - account does not own Minecraft."
+msgstr ""
+
+#: src/launcher/LaunchController.cpp:201
+msgctxt "LaunchController|"
+msgid "Play Offline"
+msgstr "Chơi ngoại tuyến"
+
+#: src/launcher/LaunchController.cpp:214
+msgctxt "LaunchController|"
+msgid "The account has expired and needs to be logged into manually again."
+msgstr ""
+"Phiên đăng nhập tài khoản đã hết hạn và cần được đăng nhập lại thủ công."
+
+#: src/launcher/LaunchController.cpp:217
+msgctxt "LaunchController|"
+msgid "Account refresh failed"
+msgstr "Làm mới tài khoản thất bại"
+
+#: src/launcher/LaunchController.cpp:226
+msgctxt "LaunchController|"
+msgid ""
+"The account no longer exists on the servers. It may have been migrated, in "
+"which case please add the new account you migrated this one to."
+msgstr ""
+"Tài khoản không còn tồn tại trên máy chủ. Nó có thể đã được di chuyển sang "
+"tài khoản khác, trong trường hợp đó, vui lòng thêm tài khoản mới mà bạn đã "
+"di chuyển tài khoản này vào."
+
+#: src/launcher/LaunchController.cpp:229
+msgctxt "LaunchController|"
+msgid "Account gone"
+msgstr "Tài khoản đã biến mất"
+
+#: src/launcher/LaunchController.cpp:239
+msgctxt "LaunchController|"
+msgid "Failed to launch."
+msgstr "Thất bại trong việc khởi động."
+
+#: src/launcher/LaunchController.cpp:249 src/launcher/LaunchController.cpp:321
+msgctxt "LaunchController|"
+msgid "Error!"
+msgstr "Lỗi!"
+
+#: src/launcher/LaunchController.cpp:249 src/launcher/LaunchController.cpp:250
+msgctxt "LaunchController|"
+msgid "Couldn't load the instance profile."
+msgstr "Không thể tải lên hồ sơ phiên bản."
+
+#: src/launcher/LaunchController.cpp:257
+msgctxt "LaunchController|"
+msgid "Couldn't instantiate a launcher."
+msgstr "Không thể khởi tạo trình khởi chạy."
+
+#: src/launcher/LaunchController.cpp:321
+#, qt-format
+msgctxt "LaunchController|"
+msgid "Couldn't start profiler: %1"
+msgstr "Không thể khởi động profiler: %1"
+
+#: src/launcher/LaunchController.cpp:330
+#, qt-format
+msgctxt "LaunchController|"
+msgid ""
+"The game launch is delayed until you press the button. This is the right "
+"time to setup the profiler, as the profiler server is running now.\n"
+"\n"
+"%1"
+msgstr ""
+"Trình khởi chạy game sẽ trì hoãn trừ khi bạn nhấn nút. Đây là thời điểm "
+"thích hợp để thiết lập profiler, như bây giờ máy chủ profiler đang chạy.\n"
+"\n"
+"%1"
+
+#: src/launcher/LaunchController.cpp:333
+msgctxt "LaunchController|"
+msgid "Waiting."
+msgstr "Đang chờ."
+
+#: src/launcher/LaunchController.cpp:335
+msgctxt "LaunchController|"
+msgid "Launch"
+msgstr "Chạy"
+
+#: src/launcher/LaunchController.cpp:343
+#, qt-format
+msgctxt "LaunchController|"
+msgid "Couldn't start the profiler: %1"
+msgstr "Không thể khởi động profiler: %1"
+
+#: src/launcher/LaunchController.cpp:344
+msgctxt "LaunchController|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/launcher/LaunchController.cpp:372
+msgctxt "LaunchController|"
+msgid "Abort"
+msgstr "Hủy bỏ"
+
+#: src/launcher/LaunchController.cpp:388
+msgctxt "LaunchController|"
+msgid "Kill Minecraft?"
+msgstr "Tắt Minecraft?"
+
+#: src/launcher/LaunchController.cpp:389
+msgctxt "LaunchController|"
+msgid ""
+"This can cause the instance to get corrupted and should only be used if "
+"Minecraft is frozen for some reason"
+msgstr ""
+"Điều này có thể khiến phiên bản bị hỏng và chỉ nên được sử dụng nếu "
+"Minecraft bị đứng hình vì lý do nào đó"
+
+#: src/launcher/launch/LaunchTask.cpp:215
+#, fuzzy, qt-format
+#| msgid ""
+#| "MultiMC stopped watching the game log because the log length surpassed %1 "
+#| "lines.\n"
+#| "You may have to fix your mods because the game is still logging to files "
+#| "and likely wasting harddrive space at an alarming rate!"
+msgctxt "LaunchTask|"
+msgid ""
+"PolyMC stopped watching the game log because the log length surpassed %1 "
+"lines.\n"
+"You may have to fix your mods because the game is still logging to files and "
+"likely wasting harddrive space at an alarming rate!"
+msgstr ""
+"MultiMC đã ngừng xem nhật ký trò chơi vì độ dài nhật ký vượt quá %1 dòng.\n"
+"Bạn có thể phải sửa các bản mod của mình vì trò chơi vẫn đang đăng nhập vào "
+"các tệp và có khả năng lãng phí dung lượng ổ cứng ở mức đáng báo động!"
+
+#: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:16
+msgctxt "LauncherLoginStep|"
+msgid "Accessing Mojang services."
+msgstr "Đang truy cập dịch vụ Mojang."
+
+#: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:61
+#, qt-format
+msgctxt "LauncherLoginStep|"
+msgid "Failed to get Minecraft access token: %1"
+msgstr "Thất bại khi lấy token truy cập Minecraft: %1"
+
+#: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:73
+msgctxt "LauncherLoginStep|"
+msgid "Failed to parse the Minecraft access token response."
+msgstr "Không thể phân tích cú pháp phản hồi token truy cập Minecraft."
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:45
+msgctxt "LauncherPage|"
+msgid "Features"
+msgstr "Tính năng"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:51
+msgctxt "LauncherPage|"
+msgid "Update Settings"
+msgstr "Cập nhật cài đặt"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:57
+msgctxt "LauncherPage|"
+msgid "Check for updates on start?"
+msgstr "Kiểm tra cập nhật mỗi khi khởi động?"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:64
+msgctxt "LauncherPage|"
+msgid "Up&date Channel:"
+msgstr "Kênh C%ập Nhật:"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:81
+msgctxt "LauncherPage|"
+msgid "No channel selected."
+msgstr "Không có kênh nào được chọn."
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:94
+msgctxt "LauncherPage|"
+msgid "Folders"
+msgstr "Thư mục"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:100
+msgctxt "LauncherPage|"
+msgid "I&nstances:"
+msgstr "P&hiên bản:"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:120
+msgctxt "LauncherPage|"
+msgid "&Mods:"
+msgstr "&Mods:"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:143
+msgctxt "LauncherPage|"
+msgid "&Icons:"
+msgstr "&Biểu tượng:"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:163
+msgctxt "LauncherPage|"
+msgid "Move the data to new location (will restart the launcher)"
+msgstr "Di chuyển dữ liệu MultiMC đến vị trí mới (sẽ khởi động lại MultiMC)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:184
+msgctxt "LauncherPage|"
+msgid "User Interface"
+msgstr "Giao Diện Người Dùng"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:190
+msgctxt "LauncherPage|"
+msgid "Launcher notifications"
+msgstr "Thông báo Launcher"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:196
+msgctxt "LauncherPage|"
+msgid "Reset hidden notifications"
+msgstr "Đặt lại thông báo ẩn"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:212
+msgctxt "LauncherPage|"
+msgid "Instance view sorting mode"
+msgstr "Chế độ sắp xếp chế độ xem phiên bản"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:218
+msgctxt "LauncherPage|"
+msgid "By &last launched"
+msgstr "Theo %lần cuối ra mắt"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:228
+msgctxt "LauncherPage|"
+msgid "By &name"
+msgstr "Theo &tên"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:241
+msgctxt "LauncherPage|"
+msgid "Theme"
+msgstr "Giao diện"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:247
+msgctxt "LauncherPage|"
+msgid "&Icons"
+msgstr "&Biểu tượng"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:267
+msgctxt "LauncherPage|"
+msgid "Simple (Dark Icons)"
+msgstr "Đơn Giản (Biểu Tượng Tối)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:272
+msgctxt "LauncherPage|"
+msgid "Simple (Light Icons)"
+msgstr "Đơn Giản (Biểu Tượng Sáng)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:277
+msgctxt "LauncherPage|"
+msgid "Simple (Blue Icons)"
+msgstr "Đơn Giản (Biểu Tượng Màu Xanh)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:282
+msgctxt "LauncherPage|"
+msgid "Simple (Colored Icons)"
+msgstr "Đơn Giản (Biểu Tượng Màu)"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:302
+msgctxt "LauncherPage|"
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:307
+msgctxt "LauncherPage|"
+msgid "MultiMC"
+msgstr ""
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:328
+msgctxt "LauncherPage|"
+msgid "Colors"
+msgstr "Màu"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:355
+msgctxt "LauncherPage|"
+msgid "Console"
+msgstr "Console"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:361
+msgctxt "LauncherPage|"
+msgid "Console Settings"
+msgstr "Cài Đặt Console"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:367
+msgctxt "LauncherPage|"
+msgid "Show console while the game is running?"
+msgstr "Hiện bảng console khi trò chơi đang chạy?"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:374
+msgctxt "LauncherPage|"
+msgid "Automatically close console when the game quits?"
+msgstr "Tự động đóng bảng console khi thoát trò chơi?"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:381
+msgctxt "LauncherPage|"
+msgid "Show console when the game crashes?"
+msgstr "Mở console khi game bị crash?"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:391
+msgctxt "LauncherPage|"
+msgid "History limit"
+msgstr "Giới hạn lịch sử"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:397
+msgctxt "LauncherPage|"
+msgid "Stop logging when log overflows"
+msgstr "Dừng ghi log khi tệp log bị đầy"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:410
+msgctxt "LauncherPage|"
+msgid " lines"
+msgstr " dòng"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:438
+msgctxt "LauncherPage|"
+msgid "Console font"
+msgstr "Kiểu chữ console"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:101
+msgctxt "LauncherPage|"
+msgid "Instance Folder"
+msgstr "Thư Mục Phiên Bản"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:110
+msgctxt "LauncherPage|"
+msgid ""
+"You're trying to specify an instance folder which's path contains at least "
+"one '!'. Java is known to cause problems if that is the case, your instances "
+"(probably) won't start!"
+msgstr ""
+"Bạn đang cố gắng chỉ định một thư mục cá thể mà đường dẫn của nó chứa ít "
+"nhất một '!'. Java được biết là có thể gây ra sự cố nếu trường hợp đó xảy "
+"ra, các phiên bản của bạn (có thể) sẽ không khởi động!"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:115
+msgctxt "LauncherPage|"
+msgid ""
+"Do you really want to use this path? Selecting \"No\" will close this and "
+"not alter your instance path."
+msgstr ""
+"Bạn có thực sự muốn sử dụng đường dẫn này? Chọn \"Không\" sẽ đóng khung này "
+"và không thay đổi đường dẫn phiên bản của bạn."
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:133
+msgctxt "LauncherPage|"
+msgid "Icons Folder"
+msgstr "Thư Mục Biểu Tượng"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:144
+msgctxt "LauncherPage|"
+msgid "Mods Folder"
+msgstr "Thư Mục Mods"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:427
+msgctxt "LauncherPage|"
+msgid "[Something/ERROR] A spooky error!"
+msgstr "[Cái gì đó/LỖI] Một lỗi ma quái!"
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:436
+msgctxt "LauncherPage|"
+msgid "[Test/INFO] A harmless message..."
+msgstr "[Test/INFO] Một tin nhắn vô hại..."
+
+#: src/launcher/ui/pages/global/LauncherPage.cpp:445
+msgctxt "LauncherPage|"
+msgid "[Something/WARN] A not so spooky warning."
+msgstr "[Cái gì đó/CẢNH BÁO] Một cảnh báo không quá ma quái."
+
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:122
+#, qt-format
+msgctxt "LauncherPartLaunch|"
+msgid "The wrapper command \"%1\" couldn't be found."
+msgstr "Câu lệnh wrapper \"%1\" không thể tìm thấy."
+
+#. Error message displayed if instace can't start
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:144
+msgctxt "LauncherPartLaunch|"
+msgid "Could not launch minecraft!"
+msgstr "Không thể khởi chạy Minecraft!"
+
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:153
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:163
+msgctxt "LauncherPartLaunch|"
+msgid "Game crashed."
+msgstr "Game đã bị hỏng."
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:19
+msgctxt "LegacyFTB::FilterModel|"
+msgid "Sort by name"
+msgstr "Sắp xếp theo tên"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:20
+msgctxt "LegacyFTB::FilterModel|"
+msgid "Sort by game version"
+msgstr "Sắp xếp theo phiên bản trò chơi"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:81
+msgctxt "LegacyFTB::ListModel|"
+msgid "Public Modpack"
+msgstr "Modpack Công Khai"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:83
+msgctxt "LegacyFTB::ListModel|"
+msgid "Third Party Modpack"
+msgstr "Modpack Bên Thứ Ba"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:85
+msgctxt "LegacyFTB::ListModel|"
+msgid "Private Modpack"
+msgstr "Modpack Riêng Tư"
+
+#: src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp:78
+msgctxt "LegacyFTB::PackFetchTask|"
+msgid "Public Packs"
+msgstr "Packs Công Khai"
+
+#: src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp:83
+msgctxt "LegacyFTB::PackFetchTask|"
+msgid "Third Party Packs"
+msgstr "Packs Bên Thứ Ba"
+
+#: src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp:88
+#, qt-format
+msgctxt "LegacyFTB::PackFetchTask|"
+msgid "Failed to download some pack lists: %1"
+msgstr "Không thể tải về một số danh sách pack: %1"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:32
+#, qt-format
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Downloading zip for %1"
+msgstr "Đang tải zip %1"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:75
+#, qt-format
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Downloading zip for %1 (%2%)"
+msgstr "Đang tải zip %1 (%2%)"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:81
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Extracting modpack"
+msgstr "Đang giải nén modpack"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:87
+#, qt-format
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Failed to open modpack file %1!"
+msgstr "Không mở được modpack %1!"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:110
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Installing modpack"
+msgstr "Đang cài đặt modpack"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:117
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "Failed to move unzipped minecraft!"
+msgstr "Không thể di chuyển tệp Minecraft đã giải nén!"
+
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:186
+msgctxt "LegacyFTB::PackInstallTask|"
+msgid "No installation method found!"
+msgstr "Không tìm thấy trình tải!"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:21
+msgctxt "LegacyFTB::Page|"
+msgid "Public"
+msgstr "Công khai"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:44
+msgctxt "LegacyFTB::Page|"
+msgid "3rd Party"
+msgstr "Bên Thứ Ba"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:67
+msgctxt "LegacyFTB::Page|"
+msgid "Private"
+msgstr "Riêng Tư"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:86
+msgctxt "LegacyFTB::Page|"
+msgid "Add pack"
+msgstr "Thêm gói pack"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:93
+msgctxt "LegacyFTB::Page|"
+msgid "Remove selected pack"
+msgstr "Xoá pack được lựa chọn"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:109
+msgctxt "LegacyFTB::Page|"
+msgid "Version selected:"
+msgstr "Phiên bản đã chọn:"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
+msgctxt "LegacyFTB::Page|"
+msgid "FTB Legacy"
+msgstr "FTB Legacy"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:194
+msgctxt "LegacyFTB::Page|"
+msgid "FTB private packs"
+msgstr "Gói packs riêng tư FTB"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:195
+#, qt-format
+msgctxt "LegacyFTB::Page|"
+msgid ""
+"Failed to download pack information for code %1.\n"
+"Should it be removed now?"
+msgstr ""
+"Không thể tải về thông tin pack cho đoạn mã %1.\n"
+"Có nên xoá nó bây giờ?"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:333
+msgctxt "LegacyFTB::Page|"
+msgid "Add FTB pack"
+msgstr "Thêm gói pack FTB"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:334
+msgctxt "LegacyFTB::Page|"
+msgid "Enter pack code:"
+msgstr "Nhập mã gói pack:"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:357
+msgctxt "LegacyFTB::Page|"
+msgid "Remove pack"
+msgstr "Xoá gói pack"
+
+#: src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp:358
+#, qt-format
+msgctxt "LegacyFTB::Page|"
+msgid "Are you sure you want to remove pack %1?"
+msgstr "Bạn có chắc muốn xóa gói pack %1 không?"
+
+#: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
+msgctxt "LegacyInstance|"
+msgid "Legacy"
+msgstr "Legacy"
+
+#: src/launcher/minecraft/legacy/LegacyInstance.cpp:225
+msgctxt "LegacyInstance|"
+msgid "Instance from previous versions."
+msgstr "Phiên bản từ các phiên bản trước."
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:29
+#, fuzzy
+#| msgid ""
+#| "<html><body><h1>Upgrade is required</h1><p>MultiMC now supports old "
+#| "Minecraft versions and all the required features in the new (OneSix) "
+#| "instance format. As a consequence, the old (Legacy) format has been "
+#| "entirely disabled and old instances need to be upgraded.</p><p>The "
+#| "upgrade will create a new instance with the same contents as the current "
+#| "one, in the new format. The original instance will remain untouched, in "
+#| "case anything goes wrong in the process.</p><p>Please report any issues "
+#| "on our <a href=\"https://github.com/MultiMC/Launcher/issues\">github "
+#| "issues page</a>.</p><p>There is also a <a "
+#| "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
+#| "here</a>.</p></body></html>"
+msgctxt "LegacyUpgradePage|"
+msgid ""
+"<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old Minecraft "
+"versions and all the required features in the new (OneSix) instance format. "
+"As a consequence, the old (Legacy) format has been entirely disabled and old "
+"instances need to be upgraded.</p><p>The upgrade will create a new instance "
+"with the same contents as the current one, in the new format. The original "
+"instance will remain untouched, in case anything goes wrong in the "
+"process.</p><p>Please report any issues on our <a "
+"href=\"https://github.com/PolyMC/PolyMC/issues\">github issues "
+"page</a>.</p><p>There is also a <a "
+"href=\"https://discord.gg/GtPmv93\">discord channel for testing "
+"here</a>.</p></body></html>"
+msgstr ""
+"<html><body><h1>Cập nhật rất cần thiết</h1><p>MultiMC giờ đã hỗ trợ "
+"Minecraft phiên bản cũ và tất cả các chức năng cần thiết ở định dạng phiên "
+"bản mới (OneSix). Do đó, định dạng cũ (Legacy) đã bị vô hiệu hóa hoàn toàn "
+"và các phiên bản cũ cần được nâng cấp.</p><p>Việc nâng cấp sẽ tạo một phiên "
+"bản mới có cùng nội dung với phiên bản hiện tại, ở định dạng mới. Phiên bản "
+"gốc sẽ được giữ nguyên, đề phòng trong trường hợp quá trình nâng cấp bị trục "
+"trặc.</p><p>Hãy báo cáo bất kì sự cố trên <a "
+"href=\"https://github.com/MultiMC/Launcher/issues\">trang báo cáo github của "
+"chúng tôi</a>.</p><p>Cũng có một <a href=\"https://discord.gg/GtPmv93\">kênh "
+"discord cho thử nghiệm ở đây</a>.</p></body></html>"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:39
+msgctxt "LegacyUpgradePage|"
+msgid "Upgrade the instance"
+msgstr "Nâng cấp phiên bản"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:27
+msgctxt "LegacyUpgradePage|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:30
+msgctxt "LegacyUpgradePage|"
+msgid "Abort"
+msgstr "Hủy bỏ"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:39
+#, qt-format
+msgctxt "LegacyUpgradePage|"
+msgid "%1 (Migrated)"
+msgstr "%1(Di Chuyển)"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.h:39
+msgctxt "LegacyUpgradePage|"
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:20
+#, qt-format
+msgctxt "LegacyUpgradeTask|"
+msgid "Copying instance %1"
+msgstr "Đang sao chép phiên bản %1"
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:59
+msgctxt "LegacyUpgradeTask|"
+msgid "Instance folder copy failed."
+msgstr "Sao chép thư mục phiên bản thất bại."
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:82
+msgctxt "LegacyUpgradeTask|"
+msgid "Could not decide Minecraft version."
+msgstr "Không thể quyết định phiên bản Minecraft."
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:135
+msgctxt "LegacyUpgradeTask|"
+msgid "Instance folder copy has been aborted."
+msgstr "Sao chép thư mục phiên bản đã huỷ bỏ."
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:15
+msgctxt "LibrariesTask|"
+msgid "Getting the library files from Mojang..."
+msgstr "Lấy tập tin dữ liệu library từ Mojang..."
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:23
+#, qt-format
+msgctxt "LibrariesTask|"
+msgid "Libraries for instance %1"
+msgstr "Thư viện cho phiên bản %1"
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:34
+msgctxt "LibrariesTask|"
+msgid "Null jar is specified in the metadata, aborting."
+msgstr "Null jar được chỉ định ở trong metadata, đang huỷ bỏ."
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:61
+#, qt-format
+msgctxt "LibrariesTask|"
+msgid ""
+"Some artifacts marked as 'local' are missing their files:\n"
+"%1\n"
+"\n"
+"You need to either add the files, or removed the packages that require "
+"them.\n"
+"You'll have to correct this problem manually."
+msgstr ""
+"Một vài artifacts đánh dấu là 'local' đang thiếu các tệp:\n"
+"%1\n"
+"\n"
+"Bạn cần thêm tệp, hoặc xoá gói mà cần chúng.\n"
+"Bạn phải khắc phục sự cố này bằng cách thủ công."
+
+#: src/launcher/minecraft/update/LibrariesTask.cpp:78
+#, qt-format
+msgctxt "LibrariesTask|"
+msgid ""
+"Game update failed: it was impossible to fetch the required libraries.\n"
+"Reason:\n"
+"%1"
+msgstr ""
+"Cập nhật game thất bại: không thể tìm nạp các libraries cần thiết.\n"
+"Lý do:\n"
+"%1"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:60
+msgctxt "LogPage|"
+msgid "Keep updating"
+msgstr "Giữ cập nhật"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:70
+msgctxt "LogPage|"
+msgid "Wrap lines"
+msgstr "Dòng wrap"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:93
+msgctxt "LogPage|"
+msgid "Copy the whole log into the clipboard"
+msgstr "Sao chép hết log"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:96
+msgctxt "LogPage|"
+msgid "&Copy"
+msgstr "&Sao chép"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:103
+#, fuzzy
+#| msgid "Upload the log to paste.ee - it will stay online for a month"
+msgctxt "LogPage|"
+msgid "Upload the log to the paste service configured in preferences"
+msgstr "Tải bản log vào paste.ee - nó sẽ được giữ yên trong một tháng"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:106
+msgctxt "LogPage|"
+msgid "Upload"
+msgstr "Tải lên"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:113
+msgctxt "LogPage|"
+msgid "Clear the log"
+msgstr "Xoá log"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:116
+msgctxt "LogPage|"
+msgid "Clear"
+msgstr "Xóa"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:125
+msgctxt "LogPage|"
+msgid "Search:"
+msgstr "Tìm Kiếm:"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:132
+msgctxt "LogPage|"
+msgid "Find"
+msgstr "Tìm"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:142
+msgctxt "LogPage|"
+msgid "Scroll all the way to bottom"
+msgstr "Cuộn hết cỡ xuống dưới cùng"
+
+#: src/launcher/ui/pages/instance/LogPage.ui:145
+msgctxt "LogPage|"
+msgid "Bottom"
+msgstr "Dưới cùng"
+
+#: src/launcher/ui/pages/instance/LogPage.h:41
+msgctxt "LogPage|"
+msgid "Minecraft Log"
+msgstr "Minecraft Log"
+
+#. Message displayed on instance exit
+#: src/launcher/LoggedProcess.cpp:68
+#, qt-format
+msgctxt "LoggedProcess|"
+msgid "Process exited with code %1."
+msgstr "Tiến trình thoát với mã %1."
+
+#. Message displayed on instance crashed
+#: src/launcher/LoggedProcess.cpp:75
+msgctxt "LoggedProcess|"
+msgid "Process crashed."
+msgstr "Tiến trình bị hỏng."
+
+#: src/launcher/LoggedProcess.cpp:77
+#, qt-format
+msgctxt "LoggedProcess|"
+msgid "Process crashed with exitcode %1."
+msgstr "Tiến trình bị hỏng với mã lỗi %1."
+
+#. Message displayed after the instance exits due to kill request
+#: src/launcher/LoggedProcess.cpp:84
+msgctxt "LoggedProcess|"
+msgid "Process was killed by user."
+msgstr "Tiến trình được tắt bởi người dùng."
+
+#: src/launcher/LoggedProcess.cpp:95
+msgctxt "LoggedProcess|"
+msgid "The process failed to start."
+msgstr "Tiến trình không thể khởi động được."
+
+#: src/launcher/ui/dialogs/LoginDialog.ui:20
+msgctxt "LoginDialog|"
+msgid "Add Account"
+msgstr "Thêm tài khoản"
+
+#: src/launcher/ui/dialogs/LoginDialog.ui:39
+msgctxt "LoginDialog|"
+msgid "Email"
+msgstr "Email"
+
+#: src/launcher/ui/dialogs/LoginDialog.ui:49
+msgctxt "LoginDialog|"
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: src/launcher/ui/dialogs/MSALoginDialog.ui:20
+msgctxt "MSALoginDialog|"
+msgid "Add Microsoft Account"
+msgstr "Thêm tài khoản Microsoft"
+
+#: src/launcher/ui/dialogs/MSALoginDialog.ui:56
+msgctxt "MSALoginDialog|"
+msgid "Open page and copy code"
+msgstr ""
+
+#: src/launcher/ui/dialogs/MSALoginDialog.cpp:87
+#, qt-format
+msgctxt "MSALoginDialog|"
+msgid ""
+"<p>Please open up %1 in a browser and put in the code <b>%2</b> to proceed "
+"with login.</p>"
+msgstr ""
+"<p> Vui lòng mở %1 trong trình duyệt và nhập mã <b>%2</b> để tiếp tục đăng "
+"nhập. </p>"
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:31
+msgctxt "MSAStep|"
+msgid "Logging in with Microsoft account."
+msgstr "Đang đăng nhập bằng tài khoản Microsoft."
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:87
+msgctxt "MSAStep|"
+msgid "Got "
+msgstr "Đã có "
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:93
+msgctxt "MSAStep|"
+msgid "Microsoft user authentication ended with a network error."
+msgstr "Xác thực tài khoản Microsoft đã kết thúc với kết nối mạng lỗi."
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:98
+msgctxt "MSAStep|"
+msgid "Microsoft user authentication failed - user no longer exists."
+msgstr "Xác thực tài khoản thất bại - người dùng không còn tồn tại."
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:103
+msgctxt "MSAStep|"
+msgid "Microsoft user authentication failed."
+msgstr "Xác minh tài khoản Microsoft thất bại."
+
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:108
+msgctxt "MSAStep|"
+msgid "Microsoft user authentication completed with an unrecognized result."
+msgstr ""
+"Xác thực người dùng Microsoft đã hoàn tất với kết quả không được công nhận."
+
+#: src/launcher/ui/MainWindow.cpp:254
+msgctxt "MainWindow|"
+msgid "Kill"
+msgstr "Tắt"
+
+#: src/launcher/ui/MainWindow.cpp:255
+msgctxt "MainWindow|"
+msgid "Kill the running instance"
+msgstr "Tắt tiến trình đang chạy"
+
+#: src/launcher/ui/MainWindow.cpp:259 src/launcher/ui/MainWindow.cpp:944
+msgctxt "MainWindow|"
+msgid "Launch"
+msgstr "Chạy"
+
+#: src/launcher/ui/MainWindow.cpp:260
+msgctxt "MainWindow|"
+msgid "Launch the selected instance."
+msgstr "Chạy phiên bản đã chọn."
+
+#: src/launcher/ui/MainWindow.cpp:278
+msgctxt "MainWindow|"
+msgid "Main Toolbar"
+msgstr "Thanh công cụ chính"
+
+#: src/launcher/ui/MainWindow.cpp:283
+msgctxt "MainWindow|"
+msgid "Add Instance"
+msgstr "Thêm Phiên Bản"
+
+#: src/launcher/ui/MainWindow.cpp:284
+msgctxt "MainWindow|"
+msgid "Add a new instance."
+msgstr "Thêm phiên bản mới."
+
+#: src/launcher/ui/MainWindow.cpp:296
+msgctxt "MainWindow|"
+msgid "View Instance Folder"
+msgstr "Xem Thư Mục Của Phiên Bản"
+
+#: src/launcher/ui/MainWindow.cpp:297
+msgctxt "MainWindow|"
+msgid "Open the instance folder in a file browser."
+msgstr "Mở thư mục phiên bản trong tệp trình duyệt."
+
+#: src/launcher/ui/MainWindow.cpp:304
+msgctxt "MainWindow|"
+msgid "View Central Mods Folder"
+msgstr "Xem Thư Mục Mods"
+
+#: src/launcher/ui/MainWindow.cpp:305
+msgctxt "MainWindow|"
+msgid "Open the central mods folder in a file browser."
+msgstr "Mở thư mục mods trong tệp trình duyệt."
+
+#: src/launcher/ui/MainWindow.cpp:310 src/launcher/ui/MainWindow.cpp:642
+msgctxt "MainWindow|"
+msgid "Folders"
+msgstr "Thư mục"
+
+#: src/launcher/ui/MainWindow.cpp:311
+msgctxt "MainWindow|"
+msgid "Open one of the folders shared between instances."
+msgstr "Mở một trong các thư mục được chia sẻ giữa các phiên bản."
+
+#: src/launcher/ui/MainWindow.cpp:326
+msgctxt "MainWindow|"
+msgid "Settings"
+msgstr "Cài Đặt"
+
+#: src/launcher/ui/MainWindow.cpp:327
+msgctxt "MainWindow|"
+msgid "Change settings."
+msgstr "Thay đổi cài đặt."
+
+#: src/launcher/ui/MainWindow.cpp:338
+msgctxt "MainWindow|"
+msgid "Report a Bug"
+msgstr "Báo cáo lỗi"
+
+#: src/launcher/ui/MainWindow.cpp:339
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open the bug tracker to report a bug with %1."
+msgstr "Mở the bug tracker để báo cáo lỗi của %1."
+
+#: src/launcher/ui/MainWindow.cpp:348
+msgctxt "MainWindow|"
+msgid "Discord"
+msgstr "Discord"
+
+#: src/launcher/ui/MainWindow.cpp:349
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open %1 discord voice chat."
+msgstr "Mở discord %1 khu đàm thoại."
+
+#: src/launcher/ui/MainWindow.cpp:358
+msgctxt "MainWindow|"
+msgid "Reddit"
+msgstr "Reddit"
+
+#: src/launcher/ui/MainWindow.cpp:359
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open %1 subreddit."
+msgstr "Mở %1 subreddit."
+
+#: src/launcher/ui/MainWindow.cpp:368
+#, qt-format
+msgctxt "MainWindow|"
+msgid "About %1"
+msgstr "Về %1"
+
+#: src/launcher/ui/MainWindow.cpp:369
+#, qt-format
+msgctxt "MainWindow|"
+msgid "View information about %1."
+msgstr "Xem Thông Tin Về %1."
+
+#: src/launcher/ui/MainWindow.cpp:374 src/launcher/ui/MainWindow.cpp:643
+msgctxt "MainWindow|"
+msgid "Help"
+msgstr "Hỗ trợ"
+
+#: src/launcher/ui/MainWindow.cpp:375
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Get help with %1 or Minecraft."
+msgstr "Cần hỗ trợ về %1 hoặc Minecraft."
+
+#: src/launcher/ui/MainWindow.cpp:391
+msgctxt "MainWindow|"
+msgid "Update"
+msgstr "Cập Nhật"
+
+#: src/launcher/ui/MainWindow.cpp:392
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Check for new updates for %1."
+msgstr "Kiểm tra bản cập nhật mới cho %1."
+
+#: src/launcher/ui/MainWindow.cpp:403
+msgctxt "MainWindow|"
+msgid "Meow"
+msgstr "Meo"
+
+#: src/launcher/ui/MainWindow.cpp:404
+msgctxt "MainWindow|"
+msgid "It's a fluffy kitty :3"
+msgstr "Mèo kitty :3"
+
+#: src/launcher/ui/MainWindow.cpp:412
+msgctxt "MainWindow|"
+msgid "Manage Accounts"
+msgstr "Quản Lý Tài Khoản"
+
+#: src/launcher/ui/MainWindow.cpp:438
+msgctxt "MainWindow|"
+msgid "Instance Toolbar"
+msgstr "Thanh công cụ phiên bản"
+
+#: src/launcher/ui/MainWindow.cpp:445
+msgctxt "MainWindow|"
+msgid "Change Icon"
+msgstr "Đổi biểu tượng"
+
+#: src/launcher/ui/MainWindow.cpp:446
+msgctxt "MainWindow|"
+msgid "Change the selected instance's icon."
+msgstr "Thay đổ hình đại diện phiên bản đã chọn."
+
+#: src/launcher/ui/MainWindow.cpp:459
+msgctxt "MainWindow|"
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: src/launcher/ui/MainWindow.cpp:460
+msgctxt "MainWindow|"
+msgid "Rename the selected instance."
+msgstr "Thay đổi tên phiên bản đã chọn."
+
+#: src/launcher/ui/MainWindow.cpp:479 src/launcher/ui/MainWindow.cpp:945
+msgctxt "MainWindow|"
+msgid "Launch Offline"
+msgstr "Chơi Ngoại Tuyến"
+
+#: src/launcher/ui/MainWindow.cpp:480
+msgctxt "MainWindow|"
+msgid "Launch the selected instance in offline mode."
+msgstr "Chạy phiên bản đã chọn ở chế độ ngoại tuyến."
+
+#: src/launcher/ui/MainWindow.cpp:488
+msgctxt "MainWindow|"
+msgid "Edit Instance"
+msgstr "Chỉnh Phiên bản"
+
+#: src/launcher/ui/MainWindow.cpp:489
+msgctxt "MainWindow|"
+msgid "Change the instance settings, mods and versions."
+msgstr "Chỉnh sửa cài đặt, mods và phiên bản của phiên bản."
+
+#: src/launcher/ui/MainWindow.cpp:495
+msgctxt "MainWindow|"
+msgid "Edit Notes"
+msgstr "Chỉnh sửa ghi chú"
+
+#: src/launcher/ui/MainWindow.cpp:496
+msgctxt "MainWindow|"
+msgid "Edit the notes for the selected instance."
+msgstr "Chỉnh dòng ghi chú cho phiên bản đã chọn."
+
+#: src/launcher/ui/MainWindow.cpp:502
+msgctxt "MainWindow|"
+msgid "View Mods"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:503
+msgctxt "MainWindow|"
+msgid "View the mods of this instance."
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:509
+msgctxt "MainWindow|"
+msgid "View Worlds"
+msgstr "Xem Thế Giới"
+
+#: src/launcher/ui/MainWindow.cpp:510
+msgctxt "MainWindow|"
+msgid "View the worlds of this instance."
+msgstr "Xem Thế Giới Của Phiên Bản Này."
+
+#: src/launcher/ui/MainWindow.cpp:516
+msgctxt "MainWindow|"
+msgid "Manage Screenshots"
+msgstr "Quản lý ảnh chụp màn hình"
+
+#: src/launcher/ui/MainWindow.cpp:517
+msgctxt "MainWindow|"
+msgid "View and upload screenshots for this instance."
+msgstr "Xem và tải ảnh chụp màn hình vào phiên bản này."
+
+#: src/launcher/ui/MainWindow.cpp:523
+msgctxt "MainWindow|"
+msgid "Change Group"
+msgstr "Đổi nhóm"
+
+#: src/launcher/ui/MainWindow.cpp:524
+msgctxt "MainWindow|"
+msgid "Change the selected instance's group."
+msgstr "Thay đổ nhóm của phiên bản đã chọn."
+
+#: src/launcher/ui/MainWindow.cpp:532
+msgctxt "MainWindow|"
+msgid "Minecraft Folder"
+msgstr "Thư Mục Minecraft"
+
+#: src/launcher/ui/MainWindow.cpp:533
+msgctxt "MainWindow|"
+msgid "Open the selected instance's minecraft folder in a file browser."
+msgstr "Mở thư mục phiên bản minecraft đã lựa chọn ở trong tệp trình duyệt."
+
+#: src/launcher/ui/MainWindow.cpp:548
+msgctxt "MainWindow|"
+msgid "Config Folder"
+msgstr "Cấu Hình Thư Mục"
+
+#: src/launcher/ui/MainWindow.cpp:549
+msgctxt "MainWindow|"
+msgid "Open the instance's config folder."
+msgstr "Mở thư mục cấu hình của phiên bản."
+
+#: src/launcher/ui/MainWindow.cpp:555
+msgctxt "MainWindow|"
+msgid "Instance Folder"
+msgstr "Thư Mục Phiên Bản"
+
+#: src/launcher/ui/MainWindow.cpp:556
+msgctxt "MainWindow|"
+msgid "Open the selected instance's root folder in a file browser."
+msgstr "Mở thư mục phiên bản root đã lựa chọn ở trong tệp trình duyệt."
+
+#: src/launcher/ui/MainWindow.cpp:564
+msgctxt "MainWindow|"
+msgid "Export Instance"
+msgstr "Xuất Phiên Bản"
+
+#: src/launcher/ui/MainWindow.cpp:571
+msgctxt "MainWindow|"
+msgid "Delete"
+msgstr "Xoá"
+
+#: src/launcher/ui/MainWindow.cpp:572
+msgctxt "MainWindow|"
+msgid "Delete the selected instance."
+msgstr "Xoá phiên bản đã chọn."
+
+#: src/launcher/ui/MainWindow.cpp:579
+msgctxt "MainWindow|"
+msgid "Copy Instance"
+msgstr "Sao chép phiên bản"
+
+#: src/launcher/ui/MainWindow.cpp:580
+msgctxt "MainWindow|"
+msgid "Copy the selected instance."
+msgstr "Sao chép phiên bản đã chọn."
+
+#: src/launcher/ui/MainWindow.cpp:622
+#, qt-format
+msgctxt "MainWindow|Launcher - Version X"
+msgid "%1 - Version %2"
+msgstr "%1 - Phiên bản %2"
+
+#: src/launcher/ui/MainWindow.cpp:625
+#, qt-format
+msgctxt "MainWindow|on platform, as in operating system"
+msgid " on %1"
+msgstr " trên %1"
+
+#: src/launcher/ui/MainWindow.cpp:721 src/launcher/ui/MainWindow.cpp:824
+msgctxt "MainWindow|"
+msgid "No instance selected"
+msgstr "Không có phiên bản nào được chọn"
+
+#: src/launcher/ui/MainWindow.cpp:722
+msgctxt "MainWindow|"
+msgid "Total playtime: 0s"
+msgstr "Tổng cộng thời gian chơi: 0 giây"
+
+#: src/launcher/ui/MainWindow.cpp:818 src/launcher/ui/MainWindow.cpp:1108
+msgctxt "MainWindow|"
+msgid "Profiles"
+msgstr "Hồ sơ"
+
+#: src/launcher/ui/MainWindow.cpp:877
+msgctxt "MainWindow|"
+msgid "Create instance"
+msgstr "Tạo phiên bản"
+
+#: src/launcher/ui/MainWindow.cpp:893
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Delete group '%1'"
+msgstr "Xóa nhóm '%1'"
+
+#: src/launcher/ui/MainWindow.cpp:954
+msgctxt "MainWindow|"
+msgid "Profilers"
+msgstr "Profilers"
+
+#: src/launcher/ui/MainWindow.cpp:966
+msgctxt "MainWindow|"
+msgid "Profiler not setup correctly. Go into settings, \"External Tools\"."
+msgstr ""
+"Profilers không được thiết lập chính xác. Đi vào cài đặt, \"Nâng Cao\"."
+
+#: src/launcher/ui/MainWindow.cpp:1006
+msgctxt "MainWindow|"
+msgid "No accounts added!"
+msgstr "Chưa có tài khoản nào được thêm vào!"
+
+#: src/launcher/ui/MainWindow.cpp:1039
+msgctxt "MainWindow|"
+msgid "No Default Account"
+msgstr "Không Có Tài Khoản Mặc Định"
+
+#: src/launcher/ui/MainWindow.cpp:1303
+msgctxt "MainWindow|"
+msgid "Warnings"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
+#, fuzzy
+msgctxt "MainWindow|"
+msgid "Abort"
+msgstr "Hủy bỏ"
+
+#: src/launcher/ui/MainWindow.cpp:1358
+msgctxt "MainWindow|"
+msgid ""
+"The launcher cannot download Minecraft or update instances unless you have "
+"at least one account added.\n"
+"Please add your Mojang or Minecraft account."
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1492
+msgctxt "MainWindow|"
+msgid "Group name"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1492
+msgctxt "MainWindow|"
+msgid "Enter a new group name."
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1514
+msgctxt "MainWindow|"
+msgid "Delete group"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1514
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Are you sure you want to delete the group %1"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1632
+msgctxt "MainWindow|"
+msgid "CAREFUL!"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1633
+#, qt-format
+msgctxt "MainWindow|"
+msgid ""
+"About to delete: %1\n"
+"This is permanent and will completely delete the instance.\n"
+"\n"
+"Are you sure?"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1838
+msgctxt "MainWindow|"
+msgid "Rename Instance"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1851
+msgctxt "MainWindow|"
+msgid ""
+"Your instance folder contains '!' and this is known to cause Java problems!"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1853
+#, qt-format
+msgctxt "MainWindow|"
+msgid ""
+"You have now two options: <br/> - change the instance folder in the settings "
+"<br/> - move this installation of %1 to a different folder"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1862
+msgctxt "MainWindow|"
+msgid ""
+"This is a problem: <br/> - The launcher will likely be deleted without "
+"warning by the operating system <br/> - close the launcher now and extract "
+"it to a real location, not a temporary folder"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1869
+msgctxt "MainWindow|"
+msgid ""
+"Your instance folder contains 'Rar$' - that means you haven't extracted the "
+"launcher archive!"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1877
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Your instance folder is in a temporary folder: '%1'!"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1890
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Total playtime: %1"
+msgstr ""
+
+#: src/launcher/ui/MainWindow.cpp:1221 src/launcher/ui/MainWindow.cpp:1238
+#: src/launcher/ui/MainWindow.cpp:1296 src/launcher/ui/MainWindow.cpp:1345
+#: src/launcher/ui/MainWindow.cpp:1357
+msgctxt "MainWindow|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/launcher/ui/MainWindow.cpp:1221
+#, qt-format
+msgctxt "MainWindow|"
+msgid ""
+"Couldn't create folder for update downloads:\n"
+"%1"
+msgstr ""
+"Không thể tạo thư mục cho tải các bản cập nhật về:\n"
+"%1"
+
+#: src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp:15
+msgctxt "MigrationEligibilityStep|"
+msgid "Checking for migration eligibility."
+msgstr "Kiểm tra tính đủ điều kiện di chuyển."
+
+#: src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp:44
+msgctxt "MigrationEligibilityStep|"
+msgid "Got migration flags"
+msgstr "Có cờ di chuyển"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:703
+msgctxt "MinecraftInstance|"
+msgid "<SESSION ID>"
+msgstr "<SESSION ID>"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:705
+msgctxt "MinecraftInstance|"
+msgid "<ACCESS TOKEN>"
+msgstr "<ACCESS TOKEN>"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:707
+msgctxt "MinecraftInstance|"
+msgid "<CLIENT TOKEN>"
+msgstr "<CLIENT TOKEN>"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:709
+msgctxt "MinecraftInstance|"
+msgid "<PROFILE ID>"
+msgstr "<PROFILE ID>"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:781
+msgctxt "MinecraftInstance|"
+msgid "broken"
+msgstr "hỏng"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:785
+#, qt-format
+msgctxt "MinecraftInstance|"
+msgid "Minecraft %1 (%2)"
+msgstr "Minecraft %1 (%2)"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:789
+#, qt-format
+msgctxt "MinecraftInstance|"
+msgid ", last played for %1"
+msgstr ", đã chơi trong vòng %1"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:793
+#, qt-format
+msgctxt "MinecraftInstance|"
+msgid ", total played for %1"
+msgstr ", tổng cộng thời gian chơi là %1"
+
+#: src/launcher/minecraft/MinecraftInstance.cpp:798
+msgctxt "MinecraftInstance|"
+msgid ", has crashed."
+msgstr ", đã hỏng."
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:48
+msgctxt "MinecraftPage|"
+msgid "Window Size"
+msgstr "Kích thước cửa sổ"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:54
+msgctxt "MinecraftPage|"
+msgid "Start Minecraft maximized?"
+msgstr "Bắt đầu với tối đa hóa Minecraft?"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:63
+msgctxt "MinecraftPage|"
+msgid "Window hei&ght:"
+msgstr "&Chiều cao cửa sổ:"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:73
+msgctxt "MinecraftPage|"
+msgid "W&indow width:"
+msgstr "Chiều rộng c&ửa sổ:"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:117
+msgctxt "MinecraftPage|"
+msgid "Native library workarounds"
+msgstr "Giải pháp thư viện gốc"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:123
+msgctxt "MinecraftPage|"
+msgid "Use system installation of GLFW"
+msgstr "Sử dụng hệ thống cài đặt của GLFW"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:130
+msgctxt "MinecraftPage|"
+msgid "Use system installation of OpenAL"
+msgstr "Sử dụng hệ thống cài đặt của OpenAL"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:140
+msgctxt "MinecraftPage|"
+msgid "Game time"
+msgstr "Thời gian trò chơi"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:146
+msgctxt "MinecraftPage|"
+msgid "Show time spent playing instances"
+msgstr "Hiển thị thời gian đã chơi của phiên bản này"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:153
+msgctxt "MinecraftPage|"
+msgid "Show time spent playing across all instances"
+msgstr "Hiển thị thời gian chơi trên tất cả các phiên bản"
+
+#: src/launcher/ui/pages/global/MinecraftPage.ui:160
+msgctxt "MinecraftPage|"
+msgid "Record time spent playing instances"
+msgstr "Ghi lại thời gian đã chơi của phiên bản này"
+
+#: src/launcher/ui/pages/global/MinecraftPage.h:42
+msgctxt "MinecraftPage|"
+msgid "Minecraft"
+msgstr "Minecraft"
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:15
+msgctxt "MinecraftProfileStep|"
+msgid "Fetching the Minecraft profile."
+msgstr "Đang tìm nạp hồ sơ Minecraft."
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:54
+msgctxt "MinecraftProfileStep|"
+msgid "Account has no Minecraft profile."
+msgstr "Tài khoản không có hồ sơ Minecraft."
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:69
+msgctxt "MinecraftProfileStep|"
+msgid "Minecraft Java profile acquisition failed."
+msgstr "Thu thập hồ sơ Minecraft Java không thành công."
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:77
+msgctxt "MinecraftProfileStep|"
+msgid "Minecraft Java profile response could not be parsed"
+msgstr "Không thể phân tích cú pháp phản hồi hồ sơ Minecraft Java"
+
+#: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:89
+msgctxt "MinecraftProfileStep|"
+msgid "Minecraft Java profile acquisition succeeded."
+msgstr "Thu thập hồ sơ Minecraft Java thành công."
+
+#: src/launcher/minecraft/MinecraftUpdate.cpp:87
+msgctxt "MinecraftUpdate|"
+msgid "Aborted by user."
+msgstr "Bị hủy bỏ bởi người dùng."
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:368
+msgctxt "ModFolderModel|"
+msgid "Folder"
+msgstr "Thư mục"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:370
+msgctxt "ModFolderModel|"
+msgid "File"
+msgstr "Tập tin"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:464
+msgctxt "ModFolderModel|"
+msgid "Name"
+msgstr "Tên"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:466
+msgctxt "ModFolderModel|"
+msgid "Version"
+msgstr "Phiên bản"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:468
+msgctxt "ModFolderModel|"
+msgid "Last changed"
+msgstr "Thay đổi lần cuối"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:477
+msgctxt "ModFolderModel|"
+msgid "Is the mod enabled?"
+msgstr "Mod đã được bật chưa?"
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:479
+msgctxt "ModFolderModel|"
+msgid "The name of the mod."
+msgstr "Tên mod."
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:481
+msgctxt "ModFolderModel|"
+msgid "The version of the mod."
+msgstr "Phiên bản mod."
+
+#: src/launcher/minecraft/mod/ModFolderModel.cpp:483
+msgctxt "ModFolderModel|"
+msgid "The date and time this mod was last changed (or added)."
+msgstr "Ngày và thời gian mod này lần cuối đã thay đổi (hoặc đã thêm vào)."
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:39
+msgctxt "ModFolderPage|"
+msgid "Filter:"
+msgstr "Filter:"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:75
+msgctxt "ModFolderPage|"
+msgid "Actions"
+msgstr "Hành động"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:96
+msgctxt "ModFolderPage|"
+msgid "&Add"
+msgstr "&Thêm"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:99
+msgctxt "ModFolderPage|"
+msgid "Add mods"
+msgstr "Thêm mods"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:104
+msgctxt "ModFolderPage|"
+msgid "&Remove"
+msgstr "&Xoá"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:107
+msgctxt "ModFolderPage|"
+msgid "Remove selected mods"
+msgstr "Xoá mods đã chọn"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:112
+msgctxt "ModFolderPage|"
+msgid "&Enable"
+msgstr "&Bật"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:115
+msgctxt "ModFolderPage|"
+msgid "Enable selected mods"
+msgstr "Bật mods đã chọn"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:120
+msgctxt "ModFolderPage|"
+msgid "&Disable"
+msgstr "&Tắt"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:123
+msgctxt "ModFolderPage|"
+msgid "Disable selected mods"
+msgstr "Tắt mods đã chọn"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:128
+msgctxt "ModFolderPage|"
+msgid "View &Configs"
+msgstr "Xem &Cấu Hình"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:131
+msgctxt "ModFolderPage|"
+msgid "Open the 'config' folder in the system file manager."
+msgstr "Bật thư mục 'cấu hình' vào tập tin quản lý hệ thống."
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:136
+msgctxt "ModFolderPage|"
+msgid "View &Folder"
+msgstr "Xem &Thư Mục"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.cpp:191
+msgctxt "ModFolderPage|"
+msgid "Context menu"
+msgstr "Context menu"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.cpp:304
+#, qt-format
+msgctxt ""
+"ModFolderPage|Select whatever type of files the page contains. Example: "
+"'Loader Mods'"
+msgid "Select %1"
+msgstr "Chọn %1"
+
+#: src/launcher/minecraft/launch/ModMinecraftJar.cpp:36
+msgctxt "ModMinecraftJar|"
+msgid "Couldn't create the bin folder for Minecraft.jar"
+msgstr "Không thể tạo thư mục bin cho Minecraft.jar"
+
+#: src/launcher/minecraft/launch/ModMinecraftJar.cpp:42
+#, qt-format
+msgctxt "ModMinecraftJar|"
+msgid "Couldn't remove stale jar file: %1"
+msgstr "Không thể xoá tập tin jar cũ: %1"
+
+#: src/launcher/minecraft/launch/ModMinecraftJar.cpp:57
+msgctxt "ModMinecraftJar|"
+msgid "Failed to create the custom Minecraft jar file."
+msgstr "Không thể tạo tập tin tuỳ chỉnh Minecraft jar."
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:62
+#, qt-format
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Failed to find pack version %1"
+msgstr "Không tìm thấy phiên bản gói %1"
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:97
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Could not understand pack manifest:\n"
+msgstr "Không thể hiểu rõ gói pack manifest:\n"
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:113
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Downloading mods..."
+msgstr "Đang tải mod..."
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:115
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Mod download"
+msgstr "Tải xuống mod"
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:166
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Copying modpack files"
+msgstr "Sao chép các tệp modpack"
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:174
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Failed to copy files"
+msgstr "Sao chép tập tin thất bại"
+
+#: src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp:179
+msgctxt "ModpacksCH::PackInstallTask|"
+msgid "Installing modpack"
+msgstr "Đang cài đặt modpack"
+
+#: src/launcher/net/NetJob.cpp:128
+#, qt-format
+msgctxt "NetJob|"
+msgid ""
+"Job '%1' failed to process:\n"
+"%2"
+msgstr ""
+"Công việc '%1' thất bại để thực hiện:\n"
+"%2"
+
+#: src/launcher/ui/dialogs/NewComponentDialog.ui:17
+msgctxt "NewComponentDialog|"
+msgid "Add Empty Component"
+msgstr "Thêm thành phần trống"
+
+#: src/launcher/ui/dialogs/NewComponentDialog.ui:30
+msgctxt "NewComponentDialog|"
+msgid "Name"
+msgstr "Tên"
+
+#: src/launcher/ui/dialogs/NewComponentDialog.ui:37
+msgctxt "NewComponentDialog|"
+msgid "uid"
+msgstr "uid"
+
+#: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
+#: src/launcher/ui/dialogs/NewInstanceDialog.cpp:143
+msgctxt "NewInstanceDialog|"
+msgid "New Instance"
+msgstr "Phiên bản mới"
+
+#: src/launcher/ui/dialogs/NewInstanceDialog.ui:39
+msgctxt "NewInstanceDialog|"
+msgid "&Group:"
+msgstr "&Nhóm:"
+
+#: src/launcher/ui/dialogs/NewInstanceDialog.ui:52
+msgctxt "NewInstanceDialog|"
+msgid "&Name:"
+msgstr "&Tên:"
+
+#: src/launcher/ui/dialogs/NewInstanceDialog.cpp:69
+msgctxt "NewInstanceDialog|"
+msgid "No group"
+msgstr "Không nhóm"
+
+#: src/launcher/ui/pages/instance/NotesPage.h:38
+msgctxt "NotesPage|"
+msgid "Notes"
+msgstr "Ghi chú"
+
+#: src/launcher/ui/dialogs/NotificationDialog.ui:14
+msgctxt "NotificationDialog|"
+msgid "Notification"
+msgstr "Thông báo"
+
+#: src/launcher/ui/dialogs/NotificationDialog.ui:65
+#: src/launcher/ui/dialogs/NotificationDialog.cpp:30
+msgctxt "NotificationDialog|"
+msgid "Don't show again"
+msgstr "Không hiển thị lại"
+
+#: src/launcher/ui/dialogs/NotificationDialog.ui:75
+#: src/launcher/ui/dialogs/NotificationDialog.cpp:31
+msgctxt "NotificationDialog|"
+msgid "Close"
+msgstr "Đóng"
+
+#: src/launcher/NullInstance.h:20
+msgctxt "NullInstance|"
+msgid "Unknown instance type"
+msgstr "Không nhận diện phiên bản"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
+msgctxt "OtherLogsPage|"
+msgid "Find"
+msgstr "Tìm kiếm"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:67
+msgctxt "OtherLogsPage|"
+msgid "Copy the whole log into the clipboard"
+msgstr "Sao chép toàn bộ nhật ký vào khay nhớ tạm"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:70
+msgctxt "OtherLogsPage|"
+msgid "&Copy"
+msgstr "Sao &chép"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:77
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:97
+msgctxt "OtherLogsPage|"
+msgid "Clear the log"
+msgstr "Xoá nhật kí"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:80
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:197
+msgctxt "OtherLogsPage|"
+msgid "Delete"
+msgstr "Xoá"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:87
+#, fuzzy
+#| msgid "Upload the log to paste.ee - it will stay online for a month"
+msgctxt "OtherLogsPage|"
+msgid "Upload the log to the paste service configured in preferences."
+msgstr "Tải nhật kí lên paste.ee - nó sẽ được giữ nguyên trong một tháng"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
+msgctxt "OtherLogsPage|"
+msgid "Upload"
+msgstr "Tải lên"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:100
+msgctxt "OtherLogsPage|"
+msgid "Clean"
+msgstr "Dọn dẹp"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:107
+msgctxt "OtherLogsPage|"
+msgid "Reload"
+msgstr "Tải lại"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.ui:126
+msgctxt "OtherLogsPage|"
+msgid "Search:"
+msgstr "Tìm Kiếm:"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:126
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:206
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:253
+msgctxt "OtherLogsPage|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:126
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid "Unable to open %1 for reading: %2"
+msgstr "Không thể mở %1 để đọc: %2"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:147
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid ""
+"The file (%1) is too big. You may want to open it in a viewer optimized for "
+"large files."
+msgstr ""
+"Tệp (%1) quá lớn. Bạn có thể muốn mở nó trong một trình xem được tối ưu hóa "
+"cho các tệp lớn."
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:162
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid "The file (%1) is not readable."
+msgstr "Tệp (%1) không thể đọc được."
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:198
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid "Do you really want to delete %1?"
+msgstr "Bạn có thực sự muốn xóa %1?"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:206
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid "Unable to delete %1: %2"
+msgstr "Không thể xoá %1: %2"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:221
+msgctxt "OtherLogsPage|"
+msgid "Clean up"
+msgstr "Dọn dẹp"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:224
+msgctxt "OtherLogsPage|"
+msgid "Do you really want to delete all log files?"
+msgstr "Bạn có thực sự muốn xóa tất cả tệp nhật kí?"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:229
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid ""
+"Do you really want to delete these files?\n"
+"%1"
+msgstr ""
+"Bạn có thực sự muốn xoá các tập tin này?\n"
+"%1"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:256
+msgctxt "OtherLogsPage|"
+msgid "Couldn't delete some files!"
+msgstr "Không thể xoá một số tập tin!"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.cpp:261
+#, qt-format
+msgctxt "OtherLogsPage|"
+msgid ""
+"Couldn't delete some files:\n"
+"%1"
+msgstr ""
+"Không thể xoá một số tập tin sau:\n"
+"%1"
+
+#: src/launcher/ui/pages/instance/OtherLogsPage.h:45
+msgctxt "OtherLogsPage|"
+msgid "Other logs"
+msgstr "Các nhật kí khác"
+
+#: src/launcher/minecraft/PackProfile.cpp:853
+msgctxt "PackProfile|"
+msgid "Name"
+msgstr "Tên"
+
+#: src/launcher/minecraft/PackProfile.cpp:855
+msgctxt "PackProfile|"
+msgid "Version"
+msgstr "Phiên bản"
+
+#: src/launcher/ui/pages/global/PastePage.ui:39
+msgctxt "PastePage|"
+msgid "Pastebin URL"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:57
+msgctxt "PastePage|"
+msgid ""
+"<html><head/><body><p>Note: only input that starts with <span style=\" "
+"font-weight:600;\">http://</span> or <span style=\" "
+"font-weight:600;\">https://</span> will be accepted.</p></body></html>"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:74
+msgctxt "PastePage|"
+msgid "https://0x0.st"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:79
+msgctxt "PastePage|"
+msgid "https://paste.polymc.org"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:87
+msgctxt "PastePage|"
+msgid ""
+"<html><head/><body><p>Here you can choose from a predefined list of paste "
+"services, or input the URL of a different paste service of your choice, "
+"provided it supports the same protocol as 0x0.st, that is POST a file "
+"parameter to the URL and return a link in the response "
+"body.</p></body></html>"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.h:37
+#, fuzzy
+msgctxt "PastePage|"
+msgid "Log Upload"
+msgstr "Tải lên nhật kí"
+
+#: src/launcher/net/PasteUpload.cpp:37
+#, qt-format
+msgctxt "PasteUpload|"
+msgid "Uploading to %1"
+msgstr ""
+
+#: src/launcher/net/PasteUpload.cpp:58
+#, qt-format
+msgctxt "PasteUpload|"
+msgid "Network error: %1"
+msgstr ""
+
+#: src/launcher/net/PasteUpload.cpp:65
+#, qt-format
+msgctxt "PasteUpload|"
+msgid "Error: %1 returned unexpected status code %2 %3"
+msgstr ""
+
+#: src/launcher/launch/steps/PostLaunchCommand.cpp:31
+#, qt-format
+msgctxt "PostLaunchCommand|"
+msgid "Running Post-Launch command: %1"
+msgstr "Đang chạy lệnh lệnh thoát: %1"
+
+#: src/launcher/launch/steps/PostLaunchCommand.cpp:39
+#, qt-format
+msgctxt "PostLaunchCommand|"
+msgid ""
+"Post-Launch command failed with code %1.\n"
+"\n"
+msgstr ""
+"Lệnh sau thoát không thành công với mã %1.\n"
+"\n"
+
+#: src/launcher/launch/steps/PostLaunchCommand.cpp:62
+msgctxt "PostLaunchCommand|"
+msgid ""
+"Post-Launch command ran successfully.\n"
+"\n"
+msgstr ""
+"Lệnh thoát đã chạy thành công.\n"
+"\n"
+
+#: src/launcher/launch/steps/PreLaunchCommand.cpp:32
+#, qt-format
+msgctxt "PreLaunchCommand|"
+msgid "Running Pre-Launch command: %1"
+msgstr "Đang chạy lệnh khởi động: %1"
+
+#: src/launcher/launch/steps/PreLaunchCommand.cpp:40
+#, qt-format
+msgctxt "PreLaunchCommand|"
+msgid ""
+"Pre-Launch command failed with code %1.\n"
+"\n"
+msgstr ""
+"Lệnh khởi động không thành công với mã %1.\n"
+"\n"
+
+#: src/launcher/launch/steps/PreLaunchCommand.cpp:63
+msgctxt "PreLaunchCommand|"
+msgid ""
+"Pre-Launch command ran successfully.\n"
+"\n"
+msgstr ""
+"Lệnh trước khởi động đã chạy thành công.\n"
+"\n"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.ui:14
+msgctxt "ProfileSelectDialog|"
+msgid "Select an Account"
+msgstr "Chọn Tài khoản"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.ui:20
+msgctxt "ProfileSelectDialog|"
+msgid "Select a profile."
+msgstr "Chọn hồ sơ."
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.ui:38
+msgctxt "ProfileSelectDialog|"
+msgid "Use as default?"
+msgstr "Sử dụng làm mặc định?"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.ui:45
+msgctxt "ProfileSelectDialog|"
+msgid "Use as default for this instance only?"
+msgstr "Sử dụng làm mặc định cho instance này?"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:41
+#: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:45
+msgctxt "ProfileSelectDialog|"
+msgid "Name"
+msgstr "Tên"
+
+#: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:53
+#, qt-format
+msgctxt "ProfileSelectDialog|"
+msgid "%1 (in use)"
+msgstr "%1 (đang sử dụng)"
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.ui:14
+msgctxt "ProfileSetupDialog|"
+msgid "Choose Minecraft name"
+msgstr "Chọn tên Minecraft"
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.ui:26
+msgctxt "ProfileSetupDialog|"
+msgid ""
+"You just need to take one more step to be able to play Minecraft on this "
+"account.\n"
+"\n"
+"Choose your name carefully:"
+msgstr ""
+"Bạn chỉ cần thực hiện thêm một bước nữa là có thể chơi Minecraft trên tài "
+"khoản này.\n"
+"\n"
+"Chọn tên của bạn một cách cẩn thận:"
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:104
+msgctxt "ProfileSetupDialog|"
+msgid "Name is too short - must be between 3 and 16 characters long."
+msgstr "Tên quá ngắn - phải từ 3 đến 16 kí tự."
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:164
+#, qt-format
+msgctxt "ProfileSetupDialog|"
+msgid "Minecraft profile with name %1 already exists."
+msgstr "Đã tồn tại hồ sơ Minecraft có tên %1."
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:167
+#, qt-format
+msgctxt "ProfileSetupDialog|"
+msgid "The name %1 is not allowed."
+msgstr "Tên %1 không được chấp nhận."
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:170
+#, qt-format
+msgctxt "ProfileSetupDialog|"
+msgid "Unhandled profile name status: %1"
+msgstr "Trạng thái tên hồ sơ chưa được xử lý: %1"
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:174
+msgctxt "ProfileSetupDialog|"
+msgid "Failed to check name availability."
+msgstr "Không thể kiểm tra tính khả dụng của tên."
+
+#: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:251
+msgctxt "ProfileSetupDialog|"
+msgid "The server returned the following error:"
+msgstr "Máy chủ trả về lỗi sau:"
+
+#: src/launcher/ui/dialogs/ProgressDialog.ui:26
+msgctxt "ProgressDialog|"
+msgid "Please wait..."
+msgstr "Vui lòng chờ..."
+
+#: src/launcher/ui/dialogs/ProgressDialog.ui:32
+msgctxt "ProgressDialog|"
+msgid "Task Status..."
+msgstr "Trạng thái..."
+
+#: src/launcher/ui/dialogs/ProgressDialog.ui:58
+msgctxt "ProgressDialog|"
+msgid "Skip"
+msgstr "Bỏ qua"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:42
+msgctxt "ProxyPage|"
+msgid ""
+"This only applies to the launcher. Minecraft does not accept proxy settings."
+msgstr ""
+"Điều này chỉ áp dụng cho MultiMC. Minecraft không chấp nhận cài đặt proxy."
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:55
+msgctxt "ProxyPage|"
+msgid "Type"
+msgstr "Loại"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:61
+msgctxt "ProxyPage|"
+msgid "Uses your system's default proxy settings."
+msgstr "Sử dụng cài đặt proxy mặc định của hệ thống."
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:64
+msgctxt "ProxyPage|"
+msgid "&Default"
+msgstr "Mặc định"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:74
+msgctxt "ProxyPage|"
+msgid "&None"
+msgstr "Không"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:84
+msgctxt "ProxyPage|"
+msgid "SOC&KS5"
+msgstr "SOC&KS5"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:94
+msgctxt "ProxyPage|"
+msgid "H&TTP"
+msgstr "H&TTP"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:107
+msgctxt "ProxyPage|"
+msgid "Address and Port"
+msgstr "Địa chỉ IP và cổng"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:139
+msgctxt "ProxyPage|"
+msgid "Authentication"
+msgstr "Xác thực"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:148
+msgctxt "ProxyPage|"
+msgid "Username:"
+msgstr "Tên đăng nhập:"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:155
+msgctxt "ProxyPage|"
+msgid "Password:"
+msgstr "Mật khẩu:"
+
+#: src/launcher/ui/pages/global/ProxyPage.ui:169
+msgctxt "ProxyPage|"
+msgid ""
+"Note: Proxy username and password are stored in plain text inside the "
+"launcher's configuration file!"
+msgstr ""
+"Lưu ý: Tên người dùng và mật khẩu proxy được lưu trữ dưới dạng văn bản thuần "
+"túy bên trong tệp cấu hình của MultiMC!"
+
+#: src/launcher/ui/pages/global/ProxyPage.h:39
+msgctxt "ProxyPage|"
+msgid "Proxy"
+msgstr "Proxy"
+
+#: src/launcher/ui/themes/DarkTheme.cpp:10
+msgctxt "QObject|"
+msgid "Dark"
+msgstr "Tối"
+
+#: src/launcher/ui/themes/SystemTheme.cpp:47
+msgctxt "QObject|"
+msgid "System"
+msgstr "Hệ thống"
+
+#: src/launcher/ui/themes/BrightTheme.cpp:10
+msgctxt "QObject|"
+msgid "Bright"
+msgstr "Sáng"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:122
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"<p>There are no code changes between your current version and latest %1.</p>"
+msgstr ""
+"<p>Không có sự thay đổi mã nào giữa phiên bản hiện tại của bạn và phiên bản "
+"mới nhất %1.</p>"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:126
+msgctxt "QObject|"
+msgid "<p>Following commits were added since last update:</p>"
+msgstr "<p>Các commit sau đã được thêm vào kể từ lần cập nhật cuối cùng:</p>"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:133
+#, qt-format
+msgctxt "QObject|"
+msgid "<p>The update removes %1 commits and adds the following %2:</p>"
+msgstr "<p>Bản cập nhật loại bỏ %1 commit và thêm phần sau %2:</p>"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:136
+#, qt-format
+msgctxt "QObject|"
+msgid "<p>You can <a href=\"%1\">look at the changes on github</a>.</p>"
+msgstr "<p>Bạn có thể <a href=\"%1\">xem các thay đổi trên github</a>.</p>"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:36
+msgctxt "QObject|About Credits"
+msgid "Developers"
+msgstr "Nhà phát triển"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:44
+msgctxt "QObject|About Credits"
+msgid "With thanks to"
+msgstr "Với sự cảm ơn tới"
+
+#: src/launcher/ui/MainWindow.cpp:100
+#, qt-format
+msgctxt "QObject|"
+msgid "%1 (in use)"
+msgstr "%1 (đang sử dụng)"
+
+#: src/launcher/ui/GuiUtil.cpp:27
+msgctxt "QObject|"
+msgid "Upload failed"
+msgstr "Tải lên thất bại"
+
+#: src/launcher/ui/GuiUtil.cpp:38
+msgctxt "QObject|"
+msgid "Upload finished"
+msgstr "Tải lên hoàn tất"
+
+#: src/launcher/ui/GuiUtil.cpp:39
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"The <a href=\"%1\">link to the uploaded log</a> has been placed in your "
+"clipboard."
+msgstr ""
+"<a href=\"%1\">Đường liên kết đến nhật kí được tải lên</a> đã được đặt trong "
+"khay nhớ tạm của bạn."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:285
+msgctxt "QObject|"
+msgid "The specified file either doesn't exist or is not a proper executable."
+msgstr ""
+"Tệp được chỉ định không tồn tại hoặc không phải là tệp thực thi thích hợp."
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:290
+msgctxt "QObject|"
+msgid "The specified java binary didn't start properly.<br />"
+msgstr "Hệ nhị phân java được chỉ định không bắt đầu đúng cách.<br />"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:302
+msgctxt "QObject|"
+msgid "The specified java binary returned unexpected results:<br />"
+msgstr "Hệ nhị phân java được chỉ định trả về kết quả không mong muốn:<br />"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:313
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"Java test succeeded!<br />Platform reported: %1<br />Java version reported: "
+"%2<br />"
+msgstr ""
+"Thử nghiệm Java thành công!<br />Nền tảng được báo cáo: %1<br />Phiên bản "
+"Java được báo cáo: %2<br />"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:322
+#: src/launcher/JavaCommon.cpp:35
+msgctxt "QObject|"
+msgid "Java test success"
+msgstr "Thử nghiệm Java thành công"
+
+#: src/launcher/ui/widgets/JavaSettingsWidget.cpp:322
+#: src/launcher/JavaCommon.cpp:45 src/launcher/JavaCommon.cpp:54
+msgctxt "QObject|"
+msgid "Java test failure"
+msgstr "Thử nghiệm Java thất bại"
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:31
+msgctxt "QObject|"
+msgid "Minecraft Server"
+msgstr "Máy chủ Minecraft"
+
+#: src/launcher/minecraft/Component.cpp:249
+msgctxt "QObject|"
+msgid "Patch is not loaded yet."
+msgstr "Bản vá chưa được tải."
+
+#: src/launcher/minecraft/MojangVersionFormat.cpp:154
+#, qt-format
+msgctxt "QObject|"
+msgid "processArguments is set to unknown value '%1'"
+msgstr "processArguments được đặt thành giá trị không xác định '%1'"
+
+#: src/launcher/minecraft/MojangVersionFormat.cpp:179
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"The 'minimumLauncherVersion' value of this version (%1) is higher than "
+"supported by %3 (%2). It might not work properly!"
+msgstr ""
+"Giá trị 'minimumLauncherVersion' của phiên bản này (%1) cao hơn giá trị được "
+"hỗ trợ bởi %3 (%2). Nó có thể không hoạt động bình thường!"
+
+#: src/launcher/minecraft/MojangVersionFormat.cpp:299
+#, qt-format
+msgctxt "QObject|"
+msgid "Library %1 name is broken and cannot be processed."
+msgstr "Thư viện %1 bị hỏng và không thể xử lý được."
+
+#: src/launcher/minecraft/PackProfile.cpp:191
+#, qt-format
+msgctxt "QObject|"
+msgid "Invalid component file version, expected %1"
+msgstr "Phiên bản tệp thành phần không hợp lệ, dự kiến %1"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:162
+msgctxt "QObject|"
+msgid ""
+"Version file has both '+libraries' and 'libraries'. This is no longer "
+"supported."
+msgstr ""
+"Tệp phiên bản có cả '+libraries' và 'libraries'. Điều này không còn được hỗ "
+"trợ."
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:202
+msgctxt "QObject|"
+msgid ""
+"URL for the main jar could not be determined - Mojang removed the server "
+"that we used as fallback."
+msgstr ""
+"Không thể xác định URL cho jar chính - Mojang đã xóa máy chủ mà chúng tôi sử "
+"dụng làm dự phòng."
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:235
+msgctxt "QObject|"
+msgid "Version file contains unsupported element 'tweakers'"
+msgstr "Tệp phiên bản chứa phần tử không được hỗ trợ 'tweakers'"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:239
+msgctxt "QObject|"
+msgid "Version file contains unsupported element '-libraries'"
+msgstr "Tệp phiên bản chứa phần tử không được hỗ trợ '-libraries'"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:243
+msgctxt "QObject|"
+msgid "Version file contains unsupported element '-tweakers'"
+msgstr "Tệp phiên bản chứa phần tử không được hỗ trợ '-tweakers'"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:247
+msgctxt "QObject|"
+msgid "Version file contains unsupported element '-minecraftArguments'"
+msgstr "Tệp phiên bản chứa phần tử không được hỗ trợ '-minecraftArguments'"
+
+#: src/launcher/minecraft/OneSixVersionFormat.cpp:251
+msgctxt "QObject|"
+msgid "Version file contains unsupported element '+minecraftArguments'"
+msgstr "Tệp phiên bản chứa phần tử không được hỗ trợ '+minecraftArguments'"
+
+#: src/launcher/minecraft/AssetsUtils.cpp:323
+#, qt-format
+msgctxt "QObject|"
+msgid "Assets for %1"
+msgstr "Tài nguyên cho %1"
+
+#: src/launcher/minecraft/ProfileUtils.cpp:51
+#, qt-format
+msgctxt "QObject|"
+msgid "Invalid order file version, expected %1"
+msgstr "Phiên bản tệp sắp xếp không hợp lệ, dự kiến %1"
+
+#: src/launcher/minecraft/ProfileUtils.cpp:96
+#: src/launcher/minecraft/ProfileUtils.cpp:149
+#, qt-format
+msgctxt "QObject|"
+msgid "Unable to open the version file %1: %2."
+msgstr "Không thể mở tệp phiên bản %1: %2."
+
+#: src/launcher/minecraft/ProfileUtils.cpp:117
+#, qt-format
+msgctxt "QObject|"
+msgid "Unable to process the version file %1: %2 at line %3 column %4."
+msgstr "Không thể xử lý tệp phiên bản %1: %2 tại hàng %3 cột %4."
+
+#: src/launcher/minecraft/ProfileUtils.cpp:157
+#, qt-format
+msgctxt "QObject|"
+msgid "Unable to process the version file %1."
+msgstr "Không thể xử lý tệp phiên bản %1."
+
+#: src/launcher/minecraft/auth/AccountData.cpp:418
+#, qt-format
+msgctxt "QObject|"
+msgid "No profile (%1)"
+msgstr "Không có hồ sơ (%1)"
+
+#: src/launcher/UpdateController.cpp:366
+msgctxt "QObject|"
+msgid "Update failed!"
+msgstr "Cập nhật thất bại!"
+
+#: src/launcher/UpdateController.cpp:367
+msgctxt "QObject|"
+msgid "Rollback failed!"
+msgstr "Khôi phục thất bại!"
+
+#: src/launcher/UpdateController.cpp:372
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"Couldn't replace file %1. Changes will be reverted.\n"
+"See the %2 log file for details."
+msgstr ""
+"Không thể thay thế tệp %1. Các thay đổi sẽ được quay lại.\n"
+"Xem tệp nhật ký %2 để biết chi tiết."
+
+#: src/launcher/UpdateController.cpp:382
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"Couldn't remove file %1. Changes will be reverted.\n"
+"See the %2 log file for details."
+msgstr ""
+"Không thể loại bỏ tệp %1. Các thay đổi sẽ được quay lại.\n"
+"Xem tệp nhật ký %2 để biết chi tiết."
+
+#: src/launcher/UpdateController.cpp:392
+msgctxt "QObject|"
+msgid ""
+"The new version didn't start or is too old and doesn't respond to startup "
+"checks.\n"
+"\n"
+"Roll back to previous version?"
+msgstr ""
+"Phiên bản mới không bắt đầu hoặc quá cũ và không phản hồi chu trình kiểm tra "
+"khởi động.\n"
+"\n"
+"Quay về phiên bản trước?"
+
+#: src/launcher/UpdateController.cpp:414
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"The rollback failed too.\n"
+"You will have to repair %1 manually.\n"
+"Please let us know why and how this happened."
+msgstr ""
+"Quá trình khôi phục cũng thất bại.\n"
+"Bạn sẽ phải sửa chữa %1 theo cách thủ công.\n"
+"Vui lòng cho chúng tôi biết tại sao và làm thế nào mà điều này xảy ra."
+
+#: src/launcher/MMCTime.cpp:31
+#, qt-format
+msgctxt "QObject|"
+msgid "%1m %2s"
+msgstr "%1 Phút %2 giây"
+
+#: src/launcher/MMCTime.cpp:35
+#, qt-format
+msgctxt "QObject|"
+msgid "%1h %2m"
+msgstr "%1 giờ %2 phút"
+
+#: src/launcher/MMCTime.cpp:37
+#, qt-format
+msgctxt "QObject|"
+msgid "%1d %2h %3m"
+msgstr "%1 ngày %2 giờ %3 phút"
+
+#: src/launcher/JavaCommon.cpp:10
+msgctxt "QObject|"
+msgid ""
+"You tried to manually set a JVM memory option (using \"-XX:PermSize\", "
+"\"-XX-MaxHeapSize\", \"-XX:InitialHeapSize\",  \"-Xmx\" or \"-Xms\").\n"
+"There are dedicated boxes for these in the settings (Java tab, in the Memory "
+"group at the top).\n"
+"This message will be displayed until you remove them from the JVM arguments."
+msgstr ""
+"Bạn đã cố gắng đặt tùy chọn bộ nhớ JVM theo cách thủ công (sử dụng "
+"\"-XX:PermSize\", \"-XX-MaxHeapSize\", \"-XX:InitialHeapSize\",  \"-Xmx\" "
+"hoặc \"-Xms\").\n"
+"Có các hộp dành riêng cho những thứ này trong cài đặt (Mục Java, trong nhóm "
+"\"Bộ nhớ\" ở trên cùng).\n"
+"Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng khỏi đối số JVM."
+
+#: src/launcher/JavaCommon.cpp:15
+msgctxt "QObject|"
+msgid "JVM arguments warning"
+msgstr "Cảnh báo JVM argument"
+
+#: src/launcher/JavaCommon.cpp:26
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"Java test succeeded!<br />Platform reported: %1<br />Java version reported: "
+"%2<br />Java vendor reported: %3<br />"
+msgstr ""
+"Thử nghiệm Java thành công!<br />Nền tảng được báo cáo: %1<br />Phiên bản "
+"Java được báo cáo: %2<br />Nhà cung cấp Java được báo cáo: %3<br />"
+
+#: src/launcher/JavaCommon.cpp:33
+#, qt-format
+msgctxt "QObject|"
+msgid "<br />Warnings:<br /><font color=\"orange\">%1</font>"
+msgstr "<br />Cảnh báo:<br /><font color=\"orange\">%1</font>"
+
+#: src/launcher/JavaCommon.cpp:43
+msgctxt "QObject|"
+msgid ""
+"The specified java binary didn't work with the arguments you provided:<br />"
+msgstr ""
+"Hệ nhị phân Java được chỉ định không hoạt động với các đối số bạn đã cung "
+"cấp:<br />"
+
+#: src/launcher/JavaCommon.cpp:51
+msgctxt "QObject|"
+msgid ""
+"The specified java binary didn't work.<br />You should use the auto-detect "
+"feature, or set the path to the java executable.<br />"
+msgstr ""
+"Hệ nhị phân java được chỉ định không hoạt động.<br />Bạn nên sử dụng tính "
+"năng tự động phát hiện hoặc đặt đường dẫn đến tệp thực thi java<br />"
+
+#: src/launcher/meta/BaseEntity.cpp:120
+#, qt-format
+msgctxt "QObject|"
+msgid "Download of meta file %1"
+msgstr "Tải xuống tệp meta %1"
+
+#: src/launcher/meta/JsonFormat.cpp:140 src/launcher/meta/JsonFormat.cpp:153
+#: src/launcher/meta/JsonFormat.cpp:166
+msgctxt "QObject|"
+msgid "Unknown format version!"
+msgstr "Phiên bản định dạng không xác định!"
+
+#: src/launcher/tools/JProfiler.cpp:99 src/launcher/tools/JVisualVM.cpp:92
+msgctxt "QObject|"
+msgid "Empty path"
+msgstr "Đường dẫn trống"
+
+#: src/launcher/tools/JVisualVM.cpp:98
+msgctxt "QObject|"
+msgid "Invalid path to JVisualVM"
+msgstr "Đường dẫn đến JVisualVM không hợp lệ"
+
+#: src/launcher/tools/MCEditTool.cpp:37 src/launcher/tools/JProfiler.cpp:105
+msgctxt "QObject|"
+msgid "Path does not exist"
+msgstr "Đường dẫn không tồn tại"
+
+#: src/launcher/tools/JProfiler.cpp:110
+msgctxt "QObject|"
+msgid "Invalid JProfiler install"
+msgstr "Cài đặt JProfiler không hợp lệ"
+
+#: src/launcher/tools/MCEditTool.cpp:31
+msgctxt "QObject|"
+msgid "Path is empty"
+msgstr "Đường dẫn trống"
+
+#: src/launcher/tools/MCEditTool.cpp:42
+msgctxt "QObject|"
+msgid "Path does not seem to be a MCEdit path"
+msgstr "Đường dẫn dường như không phải là đường dẫn đến MCEdit"
+
+#: src/launcher/minecraft/mod/ResourcePackFolderModel.cpp:10
+msgctxt "ResourcePackFolderModel|"
+msgid "Is the resource pack enabled?"
+msgstr "Gói tài nguyên có được bật không?"
+
+#: src/launcher/minecraft/mod/ResourcePackFolderModel.cpp:12
+msgctxt "ResourcePackFolderModel|"
+msgid "The name of the resource pack."
+msgstr "Tên của gói tài nguyên."
+
+#: src/launcher/minecraft/mod/ResourcePackFolderModel.cpp:14
+msgctxt "ResourcePackFolderModel|"
+msgid "The version of the resource pack."
+msgstr "Phiên bản của gói tài nguyên."
+
+#: src/launcher/minecraft/mod/ResourcePackFolderModel.cpp:16
+msgctxt "ResourcePackFolderModel|"
+msgid "The date and time this resource pack was last changed (or added)."
+msgstr "Ngày và giờ gói tài nguyên này được thay đổi (hoặc thêm vào) lần cuối."
+
+#: src/launcher/ui/pages/instance/ResourcePackPage.h:12
+msgctxt "ResourcePackPage|"
+msgid "Resource packs"
+msgstr "Gói tài nguyên"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:41
+msgctxt "ScreenshotsPage|"
+msgid "Actions"
+msgstr "Hành động"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:59
+msgctxt "ScreenshotsPage|"
+msgid "Upload"
+msgstr "Tải lên"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:64
+msgctxt "ScreenshotsPage|"
+msgid "Delete"
+msgstr "Xoá"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:69
+msgctxt "ScreenshotsPage|"
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:74
+msgctxt "ScreenshotsPage|"
+msgid "View Folder"
+msgstr "Xem thư mục"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.h:52
+msgctxt "ScreenshotsPage|"
+msgid "Screenshots"
+msgstr "Ảnh chụp màn hình"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:274
+msgctxt "ScreenshotsPage|"
+msgid "Context menu"
+msgstr "Danh mục"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:320
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:360
+msgctxt "ScreenshotsPage|"
+msgid "Failed to upload screenshots!"
+msgstr "Không thể tải ảnh chụp màn hình!"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:321
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:361
+msgctxt "ScreenshotsPage|"
+msgid "Unknown error"
+msgstr "Lỗi không xác định"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:330
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:372
+msgctxt "ScreenshotsPage|"
+msgid "Upload finished"
+msgstr "Tải lên hoàn tất"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:331
+#, qt-format
+msgctxt "ScreenshotsPage|"
+msgid ""
+"The <a href=\"%1\">link  to the uploaded screenshot</a> has been placed in "
+"your clipboard."
+msgstr ""
+"<a href=\"%1\">Liên kết đến ảnh chụp màn hình được tải lên</a> đã được đặt "
+"trong khay nhớ tạm của bạn."
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:373
+#, qt-format
+msgctxt "ScreenshotsPage|"
+msgid ""
+"The <a href=\"%1\">link  to the uploaded album</a> has been placed in your "
+"clipboard."
+msgstr ""
+"<a href=\"%1\">Liên kết đến album được tải lên</a> đã được đặt trong khay "
+"nhớ tạm của bạn."
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
+msgctxt "ScreenshotsPage|"
+msgid "Are you sure?"
+msgstr "Bạn có chắc không?"
+
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
+msgctxt "ScreenshotsPage|"
+msgid "This will delete all selected screenshots."
+msgstr "Điều này sẽ xoá tất cả ảnh chụp màn hình đã chọn."
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:289
+msgctxt "ServersModel|"
+msgid "Name"
+msgstr "Tên"
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:291
+msgctxt "ServersModel|"
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:293
+msgctxt "ServersModel|"
+msgid "Latency"
+msgstr "Độ trễ"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:72
+msgctxt "ServersPage|"
+msgid "&Name"
+msgstr "&Tên"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:85
+msgctxt "ServersPage|"
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:98
+msgctxt "ServersPage|"
+msgid "Reso&urces"
+msgstr "Tài ng&uyên"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:109
+msgctxt "ServersPage|"
+msgid "Ask to download"
+msgstr "Hỏi để tải xuống"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:114
+msgctxt "ServersPage|"
+msgid "Always download"
+msgstr "Luôn tải xuống"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:119
+msgctxt "ServersPage|"
+msgid "Never download"
+msgstr "Không bao giờ tải xuống"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:130
+msgctxt "ServersPage|"
+msgid "Actions"
+msgstr "Các hành động"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:155
+msgctxt "ServersPage|"
+msgid "Add"
+msgstr "Thêm"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:160
+msgctxt "ServersPage|"
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:165
+msgctxt "ServersPage|"
+msgid "Move Up"
+msgstr "Di chuyển lên"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:170
+msgctxt "ServersPage|"
+msgid "Move Down"
+msgstr "Di chuyển xuống"
+
+#: src/launcher/ui/pages/instance/ServersPage.ui:175
+msgctxt "ServersPage|"
+msgid "Join"
+msgstr "Tham gia"
+
+#: src/launcher/ui/pages/instance/ServersPage.h:46
+msgctxt "ServersPage|"
+msgid "Servers"
+msgstr "Máy chủ"
+
+#: src/launcher/ui/pages/instance/ServersPage.cpp:605
+msgctxt "ServersPage|"
+msgid "Context menu"
+msgstr "Danh mục"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:28
+msgctxt "SetupWizard|"
+msgid "&Next >"
+msgstr "Tiếp theo >"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:29
+msgctxt "SetupWizard|"
+msgid "< &Back"
+msgstr "< Quay lại"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:30
+msgctxt "SetupWizard|"
+msgid "&Finish"
+msgstr "Hoàn tất"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:31
+msgctxt "SetupWizard|"
+msgid "&Refresh"
+msgstr "Làm mới"
+
+#: src/launcher/ui/setupwizard/SetupWizard.cpp:32
+#, qt-format
+msgctxt "SetupWizard|"
+msgid "%1 Quick Setup"
+msgstr "%1 Thiết lập nhanh"
+
+#: src/launcher/ui/pages/instance/ShaderPackPage.h:12
+msgctxt "ShaderPackPage|"
+msgid "Shader packs"
+msgstr "Gói Shader"
+
+#: src/launcher/minecraft/services/SkinDelete.cpp:20
+msgctxt "SkinDelete|"
+msgid "Deleting skin"
+msgstr "Đang xoá skin"
+
+#: src/launcher/minecraft/services/SkinUpload.cpp:45
+msgctxt "SkinUpload|"
+msgid "Uploading skin"
+msgstr "Đang tải lên skin"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:14
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:43
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:55
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:71
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:93
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:97
+msgctxt "SkinUploadDialog|"
+msgid "Skin Upload"
+msgstr "Tải lên skin"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:20
+msgctxt "SkinUploadDialog|"
+msgid "Skin File"
+msgstr "Tệp skin"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:51
+msgctxt "SkinUploadDialog|"
+msgid "Player Model"
+msgstr "Mô hình người chơi"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:57
+msgctxt "SkinUploadDialog|"
+msgid "Steve Model"
+msgstr "Mô hình Steve"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:67
+msgctxt "SkinUploadDialog|"
+msgid "Alex Model"
+msgstr "Mô hình Alex"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.ui:77
+msgctxt "SkinUploadDialog|"
+msgid "Cape"
+msgstr "Áo Choàng"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:44
+msgctxt "SkinUploadDialog|"
+msgid "Using remote URLs for setting skins is not implemented yet."
+msgstr "Việc sử dụng URL từ xa để thiết lập skin vẫn chưa được triển khai."
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:56
+msgctxt "SkinUploadDialog|"
+msgid "You cannot use an invalid URL for uploading skins."
+msgstr "Bạn không thể sử dụng một URL không hợp lệ để tải lên skin."
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:71
+msgctxt "SkinUploadDialog|"
+msgid "Skin file does not exist!"
+msgstr "Tệp không tồn tại!"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:93
+msgctxt "SkinUploadDialog|"
+msgid "Failed to upload skin!"
+msgstr "Không thể tải tập tin lên!"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:97
+msgctxt "SkinUploadDialog|"
+msgid "Success"
+msgstr "Hoàn tất"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:103
+msgctxt "SkinUploadDialog|"
+msgid "Select Skin Texture"
+msgstr "Chọn kết cấu skin"
+
+#: src/launcher/ui/dialogs/SkinUploadDialog.cpp:120
+msgctxt "SkinUploadDialog|"
+msgid "No Cape"
+msgstr "Không có áo choàng"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:42
+#, qt-format
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid ""
+"Downloading modpack:\n"
+"%1"
+msgstr ""
+"Đang tải modpack:\n"
+"%1"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:47
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Modpack download"
+msgstr "Tải xuống modpack"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:61
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Extracting modpack"
+msgstr "Đang giải nén modpack"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:69
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Unable to open supplied modpack zip file."
+msgstr "Không thể mở tập tin nén của modpack đã cho."
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:97
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Failed to extract modpack"
+msgstr "Giải nén modpack thất bại"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:124
+#, qt-format
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Could not fix permissions for %1"
+msgstr "Không thể sửa quyền hạn cho %1"
+
+#: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:141
+msgctxt "Technic::SingleZipPackInstallTask|"
+msgid "Instance import has been aborted."
+msgstr "Xuất instance đã huỷ bỏ."
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:44
+#, qt-format
+msgctxt "Technic::SolderPackInstallTask|"
+msgid ""
+"Finding recommended version:\n"
+"%1"
+msgstr ""
+"Đang tìm phiên bản đề xuất:\n"
+"%1"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:45
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Finding recommended version"
+msgstr "Đang tìm phiên bản đề xuất"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:69
+#, qt-format
+msgctxt "Technic::SolderPackInstallTask|"
+msgid ""
+"Resolving modpack files:\n"
+"%1"
+msgstr ""
+"Đang giải quyết các tệp modpack:\n"
+"%1"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:70
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Resolving modpack files"
+msgstr "Đang giải quyết các tệp modpack"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:80
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Downloading modpack:"
+msgstr "Đang tải xuống modpack:"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:102
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Downloading modpack"
+msgstr "Đang tải xuống modpack"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:123
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Extracting modpack"
+msgstr "Đang giải nén modpack"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:164
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Failed to extract modpack"
+msgstr "Giải nén modpack thất bại"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:191
+#, qt-format
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Could not fix permissions for %1"
+msgstr "Không thể sửa quyền hạn cho %1"
+
+#: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:208
+msgctxt "Technic::SolderPackInstallTask|"
+msgid "Instance import has been aborted."
+msgstr "Xuất instance đã huỷ bỏ."
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:58
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to open \"bin/modpack.jar\" file!"
+msgstr "Không thể mở tệp \"bin/modpack.jar\"!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:70
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to open \"fmlversion.properties\"!"
+msgstr "Không thể mở \"fmlversion.properties\"!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:84
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:139
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to open \"version.json\"!"
+msgstr "Không thể mở \"version.json\"!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:93
+msgctxt "Technic::TechnicPackProcessor|"
+msgid ""
+"Could not find \"version.json\" inside \"bin/modpack.jar\", but minecraft "
+"version is unknown"
+msgstr ""
+"Không tìm thấy \"version.json\" bên trong \"bin/modpack.jar\", nhưng phiên "
+"bản minecraft là không xác định"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:107
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to open \"forgeversion.properties\""
+msgstr "Không thể mở \"forgeversion.properties\""
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:122
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Invalid \"forgeversion.properties\"!"
+msgstr "\"forgeversion.properties\" không hợp lệ!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:148
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Unable to find a \"version.json\"!"
+msgstr "Không thể tìm thấy \"version.json\"!"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:161
+msgctxt "Technic::TechnicPackProcessor|"
+msgid ""
+"Could not understand \"version.json\":\n"
+"inheritsFrom is missing"
+msgstr ""
+"Không thể hiểu được \"version.json\":\n"
+"Thiếu inheritFrom"
+
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:202
+msgctxt "Technic::TechnicPackProcessor|"
+msgid "Could not understand \"version.json\":\n"
+msgstr "Không thể hiểu được \"version.json\":\n"
+
+#: src/launcher/ui/pages/modplatform/technic/TechnicPage.ui:32
+msgctxt "TechnicPage|"
+msgid "Search and filter ..."
+msgstr "Tìm kiếm và lọc..."
+
+#: src/launcher/ui/pages/modplatform/technic/TechnicPage.ui:39
+msgctxt "TechnicPage|"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp:187
+msgctxt "TechnicPage|"
+msgid " by "
+msgstr " bởi "
+
+#: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:45
+msgctxt "TechnicPage|"
+msgid "Technic"
+msgstr "Technic"
+
+#: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
+msgctxt "TexturePackFolderModel|"
+msgid "Is the texture pack enabled?"
+msgstr "Gói tài nguyên có được bật không?"
+
+#: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:12
+msgctxt "TexturePackFolderModel|"
+msgid "The name of the texture pack."
+msgstr "Tên của texture pack."
+
+#: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:14
+msgctxt "TexturePackFolderModel|"
+msgid "The version of the texture pack."
+msgstr "Phiên bản của texture pack."
+
+#: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:16
+msgctxt "TexturePackFolderModel|"
+msgid "The date and time this texture pack was last changed (or added)."
+msgstr "Ngày và giờ gói tài nguyên này được thay đổi (hoặc thêm vào) lần cuối."
+
+#: src/launcher/ui/pages/instance/TexturePackPage.h:12
+msgctxt "TexturePackPage|"
+msgid "Texture packs"
+msgstr "Texture packs"
+
+#: src/launcher/translations/TranslationsModel.cpp:407
+#, qt-format
+msgctxt "TranslationsModel|"
+msgid ""
+"%1:\n"
+"%2 translated\n"
+"%3 fuzzy\n"
+"%4 total"
+msgstr ""
+"%1:\n"
+"%2 đã dịch\n"
+"%3 fuzzy\n"
+"%4 tổng cộng"
+
+#: src/launcher/translations/TranslationsModel.cpp:425
+msgctxt "TranslationsModel|"
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: src/launcher/translations/TranslationsModel.cpp:429
+msgctxt "TranslationsModel|"
+msgid "Completeness"
+msgstr "Độ hoàn thành"
+
+#: src/launcher/translations/TranslationsModel.cpp:439
+msgctxt "TranslationsModel|"
+msgid "The native language name."
+msgstr "Tên ngôn ngữ mẹ đẻ."
+
+#: src/launcher/translations/TranslationsModel.cpp:443
+msgctxt "TranslationsModel|"
+msgid ""
+"Completeness is the percentage of fully translated strings, not counting "
+"automatically guessed ones."
+msgstr ""
+"Độ hoàn thành là tỷ lệ phần trăm của các chuỗi được dịch đầy đủ, không tính "
+"các chuỗi được đoán tự động."
+
+#: src/launcher/launch/steps/Update.cpp:23
+msgctxt "Update|"
+msgid "Task aborted."
+msgstr "Đã hủy bỏ tác vụ."
+
+#: src/launcher/launch/steps/Update.cpp:52
+#, qt-format
+msgctxt "Update|"
+msgid ""
+"Instance update failed because: %1\n"
+"\n"
+msgstr ""
+"Cập nhật instance không thành công vì: %1\n"
+"\n"
+
+#: src/launcher/ui/dialogs/UpdateDialog.ui:14
+#, fuzzy
+#| msgid "MultiMC Update"
+msgctxt "UpdateDialog|"
+msgid "PolyMC Update"
+msgstr "Cập nhật MultiMC"
+
+#: src/launcher/ui/dialogs/UpdateDialog.ui:61
+msgctxt "UpdateDialog|"
+msgid "Update now"
+msgstr "Cập nhật ngay"
+
+#: src/launcher/ui/dialogs/UpdateDialog.ui:74
+msgctxt "UpdateDialog|"
+msgid "Don't update yet"
+msgstr "Đừng cập nhật liền"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:17
+#, qt-format
+msgctxt "UpdateDialog|"
+msgid "A new %1 update is available!"
+msgstr "Đã có bản cập nhật %1 mới!"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:21
+#, qt-format
+msgctxt "UpdateDialog|"
+msgid "No %1 updates found. You are running the latest version."
+msgstr ""
+"Không có bản cập nhật nào được tìm thấy. Bạn đang sử dụng phiên bản mới nhất."
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:23
+msgctxt "UpdateDialog|"
+msgid "Close"
+msgstr "Đóng"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:25
+msgctxt "UpdateDialog|"
+msgid "<center><h1>Loading changelog...</h1></center>"
+msgstr "<center><h1>Đang tải nhật kí thay đổi...</h1></center>"
+
+#: src/launcher/ui/dialogs/UpdateDialog.cpp:165
+#, qt-format
+msgctxt "UpdateDialog|"
+msgid ""
+"<p align=\"center\" <span style=\"font-size:22pt;\">Failed to fetch "
+"changelog... Error: %1</span></p>"
+msgstr ""
+"<p align=\"center\" <span style=\"font-size:22pt;\">Không nạp được nhật kí "
+"thay đổi... Lỗi: %1</span></p>"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:41
+msgctxt "VanillaPage|"
+msgid "Filter"
+msgstr "Bộ lọc"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:51
+msgctxt "VanillaPage|"
+msgid "Releases"
+msgstr "Ngày phát hành"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:64
+msgctxt "VanillaPage|"
+msgid "Snapshots"
+msgstr "Snapshot"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:74
+msgctxt "VanillaPage|"
+msgid "Old Snapshots"
+msgstr "Snapshot cũ"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:84
+msgctxt "VanillaPage|"
+msgid "Betas"
+msgstr "Beta"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:94
+msgctxt "VanillaPage|"
+msgid "Alphas"
+msgstr "Alpha"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:104
+msgctxt "VanillaPage|"
+msgid "Experiments"
+msgstr "Thử nghiệm"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.ui:127
+msgctxt "VanillaPage|"
+msgid "Refresh"
+msgstr "Làm mới"
+
+#: src/launcher/ui/pages/modplatform/VanillaPage.h:40
+msgctxt "VanillaPage|"
+msgid "Vanilla"
+msgstr "Vanilla"
+
+#: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:26
+msgctxt "VerifyJavaInstall|"
+msgid "Minecraft 1.18 Pre Release 2 and above require the use of Java 17"
+msgstr "Minecraft 1.18 Pre Release 2 và trở lên yêu cầu sử dụng Java 17"
+
+#: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:35
+msgctxt "VerifyJavaInstall|"
+msgid "Minecraft 21w19a and above require the use of Java 16"
+msgstr "Minecraft 21w19a trở lên yêu cầu sử dụng Java 16"
+
+#: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:44
+msgctxt "VerifyJavaInstall|"
+msgid "Minecraft 17w13a and above require the use of Java 8"
+msgstr "Minecraft 17w13a trở lên yêu cầu sử dụng Java 8"
+
+#: src/launcher/ui/widgets/VersionListView.cpp:26
+msgctxt "VersionListView|"
+msgid "No versions are currently available."
+msgstr "Không có phiên bản nào có sẵn hiện tại."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:60
+msgctxt "VersionPage|"
+msgid "Filter:"
+msgstr "Bộ lọc:"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:82
+msgctxt "VersionPage|"
+msgid "Actions"
+msgstr "Các hành động"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:125
+msgctxt "VersionPage|"
+msgid "Change version"
+msgstr "Thay đổi phiên bản"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:128
+msgctxt "VersionPage|"
+msgid "Change version of the selected package."
+msgstr "Thay đổi phiên bản của gói đã chọn."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:133
+msgctxt "VersionPage|"
+msgid "Move up"
+msgstr "Di chuyển lên"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:136
+msgctxt "VersionPage|"
+msgid "Make the selected package apply sooner."
+msgstr "Làm gói đã chọn gắn vào sớm hơn."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:141
+msgctxt "VersionPage|"
+msgid "Move down"
+msgstr "Di chuyển xuống"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:144
+msgctxt "VersionPage|"
+msgid "Make the selected package apply later."
+msgstr "Làm gói đã chọn gắn vào trễ hơn."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:149
+msgctxt "VersionPage|"
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:152
+msgctxt "VersionPage|"
+msgid "Remove selected package from the instance."
+msgstr "Xoá gói đã chọn từ phiên bản."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:157
+msgctxt "VersionPage|"
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:160
+msgctxt "VersionPage|"
+msgid "Customize selected package."
+msgstr "Tùy chỉnh gói đã chọn."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:165
+msgctxt "VersionPage|"
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:168
+msgctxt "VersionPage|"
+msgid "Edit selected package."
+msgstr "Tùy chỉnh gói đã chọn."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:173
+msgctxt "VersionPage|"
+msgid "Revert"
+msgstr "Đảo ngược"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:176
+msgctxt "VersionPage|"
+msgid "Revert the selected package to default."
+msgstr "Hoàn nguyên gói được chọn về mặc định."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:181
+msgctxt "VersionPage|"
+msgid "Install Forge"
+msgstr "Cài đặt Forge"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:184
+msgctxt "VersionPage|"
+msgid "Install the Minecraft Forge package."
+msgstr "Cài đặt gói Minecraft Forge."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:189
+msgctxt "VersionPage|"
+msgid "Install Fabric"
+msgstr "Cài đặt Fabric"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:192
+msgctxt "VersionPage|"
+msgid "Install the Fabric Loader package."
+msgstr "Cài đặt gói Fabric Loader."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:197
+msgctxt "VersionPage|"
+msgid "Install LiteLoader"
+msgstr "Cài đặt LiteLoader"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:200
+msgctxt "VersionPage|"
+msgid "Install the LiteLoader package."
+msgstr "Cài đặt gói LiteLoader."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:205
+msgctxt "VersionPage|"
+msgid "Install mods"
+msgstr "Cài đặt mod"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:208
+msgctxt "VersionPage|"
+msgid "Install normal mods."
+msgstr "Cài đặt mod bình thường."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:213
+msgctxt "VersionPage|"
+msgid "Add to Minecraft.jar"
+msgstr "Thêm vào Minecraft.jar"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:216
+msgctxt "VersionPage|"
+msgid "Add a mod into the Minecraft jar file."
+msgstr "Thêm mod vào tập tin Minecraft jar."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:221
+msgctxt "VersionPage|"
+msgid "Replace Minecraft.jar"
+msgstr "Thay thế tệp Minecraft.jar"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:226
+msgctxt "VersionPage|"
+msgid "Add Empty"
+msgstr "Thêm trống"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:229
+msgctxt "VersionPage|"
+msgid "Add an empty custom package."
+msgstr "Thêm một gói tùy chỉnh trống."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:234
+msgctxt "VersionPage|"
+msgid "Reload"
+msgstr "Nạp lại"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:237
+msgctxt "VersionPage|"
+msgid "Reload all packages."
+msgstr "Nạp lại tất cả gói."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:242
+msgctxt "VersionPage|"
+msgid "Download All"
+msgstr "Tải xuống tất cả"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:245
+msgctxt "VersionPage|"
+msgid "Download the files needed to launch the instance now."
+msgstr "Tải những tập tin cần thiết để chạy phiên bản bây giờ."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:250
+msgctxt "VersionPage|"
+msgid "Open .minecraft"
+msgstr "Mở .minecraft"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:253
+msgctxt "VersionPage|"
+msgid "Open the instance's .minecraft folder."
+msgstr "Mở thư mục .minecraft của phiên bản."
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:258
+msgctxt "VersionPage|"
+msgid "Open libraries"
+msgstr "Mở libraries"
+
+#: src/launcher/ui/pages/instance/VersionPage.ui:261
+msgctxt "VersionPage|"
+msgid "Open the instance's local libraries folder."
+msgstr "Mở thư mục local libraries của phiên bản."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:155
+msgctxt "VersionPage|"
+msgid "Context menu"
+msgstr "Danh mục"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:173
+#, qt-format
+msgctxt "VersionPage|"
+msgid "%1 possibly has issues."
+msgstr "%1 có thể có vấn đề."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:176
+#, qt-format
+msgctxt "VersionPage|"
+msgid "%1 has issues!"
+msgstr "%1 có vấn đề!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:190
+msgctxt "VersionPage|"
+msgid "Error: "
+msgstr "Lỗi: "
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:194
+msgctxt "VersionPage|"
+msgid "Warning: "
+msgstr "Cảnh báo: "
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:253
+#: src/launcher/ui/pages/instance/VersionPage.cpp:259
+#: src/launcher/ui/pages/instance/VersionPage.cpp:278
+#: src/launcher/ui/pages/instance/VersionPage.cpp:322
+#: src/launcher/ui/pages/instance/VersionPage.cpp:335
+#: src/launcher/ui/pages/instance/VersionPage.cpp:397
+msgctxt "VersionPage|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:260
+msgctxt "VersionPage|"
+msgid "Couldn't load the instance profile."
+msgstr "Không thể tải lên hồ sơ phiên bản."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:278
+msgctxt "VersionPage|"
+msgid "Couldn't remove file"
+msgstr "Không thể xóa tệp"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:296
+msgctxt "VersionPage|"
+msgid "Select jar mods"
+msgstr "Chọn mod jar"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:296
+msgctxt "VersionPage|"
+msgid "Minecraft.jar mods (*.zip *.jar)"
+msgstr "Minecraft.jar mod (*.zip *.jar)"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:306
+msgctxt "VersionPage|"
+msgid "Select jar"
+msgstr "Chọn jar"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:306
+msgctxt "VersionPage|"
+msgid "Minecraft.jar replacement (*.jar)"
+msgstr "Thay thế Minecraft.jar (*.jar)"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:366
+#, qt-format
+msgctxt "VersionPage|"
+msgid "Change %1 version"
+msgstr "Thay đổi phiên bản của %1"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:369
+msgctxt "VersionPage|"
+msgid "No intermediary mappings versions are currently available."
+msgstr "Không có phiên bản intermediary mapping nào hiện có sẵn."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:370
+msgctxt "VersionPage|"
+msgid "Couldn't load or download the intermediary mappings version lists!"
+msgstr ""
+"Không thể tải hoặc tải xuống danh sách phiên bản của intermediary mapping!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:398
+#, fuzzy
+#| msgid ""
+#| "MultiMC cannot download Minecraft or update instances unless you have at "
+#| "least one account added.\n"
+#| "Please add your Mojang or Minecraft account."
+msgctxt "VersionPage|"
+msgid ""
+"PolyMC cannot download Minecraft or update instances unless you have at "
+"least one account added.\n"
+"Please add your Mojang or Minecraft account."
+msgstr ""
+"MultiMC không thể tải xuống Minecraft hoặc cập nhật các phiên bản trừ khi "
+"bạn có ít nhất một tài khoản.\n"
+"Vui lòng thêm tài khoản Mojang hoặc Minecraft của bạn."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:424
+msgctxt "VersionPage|"
+msgid "Select Forge version"
+msgstr "Chọn phiên bản Forge"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:426
+msgctxt "VersionPage|"
+msgid "No Forge versions are currently available for Minecraft "
+msgstr "Hiện không có phiên bản Forge nào dành cho Minecraft "
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:427
+msgctxt "VersionPage|"
+msgid "Couldn't load or download the Forge version lists!"
+msgstr "Không thể tải hoặc tải xuống danh sách phiên bản cho Forge!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:453
+msgctxt "VersionPage|"
+msgid "Select Fabric Loader version"
+msgstr "Chọn phiên bản cho Fabric Loader"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:454
+msgctxt "VersionPage|"
+msgid "No Fabric Loader versions are currently available."
+msgstr "Hiện không có phiên bản nào dành cho Fabric Loader."
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:455
+msgctxt "VersionPage|"
+msgid "Couldn't load or download the Fabric Loader version lists!"
+msgstr "Không thể tải hoặc tải xuống danh sách phiên bản cho Fabric Loader!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:498
+msgctxt "VersionPage|"
+msgid "Select LiteLoader version"
+msgstr "Chọn phiên bản cho LiteLoader"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:500
+msgctxt "VersionPage|"
+msgid "No LiteLoader versions are currently available for Minecraft "
+msgstr "Hiện không có phiên bản LiteLoader nào dành cho Minecraft "
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:501
+msgctxt "VersionPage|"
+msgid "Couldn't load or download the LiteLoader version lists!"
+msgstr "Không thể tải hoặc tải xuống danh sách phiên bản cho LiteLoader!"
+
+#: src/launcher/ui/pages/instance/VersionPage.cpp:557
+msgctxt "VersionPage|"
+msgid "Error updating instance"
+msgstr "Lỗi khi đang cập nhật phiên bản"
+
+#: src/launcher/ui/pages/instance/VersionPage.h:38
+msgctxt "VersionPage|"
+msgid "Version"
+msgstr "Phiên bản"
+
+#: src/launcher/VersionProxyModel.cpp:76
+msgctxt "VersionProxyModel|"
+msgid "Version"
+msgstr "Phiên bản"
+
+#: src/launcher/VersionProxyModel.cpp:78
+msgctxt "VersionProxyModel|"
+msgid "Minecraft"
+msgstr "Minecraft"
+
+#: src/launcher/VersionProxyModel.cpp:80
+msgctxt "VersionProxyModel|"
+msgid "Branch"
+msgstr "Nhánh"
+
+#: src/launcher/VersionProxyModel.cpp:82
+msgctxt "VersionProxyModel|"
+msgid "Type"
+msgstr "Loại"
+
+#: src/launcher/VersionProxyModel.cpp:84
+msgctxt "VersionProxyModel|"
+msgid "Architecture"
+msgstr "Cấu trúc"
+
+#: src/launcher/VersionProxyModel.cpp:86
+msgctxt "VersionProxyModel|"
+msgid "Path"
+msgstr "Đường dẫn"
+
+#: src/launcher/VersionProxyModel.cpp:88
+msgctxt "VersionProxyModel|"
+msgid "Released"
+msgstr "Ngày phát hành"
+
+#: src/launcher/VersionProxyModel.cpp:96
+msgctxt "VersionProxyModel|"
+msgid "The name of the version."
+msgstr "Tên phiên bản."
+
+#: src/launcher/VersionProxyModel.cpp:98
+msgctxt "VersionProxyModel|"
+msgid "Minecraft version"
+msgstr "Phiên bản Minecraft"
+
+#: src/launcher/VersionProxyModel.cpp:100
+msgctxt "VersionProxyModel|"
+msgid "The version's branch"
+msgstr "Nhánh phiên bản"
+
+#: src/launcher/VersionProxyModel.cpp:102
+msgctxt "VersionProxyModel|"
+msgid "The version's type"
+msgstr "Loại của phiên bản"
+
+#: src/launcher/VersionProxyModel.cpp:104
+msgctxt "VersionProxyModel|"
+msgid "CPU Architecture"
+msgstr "Cấu trúc CPU"
+
+#: src/launcher/VersionProxyModel.cpp:106
+msgctxt "VersionProxyModel|"
+msgid "Filesystem path to this version"
+msgstr "Đường dẫn hệ thống tập tin đến phiên bản này"
+
+#: src/launcher/VersionProxyModel.cpp:108
+msgctxt "VersionProxyModel|"
+msgid "Release date of this version"
+msgstr "Ngày ra mắt của phiên bản này"
+
+#: src/launcher/VersionProxyModel.cpp:133
+#, qt-format
+msgctxt "VersionProxyModel|"
+msgid "%1 (installed)"
+msgstr "%1 (đã được cài)"
+
+#: src/launcher/VersionProxyModel.cpp:164
+msgctxt "VersionProxyModel|"
+msgid "Recommended"
+msgstr "Đề xuất"
+
+#: src/launcher/VersionProxyModel.cpp:171
+#: src/launcher/VersionProxyModel.cpp:176
+msgctxt "VersionProxyModel|"
+msgid "Latest"
+msgstr "Mới nhất"
+
+#: src/launcher/ui/dialogs/VersionSelectDialog.cpp:81
+msgctxt "VersionSelectDialog|"
+msgid "Choose Version"
+msgstr "Chọn phiên bản"
+
+#: src/launcher/ui/dialogs/VersionSelectDialog.cpp:82
+msgctxt "VersionSelectDialog|"
+msgid "Reloads the version list."
+msgstr "Làm mới danh sách phiên bản."
+
+#: src/launcher/ui/dialogs/VersionSelectDialog.cpp:83
+msgctxt "VersionSelectDialog|"
+msgid "&Refresh"
+msgstr "Làm mới"
+
+#: src/launcher/ui/widgets/VersionSelectWidget.cpp:128
+msgctxt "VersionSelectWidget|"
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/launcher/ui/widgets/VersionSelectWidget.cpp:128
+#, qt-format
+msgctxt "VersionSelectWidget|"
+msgid ""
+"List update failed:\n"
+"%1"
+msgstr ""
+"Cập nhật danh sách thất bại:\n"
+"%1"
+
+#: src/launcher/minecraft/WorldList.cpp:227
+msgctxt "WorldList|"
+msgid "Name"
+msgstr "Tên"
+
+#: src/launcher/minecraft/WorldList.cpp:229
+msgctxt "WorldList|"
+msgid "Game Mode"
+msgstr "Chế độ chơi"
+
+#: src/launcher/minecraft/WorldList.cpp:231
+msgctxt "WorldList|"
+msgid "Last Played"
+msgstr "Lần chơi cuối"
+
+#: src/launcher/minecraft/WorldList.cpp:240
+msgctxt "WorldList|"
+msgid "The name of the world."
+msgstr "Tên của thế giới."
+
+#: src/launcher/minecraft/WorldList.cpp:242
+msgctxt "WorldList|"
+msgid "Game mode of the world."
+msgstr "Chế độ chơi của thế giới."
+
+#: src/launcher/minecraft/WorldList.cpp:244
+msgctxt "WorldList|"
+msgid "Date and time the world was last played."
+msgstr "Ngày và giờ mà thế giới được chơi lần cuối."
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:65
+msgctxt "WorldListPage|"
+msgid "Actions"
+msgstr "Các hành động"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:97
+msgctxt "WorldListPage|"
+msgid "Add"
+msgstr "Thêm"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:102
+msgctxt "WorldListPage|"
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:107
+msgctxt "WorldListPage|"
+msgid "Copy"
+msgstr "Sao chép"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:112
+msgctxt "WorldListPage|"
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:117
+msgctxt "WorldListPage|"
+msgid "MCEdit"
+msgstr "MCEdit"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:122
+msgctxt "WorldListPage|"
+msgid "Copy Seed"
+msgstr "Sao chép seed"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:127
+msgctxt "WorldListPage|"
+msgid "Refresh"
+msgstr "Làm mới"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:132
+msgctxt "WorldListPage|"
+msgid "View Folder"
+msgstr "Xem thư mục"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:137
+msgctxt "WorldListPage|"
+msgid "Reset Icon"
+msgstr "Đặt lại biểu tượng"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:140
+msgctxt "WorldListPage|"
+msgid "Remove world icon to make the game re-generate it on next load."
+msgstr "Xóa biểu tượng thế giới để trò chơi tạo lại trong lần vào tiếp theo."
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:145
+msgctxt "WorldListPage|"
+msgid "Datapacks"
+msgstr "Datapack"
+
+#: src/launcher/ui/pages/instance/WorldListPage.ui:148
+msgctxt "WorldListPage|"
+msgid "Manage datapacks inside the world."
+msgstr "Quản lí datapack trong thế giới."
+
+#: src/launcher/ui/pages/instance/WorldListPage.h:45
+msgctxt "WorldListPage|"
+msgid "Worlds"
+msgstr "Thế giới"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:108
+msgctxt "WorldListPage|"
+msgid "Context menu"
+msgstr "Danh mục"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:158
+msgctxt "WorldListPage|"
+msgid "Are you sure?"
+msgstr "Bạn có chắc không?"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:159
+msgctxt "WorldListPage|"
+msgid ""
+"This will remove the selected world permenantly.\n"
+"The world will be gone forever (A LONG TIME).\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"Điều này sẽ xoá vĩnh viễn thế giới đã chọn\n"
+"Thế giới này sẽ mất đi vĩnh viễn (MỘT THỜI GIAN DÀI)\n"
+"\n"
+"Bạn chắc chắn muốn tiếp tục chứ?"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:270
+msgctxt "WorldListPage|"
+msgid "No MCEdit found or set up!"
+msgstr "Không tìm thấy MCEdit được thiết lập!"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:271
+msgctxt "WorldListPage|"
+msgid ""
+"You do not have MCEdit set up or it was moved.\n"
+"You can set it up in the global settings."
+msgstr ""
+"Bạn chưa thiết lập MCEdit hoặc nó đã bị di chuyển.\n"
+"Bạn có thể thiết lập nó trong cài đặt chung."
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:280
+msgctxt "WorldListPage|"
+msgid "MCEdit failed to start!"
+msgstr "MCEdit không khởi động được!"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:281
+msgctxt "WorldListPage|"
+msgid ""
+"MCEdit failed to start.\n"
+"It may be necessary to reinstall it."
+msgstr ""
+"MCEdit không khởi động được.\n"
+"Có thể cần phải cài đặt lại nó."
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:330
+msgctxt "WorldListPage|"
+msgid "Select a Minecraft world zip"
+msgstr "Chọn tệp nén thế giới Minecraft"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:331
+msgctxt "WorldListPage|"
+msgid "Minecraft World Zip File (*.zip)"
+msgstr "Tệp nén thế giới Minecraft (*.zip)"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:352
+msgctxt "WorldListPage|"
+msgid "Copy World"
+msgstr "Sao chép thế giới"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:352
+msgctxt "WorldListPage|"
+msgid ""
+"Changing a world while Minecraft is running is potentially unsafe.\n"
+"Do you wish to proceed?"
+msgstr ""
+"Thay đổi thế giới trong khi Minecraft đang chạy có khả năng không an toàn.\n"
+"Bạn có muốn tiếp tục?"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:376
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:399
+msgctxt "WorldListPage|"
+msgid "World name"
+msgstr "Tên thế giới"
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:376
+msgctxt "WorldListPage|"
+msgid "Enter a new name for the copy."
+msgstr "Nhập tên mới cho bản sao."
+
+#: src/launcher/ui/pages/instance/WorldListPage.cpp:399
+msgctxt "WorldListPage|"
+msgid "Enter a new world name."
+msgstr "Nhập một tên mới cho thế giới."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:21
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Getting authorization to access %1 services."
+msgstr "Đang lấy quyền để truy cập vào các dịch vụ %1."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:68
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Failed to get authorization for %1 services. Error %1."
+msgstr "Có lỗi khi lấy quyền truy cập dịch vụ %1. Lỗi %1."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:78
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Could not parse authorization response for access to %1 services."
+msgstr ""
+"Không thể phân tích cú pháp phản hồi ủy quyền cho quyền truy cập vào các "
+"dịch vụ %1."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:86
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid ""
+"Server has changed %1 authorization user hash in the reply. Something is "
+"wrong."
+msgstr ""
+"Máy chủ đã thay đổi hash ủy quyền người dùng %1 trong thư trả lời. Có cái gì "
+"đó không đúng."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:93
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Got authorization to access %1"
+msgstr "Được ủy quyền để truy cập %1"
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:109
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "Cannot parse %1 authorization error response as JSON: %2"
+msgstr ""
+"Không thể phân tích cú pháp phản hồi lỗi ủy quyền %1 dưới dạng JSON: %2"
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:119
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid "XErr element is missing from %1 authorization error response."
+msgstr "Phần tử XErr bị thiếu trong phản hồi lỗi ủy quyền %1."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:127
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid ""
+"This Microsoft account does not have an XBox Live profile. Buy the game on "
+"%1 first."
+msgstr "Tài khoản Microsoft này không có hồ sơ Xbox. Mua game trên %1 trước."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:136
+msgctxt "XboxAuthorizationStep|"
+msgid "XBox Live is not available in your country. You've been blocked."
+msgstr "XBox Live không khả dụng ở quốc gia của bạn. Bạn đã bị chặn."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:143
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid ""
+"This Microsoft account is underaged and is not linked to a family.\n"
+"\n"
+"Please set up your account according to %1."
+msgstr ""
+"Tài khoản Microsoft này không được phân cấp và không được liên kết với một "
+"gia đình.\n"
+"\n"
+"Vui lòng thiết lập tài khoản của bạn theo %1."
+
+#: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:151
+#, qt-format
+msgctxt "XboxAuthorizationStep|"
+msgid ""
+"XSTS authentication ended with unrecognized error(s):\n"
+"\n"
+"%1"
+msgstr ""
+"Xác thực XSTS đã kết thúc với (các) lỗi không nhận dạng được:\n"
+"\n"
+"%1"
+
+#: src/launcher/minecraft/auth/steps/XboxProfileStep.cpp:17
+msgctxt "XboxProfileStep|"
+msgid "Fetching Xbox profile."
+msgstr "Đang tìm nạp hồ sơ Xbox."
+
+#: src/launcher/minecraft/auth/steps/XboxProfileStep.cpp:63
+msgctxt "XboxProfileStep|"
+msgid "Failed to retrieve the Xbox profile."
+msgstr "Không truy xuất được hồ sơ Xbox."
+
+#: src/launcher/minecraft/auth/steps/XboxProfileStep.cpp:72
+msgctxt "XboxProfileStep|"
+msgid "Got Xbox profile"
+msgstr "Đã lấy được hồ sơ Xbox"
+
+#: src/launcher/minecraft/auth/steps/XboxUserStep.cpp:15
+msgctxt "XboxUserStep|"
+msgid "Logging in as an Xbox user."
+msgstr "Đang đăng nhập vào tài khoản Xbox."
+
+#: src/launcher/minecraft/auth/steps/XboxUserStep.cpp:56
+msgctxt "XboxUserStep|"
+msgid "XBox user authentication failed."
+msgstr "Xác minh tài khoản Xbox thất bại."
+
+#: src/launcher/minecraft/auth/steps/XboxUserStep.cpp:63
+msgctxt "XboxUserStep|"
+msgid "XBox user authentication response could not be understood."
+msgstr "Không thể hiểu phản hồi xác thực người dùng Xbox."
+
+#: src/launcher/minecraft/auth/steps/XboxUserStep.cpp:67
+msgctxt "XboxUserStep|"
+msgid "Got Xbox user token"
+msgstr "Đã có token người dùng Xbox"
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:188
+msgctxt "Yggdrasil|"
+msgid "Authentication server didn't send a client token."
+msgstr "Máy chủ xác thực không gửi client token."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:195
+msgctxt "Yggdrasil|"
+msgid ""
+"Authentication server attempted to change the client token. This isn't "
+"supported."
+msgstr "Máy chủ xác thực đã thử đổi client token. Việc này chưa được hỗ trợ."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:204
+msgctxt "Yggdrasil|"
+msgid "Authentication server didn't send an access token."
+msgstr "Máy chủ xác thực không gửi token truy cập."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:226
+msgctxt "Yggdrasil|"
+msgid "Authentication operation timed out."
+msgstr "Hoạt động xác thực đã hết thời gian."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:229
+msgctxt "Yggdrasil|"
+msgid "Authentication operation cancelled."
+msgstr "Thao tác xác thực đã bị hủy."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:234
+msgctxt "Yggdrasil|"
+msgid ""
+"<b>SSL Handshake failed.</b><br/>There might be a few causes for "
+"it:<br/><ul><li>You use Windows and need to update your root certificates, "
+"please install any outstanding updates.</li><li>Some device on your network "
+"is interfering with SSL traffic. In that case, you have bigger worries than "
+"Minecraft not starting.</li><li>Possibly something else. Check the log file "
+"for details</li></ul>"
+msgstr ""
+"<b>SSL Handshake không thành công.</b><br/> Có thể có một vài nguyên "
+"nhân:<br/><ul><li> Bạn sử dụng Windows và cần cập nhật chứng chỉ gốc của "
+"mình, vui lòng cài đặt bất kỳ bản cập nhật nào còn tồn đọng.</li><li> Một số "
+"thiết bị trên mạng của bạn đang cản trở lưu lượng SSL. Trong trường hợp đó, "
+"bạn còn lo lắng hơn là Minecraft không khởi động được.</li><li>Có thể là "
+"điều gì đó khác. Kiểm tra tệp nhật ký MultiMC để biết chi tiết</li></ul>"
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:252
+msgctxt "Yggdrasil|"
+msgid ""
+"The Mojang account no longer exists. It may have been migrated to a "
+"Microsoft account."
+msgstr ""
+"Tài khoản Mojang không còn tồn tại. Nó có thể đã được chuyển sang tài khoản "
+"Microsoft."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:258
+#, qt-format
+msgctxt "Yggdrasil|"
+msgid "Authentication operation failed due to a network error: %1 (%2)"
+msgstr "Thao tác xác thực không thành công do lỗi mạng: %1 (%2)"
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:283
+#, qt-format
+msgctxt "Yggdrasil|"
+msgid ""
+"Failed to parse authentication server response JSON response: %1 at offset "
+"%2."
+msgstr ""
+"Không thể phân tích cú pháp phản hồi của máy chủ xác thực Phản hồi JSON: %1 "
+"ở mức bù %2."
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:307
+#, qt-format
+msgctxt "Yggdrasil|"
+msgid ""
+"An unknown error occurred when trying to communicate with the authentication "
+"server: %1"
+msgstr ""
+"Đã xảy ra lỗi không xác định khi cố gắng giao tiếp với máy chủ xác thực: %1"
+
+#: src/launcher/minecraft/auth/Yggdrasil.cpp:329
+msgctxt "Yggdrasil|"
+msgid "An unknown Yggdrasil error occurred."
+msgstr "Đã xảy ra lỗi Yggdrasil không xác định."
+
+#: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:17
+msgctxt "YggdrasilStep|"
+msgid "Logging in with Mojang account."
+msgstr "Đang đăng nhập bằng tài khoản Mojang."
+
+#: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:34
+msgctxt "YggdrasilStep|"
+msgid "Logged in with Mojang"
+msgstr "Đã đăng nhặp bằng tài khoản Mojang"
+
+#: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:43
+msgctxt "YggdrasilStep|"
+msgid "Mojang user authentication failed."
+msgstr "Xác minh tài khoản Mojang thất bại."
+
+#: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:48
+msgctxt "YggdrasilStep|"
+msgid "Mojang user authentication ended with a network error."
+msgstr "Xác thực tài khoản Mojang đã kết thúc với kết nối mạng lỗi."
