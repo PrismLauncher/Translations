@@ -113,10 +113,6 @@ msgid ""
 msgstr ""
 
 msgctxt "AboutDialog|"
-msgid "Version:"
-msgstr ""
-
-msgctxt "AboutDialog|"
 msgid "Platform:"
 msgstr ""
 
@@ -147,10 +143,6 @@ msgstr ""
 #, qt-format
 msgctxt "AboutDialog|"
 msgid "About %1"
-msgstr ""
-
-msgctxt "AboutDialog|"
-msgid "Version"
 msgstr ""
 
 msgctxt "AboutDialog|"
@@ -323,6 +315,25 @@ msgstr ""
 
 msgctxt "AccountListPage|"
 msgid "Accounts"
+msgstr ""
+
+msgctxt "AccountListPage|"
+msgid "Add Offline"
+msgstr ""
+
+msgctxt "AccountListPage|"
+msgid "Error"
+msgstr ""
+
+msgctxt "AccountListPage|"
+msgid ""
+"You must add a Microsoft or Mojang account that owns Minecraft before you "
+"can add an offline account.<br><br>If you have lost your account you can "
+"contact Microsoft for support."
+msgstr ""
+
+msgctxt "AccountListPage|"
+msgid "Please enter your desired username to add your offline account."
 msgstr ""
 
 msgctxt "AccountTask|"
@@ -751,6 +762,54 @@ msgstr ""
 
 msgctxt "Flame::FileResolvingTask|"
 msgid "Some mod ID resolving tasks failed."
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Version selected:"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Search"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Search and filter ..."
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "CurseForge"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Sort by Featured"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Sort by Popularity"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Sort by last updated"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Sort by Name"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Sort by Author"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Sort by Downloads"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid " by "
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "No Valid Version found!"
 msgstr ""
 
 msgctxt "FlamePage|"
@@ -2617,6 +2676,20 @@ msgctxt "MinecraftPage|"
 msgid "Minecraft"
 msgstr ""
 
+msgctxt "MinecraftPage|"
+msgid "Miscellaneous"
+msgstr ""
+
+msgctxt "MinecraftPage|"
+msgid ""
+"<html><head/><body><p>PolyMC will automatically reopen when the game crashes "
+"or exits.</p></body></html>"
+msgstr ""
+
+msgctxt "MinecraftPage|"
+msgid "Close PolyMC after game window opens"
+msgstr ""
+
 msgctxt "MinecraftProfileStep|"
 msgid "Fetching the Minecraft profile."
 msgstr ""
@@ -2639,6 +2712,21 @@ msgstr ""
 
 msgctxt "MinecraftUpdate|"
 msgid "Aborted by user."
+msgstr ""
+
+msgctxt "ModDownloadDialog|"
+msgid "Download mods"
+msgstr ""
+
+#, qt-format
+msgctxt "ModDownloadTask|"
+msgid ""
+"Downloading mod:\n"
+"%1"
+msgstr ""
+
+msgctxt "ModDownloadTask|"
+msgid "Mod download"
 msgstr ""
 
 msgctxt "ModFolderModel|"
@@ -2740,6 +2828,26 @@ msgctxt ""
 msgid "Select %1"
 msgstr ""
 
+msgctxt "ModFolderPage|"
+msgid "Install Mods"
+msgstr ""
+
+msgctxt "ModFolderPage|"
+msgid "Error"
+msgstr ""
+
+msgctxt "ModFolderPage|"
+msgid "Please install a mod loader first!"
+msgstr ""
+
+msgctxt "ModFolderPage|"
+msgid "Warnings"
+msgstr ""
+
+msgctxt "ModFolderPage|"
+msgid "Abort"
+msgstr ""
+
 msgctxt "ModMinecraftJar|"
 msgid "Couldn't create the bin folder for Minecraft.jar"
 msgstr ""
@@ -2780,6 +2888,50 @@ msgstr ""
 
 msgctxt "ModpacksCH::PackInstallTask|"
 msgid "Installing modpack"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Version selected:"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Search"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Search and filter ..."
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Modrinth"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Sort by Relevence"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Sort by Downloads"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Sort by Follows"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Sort by last updated"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Sort by newest"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid " by "
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "No Valid Version found !"
 msgstr ""
 
 #, qt-format
@@ -2835,6 +2987,22 @@ msgstr ""
 
 msgctxt "NullInstance|"
 msgid "Unknown instance type"
+msgstr ""
+
+msgctxt "OfflineLoginDialog|"
+msgid "Add Account"
+msgstr ""
+
+msgctxt "OfflineLoginDialog|"
+msgid "Username"
+msgstr ""
+
+msgctxt "OfflineStep|"
+msgid "Creating offline account."
+msgstr ""
+
+msgctxt "OfflineStep|"
+msgid "Created offline account."
 msgstr ""
 
 msgctxt "OtherLogsPage|"
@@ -3371,10 +3539,6 @@ msgid "<p>You can <a href=\"%1\">look at the changes on github</a>.</p>"
 msgstr ""
 
 msgctxt "QObject|About Credits"
-msgid "Developers"
-msgstr ""
-
-msgctxt "QObject|About Credits"
 msgid "With thanks to"
 msgstr ""
 
@@ -3461,6 +3625,14 @@ msgid ""
 "feature, or set the path to the java executable.<br />"
 msgstr ""
 
+msgctxt "QObject|About Credits"
+msgid "PolyMC Developers"
+msgstr ""
+
+msgctxt "QObject|About Credits"
+msgid "MultiMC Developers"
+msgstr ""
+
 msgctxt "ResourcePackFolderModel|"
 msgid "Is the resource pack enabled?"
 msgstr ""
@@ -3541,6 +3713,14 @@ msgstr ""
 
 msgctxt "ScreenshotsPage|"
 msgid "Screenshots"
+msgstr ""
+
+msgctxt "ScreenshotsPage|"
+msgid "Copy Image"
+msgstr ""
+
+msgctxt "ScreenshotsPage|"
+msgid "Copy File(s)"
 msgstr ""
 
 msgctxt "ServersModel|"
