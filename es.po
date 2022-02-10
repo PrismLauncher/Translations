@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-10 11:36+0000\n"
+"PO-Revision-Date: 2022-02-11 00:40+0000\n"
 "Last-Translator: helpimnotdrowning <helpimnotdrowning@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/polymc/polymc/es/"
 ">\n"
@@ -400,7 +400,6 @@ msgid "Microsoft Accounts not available"
 msgstr "Cuentas de Microsoft no disponibles"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:134
-#, fuzzy
 msgctxt "AccountListPage|"
 msgid ""
 "Microsoft accounts are only usable on macOS 10.13 or newer, with fully "
@@ -1911,7 +1910,6 @@ msgid "Play demo?"
 msgstr "¿Jugar a la demo?"
 
 #: src/launcher/LaunchController.cpp:172
-#, fuzzy
 msgctxt "LaunchController|"
 msgid ""
 "This account does not own Minecraft.\n"
@@ -3125,7 +3123,6 @@ msgid "Delete group '%1'"
 msgstr "Eliminar grupo '%1'"
 
 #: src/launcher/ui/MainWindow.cpp:954
-#, fuzzy
 msgctxt "MainWindow|"
 msgid "Profilers"
 msgstr "Perfiladores"
@@ -3214,12 +3211,11 @@ msgid "Rename Instance"
 msgstr "Cambiar nombre de instancia"
 
 #: src/launcher/ui/MainWindow.cpp:1851
-#, fuzzy
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
 msgstr ""
-"¡Su carpeta de instancia contiene '!' y se sabe que esto causa problemas en "
+"Su carpeta de instancia contiene '!', ¡se sabe que esto causa problemas en "
 "Java!"
 
 #: src/launcher/ui/MainWindow.cpp:1853
@@ -3239,6 +3235,9 @@ msgid ""
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
+"Este es un problema: <br/> - Es probable que el sistema operativo borre el "
+"lanzador sin previo aviso <br/> - cierra el lanzador ahora y extráelo a una "
+"carpeta real, no a una carpeta temporal"
 
 #: src/launcher/ui/MainWindow.cpp:1869
 msgctxt "MainWindow|"
@@ -3246,18 +3245,20 @@ msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
 msgstr ""
+"Su carpeta de instancia contiene 'Rar$' - ¡eso significa que no ha extraído "
+"el archivo del lanzador!"
 
 #: src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
-msgstr ""
+msgstr "¡Su instancia está en una carpeta temporal: '%1'!"
 
 #: src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Total playtime: %1"
-msgstr ""
+msgstr "Tiempo de juego total: %1"
 
 #: src/launcher/ui/MainWindow.cpp:1221 src/launcher/ui/MainWindow.cpp:1238
 #: src/launcher/ui/MainWindow.cpp:1296 src/launcher/ui/MainWindow.cpp:1345
@@ -3279,12 +3280,13 @@ msgstr ""
 #: src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp:15
 msgctxt "MigrationEligibilityStep|"
 msgid "Checking for migration eligibility."
-msgstr ""
+msgstr "Comprobando la elegibilidad de migración."
 
 #: src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp:44
+#, fuzzy
 msgctxt "MigrationEligibilityStep|"
 msgid "Got migration flags"
-msgstr ""
+msgstr "Banderas de migracion recibidas"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:703
 msgctxt "MinecraftInstance|"
@@ -3382,7 +3384,7 @@ msgstr "Mostrar tiempo jugando a instancias"
 #: src/launcher/ui/pages/global/MinecraftPage.ui:153
 msgctxt "MinecraftPage|"
 msgid "Show time spent playing across all instances"
-msgstr ""
+msgstr "Mostrar tiempo jugado en todas las instancias"
 
 #: src/launcher/ui/pages/global/MinecraftPage.ui:160
 msgctxt "MinecraftPage|"
@@ -3397,27 +3399,27 @@ msgstr "Minecraft"
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:15
 msgctxt "MinecraftProfileStep|"
 msgid "Fetching the Minecraft profile."
-msgstr ""
+msgstr "Obteniendo el perfil de Minecraft."
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:54
 msgctxt "MinecraftProfileStep|"
 msgid "Account has no Minecraft profile."
-msgstr ""
+msgstr "La cuenta no tiene perfil de Minecraft."
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:69
 msgctxt "MinecraftProfileStep|"
 msgid "Minecraft Java profile acquisition failed."
-msgstr ""
+msgstr "Ha fallado la adquisición del perfil Java de Minecraft."
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:77
 msgctxt "MinecraftProfileStep|"
 msgid "Minecraft Java profile response could not be parsed"
-msgstr ""
+msgstr "No se pudo analizar la respuesta del perfil Java de Minecraft"
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:89
 msgctxt "MinecraftProfileStep|"
 msgid "Minecraft Java profile acquisition succeeded."
-msgstr ""
+msgstr "La adquisición del perfil Java de Minecraft tuvo éxito."
 
 #: src/launcher/minecraft/MinecraftUpdate.cpp:87
 msgctxt "MinecraftUpdate|"
@@ -3818,7 +3820,7 @@ msgstr "Versión"
 #: src/launcher/ui/pages/global/PastePage.ui:39
 msgctxt "PastePage|"
 msgid "Pastebin URL"
-msgstr ""
+msgstr "URL de Pastebin"
 
 #: src/launcher/ui/pages/global/PastePage.ui:57
 msgctxt "PastePage|"
@@ -3827,16 +3829,19 @@ msgid ""
 "font-weight:600;\">http://</span> or <span style=\" "
 "font-weight:600;\">https://</span> will be accepted.</p></body></html>"
 msgstr ""
+"<html><head/><body><p>Nota: sólo se aceptarán entradas que empiecen por "
+"<span style=\" font-weight:600;\">http://</span> o <span style=\" font-"
+"weight:600;\">https://</span>.</p></body></html>"
 
 #: src/launcher/ui/pages/global/PastePage.ui:74
 msgctxt "PastePage|"
 msgid "https://0x0.st"
-msgstr ""
+msgstr "https://0x0.st"
 
 #: src/launcher/ui/pages/global/PastePage.ui:79
 msgctxt "PastePage|"
 msgid "https://paste.polymc.org"
-msgstr ""
+msgstr "https://paste.polymc.org"
 
 #: src/launcher/ui/pages/global/PastePage.ui:87
 msgctxt "PastePage|"
@@ -3847,6 +3852,11 @@ msgid ""
 "parameter to the URL and return a link in the response "
 "body.</p></body></html>"
 msgstr ""
+"<html><head/><body><p>Aquí puede elegir de una lista predefinida de "
+"servicios de pegado, o entra un URL de un servicio de pegado diferente de su "
+"elección, siempre que soporte el mismo protocolo que 0x0.st, es decir, POST "
+"un parámetro de archivo a la URL y devolver un enlace en el cuerpo de la "
+"respuesta.</p></body></html>"
 
 #: src/launcher/ui/pages/global/PastePage.h:37
 msgctxt "PastePage|"
@@ -3857,19 +3867,19 @@ msgstr "Subir registro"
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Uploading to %1"
-msgstr ""
+msgstr "Subiendo a %1"
 
 #: src/launcher/net/PasteUpload.cpp:58
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Network error: %1"
-msgstr ""
+msgstr "Error de red: %1"
 
 #: src/launcher/net/PasteUpload.cpp:65
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Error: %1 returned unexpected status code %2 %3"
-msgstr ""
+msgstr "Error: %1 regresó código de estado inesperado %2 %3"
 
 #: src/launcher/launch/steps/PostLaunchCommand.cpp:31
 #, qt-format
@@ -3956,7 +3966,7 @@ msgstr "%1 (en uso)"
 #: src/launcher/ui/dialogs/ProfileSetupDialog.ui:14
 msgctxt "ProfileSetupDialog|"
 msgid "Choose Minecraft name"
-msgstr ""
+msgstr "Elige un nombre de Minecraft"
 
 #: src/launcher/ui/dialogs/ProfileSetupDialog.ui:26
 msgctxt "ProfileSetupDialog|"
@@ -3966,39 +3976,42 @@ msgid ""
 "\n"
 "Choose your name carefully:"
 msgstr ""
+"Solo necesitas dar un paso más para poder jugar Minecraft con esta cuenta.\n"
+"\n"
+"Elija su nombre cuidadosamente:"
 
 #: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:104
 msgctxt "ProfileSetupDialog|"
 msgid "Name is too short - must be between 3 and 16 characters long."
-msgstr ""
+msgstr "El nombre es demasiado corto - debe tener entre 3 y 16 caracteres."
 
 #: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:164
 #, qt-format
 msgctxt "ProfileSetupDialog|"
 msgid "Minecraft profile with name %1 already exists."
-msgstr ""
+msgstr "El perfil de Minecraft con el nombre %1 ya existe."
 
 #: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:167
 #, qt-format
 msgctxt "ProfileSetupDialog|"
 msgid "The name %1 is not allowed."
-msgstr ""
+msgstr "El nombre %1 no está permitido."
 
 #: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:170
 #, qt-format
 msgctxt "ProfileSetupDialog|"
 msgid "Unhandled profile name status: %1"
-msgstr ""
+msgstr "Estado del nombre de perfil no controlado: %1"
 
 #: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:174
 msgctxt "ProfileSetupDialog|"
 msgid "Failed to check name availability."
-msgstr ""
+msgstr "No se pudo verificar la disponibilidad del nombre."
 
 #: src/launcher/ui/dialogs/ProfileSetupDialog.cpp:251
 msgctxt "ProfileSetupDialog|"
 msgid "The server returned the following error:"
-msgstr ""
+msgstr "El servidor devolvió el siguiente error:"
 
 #: src/launcher/ui/dialogs/ProgressDialog.ui:26
 msgctxt "ProgressDialog|"
@@ -4020,6 +4033,8 @@ msgctxt "ProxyPage|"
 msgid ""
 "This only applies to the launcher. Minecraft does not accept proxy settings."
 msgstr ""
+"Esto solo se aplica al lanzador. Minecraft no acepta la configuración del "
+"proxy."
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -4077,6 +4092,8 @@ msgid ""
 "Note: Proxy username and password are stored in plain text inside the "
 "launcher's configuration file!"
 msgstr ""
+"Nota: ¡El nombre de usuario y la contraseña del proxy se almacenan en texto "
+"plano dentro del archivo de configuración del lanzador!"
 
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
@@ -4226,6 +4243,9 @@ msgid ""
 "The 'minimumLauncherVersion' value of this version (%1) is higher than "
 "supported by %3 (%2). It might not work properly!"
 msgstr ""
+"El valor de 'minimumLauncherVersion' (versión mínima del lanzador) de esta "
+"versión (%1) es superior al soportado por %3 (%2). ¡Puede que no funcione "
+"correctamente!"
 
 #: src/launcher/minecraft/MojangVersionFormat.cpp:299
 #, qt-format
@@ -4317,10 +4337,10 @@ msgid "Unable to process the version file %1."
 msgstr "No se ha podido procesar el archivo de versión %1."
 
 #: src/launcher/minecraft/auth/AccountData.cpp:418
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "QObject|"
 msgid "No profile (%1)"
-msgstr ""
+msgstr "Ningún perfil (%1)"
 
 #: src/launcher/UpdateController.cpp:366
 msgctxt "QObject|"
@@ -4339,6 +4359,8 @@ msgid ""
 "Couldn't replace file %1. Changes will be reverted.\n"
 "See the %2 log file for details."
 msgstr ""
+"No se pudo reemplazar el archivo %1. Los cambios se revertirán.\n"
+"Consulte el archivo de registro %2 para obtener más detalles."
 
 #: src/launcher/UpdateController.cpp:382
 #, qt-format
@@ -4347,6 +4369,8 @@ msgid ""
 "Couldn't remove file %1. Changes will be reverted.\n"
 "See the %2 log file for details."
 msgstr ""
+"No se pudo borrar el archivo %1. Los cambios se revertirán.\n"
+"Consulte el archivo de registro %2 para obtener más detalles."
 
 #: src/launcher/UpdateController.cpp:392
 msgctxt "QObject|"
@@ -4369,18 +4393,21 @@ msgid ""
 "You will have to repair %1 manually.\n"
 "Please let us know why and how this happened."
 msgstr ""
+"La reversión también falló.\n"
+"Tendrá que reparar %1 manualmente.\n"
+"Por favor, dejanos saber por qué y cómo sucedió esto."
 
 #: src/launcher/MMCTime.cpp:31
 #, qt-format
 msgctxt "QObject|"
 msgid "%1m %2s"
-msgstr ""
+msgstr "%1m %2s"
 
 #: src/launcher/MMCTime.cpp:35
 #, qt-format
 msgctxt "QObject|"
 msgid "%1h %2m"
-msgstr ""
+msgstr "%1h %2m"
 
 #: src/launcher/MMCTime.cpp:37
 #, qt-format
@@ -5433,19 +5460,14 @@ msgstr ""
 "intermediarios!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
-#, fuzzy
-#| msgid ""
-#| "PolyMC cannot download Minecraft or update instances unless you have at "
-#| "least one account added.\n"
-#| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
 msgid ""
 "PolyMC cannot download Minecraft or update instances unless you have at "
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"PolyMC no puede descargar Minecraft o actualizar instancias a menos que "
-"tengas añadida una cuenta.↵\n"
+"PolyMC no puede descargar Minecraft ni actualizar instancias a menos que "
+"tenga al menos una cuenta agregada.\n"
 "Por favor, añade tu cuenta de Mojang o Minecraft."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:424
