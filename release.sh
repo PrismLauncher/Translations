@@ -51,9 +51,6 @@ do
 
     # gets everything up to the first dot
     lang=$(echo $po_file | grep -oP "^[^\.]*")
-    if [ "$lang" = "en" ]; then
-        lang="en_GB"
-    fi
     if [ "$lang" = "pt" ]; then
         lang="pt_PT"
     fi
