@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-10 11:36+0000\n"
-"Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
+"PO-Revision-Date: 2022-02-11 00:39+0000\n"
+"Last-Translator: Louis Bettens <louis@bettens.info>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/polymc/polymc/fr/>"
 "\n"
 "Language: fr\n"
@@ -400,6 +400,7 @@ msgid "Microsoft Accounts not available"
 msgstr "Comptes Microsoft non disponibles"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:134
+#, fuzzy
 msgctxt "AccountListPage|"
 msgid ""
 "Microsoft accounts are only usable on macOS 10.13 or newer, with fully "
@@ -407,6 +408,10 @@ msgid ""
 "\n"
 "Please update both your operating system and PolyMC."
 msgstr ""
+"Les comptes Microsoft ne sont utilisables que sous macOS 10.13 ou supérieur "
+"et qu'avec un PolyMC à jour.\n"
+"\n"
+"Veuillez mettre à jour votre système d'exploitation ainsi que PolyMC."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
@@ -2224,7 +2229,7 @@ msgstr "Personnalisé"
 #: src/launcher/ui/pages/global/LauncherPage.ui:307
 msgctxt "LauncherPage|"
 msgid "MultiMC"
-msgstr ""
+msgstr "MultiMC"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:328
 msgctxt "LauncherPage|"
@@ -3245,6 +3250,8 @@ msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
 msgstr ""
+"Votre dossier d'instance contient un point d'exclamation. Cela peut causer "
+"des problèmes avec Java !"
 
 #: src/launcher/ui/MainWindow.cpp:1853
 #, qt-format
