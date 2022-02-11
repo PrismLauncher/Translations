@@ -2595,6 +2595,27 @@ msgctxt "MainWindow|"
 msgid "Total playtime: %1"
 msgstr ""
 
+msgctxt "MainWindow|"
+msgid "News Toolbar"
+msgstr ""
+
+msgctxt "MainWindow|"
+msgid "More news..."
+msgstr ""
+
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open the development blog to read more news about %1."
+msgstr ""
+
+msgctxt "MainWindow|"
+msgid "Loading news..."
+msgstr ""
+
+msgctxt "MainWindow|"
+msgid "No news available."
+msgstr ""
+
 msgctxt "MigrationEligibilityStep|"
 msgid "Checking for migration eligibility."
 msgstr ""
@@ -2991,6 +3012,21 @@ msgstr ""
 
 msgctxt "NewInstanceDialog|"
 msgid "No group"
+msgstr ""
+
+#, qt-format
+msgctxt "NewsChecker|"
+msgid ""
+"Failed to load news RSS feed:\n"
+"%1"
+msgstr ""
+
+msgctxt "NewsEntry|"
+msgid "Untitled"
+msgstr ""
+
+msgctxt "NewsEntry|"
+msgid "No content."
 msgstr ""
 
 msgctxt "NotesPage|"
