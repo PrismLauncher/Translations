@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-11 00:40+0000\n"
+"PO-Revision-Date: 2022-02-11 12:36+0000\n"
 "Last-Translator: helpimnotdrowning <helpimnotdrowning@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/polymc/polymc/es/"
 ">\n"
@@ -4337,7 +4337,7 @@ msgid "Unable to process the version file %1."
 msgstr "No se ha podido procesar el archivo de versión %1."
 
 #: src/launcher/minecraft/auth/AccountData.cpp:418
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "QObject|"
 msgid "No profile (%1)"
 msgstr "Ningún perfil (%1)"
