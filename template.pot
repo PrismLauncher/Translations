@@ -2904,6 +2904,16 @@ msgctxt "ModpacksCH::PackInstallTask|"
 msgid "Installing modpack"
 msgstr ""
 
+msgctxt "Modrinth::ListModel|"
+msgid "Error"
+msgstr ""
+
+msgctxt "Modrinth::ListModel|"
+msgid ""
+"Modrinth API version too old!\n"
+"Please update PolyMC!"
+msgstr ""
+
 msgctxt "ModrinthPage|"
 msgid "Version selected:"
 msgstr ""
