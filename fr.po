@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-11 00:39+0000\n"
-"Last-Translator: Louis Bettens <louis@bettens.info>\n"
+"PO-Revision-Date: 2022-02-11 12:36+0000\n"
+"Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/polymc/polymc/fr/>"
 "\n"
 "Language: fr\n"
@@ -400,7 +400,6 @@ msgid "Microsoft Accounts not available"
 msgstr "Comptes Microsoft non disponibles"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:134
-#, fuzzy
 msgctxt "AccountListPage|"
 msgid ""
 "Microsoft accounts are only usable on macOS 10.13 or newer, with fully "
@@ -2075,12 +2074,7 @@ msgstr ""
 "uniquement si Minecraft ne répond pas pour une raison quelconque"
 
 #: src/launcher/launch/LaunchTask.cpp:215
-#, fuzzy, qt-format
-#| msgid ""
-#| "PolyMC stopped watching the game log because the log length surpassed %1 "
-#| "lines.\n"
-#| "You may have to fix your mods because the game is still logging to files "
-#| "and likely wasting harddrive space at an alarming rate!"
+#, qt-format
 msgctxt "LaunchTask|"
 msgid ""
 "PolyMC stopped watching the game log because the log length surpassed %1 "
@@ -2088,8 +2082,8 @@ msgid ""
 "You may have to fix your mods because the game is still logging to files and "
 "likely wasting harddrive space at an alarming rate!"
 msgstr ""
-"PolyMC a arrêté d'actualiser le journal du jeu car sa longueur a dépassé "
-"les %1 lignes.\n"
+"PolyMC a arrêté d'actualiser le journal du jeu car sa longueur a dépassé les "
+"%1 lignes.\n"
 "Vous devrez peut-être réparer vos mods car le jeu est toujours en train de "
 "journaliser dans des fichiers et est probablement en train de gaspiller de "
 "l'espace disque à un rythme alarmant !"
@@ -2666,11 +2660,9 @@ msgid "&Copy"
 msgstr "&Copier"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:103
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Envoyer le journal vers paste.ee - il restera en ligne pendant un mois"
+msgstr "Envoyer le journal vers le service configuré dans les préférences"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
