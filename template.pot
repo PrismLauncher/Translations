@@ -1143,16 +1143,16 @@ msgid "%1 Instance"
 msgstr ""
 
 msgctxt "InstancePageProvider|"
-msgid "Loader mods"
-msgstr ""
-
-msgctxt "InstancePageProvider|"
 msgid "Core mods"
 msgstr ""
 
 #, qt-format
 msgctxt "InstancePageProvider|"
 msgid "Edit Instance (%1)"
+msgstr ""
+
+msgctxt "InstancePageProvider|"
+msgid "Mods"
 msgstr ""
 
 msgctxt "InstanceSettingsPage|"
