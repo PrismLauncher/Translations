@@ -1,90 +1,96 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-02-13 06:54+0000\n"
+"Last-Translator: xiazujun <1077382961@qq.com>\n"
+"Language-Team: Chinese (Literary) <https://hosted.weblate.org/projects/"
+"polymc/polymc/lzh/>\n"
 "Language: lzh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11-dev\n"
 "X-Qt-Contexts: true\n"
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Could not understand pack manifest:\n"
-msgstr ""
+msgstr "无法解析的整合包：\n"
 
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to get local metadata index for %1"
-msgstr ""
+msgstr "未能获取%1的本地元数据索引"
 
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to get local metadata index for '%1' v%2"
-msgstr ""
+msgstr "未能获取%2版本的%1的本地元数据索引"
 
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Unknown mod type: %1"
-msgstr ""
+msgstr "未知模组类型：%1"
 
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to find version for %1 loader"
-msgstr ""
+msgstr "未能找到%1加载程序的版本"
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "No loader version set for modpack!"
-msgstr ""
+msgstr "没有为整合包设置加载程序的版本！"
 
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Unknown or unsupported download type: %1"
-msgstr ""
+msgstr "未知或不支持的下载类型：%1"
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Downloading configs..."
-msgstr ""
+msgstr "下载配置中..."
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Config download"
-msgstr ""
+msgstr "下载配置"
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Extracting configs..."
-msgstr ""
+msgstr "提取配置中..."
 
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to open pack configs %1!"
-msgstr ""
+msgstr "未能打开整合包内%1的配置！"
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Selecting optional mods..."
-msgstr ""
+msgstr "选择可选的模组中..."
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Downloading mods..."
-msgstr ""
+msgstr "下载模组中..."
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Mod download"
-msgstr ""
+msgstr "下载模组"
 
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Unsupported download type: %1"
-msgstr ""
+msgstr "不支持的下载类型：%1"
 
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Unknown download type: %1"
-msgstr ""
+msgstr "未知下载类型：%1"
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to extract mods..."
-msgstr ""
+msgstr "提取模组失败..."
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Extracting mods..."
-msgstr ""
+msgstr "提取模组中..."
 
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Installing modpack"
