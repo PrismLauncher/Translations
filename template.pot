@@ -5,6 +5,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
+msgctxt "APIPage|"
+msgid "Pastebin URL"
+msgstr ""
+
+msgctxt "APIPage|"
+msgid ""
+"<html><head/><body><p>Note: only input that starts with <span style=\" "
+"font-weight:600;\">http://</span> or <span style=\" "
+"font-weight:600;\">https://</span> will be accepted.</p></body></html>"
+msgstr ""
+
+msgctxt "APIPage|"
+msgid "https://0x0.st"
+msgstr ""
+
+msgctxt "APIPage|"
+msgid "https://paste.polymc.org"
+msgstr ""
+
+msgctxt "APIPage|"
+msgid ""
+"<html><head/><body><p>Here you can choose from a predefined list of paste "
+"services, or input the URL of a different paste service of your choice, "
+"provided it supports the same protocol as 0x0.st, that is POST a file "
+"parameter to the URL and return a link in the response "
+"body.</p></body></html>"
+msgstr ""
+
+msgctxt "APIPage|"
+msgid "Microsoft Authentication"
+msgstr ""
+
+msgctxt "APIPage|"
+msgid ""
+"Note: you probably don't need to set this if logging in via Microsoft "
+"Authentication already works."
+msgstr ""
+
+msgctxt "APIPage|"
+msgid "(Default)"
+msgstr ""
+
+msgctxt "APIPage|"
+msgid "Enter a custom client ID for Microsoft Authentication here. "
+msgstr ""
+
+msgctxt "APIPage|"
+msgid "APIs"
+msgstr ""
+
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Could not understand pack manifest:\n"
 msgstr ""
@@ -334,6 +384,10 @@ msgstr ""
 
 msgctxt "AccountListPage|"
 msgid "Please enter your desired username to add your offline account."
+msgstr ""
+
+msgctxt "AccountListPage|"
+msgid "No Microsoft Authentication client ID was set."
 msgstr ""
 
 msgctxt "AccountTask|"
@@ -3172,38 +3226,6 @@ msgstr ""
 
 msgctxt "PackProfile|"
 msgid "Version"
-msgstr ""
-
-msgctxt "PastePage|"
-msgid "Pastebin URL"
-msgstr ""
-
-msgctxt "PastePage|"
-msgid ""
-"<html><head/><body><p>Note: only input that starts with <span style=\" "
-"font-weight:600;\">http://</span> or <span style=\" "
-"font-weight:600;\">https://</span> will be accepted.</p></body></html>"
-msgstr ""
-
-msgctxt "PastePage|"
-msgid "https://0x0.st"
-msgstr ""
-
-msgctxt "PastePage|"
-msgid "https://paste.polymc.org"
-msgstr ""
-
-msgctxt "PastePage|"
-msgid ""
-"<html><head/><body><p>Here you can choose from a predefined list of paste "
-"services, or input the URL of a different paste service of your choice, "
-"provided it supports the same protocol as 0x0.st, that is POST a file "
-"parameter to the URL and return a link in the response "
-"body.</p></body></html>"
-msgstr ""
-
-msgctxt "PastePage|"
-msgid "Log Upload"
 msgstr ""
 
 #, qt-format
