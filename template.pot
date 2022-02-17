@@ -2670,6 +2670,10 @@ msgctxt "MainWindow|"
 msgid "No news available."
 msgstr ""
 
+msgctxt "MainWindow|"
+msgid "Export the selected instance as a zip file."
+msgstr ""
+
 msgctxt "MigrationEligibilityStep|"
 msgid "Checking for migration eligibility."
 msgstr ""
