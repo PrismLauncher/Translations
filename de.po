@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-10 11:36+0000\n"
-"Last-Translator: Sefa <sefa@mailbox.org>\n"
+"PO-Revision-Date: 2022-02-17 23:36+0000\n"
+"Last-Translator: Sefa Eyeoglu <contact@scrumplex.net>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/polymc/polymc/de/>"
 "\n"
 "Language: de\n"
@@ -2664,7 +2664,7 @@ msgstr "&Kopieren"
 #| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Lade das Log auf paste.ee - es wird dort einen Monat verbleiben"
+msgstr "Lade das Log auf den konfigurierten Textupload Dienst hoch."
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -3179,7 +3179,6 @@ msgid "Warnings"
 msgstr "Warnungen"
 
 #: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
-#, fuzzy
 msgctxt "MainWindow|"
 msgid "Abort"
 msgstr "Abbrechen"
@@ -5485,19 +5484,14 @@ msgid "Couldn't load or download the intermediary mappings version lists!"
 msgstr "Konnte die Intermediary Mappings-Versionsliste nicht herunterladen!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
-#, fuzzy
-#| msgid ""
-#| "PolyMC cannot download Minecraft or update instances unless you have at "
-#| "least one account added.\n"
-#| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
 msgid ""
 "PolyMC cannot download Minecraft or update instances unless you have at "
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"PolyMC kann Minecraft nicht herunterladen und keine Instanzen "
-"aktualisieren, solange du kein Konto hinzugefügt hast.\n"
+"PolyMC kann Minecraft nicht herunterladen und keine Instanzen aktualisieren, "
+"solange du kein Konto hinzugefügt hast.\n"
 "Bitte füge dein Mojang- oder Minecraft-Konto hinzu."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:424
