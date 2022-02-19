@@ -1,9 +1,16 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-02-11 12:36+0000\n"
+"Last-Translator: mateale1234 <matidht22@gmail.com>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/polymc/polymc/pl/>"
+"\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.11-dev\n"
 "X-Language: pl_PL\n"
 "X-Qt-Contexts: true\n"
 
@@ -1234,7 +1241,6 @@ msgid "Zip (*.zip)"
 msgstr "Archiwum ZIP (*.zip)"
 
 #: src/launcher/meta/Index.cpp:71
-#, fuzzy
 msgctxt "Index|"
 msgid "Name"
 msgstr "Nazwa"
@@ -1907,7 +1913,7 @@ msgstr "Uzyskano nieokreślony status sesji podczas logowania."
 #: src/launcher/LaunchController.cpp:171
 msgctxt "LaunchController|"
 msgid "Play demo?"
-msgstr ""
+msgstr "Uruchomić demo?"
 
 #: src/launcher/LaunchController.cpp:172
 msgctxt "LaunchController|"
@@ -1921,12 +1927,12 @@ msgstr ""
 #: src/launcher/LaunchController.cpp:174
 msgctxt "LaunchController|"
 msgid "Play Demo"
-msgstr ""
+msgstr "Uruchom demo"
 
 #: src/launcher/LaunchController.cpp:175
 msgctxt "LaunchController|"
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: src/launcher/LaunchController.cpp:185
 msgctxt "LaunchController|"
@@ -2198,7 +2204,7 @@ msgstr "Niestandardowe"
 #: src/launcher/ui/pages/global/LauncherPage.ui:307
 msgctxt "LauncherPage|"
 msgid "MultiMC"
-msgstr ""
+msgstr "MultiMc"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:328
 msgctxt "LauncherPage|"
@@ -2730,7 +2736,7 @@ msgstr "Dodaj konto Microsoft"
 #: src/launcher/ui/dialogs/MSALoginDialog.ui:56
 msgctxt "MSALoginDialog|"
 msgid "Open page and copy code"
-msgstr ""
+msgstr "Otwórz stronę i przekopiuj kod"
 
 #: src/launcher/ui/dialogs/MSALoginDialog.cpp:87
 #, qt-format
@@ -2991,12 +2997,12 @@ msgstr "Edytuj notatki dla wybranej instancji."
 #: src/launcher/ui/MainWindow.cpp:502
 msgctxt "MainWindow|"
 msgid "View Mods"
-msgstr ""
+msgstr "Zobacz Modyfikacje"
 
 #: src/launcher/ui/MainWindow.cpp:503
 msgctxt "MainWindow|"
 msgid "View the mods of this instance."
-msgstr ""
+msgstr "Zobacz modyfikacje w tej instacji."
 
 #: src/launcher/ui/MainWindow.cpp:509
 msgctxt "MainWindow|"
@@ -3146,12 +3152,12 @@ msgstr "Brak domyślnego konta"
 #: src/launcher/ui/MainWindow.cpp:1303
 msgctxt "MainWindow|"
 msgid "Warnings"
-msgstr ""
+msgstr "Uwagi"
 
 #: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
 msgctxt "MainWindow|"
 msgid "Abort"
-msgstr ""
+msgstr "Przerwij"
 
 #: src/launcher/ui/MainWindow.cpp:1358
 msgctxt "MainWindow|"
@@ -3160,32 +3166,35 @@ msgid ""
 "at least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
+"Launcher nie może pobrać Minecraft lub aktualizować instancji puki nie "
+"dodasz jednego konta.\n"
+"Proszę dodaj swoje konto Mojang lub Microsoft"
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Group name"
-msgstr ""
+msgstr "Nazwa grupy"
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Enter a new group name."
-msgstr ""
+msgstr "Wpisz nową nazwę grupy."
 
 #: src/launcher/ui/MainWindow.cpp:1514
 msgctxt "MainWindow|"
 msgid "Delete group"
-msgstr ""
+msgstr "Usuń grupę"
 
 #: src/launcher/ui/MainWindow.cpp:1514
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Are you sure you want to delete the group %1"
-msgstr ""
+msgstr "Czy jesteś pewien, że chcesz usunać grupe %1"
 
 #: src/launcher/ui/MainWindow.cpp:1632
 msgctxt "MainWindow|"
 msgid "CAREFUL!"
-msgstr ""
+msgstr "OSTROŻNIE!"
 
 #: src/launcher/ui/MainWindow.cpp:1633
 #, qt-format
@@ -3241,7 +3250,7 @@ msgstr ""
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Total playtime: %1"
-msgstr ""
+msgstr "Ogólny czas grania: %1"
 
 #: src/launcher/ui/MainWindow.cpp:1221 src/launcher/ui/MainWindow.cpp:1238
 #: src/launcher/ui/MainWindow.cpp:1296 src/launcher/ui/MainWindow.cpp:1345
@@ -3800,7 +3809,7 @@ msgstr "Wersja"
 #: src/launcher/ui/pages/global/PastePage.ui:39
 msgctxt "PastePage|"
 msgid "Pastebin URL"
-msgstr ""
+msgstr "Pastebin URL"
 
 #: src/launcher/ui/pages/global/PastePage.ui:57
 msgctxt "PastePage|"
@@ -3813,12 +3822,12 @@ msgstr ""
 #: src/launcher/ui/pages/global/PastePage.ui:74
 msgctxt "PastePage|"
 msgid "https://0x0.st"
-msgstr ""
+msgstr "https://0x0.st"
 
 #: src/launcher/ui/pages/global/PastePage.ui:79
 msgctxt "PastePage|"
 msgid "https://paste.polymc.org"
-msgstr ""
+msgstr "https://paste.polymc.org"
 
 #: src/launcher/ui/pages/global/PastePage.ui:87
 msgctxt "PastePage|"
@@ -3840,13 +3849,13 @@ msgstr "Przesyłanie logu"
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Uploading to %1"
-msgstr ""
+msgstr "Wyślij do %1"
 
 #: src/launcher/net/PasteUpload.cpp:58
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Network error: %1"
-msgstr ""
+msgstr "Błąd sieciowy: %1"
 
 #: src/launcher/net/PasteUpload.cpp:65
 #, qt-format

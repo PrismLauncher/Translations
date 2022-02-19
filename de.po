@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-02-17 23:36+0000\n"
+"Last-Translator: Sefa Eyeoglu <contact@scrumplex.net>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/polymc/polymc/de/>"
+"\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11-dev\n"
 "X-Language: de_DE\n"
 "X-Qt-Contexts: true\n"
 
@@ -401,6 +407,10 @@ msgid ""
 "\n"
 "Please update both your operating system and PolyMC."
 msgstr ""
+"Microsoft Konten funktionieren erst ab macOS 10.13 mit der neusten Version "
+"von PolyMC.\n"
+"\n"
+"Bitte aktualisiere macOS und PolyMC."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
@@ -1918,7 +1928,7 @@ msgstr ""
 #: src/launcher/LaunchController.cpp:171
 msgctxt "LaunchController|"
 msgid "Play demo?"
-msgstr ""
+msgstr "Demo spielen?"
 
 #: src/launcher/LaunchController.cpp:172
 msgctxt "LaunchController|"
@@ -1928,21 +1938,25 @@ msgid ""
 "\n"
 "Do you want to play the demo?"
 msgstr ""
+"Dieses Konto besitzt Minecraft nicht.\n"
+"Du musst erst das Spiel kaufen um es spielen zu können.\n"
+"\n"
+"Möchtest du die Demo starten?"
 
 #: src/launcher/LaunchController.cpp:174
 msgctxt "LaunchController|"
 msgid "Play Demo"
-msgstr ""
+msgstr "Demo spielen"
 
 #: src/launcher/LaunchController.cpp:175
 msgctxt "LaunchController|"
 msgid "Cancel"
-msgstr ""
+msgstr "Abbrechen"
 
 #: src/launcher/LaunchController.cpp:185
 msgctxt "LaunchController|"
 msgid "Launch cancelled - account does not own Minecraft."
-msgstr ""
+msgstr "Starten abgebrochen – Konto besitzt Minecraft nicht."
 
 #: src/launcher/LaunchController.cpp:201
 msgctxt "LaunchController|"
@@ -2207,9 +2221,10 @@ msgid "Custom"
 msgstr "Benutzerdefiniert"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:307
+#, fuzzy
 msgctxt "LauncherPage|"
 msgid "MultiMC"
-msgstr ""
+msgstr "MultiMC"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:328
 msgctxt "LauncherPage|"
@@ -2649,7 +2664,7 @@ msgstr "&Kopieren"
 #| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Lade das Log auf paste.ee - es wird dort einen Monat verbleiben"
+msgstr "Lade das Log auf den konfigurierten Textupload Dienst hoch."
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -2744,7 +2759,7 @@ msgstr "Microsoft-Konto hinzufügen"
 #: src/launcher/ui/dialogs/MSALoginDialog.ui:56
 msgctxt "MSALoginDialog|"
 msgid "Open page and copy code"
-msgstr ""
+msgstr "Seite öffnen und Code kopieren"
 
 #: src/launcher/ui/dialogs/MSALoginDialog.cpp:87
 #, qt-format
@@ -3006,12 +3021,12 @@ msgstr "Notizen für die ausgewählte Instanz bearbeiten."
 #: src/launcher/ui/MainWindow.cpp:502
 msgctxt "MainWindow|"
 msgid "View Mods"
-msgstr ""
+msgstr "Mods anzeigen"
 
 #: src/launcher/ui/MainWindow.cpp:503
 msgctxt "MainWindow|"
 msgid "View the mods of this instance."
-msgstr ""
+msgstr "Mods dieser Instanz anzeigen."
 
 #: src/launcher/ui/MainWindow.cpp:509
 msgctxt "MainWindow|"
@@ -3161,10 +3176,9 @@ msgstr "Kein Standard Konto"
 #: src/launcher/ui/MainWindow.cpp:1303
 msgctxt "MainWindow|"
 msgid "Warnings"
-msgstr ""
+msgstr "Warnungen"
 
 #: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
-#, fuzzy
 msgctxt "MainWindow|"
 msgid "Abort"
 msgstr "Abbrechen"
@@ -3176,32 +3190,35 @@ msgid ""
 "at least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
+"Minecraft kann nicht heruntergeladen oder upgedatet werden, solange kein "
+"Konto hinzugefügt wurde.\n"
+"Bitte füg ein Mojang- oder Minecraft-Konto hinzu."
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Group name"
-msgstr ""
+msgstr "Gruppenname"
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Enter a new group name."
-msgstr ""
+msgstr "Einen neuen Gruppennamen eingeben."
 
 #: src/launcher/ui/MainWindow.cpp:1514
 msgctxt "MainWindow|"
 msgid "Delete group"
-msgstr ""
+msgstr "Gruppe löschen"
 
 #: src/launcher/ui/MainWindow.cpp:1514
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Are you sure you want to delete the group %1"
-msgstr ""
+msgstr "Bist du dir sicher, dass du die Gruppe %1 löschen möchtest"
 
 #: src/launcher/ui/MainWindow.cpp:1632
 msgctxt "MainWindow|"
 msgid "CAREFUL!"
-msgstr ""
+msgstr "ACHTUNG!"
 
 #: src/launcher/ui/MainWindow.cpp:1633
 #, qt-format
@@ -3212,17 +3229,23 @@ msgid ""
 "\n"
 "Are you sure?"
 msgstr ""
+"Folgende Instanz wird gelöscht: %1\n"
+"Die Instanz wird unwiderruflich gelöscht.\n"
+"\n"
+"Bist du dir sicher?"
 
 #: src/launcher/ui/MainWindow.cpp:1838
 msgctxt "MainWindow|"
 msgid "Rename Instance"
-msgstr ""
+msgstr "Instanz umbenennen"
 
 #: src/launcher/ui/MainWindow.cpp:1851
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
 msgstr ""
+"Der Name deines Instanz-Ordners beinhaltet ein Ausrufezeichen (!). Dies kann "
+"Probleme mit Java verursachen!"
 
 #: src/launcher/ui/MainWindow.cpp:1853
 #, qt-format
@@ -3231,6 +3254,8 @@ msgid ""
 "You have now two options: <br/> - change the instance folder in the settings "
 "<br/> - move this installation of %1 to a different folder"
 msgstr ""
+"Du hast zwei Optionen:<br/> - den Instanz-Ordner in den Einstellungen ändern "
+"<br/> - die Installation von %1 in einen anderen Ordner verschieben"
 
 #: src/launcher/ui/MainWindow.cpp:1862
 msgctxt "MainWindow|"
@@ -3820,9 +3845,10 @@ msgid "Version"
 msgstr "Version"
 
 #: src/launcher/ui/pages/global/PastePage.ui:39
+#, fuzzy
 msgctxt "PastePage|"
 msgid "Pastebin URL"
-msgstr ""
+msgstr "Pastebin URL"
 
 #: src/launcher/ui/pages/global/PastePage.ui:57
 msgctxt "PastePage|"
@@ -5458,19 +5484,14 @@ msgid "Couldn't load or download the intermediary mappings version lists!"
 msgstr "Konnte die Intermediary Mappings-Versionsliste nicht herunterladen!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
-#, fuzzy
-#| msgid ""
-#| "PolyMC cannot download Minecraft or update instances unless you have at "
-#| "least one account added.\n"
-#| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
 msgid ""
 "PolyMC cannot download Minecraft or update instances unless you have at "
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"PolyMC kann Minecraft nicht herunterladen und keine Instanzen "
-"aktualisieren, solange du kein Konto hinzugefügt hast.\n"
+"PolyMC kann Minecraft nicht herunterladen und keine Instanzen aktualisieren, "
+"solange du kein Konto hinzugefügt hast.\n"
 "Bitte füge dein Mojang- oder Minecraft-Konto hinzu."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:424
