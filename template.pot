@@ -287,6 +287,10 @@ msgctxt "AccountList|"
 msgid "Name of the Minecraft profile associated with the account."
 msgstr ""
 
+msgctxt "AccountList|Account status"
+msgid "Disabled"
+msgstr ""
+
 msgctxt "AccountListPage|"
 msgid "Add Mojang"
 msgstr ""
@@ -421,6 +425,10 @@ msgstr ""
 #, qt-format
 msgctxt "AccountTask|"
 msgid "Unknown account task state: %1"
+msgstr ""
+
+msgctxt "AccountTask|"
+msgid "Client ID has changed. New session needs to be created."
 msgstr ""
 
 msgctxt "Application|"
@@ -1696,6 +1704,16 @@ msgid ""
 "Minecraft is frozen for some reason"
 msgstr ""
 
+msgctxt "LaunchController|"
+msgid ""
+"The launcher's client identification has changed. Please remove this account "
+"and add it again."
+msgstr ""
+
+msgctxt "LaunchController|"
+msgid "Client identification changed"
+msgstr ""
+
 #, qt-format
 msgctxt "LaunchTask|"
 msgid ""
@@ -2258,6 +2276,11 @@ msgstr ""
 
 msgctxt "MSAStep|"
 msgid "Microsoft user authentication completed with an unrecognized result."
+msgstr ""
+
+msgctxt "MSAStep|"
+msgid ""
+"Microsoft user authentication failed - client identification has changed."
 msgstr ""
 
 msgctxt "MainWindow|"
