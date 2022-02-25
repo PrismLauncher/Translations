@@ -2,7 +2,7 @@ name: Update translations
 
 on:
   schedule:
-    - cron:  '30 5 * * *'
+    - cron:  '0 */12 * * *'  # https://crontab.guru/#0_*/12_*_*_*
   workflow_dispatch: # allow manual trigger
 
 jobs:
