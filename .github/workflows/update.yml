@@ -3,6 +3,7 @@ name: Update translations
 on:
   schedule:
     - cron:  '30 5 * * *'
+  workflow_dispatch: # allow manual trigger
 
 jobs:
   build:
