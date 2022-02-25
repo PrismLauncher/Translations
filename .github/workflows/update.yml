@@ -1,0 +1,34 @@
+name: Update translations
+
+on:
+  schedule:
+    - cron:  '30 5 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y qttools5-dev-tools gettext
+
+      - name: Update translations
+        run: |
+          git clone https://github.com/PolyMC/PolyMC.git src
+          ./update.sh
+
+      - name: Commit files
+        run: |
+          git config --local user.email "gitbot@scrumplex.net"
+          git config --local user.name "Translations Bot"
+          git commit -m "Update source strings" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
