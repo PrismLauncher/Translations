@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-17 23:36+0000\n"
-"Last-Translator: Sefa Eyeoglu <contact@scrumplex.net>\n"
+"PO-Revision-Date: 2022-02-27 19:54+0000\n"
+"Last-Translator: Daniel Schemp <dschemp@mailbox.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/polymc/polymc/de/>"
 "\n"
 "Language: de\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.11.1-dev\n"
 "X-Language: de_DE\n"
 "X-Qt-Contexts: true\n"
 
@@ -144,9 +144,9 @@ msgid ""
 "by allowing you to have multiple instances of Minecraft at "
 "once.</p></body></html>"
 msgstr ""
-"<html><head/><body><p>Ein alternativer Minecraft Launcher, der das "
-"Management vereinfacht und es dir erlaubt gleichzeitig mehrere "
-"Installationen von Minecraft zu verwalten.</p></body></html>"
+"&lt;html&gt;&lt;body&gt;<p>Ein alternativer Minecraft Launcher, der das "
+"Management vereinfacht und es dir erlaubt, gleichzeitig mehrere "
+"Installationen von Minecraft zu verwalten.</p>&lt;/body&gt;&lt;/html&gt;"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:157
 msgctxt "AboutDialog|"
@@ -722,17 +722,17 @@ msgid ""
 "launch</li></ul><p>Wrapper command allows launching using an extra wrapper "
 "program (like 'optirun' on Linux)</p></body></html>"
 msgstr ""
-"<html><head/><body><p>Vor-Start-Befehle werden ausgeführt, bevor die Instanz "
-"startet, Nach-Beenden-Befehle nachdem die Instanz beendet wurde.</p><p>Beide "
-"werden im Hauptverzeichnis vom Launcher mit zusätzlichen Umgebungsvariablen "
-"gestartet:</p><ul><li>$INST_NAME - Name der Instanz</li><li>$INST_ID - ID "
-"der Instanz (der Name des Instanzordners)</li><li>$INST_DIR - Absoluter Pfad "
-"der Distanz</li><li>$INST_MC_DIR - Absoluter Pfad von "
-"Minecraft</li><li>$INST_JAVA - Für den Start genutzte "
-"Java-Instanz</li><li>$INST_JAVA_ARGS - Für den Start genutzte "
-"Konsolen-Paramter</li></ul><p>Wrapper-Befehle erlauben es, Java mittels "
+"&lt;html&gt;&lt;body&gt;<p>Vor-Start-Befehle werden ausgeführt, bevor die "
+"Instanz startet; Nach-Beenden-Befehle, nachdem die Instanz beendet wurde.</"
+"p><p>Beide werden im Hauptverzeichnis vom Launcher mit zusätzlichen "
+"Umgebungsvariablen gestartet:</p><ul><li>$INST_NAME - Name der "
+"Instanz</li><li>$INST_ID - ID der Instanz (der Name des "
+"Instanzordners)</li><li>$INST_DIR - Absoluter Pfad der Distanz</li><li>$"
+"INST_MC_DIR - Absoluter Pfad von Minecraft</li><li>$INST_JAVA - Für den "
+"Start genutzte Java-Instanz</li><li>$INST_JAVA_ARGS - Für den Start genutzte "
+"Konsolen-Parameter</li></ul><p>Wrapper-Befehle erlauben es, Java mittels "
 "eines Wrapper-Programms auszuführen (wie z.B. 'optirun' unter "
-"Linux)</p></body></html>"
+"Linux)</p>&lt;/body&gt;&lt;/html&gt;"
 
 #: src/launcher/ui/pages/global/CustomCommandsPage.h:35
 msgctxt "CustomCommandsPage|"
@@ -1246,7 +1246,6 @@ msgid "Zip (*.zip)"
 msgstr "ZIP (*.zip)"
 
 #: src/launcher/meta/Index.cpp:71
-#, fuzzy
 msgctxt "Index|"
 msgid "Name"
 msgstr "Name"
@@ -1436,7 +1435,7 @@ msgstr "Globale Einstellungen öffnen"
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:32
 msgctxt "InstanceSettingsPage|"
 msgid "The settings here are overrides for global settings."
-msgstr "Diese Einstellungen überschreiben die globalen Einstellungen"
+msgstr "Diese Einstellungen überschreiben die globalen Einstellungen."
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:55
 msgctxt "InstanceSettingsPage|"
@@ -1727,7 +1726,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/JavaPage.ui:141
 msgctxt "JavaPage|"
 msgid "Java Runtime"
-msgstr "Java Runtime"
+msgstr "Java-Laufzeitumgebung"
 
 #: src/launcher/ui/pages/global/JavaPage.ui:153
 msgctxt "JavaPage|"
@@ -1840,7 +1839,7 @@ msgid ""
 msgstr ""
 "Du hast keine funktionierende Java-Installation ausgewählt oder sie ist "
 "verloren gegangen.\n"
-"Wähle bitte eine der folgenden aus oder wähle eine ausführbare Java Datei."
+"Wähle bitte eine der folgenden aus oder wähle eine ausführbare Java-Datei."
 
 #: src/launcher/ui/pages/global/LanguagePage.h:35
 msgctxt "LanguagePage|"
@@ -2070,12 +2069,7 @@ msgstr ""
 "wenn Minecraft eingefroren ist"
 
 #: src/launcher/launch/LaunchTask.cpp:215
-#, fuzzy, qt-format
-#| msgid ""
-#| "PolyMC stopped watching the game log because the log length surpassed %1 "
-#| "lines.\n"
-#| "You may have to fix your mods because the game is still logging to files "
-#| "and likely wasting harddrive space at an alarming rate!"
+#, qt-format
 msgctxt "LaunchTask|"
 msgid ""
 "PolyMC stopped watching the game log because the log length surpassed %1 "
@@ -2123,7 +2117,7 @@ msgstr "Beim Start nach Updates suchen?"
 #: src/launcher/ui/pages/global/LauncherPage.ui:64
 msgctxt "LauncherPage|"
 msgid "Up&date Channel:"
-msgstr "Up&date Kanal:"
+msgstr "Up&amp;date-Kanal:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:81
 msgctxt "LauncherPage|"
@@ -2143,7 +2137,7 @@ msgstr "I&nstanzen:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:120
 msgctxt "LauncherPage|"
 msgid "&Mods:"
-msgstr "&Mods:"
+msgstr "&amp;Mods:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:143
 msgctxt "LauncherPage|"
@@ -2221,7 +2215,6 @@ msgid "Custom"
 msgstr "Benutzerdefiniert"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:307
-#, fuzzy
 msgctxt "LauncherPage|"
 msgid "MultiMC"
 msgstr "MultiMC"
@@ -2660,11 +2653,9 @@ msgid "&Copy"
 msgstr "&Kopieren"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:103
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Lade das Log auf den konfigurierten Textupload Dienst hoch."
+msgstr "Lade das Log auf den konfigurierten Textupload-Dienst hoch."
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -3266,23 +3257,26 @@ msgid ""
 msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1869
+#, fuzzy
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
 msgstr ""
+"Dein Instanz-Ordner enthält 'Rar$' - das bedeutet, dass du die Archivdatei "
+"nicht ausgepackt hast!"
 
 #: src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
-msgstr ""
+msgstr "Deine Instanz befindet sich in einem temporären Ordner: \"%1\"!"
 
 #: src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Total playtime: %1"
-msgstr ""
+msgstr "Gesamte Spielzeit: %1"
 
 #: src/launcher/ui/MainWindow.cpp:1221 src/launcher/ui/MainWindow.cpp:1238
 #: src/launcher/ui/MainWindow.cpp:1296 src/launcher/ui/MainWindow.cpp:1345
@@ -3310,27 +3304,27 @@ msgstr "Prüfe auf Migrations-Verfügbarkeit."
 #: src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp:44
 msgctxt "MigrationEligibilityStep|"
 msgid "Got migration flags"
-msgstr "Migrations Merkmale erhalten"
+msgstr "Migrationsmerkmale erhalten"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:703
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
-msgstr "<SITZUNGS ID>"
+msgstr "&lt;SITZUNGS-ID&gt;"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:705
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
-msgstr "<ZUGANGS TOKEN>"
+msgstr "&lt;ZUGANGS-TOKEN&gt;"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:707
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
-msgstr "<CLIENT TOKEN>"
+msgstr "&lt;CLIENT-TOKEN&gt;"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:709
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
-msgstr "<PROFIL ID>"
+msgstr "&lt;PROFIL-ID&gt;"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:781
 msgctxt "MinecraftInstance|"
@@ -3358,7 +3352,7 @@ msgstr ", gesamt gespielt für %1"
 #: src/launcher/minecraft/MinecraftInstance.cpp:798
 msgctxt "MinecraftInstance|"
 msgid ", has crashed."
-msgstr ", ist abgestürtzt."
+msgstr ", ist abgestürzt."
 
 #: src/launcher/ui/pages/global/MinecraftPage.ui:48
 msgctxt "MinecraftPage|"
@@ -3373,7 +3367,7 @@ msgstr "Minecraft maximiert starten?"
 #: src/launcher/ui/pages/global/MinecraftPage.ui:63
 msgctxt "MinecraftPage|"
 msgid "Window hei&ght:"
-msgstr "Fenster&höhe:"
+msgstr "Fenster&amp;höhe:"
 
 #: src/launcher/ui/pages/global/MinecraftPage.ui:73
 msgctxt "MinecraftPage|"
@@ -3433,12 +3427,12 @@ msgstr "Konto hat kein Minecraft-Profil."
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:69
 msgctxt "MinecraftProfileStep|"
 msgid "Minecraft Java profile acquisition failed."
-msgstr "Laden des Minecraft Java Profils ist fehlgeschlagen."
+msgstr "Laden des Minecraft Java-Profils ist fehlgeschlagen."
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:77
 msgctxt "MinecraftProfileStep|"
 msgid "Minecraft Java profile response could not be parsed"
-msgstr "Minecraft Java Profil Antwort konnte nicht verarbeitet werden"
+msgstr "Minecraft Java-Profil-Antwort konnte nicht verarbeitet werden"
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:89
 msgctxt "MinecraftProfileStep|"
@@ -3727,11 +3721,9 @@ msgid "Delete"
 msgstr "Löschen"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:87
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr "Hochladen des Logs auf paste.ee - es wird dort einen Monat verbleiben"
+msgstr "Lade das Log auf den konfigurierten Textupload-Dienst hoch."
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -3888,13 +3880,13 @@ msgstr "Log hochladen"
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Uploading to %1"
-msgstr ""
+msgstr "Lade auf %1 hoch"
 
 #: src/launcher/net/PasteUpload.cpp:58
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Network error: %1"
-msgstr ""
+msgstr "Netzwerk-Fehler: %1"
 
 #: src/launcher/net/PasteUpload.cpp:65
 #, qt-format
@@ -4209,14 +4201,13 @@ msgstr ""
 #: src/launcher/ui/widgets/JavaSettingsWidget.cpp:290
 msgctxt "QObject|"
 msgid "The specified java binary didn't start properly.<br />"
-msgstr "Die spezifizierte Java-Binary ist nicht richtig gestartet.<br />"
+msgstr "Die spezifizierte Java-Binärdatei ist nicht richtig gestartet.<br>"
 
 #: src/launcher/ui/widgets/JavaSettingsWidget.cpp:302
 msgctxt "QObject|"
 msgid "The specified java binary returned unexpected results:<br />"
 msgstr ""
-"Die angegebene Java-Binärdatei hat unerwartete Ergebnisse zurückgegeben:<br "
-"/>"
+"Die angegebene Java-Binärdatei hat unerwartete Ergebnisse zurückgegeben:<br>"
 
 #: src/launcher/ui/widgets/JavaSettingsWidget.cpp:313
 #, qt-format
@@ -4482,8 +4473,8 @@ msgctxt "QObject|"
 msgid ""
 "The specified java binary didn't work with the arguments you provided:<br />"
 msgstr ""
-"Die spezifizierte Java-Binary hat nicht mit den Argumenten, die du angegeben "
-"hast, funktioniert:<br />"
+"Die spezifizierte Java-Binärdatei hat nicht mit den Argumenten, die du "
+"angegeben hast, funktioniert:<br>"
 
 #: src/launcher/JavaCommon.cpp:51
 msgctxt "QObject|"
@@ -4491,8 +4482,9 @@ msgid ""
 "The specified java binary didn't work.<br />You should use the auto-detect "
 "feature, or set the path to the java executable.<br />"
 msgstr ""
-"Die ausgewählte Java-Binary hat nicht funktioniert.<br />Du solltest die "
-"Auto-Erkennung benutzen oder den Pfad zur Java-Binary manuell angeben.<br />"
+"Die ausgewählte Java-Binärdatei hat nicht funktioniert.<br>Du solltest die "
+"Auto-Erkennung benutzen oder den Pfad zur Java-Binärdatei manuell "
+"angeben.<br>"
 
 #: src/launcher/meta/BaseEntity.cpp:120
 #, qt-format
@@ -5099,11 +5091,9 @@ msgstr ""
 "\n"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:14
-#, fuzzy
-#| msgid "PolyMC Update"
 msgctxt "UpdateDialog|"
 msgid "PolyMC Update"
-msgstr "PolyMC Update"
+msgstr "PolyMC-Update"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:61
 msgctxt "UpdateDialog|"
@@ -5979,7 +5969,7 @@ msgstr "Xbox Benutzerauthentifizierungsantwort konnte nicht verstanden werden."
 #: src/launcher/minecraft/auth/steps/XboxUserStep.cpp:67
 msgctxt "XboxUserStep|"
 msgid "Got Xbox user token"
-msgstr "Xbox Benutzertoken erhalten"
+msgstr "Xbox-Benutzertoken erhalten"
 
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:188
 msgctxt "Yggdrasil|"
@@ -5992,7 +5982,7 @@ msgid ""
 "Authentication server attempted to change the client token. This isn't "
 "supported."
 msgstr ""
-"Authentifizierungsserver hat versucht den Client-Token zu ändern. Dies wird "
+"Authentifizierungsserver hat versucht, den Client-Token zu ändern. Dies wird "
 "nicht unterstützt."
 
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:204
@@ -6020,12 +6010,12 @@ msgid ""
 "Minecraft not starting.</li><li>Possibly something else. Check the log file "
 "for details</li></ul>"
 msgstr ""
-"<b>SSL-Handshake fehlgeschlagen.</b><br/>Es kann mehrere Erklärungen "
-"geben:<br/><ul><li>Du benutzt Windows und musst deine Stammzertifikate "
-"aktualisieren, bitte installiere alle ausstehenden Updates.</li><li>Ein "
+"<b>SSL-Handshake fehlgeschlagen.</b><br>Es kann mehrere Erklärungen geben:"
+"<br><ul><li>Du benutzt Windows und musst deine Stammzertifikate "
+"aktualisieren. Bitte installiere alle ausstehenden Updates.</li><li>Ein "
 "Gerät in deinem Netzwerk mischt sich in den SSL-Verkehr ein. In diesem Fall "
-"hast du größere Probleme, als dass Minecraft nicht gestartet werden "
-"kann.</li><li>Möglicherweise etwas anderes. Prüfe die PolyMC Log-Datei für "
+"hast du größere Probleme, als dass Minecraft nicht gestartet werden kann.</"
+"li><li>Möglicherweise etwas anderes. Prüfe die PolyMC Log-Datei für "
 "Details</li></ul>"
 
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:252
@@ -6071,7 +6061,7 @@ msgstr "Ein unbekannter Yggdrasil-Fehler ist aufgetreten."
 #: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:17
 msgctxt "YggdrasilStep|"
 msgid "Logging in with Mojang account."
-msgstr "Mit Mojang Konto anmelden."
+msgstr "Mit Mojang-Konto anmelden."
 
 #: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:34
 msgctxt "YggdrasilStep|"
@@ -6081,7 +6071,7 @@ msgstr "Angemeldet mit Mojang"
 #: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:43
 msgctxt "YggdrasilStep|"
 msgid "Mojang user authentication failed."
-msgstr "Mojang Benutzerauthentifizierung fehlgeschlagen."
+msgstr "Mojang-Benutzerauthentifizierung fehlgeschlagen."
 
 #: src/launcher/minecraft/auth/steps/YggdrasilStep.cpp:48
 msgctxt "YggdrasilStep|"
