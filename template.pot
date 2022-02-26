@@ -874,6 +874,22 @@ msgctxt "FlameModPage|"
 msgid "No Valid Version found!"
 msgstr ""
 
+msgctxt "FlameModPage|"
+msgid "Select mod for download"
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Loading versions..."
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Cannot select invalid version :("
+msgstr ""
+
+msgctxt "FlameModPage|"
+msgid "Deselect mod for download"
+msgstr ""
+
 msgctxt "FlamePage|"
 msgid "Version selected:"
 msgstr ""
@@ -2759,6 +2775,18 @@ msgctxt "ModDownloadDialog|"
 msgid "Download mods"
 msgstr ""
 
+msgctxt "ModDownloadDialog|"
+msgid "You're about to download the following mods:"
+msgstr ""
+
+msgctxt "ModDownloadDialog|"
+msgid "File name: "
+msgstr ""
+
+msgctxt "ModDownloadDialog|"
+msgid "Confirm mods to download"
+msgstr ""
+
 #, qt-format
 msgctxt "ModDownloadTask|"
 msgid ""
@@ -2983,6 +3011,22 @@ msgstr ""
 
 msgctxt "ModrinthPage|"
 msgid "No Valid Version found !"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Select mod for download"
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Loading versions..."
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Cannot select invalid version :("
+msgstr ""
+
+msgctxt "ModrinthPage|"
+msgid "Deselect mod for download"
 msgstr ""
 
 #, qt-format
