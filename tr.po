@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-03-04 21:56+0000\n"
+"Last-Translator: Mustafa Çalışkan <muscaln@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/polymc/polymc/tr/"
+">\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: tr_TR\n"
 "X-Qt-Contexts: true\n"
 
@@ -400,6 +406,10 @@ msgid ""
 "\n"
 "Please update both your operating system and PolyMC."
 msgstr ""
+"Microsoft hesabı sadece en güncel PolyMC ve macOS sürüm 10.13 ve üzerinde "
+"kullanılabilir.\n"
+"\n"
+"Lütfen sisteminizi ve PolyMC'yi güncelleyin."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
@@ -1242,7 +1252,6 @@ msgid "Zip (*.zip)"
 msgstr "Zip (*.zip)"
 
 #: src/launcher/meta/Index.cpp:71
-#, fuzzy
 msgctxt "Index|"
 msgid "Name"
 msgstr "İsim"
@@ -1913,7 +1922,7 @@ msgstr "Giriş sırasında belirsiz oturum durumu görüldü."
 #: src/launcher/LaunchController.cpp:171
 msgctxt "LaunchController|"
 msgid "Play demo?"
-msgstr ""
+msgstr "Deneme sürümü çalıştırılsın mı?"
 
 #: src/launcher/LaunchController.cpp:172
 msgctxt "LaunchController|"
@@ -1923,21 +1932,25 @@ msgid ""
 "\n"
 "Do you want to play the demo?"
 msgstr ""
+"Bu hesapta Minecraft mevcut değil.\n"
+"Oyunu oynamak için onu satın almış olmalısınız.\n"
+"\n"
+"Deneme sürümünü oynamak ister misiniz?"
 
 #: src/launcher/LaunchController.cpp:174
 msgctxt "LaunchController|"
 msgid "Play Demo"
-msgstr ""
+msgstr "Deneme Sürümünü Oyna"
 
 #: src/launcher/LaunchController.cpp:175
 msgctxt "LaunchController|"
 msgid "Cancel"
-msgstr ""
+msgstr "İptal"
 
 #: src/launcher/LaunchController.cpp:185
 msgctxt "LaunchController|"
 msgid "Launch cancelled - account does not own Minecraft."
-msgstr ""
+msgstr "Başlatma iptal edildi - hesapta Minecraft mevcut değil."
 
 #: src/launcher/LaunchController.cpp:201
 msgctxt "LaunchController|"
@@ -2049,12 +2062,7 @@ msgstr ""
 "bir sebepten dolayı donduğunda kullanılmalıdır"
 
 #: src/launcher/launch/LaunchTask.cpp:215
-#, fuzzy, qt-format
-#| msgid ""
-#| "PolyMC stopped watching the game log because the log length surpassed %1 "
-#| "lines.\n"
-#| "You may have to fix your mods because the game is still logging to files "
-#| "and likely wasting harddrive space at an alarming rate!"
+#, qt-format
 msgctxt "LaunchTask|"
 msgid ""
 "PolyMC stopped watching the game log because the log length surpassed %1 "
@@ -2062,10 +2070,10 @@ msgid ""
 "You may have to fix your mods because the game is still logging to files and "
 "likely wasting harddrive space at an alarming rate!"
 msgstr ""
-"PolyMC, oyunun sistem kaydınız izlemeyi durdurdu çünkü sistem kaydının "
-"satır sayısı %1 satırını aştı. Modlarınızı düzeltmeniz gerekebilir çünkü "
-"oyun hala sistem kaydı yapmakta ve büyük ihtimalle disk alanını endişe "
-"verici derecede israf ediyor!"
+"PolyMC, oyunun sistem kaydınız izlemeyi durdurdu çünkü sistem kaydının satır "
+"sayısı %1 satırını aştı.\n"
+"Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala sistem kaydı yapmakta ve "
+"büyük ihtimalle disk alanını endişe verici derecede israf ediyor!"
 
 #: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:16
 msgctxt "LauncherLoginStep|"
@@ -2201,7 +2209,7 @@ msgstr "Özel"
 #: src/launcher/ui/pages/global/LauncherPage.ui:307
 msgctxt "LauncherPage|"
 msgid "MultiMC"
-msgstr ""
+msgstr "MultiMC"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:328
 msgctxt "LauncherPage|"
@@ -2635,12 +2643,9 @@ msgid "&Copy"
 msgstr "&Kopyala"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:103
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr ""
-"Sistem kayıtları paste.ee'ye yükle - bir ay boyunca çevrimiçi kalacaktır"
+msgstr "Kayıt dosyalarını ayarlarda eklenmiş kopyalama servisine yükle"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -2735,7 +2740,7 @@ msgstr "Microsoft Hesabı Ekle"
 #: src/launcher/ui/dialogs/MSALoginDialog.ui:56
 msgctxt "MSALoginDialog|"
 msgid "Open page and copy code"
-msgstr ""
+msgstr "Sayfayı aç ve kodu kopyala"
 
 #: src/launcher/ui/dialogs/MSALoginDialog.cpp:87
 #, qt-format
@@ -2993,12 +2998,12 @@ msgstr "Seçili profilin notlarını düzenle."
 #: src/launcher/ui/MainWindow.cpp:502
 msgctxt "MainWindow|"
 msgid "View Mods"
-msgstr ""
+msgstr "Modları Görüntüle"
 
 #: src/launcher/ui/MainWindow.cpp:503
 msgctxt "MainWindow|"
 msgid "View the mods of this instance."
-msgstr ""
+msgstr "Bu kurulumdaki modları görüntüle."
 
 #: src/launcher/ui/MainWindow.cpp:509
 msgctxt "MainWindow|"
@@ -3146,10 +3151,9 @@ msgstr "Varsayılan Hesap Yok"
 #: src/launcher/ui/MainWindow.cpp:1303
 msgctxt "MainWindow|"
 msgid "Warnings"
-msgstr ""
+msgstr "Uyarılar"
 
 #: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
-#, fuzzy
 msgctxt "MainWindow|"
 msgid "Abort"
 msgstr "İptal Et"
@@ -3161,32 +3165,35 @@ msgid ""
 "at least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
+"Bu başlatıcı, hesap eklemeden Minecraft dosyalarını indiremez veya "
+"güncelleyemez.\n"
+"Lütfen Mojang veya Minecraft hesabınızı ekleyin."
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Group name"
-msgstr ""
+msgstr "Grup adı"
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Enter a new group name."
-msgstr ""
+msgstr "Yeni grup adı girin."
 
 #: src/launcher/ui/MainWindow.cpp:1514
 msgctxt "MainWindow|"
 msgid "Delete group"
-msgstr ""
+msgstr "Grubu sil"
 
 #: src/launcher/ui/MainWindow.cpp:1514
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Are you sure you want to delete the group %1"
-msgstr ""
+msgstr "%1 adlı grubu silmek istediğine emin misin"
 
 #: src/launcher/ui/MainWindow.cpp:1632
 msgctxt "MainWindow|"
 msgid "CAREFUL!"
-msgstr ""
+msgstr "DİKKAT!"
 
 #: src/launcher/ui/MainWindow.cpp:1633
 #, qt-format
@@ -3197,17 +3204,23 @@ msgid ""
 "\n"
 "Are you sure?"
 msgstr ""
+"Silinecek: %1\n"
+"Bu kurulum kalıcı olarak silinecek.\n"
+"\n"
+"Emin misiniz?"
 
 #: src/launcher/ui/MainWindow.cpp:1838
 msgctxt "MainWindow|"
 msgid "Rename Instance"
-msgstr ""
+msgstr "Kurulumu Yeniden Adlandır"
 
 #: src/launcher/ui/MainWindow.cpp:1851
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
 msgstr ""
+"Kurulum klasörünüz '!' karakterini içeriyor ve Java bu karakter ile ilgili "
+"problemleriyle meşhurdur!"
 
 #: src/launcher/ui/MainWindow.cpp:1853
 #, qt-format
@@ -3216,6 +3229,8 @@ msgid ""
 "You have now two options: <br/> - change the instance folder in the settings "
 "<br/> - move this installation of %1 to a different folder"
 msgstr ""
+"İki seçeneğiniz var: <br> - ayarlardan kurulum klasörünü değiştir <br> - %1 "
+"kurulumunu başka bir klasöre taşı"
 
 #: src/launcher/ui/MainWindow.cpp:1862
 msgctxt "MainWindow|"
@@ -3224,6 +3239,9 @@ msgid ""
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
+"Bir sorun var: <br> - Bu başlatıcı muhtemelen işletim sistemi tarafından "
+"hiçbir uyarı yapılmadan silinecek <br> - başlatıcıyı kapatın ve geçici "
+"klasörler haricinde bir yere çıkartın"
 
 #: src/launcher/ui/MainWindow.cpp:1869
 msgctxt "MainWindow|"
@@ -3231,18 +3249,20 @@ msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
 msgstr ""
+"Kurulum klasörünüz 'Rar$' içeriyor - bu başlatıcı arşivini açmadığınız "
+"anlamına geliyor!"
 
 #: src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
-msgstr ""
+msgstr "Kurulum klasörünüz geçici bir klasörün içinde: '%1'!"
 
 #: src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Total playtime: %1"
-msgstr ""
+msgstr "Toplam Oynanan Süre: %1"
 
 #: src/launcher/ui/MainWindow.cpp:1221 src/launcher/ui/MainWindow.cpp:1238
 #: src/launcher/ui/MainWindow.cpp:1296 src/launcher/ui/MainWindow.cpp:1345
@@ -3685,12 +3705,9 @@ msgid "Delete"
 msgstr "Sil"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:87
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr ""
-"Sistem kayıtları paste.ee'ye yükle - bir ay boyunca çevrimiçi kalacaktır"
+msgstr "Kayıt dosyalarını ayarlarda tanımlı kopyalama servisine yükle."
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -3846,19 +3863,19 @@ msgstr "Sistem Kaydı Yüklemesi"
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Uploading to %1"
-msgstr ""
+msgstr "%1'e yükleniyor"
 
 #: src/launcher/net/PasteUpload.cpp:58
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Network error: %1"
-msgstr ""
+msgstr "Ağ hatası: %1"
 
 #: src/launcher/net/PasteUpload.cpp:65
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Error: %1 returned unexpected status code %2 %3"
-msgstr ""
+msgstr "Hata: %1 bilinmeyen bir durum kodu gönderdi %2 %3"
 
 #: src/launcher/launch/steps/PostLaunchCommand.cpp:31
 #, qt-format
@@ -5037,11 +5054,9 @@ msgstr ""
 "\n"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:14
-#, fuzzy
-#| msgid "PolyMC Update"
 msgctxt "UpdateDialog|"
 msgid "PolyMC Update"
-msgstr "PolyMC Güncelleme"
+msgstr "PolyMC Güncellemesi"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:61
 msgctxt "UpdateDialog|"
@@ -5420,19 +5435,14 @@ msgid "Couldn't load or download the intermediary mappings version lists!"
 msgstr "Intermediary Mappings sürüm listesi yüklenemedi veya indirilemedi!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
-#, fuzzy
-#| msgid ""
-#| "PolyMC cannot download Minecraft or update instances unless you have at "
-#| "least one account added.\n"
-#| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
 msgid ""
 "PolyMC cannot download Minecraft or update instances unless you have at "
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"En az bir hesap ekli olmadıkça PolyMC, Minecraft'ı indiremez veya "
-"profilleri güncelleyemez.\n"
+"En az bir hesap ekli olmadıkça PolyMC, Minecraft'ı indiremez veya profilleri "
+"güncelleyemez.\n"
 "Lütfen Mojang veya Minecraft hesabınızı ekleyin."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:424
