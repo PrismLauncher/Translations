@@ -1,9 +1,16 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-03-06 00:45+0000\n"
+"Last-Translator: Blyat <www.edav@gmail.com>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/polymc/polymc/ru/"
+">\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: ru_RU\n"
 "X-Qt-Contexts: true\n"
 
@@ -1232,7 +1239,7 @@ msgstr "Zip-архив (*.zip)"
 #: src/launcher/meta/Index.cpp:71
 msgctxt "Index|"
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
@@ -1900,7 +1907,7 @@ msgstr "Получен неизвестный статус сессии во в�
 #: src/launcher/LaunchController.cpp:171
 msgctxt "LaunchController|"
 msgid "Play demo?"
-msgstr ""
+msgstr "Сыграть в демо?"
 
 #: src/launcher/LaunchController.cpp:172
 msgctxt "LaunchController|"
@@ -1910,21 +1917,25 @@ msgid ""
 "\n"
 "Do you want to play the demo?"
 msgstr ""
+"Эта учётноая запись не владеет Minecraft.\n"
+"Чтобы поиграть, вам нужно сначало купить игру.\n"
+"\n"
+"Хотите сыграть в демо?"
 
 #: src/launcher/LaunchController.cpp:174
 msgctxt "LaunchController|"
 msgid "Play Demo"
-msgstr ""
+msgstr "Сыграть в демо"
 
 #: src/launcher/LaunchController.cpp:175
 msgctxt "LaunchController|"
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #: src/launcher/LaunchController.cpp:185
 msgctxt "LaunchController|"
 msgid "Launch cancelled - account does not own Minecraft."
-msgstr ""
+msgstr "Запуск отменён - учётная запись на владеет Minecraft."
 
 #: src/launcher/LaunchController.cpp:201
 msgctxt "LaunchController|"
@@ -2039,12 +2050,7 @@ msgstr ""
 "случае зависания клиента Minecraft по какой-либо причине"
 
 #: src/launcher/launch/LaunchTask.cpp:215
-#, fuzzy, qt-format
-#| msgid ""
-#| "PolyMC stopped watching the game log because the log length surpassed %1 "
-#| "lines.\n"
-#| "You may have to fix your mods because the game is still logging to files "
-#| "and likely wasting harddrive space at an alarming rate!"
+#, qt-format
 msgctxt "LaunchTask|"
 msgid ""
 "PolyMC stopped watching the game log because the log length surpassed %1 "
@@ -2192,7 +2198,7 @@ msgstr "Свои"
 #: src/launcher/ui/pages/global/LauncherPage.ui:307
 msgctxt "LauncherPage|"
 msgid "MultiMC"
-msgstr ""
+msgstr "MultiMC"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:328
 msgctxt "LauncherPage|"
@@ -2625,11 +2631,9 @@ msgid "&Copy"
 msgstr "&Копировать"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:103
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Загрузить журнал на сайт paste.ee - он будет хранится в течение месяца"
+msgstr "Загрузить журнал на сайт указанный в настройках"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -2724,7 +2728,7 @@ msgstr "Добавление учетной записи Microsoft"
 #: src/launcher/ui/dialogs/MSALoginDialog.ui:56
 msgctxt "MSALoginDialog|"
 msgid "Open page and copy code"
-msgstr ""
+msgstr "Открыть страницу и скопировать код"
 
 #: src/launcher/ui/dialogs/MSALoginDialog.cpp:87
 #, qt-format
@@ -2984,12 +2988,12 @@ msgstr "Редактировать заметки для выбранной сб
 #: src/launcher/ui/MainWindow.cpp:502
 msgctxt "MainWindow|"
 msgid "View Mods"
-msgstr ""
+msgstr "Посмотреть моды"
 
 #: src/launcher/ui/MainWindow.cpp:503
 msgctxt "MainWindow|"
 msgid "View the mods of this instance."
-msgstr ""
+msgstr "Посмотреть моды этого инстенса."
 
 #: src/launcher/ui/MainWindow.cpp:509
 msgctxt "MainWindow|"
@@ -3139,7 +3143,7 @@ msgstr "Нет учётной записи по умолчанию"
 #: src/launcher/ui/MainWindow.cpp:1303
 msgctxt "MainWindow|"
 msgid "Warnings"
-msgstr ""
+msgstr "Предупреждения"
 
 #: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
 #, fuzzy
