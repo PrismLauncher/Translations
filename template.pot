@@ -2847,10 +2847,6 @@ msgid "&Add"
 msgstr ""
 
 msgctxt "ModFolderPage|"
-msgid "Add mods"
-msgstr ""
-
-msgctxt "ModFolderPage|"
 msgid "&Remove"
 msgstr ""
 
@@ -2898,10 +2894,6 @@ msgid "Select %1"
 msgstr ""
 
 msgctxt "ModFolderPage|"
-msgid "Install Mods"
-msgstr ""
-
-msgctxt "ModFolderPage|"
 msgid "Error"
 msgstr ""
 
@@ -2915,6 +2907,18 @@ msgstr ""
 
 msgctxt "ModFolderPage|"
 msgid "Abort"
+msgstr ""
+
+msgctxt "ModFolderPage|"
+msgid "Add"
+msgstr ""
+
+msgctxt "ModFolderPage|"
+msgid "Download mods"
+msgstr ""
+
+msgctxt "ModFolderPage|"
+msgid "Download mods from online mod platforms"
 msgstr ""
 
 msgctxt "ModMinecraftJar|"
