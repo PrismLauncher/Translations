@@ -1845,10 +1845,6 @@ msgid "Custom"
 msgstr ""
 
 msgctxt "LauncherPage|"
-msgid "MultiMC"
-msgstr ""
-
-msgctxt "LauncherPage|"
 msgid "Colors"
 msgstr ""
 
@@ -1923,6 +1919,14 @@ msgstr ""
 
 msgctxt "LauncherPage|"
 msgid "[Something/WARN] A not so spooky warning."
+msgstr ""
+
+msgctxt "LauncherPage|"
+msgid "Flat"
+msgstr ""
+
+msgctxt "LauncherPage|"
+msgid "Legacy"
 msgstr ""
 
 #, qt-format
