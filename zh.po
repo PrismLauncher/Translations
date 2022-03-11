@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-10 11:36+0000\n"
-"Last-Translator: poi <erbaotao@outlook.com>\n"
+"PO-Revision-Date: 2022-03-08 00:43+0000\n"
+"Last-Translator: H09hL5A <minesoda@yukchr.aleeas.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "polymc/polymc/zh_Hans/>\n"
 "Language: zh\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: zh_CN\n"
 "X-Qt-Contexts: true\n"
 
@@ -1894,7 +1894,7 @@ msgstr "登录时收到了不确定的会话状态。"
 #: src/launcher/LaunchController.cpp:171
 msgctxt "LaunchController|"
 msgid "Play demo?"
-msgstr ""
+msgstr "是否游玩演示模式？"
 
 #: src/launcher/LaunchController.cpp:172
 msgctxt "LaunchController|"
@@ -1904,21 +1904,25 @@ msgid ""
 "\n"
 "Do you want to play the demo?"
 msgstr ""
+"此账户并未拥有 Minecraft。\n"
+"你需要先购买该游戏才能正常游玩。\n"
+"\n"
+"是否游玩演示模式？"
 
 #: src/launcher/LaunchController.cpp:174
 msgctxt "LaunchController|"
 msgid "Play Demo"
-msgstr ""
+msgstr "游玩演示"
 
 #: src/launcher/LaunchController.cpp:175
 msgctxt "LaunchController|"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: src/launcher/LaunchController.cpp:185
 msgctxt "LaunchController|"
 msgid "Launch cancelled - account does not own Minecraft."
-msgstr ""
+msgstr "启动已取消 - 账户未持有 Minecraft。"
 
 #: src/launcher/LaunchController.cpp:201
 msgctxt "LaunchController|"
@@ -2696,7 +2700,7 @@ msgstr "添加微软账户"
 #: src/launcher/ui/dialogs/MSALoginDialog.ui:56
 msgctxt "MSALoginDialog|"
 msgid "Open page and copy code"
-msgstr ""
+msgstr "打开登录页并复制代码"
 
 #: src/launcher/ui/dialogs/MSALoginDialog.cpp:87
 #, qt-format
@@ -2951,12 +2955,12 @@ msgstr "编辑所选实例的备注。"
 #: src/launcher/ui/MainWindow.cpp:502
 msgctxt "MainWindow|"
 msgid "View Mods"
-msgstr ""
+msgstr "查看模组"
 
 #: src/launcher/ui/MainWindow.cpp:503
 msgctxt "MainWindow|"
 msgid "View the mods of this instance."
-msgstr ""
+msgstr "查看此实例的模组。"
 
 #: src/launcher/ui/MainWindow.cpp:509
 msgctxt "MainWindow|"
@@ -3118,32 +3122,34 @@ msgid ""
 "at least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
+"启动器无法在没有账户添加的情况下下载 Minecraft 或更新实例。\n"
+"请添加你的 Mojang 或微软账户。"
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Group name"
-msgstr ""
+msgstr "实例组名"
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Enter a new group name."
-msgstr ""
+msgstr "输入新的实例组名称。"
 
 #: src/launcher/ui/MainWindow.cpp:1514
 msgctxt "MainWindow|"
 msgid "Delete group"
-msgstr ""
+msgstr "移除实例组"
 
 #: src/launcher/ui/MainWindow.cpp:1514
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Are you sure you want to delete the group %1"
-msgstr ""
+msgstr "你确定要移除实例组 %1 吗"
 
 #: src/launcher/ui/MainWindow.cpp:1632
 msgctxt "MainWindow|"
 msgid "CAREFUL!"
-msgstr ""
+msgstr "当心！"
 
 #: src/launcher/ui/MainWindow.cpp:1633
 #, qt-format
@@ -3154,17 +3160,21 @@ msgid ""
 "\n"
 "Are you sure?"
 msgstr ""
+"你将要删除：%1\n"
+"接下来将会彻底移除此实例，并且不可恢复。\n"
+"\n"
+"是否继续？"
 
 #: src/launcher/ui/MainWindow.cpp:1838
 msgctxt "MainWindow|"
 msgid "Rename Instance"
-msgstr ""
+msgstr "重命名实例"
 
 #: src/launcher/ui/MainWindow.cpp:1851
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
-msgstr ""
+msgstr "你的实例文件夹包含“!”符号，这可能会导致 Java 出现问题！"
 
 #: src/launcher/ui/MainWindow.cpp:1853
 #, qt-format
@@ -3172,7 +3182,8 @@ msgctxt "MainWindow|"
 msgid ""
 "You have now two options: <br/> - change the instance folder in the settings "
 "<br/> - move this installation of %1 to a different folder"
-msgstr ""
+msgstr "你现在有两个选项可选：<br> - 在设置中修改实例文件夹 <br> - 将 %1 "
+"移动至其他文件夹"
 
 #: src/launcher/ui/MainWindow.cpp:1862
 msgctxt "MainWindow|"
@@ -3181,25 +3192,27 @@ msgid ""
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
+"这问题不小：<br> - 操作系统可能会在没有事先警告的情况下自动删除此启动器 <br> "
+"- 马上关闭启动器并将启动器解压至其他目录，而非临时文件夹"
 
 #: src/launcher/ui/MainWindow.cpp:1869
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
-msgstr ""
+msgstr "你的实例文件夹包含“Rar$”——这意味着你并未解压启动器压缩包！"
 
 #: src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
-msgstr ""
+msgstr "你的实例文件夹位于临时文件夹：%1 中！"
 
 #: src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Total playtime: %1"
-msgstr ""
+msgstr "总游戏时长：%1"
 
 #: src/launcher/ui/MainWindow.cpp:1221 src/launcher/ui/MainWindow.cpp:1238
 #: src/launcher/ui/MainWindow.cpp:1296 src/launcher/ui/MainWindow.cpp:1345
@@ -3800,19 +3813,19 @@ msgstr "上传日志"
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Uploading to %1"
-msgstr ""
+msgstr "正在上传至 %1"
 
 #: src/launcher/net/PasteUpload.cpp:58
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Network error: %1"
-msgstr ""
+msgstr "网络错误：%1"
 
 #: src/launcher/net/PasteUpload.cpp:65
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Error: %1 returned unexpected status code %2 %3"
-msgstr ""
+msgstr "错误：%1 返回了意外状态码 %2 %3"
 
 #: src/launcher/launch/steps/PostLaunchCommand.cpp:31
 #, qt-format
