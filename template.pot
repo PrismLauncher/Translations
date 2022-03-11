@@ -1581,13 +1581,6 @@ msgid "No Accounts"
 msgstr ""
 
 msgctxt "LaunchController|"
-msgid ""
-"In order to play Minecraft, you must have at least one Mojang or Minecraft "
-"account logged in.Would you like to open the account manager to add an "
-"account now?"
-msgstr ""
-
-msgctxt "LaunchController|"
 msgid "Which account would you like to use?"
 msgstr ""
 
@@ -1728,6 +1721,13 @@ msgstr ""
 
 msgctxt "LaunchController|"
 msgid "Client identification changed"
+msgstr ""
+
+msgctxt "LaunchController|"
+msgid ""
+"In order to play Minecraft, you must have at least one Mojang or Minecraft "
+"account logged in. Would you like to open the account manager to add an "
+"account now?"
 msgstr ""
 
 #, qt-format
@@ -2301,11 +2301,6 @@ msgctxt "MainWindow|"
 msgid "Discord"
 msgstr ""
 
-#, qt-format
-msgctxt "MainWindow|"
-msgid "Open %1 discord voice chat."
-msgstr ""
-
 msgctxt "MainWindow|"
 msgid "Reddit"
 msgstr ""
@@ -2640,6 +2635,20 @@ msgstr ""
 
 msgctxt "MainWindow|"
 msgid "Export the selected instance as a zip file."
+msgstr ""
+
+msgctxt "MainWindow|"
+msgid "Matrix"
+msgstr ""
+
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open %1 Matrix space"
+msgstr ""
+
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open %1 Discord guild."
 msgstr ""
 
 msgctxt "MigrationEligibilityStep|"
