@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-03-15 00:49+0000\n"
+"Last-Translator: Grooty12 <Rasmus@rosendahl-kaa.name>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/polymc/polymc/da/>"
+"\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: da_DK\n"
 "X-Qt-Contexts: true\n"
 
@@ -401,6 +407,10 @@ msgid ""
 "\n"
 "Please update both your operating system and PolyMC."
 msgstr ""
+"Microsoft-konti kan kun bruges på macOS 10.13 eller nyere versioner under "
+"forudsætningen at PolyMC er opdateret til den nyeste version.\n"
+"\n"
+"Venligst opdater både dit operativsystem og PolyMC."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
@@ -430,12 +440,12 @@ msgstr "Kunne ikke kontakte godkendelsesserveren."
 #: src/launcher/minecraft/auth/AccountTask.cpp:47
 msgctxt "AccountTask|"
 msgid "Encountered an error during authentication."
-msgstr ""
+msgstr "Stødte på et problem under godkendelsen."
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:49
 msgctxt "AccountTask|"
 msgid "Failed to authenticate. The session has expired."
-msgstr ""
+msgstr "Godkendelse mislykkedes. Sessionen er udløbet."
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:51
 msgctxt "AccountTask|"
@@ -451,7 +461,7 @@ msgstr "..."
 #, qt-format
 msgctxt "AccountTask|"
 msgid "Unknown account task state: %1"
-msgstr ""
+msgstr "Ukendt kontoopgavetilstand: %1"
 
 #: src/launcher/Application.cpp:722
 #, fuzzy
@@ -546,6 +556,8 @@ msgid ""
 "Warning: This is still a work in progress. If you run into issues with the "
 "imported modpack, it may be a bug."
 msgstr ""
+"OBS: Dette er ikke et færdigt produkt. Hvis du løber ind i problemer med den "
+"importerede modpack, kan det måske være en bug."
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui:59
 #, fuzzy
@@ -567,12 +579,12 @@ msgstr "Ingen versioner er tilgængelige for Minecraft %1"
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:161
 msgctxt "AtlPage|"
 msgid "No versions are currently available"
-msgstr ""
+msgstr "Der er ingen tilgængelige versioner i øjeblikket"
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:163
 msgctxt "AtlPage|"
 msgid "Couldn't load or download the version lists!"
-msgstr ""
+msgstr "Kunne hverken indlæse eller hente versionslisterne!"
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
@@ -582,17 +594,17 @@ msgstr "ATLauncher"
 #: src/launcher/minecraft/auth/flows/AuthFlow.cpp:20
 msgctxt "AuthFlow|"
 msgid "Finished all authentication steps"
-msgstr ""
+msgstr "Færdig med alle godkendelsestrin"
 
 #: src/launcher/minecraft/auth/flows/AuthFlow.cpp:28
 msgctxt "AuthFlow|"
 msgid "Initializing"
-msgstr ""
+msgstr "Initialiserer"
 
 #: src/launcher/minecraft/auth/flows/AuthFlow.cpp:58
 msgctxt "AuthFlow|"
 msgid "Working..."
-msgstr ""
+msgstr "Arbejder..."
 
 #: src/launcher/tools/BaseProfiler.cpp:30
 msgctxt "BaseProfiler|"
@@ -602,12 +614,12 @@ msgstr "Profilering afbrudt"
 #: src/launcher/minecraft/services/CapeChange.cpp:19
 msgctxt "CapeChange|"
 msgid "Equipping cape"
-msgstr ""
+msgstr "Udstyrer kappe"
 
 #: src/launcher/minecraft/services/CapeChange.cpp:33
 msgctxt "CapeChange|"
 msgid "Removing cape"
-msgstr ""
+msgstr "Fjerner kappe"
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:270
 msgctxt "ComponentUpdateTask|"
@@ -673,7 +685,7 @@ msgstr "Ingen gruppe"
 #: src/launcher/minecraft/launch/CreateGameFolders.cpp:18
 msgctxt "CreateGameFolders|"
 msgid "Couldn't create the main game folder"
-msgstr ""
+msgstr "Kunne ikke oprette hovedspilsmappen"
 
 #: src/launcher/ui/widgets/CustomCommands.ui:32
 msgctxt "CustomCommands|"
@@ -709,6 +721,15 @@ msgid ""
 "launch</li></ul><p>Wrapper command allows launching using an extra wrapper "
 "program (like 'optirun' on Linux)</p></body></html>"
 msgstr ""
+"&lt;html&gt;&lt;body&gt;<p>Pre-start kommando køres før instansen startes og "
+"kommando efter afslutning køres efter afslutning. </p><p>Begge vil blive "
+"kørt i launcherens arbejdsmappe med ekstra miljøvariabler:</p><ul><li>$"
+"INST_NAME - Instansens navn</li><li>$INST_ID - Instansens ID (dens "
+"mappenavn)</li><li>$INST_DIR - absolutte sti til instansen</li><li>$"
+"INST_MC_DIR - absolutte sti til Minecraft</li><li>$INST_JAVA - java binary "
+"brugt til launch</li><li>$INST_JAVA_ARGS - kommandolinjeparametre brugt til "
+"launch</li></ul><p>Wrapper-kommando gør det muligt at starte ved hjælp af et "
+"ekstra wrapper-program (som 'optirun' på Linux)</p>&lt;/body&gt;&lt;/html&gt;"
 
 #: src/launcher/ui/pages/global/CustomCommandsPage.h:35
 msgctxt "CustomCommandsPage|"
@@ -731,7 +752,7 @@ msgstr "Kunne ikke starte Minecraft!"
 #: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:110
 msgctxt "DirectJavaLaunch|"
 msgid "Game crashed."
-msgstr ""
+msgstr "Spillet gik ned."
 
 #: src/launcher/ui/dialogs/EditAccountDialog.ui:14
 msgctxt "EditAccountDialog|"
@@ -751,12 +772,12 @@ msgstr "Adgangskode"
 #: src/launcher/minecraft/auth/steps/EntitlementsStep.cpp:14
 msgctxt "EntitlementsStep|"
 msgid "Determining game ownership."
-msgstr ""
+msgstr "Bestemmelse af spil ejerskab."
 
 #: src/launcher/minecraft/auth/steps/EntitlementsStep.cpp:52
 msgctxt "EntitlementsStep|"
 msgid "Got entitlements"
-msgstr ""
+msgstr "Fik rettigheder"
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.ui:14
 msgctxt "ExportInstanceDialog|"
@@ -926,7 +947,7 @@ msgstr "Kontrollerer FML-biblioteker..."
 #: src/launcher/minecraft/update/FMLLibrariesTask.cpp:63
 msgctxt "FMLLibrariesTask|"
 msgid "Downloading FML libraries..."
-msgstr ""
+msgstr "Henter FML-biblioteker..."
 
 #: src/launcher/minecraft/update/FMLLibrariesTask.cpp:90
 msgctxt "FMLLibrariesTask|"
@@ -979,7 +1000,7 @@ msgstr "Version valgt:"
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:67
 msgctxt "FlamePage|"
 msgid "Search"
-msgstr ""
+msgstr "Søg"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:74
 #, fuzzy
@@ -990,12 +1011,12 @@ msgstr "Søg og filtrer ..."
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.h:45
 msgctxt "FlamePage|"
 msgid "CurseForge"
-msgstr ""
+msgstr "CurseForge"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:25
 msgctxt "FlamePage|"
 msgid "Sort by featured"
-msgstr ""
+msgstr "Sorter efter udvalgte"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:26
 #, fuzzy
@@ -1006,7 +1027,7 @@ msgstr "Sortér efter popularitet"
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:27
 msgctxt "FlamePage|"
 msgid "Sort by last updated"
-msgstr ""
+msgstr "Sorter efter sidst opdateret"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:28
 #, fuzzy
@@ -1017,17 +1038,17 @@ msgstr "Sorter efter navn"
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:29
 msgctxt "FlamePage|"
 msgid "Sort by author"
-msgstr ""
+msgstr "Sorter efter forfatter"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:30
 msgctxt "FlamePage|"
 msgid "Sort by total downloads"
-msgstr ""
+msgstr "Sorter efter samlede overførsler"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:103
 msgctxt "FlamePage|"
 msgid " by "
-msgstr ""
+msgstr " af "
 
 #: src/launcher/minecraft/update/FoldersTask.cpp:17
 msgctxt "FoldersTask|"
@@ -1037,12 +1058,12 @@ msgstr "Det lykkedes ikke at oprette en mappe til Minecraft’s binær-filer."
 #: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:29
 msgctxt "Ftb::FilterModel|"
 msgid "Sort by plays"
-msgstr ""
+msgstr "Sorter efter afspilninger"
 
 #: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:30
 msgctxt "Ftb::FilterModel|"
 msgid "Sort by installs"
-msgstr ""
+msgstr "Sorter efter installationer"
 
 #: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:31
 #, fuzzy
@@ -1065,7 +1086,7 @@ msgstr "Søg og filtrer ..."
 #: src/launcher/ui/pages/modplatform/ftb/FtbPage.h:43
 msgctxt "FtbPage|"
 msgid "FTB"
-msgstr ""
+msgstr "FTB"
 
 #: src/launcher/minecraft/gameoptions/GameOptions.cpp:82
 msgctxt "GameOptions|"
@@ -1106,22 +1127,22 @@ msgstr "Tilskuer"
 #, qt-format
 msgctxt "GameType|"
 msgid "Unknown (%1)"
-msgstr ""
+msgstr "Ukendt (%1)"
 
 #: src/launcher/minecraft/World.cpp:82
 msgctxt "GameType|"
 msgid "Undefined"
-msgstr ""
+msgstr "Udefineret"
 
 #: src/launcher/minecraft/auth/steps/GetSkinStep.cpp:16
 msgctxt "GetSkinStep|"
 msgid "Getting skin."
-msgstr ""
+msgstr "Henter skin."
 
 #: src/launcher/minecraft/auth/steps/GetSkinStep.cpp:42
 msgctxt "GetSkinStep|"
 msgid "Got skin"
-msgstr ""
+msgstr "Fik skin."
 
 #: src/launcher/updater/DownloadTask.cpp:48
 msgctxt "GoUpdate::DownloadTask|"
@@ -1535,52 +1556,52 @@ msgstr "Brugerdefinerede kommandoer"
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:369
 msgctxt "InstanceSettingsPage|"
 msgid "Workarounds"
-msgstr ""
+msgstr "Løsninger"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:378
 msgctxt "InstanceSettingsPage|"
 msgid "Native libraries"
-msgstr ""
+msgstr "Oprindelige biblioteker"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:390
 msgctxt "InstanceSettingsPage|"
 msgid "Use system installation of GLFW"
-msgstr ""
+msgstr "Brug systeminstallation af GLFW"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:397
 msgctxt "InstanceSettingsPage|"
 msgid "Use system installation of OpenAL"
-msgstr ""
+msgstr "Brug systeminstallation af OpenAL"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:421
 msgctxt "InstanceSettingsPage|"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Diverse"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:430
 msgctxt "InstanceSettingsPage|"
 msgid "Override global game time settings"
-msgstr ""
+msgstr "Tilsidesæt globale spilletidsindstillinger"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:442
 msgctxt "InstanceSettingsPage|"
 msgid "Show time spent playing this instance"
-msgstr ""
+msgstr "Vis tid brugt på at spille denne instans"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:449
 msgctxt "InstanceSettingsPage|"
 msgid "Record time spent playing this instance"
-msgstr ""
+msgstr "Registrer tid brugt på at spille denne instans"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:459
 msgctxt "InstanceSettingsPage|"
 msgid "Set a server to join on launch"
-msgstr ""
+msgstr "Indstil en server til at deltage ved start"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:479
 msgctxt "InstanceSettingsPage|"
 msgid "Server address:"
-msgstr ""
+msgstr "Serveradresse:"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.h:42
 msgctxt "InstanceSettingsPage|"
@@ -1759,6 +1780,11 @@ msgid ""
 "\n"
 "You can change the Java version in the settings later.\n"
 msgstr ""
+"Du har ikke valgt en Java-version eller valgt noget, der ikke virker.\n"
+"%1 vil ikke være i stand til at starte Minecraft.\n"
+"Ønsker du at fortsætte uden Java?\n"
+"\n"
+"Du kan ændre Java-versionen i indstillingerne senere.\n"
 
 #: src/launcher/ui/widgets/JavaSettingsWidget.cpp:265
 msgctxt "JavaSettingsWidget|"
@@ -1840,7 +1866,7 @@ msgstr "Sprog"
 #, qt-format
 msgctxt "LanguageWizardPage|"
 msgid "Select the language to use in %1"
-msgstr ""
+msgstr "Vælg det sprog, der skal bruges i %1"
 
 #: src/launcher/LaunchController.cpp:35
 msgctxt "LaunchController|"
@@ -1863,7 +1889,7 @@ msgstr ""
 #: src/launcher/LaunchController.cpp:77
 msgctxt "LaunchController|"
 msgid "Which account would you like to use?"
-msgstr ""
+msgstr "Hvilken konto vil du gerne bruge?"
 
 #: src/launcher/LaunchController.cpp:101
 msgctxt "LaunchController|"
@@ -1897,7 +1923,7 @@ msgstr "Modtog uafklaret sessionsstatus under login."
 #: src/launcher/LaunchController.cpp:171
 msgctxt "LaunchController|"
 msgid "Play demo?"
-msgstr ""
+msgstr "Spil demo?"
 
 #: src/launcher/LaunchController.cpp:172
 msgctxt "LaunchController|"
@@ -1907,21 +1933,25 @@ msgid ""
 "\n"
 "Do you want to play the demo?"
 msgstr ""
+"Denne konto ejer ikke Minecraft.\n"
+"Du skal først købe spillet for at spille det.\n"
+"\n"
+"Vil du spille demoen?"
 
 #: src/launcher/LaunchController.cpp:174
 msgctxt "LaunchController|"
 msgid "Play Demo"
-msgstr ""
+msgstr "Spil demo"
 
 #: src/launcher/LaunchController.cpp:175
 msgctxt "LaunchController|"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuller"
 
 #: src/launcher/LaunchController.cpp:185
 msgctxt "LaunchController|"
 msgid "Launch cancelled - account does not own Minecraft."
-msgstr ""
+msgstr "Start annulleret - kontoen ejer ikke Minecraft."
 
 #: src/launcher/LaunchController.cpp:201
 msgctxt "LaunchController|"
@@ -1931,12 +1961,12 @@ msgstr "Spil offline"
 #: src/launcher/LaunchController.cpp:214
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually again."
-msgstr ""
+msgstr "Kontoen er udløbet og skal logges på manuelt igen."
 
 #: src/launcher/LaunchController.cpp:217
 msgctxt "LaunchController|"
 msgid "Account refresh failed"
-msgstr ""
+msgstr "Kontoopdatering mislykkedes"
 
 #: src/launcher/LaunchController.cpp:226
 msgctxt "LaunchController|"
@@ -1944,11 +1974,13 @@ msgid ""
 "The account no longer exists on the servers. It may have been migrated, in "
 "which case please add the new account you migrated this one to."
 msgstr ""
+"Kontoen findes ikke længere på serverne. Den kan være blevet migreret, i så "
+"fald bedes du tilføje den nye konto, du har migreret denne konto til."
 
 #: src/launcher/LaunchController.cpp:229
 msgctxt "LaunchController|"
 msgid "Account gone"
-msgstr ""
+msgstr "Kontoen er væk"
 
 #: src/launcher/LaunchController.cpp:239
 msgctxt "LaunchController|"
@@ -2058,27 +2090,27 @@ msgstr ""
 #, qt-format
 msgctxt "LauncherLoginStep|"
 msgid "Failed to get Minecraft access token: %1"
-msgstr ""
+msgstr "Kunne ikke hente Minecraft-adgangstoken: %1"
 
 #: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:73
 msgctxt "LauncherLoginStep|"
 msgid "Failed to parse the Minecraft access token response."
-msgstr ""
+msgstr "Minecraft-adgangstokenssvaret kunne ikke analyseres."
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:45
 msgctxt "LauncherPage|"
 msgid "Features"
-msgstr ""
+msgstr "Funktioner"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:51
 msgctxt "LauncherPage|"
 msgid "Update Settings"
-msgstr ""
+msgstr "Opdater indstillinger"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:57
 msgctxt "LauncherPage|"
 msgid "Check for updates on start?"
-msgstr ""
+msgstr "Søg efter opdateringer ved start?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:64
 msgctxt "LauncherPage|"
@@ -2088,7 +2120,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/LauncherPage.ui:81
 msgctxt "LauncherPage|"
 msgid "No channel selected."
-msgstr ""
+msgstr "Ingen kanal valgt."
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:94
 #, fuzzy
@@ -2099,87 +2131,87 @@ msgstr "Mapper"
 #: src/launcher/ui/pages/global/LauncherPage.ui:100
 msgctxt "LauncherPage|"
 msgid "I&nstances:"
-msgstr ""
+msgstr "I&amp;nstancer:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:120
 msgctxt "LauncherPage|"
 msgid "&Mods:"
-msgstr ""
+msgstr "&amp;Mods:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:143
 msgctxt "LauncherPage|"
 msgid "&Icons:"
-msgstr ""
+msgstr "&amp;Ikoner:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:163
 msgctxt "LauncherPage|"
 msgid "Move the data to new location (will restart the launcher)"
-msgstr ""
+msgstr "Fly dataen til en ny placering (vil genstarte launcheren)"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:184
 msgctxt "LauncherPage|"
 msgid "User Interface"
-msgstr ""
+msgstr "Brugergrænseflade"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:190
 msgctxt "LauncherPage|"
 msgid "Launcher notifications"
-msgstr ""
+msgstr "Launcher-meddelelser"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:196
 msgctxt "LauncherPage|"
 msgid "Reset hidden notifications"
-msgstr ""
+msgstr "Nulstil skjulte meddelelser"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:212
 msgctxt "LauncherPage|"
 msgid "Instance view sorting mode"
-msgstr ""
+msgstr "Sorteringstilstand for instansvisning"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:218
 msgctxt "LauncherPage|"
 msgid "By &last launched"
-msgstr ""
+msgstr "Af &amp;sidst lanceret"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:228
 msgctxt "LauncherPage|"
 msgid "By &name"
-msgstr ""
+msgstr "Af &amp;navn"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:241
 msgctxt "LauncherPage|"
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:247
 msgctxt "LauncherPage|"
 msgid "&Icons"
-msgstr ""
+msgstr "&amp;Ikoner"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:267
 msgctxt "LauncherPage|"
 msgid "Simple (Dark Icons)"
-msgstr ""
+msgstr "Enkel (mørke ikoner)"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:272
 msgctxt "LauncherPage|"
 msgid "Simple (Light Icons)"
-msgstr ""
+msgstr "Enkel (lyse ikoner)"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:277
 msgctxt "LauncherPage|"
 msgid "Simple (Blue Icons)"
-msgstr ""
+msgstr "Enkel (blå ikoner)"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:282
 msgctxt "LauncherPage|"
 msgid "Simple (Colored Icons)"
-msgstr ""
+msgstr "Enkel (farvede ikoner)"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:302
 msgctxt "LauncherPage|"
 msgid "Custom"
-msgstr ""
+msgstr "Brugerdefinerede"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:307
 msgctxt "LauncherPage|"
@@ -2189,17 +2221,17 @@ msgstr ""
 #: src/launcher/ui/pages/global/LauncherPage.ui:328
 msgctxt "LauncherPage|"
 msgid "Colors"
-msgstr ""
+msgstr "Farver"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:355
 msgctxt "LauncherPage|"
 msgid "Console"
-msgstr ""
+msgstr "Konsol"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:361
 msgctxt "LauncherPage|"
 msgid "Console Settings"
-msgstr ""
+msgstr "Konsolindstillinger"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:367
 #, fuzzy
@@ -2222,22 +2254,22 @@ msgstr "Vis konsollen når spillet bryder sammen?"
 #: src/launcher/ui/pages/global/LauncherPage.ui:391
 msgctxt "LauncherPage|"
 msgid "History limit"
-msgstr ""
+msgstr "Historikgrænse"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:397
 msgctxt "LauncherPage|"
 msgid "Stop logging when log overflows"
-msgstr ""
+msgstr "Stop logning, når loggen er overfyldt"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:410
 msgctxt "LauncherPage|"
 msgid " lines"
-msgstr ""
+msgstr " linjer"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:438
 msgctxt "LauncherPage|"
 msgid "Console font"
-msgstr ""
+msgstr "Konsol skrifttype"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:101
 #, fuzzy
