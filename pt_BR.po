@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-01 18:55+0000\n"
+"PO-Revision-Date: 2022-03-15 00:49+0000\n"
 "Last-Translator: flow <thiagodonato300@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "polymc/polymc/pt_BR/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: pt_BR\n"
 "X-Qt-Contexts: true\n"
 
@@ -57,23 +57,23 @@ msgstr "Tipo de download desconhecido ou incompatível: %1"
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:426
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Downloading configs..."
-msgstr "Baixando definições..."
+msgstr "Baixando configurações..."
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:427
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Config download"
-msgstr "Baixar definições"
+msgstr "Baixar configuração"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:467
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Extracting configs..."
-msgstr "Extraindo definições..."
+msgstr "Extraindo configurações..."
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:474
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to open pack configs %1!"
-msgstr "Falha ao abrir as definições do modpack %1!"
+msgstr "Falha ao abrir as configurações do modpack %1!"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:504
 msgctxt "ATLauncher::PackInstallTask|"
@@ -464,7 +464,7 @@ msgstr "Status da tarefa desconhecido: %1"
 #: src/launcher/Application.cpp:722
 msgctxt "Application|"
 msgid "Settings"
-msgstr "Definições"
+msgstr "Configurações"
 
 #: src/launcher/minecraft/update/AssetUpdateTask.cpp:21
 msgctxt "AssetUpdateTask|"
@@ -663,7 +663,7 @@ msgstr "Nome"
 #: src/launcher/ui/dialogs/CopyInstanceDialog.ui:90
 msgctxt "CopyInstanceDialog|"
 msgid "&Group"
-msgstr "&amp;Grupo"
+msgstr "Grupo"
 
 #: src/launcher/ui/dialogs/CopyInstanceDialog.ui:115
 msgctxt "CopyInstanceDialog|"
@@ -688,7 +688,7 @@ msgstr "Não foi possível criar a pasta principal do jogo"
 #: src/launcher/ui/widgets/CustomCommands.ui:32
 msgctxt "CustomCommands|"
 msgid "Cus&tom Commands"
-msgstr "Coman&dos personalizados"
+msgstr "Comandos personalizados"
 
 #: src/launcher/ui/widgets/CustomCommands.ui:44
 msgctxt "CustomCommands|"
@@ -719,22 +719,24 @@ msgid ""
 "launch</li></ul><p>Wrapper command allows launching using an extra wrapper "
 "program (like 'optirun' on Linux)</p></body></html>"
 msgstr ""
-"<html><head/><body><p>Os comandos de pré-inicialização e pós-inicialização "
-"são rodados, respectivamente, antes e após a inicialização da "
-"instância.</p><p>Ambos serão rodados na pasta de trabalho do launcher com "
-"variáveis adicionais de ambiente:</p><ul><li>$INST_NAME — Nome da "
-"instância</li><li>$INST_ID — ID da instância (nome da "
-"pasta)</li><li>$INST_DIR — Caminho absoluto da "
-"instância</li><li>$INST_MC_DIR — Caminho absoluto do "
-"Minecraft</li><li>$INST_JAVA — Binário do Java usado na "
-"inicialização</li><li>$INST_JAVA_ARGS — Parâmetros de linha de comando "
-"usados na inicialização</li></ul><p>Comandos de wrapper permitem o uso de um "
-"programa adicional de wrapper, como \"optirun\" no Linux.</p></body></html>"
+"&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Os comandos de pré-"
+"inicialização e pós-inicialização são rodados, respectivamente, antes e após "
+"a inicialização da instância.&lt;/p&gt;&lt;p&gt;Ambos serão rodados na pasta "
+"de trabalho do launcher com variáveis adicionais de "
+"ambiente:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME — Nome da "
+"instância&lt;/li&gt;&lt;li&gt;$INST_ID — ID da instância (nome da "
+"pasta)&lt;/li&gt;&lt;li&gt;$INST_DIR — Caminho absoluto da "
+"instância&lt;/li&gt;&lt;li&gt;$INST_MC_DIR — Caminho absoluto do "
+"Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA — Binário do Java usado na "
+"inicialização&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS — Parâmetros de linha de "
+"comando usados na inicialização&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comandos de "
+"wrapper permitem o uso de um programa adicional de wrapper, como "
+"&quot;optirun&quot; no Linux.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 
 #: src/launcher/ui/pages/global/CustomCommandsPage.h:35
 msgctxt "CustomCommandsPage|"
 msgid "Custom Commands"
-msgstr "Comandos person."
+msgstr "Comandos personalizados"
 
 #: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:69
 #, qt-format
@@ -830,7 +832,7 @@ msgstr "Editor de texto:"
 #: src/launcher/ui/pages/global/ExternalToolsPage.h:37
 msgctxt "ExternalToolsPage|"
 msgid "External Tools"
-msgstr "Ferramentas ext."
+msgstr "Ferramentas externas"
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:90
 msgctxt "ExternalToolsPage|"
@@ -976,8 +978,9 @@ msgid ""
 msgstr ""
 "Falha ao baixar os seguintes arquivos:\n"
 "%1\n"
+"\n"
 "Motivo: %2\n"
-"Tente novamente."
+"Por favor, tente novamente."
 
 #: src/launcher/modplatform/flame/FileResolvingTask.cpp:15
 msgctxt "Flame::FileResolvingTask|"
@@ -1248,7 +1251,7 @@ msgstr "Nome"
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
 msgid "&Name:"
-msgstr "&Nome:"
+msgstr "Nome:"
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:40
 msgctxt "InstanceCardWidget|"
@@ -1508,7 +1511,7 @@ msgstr "Janela do jogo"
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:249
 msgctxt "InstanceSettingsPage|"
 msgid "Start Minecraft maximized?"
-msgstr "Iniciar o Minecraft maximizado"
+msgstr "Iniciar o Minecraft maximizado?"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:258
 msgctxt "InstanceSettingsPage|"
@@ -1523,22 +1526,22 @@ msgstr "Largura da janela:"
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:309
 msgctxt "InstanceSettingsPage|"
 msgid "Conso&le Settings"
-msgstr "Definições do conso&le"
+msgstr "Configurações do conso&amp;le"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:321
 msgctxt "InstanceSettingsPage|"
 msgid "Show console while the game is running?"
-msgstr "Abrir console enquanto o jogo estiver rodando"
+msgstr "Abrir console enquanto o jogo estiver rodando?"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:328
 msgctxt "InstanceSettingsPage|"
 msgid "Automatically close console when the game quits?"
-msgstr "Fechar console automaticamente ao encerrar o jogo"
+msgstr "Fechar console automaticamente ao encerrar o jogo?"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:335
 msgctxt "InstanceSettingsPage|"
 msgid "Show console when the game crashes?"
-msgstr "Abrir console quando o jogo parar de funcionar"
+msgstr "Abrir console quando o jogo parar de funcionar?"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:359
 msgctxt "InstanceSettingsPage|"
@@ -1598,7 +1601,7 @@ msgstr "Endereço do servidor:"
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.h:42
 msgctxt "InstanceSettingsPage|"
 msgid "Settings"
-msgstr "Definições"
+msgstr "Configurações"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.cpp:284
 msgctxt "InstanceSettingsPage|"
@@ -2096,12 +2099,12 @@ msgstr "Funcionalidades"
 #: src/launcher/ui/pages/global/LauncherPage.ui:51
 msgctxt "LauncherPage|"
 msgid "Update Settings"
-msgstr "Definições de atualização"
+msgstr "Configurações de atualização"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:57
 msgctxt "LauncherPage|"
 msgid "Check for updates on start?"
-msgstr "Procurar atualizações ao iniciar"
+msgstr "Checar por atualizações ao iniciar?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:64
 msgctxt "LauncherPage|"
@@ -2126,7 +2129,7 @@ msgstr "I&nstâncias:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:120
 msgctxt "LauncherPage|"
 msgid "&Mods:"
-msgstr "&Mods:"
+msgstr "&amp;Mods:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:143
 msgctxt "LauncherPage|"
@@ -2221,22 +2224,22 @@ msgstr "Console"
 #: src/launcher/ui/pages/global/LauncherPage.ui:361
 msgctxt "LauncherPage|"
 msgid "Console Settings"
-msgstr "Definições do console"
+msgstr "Configurações do console"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:367
 msgctxt "LauncherPage|"
 msgid "Show console while the game is running?"
-msgstr "Abrir console enquanto o jogo estiver rodando"
+msgstr "Abrir console enquanto o jogo estiver rodando?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:374
 msgctxt "LauncherPage|"
 msgid "Automatically close console when the game quits?"
-msgstr "Fechar console automaticamente ao encerrar o jogo"
+msgstr "Fechar console automaticamente ao encerrar o jogo?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:381
 msgctxt "LauncherPage|"
 msgid "Show console when the game crashes?"
-msgstr "Abrir console quando o jogo parar de funcionar"
+msgstr "Abrir console quando o jogo parar de funcionar?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:391
 msgctxt "LauncherPage|"
@@ -2641,11 +2644,9 @@ msgid "&Copy"
 msgstr "&Copiar"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:103
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Carregar o registro para o paste.ee, disponível on-line por um mês"
+msgstr "Enviar o registro para o serviço de cópia configurado nas preferências"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -2851,7 +2852,7 @@ msgstr "Abrir uma das pastas compartilhadas entre instâncias."
 #: src/launcher/ui/MainWindow.cpp:326
 msgctxt "MainWindow|"
 msgid "Settings"
-msgstr "Definições"
+msgstr "Configurações"
 
 #: src/launcher/ui/MainWindow.cpp:327
 msgctxt "MainWindow|"
@@ -2933,7 +2934,7 @@ msgstr "Miau"
 #: src/launcher/ui/MainWindow.cpp:404
 msgctxt "MainWindow|"
 msgid "It's a fluffy kitty :3"
-msgstr "Um gatinho fofinho!"
+msgstr "Um gatinho fofinho :3"
 
 #: src/launcher/ui/MainWindow.cpp:412
 msgctxt "MainWindow|"
@@ -3139,7 +3140,7 @@ msgstr "Profilers"
 msgctxt "MainWindow|"
 msgid "Profiler not setup correctly. Go into settings, \"External Tools\"."
 msgstr ""
-"O profiler não foi instalado corretamente. Vá para \"Definições\" e "
+"O profiler não foi instalado corretamente. Vá para \"Configurações\" e "
 "\"Ferramentas ext.\"."
 
 #: src/launcher/ui/MainWindow.cpp:1006
@@ -3351,7 +3352,7 @@ msgstr "Tamanho da janela"
 #: src/launcher/ui/pages/global/MinecraftPage.ui:54
 msgctxt "MinecraftPage|"
 msgid "Start Minecraft maximized?"
-msgstr "Iniciar o Minecraft maximizado"
+msgstr "Iniciar o Minecraft maximizado?"
 
 #: src/launcher/ui/pages/global/MinecraftPage.ui:63
 msgctxt "MinecraftPage|"
@@ -3710,11 +3711,10 @@ msgid "Delete"
 msgstr "Apagar"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:87
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr "Carregar o registro para o paste.ee, disponível on-line por um mês"
+msgstr ""
+"Carregar o registro para o serviço de cópia configurado nas preferências."
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -5304,7 +5304,7 @@ msgstr "Adic. ao minecraft.jar"
 #: src/launcher/ui/pages/instance/VersionPage.ui:216
 msgctxt "VersionPage|"
 msgid "Add a mod into the Minecraft jar file."
-msgstr "Adicionar um mod ao arquivo do minecraft.jar"
+msgstr "Adicionar um mod ao arquivo JAR do Minecraft."
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:221
 msgctxt "VersionPage|"
@@ -5447,20 +5447,15 @@ msgstr ""
 "intermediários!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
-#, fuzzy
-#| msgid ""
-#| "PolyMC cannot download Minecraft or update instances unless you have at "
-#| "least one account added.\n"
-#| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
 msgid ""
 "PolyMC cannot download Minecraft or update instances unless you have at "
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"O PolyMC não pode baixar o Minecraft ou atualizar instâncias a menos que "
-"uma conta esteja adicionada.\n"
-"Adicione uma conta Mojang ou Minecraft."
+"O PolyMC não pode baixar o Minecraft ou atualizar instâncias a menos que uma "
+"conta esteja adicionada.\n"
+"Por favor, adicione a sua conta do Minecraft."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:424
 msgctxt "VersionPage|"
@@ -5862,7 +5857,7 @@ msgstr ""
 #, qt-format
 msgctxt "XboxAuthorizationStep|"
 msgid "Got authorization to access %1"
-msgstr "Autorização obtida para acessar o %1."
+msgstr "Autorização obtida para acessar %1"
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:109
 #, qt-format
