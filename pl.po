@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-03-13 16:53+0000\n"
-"Last-Translator: Radek Raczkowski <rdkracz@gmail.com>\n"
+"Last-Translator: Rafał Skurski <rafii2198@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/polymc/polymc/pl/>"
 "\n"
 "Language: pl\n"
@@ -145,8 +145,9 @@ msgid ""
 "by allowing you to have multiple instances of Minecraft at "
 "once.</p></body></html>"
 msgstr ""
-"<html><head/><body><p>Launcher, który umożliwia łatwiejsze zarządzanie "
-"Minecraftem przez dostęp do różnych instancji Minecrafta.</p></body></html>"
+"&lt;html&gt;&lt;body&gt;<p>Launcher, który umożliwia łatwiejsze zarządzanie "
+"Minecraftem przez dostęp do różnych instancji "
+"Minecrafta.</p>&lt;/body&gt;&lt;/html&gt;"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:157
 msgctxt "AboutDialog|"
@@ -405,6 +406,10 @@ msgid ""
 "\n"
 "Please update both your operating system and PolyMC."
 msgstr ""
+"Konta Microsoft są jedynie dostępna na systemach macOS 10.13 lub nowszych, "
+"oraz najnowszej wersji PolyMC.\n"
+"\n"
+"Proszę zaktualizować system operacyjny oraz PolyMC."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
@@ -1923,6 +1928,10 @@ msgid ""
 "\n"
 "Do you want to play the demo?"
 msgstr ""
+"Te konto nie posiada zakupionego Minecrafta.\n"
+"Musisz posiadać zakupionego Minecrafta aby w niego grać.\n"
+"\n"
+"Czy chcesz zagrać w demo?"
 
 #: src/launcher/LaunchController.cpp:174
 msgctxt "LaunchController|"
@@ -1937,7 +1946,7 @@ msgstr "Anuluj"
 #: src/launcher/LaunchController.cpp:185
 msgctxt "LaunchController|"
 msgid "Launch cancelled - account does not own Minecraft."
-msgstr ""
+msgstr "Uruchamianie przerwane - konto nie jest w posiadaniu Minecrafta."
 
 #: src/launcher/LaunchController.cpp:201
 msgctxt "LaunchController|"
@@ -3198,17 +3207,23 @@ msgid ""
 "\n"
 "Are you sure?"
 msgstr ""
+"Usuwanie instancji: %1\n"
+"Czynność ta jest nie odwracalna.\n"
+"\n"
+"Czy chcesz kontynuować?"
 
 #: src/launcher/ui/MainWindow.cpp:1838
 msgctxt "MainWindow|"
 msgid "Rename Instance"
-msgstr ""
+msgstr "Zmień nazwę instancji"
 
 #: src/launcher/ui/MainWindow.cpp:1851
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
 msgstr ""
+"Folder twojej instancji zawiera znak \"!\" który jest powodem znanych "
+"problemów w Javie!"
 
 #: src/launcher/ui/MainWindow.cpp:1853
 #, qt-format
@@ -3217,6 +3232,8 @@ msgid ""
 "You have now two options: <br/> - change the instance folder in the settings "
 "<br/> - move this installation of %1 to a different folder"
 msgstr ""
+"Możesz wybrać dwie opcje: <br> - zmienić folder instancji w ustawieniach "
+"<br> - przenieść instancje %1 do innego folderu"
 
 #: src/launcher/ui/MainWindow.cpp:1862
 msgctxt "MainWindow|"
