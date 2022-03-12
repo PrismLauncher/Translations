@@ -2934,6 +2934,14 @@ msgctxt "ModFolderPage|"
 msgid "Download mods from online mod platforms"
 msgstr ""
 
+msgctxt "ModFolderPage|"
+msgid "Add .jar"
+msgstr ""
+
+msgctxt "ModFolderPage|"
+msgid "Add mods via local file"
+msgstr ""
+
 msgctxt "ModMinecraftJar|"
 msgid "Couldn't create the bin folder for Minecraft.jar"
 msgstr ""
