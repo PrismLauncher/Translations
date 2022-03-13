@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-11 12:36+0000\n"
-"Last-Translator: mateale1234 <matidht22@gmail.com>\n"
+"PO-Revision-Date: 2022-03-13 16:53+0000\n"
+"Last-Translator: Radek Raczkowski <rdkracz@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/polymc/polymc/pl/>"
 "\n"
 "Language: pl\n"
@@ -10,14 +10,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: pl_PL\n"
 "X-Qt-Contexts: true\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:94
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Could not understand pack manifest:\n"
-msgstr "Nie udało się sparsować manifestu paczki:\n"
+msgstr "Nie można zrozumieć manifestu paczki:\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:102
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:183
@@ -36,13 +36,13 @@ msgstr "Nie udało się uzyskać lokalnego indeksu metadanych dla '%1' v%2"
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Unknown mod type: %1"
-msgstr "Nieznany rodzaj modu: %1"
+msgstr "Nieznany rodzaj moda: %1"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:215
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to find version for %1 loader"
-msgstr "Nie udało się znaleźć wersji dla loadera %1"
+msgstr "Nie udało się znaleźć wersji dla %1 loadera"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:229
 msgctxt "ATLauncher::PackInstallTask|"
@@ -58,28 +58,28 @@ msgstr "Nieznany lub nieobsługiwany typ pobierania: %1"
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:426
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Downloading configs..."
-msgstr "Pobieranie konfiguracji..."
+msgstr "Pobieranie konfigów..."
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:427
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Config download"
-msgstr "Pobieranie konfiguracji"
+msgstr "Pobieranie konfigu"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:467
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Extracting configs..."
-msgstr "Rozpakowywanie konfiguracji..."
+msgstr "Rozpakowywanie konfigu..."
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:474
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to open pack configs %1!"
-msgstr "Nie udało się otworzyć archiwum konfiguracji paczki %1!"
+msgstr "Nie udało się otworzyć archiwum konfigów paczki %1!"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:504
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Selecting optional mods..."
-msgstr "Wybieranie opcjonalnych modyfikacji..."
+msgstr "Wybieranie opcjonalnych modów..."
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:508
 msgctxt "ATLauncher::PackInstallTask|"
@@ -121,7 +121,7 @@ msgstr "Instalowanie modpacka"
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:732
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to create libraries component"
-msgstr "Nie udało się utworzyć komponentu biblioteki"
+msgstr "Nie udało się utworzyć komponentu bibliotek"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:756
 msgctxt "ATLauncher::PackInstallTask|"
@@ -131,12 +131,12 @@ msgstr "Nieznany rodzaj loadera: "
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:770
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to create pack component"
-msgstr "Nie udało się utworzyć komponentu pakietu"
+msgstr "Nie udało się utworzyć komponentu paczki"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:97
 msgctxt "AboutDialog|"
 msgid "About"
-msgstr "O programie"
+msgstr "O"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:106
 msgctxt "AboutDialog|"
@@ -2050,12 +2050,7 @@ msgstr ""
 "Minecraft zawiesi się z jakiegoś powodu"
 
 #: src/launcher/launch/LaunchTask.cpp:215
-#, fuzzy, qt-format
-#| msgid ""
-#| "PolyMC stopped watching the game log because the log length surpassed %1 "
-#| "lines.\n"
-#| "You may have to fix your mods because the game is still logging to files "
-#| "and likely wasting harddrive space at an alarming rate!"
+#, qt-format
 msgctxt "LaunchTask|"
 msgid ""
 "PolyMC stopped watching the game log because the log length surpassed %1 "
@@ -2637,11 +2632,9 @@ msgid "&Copy"
 msgstr "&Kopiuj"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:103
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Prześlij log na paste.ee - będzie on dostępny online przez miesiąc"
+msgstr "Wyślij log na serwis typu pastebin skonfigurowany w preferencjach"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -3232,6 +3225,9 @@ msgid ""
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
+"To problem: <br> - Launcher prawdopodobnie zostanie usunięty bez ostrzeżenia "
+"przez system operacyjny <br> - zamknij teraz launcher i wypakuj go do "
+"prawdziwej lokalizacji, nie do folderu tymczasowego"
 
 #: src/launcher/ui/MainWindow.cpp:1869
 msgctxt "MainWindow|"
@@ -3239,12 +3235,14 @@ msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
 msgstr ""
+"Folder twojej instancji zawiera 'Rar$' - oznacza to, że nie wypakowałeś "
+"archiwum launchera!"
 
 #: src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
-msgstr ""
+msgstr "Folder twojej instancji jest w folderze tymczasowym: '%1'!"
 
 #: src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
@@ -3693,11 +3691,9 @@ msgid "Delete"
 msgstr "Usuń"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:87
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr "Prześlij log do paste.ee - pozostanie online przez miesiąc"
+msgstr "Wyślij log na serwis typu pastebin skonfigurowany w preferencjach."
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -3861,7 +3857,7 @@ msgstr "Błąd sieciowy: %1"
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Error: %1 returned unexpected status code %2 %3"
-msgstr ""
+msgstr "Błąd: %1 zwrócił nieoczekiwany kod statusu %2 %3"
 
 #: src/launcher/launch/steps/PostLaunchCommand.cpp:31
 #, qt-format
