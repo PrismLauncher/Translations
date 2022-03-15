@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-03-17 22:42+0000\n"
-"Last-Translator: Sebastian Rüth <sebirueth@gmx.de>\n"
+"Last-Translator: Radek Raczkowski <rdkracz@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/polymc/polymc/de/>"
 "\n"
 "Language: de\n"
@@ -2870,7 +2870,7 @@ msgstr "Einstellungen"
 #: src/launcher/ui/MainWindow.cpp:327
 msgctxt "MainWindow|"
 msgid "Change settings."
-msgstr "Einstellungen ändern"
+msgstr "Einstellungen ändern."
 
 #: src/launcher/ui/MainWindow.cpp:338
 msgctxt "MainWindow|"
@@ -3954,7 +3954,7 @@ msgstr "Konto auswählen"
 #: src/launcher/ui/dialogs/ProfileSelectDialog.ui:20
 msgctxt "ProfileSelectDialog|"
 msgid "Select a profile."
-msgstr "Profil auswählen"
+msgstr "Profil auswählen."
 
 #: src/launcher/ui/dialogs/ProfileSelectDialog.ui:38
 msgctxt "ProfileSelectDialog|"
