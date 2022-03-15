@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-15 16:57+0000\n"
-"Last-Translator: DioEgizio <gaclepi@outlook.it>\n"
+"PO-Revision-Date: 2022-03-15 17:15+0000\n"
+"Last-Translator: hshsshhsh <wikeyem335@tourcc.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/polymc/polymc/it/"
 ">\n"
 "Language: it\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:94
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Could not understand pack manifest:\n"
-msgstr "Impossibile interpretare il manifesto del modpack:\n"
+msgstr "Impossibile interpretare il manifest del modpack:\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:102
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:183
@@ -46,7 +46,7 @@ msgstr "Impossibile trovare una versione per il loader %1"
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:229
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "No loader version set for modpack!"
-msgstr "Nessuna versione del loader impostata per il modpack!"
+msgstr "Nessuna versione del modloader impostata per il modpack!"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:333
 #, qt-format
@@ -144,9 +144,9 @@ msgid ""
 "by allowing you to have multiple instances of Minecraft at "
 "once.</p></body></html>"
 msgstr ""
-"<html><head/><body><p>Un launcher personalizzato che rende la gestione di "
-"Minecraft più semplice permettendo di avere più istanze di Minecraft "
-"contemporaneamente.</p></body></html>"
+"&lt;html&gt;&lt;body&gt;<p>Un launcher personalizzato che rende la gestione "
+"di Minecraft più semplice permettendo di avere più istanze di Minecraft "
+"contemporaneamente.</p>&lt;/body&gt;&lt;/html&gt;"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:157
 msgctxt "AboutDialog|"
