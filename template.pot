@@ -1797,14 +1797,6 @@ msgid "User Interface"
 msgstr ""
 
 msgctxt "LauncherPage|"
-msgid "Launcher notifications"
-msgstr ""
-
-msgctxt "LauncherPage|"
-msgid "Reset hidden notifications"
-msgstr ""
-
-msgctxt "LauncherPage|"
 msgid "Instance view sorting mode"
 msgstr ""
 
@@ -2789,14 +2781,6 @@ msgid "Download mods"
 msgstr ""
 
 msgctxt "ModDownloadDialog|"
-msgid "You're about to download the following mods:"
-msgstr ""
-
-msgctxt "ModDownloadDialog|"
-msgid "File name: "
-msgstr ""
-
-msgctxt "ModDownloadDialog|"
 msgid "Confirm mods to download"
 msgstr ""
 
@@ -3106,18 +3090,6 @@ msgstr ""
 
 msgctxt "NotesPage|"
 msgid "Notes"
-msgstr ""
-
-msgctxt "NotificationDialog|"
-msgid "Notification"
-msgstr ""
-
-msgctxt "NotificationDialog|"
-msgid "Don't show again"
-msgstr ""
-
-msgctxt "NotificationDialog|"
-msgid "Close"
 msgstr ""
 
 msgctxt "NullInstance|"
@@ -3754,6 +3726,19 @@ msgstr ""
 
 msgctxt "ResourcePackPage|"
 msgid "Resource packs"
+msgstr ""
+
+msgctxt "ReviewMessageBox|"
+msgid "Confirm mod selection"
+msgstr ""
+
+msgctxt "ReviewMessageBox|"
+msgid "You're about to download the following mods:"
+msgstr ""
+
+#, qt-format
+msgctxt "ReviewMessageBox|"
+msgid "Filename: %1"
 msgstr ""
 
 msgctxt "ScreenshotsPage|"
