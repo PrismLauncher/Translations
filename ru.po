@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-03-16 14:38+0000\n"
-"Last-Translator: Sergey Shatunov <me@prok.pw>\n"
+"Last-Translator: Radek Raczkowski <rdkracz@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/polymc/polymc/ru/"
 ">\n"
 "Language: ru\n"
@@ -951,7 +951,7 @@ msgstr "Загрузка библиотек FML..."
 #: src/launcher/minecraft/update/FMLLibrariesTask.cpp:90
 msgctxt "FMLLibrariesTask|"
 msgid "Copying FML libraries into the instance..."
-msgstr "Копирование  библиотек FML в каталог сборки…"
+msgstr "Копирование библиотек FML в каталог сборки…"
 
 #: src/launcher/minecraft/update/FMLLibrariesTask.cpp:101
 msgctxt "FMLLibrariesTask|"
@@ -2596,7 +2596,8 @@ msgid ""
 "them.\n"
 "You'll have to correct this problem manually."
 msgstr ""
-"Некоторым артефактам, помеченным как 'local', недостает файлов: %1\n"
+"Некоторым артефактам, помеченным как 'local', недостает файлов:\n"
+"%1\n"
 "\n"
 "Вам нужно либо добавить эти файлы, или убрать пакеты, которые их требуют.\n"
 "Вам придется вручную исправить эту ошибку."
@@ -2911,7 +2912,7 @@ msgstr "Получить помощь с %1 или Minecraft."
 #: src/launcher/ui/MainWindow.cpp:391
 msgctxt "MainWindow|"
 msgid "Update"
-msgstr "Обновить "
+msgstr "Обновить"
 
 #: src/launcher/ui/MainWindow.cpp:392
 #, qt-format
@@ -3702,7 +3703,7 @@ msgstr "Удалить"
 #| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr "Загрузить журнал на сайт paste.ee - он будет хранится в течение месяца"
+msgstr "Загрузить журнал на сайт paste.ee - он будет хранится в течение месяца."
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -4403,8 +4404,8 @@ msgid ""
 "This message will be displayed until you remove them from the JVM arguments."
 msgstr ""
 "Вы пытались вручную задать параметр памяти JVM (используя \"-XX:PermSize\", "
-"\"-XX-MaxHeapSize\",\"-XX:InitialHeapSize\", \"-Xmx\" или \"-Xms\") — в "
-"настройках есть выделенные поля для них (вкладка Java, в группе «Память» "
+"\"-XX-MaxHeapSize\",\"-XX:InitialHeapSize\", \"-Xmx\" или \"-Xms\")\n"
+"в настройках есть выделенные поля для них (вкладка Java, в группе «Память» "
 "вверху).\n"
 "Это сообщение будет отображаться до тех пор, пока вы не удалите их из "
 "аргументов JVM."
@@ -4777,7 +4778,7 @@ msgstr "Не удалось загрузить скин!"
 #: src/launcher/ui/dialogs/SkinUploadDialog.cpp:97
 msgctxt "SkinUploadDialog|"
 msgid "Success"
-msgstr "Скин успешно изменён."
+msgstr "Скин успешно изменён"
 
 #: src/launcher/ui/dialogs/SkinUploadDialog.cpp:103
 msgctxt "SkinUploadDialog|"
@@ -5255,7 +5256,7 @@ msgstr "Установить Fabric"
 #: src/launcher/ui/pages/instance/VersionPage.ui:192
 msgctxt "VersionPage|"
 msgid "Install the Fabric Loader package."
-msgstr "Установить пакет загрузчика Fabric"
+msgstr "Установить пакет загрузчика Fabric."
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:197
 msgctxt "VersionPage|"
@@ -5280,7 +5281,7 @@ msgstr "Установить обычные модификации."
 #: src/launcher/ui/pages/instance/VersionPage.ui:213
 msgctxt "VersionPage|"
 msgid "Add to Minecraft.jar"
-msgstr "Добавить мод в jar-файл Minecraft."
+msgstr "Добавить мод в jar-файл Minecraft"
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:216
 msgctxt "VersionPage|"
@@ -5464,7 +5465,7 @@ msgstr "Выберите версию загрузчика Fabric"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:454
 msgctxt "VersionPage|"
 msgid "No Fabric Loader versions are currently available."
-msgstr "Нет доступных версий загрузчика Fabric"
+msgstr "Нет доступных версий загрузчика Fabric."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:455
 msgctxt "VersionPage|"
