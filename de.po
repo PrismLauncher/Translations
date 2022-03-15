@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-27 19:54+0000\n"
-"Last-Translator: Daniel Schemp <dschemp@mailbox.org>\n"
+"PO-Revision-Date: 2022-03-17 22:42+0000\n"
+"Last-Translator: Sebastian Rüth <sebirueth@gmx.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/polymc/polymc/de/>"
 "\n"
 "Language: de\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: de_DE\n"
 "X-Qt-Contexts: true\n"
 
@@ -3255,9 +3255,11 @@ msgid ""
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
+"Das ist ein Problem: <br> - Der Launcher wird von dem Betriebssystem "
+"warhscheinlich ohne Warnung gelöscht <br> - schließen sie den Launcher und "
+"extrahieren sie ihn in einen echten Ordner, nicht in einen temporären Ordner"
 
 #: src/launcher/ui/MainWindow.cpp:1869
-#, fuzzy
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
@@ -3892,7 +3894,7 @@ msgstr "Netzwerk-Fehler: %1"
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Error: %1 returned unexpected status code %2 %3"
-msgstr ""
+msgstr "Fehler: %1 hat einen unerwarteten Status Code zurückgegeben: %2 %3"
 
 #: src/launcher/launch/steps/PostLaunchCommand.cpp:31
 #, qt-format
