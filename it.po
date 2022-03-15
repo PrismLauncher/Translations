@@ -1,9 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-03-15 16:57+0000\n"
+"Last-Translator: Radek Raczkowski <rdkracz@gmail.com>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/polymc/polymc/it/"
+">\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: it_IT\n"
 "X-Qt-Contexts: true\n"
 
@@ -856,6 +862,7 @@ msgid "OK"
 msgstr "OK"
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
+#, fuzzy
 msgctxt "ExternalToolsPage|"
 msgid "JProfiler setup seems to be OK"
 msgstr "JProfiler sembra essere essere configurato correttamente"
@@ -877,6 +884,7 @@ msgstr ""
 "%1"
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:154
+#, fuzzy
 msgctxt "ExternalToolsPage|"
 msgid "JVisualVM setup seems to be OK"
 msgstr "JVisualVM sembra essere essere configurato correttamente"
@@ -2093,7 +2101,7 @@ msgstr "Aggiorna Impostazioni"
 #: src/launcher/ui/pages/global/LauncherPage.ui:57
 msgctxt "LauncherPage|"
 msgid "Check for updates on start?"
-msgstr "Verifica aggiornamenti all'avvio"
+msgstr "Verifica aggiornamenti all'avvio?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:64
 msgctxt "LauncherPage|"
@@ -2218,17 +2226,17 @@ msgstr "Impostazioni della Console"
 #: src/launcher/ui/pages/global/LauncherPage.ui:367
 msgctxt "LauncherPage|"
 msgid "Show console while the game is running?"
-msgstr "Mostra la console mentre il gioco è in esecuzione"
+msgstr "Mostra la console mentre il gioco è in esecuzione?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:374
 msgctxt "LauncherPage|"
 msgid "Automatically close console when the game quits?"
-msgstr "Chiudi automaticamente la console all'uscita dal gioco"
+msgstr "Chiudi automaticamente la console all'uscita dal gioco?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:381
 msgctxt "LauncherPage|"
 msgid "Show console when the game crashes?"
-msgstr "Mostra la console quando il gioco si blocca"
+msgstr "Mostra la console quando il gioco si blocca?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:391
 msgctxt "LauncherPage|"
@@ -3687,7 +3695,7 @@ msgstr "Elimina"
 #| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr "Carica il log su paste.ee - rimarrà online per un mese"
+msgstr "Carica il log su paste.ee - rimarrà online per un mese."
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -3920,12 +3928,12 @@ msgstr "Seleziona un profilo."
 #: src/launcher/ui/dialogs/ProfileSelectDialog.ui:38
 msgctxt "ProfileSelectDialog|"
 msgid "Use as default?"
-msgstr "Usa come predefinito"
+msgstr "Usa come predefinito?"
 
 #: src/launcher/ui/dialogs/ProfileSelectDialog.ui:45
 msgctxt "ProfileSelectDialog|"
 msgid "Use as default for this instance only?"
-msgstr "Usa come profilo predefinito per questa istanza"
+msgstr "Usa come profilo predefinito per questa istanza?"
 
 #: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:41
 #: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:45
