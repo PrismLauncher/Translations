@@ -1,16 +1,22 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-03-15 17:15+0000\n"
+"Last-Translator: Deleted User <noreply+42020@weblate.org>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/polymc/polymc/it/"
+">\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: it_IT\n"
 "X-Qt-Contexts: true\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:94
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Could not understand pack manifest:\n"
-msgstr "Impossibile interpretare il manifesto del modpack:\n"
+msgstr "Impossibile interpretare il manifest del modpack:\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:102
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:183
@@ -40,7 +46,7 @@ msgstr "Impossibile trovare una versione per il loader %1"
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:229
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "No loader version set for modpack!"
-msgstr "Nessuna versione del loader impostata per il modpack!"
+msgstr "Nessuna versione del modloader impostata per il modpack!"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:333
 #, qt-format
@@ -138,9 +144,9 @@ msgid ""
 "by allowing you to have multiple instances of Minecraft at "
 "once.</p></body></html>"
 msgstr ""
-"<html><head/><body><p>Un launcher personalizzato che rende la gestione di "
-"Minecraft più semplice permettendo di avere più istanze di Minecraft "
-"contemporaneamente.</p></body></html>"
+"&lt;html&gt;&lt;body&gt;<p>Un launcher personalizzato che rende la gestione "
+"di Minecraft più semplice permettendo di avere più istanze di Minecraft "
+"contemporaneamente.</p>&lt;/body&gt;&lt;/html&gt;"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:157
 msgctxt "AboutDialog|"
@@ -401,6 +407,10 @@ msgid ""
 "\n"
 "Please update both your operating system and PolyMC."
 msgstr ""
+"Gli account Microsoft sono utilizzabili da macOS 10.13+ con PolyMC "
+"pienamente aggiornato.\n"
+"\n"
+"Per favore aggiorna il tuo sistema operativo e PolyMC"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
@@ -1233,7 +1243,6 @@ msgid "Zip (*.zip)"
 msgstr "Zip (*.zip)"
 
 #: src/launcher/meta/Index.cpp:71
-#, fuzzy
 msgctxt "Index|"
 msgid "Name"
 msgstr "Nome"
@@ -1909,7 +1918,7 @@ msgstr "Ricevuto uno stato di sessione indeterminato durante il login."
 #: src/launcher/LaunchController.cpp:171
 msgctxt "LaunchController|"
 msgid "Play demo?"
-msgstr ""
+msgstr "Giocare alla demo?"
 
 #: src/launcher/LaunchController.cpp:172
 msgctxt "LaunchController|"
@@ -1919,21 +1928,25 @@ msgid ""
 "\n"
 "Do you want to play the demo?"
 msgstr ""
+"Il tuo account non possiede Minecraft. \n"
+"Devi prima comprare il gioco per giocarlo.\n"
+"\n"
+"Vuoi giocare alla demo?"
 
 #: src/launcher/LaunchController.cpp:174
 msgctxt "LaunchController|"
 msgid "Play Demo"
-msgstr ""
+msgstr "Gioca alla demo"
 
 #: src/launcher/LaunchController.cpp:175
 msgctxt "LaunchController|"
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 #: src/launcher/LaunchController.cpp:185
 msgctxt "LaunchController|"
 msgid "Launch cancelled - account does not own Minecraft."
-msgstr ""
+msgstr "L'avvio é stato annullato - l'account non possiede Minecraft"
 
 #: src/launcher/LaunchController.cpp:201
 msgctxt "LaunchController|"
@@ -2046,12 +2059,7 @@ msgstr ""
 "bloccato per qualche ragione"
 
 #: src/launcher/launch/LaunchTask.cpp:215
-#, fuzzy, qt-format
-#| msgid ""
-#| "PolyMC stopped watching the game log because the log length surpassed %1 "
-#| "lines.\n"
-#| "You may have to fix your mods because the game is still logging to files "
-#| "and likely wasting harddrive space at an alarming rate!"
+#, qt-format
 msgctxt "LaunchTask|"
 msgid ""
 "PolyMC stopped watching the game log because the log length surpassed %1 "
@@ -2093,7 +2101,7 @@ msgstr "Aggiorna Impostazioni"
 #: src/launcher/ui/pages/global/LauncherPage.ui:57
 msgctxt "LauncherPage|"
 msgid "Check for updates on start?"
-msgstr "Verifica aggiornamenti all'avvio"
+msgstr "Verifica aggiornamenti all'avvio?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:64
 msgctxt "LauncherPage|"
@@ -2118,7 +2126,7 @@ msgstr "Ista&nze:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:120
 msgctxt "LauncherPage|"
 msgid "&Mods:"
-msgstr "&Mods:"
+msgstr "&amp;Mods:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:143
 msgctxt "LauncherPage|"
@@ -2218,17 +2226,17 @@ msgstr "Impostazioni della Console"
 #: src/launcher/ui/pages/global/LauncherPage.ui:367
 msgctxt "LauncherPage|"
 msgid "Show console while the game is running?"
-msgstr "Mostra la console mentre il gioco è in esecuzione"
+msgstr "Mostra la console mentre il gioco è in esecuzione?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:374
 msgctxt "LauncherPage|"
 msgid "Automatically close console when the game quits?"
-msgstr "Chiudi automaticamente la console all'uscita dal gioco"
+msgstr "Chiudi automaticamente la console all'uscita dal gioco?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:381
 msgctxt "LauncherPage|"
 msgid "Show console when the game crashes?"
-msgstr "Mostra la console quando il gioco si blocca"
+msgstr "Mostra la console quando il gioco si blocca?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:391
 msgctxt "LauncherPage|"
@@ -2632,11 +2640,9 @@ msgid "&Copy"
 msgstr "&Copia"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:103
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Caricando il log su paste.ee - rimarrà archiviato per un mese"
+msgstr "Caricando il log sul servizio di paste configurato nelle impostazioni"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -2731,7 +2737,7 @@ msgstr "Aggiungi Account Microsoft"
 #: src/launcher/ui/dialogs/MSALoginDialog.ui:56
 msgctxt "MSALoginDialog|"
 msgid "Open page and copy code"
-msgstr ""
+msgstr "Apri la pagina e copia codice"
 
 #: src/launcher/ui/dialogs/MSALoginDialog.cpp:87
 #, qt-format
@@ -2989,12 +2995,12 @@ msgstr "Modifica le note per l'istanza selezionata."
 #: src/launcher/ui/MainWindow.cpp:502
 msgctxt "MainWindow|"
 msgid "View Mods"
-msgstr ""
+msgstr "Vedi le mod"
 
 #: src/launcher/ui/MainWindow.cpp:503
 msgctxt "MainWindow|"
 msgid "View the mods of this instance."
-msgstr ""
+msgstr "Vedi le mod di questa istanza"
 
 #: src/launcher/ui/MainWindow.cpp:509
 msgctxt "MainWindow|"
@@ -3144,10 +3150,9 @@ msgstr "Nessun account predefinito"
 #: src/launcher/ui/MainWindow.cpp:1303
 msgctxt "MainWindow|"
 msgid "Warnings"
-msgstr ""
+msgstr "Avvisi"
 
 #: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
-#, fuzzy
 msgctxt "MainWindow|"
 msgid "Abort"
 msgstr "Annulla"
@@ -3159,32 +3164,35 @@ msgid ""
 "at least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
+"Il Launcher non può scaricare Minecraft o aggiornare istanze se non hai "
+"almeno un account aggiunto.\n"
+"Per favore aggiungi il tuo account Mojang/Minecraft"
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Group name"
-msgstr ""
+msgstr "Nome del gruppo"
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Enter a new group name."
-msgstr ""
+msgstr "Inserisci un nuovo nome del gruppo"
 
 #: src/launcher/ui/MainWindow.cpp:1514
 msgctxt "MainWindow|"
 msgid "Delete group"
-msgstr ""
+msgstr "Elimina gruppo"
 
 #: src/launcher/ui/MainWindow.cpp:1514
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Are you sure you want to delete the group %1"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare il gruppo %1"
 
 #: src/launcher/ui/MainWindow.cpp:1632
 msgctxt "MainWindow|"
 msgid "CAREFUL!"
-msgstr ""
+msgstr "ATTENTO!"
 
 #: src/launcher/ui/MainWindow.cpp:1633
 #, qt-format
@@ -3195,17 +3203,23 @@ msgid ""
 "\n"
 "Are you sure?"
 msgstr ""
+"%1 sta per essere eliminato\n"
+"Questo è permanente e cancellerà completamente l'istanza.\n"
+"\n"
+"Sei sicuro?"
 
 #: src/launcher/ui/MainWindow.cpp:1838
 msgctxt "MainWindow|"
 msgid "Rename Instance"
-msgstr ""
+msgstr "Rinomina istanza"
 
 #: src/launcher/ui/MainWindow.cpp:1851
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
 msgstr ""
+"La cartella dell'istanza contiene '!' e questo è noto per causare problemi "
+"con Java!"
 
 #: src/launcher/ui/MainWindow.cpp:1853
 #, qt-format
@@ -3214,6 +3228,8 @@ msgid ""
 "You have now two options: <br/> - change the instance folder in the settings "
 "<br/> - move this installation of %1 to a different folder"
 msgstr ""
+"Ora hai due opzioni: <br> - cambia la cartella dell'istanza nelle "
+"impostazioni <br> - sposta questa installazione di %1 in una cartella diversa"
 
 #: src/launcher/ui/MainWindow.cpp:1862
 msgctxt "MainWindow|"
@@ -3222,6 +3238,10 @@ msgid ""
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
+"Questo è un problema: <br> - È probabile che il programma di avvio venga "
+"eliminato senza preavviso dal sistema operativo <br> - chiudi ora il "
+"programma di avvio ed estrailo in una posizione reale, non in una cartella "
+"temporanea"
 
 #: src/launcher/ui/MainWindow.cpp:1869
 msgctxt "MainWindow|"
@@ -3229,18 +3249,20 @@ msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
 msgstr ""
+"La cartella dell'istanza contiene \"Rar$\", ciò significa che non hai "
+"estratto l'archivio del programma di avvio!"
 
 #: src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
-msgstr ""
+msgstr "La cartella dell'istanza '%1' si trova in una cartella temporanea!"
 
 #: src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Total playtime: %1"
-msgstr ""
+msgstr "Tempo di gioco totale: %1"
 
 #: src/launcher/ui/MainWindow.cpp:1221 src/launcher/ui/MainWindow.cpp:1238
 #: src/launcher/ui/MainWindow.cpp:1296 src/launcher/ui/MainWindow.cpp:1345
@@ -3683,11 +3705,9 @@ msgid "Delete"
 msgstr "Elimina"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:87
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr "Carica il log su paste.ee - rimarrà online per un mese"
+msgstr "Carica il log sul servizio di paste configurato nelle impostazioni"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -3843,19 +3863,19 @@ msgstr "Carica log"
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Uploading to %1"
-msgstr ""
+msgstr "Caricando su %1"
 
 #: src/launcher/net/PasteUpload.cpp:58
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Network error: %1"
-msgstr ""
+msgstr "Errore di rete: %1"
 
 #: src/launcher/net/PasteUpload.cpp:65
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Error: %1 returned unexpected status code %2 %3"
-msgstr ""
+msgstr "Errore: %1 ha restituito il codice di stato imprevisto %2 %3"
 
 #: src/launcher/launch/steps/PostLaunchCommand.cpp:31
 #, qt-format
@@ -3920,12 +3940,12 @@ msgstr "Seleziona un profilo."
 #: src/launcher/ui/dialogs/ProfileSelectDialog.ui:38
 msgctxt "ProfileSelectDialog|"
 msgid "Use as default?"
-msgstr "Usa come predefinito"
+msgstr "Usa come predefinito?"
 
 #: src/launcher/ui/dialogs/ProfileSelectDialog.ui:45
 msgctxt "ProfileSelectDialog|"
 msgid "Use as default for this instance only?"
-msgstr "Usa come profilo predefinito per questa istanza"
+msgstr "Usa come profilo predefinito per questa istanza?"
 
 #: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:41
 #: src/launcher/ui/dialogs/ProfileSelectDialog.cpp:45
@@ -5048,8 +5068,6 @@ msgstr ""
 "\n"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:14
-#, fuzzy
-#| msgid "PolyMC Update"
 msgctxt "UpdateDialog|"
 msgid "PolyMC Update"
 msgstr "Aggiornamento di PolyMC"
@@ -5432,19 +5450,14 @@ msgstr ""
 "intermediarie!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
-#, fuzzy
-#| msgid ""
-#| "PolyMC cannot download Minecraft or update instances unless you have at "
-#| "least one account added.\n"
-#| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
 msgid ""
 "PolyMC cannot download Minecraft or update instances unless you have at "
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"PolyMC non può scaricare Minecraft o aggiornare le istanze se non hai "
-"almeno un account aggiunto.\n"
+"PolyMC non può scaricare Minecraft o aggiornare le istanze se non hai almeno "
+"un account aggiunto.\n"
 "Per favore aggiungi il tuo account Mojang o Minecraft."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:424
