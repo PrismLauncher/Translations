@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-03-15 17:15+0000\n"
-"Last-Translator: hshsshhsh <wikeyem335@tourcc.com>\n"
+"Last-Translator: Deleted User <noreply+42020@weblate.org>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/polymc/polymc/it/"
 ">\n"
 "Language: it\n"
@@ -866,7 +866,6 @@ msgid "OK"
 msgstr "OK"
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
-#, fuzzy
 msgctxt "ExternalToolsPage|"
 msgid "JProfiler setup seems to be OK"
 msgstr "JProfiler sembra essere essere configurato correttamente"
@@ -888,7 +887,6 @@ msgstr ""
 "%1"
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:154
-#, fuzzy
 msgctxt "ExternalToolsPage|"
 msgid "JVisualVM setup seems to be OK"
 msgstr "JVisualVM sembra essere essere configurato correttamente"
@@ -1245,7 +1243,6 @@ msgid "Zip (*.zip)"
 msgstr "Zip (*.zip)"
 
 #: src/launcher/meta/Index.cpp:71
-#, fuzzy
 msgctxt "Index|"
 msgid "Name"
 msgstr "Nome"
@@ -2062,12 +2059,7 @@ msgstr ""
 "bloccato per qualche ragione"
 
 #: src/launcher/launch/LaunchTask.cpp:215
-#, fuzzy, qt-format
-#| msgid ""
-#| "PolyMC stopped watching the game log because the log length surpassed %1 "
-#| "lines.\n"
-#| "You may have to fix your mods because the game is still logging to files "
-#| "and likely wasting harddrive space at an alarming rate!"
+#, qt-format
 msgctxt "LaunchTask|"
 msgid ""
 "PolyMC stopped watching the game log because the log length surpassed %1 "
@@ -2134,7 +2126,7 @@ msgstr "Ista&nze:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:120
 msgctxt "LauncherPage|"
 msgid "&Mods:"
-msgstr "&Mods:"
+msgstr "&amp;Mods:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:143
 msgctxt "LauncherPage|"
@@ -2648,11 +2640,9 @@ msgid "&Copy"
 msgstr "&Copia"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:103
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Caricando il log su paste.ee - rimarrà archiviato per un mese"
+msgstr "Caricando il log sul servizio di paste configurato nelle impostazioni"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -3163,7 +3153,6 @@ msgid "Warnings"
 msgstr "Avvisi"
 
 #: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
-#, fuzzy
 msgctxt "MainWindow|"
 msgid "Abort"
 msgstr "Annulla"
@@ -3716,11 +3705,9 @@ msgid "Delete"
 msgstr "Elimina"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:87
-#, fuzzy
-#| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr "Carica il log su paste.ee - rimarrà online per un mese."
+msgstr "Carica il log sul servizio di paste configurato nelle impostazioni"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -5081,8 +5068,6 @@ msgstr ""
 "\n"
 
 #: src/launcher/ui/dialogs/UpdateDialog.ui:14
-#, fuzzy
-#| msgid "PolyMC Update"
 msgctxt "UpdateDialog|"
 msgid "PolyMC Update"
 msgstr "Aggiornamento di PolyMC"
@@ -5465,19 +5450,14 @@ msgstr ""
 "intermediarie!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:398
-#, fuzzy
-#| msgid ""
-#| "PolyMC cannot download Minecraft or update instances unless you have at "
-#| "least one account added.\n"
-#| "Please add your Mojang or Minecraft account."
 msgctxt "VersionPage|"
 msgid ""
 "PolyMC cannot download Minecraft or update instances unless you have at "
 "least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
-"PolyMC non può scaricare Minecraft o aggiornare le istanze se non hai "
-"almeno un account aggiunto.\n"
+"PolyMC non può scaricare Minecraft o aggiornare le istanze se non hai almeno "
+"un account aggiunto.\n"
 "Per favore aggiungi il tuo account Mojang o Minecraft."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:424
