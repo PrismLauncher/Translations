@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-11 12:36+0000\n"
+"PO-Revision-Date: 2022-03-16 09:57+0000\n"
 "Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/polymc/polymc/fr/>"
 "\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: fr_FR\n"
 "X-Qt-Contexts: true\n"
 
@@ -3252,6 +3252,9 @@ msgid ""
 "You have now two options: <br/> - change the instance folder in the settings "
 "<br/> - move this installation of %1 to a different folder"
 msgstr ""
+"Vous avez désormais deux options : <br> - modifier le dossier de l'instance "
+"dans les paramètres <br> - déplacer cette installation de %1 vers un autre "
+"dossier"
 
 #: src/launcher/ui/MainWindow.cpp:1862
 msgctxt "MainWindow|"
@@ -3260,6 +3263,10 @@ msgid ""
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
+"Cela pose un problème : <br> - Le lanceur sera probablement supprimé sans "
+"avertissement par le système d'exploitation <br> - Fermez le lanceur "
+"maintenant et décompressez-le vers un emplacement réel, pas dans un dossier "
+"temporaire"
 
 #: src/launcher/ui/MainWindow.cpp:1869
 msgctxt "MainWindow|"
@@ -3267,12 +3274,15 @@ msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
 msgstr ""
+"Votre dossier d'instance contient « Rar$ », cela signifie que vous n'avez "
+"pas extrait l'archive du lanceur !"
 
 #: src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
 msgstr ""
+"Le dossier de votre instance se trouve dans un dossier temporaire : « %1 » !"
 
 #: src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
