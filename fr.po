@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-11 12:36+0000\n"
-"Last-Translator: Nathan <bonnemainsnathan@gmail.com>\n"
+"PO-Revision-Date: 2022-03-16 09:57+0000\n"
+"Last-Translator: Radek Raczkowski <rdkracz@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/polymc/polymc/fr/>"
 "\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 "X-Language: fr_FR\n"
 "X-Qt-Contexts: true\n"
 
@@ -73,7 +73,7 @@ msgstr "Extraction des configurations..."
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to open pack configs %1!"
-msgstr "Échec d'ouverture des configurations du pack %1!"
+msgstr "Échec d'ouverture des configurations du pack %1 !"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:504
 msgctxt "ATLauncher::PackInstallTask|"
@@ -582,7 +582,7 @@ msgstr "Aucune version n'est actuellement disponible"
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:163
 msgctxt "AtlPage|"
 msgid "Couldn't load or download the version lists!"
-msgstr "Impossible de charger ou télécharger les listes de versions!"
+msgstr "Impossible de charger ou télécharger les listes de versions !"
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
@@ -723,18 +723,17 @@ msgid ""
 "launch</li></ul><p>Wrapper command allows launching using an extra wrapper "
 "program (like 'optirun' on Linux)</p></body></html>"
 msgstr ""
-"<html><head/><body><p>Les commandes de pré-lancement s'exécutent avant le "
-"lancement de l'instance, et les commandes de post-arrêt s'exécutent après "
+"&lt;html&gt;&lt;body&gt;<p>Les commandes de pré-lancement s'exécutent avant "
+"le lancement de l'instance, et les commandes de post-arrêt s'exécutent après "
 "qu'il ferme.</p><p>Les deux vont être exécuté dans le fichier de travail de "
-"PolyMC avec des variables environnementales supplémentaires:</p> "
-"<ul><li>$INST_NAME - Nom de l'instance</li><li>$INST_ID - ID de l'instance "
-"(Nom du fichier)</li><li>$INST_DIR - Chemin absolu de "
-"l'instance</li><li>$INST_MC_DIR - Chemin absolu de "
-"Minecraft</li><li>$INST_JAVA - Le binaire de Java utilisé pour le "
-"lancement</li><li>$INST_JAVA_ARGS - Paramètres de la ligne de commande "
-"utilisés pour le lancement</li></ul><p>La commande wrapper permet de "
-"démarrer en utilisant un programme externe (exemple: 'optirun' sur "
-"Linux)</p></body></html>"
+"PolyMC avec des variables environnementales supplémentaires :</p> <ul><li>$"
+"INST_NAME - Nom de l'instance</li><li>$INST_ID - ID de l'instance (Nom du "
+"fichier)</li><li>$INST_DIR - Chemin absolu de l'instance</li><li>$"
+"INST_MC_DIR - Chemin absolu de Minecraft</li><li>$INST_JAVA - Le binaire de "
+"Java utilisé pour le lancement</li><li>$INST_JAVA_ARGS - Paramètres de la "
+"ligne de commande utilisés pour le lancement</li></ul><p>La commande wrapper "
+"permet de démarrer en utilisant un programme externe (exemple : 'optirun' "
+"sur Linux)</p>&lt;/body&gt;&lt;/html&gt;"
 
 #: src/launcher/ui/pages/global/CustomCommandsPage.h:35
 msgctxt "CustomCommandsPage|"
@@ -1401,7 +1400,7 @@ msgstr ""
 #, qt-format
 msgctxt "InstanceImportTask|"
 msgid "Unrecognized/unhandled PackageType for: %1"
-msgstr "Type de paquet inconnu ou pas pris en charge pour: %1"
+msgstr "Type de paquet inconnu ou pas pris en charge pour : %1"
 
 #: src/launcher/InstanceImportTask.cpp:393
 msgctxt "InstanceImportTask|"
@@ -3252,6 +3251,9 @@ msgid ""
 "You have now two options: <br/> - change the instance folder in the settings "
 "<br/> - move this installation of %1 to a different folder"
 msgstr ""
+"Vous avez désormais deux options : <br> - modifier le dossier de l'instance "
+"dans les paramètres <br> - déplacer cette installation de %1 vers un autre "
+"dossier"
 
 #: src/launcher/ui/MainWindow.cpp:1862
 msgctxt "MainWindow|"
@@ -3260,6 +3262,10 @@ msgid ""
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
+"Cela pose un problème : <br> - Le lanceur sera probablement supprimé sans "
+"avertissement par le système d'exploitation <br> - Fermez le lanceur "
+"maintenant et décompressez-le vers un emplacement réel, pas dans un dossier "
+"temporaire"
 
 #: src/launcher/ui/MainWindow.cpp:1869
 msgctxt "MainWindow|"
@@ -3267,12 +3273,15 @@ msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
 msgstr ""
+"Votre dossier d'instance contient « Rar$ », cela signifie que vous n'avez "
+"pas extrait l'archive du lanceur !"
 
 #: src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
 msgstr ""
+"Le dossier de votre instance se trouve dans un dossier temporaire : « %1 » !"
 
 #: src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
@@ -3727,7 +3736,7 @@ msgstr "Supprimer"
 #| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr "Envoyer le journal vers paste.ee - il restera en ligne pendant un mois"
+msgstr "Envoyer le journal vers paste.ee - il restera en ligne pendant un mois."
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -4110,8 +4119,8 @@ msgid ""
 "Note: Proxy username and password are stored in plain text inside the "
 "launcher's configuration file!"
 msgstr ""
-"Remarque: le nom d'utilisateur et le mot de passe du proxy sont stockés en "
-"texte brut à l'intérieur du fichier de configuration du launcher!"
+"Remarque : le nom d'utilisateur et le mot de passe du proxy sont stockés en "
+"texte brut à l'intérieur du fichier de configuration du launcher !"
 
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
@@ -4897,7 +4906,9 @@ msgctxt "Technic::SolderPackInstallTask|"
 msgid ""
 "Resolving modpack files:\n"
 "%1"
-msgstr "Résolution des fichiers du pack de mods : %1"
+msgstr ""
+"Résolution des fichiers du pack de mods :\n"
+"%1"
 
 #: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:70
 msgctxt "Technic::SolderPackInstallTask|"
@@ -5598,7 +5609,7 @@ msgstr "Branche de la version"
 #: src/launcher/VersionProxyModel.cpp:102
 msgctxt "VersionProxyModel|"
 msgid "The version's type"
-msgstr "Le type de la version."
+msgstr "Le type de la version"
 
 #: src/launcher/VersionProxyModel.cpp:104
 msgctxt "VersionProxyModel|"
@@ -5613,7 +5624,7 @@ msgstr "Chemin d'accès du système de fichiers vers cette version"
 #: src/launcher/VersionProxyModel.cpp:108
 msgctxt "VersionProxyModel|"
 msgid "Release date of this version"
-msgstr "La date de sortie de la version."
+msgstr "La date de sortie de la version"
 
 #: src/launcher/VersionProxyModel.cpp:133
 #, qt-format

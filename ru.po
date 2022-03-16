@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-06 00:45+0000\n"
-"Last-Translator: Blyat <www.edav@gmail.com>\n"
+"PO-Revision-Date: 2022-03-16 14:38+0000\n"
+"Last-Translator: Radek Raczkowski <rdkracz@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/polymc/polymc/ru/"
 ">\n"
 "Language: ru\n"
@@ -406,6 +406,10 @@ msgid ""
 "\n"
 "Please update both your operating system and PolyMC."
 msgstr ""
+"Аккаунты Microsoft работают только на macOS 10.13 и новее, с полностью "
+"обновлённым PolyMC.\n"
+"\n"
+"Пожалуйста, обновите вашу операционную систему и PolyMC."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
@@ -947,7 +951,7 @@ msgstr "Загрузка библиотек FML..."
 #: src/launcher/minecraft/update/FMLLibrariesTask.cpp:90
 msgctxt "FMLLibrariesTask|"
 msgid "Copying FML libraries into the instance..."
-msgstr "Копирование  библиотек FML в каталог сборки…"
+msgstr "Копирование библиотек FML в каталог сборки…"
 
 #: src/launcher/minecraft/update/FMLLibrariesTask.cpp:101
 msgctxt "FMLLibrariesTask|"
@@ -2592,7 +2596,8 @@ msgid ""
 "them.\n"
 "You'll have to correct this problem manually."
 msgstr ""
-"Некоторым артефактам, помеченным как 'local', недостает файлов: %1\n"
+"Некоторым артефактам, помеченным как 'local', недостает файлов:\n"
+"%1\n"
 "\n"
 "Вам нужно либо добавить эти файлы, или убрать пакеты, которые их требуют.\n"
 "Вам придется вручную исправить эту ошибку."
@@ -2907,7 +2912,7 @@ msgstr "Получить помощь с %1 или Minecraft."
 #: src/launcher/ui/MainWindow.cpp:391
 msgctxt "MainWindow|"
 msgid "Update"
-msgstr "Обновить "
+msgstr "Обновить"
 
 #: src/launcher/ui/MainWindow.cpp:392
 #, qt-format
@@ -3146,7 +3151,6 @@ msgid "Warnings"
 msgstr "Предупреждения"
 
 #: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
-#, fuzzy
 msgctxt "MainWindow|"
 msgid "Abort"
 msgstr "Отмена"
@@ -3158,32 +3162,35 @@ msgid ""
 "at least one account added.\n"
 "Please add your Mojang or Minecraft account."
 msgstr ""
+"Лунчер не может скачивать Minecraft или обнолвять сборки до тех пор, пока не "
+"будет добавлен хотя бы один аккаунт.\n"
+"Пожалуйста, добавьте аккаунт Mojang или Microsoft."
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Group name"
-msgstr ""
+msgstr "Название группы"
 
 #: src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Enter a new group name."
-msgstr ""
+msgstr "Введите название новой группы."
 
 #: src/launcher/ui/MainWindow.cpp:1514
 msgctxt "MainWindow|"
 msgid "Delete group"
-msgstr ""
+msgstr "Удалить группу"
 
 #: src/launcher/ui/MainWindow.cpp:1514
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Are you sure you want to delete the group %1"
-msgstr ""
+msgstr "Вы уверены, что хотите удалить группу %1"
 
 #: src/launcher/ui/MainWindow.cpp:1632
 msgctxt "MainWindow|"
 msgid "CAREFUL!"
-msgstr ""
+msgstr "ВНИМАНИЕ!"
 
 #: src/launcher/ui/MainWindow.cpp:1633
 #, qt-format
@@ -3194,17 +3201,23 @@ msgid ""
 "\n"
 "Are you sure?"
 msgstr ""
+"Вы собираетесь удалить: %1\n"
+"Это действие необратимо и полностью удалит сборку.\n"
+"\n"
+"Вы уверены?"
 
 #: src/launcher/ui/MainWindow.cpp:1838
 msgctxt "MainWindow|"
 msgid "Rename Instance"
-msgstr ""
+msgstr "Переименовать сборку"
 
 #: src/launcher/ui/MainWindow.cpp:1851
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
 msgstr ""
+"Папка вашей сборки содержит знак '!' в своём пути, это приводит к проблемам "
+"в Java!"
 
 #: src/launcher/ui/MainWindow.cpp:1853
 #, qt-format
@@ -3213,6 +3226,8 @@ msgid ""
 "You have now two options: <br/> - change the instance folder in the settings "
 "<br/> - move this installation of %1 to a different folder"
 msgstr ""
+"У вас есть два способа: <br> - изменить папку сборки в настройках <br> - "
+"переместить сборку %1 в другую папку"
 
 #: src/launcher/ui/MainWindow.cpp:1862
 msgctxt "MainWindow|"
@@ -3228,18 +3243,20 @@ msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
 msgstr ""
+"Папка вашей сборки содержит 'Rar$' - это значит, что Вы не извлекли архив с "
+"лаунчером!"
 
 #: src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
-msgstr ""
+msgstr "Папка сборки распологается во временной папке: '%1'!"
 
 #: src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Total playtime: %1"
-msgstr ""
+msgstr "Общее время игры: %1"
 
 #: src/launcher/ui/MainWindow.cpp:1221 src/launcher/ui/MainWindow.cpp:1238
 #: src/launcher/ui/MainWindow.cpp:1296 src/launcher/ui/MainWindow.cpp:1345
@@ -3686,7 +3703,7 @@ msgstr "Удалить"
 #| msgid "Upload the log to paste.ee - it will stay online for a month"
 msgctxt "OtherLogsPage|"
 msgid "Upload the log to the paste service configured in preferences."
-msgstr "Загрузить журнал на сайт paste.ee - он будет хранится в течение месяца"
+msgstr "Загрузить журнал на сайт paste.ee - он будет хранится в течение месяца."
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
@@ -4387,8 +4404,8 @@ msgid ""
 "This message will be displayed until you remove them from the JVM arguments."
 msgstr ""
 "Вы пытались вручную задать параметр памяти JVM (используя \"-XX:PermSize\", "
-"\"-XX-MaxHeapSize\",\"-XX:InitialHeapSize\", \"-Xmx\" или \"-Xms\") — в "
-"настройках есть выделенные поля для них (вкладка Java, в группе «Память» "
+"\"-XX-MaxHeapSize\",\"-XX:InitialHeapSize\", \"-Xmx\" или \"-Xms\")\n"
+"в настройках есть выделенные поля для них (вкладка Java, в группе «Память» "
 "вверху).\n"
 "Это сообщение будет отображаться до тех пор, пока вы не удалите их из "
 "аргументов JVM."
@@ -4761,7 +4778,7 @@ msgstr "Не удалось загрузить скин!"
 #: src/launcher/ui/dialogs/SkinUploadDialog.cpp:97
 msgctxt "SkinUploadDialog|"
 msgid "Success"
-msgstr "Скин успешно изменён."
+msgstr "Скин успешно изменён"
 
 #: src/launcher/ui/dialogs/SkinUploadDialog.cpp:103
 msgctxt "SkinUploadDialog|"
@@ -5239,7 +5256,7 @@ msgstr "Установить Fabric"
 #: src/launcher/ui/pages/instance/VersionPage.ui:192
 msgctxt "VersionPage|"
 msgid "Install the Fabric Loader package."
-msgstr "Установить пакет загрузчика Fabric"
+msgstr "Установить пакет загрузчика Fabric."
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:197
 msgctxt "VersionPage|"
@@ -5264,7 +5281,7 @@ msgstr "Установить обычные модификации."
 #: src/launcher/ui/pages/instance/VersionPage.ui:213
 msgctxt "VersionPage|"
 msgid "Add to Minecraft.jar"
-msgstr "Добавить мод в jar-файл Minecraft."
+msgstr "Добавить мод в jar-файл Minecraft"
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:216
 msgctxt "VersionPage|"
@@ -5448,7 +5465,7 @@ msgstr "Выберите версию загрузчика Fabric"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:454
 msgctxt "VersionPage|"
 msgid "No Fabric Loader versions are currently available."
-msgstr "Нет доступных версий загрузчика Fabric"
+msgstr "Нет доступных версий загрузчика Fabric."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:455
 msgctxt "VersionPage|"
