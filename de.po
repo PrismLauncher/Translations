@@ -16,9 +16,9 @@ msgstr "Pastebin URL"
 #: src/launcher/ui/pages/global/APIPage.ui:57
 msgctxt "APIPage|"
 msgid ""
-"<html><head/><body><p>Note: only input that starts with <span style=\" "
-"font-weight:600;\">http://</span> or <span style=\" "
-"font-weight:600;\">https://</span> will be accepted.</p></body></html>"
+"<html><head/><body><p>Note: only input that starts with <span style=\" font-"
+"weight:600;\">http://</span> or <span style=\" font-weight:600;\">https://</"
+"span> will be accepted.</p></body></html>"
 msgstr ""
 
 #: src/launcher/ui/pages/global/APIPage.ui:74
@@ -37,8 +37,8 @@ msgid ""
 "<html><head/><body><p>Here you can choose from a predefined list of paste "
 "services, or input the URL of a different paste service of your choice, "
 "provided it supports the same protocol as 0x0.st, that is POST a file "
-"parameter to the URL and return a link in the response "
-"body.</p></body></html>"
+"parameter to the URL and return a link in the response body.</p></body></"
+"html>"
 msgstr ""
 
 #: src/launcher/ui/pages/global/APIPage.ui:106
@@ -173,96 +173,104 @@ msgid "Installing modpack"
 msgstr "Modpack wird installiert"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:730
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:732
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to create libraries component"
 msgstr "Bibliotheken-Komponent konnte nicht erstellt werden"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:754
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:756
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Unknown loader type: "
 msgstr "Unbekannter Modloader Typ: "
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:768
+#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:770
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to create pack component"
 msgstr "Modpack-Komponente konnte nicht erstellt werden"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:104
+#: src/launcher/ui/dialogs/AboutDialog.ui:97
 msgctxt "AboutDialog|"
 msgid "About"
 msgstr "Über"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:113
+#: src/launcher/ui/dialogs/AboutDialog.ui:106
 msgctxt "AboutDialog|"
 msgid ""
 "<html><head/><body><p>A custom launcher that makes managing Minecraft easier "
-"by allowing you to have multiple instances of Minecraft at "
-"once.</p></body></html>"
+"by allowing you to have multiple instances of Minecraft at once.</p></body></"
+"html>"
 msgstr ""
 "&lt;html&gt;&lt;body&gt;<p>Ein alternativer Minecraft Launcher, der das "
 "Management vereinfacht und es dir erlaubt, gleichzeitig mehrere "
 "Installationen von Minecraft zu verwalten.</p>&lt;/body&gt;&lt;/html&gt;"
 
-#~ msgctxt "AboutDialog|"
-#~ msgid "Version:"
-#~ msgstr "Version:"
-
 #: src/launcher/ui/dialogs/AboutDialog.ui:164
+#: src/launcher/ui/dialogs/AboutDialog.ui:167
 msgctxt "AboutDialog|"
 msgid "Platform:"
 msgstr "Plattform:"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:174
+#: src/launcher/ui/dialogs/AboutDialog.ui:177
 msgctxt "AboutDialog|"
 msgid "Build Number:"
 msgstr "Build-Nummer:"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:184
+#: src/launcher/ui/dialogs/AboutDialog.ui:187
 msgctxt "AboutDialog|"
 msgid "Channel:"
 msgstr "Kanal:"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:208
+#: src/launcher/ui/dialogs/AboutDialog.ui:211
 msgctxt "AboutDialog|"
 msgid "Credits"
 msgstr "Dank an"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:225
+#: src/launcher/ui/dialogs/AboutDialog.ui:228
 msgctxt "AboutDialog|"
 msgid "License"
 msgstr "Lizenz"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:261
+#: src/launcher/ui/dialogs/AboutDialog.ui:264
 msgctxt "AboutDialog|"
 msgid "About Qt"
 msgstr "Über Qt"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:281
+#: src/launcher/ui/dialogs/AboutDialog.ui:284
 msgctxt "AboutDialog|"
 msgid "Close"
 msgstr "Schließen"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:80
+#: src/launcher/ui/dialogs/AboutDialog.cpp:73
 #, qt-format
 msgctxt "AboutDialog|"
 msgid "About %1"
 msgstr "Über %1"
 
-#~ msgctxt "AboutDialog|"
-#~ msgid "Version"
-#~ msgstr "Version"
-
 #: src/launcher/ui/dialogs/AboutDialog.cpp:96
+#: src/launcher/ui/dialogs/AboutDialog.cpp:87
 msgctxt "AboutDialog|"
 msgid "Platform"
 msgstr "Plattform"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:101
+#: src/launcher/ui/dialogs/AboutDialog.cpp:90
 msgctxt "AboutDialog|"
 msgid "Build Number"
 msgstr "Build-Nummer"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:106
+#: src/launcher/ui/dialogs/AboutDialog.cpp:95
 msgctxt "AboutDialog|"
 msgid "Channel"
 msgstr "Kanal"
@@ -303,111 +311,133 @@ msgid "Disabled"
 msgstr ""
 
 #: src/launcher/minecraft/auth/AccountList.cpp:298
+#: src/launcher/minecraft/auth/AccountList.cpp:295
 msgctxt "AccountList|Account status"
 msgid "Gone"
 msgstr "Weg"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:309
+#: src/launcher/minecraft/auth/AccountList.cpp:306
 msgctxt "AccountList|Can Migrate?"
 msgid "N/A"
 msgstr "N/A"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:312
+#: src/launcher/minecraft/auth/AccountList.cpp:309
 msgctxt "AccountList|Can Migrate?"
 msgid "Yes"
 msgstr "Ja"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:315
+#: src/launcher/minecraft/auth/AccountList.cpp:312
 msgctxt "AccountList|Can Migrate?"
 msgid "No"
 msgstr "Nein"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:349
+#: src/launcher/minecraft/auth/AccountList.cpp:346
 msgctxt "AccountList|"
 msgid "Account"
 msgstr "Konto"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:351
+#: src/launcher/minecraft/auth/AccountList.cpp:348
 msgctxt "AccountList|"
 msgid "Type"
 msgstr "Typ"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:353
+#: src/launcher/minecraft/auth/AccountList.cpp:350
 msgctxt "AccountList|"
 msgid "Status"
 msgstr "Status"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:355
+#: src/launcher/minecraft/auth/AccountList.cpp:352
 msgctxt "AccountList|"
 msgid "Can Migrate?"
 msgstr "Migration verfügbar?"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:357
+#: src/launcher/minecraft/auth/AccountList.cpp:354
 msgctxt "AccountList|"
 msgid "Profile"
 msgstr "Profil"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:366
+#: src/launcher/minecraft/auth/AccountList.cpp:363
 msgctxt "AccountList|"
 msgid "User name of the account."
 msgstr "Benutzername des Kontos."
 
 #: src/launcher/minecraft/auth/AccountList.cpp:368
+#: src/launcher/minecraft/auth/AccountList.cpp:365
 msgctxt "AccountList|"
 msgid "Type of the account - Mojang or MSA."
 msgstr "Typ des Kontos - Mojang oder MSA."
 
 #: src/launcher/minecraft/auth/AccountList.cpp:370
+#: src/launcher/minecraft/auth/AccountList.cpp:367
 msgctxt "AccountList|"
 msgid "Current status of the account."
 msgstr "Aktueller Status des Kontos."
 
 #: src/launcher/minecraft/auth/AccountList.cpp:372
+#: src/launcher/minecraft/auth/AccountList.cpp:369
 msgctxt "AccountList|"
 msgid "Can this account migrate to Microsoft account?"
 msgstr "Kann dieses Konto zu einem Microsoft-Konto migriert werden?"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:374
+#: src/launcher/minecraft/auth/AccountList.cpp:371
 msgctxt "AccountList|"
 msgid "Name of the Minecraft profile associated with the account."
 msgstr "Name des Minecraft-Profils, das diesem Konto zugeordnet ist."
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:68
+#: src/launcher/ui/pages/global/AccountListPage.ui:67
 msgctxt "AccountListPage|"
 msgid "Add Mojang"
 msgstr "Mojang-Konto hinzufügen"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:73
+#: src/launcher/ui/pages/global/AccountListPage.ui:72
 msgctxt "AccountListPage|"
 msgid "Remove"
 msgstr "Entfernen"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:78
+#: src/launcher/ui/pages/global/AccountListPage.ui:77
 msgctxt "AccountListPage|"
 msgid "Set Default"
 msgstr "Als Standard setzen"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:86
+#: src/launcher/ui/pages/global/AccountListPage.ui:85
 msgctxt "AccountListPage|"
 msgid "No Default"
 msgstr "Kein Standard"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:91
+#: src/launcher/ui/pages/global/AccountListPage.ui:90
 msgctxt "AccountListPage|"
 msgid "Upload Skin"
 msgstr "Skin hochladen"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:96
+#: src/launcher/ui/pages/global/AccountListPage.ui:95
 msgctxt "AccountListPage|"
 msgid "Delete Skin"
 msgstr "Skin löschen"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:99
+#: src/launcher/ui/pages/global/AccountListPage.ui:98
 msgctxt "AccountListPage|"
 msgid "Delete the currently active skin and go back to the default one"
 msgstr "Aktiven Skin löschen und zum Standard-Skin wechseln"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:104
+#: src/launcher/ui/pages/global/AccountListPage.ui:103
 msgctxt "AccountListPage|"
 msgid "Add Microsoft"
 msgstr "Microsoft-Konto hinzufügen"
@@ -418,11 +448,13 @@ msgid "Add Offline"
 msgstr ""
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:114
+#: src/launcher/ui/pages/global/AccountListPage.ui:108
 msgctxt "AccountListPage|"
 msgid "Refresh"
 msgstr "Aktualisieren"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:117
+#: src/launcher/ui/pages/global/AccountListPage.ui:111
 msgctxt "AccountListPage|"
 msgid "Refresh the account tokens"
 msgstr "Konto-Token aktualisieren"
@@ -433,6 +465,7 @@ msgid "Accounts"
 msgstr "Konten"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:45
+#: src/launcher/ui/pages/global/AccountListPage.cpp:44
 msgctxt "AccountListPage|"
 msgid ""
 "Welcome!\n"
@@ -449,12 +482,15 @@ msgid "No Microsoft Authentication client ID was set."
 msgstr ""
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:89
+#: src/launcher/ui/pages/global/AccountListPage.cpp:85
 msgctxt "AccountListPage|"
 msgid "Context menu"
 msgstr "Kontextmenü"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:120
 #: src/launcher/ui/pages/global/AccountListPage.cpp:148
+#: src/launcher/ui/pages/global/AccountListPage.cpp:116
+#: src/launcher/ui/pages/global/AccountListPage.cpp:144
 msgctxt "AccountListPage|"
 msgid ""
 "Please enter your Mojang account email and password to add your account."
@@ -463,11 +499,13 @@ msgstr ""
 "anzumelden."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:137
+#: src/launcher/ui/pages/global/AccountListPage.cpp:133
 msgctxt "AccountListPage|"
 msgid "Microsoft Accounts not available"
 msgstr "Microsoft-Konten nicht verfügbar"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:138
+#: src/launcher/ui/pages/global/AccountListPage.cpp:134
 msgctxt "AccountListPage|"
 msgid ""
 "Microsoft accounts are only usable on macOS 10.13 or newer, with fully "
@@ -500,11 +538,13 @@ msgid "Please enter your desired username to add your offline account."
 msgstr ""
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:276
+#: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
 msgid "Skin Delete"
 msgstr "Skin löschen"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:276
+#: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
 msgid "Failed to delete current skin!"
 msgstr "Löschen des Skins fehlgeschlagen!"
@@ -530,32 +570,37 @@ msgid "Client ID has changed. New session needs to be created."
 msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:49
+#: src/launcher/minecraft/auth/AccountTask.cpp:47
 msgctxt "AccountTask|"
 msgid "Encountered an error during authentication."
 msgstr "Es ist ein Fehler bei der Authentifizierung aufgetreten."
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:51
+#: src/launcher/minecraft/auth/AccountTask.cpp:49
 msgctxt "AccountTask|"
 msgid "Failed to authenticate. The session has expired."
 msgstr "Authentifizierung fehlgeschlagen. Die Sitzung ist abgelaufen."
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:53
+#: src/launcher/minecraft/auth/AccountTask.cpp:51
 msgctxt "AccountTask|"
 msgid "Failed to authenticate. The account no longer exists."
 msgstr "Authentifizierung fehlgeschlagen. Das Konto existiert nicht mehr."
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:55
+#: src/launcher/minecraft/auth/AccountTask.cpp:53
 msgctxt "AccountTask|"
 msgid "..."
 msgstr "..."
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:108
+#: src/launcher/minecraft/auth/AccountTask.cpp:100
 #, qt-format
 msgctxt "AccountTask|"
 msgid "Unknown account task state: %1"
 msgstr "Unbekannter Konto-Aufgabenstatus: %1"
 
-#: src/launcher/Application.cpp:701
+#: src/launcher/Application.cpp:701 src/launcher/Application.cpp:722
 msgctxt "Application|"
 msgid "Settings"
 msgstr "Einstellungen"
@@ -805,27 +850,24 @@ msgctxt "CustomCommands|"
 msgid ""
 "<html><head/><body><p>Pre-launch command runs before the instance launches "
 "and post-exit command runs after it exits.</p><p>Both will be run in the "
-"launcher's working folder with extra environment "
-"variables:</p><ul><li>$INST_NAME - Name of the instance</li><li>$INST_ID - "
-"ID of the instance (its folder name)</li><li>$INST_DIR - absolute path of "
-"the instance</li><li>$INST_MC_DIR - absolute path of "
-"minecraft</li><li>$INST_JAVA - java binary used for "
-"launch</li><li>$INST_JAVA_ARGS - command-line parameters used for "
+"launcher's working folder with extra environment variables:</p><ul><li>"
+"$INST_NAME - Name of the instance</li><li>$INST_ID - ID of the instance (its "
+"folder name)</li><li>$INST_DIR - absolute path of the instance</li><li>"
+"$INST_MC_DIR - absolute path of minecraft</li><li>$INST_JAVA - java binary "
+"used for launch</li><li>$INST_JAVA_ARGS - command-line parameters used for "
 "launch</li></ul><p>Wrapper command allows launching using an extra wrapper "
 "program (like 'optirun' on Linux)</p></body></html>"
 msgstr ""
 "&lt;html&gt;&lt;body&gt;<p>Vor-Start-Befehle werden ausgeführt, bevor die "
-"Instanz startet; Nach-Beenden-Befehle, nachdem die Instanz beendet "
-"wurde.</p><p>Beide werden im Hauptverzeichnis vom Launcher mit zusätzlichen "
-"Umgebungsvariablen gestartet:</p><ul><li>$INST_NAME - Name der "
-"Instanz</li><li>$INST_ID - ID der Instanz (der Name des "
-"Instanzordners)</li><li>$INST_DIR - Absoluter Pfad der "
-"Distanz</li><li>$INST_MC_DIR - Absoluter Pfad von "
-"Minecraft</li><li>$INST_JAVA - Für den Start genutzte "
-"Java-Instanz</li><li>$INST_JAVA_ARGS - Für den Start genutzte "
-"Konsolen-Parameter</li></ul><p>Wrapper-Befehle erlauben es, Java mittels "
-"eines Wrapper-Programms auszuführen (wie z.B. 'optirun' unter "
-"Linux)</p>&lt;/body&gt;&lt;/html&gt;"
+"Instanz startet; Nach-Beenden-Befehle, nachdem die Instanz beendet wurde.</"
+"p><p>Beide werden im Hauptverzeichnis vom Launcher mit zusätzlichen "
+"Umgebungsvariablen gestartet:</p><ul><li>$INST_NAME - Name der Instanz</"
+"li><li>$INST_ID - ID der Instanz (der Name des Instanzordners)</li><li>"
+"$INST_DIR - Absoluter Pfad der Distanz</li><li>$INST_MC_DIR - Absoluter Pfad "
+"von Minecraft</li><li>$INST_JAVA - Für den Start genutzte Java-Instanz</"
+"li><li>$INST_JAVA_ARGS - Für den Start genutzte Konsolen-Parameter</li></"
+"ul><p>Wrapper-Befehle erlauben es, Java mittels eines Wrapper-Programms "
+"auszuführen (wie z.B. 'optirun' unter Linux)</p>&lt;/body&gt;&lt;/html&gt;"
 
 #: src/launcher/ui/pages/global/CustomCommandsPage.h:35
 msgctxt "CustomCommandsPage|"
@@ -898,12 +940,14 @@ msgstr "Diese Datei existiert bereits. Möchtest du sie überschreiben?"
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:409
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:414
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
 msgctxt "ExportInstanceDialog|"
 msgid "Error"
 msgstr "Fehler"
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:409
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:414
+#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
 msgctxt "ExportInstanceDialog|"
 msgid "Unable to export instance"
 msgstr "Instanz konnte nicht exportiert werden"
@@ -1454,7 +1498,7 @@ msgctxt "InstanceCopyTask|"
 msgid "Instance folder copy failed."
 msgstr "Instanz-Ordner konnte nicht kopiert werden."
 
-#: src/launcher/InstanceCopyTask.cpp:57
+#: src/launcher/InstanceCopyTask.cpp:57 src/launcher/InstanceCopyTask.cpp:58
 msgctxt "InstanceCopyTask|"
 msgid "Instance folder copy has been aborted."
 msgstr "Kopieren des Instanz-Ordners wurde abgebrochen."
@@ -1539,6 +1583,7 @@ msgid "Unknown mod loader in manifest: %1"
 msgstr "Unbekannter Mod-Loader in Manifest Datei: %1"
 
 #: src/launcher/InstanceImportTask.cpp:270
+#: src/launcher/InstanceImportTask.cpp:272
 msgctxt "InstanceImportTask|"
 msgid ""
 "Mysterious trailing dots removed from Minecraft version while importing pack."
@@ -1547,23 +1592,27 @@ msgstr ""
 "Paket-Imports entfernt."
 
 #: src/launcher/InstanceImportTask.cpp:286
+#: src/launcher/InstanceImportTask.cpp:288
 #, qt-format
 msgctxt "InstanceImportTask|"
 msgid "Could not map recommended forge version for Minecraft %1"
 msgstr "Konnte die empfohlene Forge-Version für Minecraft %1 nicht finden"
 
 #: src/launcher/InstanceImportTask.cpp:338
+#: src/launcher/InstanceImportTask.cpp:340
 msgctxt "InstanceImportTask|"
 msgid "Mod download"
 msgstr "Mod herunterladen"
 
 #: src/launcher/InstanceImportTask.cpp:354
+#: src/launcher/InstanceImportTask.cpp:356
 #, qt-format
 msgctxt "InstanceImportTask|"
 msgid "This 'Folder' may need extracting: %1"
 msgstr "Dieser \"Ordner\" muss vielleicht entpackt werden: %1"
 
 #: src/launcher/InstanceImportTask.cpp:366
+#: src/launcher/InstanceImportTask.cpp:368
 #, qt-format
 msgctxt "InstanceImportTask|"
 msgid ""
@@ -1573,30 +1622,29 @@ msgstr ""
 "nicht implementiert. Es wurde nichts heruntergeladen: %1"
 
 #: src/launcher/InstanceImportTask.cpp:371
+#: src/launcher/InstanceImportTask.cpp:373
 #, qt-format
 msgctxt "InstanceImportTask|"
 msgid "Unrecognized/unhandled PackageType for: %1"
 msgstr "Nicht bekannter / nicht verarbeitbarer Paket-Typ: %1"
 
 #: src/launcher/InstanceImportTask.cpp:391
+#: src/launcher/InstanceImportTask.cpp:393
 msgctxt "InstanceImportTask|"
 msgid "Downloading mods..."
 msgstr "Mods werden heruntergeladen..."
 
 #: src/launcher/InstanceImportTask.cpp:398
+#: src/launcher/InstanceImportTask.cpp:400
 msgctxt "InstanceImportTask|"
 msgid "Unable to resolve mod IDs:\n"
 msgstr "Konnte die Mod-IDs nicht auflösen:\n"
 
-#: src/launcher/InstanceList.cpp:149
+#: src/launcher/InstanceList.cpp:149 src/launcher/InstanceList.cpp:150
 #, qt-format
 msgctxt "InstanceList|"
 msgid "%1 Instance"
 msgstr "%1 Instanz"
-
-#~ msgctxt "InstancePageProvider|"
-#~ msgid "Loader mods"
-#~ msgstr "Loader-Mods"
 
 #: src/launcher/InstancePageProvider.h:36
 msgctxt "InstancePageProvider|"
@@ -1604,11 +1652,13 @@ msgid "Mods"
 msgstr ""
 
 #: src/launcher/InstancePageProvider.h:39
+#: src/launcher/InstancePageProvider.h:43
 msgctxt "InstancePageProvider|"
 msgid "Core mods"
 msgstr "Core-Mods"
 
 #: src/launcher/InstancePageProvider.h:59
+#: src/launcher/InstancePageProvider.h:72
 #, qt-format
 msgctxt "InstancePageProvider|"
 msgid "Edit Instance (%1)"
@@ -1801,7 +1851,7 @@ msgctxt "InstanceSettingsPage|"
 msgid "Find Java executable"
 msgstr "Java-Programm finden"
 
-#: src/launcher/InstanceList.cpp:816
+#: src/launcher/InstanceList.cpp:816 src/launcher/InstanceList.cpp:832
 msgctxt "InstanceStaging|"
 msgid ""
 "Failed to commit instance, even after multiple retries. It is being blocked "
@@ -2034,6 +2084,7 @@ msgid "Language"
 msgstr "Sprache"
 
 #: src/launcher/ui/widgets/LanguageSelectionWidget.cpp:55
+#: src/launcher/ui/widgets/LanguageSelectionWidget.cpp:54
 #, qt-format
 msgctxt "LanguageSelectionWidget|"
 msgid ""
@@ -2066,10 +2117,6 @@ msgstr "Keine Konten"
 
 #: src/launcher/LaunchController.cpp:58
 #, fuzzy
-#| msgid ""
-#| "In order to play Minecraft, you must have at least one Mojang or "
-#| "Minecraft account logged in.Would you like to open the account manager to "
-#| "add an account now?"
 msgctxt "LaunchController|"
 msgid ""
 "In order to play Minecraft, you must have at least one Mojang or Minecraft "
@@ -2100,28 +2147,28 @@ msgstr ""
 "dich erneut anzumelden. <br /> <br /> Dies könnte durch eine "
 "Passwortänderung verursacht worden sein."
 
-#: src/launcher/LaunchController.cpp:137
+#: src/launcher/LaunchController.cpp:137 src/launcher/LaunchController.cpp:131
 msgctxt "LaunchController|"
 msgid "Player name"
 msgstr "Spieler-Name"
 
-#: src/launcher/LaunchController.cpp:138
+#: src/launcher/LaunchController.cpp:138 src/launcher/LaunchController.cpp:132
 msgctxt "LaunchController|"
 msgid "Choose your offline mode player name."
 msgstr "Wähle Deinen Spieler-Namen für den Offline-Modus."
 
-#: src/launcher/LaunchController.cpp:166
+#: src/launcher/LaunchController.cpp:166 src/launcher/LaunchController.cpp:160
 msgctxt "LaunchController|"
 msgid "Received undetermined session status during login."
 msgstr ""
 "Ein unbekannter Sitzungs-Status wurde während des Anmeldevorgangs erhalten."
 
-#: src/launcher/LaunchController.cpp:177
+#: src/launcher/LaunchController.cpp:177 src/launcher/LaunchController.cpp:171
 msgctxt "LaunchController|"
 msgid "Play demo?"
 msgstr "Demo spielen?"
 
-#: src/launcher/LaunchController.cpp:178
+#: src/launcher/LaunchController.cpp:178 src/launcher/LaunchController.cpp:172
 msgctxt "LaunchController|"
 msgid ""
 "This account does not own Minecraft.\n"
@@ -2134,33 +2181,33 @@ msgstr ""
 "\n"
 "Möchtest du die Demo starten?"
 
-#: src/launcher/LaunchController.cpp:180
+#: src/launcher/LaunchController.cpp:180 src/launcher/LaunchController.cpp:174
 msgctxt "LaunchController|"
 msgid "Play Demo"
 msgstr "Demo spielen"
 
-#: src/launcher/LaunchController.cpp:181
+#: src/launcher/LaunchController.cpp:181 src/launcher/LaunchController.cpp:175
 msgctxt "LaunchController|"
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: src/launcher/LaunchController.cpp:191
+#: src/launcher/LaunchController.cpp:191 src/launcher/LaunchController.cpp:185
 msgctxt "LaunchController|"
 msgid "Launch cancelled - account does not own Minecraft."
 msgstr "Starten abgebrochen – Konto besitzt Minecraft nicht."
 
-#: src/launcher/LaunchController.cpp:207
+#: src/launcher/LaunchController.cpp:207 src/launcher/LaunchController.cpp:201
 msgctxt "LaunchController|"
 msgid "Play Offline"
 msgstr "Offline starten"
 
-#: src/launcher/LaunchController.cpp:220
+#: src/launcher/LaunchController.cpp:220 src/launcher/LaunchController.cpp:214
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually again."
 msgstr ""
 "Der Konto Zugang ist abgelaufen und muss manuell erneut angemeldet werden."
 
-#: src/launcher/LaunchController.cpp:223
+#: src/launcher/LaunchController.cpp:223 src/launcher/LaunchController.cpp:217
 msgctxt "LaunchController|"
 msgid "Account refresh failed"
 msgstr "Konto Aktualisierung fehlgeschlagen"
@@ -2177,7 +2224,7 @@ msgctxt "LaunchController|"
 msgid "Client identification changed"
 msgstr ""
 
-#: src/launcher/LaunchController.cpp:244
+#: src/launcher/LaunchController.cpp:244 src/launcher/LaunchController.cpp:226
 msgctxt "LaunchController|"
 msgid ""
 "The account no longer exists on the servers. It may have been migrated, in "
@@ -2186,38 +2233,40 @@ msgstr ""
 "Das Konto existiert nicht mehr auf den Servern. Es wurde möglicherweise "
 "migriert. In diesem Fall füge das neue Konto hinzu."
 
-#: src/launcher/LaunchController.cpp:247
+#: src/launcher/LaunchController.cpp:247 src/launcher/LaunchController.cpp:229
 msgctxt "LaunchController|"
 msgid "Account gone"
 msgstr "Konto nicht gefunden"
 
-#: src/launcher/LaunchController.cpp:257
+#: src/launcher/LaunchController.cpp:257 src/launcher/LaunchController.cpp:239
 msgctxt "LaunchController|"
 msgid "Failed to launch."
 msgstr "Fehler beim Starten."
 
 #: src/launcher/LaunchController.cpp:267 src/launcher/LaunchController.cpp:339
+#: src/launcher/LaunchController.cpp:249 src/launcher/LaunchController.cpp:321
 msgctxt "LaunchController|"
 msgid "Error!"
 msgstr "Fehler!"
 
 #: src/launcher/LaunchController.cpp:267 src/launcher/LaunchController.cpp:268
+#: src/launcher/LaunchController.cpp:249 src/launcher/LaunchController.cpp:250
 msgctxt "LaunchController|"
 msgid "Couldn't load the instance profile."
 msgstr "Instanz-Profil konnte nicht geladen werden."
 
-#: src/launcher/LaunchController.cpp:275
+#: src/launcher/LaunchController.cpp:275 src/launcher/LaunchController.cpp:257
 msgctxt "LaunchController|"
 msgid "Couldn't instantiate a launcher."
 msgstr "Konnte den Launcher nicht starten."
 
-#: src/launcher/LaunchController.cpp:339
+#: src/launcher/LaunchController.cpp:339 src/launcher/LaunchController.cpp:321
 #, qt-format
 msgctxt "LaunchController|"
 msgid "Couldn't start profiler: %1"
 msgstr "Kann Profiler nicht starten: %1"
 
-#: src/launcher/LaunchController.cpp:348
+#: src/launcher/LaunchController.cpp:348 src/launcher/LaunchController.cpp:330
 #, qt-format
 msgctxt "LaunchController|"
 msgid ""
@@ -2232,38 +2281,38 @@ msgstr ""
 "\n"
 "%1"
 
-#: src/launcher/LaunchController.cpp:351
+#: src/launcher/LaunchController.cpp:351 src/launcher/LaunchController.cpp:333
 msgctxt "LaunchController|"
 msgid "Waiting."
 msgstr "Warte."
 
-#: src/launcher/LaunchController.cpp:353
+#: src/launcher/LaunchController.cpp:353 src/launcher/LaunchController.cpp:335
 msgctxt "LaunchController|"
 msgid "Launch"
 msgstr "Starten"
 
-#: src/launcher/LaunchController.cpp:361
+#: src/launcher/LaunchController.cpp:361 src/launcher/LaunchController.cpp:343
 #, qt-format
 msgctxt "LaunchController|"
 msgid "Couldn't start the profiler: %1"
 msgstr "Konnte den Profiler nicht starten: %1"
 
-#: src/launcher/LaunchController.cpp:362
+#: src/launcher/LaunchController.cpp:362 src/launcher/LaunchController.cpp:344
 msgctxt "LaunchController|"
 msgid "Error"
 msgstr "Fehler"
 
-#: src/launcher/LaunchController.cpp:390
+#: src/launcher/LaunchController.cpp:390 src/launcher/LaunchController.cpp:372
 msgctxt "LaunchController|"
 msgid "Abort"
 msgstr "Abbrechen"
 
-#: src/launcher/LaunchController.cpp:406
+#: src/launcher/LaunchController.cpp:406 src/launcher/LaunchController.cpp:388
 msgctxt "LaunchController|"
 msgid "Kill Minecraft?"
 msgstr "Minecraft sofort beenden?"
 
-#: src/launcher/LaunchController.cpp:407
+#: src/launcher/LaunchController.cpp:407 src/launcher/LaunchController.cpp:389
 msgctxt "LaunchController|"
 msgid ""
 "This can cause the instance to get corrupted and should only be used if "
@@ -2358,55 +2407,56 @@ msgctxt "LauncherPage|"
 msgid "User Interface"
 msgstr "Benutzeroberfläche"
 
-#~ msgctxt "LauncherPage|"
-#~ msgid "Launcher notifications"
-#~ msgstr "Launcher Benachrichtigungen"
-
-#~ msgctxt "LauncherPage|"
-#~ msgid "Reset hidden notifications"
-#~ msgstr "Ausgeblendete Benachrichtigungen zurücksetzen"
-
 #: src/launcher/ui/pages/global/LauncherPage.ui:193
+#: src/launcher/ui/pages/global/LauncherPage.ui:212
 msgctxt "LauncherPage|"
 msgid "Instance view sorting mode"
 msgstr "Instanzen Sortierung"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:199
+#: src/launcher/ui/pages/global/LauncherPage.ui:218
 msgctxt "LauncherPage|"
 msgid "By &last launched"
 msgstr "Nach &letztem Start"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:209
+#: src/launcher/ui/pages/global/LauncherPage.ui:228
 msgctxt "LauncherPage|"
 msgid "By &name"
 msgstr "Nach &Name"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:222
+#: src/launcher/ui/pages/global/LauncherPage.ui:241
 msgctxt "LauncherPage|"
 msgid "Theme"
 msgstr "Farbschema"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:228
+#: src/launcher/ui/pages/global/LauncherPage.ui:247
 msgctxt "LauncherPage|"
 msgid "&Icons"
 msgstr "&Symbole"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:258
+#: src/launcher/ui/pages/global/LauncherPage.ui:267
 msgctxt "LauncherPage|"
 msgid "Simple (Dark Icons)"
 msgstr "Einfach (Dunkle Symbole)"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:253
+#: src/launcher/ui/pages/global/LauncherPage.ui:272
 msgctxt "LauncherPage|"
 msgid "Simple (Light Icons)"
 msgstr "Einfach (Helle Symbole)"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:263
+#: src/launcher/ui/pages/global/LauncherPage.ui:277
 msgctxt "LauncherPage|"
 msgid "Simple (Blue Icons)"
 msgstr "Einfach (Blaue Symbole)"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:248
+#: src/launcher/ui/pages/global/LauncherPage.ui:282
 msgctxt "LauncherPage|"
 msgid "Simple (Colored Icons)"
 msgstr "Einfach (Farbige Symbole)"
@@ -2423,60 +2473,67 @@ msgid "Legacy"
 msgstr "Veraltet"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:288
+#: src/launcher/ui/pages/global/LauncherPage.ui:302
 msgctxt "LauncherPage|"
 msgid "Custom"
 msgstr "Benutzerdefiniert"
 
-#~ msgctxt "LauncherPage|"
-#~ msgid "MultiMC"
-#~ msgstr "MultiMC"
-
 #: src/launcher/ui/pages/global/LauncherPage.ui:309
+#: src/launcher/ui/pages/global/LauncherPage.ui:328
 msgctxt "LauncherPage|"
 msgid "Colors"
 msgstr "Farben"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:336
+#: src/launcher/ui/pages/global/LauncherPage.ui:355
 msgctxt "LauncherPage|"
 msgid "Console"
 msgstr "Konsole"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:342
+#: src/launcher/ui/pages/global/LauncherPage.ui:361
 msgctxt "LauncherPage|"
 msgid "Console Settings"
 msgstr "Konsoleneinstellungen"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:348
+#: src/launcher/ui/pages/global/LauncherPage.ui:367
 msgctxt "LauncherPage|"
 msgid "Show console while the game is running?"
 msgstr "Konsole anzeigen, während das Spiel läuft?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:355
+#: src/launcher/ui/pages/global/LauncherPage.ui:374
 msgctxt "LauncherPage|"
 msgid "Automatically close console when the game quits?"
 msgstr "Konsole automatisch schließen, nachdem das Spiel beendet wurde?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:362
+#: src/launcher/ui/pages/global/LauncherPage.ui:381
 msgctxt "LauncherPage|"
 msgid "Show console when the game crashes?"
 msgstr "Konsole anzeigen, wenn das Spiel abstürzt?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:372
+#: src/launcher/ui/pages/global/LauncherPage.ui:391
 msgctxt "LauncherPage|"
 msgid "History limit"
 msgstr "Historie Limit"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:378
+#: src/launcher/ui/pages/global/LauncherPage.ui:397
 msgctxt "LauncherPage|"
 msgid "Stop logging when log overflows"
 msgstr "Loggen abbrechen, sollte der Log zu groß werden"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:391
+#: src/launcher/ui/pages/global/LauncherPage.ui:410
 msgctxt "LauncherPage|"
 msgid " lines"
 msgstr " Zeilen"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:419
+#: src/launcher/ui/pages/global/LauncherPage.ui:438
 msgctxt "LauncherPage|"
 msgid "Console font"
 msgstr "Konsolenschriftart"
@@ -2517,21 +2574,25 @@ msgid "Mods Folder"
 msgstr "Mods Ordner"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:422
+#: src/launcher/ui/pages/global/LauncherPage.cpp:427
 msgctxt "LauncherPage|"
 msgid "[Something/ERROR] A spooky error!"
 msgstr "[Etwas/ERROR] Ein gruseliger Fehler!"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:431
+#: src/launcher/ui/pages/global/LauncherPage.cpp:436
 msgctxt "LauncherPage|"
 msgid "[Test/INFO] A harmless message..."
 msgstr "[Test/INFO] Eine harmlose Mitteilung..."
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:440
+#: src/launcher/ui/pages/global/LauncherPage.cpp:445
 msgctxt "LauncherPage|"
 msgid "[Something/WARN] A not so spooky warning."
 msgstr "[Etwas/WARN] Eine weniger gruselige Warnung."
 
 #: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:135
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:122
 #, qt-format
 msgctxt "LauncherPartLaunch|"
 msgid "The wrapper command \"%1\" couldn't be found."
@@ -2539,12 +2600,15 @@ msgstr "Der Wrapper-Befehl \"%1\" konnte nicht gefunden werden."
 
 #. Error message displayed if instace can't start
 #: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:157
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:144
 msgctxt "LauncherPartLaunch|"
 msgid "Could not launch minecraft!"
 msgstr "Minecraft konnte nicht gestartet werden!"
 
 #: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:166
 #: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:178
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:153
+#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:163
 msgctxt "LauncherPartLaunch|"
 msgid "Game crashed."
 msgstr "Das Spiel ist abgestürzt."
@@ -2624,6 +2688,7 @@ msgid "Failed to move unzipped minecraft!"
 msgstr "Fehler beim Verschieben der entpackten Minecraft-Dateien!"
 
 #: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:184
+#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:186
 msgctxt "LegacyFTB::PackInstallTask|"
 msgid "No installation method found!"
 msgstr "Es konnte keine Installationsmethode gefunden werden!"
@@ -2698,91 +2763,6 @@ msgstr "Modpack entfernen"
 msgctxt "LegacyFTB::Page|"
 msgid "Are you sure you want to remove pack %1?"
 msgstr "Bist du sicher das du das Modpack %1 entfernen möchten?"
-
-#~ msgctxt "LegacyInstance|"
-#~ msgid "Legacy"
-#~ msgstr "Veraltet"
-
-#~ msgctxt "LegacyInstance|"
-#~ msgid "Instance from previous versions."
-#~ msgstr "Lade Liste von früheren Minecraft-Versionen."
-
-#, fuzzy
-#~| msgid ""
-#~| "<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old "
-#~| "Minecraft versions and all the required features in the new (OneSix) "
-#~| "instance format. As a consequence, the old (Legacy) format has been "
-#~| "entirely disabled and old instances need to be upgraded.</p><p>The "
-#~| "upgrade will create a new instance with the same contents as the current "
-#~| "one, in the new format. The original instance will remain untouched, in "
-#~| "case anything goes wrong in the process.</p><p>Please report any issues "
-#~| "on our <a href=\"https://github.com/PolyMC/PolyMC/issues\">github issues "
-#~| "page</a>.</p><p>There is also a <a "
-#~| "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
-#~| "here</a>.</p></body></html>"
-#~ msgctxt "LegacyUpgradePage|"
-#~ msgid ""
-#~ "<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old "
-#~ "Minecraft versions and all the required features in the new (OneSix) "
-#~ "instance format. As a consequence, the old (Legacy) format has been "
-#~ "entirely disabled and old instances need to be upgraded.</p><p>The "
-#~ "upgrade will create a new instance with the same contents as the current "
-#~ "one, in the new format. The original instance will remain untouched, in "
-#~ "case anything goes wrong in the process.</p><p>Please report any issues "
-#~ "on our <a href=\"https://github.com/PolyMC/PolyMC/issues\">github issues "
-#~ "page</a>.</p><p>There is also a <a "
-#~ "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
-#~ "here</a>.</p></body></html>"
-#~ msgstr ""
-#~ "<html><body><h1>Upgrade ist benötigt</h1><p>PolyMC unterstützt jetzt alte "
-#~ "Minecraft-Versionen und alles was benötigt wird für das neue \"OneSix\" "
-#~ "Instanz-Format. Als Konsequenz müssen alte Formate abgeschaltet und alte "
-#~ "Instanzen aktualisiert werden.</p><p>Das Upgrade wird eine neue Instanz "
-#~ "mit dem selben Inhalt wie die momentane, jedoch im neuen Format, "
-#~ "erstellen. Das Original bleibt unberührt, falls etwas schief gehen sollte "
-#~ "während des Prozesses.</p><p>Bitte berichte jeden Fehler auf unserer <a "
-#~ "href=\"https://github.com/PolyMC/PolyMC/issues\">GitHub Fehler "
-#~ "Website</a>.</p><p>Es gibt auch einen <a "
-#~ "href=\"https://discord.gg/GtPmv93\">Discord-Kanal zum "
-#~ "Testen</a>.</p></body></html>"
-
-#~ msgctxt "LegacyUpgradePage|"
-#~ msgid "Upgrade the instance"
-#~ msgstr "Instanz aktualisieren"
-
-#~ msgctxt "LegacyUpgradePage|"
-#~ msgid "Error"
-#~ msgstr "Fehler"
-
-#~ msgctxt "LegacyUpgradePage|"
-#~ msgid "Abort"
-#~ msgstr "Abbrechen"
-
-#, qt-format
-#~ msgctxt "LegacyUpgradePage|"
-#~ msgid "%1 (Migrated)"
-#~ msgstr "%1 (Migriert)"
-
-#~ msgctxt "LegacyUpgradePage|"
-#~ msgid "Upgrade"
-#~ msgstr "Aktualisieren"
-
-#, qt-format
-#~ msgctxt "LegacyUpgradeTask|"
-#~ msgid "Copying instance %1"
-#~ msgstr "Kopiere Instanz %1"
-
-#~ msgctxt "LegacyUpgradeTask|"
-#~ msgid "Instance folder copy failed."
-#~ msgstr "Kopieren des Instanz-Ordners ist fehlgeschlagen."
-
-#~ msgctxt "LegacyUpgradeTask|"
-#~ msgid "Could not decide Minecraft version."
-#~ msgstr "Konnte die Minecraft-Version nicht auswählen."
-
-#~ msgctxt "LegacyUpgradeTask|"
-#~ msgid "Instance folder copy has been aborted."
-#~ msgstr "Kopieren des Instanz-Ordners wurde abgebrochen."
 
 #: src/launcher/minecraft/update/LibrariesTask.cpp:15
 msgctxt "LibrariesTask|"
@@ -2963,6 +2943,7 @@ msgstr ""
 "mit dem Login fortzufahren.</p>"
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:32
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:31
 msgctxt "MSAStep|"
 msgid "Logging in with Microsoft account."
 msgstr "Mit Microsoft-Konto anmelden."
@@ -2974,17 +2955,20 @@ msgid ""
 msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:93
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:87
 msgctxt "MSAStep|"
 msgid "Got "
 msgstr "Erhalten "
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:99
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:93
 msgctxt "MSAStep|"
 msgid "Microsoft user authentication ended with a network error."
 msgstr ""
 "Die Microsoft-Benutzerauthentifizierung endete mit einem Netzwerkfehler."
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:104
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:98
 msgctxt "MSAStep|"
 msgid "Microsoft user authentication failed - user no longer exists."
 msgstr ""
@@ -2992,98 +2976,102 @@ msgstr ""
 "nicht mehr."
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:109
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:103
 msgctxt "MSAStep|"
 msgid "Microsoft user authentication failed."
 msgstr "Microsoft Benutzerauthentifizierung fehlgeschlagen."
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:114
+#: src/launcher/minecraft/auth/steps/MSAStep.cpp:108
 msgctxt "MSAStep|"
 msgid "Microsoft user authentication completed with an unrecognized result."
 msgstr ""
 "Microsoft-Benutzerauthentifizierung mit einem nicht bekannten Ergebnis "
 "abgeschlossen."
 
-#: src/launcher/ui/MainWindow.cpp:256
+#: src/launcher/ui/MainWindow.cpp:256 src/launcher/ui/MainWindow.cpp:254
 msgctxt "MainWindow|"
 msgid "Kill"
 msgstr "Beenden"
 
-#: src/launcher/ui/MainWindow.cpp:257
+#: src/launcher/ui/MainWindow.cpp:257 src/launcher/ui/MainWindow.cpp:255
 msgctxt "MainWindow|"
 msgid "Kill the running instance"
 msgstr "Die laufende Instanz beenden"
 
 #: src/launcher/ui/MainWindow.cpp:261 src/launcher/ui/MainWindow.cpp:990
+#: src/launcher/ui/MainWindow.cpp:259 src/launcher/ui/MainWindow.cpp:944
 msgctxt "MainWindow|"
 msgid "Launch"
 msgstr "Starten"
 
-#: src/launcher/ui/MainWindow.cpp:262
+#: src/launcher/ui/MainWindow.cpp:262 src/launcher/ui/MainWindow.cpp:260
 msgctxt "MainWindow|"
 msgid "Launch the selected instance."
 msgstr "Starte die ausgewählte Instanz."
 
-#: src/launcher/ui/MainWindow.cpp:280
+#: src/launcher/ui/MainWindow.cpp:280 src/launcher/ui/MainWindow.cpp:278
 msgctxt "MainWindow|"
 msgid "Main Toolbar"
 msgstr "Haupt-Werkzeugleiste"
 
-#: src/launcher/ui/MainWindow.cpp:285
+#: src/launcher/ui/MainWindow.cpp:285 src/launcher/ui/MainWindow.cpp:283
 msgctxt "MainWindow|"
 msgid "Add Instance"
 msgstr "Instanz hinzufügen"
 
-#: src/launcher/ui/MainWindow.cpp:286
+#: src/launcher/ui/MainWindow.cpp:286 src/launcher/ui/MainWindow.cpp:284
 msgctxt "MainWindow|"
 msgid "Add a new instance."
 msgstr "Neue Instanz hinzufügen."
 
-#: src/launcher/ui/MainWindow.cpp:298
+#: src/launcher/ui/MainWindow.cpp:298 src/launcher/ui/MainWindow.cpp:296
 msgctxt "MainWindow|"
 msgid "View Instance Folder"
 msgstr "Öffne Instanz-Ordner"
 
-#: src/launcher/ui/MainWindow.cpp:299
+#: src/launcher/ui/MainWindow.cpp:299 src/launcher/ui/MainWindow.cpp:297
 msgctxt "MainWindow|"
 msgid "Open the instance folder in a file browser."
 msgstr "Instanz-Ordner im Dateimanager öffnen."
 
-#: src/launcher/ui/MainWindow.cpp:306
+#: src/launcher/ui/MainWindow.cpp:306 src/launcher/ui/MainWindow.cpp:304
 msgctxt "MainWindow|"
 msgid "View Central Mods Folder"
 msgstr "Zentralen Mod-Ordner öffnen"
 
-#: src/launcher/ui/MainWindow.cpp:307
+#: src/launcher/ui/MainWindow.cpp:307 src/launcher/ui/MainWindow.cpp:305
 msgctxt "MainWindow|"
 msgid "Open the central mods folder in a file browser."
 msgstr "Zentralen Mod-Ordner in einem Dateimanager öffnen."
 
 #: src/launcher/ui/MainWindow.cpp:312 src/launcher/ui/MainWindow.cpp:678
+#: src/launcher/ui/MainWindow.cpp:310 src/launcher/ui/MainWindow.cpp:642
 msgctxt "MainWindow|"
 msgid "Folders"
 msgstr "Ordner"
 
-#: src/launcher/ui/MainWindow.cpp:313
+#: src/launcher/ui/MainWindow.cpp:313 src/launcher/ui/MainWindow.cpp:311
 msgctxt "MainWindow|"
 msgid "Open one of the folders shared between instances."
 msgstr "Öffne einen der zwischen den Instanzen geteilten Ordner."
 
-#: src/launcher/ui/MainWindow.cpp:328
+#: src/launcher/ui/MainWindow.cpp:328 src/launcher/ui/MainWindow.cpp:326
 msgctxt "MainWindow|"
 msgid "Settings"
 msgstr "Einstellungen"
 
-#: src/launcher/ui/MainWindow.cpp:329
+#: src/launcher/ui/MainWindow.cpp:329 src/launcher/ui/MainWindow.cpp:327
 msgctxt "MainWindow|"
 msgid "Change settings."
 msgstr "Einstellungen ändern."
 
-#: src/launcher/ui/MainWindow.cpp:340
+#: src/launcher/ui/MainWindow.cpp:340 src/launcher/ui/MainWindow.cpp:338
 msgctxt "MainWindow|"
 msgid "Report a Bug"
 msgstr "Fehler melden"
 
-#: src/launcher/ui/MainWindow.cpp:341
+#: src/launcher/ui/MainWindow.cpp:341 src/launcher/ui/MainWindow.cpp:339
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Open the bug tracker to report a bug with %1."
@@ -3100,72 +3088,68 @@ msgctxt "MainWindow|"
 msgid "Open %1 Matrix space"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:360
+#: src/launcher/ui/MainWindow.cpp:360 src/launcher/ui/MainWindow.cpp:348
 msgctxt "MainWindow|"
 msgid "Discord"
 msgstr "Discord"
 
-#, qt-format
-#~ msgctxt "MainWindow|"
-#~ msgid "Open %1 discord voice chat."
-#~ msgstr "Öffne %1's Discord Chat."
-
-#: src/launcher/ui/MainWindow.cpp:370
+#: src/launcher/ui/MainWindow.cpp:370 src/launcher/ui/MainWindow.cpp:358
 msgctxt "MainWindow|"
 msgid "Reddit"
 msgstr "Reddit"
 
-#: src/launcher/ui/MainWindow.cpp:371
+#: src/launcher/ui/MainWindow.cpp:371 src/launcher/ui/MainWindow.cpp:359
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Open %1 subreddit."
 msgstr "Öffne %1's Subreddit."
 
-#: src/launcher/ui/MainWindow.cpp:380
+#: src/launcher/ui/MainWindow.cpp:380 src/launcher/ui/MainWindow.cpp:368
 #, qt-format
 msgctxt "MainWindow|"
 msgid "About %1"
 msgstr "Über %1"
 
-#: src/launcher/ui/MainWindow.cpp:381
+#: src/launcher/ui/MainWindow.cpp:381 src/launcher/ui/MainWindow.cpp:369
 #, qt-format
 msgctxt "MainWindow|"
 msgid "View information about %1."
 msgstr "Informationen über %1 anzeigen."
 
 #: src/launcher/ui/MainWindow.cpp:386 src/launcher/ui/MainWindow.cpp:679
+#: src/launcher/ui/MainWindow.cpp:374 src/launcher/ui/MainWindow.cpp:643
 msgctxt "MainWindow|"
 msgid "Help"
 msgstr "Hilfe"
 
-#: src/launcher/ui/MainWindow.cpp:387
+#: src/launcher/ui/MainWindow.cpp:387 src/launcher/ui/MainWindow.cpp:375
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Get help with %1 or Minecraft."
 msgstr "Hilfe mit %1 oder Minecraft bekommen."
 
-#: src/launcher/ui/MainWindow.cpp:403
+#: src/launcher/ui/MainWindow.cpp:403 src/launcher/ui/MainWindow.cpp:391
 msgctxt "MainWindow|"
 msgid "Update"
 msgstr "Aktualisieren"
 
-#: src/launcher/ui/MainWindow.cpp:404
+#: src/launcher/ui/MainWindow.cpp:404 src/launcher/ui/MainWindow.cpp:392
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Check for new updates for %1."
 msgstr "Nach Updates für %1 suchen."
 
-#: src/launcher/ui/MainWindow.cpp:415
+#: src/launcher/ui/MainWindow.cpp:415 src/launcher/ui/MainWindow.cpp:403
 msgctxt "MainWindow|"
 msgid "Meow"
 msgstr "Miau"
 
-#: src/launcher/ui/MainWindow.cpp:416
+#: src/launcher/ui/MainWindow.cpp:416 src/launcher/ui/MainWindow.cpp:404
 msgctxt "MainWindow|"
 msgid "It's a fluffy kitty :3"
 msgstr "Es ist ein fluffiges Kätzchen :3"
 
-#: src/launcher/ui/MainWindow.cpp:424
+#: src/launcher/ui/MainWindow.cpp:424 src/launcher/ui/MainWindow.cpp:412
 msgctxt "MainWindow|"
 msgid "Manage Accounts"
 msgstr "Konten verwalten"
@@ -3186,132 +3170,133 @@ msgctxt "MainWindow|"
 msgid "Open the development blog to read more news about %1."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:473
+#: src/launcher/ui/MainWindow.cpp:473 src/launcher/ui/MainWindow.cpp:438
 msgctxt "MainWindow|"
 msgid "Instance Toolbar"
 msgstr "Instanz-Werkzeugleiste"
 
-#: src/launcher/ui/MainWindow.cpp:480
+#: src/launcher/ui/MainWindow.cpp:480 src/launcher/ui/MainWindow.cpp:445
 msgctxt "MainWindow|"
 msgid "Change Icon"
 msgstr "Symbol ändern"
 
-#: src/launcher/ui/MainWindow.cpp:481
+#: src/launcher/ui/MainWindow.cpp:481 src/launcher/ui/MainWindow.cpp:446
 msgctxt "MainWindow|"
 msgid "Change the selected instance's icon."
 msgstr "Das Symbol der ausgewählten Instanz ändern."
 
-#: src/launcher/ui/MainWindow.cpp:494
+#: src/launcher/ui/MainWindow.cpp:494 src/launcher/ui/MainWindow.cpp:459
 msgctxt "MainWindow|"
 msgid "Rename"
 msgstr "Umbenennen"
 
-#: src/launcher/ui/MainWindow.cpp:495
+#: src/launcher/ui/MainWindow.cpp:495 src/launcher/ui/MainWindow.cpp:460
 msgctxt "MainWindow|"
 msgid "Rename the selected instance."
 msgstr "Ausgewählte Instanz umbenennen."
 
 #: src/launcher/ui/MainWindow.cpp:514 src/launcher/ui/MainWindow.cpp:991
+#: src/launcher/ui/MainWindow.cpp:479 src/launcher/ui/MainWindow.cpp:945
 msgctxt "MainWindow|"
 msgid "Launch Offline"
 msgstr "Offline starten"
 
-#: src/launcher/ui/MainWindow.cpp:515
+#: src/launcher/ui/MainWindow.cpp:515 src/launcher/ui/MainWindow.cpp:480
 msgctxt "MainWindow|"
 msgid "Launch the selected instance in offline mode."
 msgstr "Starte die ausgewählte Instanz im Offline-Modus."
 
-#: src/launcher/ui/MainWindow.cpp:523
+#: src/launcher/ui/MainWindow.cpp:523 src/launcher/ui/MainWindow.cpp:488
 msgctxt "MainWindow|"
 msgid "Edit Instance"
 msgstr "Instanz bearbeiten"
 
-#: src/launcher/ui/MainWindow.cpp:524
+#: src/launcher/ui/MainWindow.cpp:524 src/launcher/ui/MainWindow.cpp:489
 msgctxt "MainWindow|"
 msgid "Change the instance settings, mods and versions."
 msgstr "Bearbeiten der Instanz-Einstellungen, Mods und Versionen."
 
-#: src/launcher/ui/MainWindow.cpp:530
+#: src/launcher/ui/MainWindow.cpp:530 src/launcher/ui/MainWindow.cpp:495
 msgctxt "MainWindow|"
 msgid "Edit Notes"
 msgstr "Notizen bearbeiten"
 
-#: src/launcher/ui/MainWindow.cpp:531
+#: src/launcher/ui/MainWindow.cpp:531 src/launcher/ui/MainWindow.cpp:496
 msgctxt "MainWindow|"
 msgid "Edit the notes for the selected instance."
 msgstr "Notizen für die ausgewählte Instanz bearbeiten."
 
-#: src/launcher/ui/MainWindow.cpp:537
+#: src/launcher/ui/MainWindow.cpp:537 src/launcher/ui/MainWindow.cpp:502
 msgctxt "MainWindow|"
 msgid "View Mods"
 msgstr "Mods anzeigen"
 
-#: src/launcher/ui/MainWindow.cpp:538
+#: src/launcher/ui/MainWindow.cpp:538 src/launcher/ui/MainWindow.cpp:503
 msgctxt "MainWindow|"
 msgid "View the mods of this instance."
 msgstr "Mods dieser Instanz anzeigen."
 
-#: src/launcher/ui/MainWindow.cpp:544
+#: src/launcher/ui/MainWindow.cpp:544 src/launcher/ui/MainWindow.cpp:509
 msgctxt "MainWindow|"
 msgid "View Worlds"
 msgstr "Welten verwalten"
 
-#: src/launcher/ui/MainWindow.cpp:545
+#: src/launcher/ui/MainWindow.cpp:545 src/launcher/ui/MainWindow.cpp:510
 msgctxt "MainWindow|"
 msgid "View the worlds of this instance."
 msgstr "Die Welten dieser Instanz verwalten."
 
-#: src/launcher/ui/MainWindow.cpp:551
+#: src/launcher/ui/MainWindow.cpp:551 src/launcher/ui/MainWindow.cpp:516
 msgctxt "MainWindow|"
 msgid "Manage Screenshots"
 msgstr "Bildschirmfotos verwalten"
 
-#: src/launcher/ui/MainWindow.cpp:552
+#: src/launcher/ui/MainWindow.cpp:552 src/launcher/ui/MainWindow.cpp:517
 msgctxt "MainWindow|"
 msgid "View and upload screenshots for this instance."
 msgstr "Bildschirmfotos dieser Instanz betrachten und hochladen."
 
-#: src/launcher/ui/MainWindow.cpp:558
+#: src/launcher/ui/MainWindow.cpp:558 src/launcher/ui/MainWindow.cpp:523
 msgctxt "MainWindow|"
 msgid "Change Group"
 msgstr "Gruppe ändern"
 
-#: src/launcher/ui/MainWindow.cpp:559
+#: src/launcher/ui/MainWindow.cpp:559 src/launcher/ui/MainWindow.cpp:524
 msgctxt "MainWindow|"
 msgid "Change the selected instance's group."
 msgstr "Die Gruppe der ausgewählten Instanz ändern."
 
-#: src/launcher/ui/MainWindow.cpp:567
+#: src/launcher/ui/MainWindow.cpp:567 src/launcher/ui/MainWindow.cpp:532
 msgctxt "MainWindow|"
 msgid "Minecraft Folder"
 msgstr "Minecraft-Ordner"
 
-#: src/launcher/ui/MainWindow.cpp:568
+#: src/launcher/ui/MainWindow.cpp:568 src/launcher/ui/MainWindow.cpp:533
 msgctxt "MainWindow|"
 msgid "Open the selected instance's minecraft folder in a file browser."
 msgstr "Das Hauptverzeichnis der aktuellen Instanz im Dateimanager öffnen."
 
-#: src/launcher/ui/MainWindow.cpp:583
+#: src/launcher/ui/MainWindow.cpp:583 src/launcher/ui/MainWindow.cpp:548
 msgctxt "MainWindow|"
 msgid "Config Folder"
 msgstr "Konfigurations-Ordner"
 
-#: src/launcher/ui/MainWindow.cpp:584
+#: src/launcher/ui/MainWindow.cpp:584 src/launcher/ui/MainWindow.cpp:549
 msgctxt "MainWindow|"
 msgid "Open the instance's config folder."
 msgstr "Öffne den Konfigurations-Ordner der Instanz."
 
-#: src/launcher/ui/MainWindow.cpp:590
+#: src/launcher/ui/MainWindow.cpp:590 src/launcher/ui/MainWindow.cpp:555
 msgctxt "MainWindow|"
 msgid "Instance Folder"
 msgstr "Instanz-Ordner"
 
-#: src/launcher/ui/MainWindow.cpp:591
+#: src/launcher/ui/MainWindow.cpp:591 src/launcher/ui/MainWindow.cpp:556
 msgctxt "MainWindow|"
 msgid "Open the selected instance's root folder in a file browser."
 msgstr "Das Hauptverzeichnis der aktuellen Instanz im Dateimanager öffnen."
 
-#: src/launcher/ui/MainWindow.cpp:599
+#: src/launcher/ui/MainWindow.cpp:599 src/launcher/ui/MainWindow.cpp:564
 msgctxt "MainWindow|"
 msgid "Export Instance"
 msgstr "Instanz exportieren"
@@ -3321,82 +3306,84 @@ msgctxt "MainWindow|"
 msgid "Export the selected instance as a zip file."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:606
+#: src/launcher/ui/MainWindow.cpp:606 src/launcher/ui/MainWindow.cpp:571
 msgctxt "MainWindow|"
 msgid "Delete"
 msgstr "Löschen"
 
-#: src/launcher/ui/MainWindow.cpp:607
+#: src/launcher/ui/MainWindow.cpp:607 src/launcher/ui/MainWindow.cpp:572
 msgctxt "MainWindow|"
 msgid "Delete the selected instance."
 msgstr "Ausgewählte Instanz löschen."
 
-#: src/launcher/ui/MainWindow.cpp:614
+#: src/launcher/ui/MainWindow.cpp:614 src/launcher/ui/MainWindow.cpp:579
 msgctxt "MainWindow|"
 msgid "Copy Instance"
 msgstr "Instanz kopieren"
 
-#: src/launcher/ui/MainWindow.cpp:615
+#: src/launcher/ui/MainWindow.cpp:615 src/launcher/ui/MainWindow.cpp:580
 msgctxt "MainWindow|"
 msgid "Copy the selected instance."
 msgstr "Kopiere die ausgewählte Instanz."
 
-#: src/launcher/ui/MainWindow.cpp:658
+#: src/launcher/ui/MainWindow.cpp:658 src/launcher/ui/MainWindow.cpp:622
 #, qt-format
 msgctxt "MainWindow|Launcher - Version X"
 msgid "%1 - Version %2"
 msgstr "%1 - Version %2"
 
-#: src/launcher/ui/MainWindow.cpp:661
+#: src/launcher/ui/MainWindow.cpp:661 src/launcher/ui/MainWindow.cpp:625
 #, qt-format
 msgctxt "MainWindow|on platform, as in operating system"
 msgid " on %1"
 msgstr " auf %1"
 
 #: src/launcher/ui/MainWindow.cpp:771 src/launcher/ui/MainWindow.cpp:870
+#: src/launcher/ui/MainWindow.cpp:721 src/launcher/ui/MainWindow.cpp:824
 msgctxt "MainWindow|"
 msgid "No instance selected"
 msgstr "Keine Instanz ausgewählt"
 
-#: src/launcher/ui/MainWindow.cpp:772
+#: src/launcher/ui/MainWindow.cpp:772 src/launcher/ui/MainWindow.cpp:722
 msgctxt "MainWindow|"
 msgid "Total playtime: 0s"
 msgstr "Gesamtspielzeit: 0s"
 
 #: src/launcher/ui/MainWindow.cpp:864 src/launcher/ui/MainWindow.cpp:1154
+#: src/launcher/ui/MainWindow.cpp:818 src/launcher/ui/MainWindow.cpp:1108
 msgctxt "MainWindow|"
 msgid "Profiles"
 msgstr "Konten"
 
-#: src/launcher/ui/MainWindow.cpp:923
+#: src/launcher/ui/MainWindow.cpp:923 src/launcher/ui/MainWindow.cpp:877
 msgctxt "MainWindow|"
 msgid "Create instance"
 msgstr "Instanz erstellen"
 
-#: src/launcher/ui/MainWindow.cpp:939
+#: src/launcher/ui/MainWindow.cpp:939 src/launcher/ui/MainWindow.cpp:893
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Delete group '%1'"
 msgstr "Gruppe '%1' löschen"
 
-#: src/launcher/ui/MainWindow.cpp:1000
+#: src/launcher/ui/MainWindow.cpp:1000 src/launcher/ui/MainWindow.cpp:954
 msgctxt "MainWindow|"
 msgid "Profilers"
 msgstr "Profiler"
 
-#: src/launcher/ui/MainWindow.cpp:1012
+#: src/launcher/ui/MainWindow.cpp:1012 src/launcher/ui/MainWindow.cpp:966
 msgctxt "MainWindow|"
 msgid "Profiler not setup correctly. Go into settings, \"External Tools\"."
 msgstr ""
 "Der Profiler ist nicht richtig konfiguriert. Gehe in Einstellungen, "
 "\"Externe Programme\"."
 
-#: src/launcher/ui/MainWindow.cpp:1052
+#: src/launcher/ui/MainWindow.cpp:1052 src/launcher/ui/MainWindow.cpp:1006
 msgctxt "MainWindow|"
 msgid "No accounts added!"
 msgstr "Keine Konten hinzugefügt!"
 
-#: src/launcher/ui/MainWindow.cpp:1085
+#: src/launcher/ui/MainWindow.cpp:1085 src/launcher/ui/MainWindow.cpp:1039
 msgctxt "MainWindow|"
 msgid "No Default Account"
 msgstr "Kein Standard Konto"
@@ -3411,17 +3398,18 @@ msgctxt "MainWindow|"
 msgid "No news available."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1354
+#: src/launcher/ui/MainWindow.cpp:1354 src/launcher/ui/MainWindow.cpp:1303
 msgctxt "MainWindow|"
 msgid "Warnings"
 msgstr "Warnungen"
 
 #: src/launcher/ui/MainWindow.cpp:1358 src/launcher/ui/MainWindow.cpp:1400
+#: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
 msgctxt "MainWindow|"
 msgid "Abort"
 msgstr "Abbrechen"
 
-#: src/launcher/ui/MainWindow.cpp:1409
+#: src/launcher/ui/MainWindow.cpp:1409 src/launcher/ui/MainWindow.cpp:1358
 msgctxt "MainWindow|"
 msgid ""
 "The launcher cannot download Minecraft or update instances unless you have "
@@ -3432,33 +3420,33 @@ msgstr ""
 "Konto hinzugefügt wurde.\n"
 "Bitte füg ein Mojang- oder Minecraft-Konto hinzu."
 
-#: src/launcher/ui/MainWindow.cpp:1548
+#: src/launcher/ui/MainWindow.cpp:1548 src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Group name"
 msgstr "Gruppenname"
 
-#: src/launcher/ui/MainWindow.cpp:1548
+#: src/launcher/ui/MainWindow.cpp:1548 src/launcher/ui/MainWindow.cpp:1492
 msgctxt "MainWindow|"
 msgid "Enter a new group name."
 msgstr "Einen neuen Gruppennamen eingeben."
 
-#: src/launcher/ui/MainWindow.cpp:1570
+#: src/launcher/ui/MainWindow.cpp:1570 src/launcher/ui/MainWindow.cpp:1514
 msgctxt "MainWindow|"
 msgid "Delete group"
 msgstr "Gruppe löschen"
 
-#: src/launcher/ui/MainWindow.cpp:1570
+#: src/launcher/ui/MainWindow.cpp:1570 src/launcher/ui/MainWindow.cpp:1514
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Are you sure you want to delete the group %1"
 msgstr "Bist du dir sicher, dass du die Gruppe %1 löschen möchtest"
 
-#: src/launcher/ui/MainWindow.cpp:1706
+#: src/launcher/ui/MainWindow.cpp:1706 src/launcher/ui/MainWindow.cpp:1632
 msgctxt "MainWindow|"
 msgid "CAREFUL!"
 msgstr "ACHTUNG!"
 
-#: src/launcher/ui/MainWindow.cpp:1707
+#: src/launcher/ui/MainWindow.cpp:1707 src/launcher/ui/MainWindow.cpp:1633
 #, qt-format
 msgctxt "MainWindow|"
 msgid ""
@@ -3472,12 +3460,12 @@ msgstr ""
 "\n"
 "Bist du dir sicher?"
 
-#: src/launcher/ui/MainWindow.cpp:1912
+#: src/launcher/ui/MainWindow.cpp:1912 src/launcher/ui/MainWindow.cpp:1838
 msgctxt "MainWindow|"
 msgid "Rename Instance"
 msgstr "Instanz umbenennen"
 
-#: src/launcher/ui/MainWindow.cpp:1925
+#: src/launcher/ui/MainWindow.cpp:1925 src/launcher/ui/MainWindow.cpp:1851
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
@@ -3485,7 +3473,7 @@ msgstr ""
 "Der Name deines Instanz-Ordners beinhaltet ein Ausrufezeichen (!). Dies kann "
 "Probleme mit Java verursachen!"
 
-#: src/launcher/ui/MainWindow.cpp:1927
+#: src/launcher/ui/MainWindow.cpp:1927 src/launcher/ui/MainWindow.cpp:1853
 #, qt-format
 msgctxt "MainWindow|"
 msgid ""
@@ -3495,18 +3483,18 @@ msgstr ""
 "Du hast zwei Optionen:<br/> - den Instanz-Ordner in den Einstellungen ändern "
 "<br/> - die Installation von %1 in einen anderen Ordner verschieben"
 
-#: src/launcher/ui/MainWindow.cpp:1936
+#: src/launcher/ui/MainWindow.cpp:1936 src/launcher/ui/MainWindow.cpp:1862
 msgctxt "MainWindow|"
 msgid ""
 "This is a problem: <br/> - The launcher will likely be deleted without "
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
-"Das ist ein Problem: <br> - Der Launcher wird von dem Betriebssystem "
-"warhscheinlich ohne Warnung gelöscht <br> - schließen sie den Launcher und "
-"extrahieren sie ihn in einen echten Ordner, nicht in einen temporären Ordner"
+"Das ist ein Problem: <br>- Der Launcher wird vermutlich ohne Warnung vom "
+"Betriebssystem gelöscht werden <br>- Schließe den Launcher und entpacke ihn "
+"in einen richtigen Pfad."
 
-#: src/launcher/ui/MainWindow.cpp:1943
+#: src/launcher/ui/MainWindow.cpp:1943 src/launcher/ui/MainWindow.cpp:1869
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
@@ -3515,13 +3503,13 @@ msgstr ""
 "Dein Instanz-Ordner enthält 'Rar$' - das bedeutet, dass du die Archivdatei "
 "nicht ausgepackt hast!"
 
-#: src/launcher/ui/MainWindow.cpp:1951
+#: src/launcher/ui/MainWindow.cpp:1951 src/launcher/ui/MainWindow.cpp:1877
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
-msgstr "Deine Instanz befindet sich in einem temporären Ordner: \"%1\"!"
+msgstr "Deine Instanz ist einem temporären Ordner: '%1'!"
 
-#: src/launcher/ui/MainWindow.cpp:1964
+#: src/launcher/ui/MainWindow.cpp:1964 src/launcher/ui/MainWindow.cpp:1890
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Total playtime: %1"
@@ -3529,7 +3517,9 @@ msgstr "Gesamte Spielzeit: %1"
 
 #: src/launcher/ui/MainWindow.cpp:1272 src/launcher/ui/MainWindow.cpp:1289
 #: src/launcher/ui/MainWindow.cpp:1347 src/launcher/ui/MainWindow.cpp:1396
-#: src/launcher/ui/MainWindow.cpp:1408
+#: src/launcher/ui/MainWindow.cpp:1408 src/launcher/ui/MainWindow.cpp:1221
+#: src/launcher/ui/MainWindow.cpp:1238 src/launcher/ui/MainWindow.cpp:1296
+#: src/launcher/ui/MainWindow.cpp:1345 src/launcher/ui/MainWindow.cpp:1357
 msgctxt "MainWindow|"
 msgid "Error"
 msgstr "Fehler"
@@ -3540,7 +3530,7 @@ msgctxt "MainWindow|"
 msgid "Open %1 Discord guild."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1272
+#: src/launcher/ui/MainWindow.cpp:1272 src/launcher/ui/MainWindow.cpp:1221
 #, qt-format
 msgctxt "MainWindow|"
 msgid ""
@@ -3562,49 +3552,58 @@ msgid "Got migration flags"
 msgstr "Migrationsmerkmale erhalten"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:692
+#: src/launcher/minecraft/MinecraftInstance.cpp:703
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
 msgstr "&lt;SITZUNGS-ID&gt;"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:694
+#: src/launcher/minecraft/MinecraftInstance.cpp:705
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
 msgstr "&lt;ZUGANGS-TOKEN&gt;"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:696
+#: src/launcher/minecraft/MinecraftInstance.cpp:707
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
 msgstr "&lt;CLIENT-TOKEN&gt;"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:698
+#: src/launcher/minecraft/MinecraftInstance.cpp:709
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
 msgstr "&lt;PROFIL-ID&gt;"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:770
+#: src/launcher/minecraft/MinecraftInstance.cpp:781
 msgctxt "MinecraftInstance|"
 msgid "broken"
 msgstr "kaputt"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:774
+#: src/launcher/minecraft/MinecraftInstance.cpp:785
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
 msgstr "Minecraft %1 (%2)"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:778
+#: src/launcher/minecraft/MinecraftInstance.cpp:789
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid ", last played for %1"
 msgstr ", Zuletzt gespielt für %1"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:782
+#: src/launcher/minecraft/MinecraftInstance.cpp:793
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid ", total played for %1"
 msgstr ", gesamt gespielt für %1"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:787
+#: src/launcher/minecraft/MinecraftInstance.cpp:798
 msgctxt "MinecraftInstance|"
 msgid ", has crashed."
 msgstr ", ist abgestürzt."
@@ -3804,7 +3803,6 @@ msgstr "&Hinzufügen"
 
 #: src/launcher/ui/pages/instance/ModFolderPage.ui:99
 #, fuzzy
-#| msgid "Add mods"
 msgctxt "ModFolderPage|"
 msgid "Add"
 msgstr "Mods hinzufügen"
@@ -3875,11 +3873,13 @@ msgid "Add mods via local file"
 msgstr ""
 
 #: src/launcher/ui/pages/instance/ModFolderPage.cpp:206
+#: src/launcher/ui/pages/instance/ModFolderPage.cpp:191
 msgctxt "ModFolderPage|"
 msgid "Context menu"
 msgstr "Kontextmenü"
 
 #: src/launcher/ui/pages/instance/ModFolderPage.cpp:319
+#: src/launcher/ui/pages/instance/ModFolderPage.cpp:304
 #, qt-format
 msgctxt ""
 "ModFolderPage|Select whatever type of files the page contains. Example: "
@@ -4127,18 +4127,6 @@ msgctxt "NotesPage|"
 msgid "Notes"
 msgstr "Notizen"
 
-#~ msgctxt "NotificationDialog|"
-#~ msgid "Notification"
-#~ msgstr "Benachrichtigungen"
-
-#~ msgctxt "NotificationDialog|"
-#~ msgid "Don't show again"
-#~ msgstr "Nicht erneut anzeigen"
-
-#~ msgctxt "NotificationDialog|"
-#~ msgid "Close"
-#~ msgstr "Schließen"
-
 #: src/launcher/NullInstance.h:20
 msgctxt "NullInstance|"
 msgid "Unknown instance type"
@@ -4299,24 +4287,16 @@ msgid "Other logs"
 msgstr "Andere Logs"
 
 #: src/launcher/minecraft/PackProfile.cpp:608
+#: src/launcher/minecraft/PackProfile.cpp:853
 msgctxt "PackProfile|"
 msgid "Name"
 msgstr "Name"
 
 #: src/launcher/minecraft/PackProfile.cpp:610
+#: src/launcher/minecraft/PackProfile.cpp:855
 msgctxt "PackProfile|"
 msgid "Version"
 msgstr "Version"
-
-#, fuzzy
-#~ msgctxt "PastePage|"
-#~ msgid "Pastebin URL"
-#~ msgstr "Pastebin URL"
-
-#, fuzzy
-#~ msgctxt "PastePage|"
-#~ msgid "Log Upload"
-#~ msgstr "Log hochladen"
 
 #: src/launcher/net/PasteUpload.cpp:37
 #, qt-format
@@ -4334,7 +4314,7 @@ msgstr "Netzwerk-Fehler: %1"
 #, qt-format
 msgctxt "PasteUpload|"
 msgid "Error: %1 returned unexpected status code %2 %3"
-msgstr "Fehler: %1 hat einen unerwarteten Status Code zurückgegeben: %2 %3"
+msgstr "Fehler: %1 hat den unerwarteten Status-Code %2 ausgegeben. %3"
 
 #: src/launcher/launch/steps/PostLaunchCommand.cpp:31
 #, qt-format
@@ -4600,7 +4580,6 @@ msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:36
 #, fuzzy
-#| msgid "Developers"
 msgctxt "QObject|About Credits"
 msgid "PolyMC Developers"
 msgstr "Entwickler"
@@ -4611,11 +4590,12 @@ msgid "MultiMC Developers"
 msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:50
+#: src/launcher/ui/dialogs/AboutDialog.cpp:44
 msgctxt "QObject|About Credits"
 msgid "With thanks to"
 msgstr "Mit Dank an"
 
-#: src/launcher/ui/MainWindow.cpp:99
+#: src/launcher/ui/MainWindow.cpp:99 src/launcher/ui/MainWindow.cpp:100
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 (in use)"
@@ -4665,8 +4645,8 @@ msgid ""
 "Java test succeeded!<br />Platform reported: %1<br />Java version reported: "
 "%2<br />"
 msgstr ""
-"Java-Test erfolgreich!<br />Gemeldete Plattform: %1<br />Gemeldete "
-"Java-Version: %2<br />"
+"Java-Test erfolgreich!<br />Gemeldete Plattform: %1<br />Gemeldete Java-"
+"Version: %2<br />"
 
 #: src/launcher/ui/widgets/JavaSettingsWidget.cpp:322
 #: src/launcher/JavaCommon.cpp:35
@@ -4759,8 +4739,8 @@ msgstr ""
 msgctxt "QObject|"
 msgid "Version file contains unsupported element '-minecraftArguments'"
 msgstr ""
-"Die Versions-Datei enthält ein nicht unterstütztes Element: "
-"'-minecraftArguments'"
+"Die Versions-Datei enthält ein nicht unterstütztes Element: '-"
+"minecraftArguments'"
 
 #: src/launcher/minecraft/OneSixVersionFormat.cpp:251
 msgctxt "QObject|"
@@ -4802,6 +4782,7 @@ msgid "Unable to process the version file %1."
 msgstr "Kann die Versionsdatei %1 nicht verarbeiten."
 
 #: src/launcher/minecraft/auth/AccountData.cpp:428
+#: src/launcher/minecraft/auth/AccountData.cpp:418
 #, qt-format
 msgctxt "QObject|"
 msgid "No profile (%1)"
@@ -4883,15 +4864,15 @@ msgstr "%1d %2h %3min"
 #: src/launcher/JavaCommon.cpp:10
 msgctxt "QObject|"
 msgid ""
-"You tried to manually set a JVM memory option (using \"-XX:PermSize\", "
-"\"-XX-MaxHeapSize\", \"-XX:InitialHeapSize\",  \"-Xmx\" or \"-Xms\").\n"
+"You tried to manually set a JVM memory option (using \"-XX:PermSize\", \"-XX-"
+"MaxHeapSize\", \"-XX:InitialHeapSize\",  \"-Xmx\" or \"-Xms\").\n"
 "There are dedicated boxes for these in the settings (Java tab, in the Memory "
 "group at the top).\n"
 "This message will be displayed until you remove them from the JVM arguments."
 msgstr ""
-"Du hast versucht, eine JVM-Arbeitsspeicheroption manuell anzugeben "
-"(\"-XX:PermSize\", \"-XX-MaxHeapSize\", \"-XX:InitialHeapSize\", \"-Xmx\" "
-"oder \"-Xms\").\n"
+"Du hast versucht, eine JVM-Arbeitsspeicheroption manuell anzugeben (\"-XX:"
+"PermSize\", \"-XX-MaxHeapSize\", \"-XX:InitialHeapSize\", \"-Xmx\" oder \"-"
+"Xms\").\n"
 "Es gibt hierfür vorgesehene Felder in den Einstellungen (Java-Reiter, im "
 "Arbeitsspeicher-Bereich oben).\n"
 "Diese Mitteilung wird so lange angezeigt, bis du die Option entfernt hast."
@@ -4908,8 +4889,8 @@ msgid ""
 "Java test succeeded!<br />Platform reported: %1<br />Java version reported: "
 "%2<br />Java vendor reported: %3<br />"
 msgstr ""
-"Java-Test erfolgreich!<br />Gemeldete Plattform: %1<br />Gemeldete "
-"Java-Version: %2<br />Gemeldeter Java-Anbieter: %3<br />"
+"Java-Test erfolgreich!<br />Gemeldete Plattform: %1<br />Gemeldete Java-"
+"Version: %2<br />Gemeldeter Java-Anbieter: %3<br />"
 
 #: src/launcher/JavaCommon.cpp:33
 #, qt-format
@@ -4932,8 +4913,8 @@ msgid ""
 "feature, or set the path to the java executable.<br />"
 msgstr ""
 "Die ausgewählte Java-Binärdatei hat nicht funktioniert.<br>Du solltest die "
-"Auto-Erkennung benutzen oder den Pfad zur Java-Binärdatei manuell "
-"angeben.<br>"
+"Auto-Erkennung benutzen oder den Pfad zur Java-Binärdatei manuell angeben."
+"<br>"
 
 #: src/launcher/meta/BaseEntity.cpp:120
 #, qt-format
@@ -5026,21 +5007,25 @@ msgid "Actions"
 msgstr "Aktionen"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:61
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:59
 msgctxt "ScreenshotsPage|"
 msgid "Upload"
 msgstr "Hochladen"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:66
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:64
 msgctxt "ScreenshotsPage|"
 msgid "Delete"
 msgstr "Löschen"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:71
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:69
 msgctxt "ScreenshotsPage|"
 msgid "Rename"
 msgstr "Umbenennen"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:76
+#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:74
 msgctxt "ScreenshotsPage|"
 msgid "View Folder"
 msgstr "Ordner öffnen"
@@ -5063,29 +5048,37 @@ msgid "Screenshots"
 msgstr "Bildschirmfotos"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:280
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:274
 msgctxt "ScreenshotsPage|"
 msgid "Context menu"
 msgstr "Kontextmenü"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:331
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:371
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:320
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:360
 msgctxt "ScreenshotsPage|"
 msgid "Failed to upload screenshots!"
 msgstr "Fehler beim Hochladen von Bildschirmfotos!"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:332
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:372
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:321
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:361
 msgctxt "ScreenshotsPage|"
 msgid "Unknown error"
 msgstr "Unbekannter Fehler"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:341
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:330
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:372
 msgctxt "ScreenshotsPage|"
 msgid "Upload finished"
 msgstr "Hochladen abgeschlossen"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:342
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:331
 #, qt-format
 msgctxt "ScreenshotsPage|"
 msgid ""
@@ -5096,6 +5089,7 @@ msgstr ""
 "Zwischenablage kopiert."
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:384
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:373
 #, qt-format
 msgctxt "ScreenshotsPage|"
 msgid ""
@@ -5106,11 +5100,13 @@ msgstr ""
 "Zwischenablage kopiert."
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:430
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
 msgctxt "ScreenshotsPage|"
 msgid "Are you sure?"
 msgstr "Bist du sicher?"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:430
+#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
 msgctxt "ScreenshotsPage|"
 msgid "This will delete all selected screenshots."
 msgstr "Dies wird alle ausgewählten Bildschirmfotos löschen."
@@ -5414,22 +5410,27 @@ msgid "Instance import has been aborted."
 msgstr "Instanz-Import wurde abgebrochen."
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:56
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:58
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to open \"bin/modpack.jar\" file!"
 msgstr "Konnte \"bin/modpack.jar\" nicht öffnen!"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:68
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:70
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to open \"fmlversion.properties\"!"
 msgstr "Konnte \"fmlversion.properties\" nicht öffnen!"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:82
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:137
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:84
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:139
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to open \"version.json\"!"
 msgstr "Konnte \"version.json\" nicht öffnen!"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:91
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:93
 msgctxt "Technic::TechnicPackProcessor|"
 msgid ""
 "Could not find \"version.json\" inside \"bin/modpack.jar\", but minecraft "
@@ -5439,21 +5440,25 @@ msgstr ""
 "Minecraft-Version ist unbekannt"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:105
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:107
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to open \"forgeversion.properties\""
 msgstr "Konnte \"forgeversion.properties\" nicht öffnen"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:120
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:122
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Invalid \"forgeversion.properties\"!"
 msgstr "Ungültige \"forgeversion.properties\"!"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:146
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:148
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to find a \"version.json\"!"
 msgstr "Konnte \"version.json\" nicht finden!"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:159
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:161
 msgctxt "Technic::TechnicPackProcessor|"
 msgid ""
 "Could not understand \"version.json\":\n"
@@ -5463,6 +5468,7 @@ msgstr ""
 "inheritsFrom nicht gefunden"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:200
+#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:202
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Could not understand \"version.json\":\n"
 msgstr "Konnte \"version.json\" nicht verstehen:\n"
@@ -6480,20 +6486,20 @@ msgstr "Authentifizierungsvorgang abgebrochen."
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:234
 msgctxt "Yggdrasil|"
 msgid ""
-"<b>SSL Handshake failed.</b><br/>There might be a few causes for "
-"it:<br/><ul><li>You use Windows and need to update your root certificates, "
-"please install any outstanding updates.</li><li>Some device on your network "
-"is interfering with SSL traffic. In that case, you have bigger worries than "
+"<b>SSL Handshake failed.</b><br/>There might be a few causes for it:<br/"
+"><ul><li>You use Windows and need to update your root certificates, please "
+"install any outstanding updates.</li><li>Some device on your network is "
+"interfering with SSL traffic. In that case, you have bigger worries than "
 "Minecraft not starting.</li><li>Possibly something else. Check the log file "
 "for details</li></ul>"
 msgstr ""
-"<b>SSL-Handshake fehlgeschlagen.</b><br>Es kann mehrere Erklärungen "
-"geben:<br><ul><li>Du benutzt Windows und musst deine Stammzertifikate "
+"<b>SSL-Handshake fehlgeschlagen.</b><br>Es kann mehrere Erklärungen geben:"
+"<br><ul><li>Du benutzt Windows und musst deine Stammzertifikate "
 "aktualisieren. Bitte installiere alle ausstehenden Updates.</li><li>Ein "
 "Gerät in deinem Netzwerk mischt sich in den SSL-Verkehr ein. In diesem Fall "
-"hast du größere Probleme, als dass Minecraft nicht gestartet werden "
-"kann.</li><li>Möglicherweise etwas anderes. Prüfe die PolyMC Log-Datei für "
-"Details</li></ul>"
+"hast du größere Probleme, als dass Minecraft nicht gestartet werden kann.</"
+"li><li>Möglicherweise etwas anderes. Prüfe die PolyMC Log-Datei für Details</"
+"li></ul>"
 
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:252
 msgctxt "Yggdrasil|"
@@ -6517,8 +6523,8 @@ msgid ""
 "Failed to parse authentication server response JSON response: %1 at offset "
 "%2."
 msgstr ""
-"Fehler beim Einlesen der Antwort des Authentifizierungs-Servers. "
-"JSON-Antwort: %1 bei %2."
+"Fehler beim Einlesen der Antwort des Authentifizierungs-Servers. JSON-"
+"Antwort: %1 bei %2."
 
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:307
 #, qt-format
@@ -6527,8 +6533,8 @@ msgid ""
 "An unknown error occurred when trying to communicate with the authentication "
 "server: %1"
 msgstr ""
-"Ein unbekannter Fehler ist bei der Kommunikation mit dem "
-"Authentifizierungs-Server aufgetreten: %1"
+"Ein unbekannter Fehler ist bei der Kommunikation mit dem Authentifizierungs-"
+"Server aufgetreten: %1"
 
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:329
 msgctxt "Yggdrasil|"
@@ -6554,3 +6560,200 @@ msgstr "Mojang-Benutzerauthentifizierung fehlgeschlagen."
 msgctxt "YggdrasilStep|"
 msgid "Mojang user authentication ended with a network error."
 msgstr "Die Mojang-Benutzerauthentifizierung endete mit einem Netzwerkfehler."
+
+#: src/launcher/ui/dialogs/AboutDialog.ui:157
+msgctxt "AboutDialog|"
+msgid "Version:"
+msgstr "Version:"
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:86
+msgctxt "AboutDialog|"
+msgid "Version"
+msgstr "Version"
+
+#: src/launcher/InstancePageProvider.h:40
+msgctxt "InstancePageProvider|"
+msgid "Loader mods"
+msgstr "Loader-Mods"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:190
+msgctxt "LauncherPage|"
+msgid "Launcher notifications"
+msgstr "Launcher Benachrichtigungen"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:196
+msgctxt "LauncherPage|"
+msgid "Reset hidden notifications"
+msgstr "Ausgeblendete Benachrichtigungen zurücksetzen"
+
+#: src/launcher/ui/pages/global/LauncherPage.ui:307
+msgctxt "LauncherPage|"
+msgid "MultiMC"
+msgstr "MultiMC"
+
+#: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
+msgctxt "LegacyInstance|"
+msgid "Legacy"
+msgstr "Veraltet"
+
+#: src/launcher/minecraft/legacy/LegacyInstance.cpp:225
+msgctxt "LegacyInstance|"
+msgid "Instance from previous versions."
+msgstr "Lade Liste von früheren Minecraft-Versionen."
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:29
+#, fuzzy
+msgctxt "LegacyUpgradePage|"
+msgid ""
+"<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old Minecraft "
+"versions and all the required features in the new (OneSix) instance format. "
+"As a consequence, the old (Legacy) format has been entirely disabled and old "
+"instances need to be upgraded.</p><p>The upgrade will create a new instance "
+"with the same contents as the current one, in the new format. The original "
+"instance will remain untouched, in case anything goes wrong in the process.</"
+"p><p>Please report any issues on our <a href=\"https://github.com/PolyMC/"
+"PolyMC/issues\">github issues page</a>.</p><p>There is also a <a href="
+"\"https://discord.gg/GtPmv93\">discord channel for testing here</a>.</p></"
+"body></html>"
+msgstr ""
+"<html><body><h1>Upgrade ist benötigt</h1><p>PolyMC unterstützt jetzt alte "
+"Minecraft-Versionen und alles was benötigt wird für das neue \"OneSix\" "
+"Instanz-Format. Als Konsequenz müssen alte Formate abgeschaltet und alte "
+"Instanzen aktualisiert werden.</p><p>Das Upgrade wird eine neue Instanz mit "
+"dem selben Inhalt wie die momentane, jedoch im neuen Format, erstellen. Das "
+"Original bleibt unberührt, falls etwas schief gehen sollte während des "
+"Prozesses.</p><p>Bitte berichte jeden Fehler auf unserer <a href=\"https://"
+"github.com/PolyMC/PolyMC/issues\">GitHub Fehler Website</a>.</p><p>Es gibt "
+"auch einen <a href=\"https://discord.gg/GtPmv93\">Discord-Kanal zum Testen</"
+"a>.</p></body></html>"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:39
+msgctxt "LegacyUpgradePage|"
+msgid "Upgrade the instance"
+msgstr "Instanz aktualisieren"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:27
+msgctxt "LegacyUpgradePage|"
+msgid "Error"
+msgstr "Fehler"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:30
+msgctxt "LegacyUpgradePage|"
+msgid "Abort"
+msgstr "Abbrechen"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:39
+#, qt-format
+msgctxt "LegacyUpgradePage|"
+msgid "%1 (Migrated)"
+msgstr "%1 (Migriert)"
+
+#: src/launcher/ui/pages/instance/LegacyUpgradePage.h:39
+msgctxt "LegacyUpgradePage|"
+msgid "Upgrade"
+msgstr "Aktualisieren"
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:20
+#, qt-format
+msgctxt "LegacyUpgradeTask|"
+msgid "Copying instance %1"
+msgstr "Kopiere Instanz %1"
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:59
+msgctxt "LegacyUpgradeTask|"
+msgid "Instance folder copy failed."
+msgstr "Kopieren des Instanz-Ordners ist fehlgeschlagen."
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:82
+msgctxt "LegacyUpgradeTask|"
+msgid "Could not decide Minecraft version."
+msgstr "Konnte die Minecraft-Version nicht auswählen."
+
+#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:135
+msgctxt "LegacyUpgradeTask|"
+msgid "Instance folder copy has been aborted."
+msgstr "Kopieren des Instanz-Ordners wurde abgebrochen."
+
+#: src/launcher/ui/MainWindow.cpp:349
+#, qt-format
+msgctxt "MainWindow|"
+msgid "Open %1 discord voice chat."
+msgstr "Öffne %1's Discord Chat."
+
+#: src/launcher/ui/dialogs/NotificationDialog.ui:14
+msgctxt "NotificationDialog|"
+msgid "Notification"
+msgstr "Benachrichtigungen"
+
+#: src/launcher/ui/dialogs/NotificationDialog.ui:65
+#: src/launcher/ui/dialogs/NotificationDialog.cpp:30
+msgctxt "NotificationDialog|"
+msgid "Don't show again"
+msgstr "Nicht erneut anzeigen"
+
+#: src/launcher/ui/dialogs/NotificationDialog.ui:75
+#: src/launcher/ui/dialogs/NotificationDialog.cpp:31
+msgctxt "NotificationDialog|"
+msgid "Close"
+msgstr "Schließen"
+
+#: src/launcher/ui/pages/global/PastePage.ui:39
+#, fuzzy
+msgctxt "PastePage|"
+msgid "Pastebin URL"
+msgstr "Pastebin URL"
+
+#: src/launcher/ui/pages/global/PastePage.h:37
+#, fuzzy
+msgctxt "PastePage|"
+msgid "Log Upload"
+msgstr "Log hochladen"
+
+#: src/launcher/LaunchController.cpp:58
+msgctxt "LaunchController|"
+msgid ""
+"In order to play Minecraft, you must have at least one Mojang or Minecraft "
+"account logged in.Would you like to open the account manager to add an "
+"account now?"
+msgstr ""
+"Um Minecraft spielen zu können, musst du mindestens ein Mojang- oder "
+"Minecraft-Konto hinterlegen. Möchtest du die Kontoverwaltung öffnen, um ein "
+"Konto hinzuzufügen?"
+
+#: src/launcher/ui/pages/instance/ModFolderPage.ui:99
+msgctxt "ModFolderPage|"
+msgid "Add mods"
+msgstr "Mods hinzufügen"
+
+#: src/launcher/ui/pages/global/PastePage.ui:57
+msgctxt "PastePage|"
+msgid ""
+"<html><head/><body><p>Note: only input that starts with <span style=\" font-"
+"weight:600;\">http://</span> or <span style=\" font-weight:600;\">https://</"
+"span> will be accepted.</p></body></html>"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:74
+msgctxt "PastePage|"
+msgid "https://0x0.st"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:79
+msgctxt "PastePage|"
+msgid "https://paste.polymc.org"
+msgstr ""
+
+#: src/launcher/ui/pages/global/PastePage.ui:87
+msgctxt "PastePage|"
+msgid ""
+"<html><head/><body><p>Here you can choose from a predefined list of paste "
+"services, or input the URL of a different paste service of your choice, "
+"provided it supports the same protocol as 0x0.st, that is POST a file "
+"parameter to the URL and return a link in the response body.</p></body></"
+"html>"
+msgstr ""
+
+#: src/launcher/ui/dialogs/AboutDialog.cpp:36
+msgctxt "QObject|About Credits"
+msgid "Developers"
+msgstr "Entwickler"
