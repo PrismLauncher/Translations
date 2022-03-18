@@ -3492,7 +3492,7 @@ msgid ""
 msgstr ""
 "Das ist ein Problem: <br>- Der Launcher wird vermutlich ohne Warnung vom "
 "Betriebssystem gelöscht werden <br>- Schließe den Launcher und entpacke ihn "
-"in einen richtigen Pfad."
+"in einen nicht-temporären Pfad"
 
 #: src/launcher/ui/MainWindow.cpp:1943 src/launcher/ui/MainWindow.cpp:1869
 msgctxt "MainWindow|"
