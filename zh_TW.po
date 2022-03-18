@@ -15,9 +15,9 @@ msgstr ""
 #: src/launcher/ui/pages/global/APIPage.ui:57
 msgctxt "APIPage|"
 msgid ""
-"<html><head/><body><p>Note: only input that starts with <span style=\" font-"
-"weight:600;\">http://</span> or <span style=\" font-weight:600;\">https://</"
-"span> will be accepted.</p></body></html>"
+"<html><head/><body><p>Note: only input that starts with <span style=\" "
+"font-weight:600;\">http://</span> or <span style=\" "
+"font-weight:600;\">https://</span> will be accepted.</p></body></html>"
 msgstr ""
 
 #: src/launcher/ui/pages/global/APIPage.ui:74
@@ -36,8 +36,8 @@ msgid ""
 "<html><head/><body><p>Here you can choose from a predefined list of paste "
 "services, or input the URL of a different paste service of your choice, "
 "provided it supports the same protocol as 0x0.st, that is POST a file "
-"parameter to the URL and return a link in the response body.</p></body></"
-"html>"
+"parameter to the URL and return a link in the response "
+"body.</p></body></html>"
 msgstr ""
 
 #: src/launcher/ui/pages/global/APIPage.ui:106
@@ -172,106 +172,98 @@ msgid "Installing modpack"
 msgstr "正在安裝模組包"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:730
-#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:732
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to create libraries component"
 msgstr "建立組件程式庫失敗"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:754
-#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:756
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Unknown loader type: "
 msgstr "無效的載入器類型： "
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:768
-#: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:770
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to create pack component"
 msgstr "建立組件包失敗"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:104
-#: src/launcher/ui/dialogs/AboutDialog.ui:97
 msgctxt "AboutDialog|"
 msgid "About"
 msgstr "關於"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:113
-#: src/launcher/ui/dialogs/AboutDialog.ui:106
 msgctxt "AboutDialog|"
 msgid ""
 "<html><head/><body><p>A custom launcher that makes managing Minecraft easier "
-"by allowing you to have multiple instances of Minecraft at once.</p></body></"
-"html>"
+"by allowing you to have multiple instances of Minecraft at "
+"once.</p></body></html>"
 msgstr ""
-"<html><head/><body><p>是個第三方的啟動器，它讓你能夠在同一個啟動器裡更輕鬆地"
-"管理多個 Minecraft 的實例。</p></body></html>"
+"<html><head/><body><p>是個第三方的啟動器，它讓你能夠在同一個啟動器裡更輕鬆地管理多個 Minecraft "
+"的實例。</p></body></html>"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:164
-#: src/launcher/ui/dialogs/AboutDialog.ui:167
 msgctxt "AboutDialog|"
 msgid "Platform:"
 msgstr "平台："
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:174
-#: src/launcher/ui/dialogs/AboutDialog.ui:177
 msgctxt "AboutDialog|"
 msgid "Build Number:"
 msgstr "組建版本號："
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:184
-#: src/launcher/ui/dialogs/AboutDialog.ui:187
 msgctxt "AboutDialog|"
 msgid "Channel:"
 msgstr "通道："
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:208
-#: src/launcher/ui/dialogs/AboutDialog.ui:211
 msgctxt "AboutDialog|"
 msgid "Credits"
 msgstr "作者群"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:225
-#: src/launcher/ui/dialogs/AboutDialog.ui:228
 msgctxt "AboutDialog|"
 msgid "License"
 msgstr "授權條款"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:261
-#: src/launcher/ui/dialogs/AboutDialog.ui:264
 msgctxt "AboutDialog|"
 msgid "About Qt"
 msgstr "關於Qt"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:281
-#: src/launcher/ui/dialogs/AboutDialog.ui:284
 msgctxt "AboutDialog|"
 msgid "Close"
 msgstr "關閉"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:80
-#: src/launcher/ui/dialogs/AboutDialog.cpp:73
 #, qt-format
 msgctxt "AboutDialog|"
 msgid "About %1"
 msgstr "關於 %1"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:96
-#: src/launcher/ui/dialogs/AboutDialog.cpp:87
 msgctxt "AboutDialog|"
 msgid "Platform"
 msgstr "平台"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:101
-#: src/launcher/ui/dialogs/AboutDialog.cpp:90
 msgctxt "AboutDialog|"
 msgid "Build Number"
 msgstr "組建版本號"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:106
-#: src/launcher/ui/dialogs/AboutDialog.cpp:95
 msgctxt "AboutDialog|"
 msgid "Channel"
 msgstr "通道"
+
+#~ msgctxt "AboutDialog|"
+#~ msgid "Version:"
+#~ msgstr "版本："
+
+#~ msgctxt "AboutDialog|"
+#~ msgid "Version"
+#~ msgstr "版本"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:277
 msgctxt "AccountList|Account status"
@@ -309,133 +301,111 @@ msgid "Disabled"
 msgstr ""
 
 #: src/launcher/minecraft/auth/AccountList.cpp:298
-#: src/launcher/minecraft/auth/AccountList.cpp:295
 msgctxt "AccountList|Account status"
 msgid "Gone"
 msgstr "無"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:309
-#: src/launcher/minecraft/auth/AccountList.cpp:306
 msgctxt "AccountList|Can Migrate?"
 msgid "N/A"
 msgstr "N/A"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:312
-#: src/launcher/minecraft/auth/AccountList.cpp:309
 msgctxt "AccountList|Can Migrate?"
 msgid "Yes"
 msgstr "是"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:315
-#: src/launcher/minecraft/auth/AccountList.cpp:312
 msgctxt "AccountList|Can Migrate?"
 msgid "No"
 msgstr "否"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:349
-#: src/launcher/minecraft/auth/AccountList.cpp:346
 msgctxt "AccountList|"
 msgid "Account"
 msgstr "帳號"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:351
-#: src/launcher/minecraft/auth/AccountList.cpp:348
 msgctxt "AccountList|"
 msgid "Type"
 msgstr "類型"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:353
-#: src/launcher/minecraft/auth/AccountList.cpp:350
 msgctxt "AccountList|"
 msgid "Status"
 msgstr "狀態"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:355
-#: src/launcher/minecraft/auth/AccountList.cpp:352
 msgctxt "AccountList|"
 msgid "Can Migrate?"
 msgstr "能否轉移？"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:357
-#: src/launcher/minecraft/auth/AccountList.cpp:354
 msgctxt "AccountList|"
 msgid "Profile"
 msgstr "個人資料"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:366
-#: src/launcher/minecraft/auth/AccountList.cpp:363
 msgctxt "AccountList|"
 msgid "User name of the account."
 msgstr "該帳號的使用者名稱。"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:368
-#: src/launcher/minecraft/auth/AccountList.cpp:365
 msgctxt "AccountList|"
 msgid "Type of the account - Mojang or MSA."
 msgstr "帳號類型 - Mojang 或 MSA。"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:370
-#: src/launcher/minecraft/auth/AccountList.cpp:367
 msgctxt "AccountList|"
 msgid "Current status of the account."
 msgstr "帳號目前的狀態。"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:372
-#: src/launcher/minecraft/auth/AccountList.cpp:369
 msgctxt "AccountList|"
 msgid "Can this account migrate to Microsoft account?"
 msgstr "這個帳號是否能夠轉移到 Microsoft 帳號？"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:374
-#: src/launcher/minecraft/auth/AccountList.cpp:371
 msgctxt "AccountList|"
 msgid "Name of the Minecraft profile associated with the account."
 msgstr "屬於該帳號的 Minecraft 個人資料名稱。"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:68
-#: src/launcher/ui/pages/global/AccountListPage.ui:67
 msgctxt "AccountListPage|"
 msgid "Add Mojang"
 msgstr "新增 Mojang 帳號"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:73
-#: src/launcher/ui/pages/global/AccountListPage.ui:72
 msgctxt "AccountListPage|"
 msgid "Remove"
 msgstr "移除"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:78
-#: src/launcher/ui/pages/global/AccountListPage.ui:77
 msgctxt "AccountListPage|"
 msgid "Set Default"
 msgstr "設為預設帳號"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:86
-#: src/launcher/ui/pages/global/AccountListPage.ui:85
 msgctxt "AccountListPage|"
 msgid "No Default"
 msgstr "無預設帳號"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:91
-#: src/launcher/ui/pages/global/AccountListPage.ui:90
 msgctxt "AccountListPage|"
 msgid "Upload Skin"
 msgstr "上傳外觀"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:96
-#: src/launcher/ui/pages/global/AccountListPage.ui:95
 msgctxt "AccountListPage|"
 msgid "Delete Skin"
 msgstr "刪除外觀"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:99
-#: src/launcher/ui/pages/global/AccountListPage.ui:98
 msgctxt "AccountListPage|"
 msgid "Delete the currently active skin and go back to the default one"
 msgstr "刪除目前的外觀並恢復至預設外觀"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:104
-#: src/launcher/ui/pages/global/AccountListPage.ui:103
 msgctxt "AccountListPage|"
 msgid "Add Microsoft"
 msgstr "新增 Microsoft 帳號"
@@ -446,13 +416,11 @@ msgid "Add Offline"
 msgstr ""
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:114
-#: src/launcher/ui/pages/global/AccountListPage.ui:108
 msgctxt "AccountListPage|"
 msgid "Refresh"
 msgstr "重新整理"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:117
-#: src/launcher/ui/pages/global/AccountListPage.ui:111
 msgctxt "AccountListPage|"
 msgid "Refresh the account tokens"
 msgstr "重新整理帳號權杖"
@@ -463,7 +431,6 @@ msgid "Accounts"
 msgstr "帳號"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:45
-#: src/launcher/ui/pages/global/AccountListPage.cpp:44
 msgctxt "AccountListPage|"
 msgid ""
 "Welcome!\n"
@@ -479,28 +446,23 @@ msgid "No Microsoft Authentication client ID was set."
 msgstr ""
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:89
-#: src/launcher/ui/pages/global/AccountListPage.cpp:85
 msgctxt "AccountListPage|"
 msgid "Context menu"
 msgstr "功能表"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:120
 #: src/launcher/ui/pages/global/AccountListPage.cpp:148
-#: src/launcher/ui/pages/global/AccountListPage.cpp:116
-#: src/launcher/ui/pages/global/AccountListPage.cpp:144
 msgctxt "AccountListPage|"
 msgid ""
 "Please enter your Mojang account email and password to add your account."
 msgstr "請輸入您 Mojang 帳號的電子郵件與密碼以新增您的帳號。"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:137
-#: src/launcher/ui/pages/global/AccountListPage.cpp:133
 msgctxt "AccountListPage|"
 msgid "Microsoft Accounts not available"
 msgstr "無法使用 Microsoft 帳號"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:138
-#: src/launcher/ui/pages/global/AccountListPage.cpp:134
 msgctxt "AccountListPage|"
 msgid ""
 "Microsoft accounts are only usable on macOS 10.13 or newer, with fully "
@@ -529,13 +491,11 @@ msgid "Please enter your desired username to add your offline account."
 msgstr ""
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:276
-#: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
 msgid "Skin Delete"
 msgstr "刪除外觀"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:276
-#: src/launcher/ui/pages/global/AccountListPage.cpp:243
 msgctxt "AccountListPage|"
 msgid "Failed to delete current skin!"
 msgstr "刪除目前的外觀失敗！"
@@ -561,37 +521,32 @@ msgid "Client ID has changed. New session needs to be created."
 msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:49
-#: src/launcher/minecraft/auth/AccountTask.cpp:47
 msgctxt "AccountTask|"
 msgid "Encountered an error during authentication."
 msgstr "在驗證過程中出現錯誤。"
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:51
-#: src/launcher/minecraft/auth/AccountTask.cpp:49
 msgctxt "AccountTask|"
 msgid "Failed to authenticate. The session has expired."
 msgstr "驗證失敗。會話已過期。"
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:53
-#: src/launcher/minecraft/auth/AccountTask.cpp:51
 msgctxt "AccountTask|"
 msgid "Failed to authenticate. The account no longer exists."
 msgstr "驗證失敗。帳號不存在。"
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:55
-#: src/launcher/minecraft/auth/AccountTask.cpp:53
 msgctxt "AccountTask|"
 msgid "..."
 msgstr "…"
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:108
-#: src/launcher/minecraft/auth/AccountTask.cpp:100
 #, qt-format
 msgctxt "AccountTask|"
 msgid "Unknown account task state: %1"
 msgstr "未知的帳號工作狀態：%1"
 
-#: src/launcher/Application.cpp:701 src/launcher/Application.cpp:722
+#: src/launcher/Application.cpp:701
 msgctxt "Application|"
 msgid "Settings"
 msgstr "設定"
@@ -835,21 +790,21 @@ msgctxt "CustomCommands|"
 msgid ""
 "<html><head/><body><p>Pre-launch command runs before the instance launches "
 "and post-exit command runs after it exits.</p><p>Both will be run in the "
-"launcher's working folder with extra environment variables:</p><ul><li>"
-"$INST_NAME - Name of the instance</li><li>$INST_ID - ID of the instance (its "
-"folder name)</li><li>$INST_DIR - absolute path of the instance</li><li>"
-"$INST_MC_DIR - absolute path of minecraft</li><li>$INST_JAVA - java binary "
-"used for launch</li><li>$INST_JAVA_ARGS - command-line parameters used for "
+"launcher's working folder with extra environment "
+"variables:</p><ul><li>$INST_NAME - Name of the instance</li><li>$INST_ID - "
+"ID of the instance (its folder name)</li><li>$INST_DIR - absolute path of "
+"the instance</li><li>$INST_MC_DIR - absolute path of "
+"minecraft</li><li>$INST_JAVA - java binary used for "
+"launch</li><li>$INST_JAVA_ARGS - command-line parameters used for "
 "launch</li></ul><p>Wrapper command allows launching using an extra wrapper "
 "program (like 'optirun' on Linux)</p></body></html>"
 msgstr ""
-"<html><head/><body><p>預啟動指令會在實例啟動前執行，而結束後指令則會在其結束"
-"後執行。</p><p>此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：</"
-"p><ul><li>$INST_NAME - 實例的名稱</li><li>$INST_ID - 實例的 ID（其資料夾名"
-"稱）</li><li>$INST_DIR - 實例的絕對路徑</li><li>$INST_MC_DIR - Minecraft 的絕"
-"對路徑</li><li>$INST_JAVA - 啟動所用的 java 執行檔</li><li>$INST_JAVA_ARGS - "
-"啟動所用的命令列參數</li></ul><p>包裝指令允許啟動時使用額外的包裝程式（如 "
-"Linux 中的 'optirun'）</p></body></html>"
+"<html><head/><body><p>預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。</p><p>此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：</p><ul><li>$INST_NAME "
+"- 實例的名稱</li><li>$INST_ID - 實例的 ID（其資料夾名稱）</li><li>$INST_DIR - "
+"實例的絕對路徑</li><li>$INST_MC_DIR - Minecraft 的絕對路徑</li><li>$INST_JAVA - 啟動所用的 "
+"java 執行檔</li><li>$INST_JAVA_ARGS - "
+"啟動所用的命令列參數</li></ul><p>包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的 "
+"'optirun'）</p></body></html>"
 
 #: src/launcher/ui/pages/global/CustomCommandsPage.h:35
 msgctxt "CustomCommandsPage|"
@@ -922,14 +877,12 @@ msgstr "此檔案已存在，你想要覆蓋它嗎？"
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:409
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:414
-#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
 msgctxt "ExportInstanceDialog|"
 msgid "Error"
 msgstr "錯誤"
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:409
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:414
-#: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
 msgctxt "ExportInstanceDialog|"
 msgid "Unable to export instance"
 msgstr "無法匯出實例"
@@ -1479,7 +1432,7 @@ msgctxt "InstanceCopyTask|"
 msgid "Instance folder copy failed."
 msgstr "實例資料夾複製失敗。"
 
-#: src/launcher/InstanceCopyTask.cpp:57 src/launcher/InstanceCopyTask.cpp:58
+#: src/launcher/InstanceCopyTask.cpp:57
 msgctxt "InstanceCopyTask|"
 msgid "Instance folder copy has been aborted."
 msgstr "實例資料夾複製已被中斷。"
@@ -1562,34 +1515,29 @@ msgid "Unknown mod loader in manifest: %1"
 msgstr "在資訊中的未知模組載入器：%1"
 
 #: src/launcher/InstanceImportTask.cpp:270
-#: src/launcher/InstanceImportTask.cpp:272
 msgctxt "InstanceImportTask|"
 msgid ""
 "Mysterious trailing dots removed from Minecraft version while importing pack."
 msgstr "匯入包裝時移除了Minecraft版本的追蹤點。"
 
 #: src/launcher/InstanceImportTask.cpp:286
-#: src/launcher/InstanceImportTask.cpp:288
 #, qt-format
 msgctxt "InstanceImportTask|"
 msgid "Could not map recommended forge version for Minecraft %1"
 msgstr "無法為 Minecraft %1 提供推薦的 Forge 版本"
 
 #: src/launcher/InstanceImportTask.cpp:338
-#: src/launcher/InstanceImportTask.cpp:340
 msgctxt "InstanceImportTask|"
 msgid "Mod download"
 msgstr "模組包下載"
 
 #: src/launcher/InstanceImportTask.cpp:354
-#: src/launcher/InstanceImportTask.cpp:356
 #, qt-format
 msgctxt "InstanceImportTask|"
 msgid "This 'Folder' may need extracting: %1"
 msgstr "這個「資料夾」可能需要解壓縮：%1"
 
 #: src/launcher/InstanceImportTask.cpp:366
-#: src/launcher/InstanceImportTask.cpp:368
 #, qt-format
 msgctxt "InstanceImportTask|"
 msgid ""
@@ -1597,25 +1545,22 @@ msgid ""
 msgstr "巢狀模組包尚未實作，未下載任何東西：%1"
 
 #: src/launcher/InstanceImportTask.cpp:371
-#: src/launcher/InstanceImportTask.cpp:373
 #, qt-format
 msgctxt "InstanceImportTask|"
 msgid "Unrecognized/unhandled PackageType for: %1"
 msgstr "此為 無法辨識的/無法處理的 包裝類型：%1"
 
 #: src/launcher/InstanceImportTask.cpp:391
-#: src/launcher/InstanceImportTask.cpp:393
 msgctxt "InstanceImportTask|"
 msgid "Downloading mods..."
 msgstr "正在下載模組包…"
 
 #: src/launcher/InstanceImportTask.cpp:398
-#: src/launcher/InstanceImportTask.cpp:400
 msgctxt "InstanceImportTask|"
 msgid "Unable to resolve mod IDs:\n"
 msgstr "無法解析模組 IDs：\n"
 
-#: src/launcher/InstanceList.cpp:149 src/launcher/InstanceList.cpp:150
+#: src/launcher/InstanceList.cpp:149
 #, qt-format
 msgctxt "InstanceList|"
 msgid "%1 Instance"
@@ -1627,17 +1572,19 @@ msgid "Mods"
 msgstr ""
 
 #: src/launcher/InstancePageProvider.h:39
-#: src/launcher/InstancePageProvider.h:43
 msgctxt "InstancePageProvider|"
 msgid "Core mods"
 msgstr "核心模組"
 
 #: src/launcher/InstancePageProvider.h:59
-#: src/launcher/InstancePageProvider.h:72
 #, qt-format
 msgctxt "InstancePageProvider|"
 msgid "Edit Instance (%1)"
 msgstr "編輯實例（%1）"
+
+#~ msgctxt "InstancePageProvider|"
+#~ msgid "Loader mods"
+#~ msgstr "已載入模組"
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:29
 msgctxt "InstanceSettingsPage|"
@@ -1824,7 +1771,7 @@ msgctxt "InstanceSettingsPage|"
 msgid "Find Java executable"
 msgstr "尋找 Java 可執行檔"
 
-#: src/launcher/InstanceList.cpp:816 src/launcher/InstanceList.cpp:832
+#: src/launcher/InstanceList.cpp:816
 msgctxt "InstanceStaging|"
 msgid ""
 "Failed to commit instance, even after multiple retries. It is being blocked "
@@ -2050,14 +1997,12 @@ msgid "Language"
 msgstr "語言"
 
 #: src/launcher/ui/widgets/LanguageSelectionWidget.cpp:55
-#: src/launcher/ui/widgets/LanguageSelectionWidget.cpp:54
 #, qt-format
 msgctxt "LanguageSelectionWidget|"
 msgid ""
 "Don't see your language or the quality is poor?<br/><a href=\"%1\">Help us "
 "with translations!</a>"
-msgstr ""
-"找不到您的語言？或是翻譯品質很差？<br/><a href=\"%1\">協助我們翻譯！</a>"
+msgstr "找不到您的語言？或是翻譯品質很差？<br/><a href=\"%1\">協助我們翻譯！</a>"
 
 #: src/launcher/ui/setupwizard/LanguageWizardPage.cpp:46
 msgctxt "LanguageWizardPage|"
@@ -2106,31 +2051,29 @@ msgctxt "LaunchController|"
 msgid ""
 "Your account is currently not logged in. Please enter your password to log "
 "in again. <br /> <br /> This could be caused by a password change."
-msgstr ""
-"您的帳號目前為未登入狀態。請輸入密碼以重新登入。<br /> <br />這有可能是因為密"
-"碼變更所造成的。"
+msgstr "您的帳號目前為未登入狀態。請輸入密碼以重新登入。<br /> <br />這有可能是因為密碼變更所造成的。"
 
-#: src/launcher/LaunchController.cpp:137 src/launcher/LaunchController.cpp:131
+#: src/launcher/LaunchController.cpp:137
 msgctxt "LaunchController|"
 msgid "Player name"
 msgstr "玩家名稱"
 
-#: src/launcher/LaunchController.cpp:138 src/launcher/LaunchController.cpp:132
+#: src/launcher/LaunchController.cpp:138
 msgctxt "LaunchController|"
 msgid "Choose your offline mode player name."
 msgstr "選擇你在離線模式的玩家名稱。"
 
-#: src/launcher/LaunchController.cpp:166 src/launcher/LaunchController.cpp:160
+#: src/launcher/LaunchController.cpp:166
 msgctxt "LaunchController|"
 msgid "Received undetermined session status during login."
 msgstr "在登入時接收到無法確定的會話狀態。"
 
-#: src/launcher/LaunchController.cpp:177 src/launcher/LaunchController.cpp:171
+#: src/launcher/LaunchController.cpp:177
 msgctxt "LaunchController|"
 msgid "Play demo?"
 msgstr ""
 
-#: src/launcher/LaunchController.cpp:178 src/launcher/LaunchController.cpp:172
+#: src/launcher/LaunchController.cpp:178
 msgctxt "LaunchController|"
 msgid ""
 "This account does not own Minecraft.\n"
@@ -2139,32 +2082,32 @@ msgid ""
 "Do you want to play the demo?"
 msgstr ""
 
-#: src/launcher/LaunchController.cpp:180 src/launcher/LaunchController.cpp:174
+#: src/launcher/LaunchController.cpp:180
 msgctxt "LaunchController|"
 msgid "Play Demo"
 msgstr ""
 
-#: src/launcher/LaunchController.cpp:181 src/launcher/LaunchController.cpp:175
+#: src/launcher/LaunchController.cpp:181
 msgctxt "LaunchController|"
 msgid "Cancel"
 msgstr ""
 
-#: src/launcher/LaunchController.cpp:191 src/launcher/LaunchController.cpp:185
+#: src/launcher/LaunchController.cpp:191
 msgctxt "LaunchController|"
 msgid "Launch cancelled - account does not own Minecraft."
 msgstr ""
 
-#: src/launcher/LaunchController.cpp:207 src/launcher/LaunchController.cpp:201
+#: src/launcher/LaunchController.cpp:207
 msgctxt "LaunchController|"
 msgid "Play Offline"
 msgstr "離線遊玩"
 
-#: src/launcher/LaunchController.cpp:220 src/launcher/LaunchController.cpp:214
+#: src/launcher/LaunchController.cpp:220
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually again."
 msgstr "帳號已過期了，請手動重新登入。"
 
-#: src/launcher/LaunchController.cpp:223 src/launcher/LaunchController.cpp:217
+#: src/launcher/LaunchController.cpp:223
 msgctxt "LaunchController|"
 msgid "Account refresh failed"
 msgstr "帳號重新整理失敗"
@@ -2181,49 +2124,45 @@ msgctxt "LaunchController|"
 msgid "Client identification changed"
 msgstr ""
 
-#: src/launcher/LaunchController.cpp:244 src/launcher/LaunchController.cpp:226
+#: src/launcher/LaunchController.cpp:244
 msgctxt "LaunchController|"
 msgid ""
 "The account no longer exists on the servers. It may have been migrated, in "
 "which case please add the new account you migrated this one to."
-msgstr ""
-"該帳號不再存在於伺服器上。它可能已被遷移，在這種情況下，請添加您遷移到的新帳"
-"號。"
+msgstr "該帳號不再存在於伺服器上。它可能已被遷移，在這種情況下，請添加您遷移到的新帳號。"
 
-#: src/launcher/LaunchController.cpp:247 src/launcher/LaunchController.cpp:229
+#: src/launcher/LaunchController.cpp:247
 msgctxt "LaunchController|"
 msgid "Account gone"
 msgstr "帳號遺失"
 
-#: src/launcher/LaunchController.cpp:257 src/launcher/LaunchController.cpp:239
+#: src/launcher/LaunchController.cpp:257
 msgctxt "LaunchController|"
 msgid "Failed to launch."
 msgstr "啟動失敗。"
 
 #: src/launcher/LaunchController.cpp:267 src/launcher/LaunchController.cpp:339
-#: src/launcher/LaunchController.cpp:249 src/launcher/LaunchController.cpp:321
 msgctxt "LaunchController|"
 msgid "Error!"
 msgstr "錯誤！"
 
 #: src/launcher/LaunchController.cpp:267 src/launcher/LaunchController.cpp:268
-#: src/launcher/LaunchController.cpp:249 src/launcher/LaunchController.cpp:250
 msgctxt "LaunchController|"
 msgid "Couldn't load the instance profile."
 msgstr "無法載入實例設定檔。"
 
-#: src/launcher/LaunchController.cpp:275 src/launcher/LaunchController.cpp:257
+#: src/launcher/LaunchController.cpp:275
 msgctxt "LaunchController|"
 msgid "Couldn't instantiate a launcher."
 msgstr "啟動器無法實例化。"
 
-#: src/launcher/LaunchController.cpp:339 src/launcher/LaunchController.cpp:321
+#: src/launcher/LaunchController.cpp:339
 #, qt-format
 msgctxt "LaunchController|"
 msgid "Couldn't start profiler: %1"
 msgstr "無法啟動分析器：%1"
 
-#: src/launcher/LaunchController.cpp:348 src/launcher/LaunchController.cpp:330
+#: src/launcher/LaunchController.cpp:348
 #, qt-format
 msgctxt "LaunchController|"
 msgid ""
@@ -2236,38 +2175,38 @@ msgstr ""
 "\n"
 "%1"
 
-#: src/launcher/LaunchController.cpp:351 src/launcher/LaunchController.cpp:333
+#: src/launcher/LaunchController.cpp:351
 msgctxt "LaunchController|"
 msgid "Waiting."
 msgstr "請稍候。"
 
-#: src/launcher/LaunchController.cpp:353 src/launcher/LaunchController.cpp:335
+#: src/launcher/LaunchController.cpp:353
 msgctxt "LaunchController|"
 msgid "Launch"
 msgstr "啟動"
 
-#: src/launcher/LaunchController.cpp:361 src/launcher/LaunchController.cpp:343
+#: src/launcher/LaunchController.cpp:361
 #, qt-format
 msgctxt "LaunchController|"
 msgid "Couldn't start the profiler: %1"
 msgstr "無法啟動分析器：%1"
 
-#: src/launcher/LaunchController.cpp:362 src/launcher/LaunchController.cpp:344
+#: src/launcher/LaunchController.cpp:362
 msgctxt "LaunchController|"
 msgid "Error"
 msgstr "錯誤"
 
-#: src/launcher/LaunchController.cpp:390 src/launcher/LaunchController.cpp:372
+#: src/launcher/LaunchController.cpp:390
 msgctxt "LaunchController|"
 msgid "Abort"
 msgstr "中止"
 
-#: src/launcher/LaunchController.cpp:406 src/launcher/LaunchController.cpp:388
+#: src/launcher/LaunchController.cpp:406
 msgctxt "LaunchController|"
 msgid "Kill Minecraft?"
 msgstr "強制關閉 Minecraft？"
 
-#: src/launcher/LaunchController.cpp:407 src/launcher/LaunchController.cpp:389
+#: src/launcher/LaunchController.cpp:407
 msgctxt "LaunchController|"
 msgid ""
 "This can cause the instance to get corrupted and should only be used if "
@@ -2284,8 +2223,7 @@ msgid ""
 "likely wasting harddrive space at an alarming rate!"
 msgstr ""
 "PolyMC 已停止監控遊戲紀錄檔，因為紀錄檔長度超過了%1行。\n"
-"您可能需要修復您的模組，因為遊戲仍會持續記錄到檔案中且可能會以驚人的速度浪費"
-"硬碟空間！"
+"您可能需要修復您的模組，因為遊戲仍會持續記錄到檔案中且可能會以驚人的速度浪費硬碟空間！"
 
 #: src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp:16
 msgctxt "LauncherLoginStep|"
@@ -2359,55 +2297,46 @@ msgid "User Interface"
 msgstr "使用者介面"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:193
-#: src/launcher/ui/pages/global/LauncherPage.ui:212
 msgctxt "LauncherPage|"
 msgid "Instance view sorting mode"
 msgstr "實例檢視排序模式"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:199
-#: src/launcher/ui/pages/global/LauncherPage.ui:218
 msgctxt "LauncherPage|"
 msgid "By &last launched"
 msgstr "依上次啟動時間（&L）"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:209
-#: src/launcher/ui/pages/global/LauncherPage.ui:228
 msgctxt "LauncherPage|"
 msgid "By &name"
 msgstr "依名稱（&N）"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:222
-#: src/launcher/ui/pages/global/LauncherPage.ui:241
 msgctxt "LauncherPage|"
 msgid "Theme"
 msgstr "主題"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:228
-#: src/launcher/ui/pages/global/LauncherPage.ui:247
 msgctxt "LauncherPage|"
 msgid "&Icons"
 msgstr "圖示（&I）"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:258
-#: src/launcher/ui/pages/global/LauncherPage.ui:267
 msgctxt "LauncherPage|"
 msgid "Simple (Dark Icons)"
 msgstr "精簡（深色圖示）"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:253
-#: src/launcher/ui/pages/global/LauncherPage.ui:272
 msgctxt "LauncherPage|"
 msgid "Simple (Light Icons)"
 msgstr "精簡（淺色圖示）"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:263
-#: src/launcher/ui/pages/global/LauncherPage.ui:277
 msgctxt "LauncherPage|"
 msgid "Simple (Blue Icons)"
 msgstr "精簡（藍色圖示）"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:248
-#: src/launcher/ui/pages/global/LauncherPage.ui:282
 msgctxt "LauncherPage|"
 msgid "Simple (Colored Icons)"
 msgstr "精簡（彩色圖示）"
@@ -2424,25 +2353,21 @@ msgid "Legacy"
 msgstr "舊版"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:288
-#: src/launcher/ui/pages/global/LauncherPage.ui:302
 msgctxt "LauncherPage|"
 msgid "Custom"
 msgstr "自訂"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:309
-#: src/launcher/ui/pages/global/LauncherPage.ui:328
 msgctxt "LauncherPage|"
 msgid "Colors"
 msgstr "顏色"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:336
-#: src/launcher/ui/pages/global/LauncherPage.ui:355
 msgctxt "LauncherPage|"
 msgid "Console"
 msgstr "控制台"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:342
-#: src/launcher/ui/pages/global/LauncherPage.ui:361
 msgctxt "LauncherPage|"
 msgid "Console Settings"
 msgstr "控制台設定"
@@ -2458,31 +2383,26 @@ msgid "Automatically close console when the game quits?"
 msgstr "離開遊戲時自動關閉控制台"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:362
-#: src/launcher/ui/pages/global/LauncherPage.ui:381
 msgctxt "LauncherPage|"
 msgid "Show console when the game crashes?"
 msgstr "遊戲崩潰時顯示控制台?"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:372
-#: src/launcher/ui/pages/global/LauncherPage.ui:391
 msgctxt "LauncherPage|"
 msgid "History limit"
 msgstr "歷史紀錄限制"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:378
-#: src/launcher/ui/pages/global/LauncherPage.ui:397
 msgctxt "LauncherPage|"
 msgid "Stop logging when log overflows"
 msgstr "當記錄過多時停止紀錄"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:391
-#: src/launcher/ui/pages/global/LauncherPage.ui:410
 msgctxt "LauncherPage|"
 msgid " lines"
 msgstr " 行"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:419
-#: src/launcher/ui/pages/global/LauncherPage.ui:438
 msgctxt "LauncherPage|"
 msgid "Console font"
 msgstr "控制台字型"
@@ -2498,9 +2418,7 @@ msgid ""
 "You're trying to specify an instance folder which's path contains at least "
 "one '!'. Java is known to cause problems if that is the case, your instances "
 "(probably) won't start!"
-msgstr ""
-"指定的實例路徑中包含了至少一個 '!' 字元。已知 Java 會在這種情況下發生問題，實"
-"例（可能）無法啟動！"
+msgstr "指定的實例路徑中包含了至少一個 '!' 字元。已知 Java 會在這種情況下發生問題，實例（可能）無法啟動！"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:115
 msgctxt "LauncherPage|"
@@ -2525,19 +2443,24 @@ msgid "[Something/ERROR] A spooky error!"
 msgstr "[Something/錯誤] 錯誤！"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:431
-#: src/launcher/ui/pages/global/LauncherPage.cpp:436
 msgctxt "LauncherPage|"
 msgid "[Test/INFO] A harmless message..."
 msgstr "[測試/資訊] 無害的訊息…"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:440
-#: src/launcher/ui/pages/global/LauncherPage.cpp:445
 msgctxt "LauncherPage|"
 msgid "[Something/WARN] A not so spooky warning."
 msgstr "[something/警告] 不嚴重的警告。"
 
+#~ msgctxt "LauncherPage|"
+#~ msgid "Launcher notifications"
+#~ msgstr "啟動器通知"
+
+#~ msgctxt "LauncherPage|"
+#~ msgid "Reset hidden notifications"
+#~ msgstr "重設已隱藏的通知"
+
 #: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:135
-#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:122
 #, qt-format
 msgctxt "LauncherPartLaunch|"
 msgid "The wrapper command \"%1\" couldn't be found."
@@ -2545,15 +2468,12 @@ msgstr "無法找到包裝指令 \"%1\"。"
 
 #. Error message displayed if instace can't start
 #: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:157
-#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:144
 msgctxt "LauncherPartLaunch|"
 msgid "Could not launch minecraft!"
 msgstr "無法啟動 Minecraft！"
 
 #: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:166
 #: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:178
-#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:153
-#: src/launcher/minecraft/launch/LauncherPartLaunch.cpp:163
 msgctxt "LauncherPartLaunch|"
 msgid "Game crashed."
 msgstr "遊戲崩潰了。"
@@ -2633,7 +2553,6 @@ msgid "Failed to move unzipped minecraft!"
 msgstr "移動解壓縮的 Minecraft 失敗！"
 
 #: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:184
-#: src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp:186
 msgctxt "LegacyFTB::PackInstallTask|"
 msgid "No installation method found!"
 msgstr "找不到安裝方式！"
@@ -2708,6 +2627,74 @@ msgstr "移除模組包"
 msgctxt "LegacyFTB::Page|"
 msgid "Are you sure you want to remove pack %1?"
 msgstr "您確定要移除 %1 模組包嗎？"
+
+#~ msgctxt "LegacyInstance|"
+#~ msgid "Legacy"
+#~ msgstr "舊版"
+
+#~ msgctxt "LegacyInstance|"
+#~ msgid "Instance from previous versions."
+#~ msgstr "建立之前版本的實例"
+
+#, fuzzy
+#~ msgctxt "LegacyUpgradePage|"
+#~ msgid ""
+#~ "<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old "
+#~ "Minecraft versions and all the required features in the new (OneSix) "
+#~ "instance format. As a consequence, the old (Legacy) format has been "
+#~ "entirely disabled and old instances need to be upgraded.</p><p>The "
+#~ "upgrade will create a new instance with the same contents as the current "
+#~ "one, in the new format. The original instance will remain untouched, in "
+#~ "case anything goes wrong in the process.</p><p>Please report any issues "
+#~ "on our <a href=\"https://github.com/PolyMC/PolyMC/issues\">github issues "
+#~ "page</a>.</p><p>There is also a <a "
+#~ "href=\"https://discord.gg/GtPmv93\">discord channel for testing "
+#~ "here</a>.</p></body></html>"
+#~ msgstr ""
+#~ "<html><body><h1>需要升級</h1><p>PolyMC 在新的 OneSix 實例格式中開始支援舊的 Minecraft "
+#~ "版本。因此，PolyMC "
+#~ "將完全停用舊版格式，而舊的實例需要升級。</p><p>本次升級將會建立一個新格式的實例，且複製目前版本的內容。原本的實例將不會被更動，以防萬一。</p><p>若遇到問題請在我們的<a "
+#~ "href=\"https://github.com/PolyMC/PolyMC/issues\">github issues "
+#~ "頁面</a>回報。</p><p>此外，我們有一個<a href=\"https://discord.gg/GtPmv93\">Discord "
+#~ "頻道</a></p></body></html>"
+
+#~ msgctxt "LegacyUpgradePage|"
+#~ msgid "Upgrade the instance"
+#~ msgstr "升級實例"
+
+#~ msgctxt "LegacyUpgradePage|"
+#~ msgid "Error"
+#~ msgstr "錯誤"
+
+#~ msgctxt "LegacyUpgradePage|"
+#~ msgid "Abort"
+#~ msgstr "退出"
+
+#, qt-format
+#~ msgctxt "LegacyUpgradePage|"
+#~ msgid "%1 (Migrated)"
+#~ msgstr "%1（已遷移）"
+
+#~ msgctxt "LegacyUpgradePage|"
+#~ msgid "Upgrade"
+#~ msgstr "升級"
+
+#, qt-format
+#~ msgctxt "LegacyUpgradeTask|"
+#~ msgid "Copying instance %1"
+#~ msgstr "正在複製實例 %1"
+
+#~ msgctxt "LegacyUpgradeTask|"
+#~ msgid "Instance folder copy failed."
+#~ msgstr "實例資料夾複製失敗。"
+
+#~ msgctxt "LegacyUpgradeTask|"
+#~ msgid "Could not decide Minecraft version."
+#~ msgstr "無法決定 Minecraft 版本。"
+
+#~ msgctxt "LegacyUpgradeTask|"
+#~ msgid "Instance folder copy has been aborted."
+#~ msgstr "實例資料夾的複製已被中斷。"
 
 #: src/launcher/minecraft/update/LibrariesTask.cpp:15
 msgctxt "LibrariesTask|"
@@ -2884,7 +2871,6 @@ msgid ""
 msgstr "<p>請在瀏覽器中打開 %1 並輸入代碼 <b>%2</b> 以繼續登錄。</p>"
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:32
-#: src/launcher/minecraft/auth/steps/MSAStep.cpp:31
 msgctxt "MSAStep|"
 msgid "Logging in with Microsoft account."
 msgstr "使用 Microsoft 帳號登入。"
@@ -2896,118 +2882,111 @@ msgid ""
 msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:93
-#: src/launcher/minecraft/auth/steps/MSAStep.cpp:87
 msgctxt "MSAStep|"
 msgid "Got "
 msgstr "已獲得 "
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:99
-#: src/launcher/minecraft/auth/steps/MSAStep.cpp:93
 msgctxt "MSAStep|"
 msgid "Microsoft user authentication ended with a network error."
 msgstr "Microsoft 使用者驗證程序因網路問題而終止。"
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:104
-#: src/launcher/minecraft/auth/steps/MSAStep.cpp:98
 msgctxt "MSAStep|"
 msgid "Microsoft user authentication failed - user no longer exists."
 msgstr "Microsoft 使用者身份驗證失敗－使用者不存在。"
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:109
-#: src/launcher/minecraft/auth/steps/MSAStep.cpp:103
 msgctxt "MSAStep|"
 msgid "Microsoft user authentication failed."
 msgstr "Microsoft 使用者驗證失敗。"
 
 #: src/launcher/minecraft/auth/steps/MSAStep.cpp:114
-#: src/launcher/minecraft/auth/steps/MSAStep.cpp:108
 msgctxt "MSAStep|"
 msgid "Microsoft user authentication completed with an unrecognized result."
 msgstr "Microsoft 使用者身份驗證已完成，但結果無法識別。"
 
-#: src/launcher/ui/MainWindow.cpp:256 src/launcher/ui/MainWindow.cpp:254
+#: src/launcher/ui/MainWindow.cpp:256
 msgctxt "MainWindow|"
 msgid "Kill"
 msgstr "強制終止"
 
-#: src/launcher/ui/MainWindow.cpp:257 src/launcher/ui/MainWindow.cpp:255
+#: src/launcher/ui/MainWindow.cpp:257
 msgctxt "MainWindow|"
 msgid "Kill the running instance"
 msgstr "強制終止啟動中的實例"
 
 #: src/launcher/ui/MainWindow.cpp:261 src/launcher/ui/MainWindow.cpp:990
-#: src/launcher/ui/MainWindow.cpp:259 src/launcher/ui/MainWindow.cpp:944
 msgctxt "MainWindow|"
 msgid "Launch"
 msgstr "啟動"
 
-#: src/launcher/ui/MainWindow.cpp:262 src/launcher/ui/MainWindow.cpp:260
+#: src/launcher/ui/MainWindow.cpp:262
 msgctxt "MainWindow|"
 msgid "Launch the selected instance."
 msgstr "啟動選擇的實例。"
 
-#: src/launcher/ui/MainWindow.cpp:280 src/launcher/ui/MainWindow.cpp:278
+#: src/launcher/ui/MainWindow.cpp:280
 msgctxt "MainWindow|"
 msgid "Main Toolbar"
 msgstr "主工具列"
 
-#: src/launcher/ui/MainWindow.cpp:285 src/launcher/ui/MainWindow.cpp:283
+#: src/launcher/ui/MainWindow.cpp:285
 msgctxt "MainWindow|"
 msgid "Add Instance"
 msgstr "新增實例"
 
-#: src/launcher/ui/MainWindow.cpp:286 src/launcher/ui/MainWindow.cpp:284
+#: src/launcher/ui/MainWindow.cpp:286
 msgctxt "MainWindow|"
 msgid "Add a new instance."
 msgstr "新增新的實例。"
 
-#: src/launcher/ui/MainWindow.cpp:298 src/launcher/ui/MainWindow.cpp:296
+#: src/launcher/ui/MainWindow.cpp:298
 msgctxt "MainWindow|"
 msgid "View Instance Folder"
 msgstr "檢視實例資料夾"
 
-#: src/launcher/ui/MainWindow.cpp:299 src/launcher/ui/MainWindow.cpp:297
+#: src/launcher/ui/MainWindow.cpp:299
 msgctxt "MainWindow|"
 msgid "Open the instance folder in a file browser."
 msgstr "在檔案總管裡開啟實例資料夾。"
 
-#: src/launcher/ui/MainWindow.cpp:306 src/launcher/ui/MainWindow.cpp:304
+#: src/launcher/ui/MainWindow.cpp:306
 msgctxt "MainWindow|"
 msgid "View Central Mods Folder"
 msgstr "檢視共用模組資料夾"
 
-#: src/launcher/ui/MainWindow.cpp:307 src/launcher/ui/MainWindow.cpp:305
+#: src/launcher/ui/MainWindow.cpp:307
 msgctxt "MainWindow|"
 msgid "Open the central mods folder in a file browser."
 msgstr "在檔案總管開啟共用模組資料夾。"
 
 #: src/launcher/ui/MainWindow.cpp:312 src/launcher/ui/MainWindow.cpp:678
-#: src/launcher/ui/MainWindow.cpp:310 src/launcher/ui/MainWindow.cpp:642
 msgctxt "MainWindow|"
 msgid "Folders"
 msgstr "資料夾"
 
-#: src/launcher/ui/MainWindow.cpp:313 src/launcher/ui/MainWindow.cpp:311
+#: src/launcher/ui/MainWindow.cpp:313
 msgctxt "MainWindow|"
 msgid "Open one of the folders shared between instances."
 msgstr "開啟其中一個實例間共用的資料夾。"
 
-#: src/launcher/ui/MainWindow.cpp:328 src/launcher/ui/MainWindow.cpp:326
+#: src/launcher/ui/MainWindow.cpp:328
 msgctxt "MainWindow|"
 msgid "Settings"
 msgstr "設定"
 
-#: src/launcher/ui/MainWindow.cpp:329 src/launcher/ui/MainWindow.cpp:327
+#: src/launcher/ui/MainWindow.cpp:329
 msgctxt "MainWindow|"
 msgid "Change settings."
 msgstr "變更設定。"
 
-#: src/launcher/ui/MainWindow.cpp:340 src/launcher/ui/MainWindow.cpp:338
+#: src/launcher/ui/MainWindow.cpp:340
 msgctxt "MainWindow|"
 msgid "Report a Bug"
 msgstr "Bug 回報"
 
-#: src/launcher/ui/MainWindow.cpp:341 src/launcher/ui/MainWindow.cpp:339
+#: src/launcher/ui/MainWindow.cpp:341
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Open the bug tracker to report a bug with %1."
@@ -3024,68 +3003,67 @@ msgctxt "MainWindow|"
 msgid "Open %1 Matrix space"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:360 src/launcher/ui/MainWindow.cpp:348
+#: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
 msgstr "Discord"
 
-#: src/launcher/ui/MainWindow.cpp:370 src/launcher/ui/MainWindow.cpp:358
+#: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
 msgstr "Reddit"
 
-#: src/launcher/ui/MainWindow.cpp:371 src/launcher/ui/MainWindow.cpp:359
+#: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Open %1 subreddit."
 msgstr "打開 %1 Subreddit。"
 
-#: src/launcher/ui/MainWindow.cpp:380 src/launcher/ui/MainWindow.cpp:368
+#: src/launcher/ui/MainWindow.cpp:380
 #, qt-format
 msgctxt "MainWindow|"
 msgid "About %1"
 msgstr "關於 %1"
 
-#: src/launcher/ui/MainWindow.cpp:381 src/launcher/ui/MainWindow.cpp:369
+#: src/launcher/ui/MainWindow.cpp:381
 #, qt-format
 msgctxt "MainWindow|"
 msgid "View information about %1."
 msgstr "顯示 %1 的相關資訊."
 
 #: src/launcher/ui/MainWindow.cpp:386 src/launcher/ui/MainWindow.cpp:679
-#: src/launcher/ui/MainWindow.cpp:374 src/launcher/ui/MainWindow.cpp:643
 msgctxt "MainWindow|"
 msgid "Help"
 msgstr "幫助"
 
-#: src/launcher/ui/MainWindow.cpp:387 src/launcher/ui/MainWindow.cpp:375
+#: src/launcher/ui/MainWindow.cpp:387
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Get help with %1 or Minecraft."
 msgstr "取得關於 %1 或 Minecraft 的幫助。"
 
-#: src/launcher/ui/MainWindow.cpp:403 src/launcher/ui/MainWindow.cpp:391
+#: src/launcher/ui/MainWindow.cpp:403
 msgctxt "MainWindow|"
 msgid "Update"
 msgstr "更新"
 
-#: src/launcher/ui/MainWindow.cpp:404 src/launcher/ui/MainWindow.cpp:392
+#: src/launcher/ui/MainWindow.cpp:404
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Check for new updates for %1."
 msgstr "檢查 %1 是否有更新。"
 
-#: src/launcher/ui/MainWindow.cpp:415 src/launcher/ui/MainWindow.cpp:403
+#: src/launcher/ui/MainWindow.cpp:415
 msgctxt "MainWindow|"
 msgid "Meow"
 msgstr "喵"
 
-#: src/launcher/ui/MainWindow.cpp:416 src/launcher/ui/MainWindow.cpp:404
+#: src/launcher/ui/MainWindow.cpp:416
 msgctxt "MainWindow|"
 msgid "It's a fluffy kitty :3"
 msgstr "牠是一隻毛茸茸的小貓 :3"
 
-#: src/launcher/ui/MainWindow.cpp:424 src/launcher/ui/MainWindow.cpp:412
+#: src/launcher/ui/MainWindow.cpp:424
 msgctxt "MainWindow|"
 msgid "Manage Accounts"
 msgstr "管理帳號"
@@ -3106,133 +3084,132 @@ msgctxt "MainWindow|"
 msgid "Open the development blog to read more news about %1."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:473 src/launcher/ui/MainWindow.cpp:438
+#: src/launcher/ui/MainWindow.cpp:473
 msgctxt "MainWindow|"
 msgid "Instance Toolbar"
 msgstr "實例工具列"
 
-#: src/launcher/ui/MainWindow.cpp:480 src/launcher/ui/MainWindow.cpp:445
+#: src/launcher/ui/MainWindow.cpp:480
 msgctxt "MainWindow|"
 msgid "Change Icon"
 msgstr "變更圖示"
 
-#: src/launcher/ui/MainWindow.cpp:481 src/launcher/ui/MainWindow.cpp:446
+#: src/launcher/ui/MainWindow.cpp:481
 msgctxt "MainWindow|"
 msgid "Change the selected instance's icon."
 msgstr "變更所選實例的圖示。"
 
-#: src/launcher/ui/MainWindow.cpp:494 src/launcher/ui/MainWindow.cpp:459
+#: src/launcher/ui/MainWindow.cpp:494
 msgctxt "MainWindow|"
 msgid "Rename"
 msgstr "重新命名"
 
-#: src/launcher/ui/MainWindow.cpp:495 src/launcher/ui/MainWindow.cpp:460
+#: src/launcher/ui/MainWindow.cpp:495
 msgctxt "MainWindow|"
 msgid "Rename the selected instance."
 msgstr "重新命名所選的實例。"
 
 #: src/launcher/ui/MainWindow.cpp:514 src/launcher/ui/MainWindow.cpp:991
-#: src/launcher/ui/MainWindow.cpp:479 src/launcher/ui/MainWindow.cpp:945
 msgctxt "MainWindow|"
 msgid "Launch Offline"
 msgstr "離線啟動"
 
-#: src/launcher/ui/MainWindow.cpp:515 src/launcher/ui/MainWindow.cpp:480
+#: src/launcher/ui/MainWindow.cpp:515
 msgctxt "MainWindow|"
 msgid "Launch the selected instance in offline mode."
 msgstr "在離線模式下啟動所選的實例。"
 
-#: src/launcher/ui/MainWindow.cpp:523 src/launcher/ui/MainWindow.cpp:488
+#: src/launcher/ui/MainWindow.cpp:523
 msgctxt "MainWindow|"
 msgid "Edit Instance"
 msgstr "編輯實例"
 
-#: src/launcher/ui/MainWindow.cpp:524 src/launcher/ui/MainWindow.cpp:489
+#: src/launcher/ui/MainWindow.cpp:524
 msgctxt "MainWindow|"
 msgid "Change the instance settings, mods and versions."
 msgstr "變更實例的設定、模組與版本。"
 
-#: src/launcher/ui/MainWindow.cpp:530 src/launcher/ui/MainWindow.cpp:495
+#: src/launcher/ui/MainWindow.cpp:530
 msgctxt "MainWindow|"
 msgid "Edit Notes"
 msgstr "編輯筆記"
 
-#: src/launcher/ui/MainWindow.cpp:531 src/launcher/ui/MainWindow.cpp:496
+#: src/launcher/ui/MainWindow.cpp:531
 msgctxt "MainWindow|"
 msgid "Edit the notes for the selected instance."
 msgstr "編輯所選實例的筆記。"
 
-#: src/launcher/ui/MainWindow.cpp:537 src/launcher/ui/MainWindow.cpp:502
+#: src/launcher/ui/MainWindow.cpp:537
 msgctxt "MainWindow|"
 msgid "View Mods"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:538 src/launcher/ui/MainWindow.cpp:503
+#: src/launcher/ui/MainWindow.cpp:538
 msgctxt "MainWindow|"
 msgid "View the mods of this instance."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:544 src/launcher/ui/MainWindow.cpp:509
+#: src/launcher/ui/MainWindow.cpp:544
 msgctxt "MainWindow|"
 msgid "View Worlds"
 msgstr "檢視世界"
 
-#: src/launcher/ui/MainWindow.cpp:545 src/launcher/ui/MainWindow.cpp:510
+#: src/launcher/ui/MainWindow.cpp:545
 msgctxt "MainWindow|"
 msgid "View the worlds of this instance."
 msgstr "檢視在這個實例的世界。"
 
-#: src/launcher/ui/MainWindow.cpp:551 src/launcher/ui/MainWindow.cpp:516
+#: src/launcher/ui/MainWindow.cpp:551
 msgctxt "MainWindow|"
 msgid "Manage Screenshots"
 msgstr "管理螢幕擷圖"
 
-#: src/launcher/ui/MainWindow.cpp:552 src/launcher/ui/MainWindow.cpp:517
+#: src/launcher/ui/MainWindow.cpp:552
 msgctxt "MainWindow|"
 msgid "View and upload screenshots for this instance."
 msgstr "檢視和上傳實例的螢幕擷圖。"
 
-#: src/launcher/ui/MainWindow.cpp:558 src/launcher/ui/MainWindow.cpp:523
+#: src/launcher/ui/MainWindow.cpp:558
 msgctxt "MainWindow|"
 msgid "Change Group"
 msgstr "變更群組"
 
-#: src/launcher/ui/MainWindow.cpp:559 src/launcher/ui/MainWindow.cpp:524
+#: src/launcher/ui/MainWindow.cpp:559
 msgctxt "MainWindow|"
 msgid "Change the selected instance's group."
 msgstr "變更所選實例的群組。"
 
-#: src/launcher/ui/MainWindow.cpp:567 src/launcher/ui/MainWindow.cpp:532
+#: src/launcher/ui/MainWindow.cpp:567
 msgctxt "MainWindow|"
 msgid "Minecraft Folder"
 msgstr "Minecraft 資料夾"
 
-#: src/launcher/ui/MainWindow.cpp:568 src/launcher/ui/MainWindow.cpp:533
+#: src/launcher/ui/MainWindow.cpp:568
 msgctxt "MainWindow|"
 msgid "Open the selected instance's minecraft folder in a file browser."
 msgstr "在檔案總管開啟實例的 minecraft 資料夾。"
 
-#: src/launcher/ui/MainWindow.cpp:583 src/launcher/ui/MainWindow.cpp:548
+#: src/launcher/ui/MainWindow.cpp:583
 msgctxt "MainWindow|"
 msgid "Config Folder"
 msgstr "組態資料夾"
 
-#: src/launcher/ui/MainWindow.cpp:584 src/launcher/ui/MainWindow.cpp:549
+#: src/launcher/ui/MainWindow.cpp:584
 msgctxt "MainWindow|"
 msgid "Open the instance's config folder."
 msgstr "開啟實例的組態資料夾。"
 
-#: src/launcher/ui/MainWindow.cpp:590 src/launcher/ui/MainWindow.cpp:555
+#: src/launcher/ui/MainWindow.cpp:590
 msgctxt "MainWindow|"
 msgid "Instance Folder"
 msgstr "實例資料夾"
 
-#: src/launcher/ui/MainWindow.cpp:591 src/launcher/ui/MainWindow.cpp:556
+#: src/launcher/ui/MainWindow.cpp:591
 msgctxt "MainWindow|"
 msgid "Open the selected instance's root folder in a file browser."
 msgstr "在檔案總管開啟實例的根資料夾。"
 
-#: src/launcher/ui/MainWindow.cpp:599 src/launcher/ui/MainWindow.cpp:564
+#: src/launcher/ui/MainWindow.cpp:599
 msgctxt "MainWindow|"
 msgid "Export Instance"
 msgstr "匯出實例"
@@ -3242,82 +3219,80 @@ msgctxt "MainWindow|"
 msgid "Export the selected instance as a zip file."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:606 src/launcher/ui/MainWindow.cpp:571
+#: src/launcher/ui/MainWindow.cpp:606
 msgctxt "MainWindow|"
 msgid "Delete"
 msgstr "刪除"
 
-#: src/launcher/ui/MainWindow.cpp:607 src/launcher/ui/MainWindow.cpp:572
+#: src/launcher/ui/MainWindow.cpp:607
 msgctxt "MainWindow|"
 msgid "Delete the selected instance."
 msgstr "刪除所選的實例。"
 
-#: src/launcher/ui/MainWindow.cpp:614 src/launcher/ui/MainWindow.cpp:579
+#: src/launcher/ui/MainWindow.cpp:614
 msgctxt "MainWindow|"
 msgid "Copy Instance"
 msgstr "複製實例"
 
-#: src/launcher/ui/MainWindow.cpp:615 src/launcher/ui/MainWindow.cpp:580
+#: src/launcher/ui/MainWindow.cpp:615
 msgctxt "MainWindow|"
 msgid "Copy the selected instance."
 msgstr "複製所選的實例。"
 
-#: src/launcher/ui/MainWindow.cpp:658 src/launcher/ui/MainWindow.cpp:622
+#: src/launcher/ui/MainWindow.cpp:658
 #, qt-format
 msgctxt "MainWindow|Launcher - Version X"
 msgid "%1 - Version %2"
 msgstr "%1 %2 版"
 
-#: src/launcher/ui/MainWindow.cpp:661 src/launcher/ui/MainWindow.cpp:625
+#: src/launcher/ui/MainWindow.cpp:661
 #, qt-format
 msgctxt "MainWindow|on platform, as in operating system"
 msgid " on %1"
 msgstr " 在 %1"
 
 #: src/launcher/ui/MainWindow.cpp:771 src/launcher/ui/MainWindow.cpp:870
-#: src/launcher/ui/MainWindow.cpp:721 src/launcher/ui/MainWindow.cpp:824
 msgctxt "MainWindow|"
 msgid "No instance selected"
 msgstr "沒有選擇實例"
 
-#: src/launcher/ui/MainWindow.cpp:772 src/launcher/ui/MainWindow.cpp:722
+#: src/launcher/ui/MainWindow.cpp:772
 msgctxt "MainWindow|"
 msgid "Total playtime: 0s"
 msgstr "總遊戲時間：0 秒"
 
 #: src/launcher/ui/MainWindow.cpp:864 src/launcher/ui/MainWindow.cpp:1154
-#: src/launcher/ui/MainWindow.cpp:818 src/launcher/ui/MainWindow.cpp:1108
 msgctxt "MainWindow|"
 msgid "Profiles"
 msgstr "設定檔"
 
-#: src/launcher/ui/MainWindow.cpp:923 src/launcher/ui/MainWindow.cpp:877
+#: src/launcher/ui/MainWindow.cpp:923
 msgctxt "MainWindow|"
 msgid "Create instance"
 msgstr "新增實例"
 
-#: src/launcher/ui/MainWindow.cpp:939 src/launcher/ui/MainWindow.cpp:893
+#: src/launcher/ui/MainWindow.cpp:939
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Delete group '%1'"
 msgstr "刪除 '%1' 群組"
 
-#: src/launcher/ui/MainWindow.cpp:1000 src/launcher/ui/MainWindow.cpp:954
+#: src/launcher/ui/MainWindow.cpp:1000
 msgctxt "MainWindow|"
 msgid "Profilers"
 msgstr "分析器"
 
-#: src/launcher/ui/MainWindow.cpp:1012 src/launcher/ui/MainWindow.cpp:966
+#: src/launcher/ui/MainWindow.cpp:1012
 msgctxt "MainWindow|"
 msgid "Profiler not setup correctly. Go into settings, \"External Tools\"."
 msgstr "分析器未正確設定。請開啟設定 > 外部工具。"
 
-#: src/launcher/ui/MainWindow.cpp:1052 src/launcher/ui/MainWindow.cpp:1006
+#: src/launcher/ui/MainWindow.cpp:1052
 msgctxt "MainWindow|"
 msgid "No accounts added!"
 msgstr "未新增任何帳號！"
 
-#: src/launcher/ui/MainWindow.cpp:1085 src/launcher/ui/MainWindow.cpp:1039
+#: src/launcher/ui/MainWindow.cpp:1085
 msgctxt "MainWindow|"
 msgid "No Default Account"
 msgstr "無預設帳號"
@@ -3332,18 +3307,17 @@ msgctxt "MainWindow|"
 msgid "No news available."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1354 src/launcher/ui/MainWindow.cpp:1303
+#: src/launcher/ui/MainWindow.cpp:1354
 msgctxt "MainWindow|"
 msgid "Warnings"
 msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1358 src/launcher/ui/MainWindow.cpp:1400
-#: src/launcher/ui/MainWindow.cpp:1307 src/launcher/ui/MainWindow.cpp:1349
 msgctxt "MainWindow|"
 msgid "Abort"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1409 src/launcher/ui/MainWindow.cpp:1358
+#: src/launcher/ui/MainWindow.cpp:1409
 msgctxt "MainWindow|"
 msgid ""
 "The launcher cannot download Minecraft or update instances unless you have "
@@ -3351,33 +3325,33 @@ msgid ""
 "Please add your Mojang or Minecraft account."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1548 src/launcher/ui/MainWindow.cpp:1492
+#: src/launcher/ui/MainWindow.cpp:1548
 msgctxt "MainWindow|"
 msgid "Group name"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1548 src/launcher/ui/MainWindow.cpp:1492
+#: src/launcher/ui/MainWindow.cpp:1548
 msgctxt "MainWindow|"
 msgid "Enter a new group name."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1570 src/launcher/ui/MainWindow.cpp:1514
+#: src/launcher/ui/MainWindow.cpp:1570
 msgctxt "MainWindow|"
 msgid "Delete group"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1570 src/launcher/ui/MainWindow.cpp:1514
+#: src/launcher/ui/MainWindow.cpp:1570
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Are you sure you want to delete the group %1"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1706 src/launcher/ui/MainWindow.cpp:1632
+#: src/launcher/ui/MainWindow.cpp:1706
 msgctxt "MainWindow|"
 msgid "CAREFUL!"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1707 src/launcher/ui/MainWindow.cpp:1633
+#: src/launcher/ui/MainWindow.cpp:1707
 #, qt-format
 msgctxt "MainWindow|"
 msgid ""
@@ -3387,18 +3361,18 @@ msgid ""
 "Are you sure?"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1912 src/launcher/ui/MainWindow.cpp:1838
+#: src/launcher/ui/MainWindow.cpp:1912
 msgctxt "MainWindow|"
 msgid "Rename Instance"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1925 src/launcher/ui/MainWindow.cpp:1851
+#: src/launcher/ui/MainWindow.cpp:1925
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains '!' and this is known to cause Java problems!"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1927 src/launcher/ui/MainWindow.cpp:1853
+#: src/launcher/ui/MainWindow.cpp:1927
 #, qt-format
 msgctxt "MainWindow|"
 msgid ""
@@ -3406,7 +3380,7 @@ msgid ""
 "<br/> - move this installation of %1 to a different folder"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1936 src/launcher/ui/MainWindow.cpp:1862
+#: src/launcher/ui/MainWindow.cpp:1936
 msgctxt "MainWindow|"
 msgid ""
 "This is a problem: <br/> - The launcher will likely be deleted without "
@@ -3414,20 +3388,20 @@ msgid ""
 "it to a real location, not a temporary folder"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1943 src/launcher/ui/MainWindow.cpp:1869
+#: src/launcher/ui/MainWindow.cpp:1943
 msgctxt "MainWindow|"
 msgid ""
 "Your instance folder contains 'Rar$' - that means you haven't extracted the "
 "launcher archive!"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1951 src/launcher/ui/MainWindow.cpp:1877
+#: src/launcher/ui/MainWindow.cpp:1951
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Your instance folder is in a temporary folder: '%1'!"
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1964 src/launcher/ui/MainWindow.cpp:1890
+#: src/launcher/ui/MainWindow.cpp:1964
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Total playtime: %1"
@@ -3435,9 +3409,7 @@ msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1272 src/launcher/ui/MainWindow.cpp:1289
 #: src/launcher/ui/MainWindow.cpp:1347 src/launcher/ui/MainWindow.cpp:1396
-#: src/launcher/ui/MainWindow.cpp:1408 src/launcher/ui/MainWindow.cpp:1221
-#: src/launcher/ui/MainWindow.cpp:1238 src/launcher/ui/MainWindow.cpp:1296
-#: src/launcher/ui/MainWindow.cpp:1345 src/launcher/ui/MainWindow.cpp:1357
+#: src/launcher/ui/MainWindow.cpp:1408
 msgctxt "MainWindow|"
 msgid "Error"
 msgstr "錯誤"
@@ -3448,7 +3420,7 @@ msgctxt "MainWindow|"
 msgid "Open %1 Discord guild."
 msgstr ""
 
-#: src/launcher/ui/MainWindow.cpp:1272 src/launcher/ui/MainWindow.cpp:1221
+#: src/launcher/ui/MainWindow.cpp:1272
 #, qt-format
 msgctxt "MainWindow|"
 msgid ""
@@ -3457,6 +3429,11 @@ msgid ""
 msgstr ""
 "無法建立下載更新所需的資料夾：\n"
 "%1"
+
+#, qt-format
+#~ msgctxt "MainWindow|"
+#~ msgid "Open %1 discord voice chat."
+#~ msgstr "開啟 %1 Discord 語音群。"
 
 #: src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp:15
 msgctxt "MigrationEligibilityStep|"
@@ -3469,58 +3446,49 @@ msgid "Got migration flags"
 msgstr "已獲取遷移標誌"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:692
-#: src/launcher/minecraft/MinecraftInstance.cpp:703
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
 msgstr "<程序ID>"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:694
-#: src/launcher/minecraft/MinecraftInstance.cpp:705
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
 msgstr "<存取權杖>"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:696
-#: src/launcher/minecraft/MinecraftInstance.cpp:707
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
 msgstr "<用戶端權杖>"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:698
-#: src/launcher/minecraft/MinecraftInstance.cpp:709
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
 msgstr "<設定檔ID>"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:770
-#: src/launcher/minecraft/MinecraftInstance.cpp:781
 msgctxt "MinecraftInstance|"
 msgid "broken"
 msgstr "損壞"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:774
-#: src/launcher/minecraft/MinecraftInstance.cpp:785
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
 msgstr "Minecraft %1（%2）"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:778
-#: src/launcher/minecraft/MinecraftInstance.cpp:789
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid ", last played for %1"
 msgstr "，上次已遊玩 %1"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:782
-#: src/launcher/minecraft/MinecraftInstance.cpp:793
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid ", total played for %1"
 msgstr "，總共遊玩了 %1"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:787
-#: src/launcher/minecraft/MinecraftInstance.cpp:798
 msgctxt "MinecraftInstance|"
 msgid ", has crashed."
 msgstr "，程序已崩潰。"
@@ -3788,13 +3756,11 @@ msgid "Add mods via local file"
 msgstr ""
 
 #: src/launcher/ui/pages/instance/ModFolderPage.cpp:206
-#: src/launcher/ui/pages/instance/ModFolderPage.cpp:191
 msgctxt "ModFolderPage|"
 msgid "Context menu"
 msgstr "功能表"
 
 #: src/launcher/ui/pages/instance/ModFolderPage.cpp:319
-#: src/launcher/ui/pages/instance/ModFolderPage.cpp:304
 #, qt-format
 msgctxt ""
 "ModFolderPage|Select whatever type of files the page contains. Example: "
@@ -4040,6 +4006,18 @@ msgctxt "NotesPage|"
 msgid "Notes"
 msgstr "筆記"
 
+#~ msgctxt "NotificationDialog|"
+#~ msgid "Notification"
+#~ msgstr "通知"
+
+#~ msgctxt "NotificationDialog|"
+#~ msgid "Don't show again"
+#~ msgstr "不再顯示"
+
+#~ msgctxt "NotificationDialog|"
+#~ msgid "Close"
+#~ msgstr "關閉"
+
 #: src/launcher/NullInstance.h:20
 msgctxt "NullInstance|"
 msgid "Unknown instance type"
@@ -4199,16 +4177,19 @@ msgid "Other logs"
 msgstr "其他紀錄檔"
 
 #: src/launcher/minecraft/PackProfile.cpp:608
-#: src/launcher/minecraft/PackProfile.cpp:853
 msgctxt "PackProfile|"
 msgid "Name"
 msgstr "名稱"
 
 #: src/launcher/minecraft/PackProfile.cpp:610
-#: src/launcher/minecraft/PackProfile.cpp:855
 msgctxt "PackProfile|"
 msgid "Version"
 msgstr "版本"
+
+#, fuzzy
+#~ msgctxt "PastePage|"
+#~ msgid "Log Upload"
+#~ msgstr "上傳紀錄"
 
 #: src/launcher/net/PasteUpload.cpp:37
 #, qt-format
@@ -4494,12 +4475,11 @@ msgid "MultiMC Developers"
 msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:50
-#: src/launcher/ui/dialogs/AboutDialog.cpp:44
 msgctxt "QObject|About Credits"
 msgid "With thanks to"
 msgstr "感謝"
 
-#: src/launcher/ui/MainWindow.cpp:99 src/launcher/ui/MainWindow.cpp:100
+#: src/launcher/ui/MainWindow.cpp:99
 #, qt-format
 msgctxt "QObject|"
 msgid "%1 (in use)"
@@ -4580,9 +4560,7 @@ msgctxt "QObject|"
 msgid ""
 "The 'minimumLauncherVersion' value of this version (%1) is higher than "
 "supported by %3 (%2). It might not work properly!"
-msgstr ""
-"此版本的 'minimumLauncherVersion' 值（%1）比 %3 所支援的還要高（%2）。有可能"
-"無法正常運作！"
+msgstr "此版本的 'minimumLauncherVersion' 值（%1）比 %3 所支援的還要高（%2）。有可能無法正常運作！"
 
 #: src/launcher/minecraft/MojangVersionFormat.cpp:299
 #, qt-format
@@ -4667,7 +4645,6 @@ msgid "Unable to process the version file %1."
 msgstr "無法處理版本檔 %1。"
 
 #: src/launcher/minecraft/auth/AccountData.cpp:428
-#: src/launcher/minecraft/auth/AccountData.cpp:418
 #, qt-format
 msgctxt "QObject|"
 msgid "No profile (%1)"
@@ -4748,14 +4725,14 @@ msgstr "%1 天 %2 小時 %3 分"
 #: src/launcher/JavaCommon.cpp:10
 msgctxt "QObject|"
 msgid ""
-"You tried to manually set a JVM memory option (using \"-XX:PermSize\", \"-XX-"
-"MaxHeapSize\", \"-XX:InitialHeapSize\",  \"-Xmx\" or \"-Xms\").\n"
+"You tried to manually set a JVM memory option (using \"-XX:PermSize\", "
+"\"-XX-MaxHeapSize\", \"-XX:InitialHeapSize\",  \"-Xmx\" or \"-Xms\").\n"
 "There are dedicated boxes for these in the settings (Java tab, in the Memory "
 "group at the top).\n"
 "This message will be displayed until you remove them from the JVM arguments."
 msgstr ""
-"您嘗試手動指定 JVM 的記憶體選項（\"-XX:PermSize\", \"-XX-MaxHeapSize\", \"-"
-"XX:InitialHeapSize\",  \"-Xmx\" 或 \"-Xms\"）。\n"
+"您嘗試手動指定 JVM 的記憶體選項（\"-XX:PermSize\", \"-XX-MaxHeapSize\", "
+"\"-XX:InitialHeapSize\",  \"-Xmx\" 或 \"-Xms\"）。\n"
 "這些選項在設定中有專門的欄位（在 Java 頁中，上方的 Memory 群組）。\n"
 "此訊息會持續顯示，直到您將他們從 JVM 參數中移除。"
 
@@ -4770,9 +4747,7 @@ msgctxt "QObject|"
 msgid ""
 "Java test succeeded!<br />Platform reported: %1<br />Java version reported: "
 "%2<br />Java vendor reported: %3<br />"
-msgstr ""
-"Java 測試成功！<br />平台報告：%1<br />Java 版本報告：%2<br />Java 供應商報"
-"告：%3<br />"
+msgstr "Java 測試成功！<br />平台報告：%1<br />Java 版本報告：%2<br />Java 供應商報告：%3<br />"
 
 #: src/launcher/JavaCommon.cpp:33
 #, qt-format
@@ -4791,9 +4766,7 @@ msgctxt "QObject|"
 msgid ""
 "The specified java binary didn't work.<br />You should use the auto-detect "
 "feature, or set the path to the java executable.<br />"
-msgstr ""
-"指定的 Java 二進位檔無法使用。<br />應使用自動偵測功能，或者設定 Java 可執行"
-"檔的路徑。<br />"
+msgstr "指定的 Java 二進位檔無法使用。<br />應使用自動偵測功能，或者設定 Java 可執行檔的路徑。<br />"
 
 #: src/launcher/meta/BaseEntity.cpp:120
 #, qt-format
@@ -4884,25 +4857,21 @@ msgid "Actions"
 msgstr "動作"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:61
-#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:59
 msgctxt "ScreenshotsPage|"
 msgid "Upload"
 msgstr "上傳"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:66
-#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:64
 msgctxt "ScreenshotsPage|"
 msgid "Delete"
 msgstr "刪除"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:71
-#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:69
 msgctxt "ScreenshotsPage|"
 msgid "Rename"
 msgstr "重新命名"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:76
-#: src/launcher/ui/pages/instance/ScreenshotsPage.ui:74
 msgctxt "ScreenshotsPage|"
 msgid "View Folder"
 msgstr "檢視資料夾"
@@ -4925,37 +4894,29 @@ msgid "Screenshots"
 msgstr "螢幕擷圖"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:280
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:274
 msgctxt "ScreenshotsPage|"
 msgid "Context menu"
 msgstr "功能表"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:331
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:371
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:320
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:360
 msgctxt "ScreenshotsPage|"
 msgid "Failed to upload screenshots!"
 msgstr "螢幕擷圖上傳失敗！"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:332
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:372
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:321
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:361
 msgctxt "ScreenshotsPage|"
 msgid "Unknown error"
 msgstr "未知錯誤"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:341
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:330
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:372
 msgctxt "ScreenshotsPage|"
 msgid "Upload finished"
 msgstr "上傳完成"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:342
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:331
 #, qt-format
 msgctxt "ScreenshotsPage|"
 msgid ""
@@ -4964,7 +4925,6 @@ msgid ""
 msgstr "<a href=\"%1\">上傳的螢幕擷圖連結</a>已經在你的剪貼簿中。"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:384
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:373
 #, qt-format
 msgctxt "ScreenshotsPage|"
 msgid ""
@@ -4973,13 +4933,11 @@ msgid ""
 msgstr "<a href=\"%1\">上傳的相簿連結</a>已經在你的剪貼簿中。"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:430
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
 msgctxt "ScreenshotsPage|"
 msgid "Are you sure?"
 msgstr "確定？"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:430
-#: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:383
 msgctxt "ScreenshotsPage|"
 msgid "This will delete all selected screenshots."
 msgstr "這將會刪除全部的螢幕擷圖。"
@@ -5283,27 +5241,22 @@ msgid "Instance import has been aborted."
 msgstr "實例匯入已被中斷。"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:56
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:58
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to open \"bin/modpack.jar\" file!"
 msgstr "無法開啟「bin/modpack.jar」檔案！"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:68
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:70
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to open \"fmlversion.properties\"!"
 msgstr "無法開啟「fmlversion.properties」！"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:82
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:137
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:84
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:139
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to open \"version.json\"!"
 msgstr "無法開啟「version.json」！"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:91
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:93
 msgctxt "Technic::TechnicPackProcessor|"
 msgid ""
 "Could not find \"version.json\" inside \"bin/modpack.jar\", but minecraft "
@@ -5311,25 +5264,21 @@ msgid ""
 msgstr "在 \"bin/modpack.jar\" 中找不到 \"version.json\"，Minecraft 版本不明"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:105
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:107
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to open \"forgeversion.properties\""
 msgstr "無法開啟「forgeversion.properties」"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:120
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:122
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Invalid \"forgeversion.properties\"!"
 msgstr "此「forgeversion.properties」無效！"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:146
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:148
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Unable to find a \"version.json\"!"
 msgstr "找不到「version.json」！"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:159
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:161
 msgctxt "Technic::TechnicPackProcessor|"
 msgid ""
 "Could not understand \"version.json\":\n"
@@ -5339,7 +5288,6 @@ msgstr ""
 "inheritsFrom 參數缺失"
 
 #: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:200
-#: src/launcher/modplatform/technic/TechnicPackProcessor.cpp:202
 msgctxt "Technic::TechnicPackProcessor|"
 msgid "Could not understand \"version.json\":\n"
 msgstr "無法解析 \"version.json\"：\n"
@@ -5485,8 +5433,7 @@ msgid ""
 "<p align=\"center\" <span style=\"font-size:22pt;\">Failed to fetch "
 "changelog... Error: %1</span></p>"
 msgstr ""
-"<p align=\"center\" <span style=\"font-size:22pt;\">取得更新日誌失敗…錯誤："
-"%1</span></p>"
+"<p align=\"center\" <span style=\"font-size:22pt;\">取得更新日誌失敗…錯誤：%1</span></p>"
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:41
 msgctxt "VanillaPage|"
@@ -6341,17 +6288,16 @@ msgstr "驗證已取消。"
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:234
 msgctxt "Yggdrasil|"
 msgid ""
-"<b>SSL Handshake failed.</b><br/>There might be a few causes for it:<br/"
-"><ul><li>You use Windows and need to update your root certificates, please "
-"install any outstanding updates.</li><li>Some device on your network is "
-"interfering with SSL traffic. In that case, you have bigger worries than "
+"<b>SSL Handshake failed.</b><br/>There might be a few causes for "
+"it:<br/><ul><li>You use Windows and need to update your root certificates, "
+"please install any outstanding updates.</li><li>Some device on your network "
+"is interfering with SSL traffic. In that case, you have bigger worries than "
 "Minecraft not starting.</li><li>Possibly something else. Check the log file "
 "for details</li></ul>"
 msgstr ""
-"<b>SSL 交握失敗。</b><br/>這可能有幾種原因：<br/><ul><li>您使用 Windows 且需"
-"要更新您的根憑證，請安裝任何未完成的更新。</li><li>在您的網路中有一些裝置在干"
-"擾 SSL 流量。在此情況下，您有比無法啟動 Minecraft 還更大的擔憂。</li><li>可能"
-"是一些其他的原因。確認記錄檔以了解詳情</li></ul>"
+"<b>SSL 交握失敗。</b><br/>這可能有幾種原因：<br/><ul><li>您使用 Windows "
+"且需要更新您的根憑證，請安裝任何未完成的更新。</li><li>在您的網路中有一些裝置在干擾 SSL 流量。在此情況下，您有比無法啟動 "
+"Minecraft 還更大的擔憂。</li><li>可能是一些其他的原因。確認記錄檔以了解詳情</li></ul>"
 
 #: src/launcher/minecraft/auth/Yggdrasil.cpp:252
 msgctxt "Yggdrasil|"
@@ -6406,194 +6352,3 @@ msgstr "Mojang 使用者驗證失敗。"
 msgctxt "YggdrasilStep|"
 msgid "Mojang user authentication ended with a network error."
 msgstr "Mojang 使用者驗證程序因網路問題而終止。"
-
-#: src/launcher/ui/dialogs/AboutDialog.ui:157
-msgctxt "AboutDialog|"
-msgid "Version:"
-msgstr "版本："
-
-#: src/launcher/ui/dialogs/AboutDialog.cpp:86
-msgctxt "AboutDialog|"
-msgid "Version"
-msgstr "版本"
-
-#: src/launcher/InstancePageProvider.h:40
-msgctxt "InstancePageProvider|"
-msgid "Loader mods"
-msgstr "已載入模組"
-
-#: src/launcher/ui/pages/global/LauncherPage.ui:190
-msgctxt "LauncherPage|"
-msgid "Launcher notifications"
-msgstr "啟動器通知"
-
-#: src/launcher/ui/pages/global/LauncherPage.ui:196
-msgctxt "LauncherPage|"
-msgid "Reset hidden notifications"
-msgstr "重設已隱藏的通知"
-
-#: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
-msgctxt "LegacyInstance|"
-msgid "Legacy"
-msgstr "舊版"
-
-#: src/launcher/minecraft/legacy/LegacyInstance.cpp:225
-msgctxt "LegacyInstance|"
-msgid "Instance from previous versions."
-msgstr "建立之前版本的實例"
-
-#: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:29
-#, fuzzy
-msgctxt "LegacyUpgradePage|"
-msgid ""
-"<html><body><h1>Upgrade is required</h1><p>PolyMC now supports old Minecraft "
-"versions and all the required features in the new (OneSix) instance format. "
-"As a consequence, the old (Legacy) format has been entirely disabled and old "
-"instances need to be upgraded.</p><p>The upgrade will create a new instance "
-"with the same contents as the current one, in the new format. The original "
-"instance will remain untouched, in case anything goes wrong in the process.</"
-"p><p>Please report any issues on our <a href=\"https://github.com/PolyMC/"
-"PolyMC/issues\">github issues page</a>.</p><p>There is also a <a href="
-"\"https://discord.gg/GtPmv93\">discord channel for testing here</a>.</p></"
-"body></html>"
-msgstr ""
-"<html><body><h1>需要升級</h1><p>PolyMC 在新的 OneSix 實例格式中開始支援舊的 "
-"Minecraft 版本。因此，PolyMC 將完全停用舊版格式，而舊的實例需要升級。</p><p>"
-"本次升級將會建立一個新格式的實例，且複製目前版本的內容。原本的實例將不會被更"
-"動，以防萬一。</p><p>若遇到問題請在我們的<a href=\"https://github.com/PolyMC/"
-"PolyMC/issues\">github issues 頁面</a>回報。</p><p>此外，我們有一個<a href="
-"\"https://discord.gg/GtPmv93\">Discord 頻道</a></p></body></html>"
-
-#: src/launcher/ui/pages/instance/LegacyUpgradePage.ui:39
-msgctxt "LegacyUpgradePage|"
-msgid "Upgrade the instance"
-msgstr "升級實例"
-
-#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:27
-msgctxt "LegacyUpgradePage|"
-msgid "Error"
-msgstr "錯誤"
-
-#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:30
-msgctxt "LegacyUpgradePage|"
-msgid "Abort"
-msgstr "退出"
-
-#: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:39
-#, qt-format
-msgctxt "LegacyUpgradePage|"
-msgid "%1 (Migrated)"
-msgstr "%1（已遷移）"
-
-#: src/launcher/ui/pages/instance/LegacyUpgradePage.h:39
-msgctxt "LegacyUpgradePage|"
-msgid "Upgrade"
-msgstr "升級"
-
-#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:20
-#, qt-format
-msgctxt "LegacyUpgradeTask|"
-msgid "Copying instance %1"
-msgstr "正在複製實例 %1"
-
-#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:59
-msgctxt "LegacyUpgradeTask|"
-msgid "Instance folder copy failed."
-msgstr "實例資料夾複製失敗。"
-
-#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:82
-msgctxt "LegacyUpgradeTask|"
-msgid "Could not decide Minecraft version."
-msgstr "無法決定 Minecraft 版本。"
-
-#: src/launcher/minecraft/legacy/LegacyUpgradeTask.cpp:135
-msgctxt "LegacyUpgradeTask|"
-msgid "Instance folder copy has been aborted."
-msgstr "實例資料夾的複製已被中斷。"
-
-#: src/launcher/ui/MainWindow.cpp:349
-#, qt-format
-msgctxt "MainWindow|"
-msgid "Open %1 discord voice chat."
-msgstr "開啟 %1 Discord 語音群。"
-
-#: src/launcher/ui/dialogs/NotificationDialog.ui:14
-msgctxt "NotificationDialog|"
-msgid "Notification"
-msgstr "通知"
-
-#: src/launcher/ui/dialogs/NotificationDialog.ui:65
-#: src/launcher/ui/dialogs/NotificationDialog.cpp:30
-msgctxt "NotificationDialog|"
-msgid "Don't show again"
-msgstr "不再顯示"
-
-#: src/launcher/ui/dialogs/NotificationDialog.ui:75
-#: src/launcher/ui/dialogs/NotificationDialog.cpp:31
-msgctxt "NotificationDialog|"
-msgid "Close"
-msgstr "關閉"
-
-#: src/launcher/ui/pages/global/PastePage.h:37
-#, fuzzy
-msgctxt "PastePage|"
-msgid "Log Upload"
-msgstr "上傳紀錄"
-
-#: src/launcher/LaunchController.cpp:58
-msgctxt "LaunchController|"
-msgid ""
-"In order to play Minecraft, you must have at least one Mojang or Minecraft "
-"account logged in.Would you like to open the account manager to add an "
-"account now?"
-msgstr ""
-"要玩 Minecraft 的話，需要有 Mojang 或 Minecraft 帳號。\n"
-"是否開啟帳號管理器且新增一個帳號？"
-
-#: src/launcher/ui/pages/global/LauncherPage.ui:307
-msgctxt "LauncherPage|"
-msgid "MultiMC"
-msgstr ""
-
-#: src/launcher/ui/pages/instance/ModFolderPage.ui:99
-msgctxt "ModFolderPage|"
-msgid "Add mods"
-msgstr "新增模組"
-
-#: src/launcher/ui/pages/global/PastePage.ui:39
-msgctxt "PastePage|"
-msgid "Pastebin URL"
-msgstr ""
-
-#: src/launcher/ui/pages/global/PastePage.ui:57
-msgctxt "PastePage|"
-msgid ""
-"<html><head/><body><p>Note: only input that starts with <span style=\" font-"
-"weight:600;\">http://</span> or <span style=\" font-weight:600;\">https://</"
-"span> will be accepted.</p></body></html>"
-msgstr ""
-
-#: src/launcher/ui/pages/global/PastePage.ui:74
-msgctxt "PastePage|"
-msgid "https://0x0.st"
-msgstr ""
-
-#: src/launcher/ui/pages/global/PastePage.ui:79
-msgctxt "PastePage|"
-msgid "https://paste.polymc.org"
-msgstr ""
-
-#: src/launcher/ui/pages/global/PastePage.ui:87
-msgctxt "PastePage|"
-msgid ""
-"<html><head/><body><p>Here you can choose from a predefined list of paste "
-"services, or input the URL of a different paste service of your choice, "
-"provided it supports the same protocol as 0x0.st, that is POST a file "
-"parameter to the URL and return a link in the response body.</p></body></"
-"html>"
-msgstr ""
-
-#: src/launcher/ui/dialogs/AboutDialog.cpp:36
-msgctxt "QObject|About Credits"
-msgid "Developers"
-msgstr "開發人員"
