@@ -1,0 +1,6368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="lv_LV">
+<context>
+    <name>APIPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="+39"/>
+        <source>Pastebin URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>https://0x0.st</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>https://paste.polymc.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Microsoft Authentication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>(Default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enter a custom client ID for Microsoft Authentication here. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="+37"/>
+        <source>APIs</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ATLauncher::PackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="+94"/>
+        <source>Could not understand pack manifest:
+</source>
+        <translation>Nevarēja saprast pakas manifestu:
+</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <location line="+81"/>
+        <source>Failed to get local metadata index for %1</source>
+        <translation>Neizdevās iegūt vietējo metadatu indeksu priekš %1</translation>
+    </message>
+    <message>
+        <location line="-75"/>
+        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
+        <translation>Neizdevās iegūt vietējo metadatu indeksu priekš %1 v%2</translation>
+    </message>
+    <message>
+        <location line="+62"/>
+        <source>Unknown mod type: %1</source>
+        <translation>Nezināms modifikācijas veids: %1</translation>
+    </message>
+    <message>
+        <location line="+45"/>
+        <source>Failed to find version for %1 loader</source>
+        <translation>Neizdevās atrast versiju priekš %1 loaderam</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>No loader version set for modpack!</source>
+        <translation>Nekāda loadera versija nav iestatīta priekš modpack!</translation>
+    </message>
+    <message>
+        <location line="+104"/>
+        <source>Unknown or unsupported download type: %1</source>
+        <translation>Nezināms vai neatbalstīts lejupielādes veids: %1</translation>
+    </message>
+    <message>
+        <location line="+93"/>
+        <source>Downloading configs...</source>
+        <translation>Lejuplādē konfigurācijas...</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Config download</source>
+        <translation>Konfigurāciju lejuplāde</translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>Extracting configs...</source>
+        <translation>Ekstraktē konfigurācijas...</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Failed to open pack configs %1!</source>
+        <translation>Neizdevās atvērt pakas konfigurācijas %1!</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Selecting optional mods...</source>
+        <translation>Izvēlas neobligātās modifikācijas...</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Downloading mods...</source>
+        <translation>Lejuplādē modifikācijas...</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Mod download</source>
+        <translation>Modifikācijas lejuplāde</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Unsupported download type: %1</source>
+        <translation>Neatbalstīts lejupielādes veids: %1</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Unknown download type: %1</source>
+        <translation>Nezināms lejupielādes veids: %1</translation>
+    </message>
+    <message>
+        <location line="+114"/>
+        <source>Failed to extract mods...</source>
+        <translation>Nesanāca ekstraktēt modifikācijas...</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Extracting mods...</source>
+        <translation>Ekstraktē modifikācijas...</translation>
+    </message>
+    <message>
+        <location line="+62"/>
+        <source>Installing modpack</source>
+        <translation>Lejuplādē modpaku</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Failed to create libraries component</source>
+        <translation>Neizdevās izveidot bibliotēkas komponentu</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Unknown loader type: </source>
+        <translation>Nezināms lādēšanas veids: </translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Failed to create pack component</source>
+        <translation>Neizdevās izveidot pakas komponentu</translation>
+    </message>
+</context>
+<context>
+    <name>AboutDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="+104"/>
+        <source>About</source>
+        <translation>Par</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pielāgots Minecraft palaidējs, kas ļauj vieglāk palaist vairākus Minecraft logus vienlaicīgi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Version:</source>
+        <translation type="vanished">Versija:</translation>
+    </message>
+    <message>
+        <location line="+51"/>
+        <source>Platform:</source>
+        <translation>Platforma:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Build Number:</source>
+        <translation>Būvējuma numurs:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Channel:</source>
+        <translation>Kanāls:</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Credits</source>
+        <translation>Titri</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>License</source>
+        <translation>Licence</translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>About Qt</source>
+        <translation>Par Qt</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Close</source>
+        <translation>Aizvērt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="+80"/>
+        <source>About %1</source>
+        <translation>Par %1</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="vanished">Versija</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Platform</source>
+        <translation>Platforma</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Build Number</source>
+        <translation>Būvējuma numurs</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Channel</source>
+        <translation>Kanāls</translation>
+    </message>
+</context>
+<context>
+    <name>AccountList</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="+277"/>
+        <source>Unchecked</source>
+        <comment>Account status</comment>
+        <translation>Neatzīmēts</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Offline</source>
+        <comment>Account status</comment>
+        <translation>Bezsaistē</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Online</source>
+        <comment>Account status</comment>
+        <translation>Tiešsaistē</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Working</source>
+        <comment>Account status</comment>
+        <translation>Strādā</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Errored</source>
+        <comment>Account status</comment>
+        <translation>Kļūda</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Expired</source>
+        <comment>Account status</comment>
+        <translation>Laiks beidzies</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Disabled</source>
+        <comment>Account status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Gone</source>
+        <comment>Account status</comment>
+        <translation>Pazudis</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>N/A</source>
+        <comment>Can Migrate?</comment>
+        <translation>N/A</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Yes</source>
+        <comment>Can Migrate?</comment>
+        <translation>Jā</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>No</source>
+        <comment>Can Migrate?</comment>
+        <translation>Nē</translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>Account</source>
+        <translation>Konts</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Type</source>
+        <translation>Veids</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Status</source>
+        <translation>Statuss</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Can Migrate?</source>
+        <translation>Var Migrēt?</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Profile</source>
+        <translation>Profils</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>User name of the account.</source>
+        <translation>Konta lietotājvārds.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Type of the account - Mojang or MSA.</source>
+        <translation>Konta veids - Mojang vai MSA.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Current status of the account.</source>
+        <translation>Pašreizējais konta statuss.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Can this account migrate to Microsoft account?</source>
+        <translation>Vai šis konts vat migrēties uz Microsoft kontu?</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Name of the Minecraft profile associated with the account.</source>
+        <translation>Ar kontu asociēts Minecraft profila nosaukums.</translation>
+    </message>
+</context>
+<context>
+    <name>AccountListPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="+68"/>
+        <source>Add Mojang</source>
+        <translation>Pievienot Mojang</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Remove</source>
+        <translation>Noņemt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Set Default</source>
+        <translation>Lietot kā noklusējumu</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>No Default</source>
+        <translation>Nelietot kā noklusējumu</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Upload Skin</source>
+        <translation>Augšupielādēt skinu</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Delete Skin</source>
+        <translation>Izdzēst Skinu</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Delete the currently active skin and go back to the default one</source>
+        <translation>Izdzēst pašreizējo skinu un iet atpakaļ uz standarta</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Add Microsoft</source>
+        <translation>Pievienot Microsoft</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Add Offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Refresh</source>
+        <translation>Pārlādēt</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Refresh the account tokens</source>
+        <translation>Pārlādēt konta tokenus</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="+42"/>
+        <source>Accounts</source>
+        <translation>Konti</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="+45"/>
+        <source>Welcome!
+If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
+        <translation>Laipni lūgti!
+Ja esat šeit pirmo reizi, varat pievienot savu Mojang vai Microsoft kontu ar pogu &quot;Pievienot&quot;.</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>No Microsoft Authentication client ID was set.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Context menu</source>
+        <translation>Konteksta izvēlne</translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <location line="+28"/>
+        <source>Please enter your Mojang account email and password to add your account.</source>
+        <translation>Lūdzu, ievadiet savu Mojang konta e-pastu un paroli lai pievienotu savu kontu.</translation>
+    </message>
+    <message>
+        <location line="-11"/>
+        <source>Microsoft Accounts not available</source>
+        <translation>Microsoft konti nav pieejami</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
+
+Please update both your operating system and PolyMC.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Error</source>
+        <translation type="unfinished">Kļūda</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Please enter your desired username to add your offline account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+99"/>
+        <source>Skin Delete</source>
+        <translation>Skinu Izdzēšana</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Failed to delete current skin!</source>
+        <translation>Neizdevās izdzēst pašreizējo skinu!</translation>
+    </message>
+</context>
+<context>
+    <name>AccountTask</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="+41"/>
+        <source>Sending request to auth servers...</source>
+        <translation>Notiek pieprasījuma sūtīšana uz autorizācijas serveriem...</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Authentication task succeeded.</source>
+        <translation>Autentifikācijas uzdevums ir izdevies.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Failed to contact the authentication server.</source>
+        <translation>Neizdevās sazināties ar autentifikācijas serveri.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Client ID has changed. New session needs to be created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Encountered an error during authentication.</source>
+        <translation>Autentifikācijas laikā konstatēta kļūda.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Failed to authenticate. The session has expired.</source>
+        <translation>Neizdevās autentificēties. Sesijas termiņš ir beidzies.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Failed to authenticate. The account no longer exists.</source>
+        <translation>Neizdevās autentificēties. Konts vairs neeksistē.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
+        <location line="+53"/>
+        <source>Unknown account task state: %1</source>
+        <translation>Nezināms konta stāvoklis: %1</translation>
+    </message>
+</context>
+<context>
+    <name>Application</name>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="+701"/>
+        <source>Settings</source>
+        <translation>Iestatījumi</translation>
+    </message>
+</context>
+<context>
+    <name>AssetUpdateTask</name>
+    <message>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="+21"/>
+        <source>Updating assets index...</source>
+        <translation>Atjaunina līdzekļu indeksu...</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Asset index for %1</source>
+        <translation>Līdzekļu indekss priekš %1</translation>
+    </message>
+    <message>
+        <location line="+45"/>
+        <source>Failed to read the assets index!</source>
+        <translation>Neizdevās lasīt līdzekļu indeksu!</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Getting the assets files from Mojang...</source>
+        <translation>Ņem līdzekļu datnes no Mojang...</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Failed to download the assets index:
+%1</source>
+        <translation>Neizdevās lejuplādēt līdzekļu indeksu:
+%1</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Failed to download assets:
+%1</source>
+        <translation>Neizdevās lejuplādēt līdzekļu indeksu:
+%1</translation>
+    </message>
+</context>
+<context>
+    <name>Atl::FilterModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="+30"/>
+        <source>Sort by popularity</source>
+        <translation>Kārtot pēc popularitātes</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by name</source>
+        <translation>Kārtot pēc nosaukuma</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by game version</source>
+        <translation>Kārtot pēc spēles versijas</translation>
+    </message>
+</context>
+<context>
+    <name>AtlOptionalModDialog</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="+14"/>
+        <source>Select Mods To Install</source>
+        <translation>Atlasiet instalējamās modifikācijas</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Install</source>
+        <translation>Instalēt</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Select Recommended</source>
+        <translation>Atlasīt Ieteikto</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Use Share Code</source>
+        <translation>Lietot koplietošanas kodu</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Clear All</source>
+        <translation>Notīrīt visu</translation>
+    </message>
+</context>
+<context>
+    <name>AtlPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="+42"/>
+        <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
+        <translation>Brīdinājums: Šis ir vēljoprojām darbs progresā. Ja jūs ieskrienat problēmās ar importēto modpaku, tā var būt kļūda.</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Version selected:</source>
+        <translation>Izvēlētā Versija:</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Search and filter ...</source>
+        <translation>Meklēt un filtrēt...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="+158"/>
+        <source>No versions are currently available for Minecraft %1</source>
+        <translation>Nav pieejamas versijas priekš Minecraft %1</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>No versions are currently available</source>
+        <translation>Nav pieejamu versiju</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Couldn&apos;t load or download the version lists!</source>
+        <translation>Neizdevās ielādēt vai lejupielādēt versijas sarakstu!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h" line="+45"/>
+        <source>ATLauncher</source>
+        <translation>ATLauncher</translation>
+    </message>
+</context>
+<context>
+    <name>AuthFlow</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="+20"/>
+        <source>Finished all authentication steps</source>
+        <translation>Pabeidza visas autentifikācijas soļus</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Initializing</source>
+        <translation>Inicializācija</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Working...</source>
+        <translation>Darbojas...</translation>
+    </message>
+</context>
+<context>
+    <name>BaseProfiler</name>
+    <message>
+        <location filename="src/launcher/tools/BaseProfiler.cpp" line="+30"/>
+        <source>Profiler aborted</source>
+        <translation>Profilers apstādināts</translation>
+    </message>
+</context>
+<context>
+    <name>CapeChange</name>
+    <message>
+        <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="+19"/>
+        <source>Equipping cape</source>
+        <translation>Aprīko apmetni</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Removing cape</source>
+        <translation>Noņem apmetni</translation>
+    </message>
+</context>
+<context>
+    <name>ComponentUpdateTask</name>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="+270"/>
+        <source>Some component metadata load tasks failed.</source>
+        <translation>Dažu komponentu metadatu ielādes darbi neizdevās.</translation>
+    </message>
+    <message>
+        <location line="+256"/>
+        <source>Conflicting requirements detected during dependency checking!</source>
+        <translation>Pretrunīgas vajadzības atrastas atkarību pārbaudē!</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Instance has conflicting dependencies.</source>
+        <translation>Instancei ir pretrunīgas atkarības.</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Instance has unresolved dependencies while loading/checking for launch.</source>
+        <translation>Instancei neatrisinātas atkarības lādējot/skatoties priekš darbināšanas.</translation>
+    </message>
+    <message>
+        <location line="+150"/>
+        <source>Component metadata update task failed while downloading from remote server:
+%1</source>
+        <translation>Komponentes metadatu atjauninājuma darbs neizdevās, lejuplādējot no attāla servera:
+%1</translation>
+    </message>
+</context>
+<context>
+    <name>CopyInstanceDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="+17"/>
+        <source>Copy Instance</source>
+        <translation>Kopēt Instanci</translation>
+    </message>
+    <message>
+        <location line="+57"/>
+        <source>Name</source>
+        <translation>Vārds</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>&amp;Group</source>
+        <translation>&amp;Grupa</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Copy saves</source>
+        <translation>Kopēt Saglabājumus</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Keep play time</source>
+        <translation>Saglabāt spēlēšanas laiku</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="+54"/>
+        <source>No group</source>
+        <translation>Bez grupas</translation>
+    </message>
+</context>
+<context>
+    <name>CreateGameFolders</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="+18"/>
+        <source>Couldn&apos;t create the main game folder</source>
+        <translation>Neizdevās izveidot galveno spēles mapi</translation>
+    </message>
+</context>
+<context>
+    <name>CustomCommands</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="+32"/>
+        <source>Cus&amp;tom Commands</source>
+        <translation>Pielāgo&amp;tas komandas</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Post-exit command:</source>
+        <translation>Pēc-izejas Komanda:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Pre-launch command:</source>
+        <translation>Pirms-darbināšanas Komanda:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Wrapper command:</source>
+        <translation>Iesaiņojuma Komanda:</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pirms-darbināšanas komanda iet pirms instance darbinās un pēc izejas Komanda iet pēc iziešanas.&lt;/p&gt;&lt;p&gt;Abi ies iekšā palaidēja strādājošā mapē ar papildus vides mainīgajiem:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Loga vārds&lt;/li&gt;&lt;li&gt;$INST_ID - Loga ID (tā mapes nosaukums)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolūtā loga lokācija &lt;/li&gt;&lt;li&gt;$INST_MC_DIR - minecraft absolūtā lokācija&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binārija izmantota;&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-līnijas parametri izmantoti &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Iesaiņojuma komandas ļauj darbināšanu izmantojot papildus iesaiņošanas programu (piem. &apos;optirun&apos; Linukssā)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>CustomCommandsPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="+35"/>
+        <source>Custom Commands</source>
+        <translation>Pielāgotas komandas</translation>
+    </message>
+</context>
+<context>
+    <name>DirectJavaLaunch</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="+69"/>
+        <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
+        <translation>Iesaiņojuma komanda &quot;%1&quot; nevarēja tikt atrasta.</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Could not launch minecraft!</source>
+        <extracomment>Error message displayed if instance can&apos;t start</extracomment>
+        <translation>Nevarēja palaist Minecraft!</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <location line="+10"/>
+        <source>Game crashed.</source>
+        <translation>Spēle uzkārās.</translation>
+    </message>
+</context>
+<context>
+    <name>EditAccountDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="+14"/>
+        <source>Login</source>
+        <translation>Pieslēgties</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Email</source>
+        <translation>E-pasts</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password</source>
+        <translation>Parole</translation>
+    </message>
+</context>
+<context>
+    <name>EntitlementsStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="+14"/>
+        <source>Determining game ownership.</source>
+        <translation>Spēļu īpašumtiesību noteikšana.</translation>
+    </message>
+    <message>
+        <location line="+38"/>
+        <source>Got entitlements</source>
+        <translation>Dabuju tiesības</translation>
+    </message>
+</context>
+<context>
+    <name>ExportInstanceDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="+14"/>
+        <source>Export Instance</source>
+        <translation>Eksportēt Instanci</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="+384"/>
+        <source>Export %1</source>
+        <translation>Eksportēt %1</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Overwrite?</source>
+        <translation>Pārrakstīt?</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This file already exists. Do you want to overwrite it?</source>
+        <translation>Šis fails jau pastāv. Vai vēlaties to pārrakstīt?</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <location line="+5"/>
+        <source>Error</source>
+        <translation>Kļūda</translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <location line="+5"/>
+        <source>Unable to export instance</source>
+        <translation>Instances eksportēšana neizdevās</translation>
+    </message>
+</context>
+<context>
+    <name>ExternalToolsPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="+59"/>
+        <location line="+37"/>
+        <location line="+37"/>
+        <source>Check</source>
+        <translation>Pārbaudīt</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>External Editors (leave empty for system default)</source>
+        <translation>Ārējie redaktori (atstājiet tukšu priekš sistēmas noklusējuma)</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Text Editor:</source>
+        <translation>Teksta redaktors:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="+37"/>
+        <source>External Tools</source>
+        <translation>Ārējie Rīki</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="+90"/>
+        <source>JProfiler Folder</source>
+        <translation>JProfiler Mape</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <location line="+15"/>
+        <location line="+22"/>
+        <location line="+15"/>
+        <location line="+26"/>
+        <location line="+15"/>
+        <source>Error</source>
+        <translation>Kļūda</translation>
+    </message>
+    <message>
+        <location line="-93"/>
+        <location line="+15"/>
+        <source>Error while checking JProfiler install:
+%1</source>
+        <translation>Kļūda, pārbaudot JProfiler instalāciju:
+%1</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+37"/>
+        <location line="+41"/>
+        <source>OK</source>
+        <translation>Labi</translation>
+    </message>
+    <message>
+        <location line="-78"/>
+        <source>JProfiler setup seems to be OK</source>
+        <translation>JProfiler sataisīšana sķiet ir OK</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>JVisualVM Executable</source>
+        <translation>JVisualVM Izpildāmais</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <location line="+15"/>
+        <source>Error while checking JVisualVM install:
+%1</source>
+        <translation>Kļūda pārbaudot JVisualVM instalāciju:
+%1</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>JVisualVM setup seems to be OK</source>
+        <translation>JVisualVM sataisīšana sķiet ir OK</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>MCEdit Application</source>
+        <translation>MCEdit Programma</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>MCEdit Folder</source>
+        <translation>MCEdit Mape</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <location line="+15"/>
+        <source>Error while checking MCEdit install:
+%1</source>
+        <translation>Kļūda, pārbaudot MCEdit instalāciju:
+%1</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>MCEdit setup seems to be OK</source>
+        <translation>MCEdit sataisīšana sķiet ir OK</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>JSON Editor</source>
+        <translation>JSON rediģētājs</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Invalid</source>
+        <translation>Nederīgs</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The file chosen does not seem to be an executable</source>
+        <translation>Izvēlētais fails izskatās ka nav Izpildāmais</translation>
+    </message>
+</context>
+<context>
+    <name>ExtractNatives</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="+104"/>
+        <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
+        <translation>Nevarēja izvilkt vietējo jar &apos;%1&apos; uz mērķi &apos;%2&apos;</translation>
+    </message>
+</context>
+<context>
+    <name>FMLLibrariesTask</name>
+    <message>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="+39"/>
+        <source>Checking for FML libraries...</source>
+        <translation>Pārbauda FML bibliotēkas...</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Downloading FML libraries...</source>
+        <translation>Lejupielādē FML...</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Copying FML libraries into the instance...</source>
+        <translation>Notiek FML bibliotēku kopēšana instancē...</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Failed creating FML library folder inside the instance.</source>
+        <translation>Neizdevās izveidot FML bibliotēkas mapi instancē.</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Failed copying Forge/FML library: %1.</source>
+        <translation>Neizdevās nokopēt Forge/FML bibliotēku: %1.</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Failed to download the following files:
+%1
+
+Reason:%2
+Please try again.</source>
+        <translation>Neizdevās lejuplādēt šos failus:
+%1
+
+
+Iemesls:%2
+Lūdzu, mēģiniet vēlreiz.</translation>
+    </message>
+</context>
+<context>
+    <name>Flame::FileResolvingTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="+15"/>
+        <source>Resolving mod IDs...</source>
+        <translation>Atrisina modu ID...</translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <source>Some mod ID resolving tasks failed.</source>
+        <translation>Dažu modu ID atrisināšanas darbi neizdevās.</translation>
+    </message>
+</context>
+<context>
+    <name>FlameModPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="+25"/>
+        <source>Version selected:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="+191"/>
+        <source>Select mod for download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Search and filter ...</source>
+        <translation type="unfinished">Meklēt un filtrēt...</translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Search</source>
+        <translation type="unfinished">Meklēt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="-161"/>
+        <source>Sort by Featured</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by Popularity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by last updated</source>
+        <translation type="unfinished">Kārtot pēc atjauninātajiem</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by Downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+64"/>
+        <source> by </source>
+        <translation type="unfinished"> no </translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Loading versions...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+48"/>
+        <location line="+18"/>
+        <source>No Valid Version found!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-14"/>
+        <source>Cannot select invalid version :(</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Deselect mod for download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.h" line="+30"/>
+        <source>CurseForge</source>
+        <translation type="unfinished">CurseForge</translation>
+    </message>
+</context>
+<context>
+    <name>FlamePage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="+52"/>
+        <source>Version selected:</source>
+        <translation>Iezīmētā versija:</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Search</source>
+        <translation>Meklēt</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Search and filter ...</source>
+        <translation>Meklēt un filtrēt...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.h" line="+45"/>
+        <source>CurseForge</source>
+        <translation>CurseForge</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="+25"/>
+        <source>Sort by featured</source>
+        <translation>Kārtot pēc piedāvātajiem</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by popularity</source>
+        <translation>Kārtot pēc popularitātes</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by last updated</source>
+        <translation>Kārtot pēc atjauninātajiem</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by name</source>
+        <translation>Kārtot pēc nosaukuma</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by author</source>
+        <translation>Kārtot pēc autora</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by total downloads</source>
+        <translation>Kārtot pēc kopējām lejupielādēm</translation>
+    </message>
+    <message>
+        <location line="+73"/>
+        <source> by </source>
+        <translation> no </translation>
+    </message>
+</context>
+<context>
+    <name>FoldersTask</name>
+    <message>
+        <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="+17"/>
+        <source>Failed to create folder for minecraft binaries.</source>
+        <translation>Neizdevās izveidot mapi priekš Minecraft binārajiem failiem.</translation>
+    </message>
+</context>
+<context>
+    <name>Ftb::FilterModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="+29"/>
+        <source>Sort by plays</source>
+        <translation>Kārtot pēc spēlēšanas reizēm</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by installs</source>
+        <translation>Kartot pēc instalācijām</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by name</source>
+        <translation>Kārtot pēc vārda</translation>
+    </message>
+</context>
+<context>
+    <name>FtbPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="+22"/>
+        <source>Version selected:</source>
+        <translation>Izvēlētā Versija:</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Search and filter ...</source>
+        <translation>Meklēt un filtrēt...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.h" line="+43"/>
+        <source>FTB</source>
+        <translation>FTB</translation>
+    </message>
+</context>
+<context>
+    <name>GameOptions</name>
+    <message>
+        <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="+82"/>
+        <source>Key</source>
+        <translation>Atslēga</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Value</source>
+        <translation>Vērtība</translation>
+    </message>
+</context>
+<context>
+    <name>GameOptionsPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="+45"/>
+        <source>Game Options</source>
+        <translation>Spēles Opcijas</translation>
+    </message>
+</context>
+<context>
+    <name>GameType</name>
+    <message>
+        <location filename="src/launcher/minecraft/World.cpp" line="+69"/>
+        <source>Survival</source>
+        <translation>Izdzīvošana</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Creative</source>
+        <translation>Radošs</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Adventure</source>
+        <translation>Piedzīvojums</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Spectator</source>
+        <translation>Skatītājs</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Unknown (%1)</source>
+        <translation>Nezināms (%1)</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Undefined</source>
+        <translation>Nenoteikts</translation>
+    </message>
+</context>
+<context>
+    <name>GetSkinStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="+16"/>
+        <source>Getting skin.</source>
+        <translation>Ādas iegūšana.</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Got skin</source>
+        <translation>Dabuja ādu</translation>
+    </message>
+</context>
+<context>
+    <name>GoUpdate::DownloadTask</name>
+    <message>
+        <location filename="src/launcher/updater/DownloadTask.cpp" line="+48"/>
+        <source>Loading version information...</source>
+        <translation>Lādē versijas informāciju...</translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Failed to download version info files.</source>
+        <translation>Neizdevās lejuplādēt versijas info failus.</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Reading file list for new version...</source>
+        <translation>Lasa datņu sarakstu jaunai versijai...</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Reading file list for current version...</source>
+        <translation>Lasa datņu sarakstu pašreizējai versijai...</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Processing file lists - figuring out how to install the update...</source>
+        <translation>Procesē faila sarakstes - izdomā kā lejuplādēt atjaunojumu...</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Failed to process update lists...</source>
+        <translation>Neizdevās procesēt atjaunojuma sarakstes...</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Downloading one update file.</source>
+        <translation>Lejupielādē vienu atjaunināšanas failu.</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Downloading %1 update files.</source>
+        <translation>Lejulādē %1 atjaunojuma failus.</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Failed to download update files: %1</source>
+        <translation>Neizdevās lejulādēt atjaunojuma failus: %1</translation>
+    </message>
+</context>
+<context>
+    <name>IconPickerDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="+14"/>
+        <source>Pick icon</source>
+        <translation>Izvēlēties ikonu</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="+65"/>
+        <source>Add Icon</source>
+        <translation>Pievienot Ikonu</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Remove Icon</source>
+        <translation>Noņemt Ikonu</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Open Folder</source>
+        <translation>Atvērt mapi</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Select Icons</source>
+        <extracomment>The title of the select icons open file dialog</extracomment>
+        <translation>Izvēlieties ikonu</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Icons %1</source>
+        <translation>Ikonas %1</translation>
+    </message>
+</context>
+<context>
+    <name>ImportPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="+17"/>
+        <source>Browse</source>
+        <translation>Pārlūkot</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Local file or link to a direct download:</source>
+        <translation>Lokālais fails vai links lai vērstos uz lejuplādi:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="+40"/>
+        <source>Import from zip</source>
+        <translation>Importēt no zip</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="+106"/>
+        <source>Choose modpack</source>
+        <translation>Izvēlēties modpaku</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Zip (*.zip)</source>
+        <translation>Zip (*.zip)</translation>
+    </message>
+</context>
+<context>
+    <name>Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="+71"/>
+        <source>Name</source>
+        <translation type="unfinished">Vārds</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceCardWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="+27"/>
+        <source>&amp;Name:</source>
+        <translation>&amp;Vārds:</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>&amp;Group:</source>
+        <translation>&amp;Grupa:</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceCopyTask</name>
+    <message>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="+24"/>
+        <source>Copying instance %1</source>
+        <translation>Kopē instatnci %1</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Instance folder copy failed.</source>
+        <translation>Neizdevās kopēt instances mapi.</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Instance folder copy has been aborted.</source>
+        <translation>Instances mapes kopija tika apstādināta.</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceCreationTask</name>
+    <message>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="+16"/>
+        <source>Creating instance from version %1</source>
+        <translation>Veido instanci no versijas %1</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceImportTask</name>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="+52"/>
+        <source>Downloading modpack:
+%1</source>
+        <translation>Lejuplādē modpaku:
+%1</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Modpack download</source>
+        <translation>Modpaka lejuplāde</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Extracting modpack</source>
+        <translation>Ekstraktē modpaku</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Unable to open supplied modpack zip file.</source>
+        <translation>Nevar atvērt piegādātā modpaka zip failu.</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <location line="+64"/>
+        <source>Archive does not contain a recognized modpack type.</source>
+        <translation>Arhīvā nav atpazīstamo modpak tipu.</translation>
+    </message>
+    <message>
+        <location line="-48"/>
+        <source>Failed to extract modpack</source>
+        <translation>Nesanāca ekstraktēt modpaku</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Could not fix permissions for %1</source>
+        <translation>Nevarēja izlabot atļaujas priekš %1</translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Instance import has been aborted.</source>
+        <translation>Instances imports tika apstādināts.</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Could not understand pack manifest:
+</source>
+        <translation>Nevarēja saprast paka manifestu:
+</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Could not rename the overrides folder:
+</source>
+        <translation>Nevarēja parmainīt vārdu ovveride mapei:
+</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
+        <translation>Specificētaā override mape (%1) ir pazudusi. Varbūt modpaks jau ir izmantots iepriekš?</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Unknown mod loader in manifest: %1</source>
+        <translation>Nezināms modifikācijas lādētājs manifestā: %1</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
+        <translation>Nezināmie treilēšanās punkti noņemti no Minecraft versijam kamēr importē paku.</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Could not map recommended forge version for Minecraft %1</source>
+        <translation>Nevarēja kartēt ieteikto Forge versiju Minecraft %1</translation>
+    </message>
+    <message>
+        <location line="+52"/>
+        <source>Mod download</source>
+        <translation>Modifikācijas lejuplāde</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>This &apos;Folder&apos; may need extracting: %1</source>
+        <translation>Šai &apos;Mapei&apos; iespējams vajadzētu ekstraktēšanu: %1</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
+        <translation>Ligzdot modpakus nav pievienota funkcija, nekas netika lejuplādēts: %1</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Unrecognized/unhandled PackageType for: %1</source>
+        <translation>Neatpazīts/Nenoturēts Pakas Tips priekš: %1</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Downloading mods...</source>
+        <translation>Lejuplādē modifikācijas...</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Unable to resolve mod IDs:
+</source>
+        <translation>Nevar atrisināt modifikācijas IDs:
+</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceList</name>
+    <message>
+        <location filename="src/launcher/InstanceList.cpp" line="+149"/>
+        <source>%1 Instance</source>
+        <translation>%1 Instance</translation>
+    </message>
+</context>
+<context>
+    <name>InstancePageProvider</name>
+    <message>
+        <source>Loader mods</source>
+        <translation type="vanished">Lādētājs mods</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstancePageProvider.h" line="+36"/>
+        <source>Mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Core mods</source>
+        <translation>Galvenās Modifikācijas</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Edit Instance (%1)</source>
+        <translation>Rediģēt Instanci (%1)</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceSettingsPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="+29"/>
+        <source>Open Global Settings</source>
+        <translation>Atvērt Globālos Iestatījumus</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The settings here are overrides for global settings.</source>
+        <translation>Iestatījumi šeit ir ignorējošie priekš globālajiem iestatījumiem.</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Java insta&amp;llation</source>
+        <translation>Java insta&amp;lācija</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Auto-detect...</source>
+        <translation>Automātiskā noteikšana...</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Browse...</source>
+        <translation>Pārlūkot...</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Test</source>
+        <translation>Test</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Memor&amp;y</source>
+        <translation>Atmiņa</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Minimum memory allocation:</source>
+        <translation>Minimālā atmiņas piešķiršana:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>The maximum amount of memory Minecraft is allowed to use.</source>
+        <translation>Maksimālais daudzums atmiņas ko Minecraft var lietot.</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>The amount of memory Minecraft is started with.</source>
+        <translation>Atmiņas daudzums ar ko Minecraft var darboties sākumpunktā.</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>The amount of memory available to store loaded Java classes.</source>
+        <translation>Atmiņas daudzums pieejams lai krātu ielādetās Java klases.</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Maximum memory allocation:</source>
+        <translation>Maksimālā atmiņas piešķiršana:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Note: Permgen is set automatically by Java 8 and later</source>
+        <translation>Pieraksts: Ar Java 8 un vēlāk, Pergem ir automātiski ieslēgts</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Java argumen&amp;ts</source>
+        <translation>Java argumen&amp;ti</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Game windows</source>
+        <translation>Spēles logi</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Game Window</source>
+        <translation>Spēles Logs</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Start Minecraft maximized?</source>
+        <translation>Atvērt Minecraft maksimizētu?</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Window height:</source>
+        <translation>Loga garums:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Window width:</source>
+        <translation>Loga platums:</translation>
+    </message>
+    <message>
+        <location line="+44"/>
+        <source>Conso&amp;le Settings</source>
+        <translation>Konso&amp;les Iestatijumi</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Show console while the game is running?</source>
+        <translation>Rādīt konsoli kamēr spēle iet?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Automatically close console when the game quits?</source>
+        <translation>Automātiski aizvērt konsoli kad spēle aizverās?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show console when the game crashes?</source>
+        <translation>Rādīt konsoli kad spēle nobrūk?</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Custom commands</source>
+        <translation>Pielāgotas komandas</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Workarounds</source>
+        <translation>Risinājumi</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Native libraries</source>
+        <translation>Dzimtās bibliotēkas</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Use system installation of GLFW</source>
+        <translation>Izmantot sistēmas GLFW instalāciju</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Use system installation of OpenAL</source>
+        <translation>Izmantot sistēmas OpenAL instalāciju</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Miscellaneous</source>
+        <translation>Citi</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Override global game time settings</source>
+        <translation>Ignorēt globālo spēļu laika iestatījumus</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Show time spent playing this instance</source>
+        <translation>Rādīt laiku spēlējot šo instanci</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Record time spent playing this instance</source>
+        <translation>Ierakstīt laiku spēlējot šo instanci</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Set a server to join on launch</source>
+        <translation>Iestatīt serveri kuram pievienoties spēles palaišanā</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Server address:</source>
+        <translation>Servera adrese:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="+42"/>
+        <source>Settings</source>
+        <translation>Iestatījumi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="+284"/>
+        <source>Select a Java version</source>
+        <translation>Izvēlēties Java versiju</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Find Java executable</source>
+        <translation>Meklēt Java Izpildāmo</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceStaging</name>
+    <message>
+        <location filename="src/launcher/InstanceList.cpp" line="+667"/>
+        <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
+        <translation>Nevarēja izdarīt instanci, pat pēc vairākiem mēģinājumiem. Tas tiek bloķets ar kaut ko.</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceWindow</name>
+    <message>
+        <location filename="src/launcher/ui/InstanceWindow.cpp" line="+40"/>
+        <source>Console window for </source>
+        <translation>Konsoļu logs priekš </translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Help</source>
+        <translation>Palīdzība</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Launch Offline</source>
+        <translation>Palaist bezsaistē</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Close</source>
+        <translation>Aizvērt</translation>
+    </message>
+    <message>
+        <location line="+44"/>
+        <source>Kill</source>
+        <translation>Beigt</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Kill the running instance</source>
+        <translation>Beigt atvērto instanci</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location line="+8"/>
+        <source>Launch</source>
+        <translation>Palaist</translation>
+    </message>
+    <message>
+        <location line="-6"/>
+        <location line="+8"/>
+        <source>Launch the instance</source>
+        <translation>Palaist instanci</translation>
+    </message>
+</context>
+<context>
+    <name>JProfiler</name>
+    <message>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="+34"/>
+        <source>Listening on port: %1</source>
+        <translation>Klausās uz ostu: %1</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Profiler aborted</source>
+        <translation>Profilers apstādināts</translation>
+    </message>
+</context>
+<context>
+    <name>JVisualVM</name>
+    <message>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="+32"/>
+        <source>JVisualVM started</source>
+        <translation>JVisualVM iedarbināts</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Profiler aborted</source>
+        <translation>Profilers apstādināts</translation>
+    </message>
+</context>
+<context>
+    <name>JavaListLoadTask</name>
+    <message>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="+147"/>
+        <source>Detecting Java installations...</source>
+        <translation>Meklē Java instalācijas...</translation>
+    </message>
+</context>
+<context>
+    <name>JavaPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="+45"/>
+        <source>Memory</source>
+        <translation>Atmiņa</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>The maximum amount of memory Minecraft is allowed to use.</source>
+        <translation>Maksimālais daudzums atmiņas ko Minecraft var lietot.</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Minimum memory allocation:</source>
+        <translation>Minimālā atmiņas piešķiršana:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Maximum memory allocation:</source>
+        <translation>Maksimālā atmiņas piešķiršana:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>The amount of memory Minecraft is started with.</source>
+        <translation>Atmiņas daudzums ar ko Minecraft var darboties sākumpunktā.</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>The amount of memory available to store loaded Java classes.</source>
+        <translation>Atmiņas daudzums pieejams lai krātu ielādetās Java klases.</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Java Runtime</source>
+        <translation>Java vide</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Java path:</source>
+        <translation>Java taka:</translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <source>JVM arguments:</source>
+        <translation>JVM argumenti:</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Auto-detect...</source>
+        <translation>Automātiskā noteikšana...</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Test</source>
+        <translation>Tests</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="+42"/>
+        <source>Java</source>
+        <translation>Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="+107"/>
+        <source>Select a Java version</source>
+        <translation>Izvēlējieies Java versiju</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Find Java executable</source>
+        <translation>Meklēt Java Izpildāmo</translation>
+    </message>
+</context>
+<context>
+    <name>JavaSettingsWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="+151"/>
+        <source>No Java version selected</source>
+        <translation>Nav izvēlētās Java versijas</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You didn&apos;t select a Java version or selected something that doesn&apos;t work.
+%1 will not be able to start Minecraft.
+Do you wish to proceed without any Java?
+
+You can change the Java version in the settings later.
+</source>
+        <translation>Neizvēlējāties Java versiju vai izvēlējāties kaut ko, kas nedarbojas.
+%1 nevarēs palaist Minecraft.
+Vai vēlaties turpināt bez Java?
+
+Java versiju var mainīt iestatījumos vēlāk.
+</translation>
+    </message>
+    <message>
+        <location line="+113"/>
+        <source>Find Java executable</source>
+        <translation>Meklēt Java Izpildāmo</translation>
+    </message>
+    <message>
+        <location line="+160"/>
+        <source>Memory</source>
+        <translation>Atmiņa</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The maximum amount of memory Minecraft is allowed to use.</source>
+        <translation>Maksimālais daudzums atmiņas ko Minecraft var lietot.</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Minimum memory allocation:</source>
+        <translation>Minimālā atmiņas piešķiršana:</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Maximum memory allocation:</source>
+        <translation>Maksimālā atmiņas piešķiršana:</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The amount of memory Minecraft is started with.</source>
+        <translation>Atmiņas daudzums ar ko Minecraft var darboties sākumpunktā.</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The amount of memory available to store loaded Java classes.</source>
+        <translation>Atmiņas daudzums pieejams lai krātu ielādetās Java klases.</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Browse</source>
+        <translation>Pārlūkot</translation>
+    </message>
+</context>
+<context>
+    <name>JavaWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="+94"/>
+        <source>Java</source>
+        <translation>Java</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You do not have a working Java set up yet or it went missing.
+Please select one of the following or browse for a java executable.</source>
+        <translation>Jums nav strādājošs Java iestatīts vai tas pazuda
+Lūdzu izvēlieties vienu no sekošajiem vai meklējat Java izpildāmo.</translation>
+    </message>
+</context>
+<context>
+    <name>LanguagePage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="+35"/>
+        <source>Language</source>
+        <translation>Valoda</translation>
+    </message>
+</context>
+<context>
+    <name>LanguageSelectionWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="+55"/>
+        <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
+        <translation>Neredzat savu valodu vai kvalitāte ir slikta?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Palīdziet mums ar tulkojumiem!&lt;/a&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>LanguageWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="+46"/>
+        <source>Language</source>
+        <translation>Valoda</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Select the language to use in %1</source>
+        <translation>Izvēlieties valodu, kas tiks izmantota %1</translation>
+    </message>
+</context>
+<context>
+    <name>LaunchController</name>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="+35"/>
+        <source>No instance specified!</source>
+        <translation>Nav specificētas instances!</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>No Accounts</source>
+        <translation>Nav Kontu</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in.Would you like to open the account manager to add an account now?</oldsource>
+        <translation type="unfinished">Lai spēlētu Minecraft, jums ir jābūt pieslēgtam vismaz vienam Mojang vai Minecraft kontam. Vai vēlaties atvērt kontu pārvaldnieku, lai pievienotu kontu?</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Which account would you like to use?</source>
+        <translation>Kādu kontu vēlaties lietot?</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>No account selected for launch.</source>
+        <translation>Nav izvēlēts konts priekš palaišanas.</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
+        <translation>Jūsu konts pagaidām nav pieslēdzies. Lūdzu, ievadiet paroli, lai vēlreiz pieslēgtos. &lt;br /&gt; &lt;br /&gt; Šī problēma varētu būt izraisīta dēļ paroles maiņas.</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Player name</source>
+        <translation>Spēlētāja vārds</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Choose your offline mode player name.</source>
+        <translation>Izvēlaties Bezsaistes Spēlētaja Vārdu.</translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Received undetermined session status during login.</source>
+        <translation>Saņemts nenoteikts sesijas statuss pieslēgšanās laikā.</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Play demo?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This account does not own Minecraft.
+You need to purchase the game first to play it.
+
+Do you want to play the demo?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Play Demo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Launch cancelled - account does not own Minecraft.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Play Offline</source>
+        <translation>Spēlēt bezsaistē</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>The account has expired and needs to be logged into manually again.</source>
+        <translation>Konta sesija ir beigusies, un kontā autentifikācijās manuāli.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Account refresh failed</source>
+        <translation>Konta atjaunināšana neizdevās</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Client identification changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
+        <translation>Šis konts vairs neatrodās serveros. Tas var būt migrēts, kurā gadijumā lūdzu pievienojiet jauno kontu jūs šito kontu migrējāt uz.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Account gone</source>
+        <translation>Konts pazudis</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Failed to launch.</source>
+        <translation>Neizdevās palaist.</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <location line="+72"/>
+        <source>Error!</source>
+        <translation>Kļūda!</translation>
+    </message>
+    <message>
+        <location line="-72"/>
+        <location line="+1"/>
+        <source>Couldn&apos;t load the instance profile.</source>
+        <translation>Nevarēja ielādēt instances profilu.</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Couldn&apos;t instantiate a launcher.</source>
+        <translation>Nevarēja instantiate launčeri.</translation>
+    </message>
+    <message>
+        <location line="+64"/>
+        <source>Couldn&apos;t start profiler: %1</source>
+        <translation>Neizdevās palaist profileru: %1</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
+
+%1</source>
+        <translation>Spēles palaišana ir pagarināta līdz kamēr jūs nospiežat pogu. Šis ir īstais laiks sataisīt Profileru, jo Profiler serveris tagad iet.
+
+%1</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Waiting.</source>
+        <translation>Gaida.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Launch</source>
+        <translation>Palaist</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Couldn&apos;t start the profiler: %1</source>
+        <translation>Neizdevās palaist profileru: %1</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Error</source>
+        <translation>Kļūda</translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Abort</source>
+        <translation>Pārtraukt</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Kill Minecraft?</source>
+        <translation>Apstādināt Minecraft?</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
+        <translation>Izmantojot šo jūsu instance var tikt bojāta un ir ieteicams to izmantot tikai ja Minecraft ir sasalis dēļ kāda iemesla</translation>
+    </message>
+</context>
+<context>
+    <name>LaunchTask</name>
+    <message>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="+215"/>
+        <source>PolyMC stopped watching the game log because the log length surpassed %1 lines.
+You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
+        <oldsource>PolyMC stopped watching the game log because the log length surpassed %1 lines.
+You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</oldsource>
+        <translation type="unfinished">PolyMC beidza skatīties spēļu žurnālu jo žurnāla garums pārsniedza %1 līnijas.
+Jums Iespējams vajadzētu labot jūsu modifikācijas jo spēle vēl pieslēdzās failiem un visticamāk tērē cietā diska atmiņu augstā līmenī!</translation>
+    </message>
+</context>
+<context>
+    <name>LauncherLoginStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="+16"/>
+        <source>Accessing Mojang services.</source>
+        <translation>Pievienojamies Mojang pakalpojumiem.</translation>
+    </message>
+    <message>
+        <location line="+45"/>
+        <source>Failed to get Minecraft access token: %1</source>
+        <translation>Neizdevās iegūt Minecraft piekļuves informāciju: %1</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Failed to parse the Minecraft access token response.</source>
+        <translation>Neizdevās parsēt Minecraft piekļuves informācijas atbildi.</translation>
+    </message>
+</context>
+<context>
+    <name>LauncherPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="+45"/>
+        <source>Features</source>
+        <translation>Funkcijas</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Update Settings</source>
+        <translation>Mainīt iestatījumus</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Check for updates on start?</source>
+        <translation>Pārbaudīt, vai ir atjauninājumi aplikācijai?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Up&amp;date Channel:</source>
+        <translation>At&amp;jauninājumu Kanāls:</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>No channel selected.</source>
+        <translation>Nav iezīmēts kanāls.</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Folders</source>
+        <translation>Mapes</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>I&amp;nstances:</source>
+        <translation>L&amp;ogi:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>&amp;Mods:</source>
+        <translation>&amp;Modifikācijas:</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>&amp;Icons:</source>
+        <translation>&amp;Ikonas:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Move the data to new location (will restart the launcher)</source>
+        <translation>Pārvietot datus uz citu vietu (restartēs Palaidēju)</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>User Interface</source>
+        <translation>Lietotāja interfeiss</translation>
+    </message>
+    <message>
+        <source>Launcher notifications</source>
+        <translation type="vanished">Palaidēja paziņojumi</translation>
+    </message>
+    <message>
+        <source>Reset hidden notifications</source>
+        <translation type="vanished">Slēpto paziņojumu atiestatīšana</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Instance view sorting mode</source>
+        <translation>Instanču skata kārtošanas veids</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>By &amp;last launched</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>By &amp;name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>&amp;Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Simple (Dark Icons)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <source>Simple (Light Icons)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Simple (Blue Icons)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-15"/>
+        <source>Simple (Colored Icons)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Flat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Legacy</source>
+        <translation type="unfinished">Mantojums</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Console Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show console while the game is running?</source>
+        <translation type="unfinished">Rādīt konsoli kamēr spēle iet?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Automatically close console when the game quits?</source>
+        <translation type="unfinished">Automātiski aizvērt konsoli kad spēle aizverās?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show console when the game crashes?</source>
+        <translation type="unfinished">Rādīt konsoli kad spēle nobrūk?</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>History limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Stop logging when log overflows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source> lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Console font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="+101"/>
+        <source>Instance Folder</source>
+        <translation type="unfinished">Instances Mape</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Icons Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Mods Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+278"/>
+        <source>[Something/ERROR] A spooky error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>[Test/INFO] A harmless message...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>[Something/WARN] A not so spooky warning.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LauncherPartLaunch</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="+135"/>
+        <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
+        <translation>Iesaiņojuma komanda &quot;%1&quot; nevarēja tikt atrasta.</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Could not launch minecraft!</source>
+        <extracomment>Error message displayed if instace can&apos;t start</extracomment>
+        <translation>Nevarēja palaist Minecraft!</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <location line="+12"/>
+        <source>Game crashed.</source>
+        <translation>Spēle uzkārās.</translation>
+    </message>
+</context>
+<context>
+    <name>LegacyFTB::FilterModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="+19"/>
+        <source>Sort by name</source>
+        <translation>Kārtot pēc nosaukuma</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by game version</source>
+        <translation>Kārtot pēc spēles versijas</translation>
+    </message>
+</context>
+<context>
+    <name>LegacyFTB::ListModel</name>
+    <message>
+        <location line="+61"/>
+        <source>Public Modpack</source>
+        <translation>Publisks Modpaks</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Third Party Modpack</source>
+        <translation>Trešās puses modpaka</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Private Modpack</source>
+        <translation>Privāts Modpaks</translation>
+    </message>
+</context>
+<context>
+    <name>LegacyFTB::PackFetchTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="+78"/>
+        <source>Public Packs</source>
+        <translation>Publiskas Pakas</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Third Party Packs</source>
+        <translation>Trešās puses pakas</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Failed to download some pack lists: %1</source>
+        <translation>Neizdevās lejuplādēt dažas paka sarakstes: %1</translation>
+    </message>
+</context>
+<context>
+    <name>LegacyFTB::PackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="+32"/>
+        <source>Downloading zip for %1</source>
+        <translation>Lejupielādē zip priekš %1</translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>Downloading zip for %1 (%2%)</source>
+        <translation>Lejupielādē zip priekš %1 (%2%)</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Extracting modpack</source>
+        <translation>Ekstraktē modpaku</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Failed to open modpack file %1!</source>
+        <translation>Neizdevās atvērt modpaka failus %1!</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Installing modpack</source>
+        <translation>Instalē modpaku</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Failed to move unzipped minecraft!</source>
+        <translation>Neizdevās pārvietot atpakotu Minecraft!</translation>
+    </message>
+    <message>
+        <location line="+67"/>
+        <source>No installation method found!</source>
+        <translation>Neviena instalācijas metode netika atrasta!</translation>
+    </message>
+</context>
+<context>
+    <name>LegacyFTB::Page</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="+21"/>
+        <source>Public</source>
+        <translation>Publisks</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>3rd Party</source>
+        <translation>Trešā puse</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Private</source>
+        <translation>Privāts</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Add pack</source>
+        <translation>Pievienot Paku</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Remove selected pack</source>
+        <translation>Noņemt iezīmēto paku</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Version selected:</source>
+        <translation>Versija iezīmēta:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.h" line="+53"/>
+        <source>FTB Legacy</source>
+        <translation>FTB (Vecais)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="+194"/>
+        <source>FTB private packs</source>
+        <translation>FTB privātās pakas</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Failed to download pack information for code %1.
+Should it be removed now?</source>
+        <translation>Neizdevās lejupielādēt paka informāciju priekš kodam %1.
+Vai noņemt tagad?</translation>
+    </message>
+    <message>
+        <location line="+138"/>
+        <source>Add FTB pack</source>
+        <translation>Pievienot FTBH paku</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enter pack code:</source>
+        <translation>Ievadiet pakas kodu:</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Remove pack</source>
+        <translation>Noņemt paku</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Are you sure you want to remove pack %1?</source>
+        <translation>Vai tu esi pārliecināts ka tu gribi noņemt paku %1?</translation>
+    </message>
+</context>
+<context>
+    <name>LegacyInstance</name>
+    <message>
+        <source>Legacy</source>
+        <translation type="vanished">Mantojums</translation>
+    </message>
+    <message>
+        <source>Instance from previous versions.</source>
+        <translation type="vanished">Instance no iepriekšējām versijām.</translation>
+    </message>
+</context>
+<context>
+    <name>LegacyUpgradePage</name>
+    <message>
+        <source>Upgrade the instance</source>
+        <translation type="vanished">Atjaunināt instanci</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Kļūda</translation>
+    </message>
+    <message>
+        <source>Abort</source>
+        <translation type="vanished">Pārtraukt</translation>
+    </message>
+    <message>
+        <source>%1 (Migrated)</source>
+        <translation type="vanished">%1 (Migrēts)</translation>
+    </message>
+    <message>
+        <source>Upgrade</source>
+        <translation type="vanished">Atjaunināt</translation>
+    </message>
+</context>
+<context>
+    <name>LegacyUpgradeTask</name>
+    <message>
+        <source>Copying instance %1</source>
+        <translation type="vanished">Kopē instanci %1</translation>
+    </message>
+    <message>
+        <source>Instance folder copy failed.</source>
+        <translation type="vanished">Neizdevās kopēt instances mapi.</translation>
+    </message>
+    <message>
+        <source>Could not decide Minecraft version.</source>
+        <translation type="vanished">Nevarēja izvēlēties Minecraft versiju.</translation>
+    </message>
+    <message>
+        <source>Instance folder copy has been aborted.</source>
+        <translation type="vanished">Instances mapes kopija tika apstādināta.</translation>
+    </message>
+</context>
+<context>
+    <name>LibrariesTask</name>
+    <message>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="+15"/>
+        <source>Getting the library files from Mojang...</source>
+        <translation>Ņem nepieciešamās datnes no Mojang...</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Libraries for instance %1</source>
+        <translation>Dati priekš instances %1</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Null jar is specified in the metadata, aborting.</source>
+        <translation>Null jar ir specificēts datos, process tiek beigts.</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Some artifacts marked as &apos;local&apos; are missing their files:
+%1
+
+You need to either add the files, or removed the packages that require them.
+You&apos;ll have to correct this problem manually.</source>
+        <translation>Daži artifakti marķēti kā &apos;local&apos; nav to failu:
+%1
+
+Just vajadzēs pievienot šos failus, vai noņemt pakas kurām tie ir nepieciešami.
+Jums vajadzēs šo kļūdu salabot manuāli.</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Game update failed: it was impossible to fetch the required libraries.
+Reason:
+%1</source>
+        <translation>Spēles atjauninājums nenostrādāja: Bija neiespējami iegūt nepieciešamās datnes.
+Iemesls:
+%1</translation>
+    </message>
+</context>
+<context>
+    <name>LogPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="+60"/>
+        <source>Keep updating</source>
+        <translation>Turpināt atjaunināt</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Wrap lines</source>
+        <translation>Aptīt līnijas</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Copy the whole log into the clipboard</source>
+        <translation>Kopēt logu starpliktuvē</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&amp;Copy</source>
+        <translation>&amp;Kopēt</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Upload the log to the paste service configured in preferences</source>
+        <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
+        <translation type="unfinished">Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Upload</source>
+        <translation>Augšupielādēt</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Clear the log</source>
+        <translation>Notīrīt logu</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Clear</source>
+        <translation>Notīrīt</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Search:</source>
+        <translation>Meklēt:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Find</source>
+        <translation>Meklēt</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Scroll all the way to bottom</source>
+        <translation>Skrullēt uz pašu apakšu</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Bottom</source>
+        <translation>Uz apakšu</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="+41"/>
+        <source>Minecraft Log</source>
+        <translation>Minecraft Logs</translation>
+    </message>
+</context>
+<context>
+    <name>LoggedProcess</name>
+    <message>
+        <location filename="src/launcher/LoggedProcess.cpp" line="+68"/>
+        <source>Process exited with code %1.</source>
+        <extracomment>Message displayed on instance exit</extracomment>
+        <translation>Process beidzās ar kodu %1.</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Process crashed.</source>
+        <extracomment>Message displayed on instance crashed</extracomment>
+        <translation>Process nogāja greizi.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Process crashed with exitcode %1.</source>
+        <translation>Process beidzās ar kodu %1.</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Process was killed by user.</source>
+        <extracomment>Message displayed after the instance exits due to kill request</extracomment>
+        <translation>Lietotājs beidza procesu.</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>The process failed to start.</source>
+        <translation>Process nevarēja sākties.</translation>
+    </message>
+</context>
+<context>
+    <name>LoginDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="+20"/>
+        <source>Add Account</source>
+        <translation>Pievienot kontu</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Email</source>
+        <translation>Ē-pasts</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password</source>
+        <translation>Parole</translation>
+    </message>
+</context>
+<context>
+    <name>MSALoginDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="+20"/>
+        <source>Add Microsoft Account</source>
+        <translation>Pievienot Microsoft kontu</translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Open page and copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="+87"/>
+        <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Lūdzu atveriet %1 pārlūka logā un ievadiet kodu &lt;b&gt;%2&lt;/b&gt; Lai ielogoties..&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>MSAStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="+32"/>
+        <source>Logging in with Microsoft account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Microsoft user authentication failed - client identification has changed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Got </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Microsoft user authentication ended with a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Microsoft user authentication failed - user no longer exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Microsoft user authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Microsoft user authentication completed with an unrecognized result.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MainWindow</name>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="+256"/>
+        <source>Kill</source>
+        <translation>Beigt</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Kill the running instance</source>
+        <translation>Beigt atvērto instanci</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+729"/>
+        <source>Launch</source>
+        <translation>Palaist</translation>
+    </message>
+    <message>
+        <location line="-728"/>
+        <source>Launch the selected instance.</source>
+        <translation>Palaist iezīmēto instanci.</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Main Toolbar</source>
+        <translation>Galvenā Rīkjosla</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Add Instance</source>
+        <translation>Pievienot instanci</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Add a new instance.</source>
+        <translation>Pievienot jaunu instanci.</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>View Instance Folder</source>
+        <translation>Skatīt Instances Mapi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open the instance folder in a file browser.</source>
+        <translation>Atvērt instances mapi faila pārlūkā.</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>View Central Mods Folder</source>
+        <translation>Skatīt Centrālo Modu Mapi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open the central mods folder in a file browser.</source>
+        <translation>Atvērt centrālo modu mapi faila pārlūkā.</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location line="+366"/>
+        <source>Folders</source>
+        <translation>Mapes</translation>
+    </message>
+    <message>
+        <location line="-365"/>
+        <source>Open one of the folders shared between instances.</source>
+        <translation>Atvērt vienām no mapēm savienotas ar instancēm.</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Settings</source>
+        <translation>Iestatījumi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Change settings.</source>
+        <translation>Mainīt iestatījumus.</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Report a Bug</source>
+        <translation>Paziņot par kļūdu</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open the bug tracker to report a bug with %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Matrix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open %1 Matrix space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Discord</source>
+        <translation>Discord</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Reddit</source>
+        <translation>Reddit</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open %1 subreddit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>About %1</source>
+        <translation type="unfinished">Par %1</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>View information about %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location line="+293"/>
+        <source>Help</source>
+        <translation>Palīdzība</translation>
+    </message>
+    <message>
+        <location line="-292"/>
+        <source>Get help with %1 or Minecraft.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Update</source>
+        <translation>Atjaunināt</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Check for new updates for %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Meow</source>
+        <translation>Ņau</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>It&apos;s a fluffy kitty :3</source>
+        <translation>Tas ir pūkains kaķēns :3</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Manage Accounts</source>
+        <translation>Pārvaldīt Kontus</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>News Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>More news...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open the development blog to read more news about %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Instance Toolbar</source>
+        <translation>Instances Rīkjosla</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Change Icon</source>
+        <translation>Nomainīt Ikonu</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Change the selected instance&apos;s icon.</source>
+        <translation>Pārmainīt izvēlētās instances ikonu.</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Rename</source>
+        <translation>Pārdēvēt</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Rename the selected instance.</source>
+        <translation>Nomainīt vārdu izvēlētajai instancei.</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <location line="+477"/>
+        <source>Launch Offline</source>
+        <translation>Palaist bezsaistē</translation>
+    </message>
+    <message>
+        <location line="-476"/>
+        <source>Launch the selected instance in offline mode.</source>
+        <translation>Palaist izvēlēto instanci bezsaistē.</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Edit Instance</source>
+        <translation>Rediģēt Instanci</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Change the instance settings, mods and versions.</source>
+        <translation>Mainīt instances iestatījumus, modus un versijas.</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Edit Notes</source>
+        <translation>Rediģēt piezīmes</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Edit the notes for the selected instance.</source>
+        <translation>Rediģēt pierakstus izvēlētajai instancei.</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>View Mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>View the mods of this instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>View Worlds</source>
+        <translation>Skatīt Pasaules</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>View the worlds of this instance.</source>
+        <translation>Skatīt pasaules kuras ir no šīs instances.</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Manage Screenshots</source>
+        <translation>Pārvaldīt ekrānšaviņus</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>View and upload screenshots for this instance.</source>
+        <translation>Skatīt un augšuplejuplādēt ekrānuzņēmumus šij instancei.</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Change Group</source>
+        <translation>Mainīt grupu</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Change the selected instance&apos;s group.</source>
+        <translation>Pārmainīt izvēlētās instances ikonu.</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Minecraft Folder</source>
+        <translation>Minecraft Mape</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open the selected instance&apos;s minecraft folder in a file browser.</source>
+        <translation>Atvērt izvēlētās instances minecraft mapi failu pārlūkā.</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Config Folder</source>
+        <translation>Konfigurācijas Mape</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open the instance&apos;s config folder.</source>
+        <translation>Atvērt instances konfigurācijas mapi.</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Instance Folder</source>
+        <translation>Instances Mape</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open the selected instance&apos;s root folder in a file browser.</source>
+        <translation>Atvērt izvēlētās instances &apos;root&apos; mapi failu pārlūkā.</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Export Instance</source>
+        <translation>Eksportēt Instanci</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Export the selected instance as a zip file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Delete</source>
+        <translation>Dzēst</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Delete the selected instance.</source>
+        <translation>Dzēst iezīmēto instanci.</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Copy Instance</source>
+        <translation>Kopēt Instanci</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy the selected instance.</source>
+        <translation>Kopējiet izvēlēto instanci.</translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>%1 - Version %2</source>
+        <comment>Launcher - Version X</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source> on %1</source>
+        <comment>on platform, as in operating system</comment>
+        <translation> par %1</translation>
+    </message>
+    <message>
+        <location line="+110"/>
+        <location line="+99"/>
+        <source>No instance selected</source>
+        <translation>Nav specificētas instances</translation>
+    </message>
+    <message>
+        <location line="-98"/>
+        <source>Total playtime: 0s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+92"/>
+        <location line="+290"/>
+        <source>Profiles</source>
+        <translation>Profili</translation>
+    </message>
+    <message>
+        <location line="-231"/>
+        <source>Create instance</source>
+        <translation>Izveidot Instanci</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Delete group &apos;%1&apos;</source>
+        <translation>Dzēst grupu &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location line="+61"/>
+        <source>Profilers</source>
+        <translation>Profili</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
+        <translation>Profilers nav iestatīts pareizi. Ej iestatījumos, &quot;External Tools&quot;.</translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>No accounts added!</source>
+        <translation>Neviens konts nav pievienots!</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>No Default Account</source>
+        <translation>Nav Noklusējuma Konta</translation>
+    </message>
+    <message>
+        <location line="+109"/>
+        <source>Loading news...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>No news available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+147"/>
+        <source>Warnings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+42"/>
+        <source>Abort</source>
+        <translation type="unfinished">Pārtraukt</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+139"/>
+        <source>Group name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Enter a new group name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Delete group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Are you sure you want to delete the group %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+136"/>
+        <source>CAREFUL!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>About to delete: %1
+This is permanent and will completely delete the instance.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+205"/>
+        <source>Rename Instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Total playtime: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-692"/>
+        <location line="+17"/>
+        <location line="+58"/>
+        <location line="+49"/>
+        <location line="+12"/>
+        <source>Error</source>
+        <translation>Kļūda</translation>
+    </message>
+    <message>
+        <location line="-1047"/>
+        <source>Open %1 Discord guild.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+911"/>
+        <source>Couldn&apos;t create folder for update downloads:
+%1</source>
+        <translation>Nevarēja izveidot mapi priekš atjauninājuma lejupielādes:
+%1</translation>
+    </message>
+</context>
+<context>
+    <name>MigrationEligibilityStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="+15"/>
+        <source>Checking for migration eligibility.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Got migration flags</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftInstance</name>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="+692"/>
+        <source>&lt;SESSION ID&gt;</source>
+        <translation>&lt;SESSION ID&gt;</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;ACCESS TOKEN&gt;</source>
+        <translation>&lt;ACCESS TOKEN&gt;</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;CLIENT TOKEN&gt;</source>
+        <translation>&lt;CLIENT TOKEN&gt;</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;PROFILE ID&gt;</source>
+        <translation>&lt;PROFILE ID&gt;</translation>
+    </message>
+    <message>
+        <location line="+72"/>
+        <source>broken</source>
+        <translation>bojāts</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Minecraft %1 (%2)</source>
+        <translation>Minecraft %1 (%2)</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>, last played for %1</source>
+        <translation>, pēdējo reizi spēlēts %1</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>, total played for %1</source>
+        <translation>, kopā spēlēts %1</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>, has crashed.</source>
+        <translation>, ir uzkāries.</translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="+48"/>
+        <source>Window Size</source>
+        <translation>Loga Izmērs</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Start Minecraft maximized?</source>
+        <translation>Atvērt Minecraft maksimizētu?</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Window hei&amp;ght:</source>
+        <translation>Loga garums:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>W&amp;indow width:</source>
+        <translation>Loga platums:</translation>
+    </message>
+    <message>
+        <location line="+44"/>
+        <source>Native library workarounds</source>
+        <translation>Vietējās bibliotēkas risinājumi</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Use system installation of GLFW</source>
+        <translation>Izmantot sistēmas GLFW instalāciju</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Use system installation of OpenAL</source>
+        <translation>Izmantot sistēmas OpenAL instalāciju</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Game time</source>
+        <translation>Spēles laiks</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show time spent playing instances</source>
+        <translation>Rādīt laiku spēlējot instances</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show time spent playing across all instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Record time spent playing instances</source>
+        <translation>Ierakstīt laiku spēlējot instances</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Miscellaneous</source>
+        <translation type="unfinished">Citi</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Close PolyMC after game window opens</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="+42"/>
+        <source>Minecraft</source>
+        <translation>Minecraft</translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftProfileStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="+15"/>
+        <source>Fetching the Minecraft profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Account has no Minecraft profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Minecraft Java profile acquisition failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Minecraft Java profile response could not be parsed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Minecraft Java profile acquisition succeeded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftUpdate</name>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="+87"/>
+        <source>Aborted by user.</source>
+        <translation>Lietotājs beidza procesu.</translation>
+    </message>
+</context>
+<context>
+    <name>ModDownloadDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="+65"/>
+        <source>Download mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Confirm mods to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ModDownloadTask</name>
+    <message>
+        <location filename="src/launcher/ModDownloadTask.cpp" line="+9"/>
+        <source>Downloading mod:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ModFolderModel</name>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="+368"/>
+        <source>Folder</source>
+        <translation>Mape</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>File</source>
+        <translation>Fails</translation>
+    </message>
+    <message>
+        <location line="+94"/>
+        <source>Name</source>
+        <translation>Vārds</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Version</source>
+        <translation>Versija</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Last changed</source>
+        <translation>Pēdējoreiz mainīts</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Is the mod enabled?</source>
+        <translation>Vai mods ir iespējots?</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The name of the mod.</source>
+        <translation>Moda vārds.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The version of the mod.</source>
+        <translation>Moda versija.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The date and time this mod was last changed (or added).</source>
+        <translation>Datums un Laiks kad šī modifikācija tika pēdējo reizi rediģēta(vai pievienota).</translation>
+    </message>
+</context>
+<context>
+    <name>ModFolderPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="+39"/>
+        <source>Filter:</source>
+        <translation>Filtrs:</translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Actions</source>
+        <translation>Darbības</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>&amp;Add</source>
+        <translation>Pievienot</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add</source>
+        <oldsource>Add mods</oldsource>
+        <translation type="unfinished">Pievienot modus</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&amp;Remove</source>
+        <translation>Noņemt</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Remove selected mods</source>
+        <translation>Noņemt iezīmētos modus</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&amp;Enable</source>
+        <translation>Iespējot</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Enable selected mods</source>
+        <translation>Noņemt iezīmētos modus</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&amp;Disable</source>
+        <translation>Atspējot</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Disable selected mods</source>
+        <translation>Atspējot izvēlētās modifikācijas</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>View &amp;Configs</source>
+        <translation>&amp;Konfigurācija</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Open the &apos;config&apos; folder in the system file manager.</source>
+        <translation>Atvērt &apos;config&apos; folderi sistēmas failu pārlūkā.</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>View &amp;Folder</source>
+        <translation>Skatīt Mapi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="+150"/>
+        <source>Download mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Download mods from online mod platforms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Add .jar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Add mods via local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Context menu</source>
+        <translation>Konteksta izvēlne</translation>
+    </message>
+    <message>
+        <location line="+113"/>
+        <source>Select %1</source>
+        <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
+        <translation>Izvēlēties %1</translation>
+    </message>
+    <message>
+        <location line="+52"/>
+        <location line="+8"/>
+        <source>Error</source>
+        <translation type="unfinished">Kļūda</translation>
+    </message>
+    <message>
+        <location line="-8"/>
+        <source>Please install a mod loader first!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Warnings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Abort</source>
+        <translation type="unfinished">Pārtraukt</translation>
+    </message>
+</context>
+<context>
+    <name>ModMinecraftJar</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="+36"/>
+        <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
+        <translation>Nevarēja izveidot bin mapi priekš Minecraft.jar</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Couldn&apos;t remove stale jar file: %1</source>
+        <translation>Nevarēja noņemt novecojušu jar failu: %1</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Failed to create the custom Minecraft jar file.</source>
+        <translation>Nevarēja izveidot personalizēto Minecraft jar failu.</translation>
+    </message>
+</context>
+<context>
+    <name>ModpacksCH::PackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="+62"/>
+        <source>Failed to find pack version %1</source>
+        <translation>Nevarēja atrast pakas versiju %1</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Could not understand pack manifest:
+</source>
+        <translation>Nevarēja saprast paka manifestu:
+</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Downloading mods...</source>
+        <translation>Lejuplādē Modifikācijas...</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Mod download</source>
+        <translation>Modifikāciju lejuplāde</translation>
+    </message>
+    <message>
+        <location line="+51"/>
+        <source>Copying modpack files</source>
+        <translation>Kopē modpaku failus</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Failed to copy files</source>
+        <translation>Failu kopēšana neizdevās</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Installing modpack</source>
+        <translation>Instalē modpaku</translation>
+    </message>
+</context>
+<context>
+    <name>Modrinth::ListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="+257"/>
+        <source>Error</source>
+        <translation type="unfinished">Kļūda</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Modrinth API version too old!
+Please update PolyMC!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ModrinthPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="+47"/>
+        <source>Search</source>
+        <translation type="unfinished">Meklēt</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Search and filter ...</source>
+        <translation type="unfinished">Meklēt un filtrēt...</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Version selected:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="+179"/>
+        <source>Select mod for download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="-149"/>
+        <source>Sort by Relevence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by Downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by Follows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by last updated</source>
+        <translation type="unfinished">Kārtot pēc atjauninātajiem</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sort by newest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+53"/>
+        <source> by </source>
+        <translation type="unfinished"> no </translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Loading versions...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+48"/>
+        <location line="+20"/>
+        <source>No Valid Version found !</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-16"/>
+        <source>Cannot select invalid version :(</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Deselect mod for download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="+30"/>
+        <source>Modrinth</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>NetJob</name>
+    <message>
+        <location filename="src/launcher/net/NetJob.cpp" line="+128"/>
+        <source>Job &apos;%1&apos; failed to process:
+%2</source>
+        <translation>Darbs &apos;%1&apos; nevarēja beight procesu: %2</translation>
+    </message>
+</context>
+<context>
+    <name>NewComponentDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="+17"/>
+        <source>Add Empty Component</source>
+        <translation>Pievienot Tukšu Daļu</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Name</source>
+        <translation>Vārds</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>uid</source>
+        <translation>uid</translation>
+    </message>
+</context>
+<context>
+    <name>NewInstanceDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="+17"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="+143"/>
+        <source>New Instance</source>
+        <translation>Jauna Instance</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>&amp;Group:</source>
+        <translation>&amp;Grupa:</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>&amp;Name:</source>
+        <translation>&amp;Vārds:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="-74"/>
+        <source>No group</source>
+        <translation>Bez grupas</translation>
+    </message>
+</context>
+<context>
+    <name>NewsChecker</name>
+    <message>
+        <location filename="src/launcher/news/NewsChecker.cpp" line="+98"/>
+        <source>Failed to load news RSS feed:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>NewsEntry</name>
+    <message>
+        <location filename="src/launcher/news/NewsEntry.cpp" line="+24"/>
+        <location line="+32"/>
+        <source>Untitled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-31"/>
+        <location line="+32"/>
+        <source>No content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>NotesPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="+38"/>
+        <source>Notes</source>
+        <translation>Piezīmes</translation>
+    </message>
+</context>
+<context>
+    <name>NotificationDialog</name>
+    <message>
+        <source>Notification</source>
+        <translation type="vanished">Paziņojums</translation>
+    </message>
+    <message>
+        <source>Don&apos;t show again</source>
+        <translation type="vanished">Vairs nerādīt</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="vanished">Aizvērt</translation>
+    </message>
+</context>
+<context>
+    <name>NullInstance</name>
+    <message>
+        <location filename="src/launcher/NullInstance.h" line="+20"/>
+        <source>Unknown instance type</source>
+        <translation>Nezināms instances veids</translation>
+    </message>
+</context>
+<context>
+    <name>OfflineLoginDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="+20"/>
+        <source>Add Account</source>
+        <translation type="unfinished">Pievienot kontu</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OfflineStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="+9"/>
+        <source>Creating offline account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Created offline account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OtherLogsPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="+42"/>
+        <source>Find</source>
+        <translation>Meklēt</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Copy the whole log into the clipboard</source>
+        <translation>Copēt logu starpliktuvē</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&amp;Copy</source>
+        <translation>&amp;Kopēt</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location line="+20"/>
+        <source>Clear the log</source>
+        <translation>Notīrīt logu</translation>
+    </message>
+    <message>
+        <location line="-17"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="+197"/>
+        <source>Delete</source>
+        <translation>Dzēst</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Upload the log to the paste service configured in preferences.</source>
+        <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
+        <translation type="unfinished">Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Upload</source>
+        <translation>Augšupielādēt</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Clean</source>
+        <translation>Iztīrīt</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Reload</source>
+        <translation>Pārlādēt</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Search:</source>
+        <translation>Meklēt:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="-71"/>
+        <location line="+80"/>
+        <location line="+47"/>
+        <source>Error</source>
+        <translation>Kļūda</translation>
+    </message>
+    <message>
+        <location line="-127"/>
+        <source>Unable to open %1 for reading: %2</source>
+        <translation>Nevarēja atvērt %1 lai nolasītu: %2</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
+        <translation>Fails (%1) ir pārāk liels. Jums ir nepieciešams to atvērt lasītājā kas ir optimizēts priekš lieliem failiem.</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>The file (%1) is not readable.</source>
+        <translation>Fails (%1) nav nolasāms.</translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Do you really want to delete %1?</source>
+        <translation>Vai tiešām vēlaties izdzēst %1?</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Unable to delete %1: %2</source>
+        <translation>Nevarēja dzēst %1: %2</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Clean up</source>
+        <translation>Satīrīt</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Do you really want to delete all log files?</source>
+        <translation>Vai jūs tiešām gribat izdzēst visus logu failus?</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Do you really want to delete these files?
+%1</source>
+        <translation>Vai tiešām vēlaties dzēst šos failus? %1</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Couldn&apos;t delete some files!</source>
+        <translation>Neizdevās izdzēst dažus failus!</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Couldn&apos;t delete some files:
+%1</source>
+        <translation>Neizdevās izdzēst dažus failus: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="+45"/>
+        <source>Other logs</source>
+        <translation>Citi logi</translation>
+    </message>
+</context>
+<context>
+    <name>PackProfile</name>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="+608"/>
+        <source>Name</source>
+        <translation>Vārds</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Version</source>
+        <translation>Versija</translation>
+    </message>
+</context>
+<context>
+    <name>PastePage</name>
+    <message>
+        <source>Log Upload</source>
+        <translation type="obsolete">Logu Augšupielādēšana</translation>
+    </message>
+</context>
+<context>
+    <name>PasteUpload</name>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="+37"/>
+        <source>Uploading to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Network error: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Error: %1 returned unexpected status code %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PostLaunchCommand</name>
+    <message>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="+31"/>
+        <source>Running Post-Launch command: %1</source>
+        <translation>Tiek veikta pēc-startēšanas komanda: %1</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Post-Launch command failed with code %1.
+
+</source>
+        <translation>Pēc-startēšanas komandu neizdevās pabeigt ar kodu %1.
+
+</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Post-Launch command ran successfully.
+
+</source>
+        <translation>Pēc-startēšanas komanda veiksmīgi veikta.
+
+</translation>
+    </message>
+</context>
+<context>
+    <name>PreLaunchCommand</name>
+    <message>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="+32"/>
+        <source>Running Pre-Launch command: %1</source>
+        <translation>Tiek veikta pirms-startēšanas komanda: %1</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Pre-Launch command failed with code %1.
+
+</source>
+        <translation>Pirms-startēšanas komandu neizdevās pabeigt ar kodu %1.
+
+</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Pre-Launch command ran successfully.
+
+</source>
+        <translation>Pirms-startēšanas komanda veiksmīgi veikta.
+
+</translation>
+    </message>
+</context>
+<context>
+    <name>ProfileSelectDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="+14"/>
+        <source>Select an Account</source>
+        <translation>Izvēlieties Kontu</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Select a profile.</source>
+        <translation>Izvēlieties profilu.</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Use as default?</source>
+        <translation>Izmantot kā noklusējumu?</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Use as default for this instance only?</source>
+        <translation>Izmantot kā noklusējumu tikai šavai instancei?</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="+41"/>
+        <location line="+4"/>
+        <source>Name</source>
+        <translation>Vārds</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>%1 (in use)</source>
+        <translation>%1 (Tiek izmantots)</translation>
+    </message>
+</context>
+<context>
+    <name>ProfileSetupDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="+14"/>
+        <source>Choose Minecraft name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>You just need to take one more step to be able to play Minecraft on this account.
+
+Choose your name carefully:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="+104"/>
+        <source>Name is too short - must be between 3 and 16 characters long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+60"/>
+        <source>Minecraft profile with name %1 already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>The name %1 is not allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Unhandled profile name status: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Failed to check name availability.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+77"/>
+        <source>The server returned the following error:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ProgressDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="+26"/>
+        <source>Please wait...</source>
+        <translation>Lūdzu uzgaidiet...</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Task Status...</source>
+        <translation>Uzdevuma Statuss...</translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Skip</source>
+        <translation>Izlaist</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="+42"/>
+        <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Type</source>
+        <translation>Veids</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Uses your system&apos;s default proxy settings.</source>
+        <translation>Lieto jūsu sistēmas noklusējuma starpniekservera iestatījumi.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&amp;Default</source>
+        <translation>Noklusējums</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>&amp;None</source>
+        <translation>&amp;Nekas</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>SOC&amp;KS5</source>
+        <translation>SOC&amp;KS5</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>H&amp;TTP</source>
+        <translation>H&amp;TTP</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Address and Port</source>
+        <translation>Adrese un Ports</translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>Authentication</source>
+        <translation>Autentifikācija</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Username:</source>
+        <translation>Lietotājvārds:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Password:</source>
+        <translation>Parole:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="+39"/>
+        <source>Proxy</source>
+        <translation>Starpniekserveris</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="+10"/>
+        <source>Dark</source>
+        <translation>Tumšs</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="+47"/>
+        <source>System</source>
+        <translation>Sistēma</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="+10"/>
+        <source>Bright</source>
+        <translation>Gaišs</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="+122"/>
+        <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>&lt;p&gt;Following commits were added since last update:&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&lt;p&gt;The update removes %1 commits and adds the following %2:&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&lt;p&gt;You can &lt;a href=&quot;%1&quot;&gt;look at the changes on github&lt;/a&gt;.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="-70"/>
+        <source>PolyMC Developers</source>
+        <oldsource>Developers</oldsource>
+        <comment>About Credits</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>MultiMC Developers</source>
+        <comment>About Credits</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>With thanks to</source>
+        <comment>About Credits</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="-1173"/>
+        <source>%1 (in use)</source>
+        <translation type="unfinished">%1 (Tiek izmantots)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="+27"/>
+        <source>Upload failed</source>
+        <translation>Augšupielāde neizdevās</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Upload finished</source>
+        <translation type="unfinished">Augšupielāde pabeigta</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="-146"/>
+        <source>The specified file either doesn&apos;t exist or is not a proper executable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>The specified java binary didn&apos;t start properly.&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>The specified java binary returned unexpected results:&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="+35"/>
+        <source>Java test success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="+10"/>
+        <location line="+9"/>
+        <source>Java test failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="+31"/>
+        <source>Minecraft Server</source>
+        <translation>Minecraft servers</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/Component.cpp" line="+249"/>
+        <source>Patch is not loaded yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="+154"/>
+        <source>processArguments is set to unknown value &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+120"/>
+        <source>Library %1 name is broken and cannot be processed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="-419"/>
+        <source>Invalid component file version, expected %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="+162"/>
+        <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Version file contains unsupported element &apos;tweakers&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Version file contains unsupported element &apos;-libraries&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="+323"/>
+        <source>Assets for %1</source>
+        <translation>Faili priekš %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="+51"/>
+        <source>Invalid order file version, expected %1</source>
+        <translation>Nederīga pieprasītā faila versija, gaidīja %1</translation>
+    </message>
+    <message>
+        <location line="+45"/>
+        <location line="+53"/>
+        <source>Unable to open the version file %1: %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-32"/>
+        <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>Unable to process the version file %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="+428"/>
+        <source>No profile (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/UpdateController.cpp" line="+366"/>
+        <source>Update failed!</source>
+        <translation>Atjaunināšana neizdevās!</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Rollback failed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Couldn&apos;t replace file %1. Changes will be reverted.
+See the %2 log file for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Couldn&apos;t remove file %1. Changes will be reverted.
+See the %2 log file for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
+
+Roll back to previous version?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>The rollback failed too.
+You will have to repair %1 manually.
+Please let us know why and how this happened.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="+31"/>
+        <source>%1m %2s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1h %2m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1d %2h %3m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/JavaCommon.cpp" line="-44"/>
+        <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
+This message will be displayed until you remove them from the JVM arguments.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>JVM arguments warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="+120"/>
+        <source>Download of meta file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/meta/JsonFormat.cpp" line="+140"/>
+        <location line="+13"/>
+        <location line="+13"/>
+        <source>Unknown format version!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="+53"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="+58"/>
+        <source>Empty path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Invalid path to JVisualVM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="+6"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="+37"/>
+        <source>Path does not exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Invalid JProfiler install</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="-6"/>
+        <source>Path is empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Path does not seem to be a MCEdit path</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ResourcePackFolderModel</name>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="+10"/>
+        <source>Is the resource pack enabled?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The name of the resource pack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The version of the resource pack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The date and time this resource pack was last changed (or added).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ResourcePackPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="+12"/>
+        <source>Resource packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ReviewMessageBox</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="+14"/>
+        <source>Confirm mod selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>You&apos;re about to download the following mods:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="+26"/>
+        <source>Filename: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ScreenshotsPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="+41"/>
+        <source>Actions</source>
+        <translation>Darbības</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Upload</source>
+        <translation>Augšupielādēt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Delete</source>
+        <translation>Dzēst</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Rename</source>
+        <translation>Pārdēvēt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>View Folder</source>
+        <translation>Skatīt Mapi</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location line="+3"/>
+        <source>Copy Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <location line="+3"/>
+        <source>Copy File(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="+52"/>
+        <source>Screenshots</source>
+        <translation>Ekrānuzņēmumi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="+280"/>
+        <source>Context menu</source>
+        <translation>Konteksta izvēlne</translation>
+    </message>
+    <message>
+        <location line="+51"/>
+        <location line="+40"/>
+        <source>Failed to upload screenshots!</source>
+        <translation>Neizdevās augšupielādēt ekrānuzņēmumus!</translation>
+    </message>
+    <message>
+        <location line="-39"/>
+        <location line="+40"/>
+        <source>Unknown error</source>
+        <translation>Nezināma kļūda</translation>
+    </message>
+    <message>
+        <location line="-31"/>
+        <location line="+42"/>
+        <source>Upload finished</source>
+        <translation>Augšupielāde pabeigta</translation>
+    </message>
+    <message>
+        <location line="-41"/>
+        <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <source>Are you sure?</source>
+        <translation>Vai esat pārliecināts?</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>This will delete all selected screenshots.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ServersModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="+258"/>
+        <source>Name</source>
+        <translation>Vārds</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Address</source>
+        <translation>Adrese</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Latency</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ServersPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="+72"/>
+        <source>&amp;Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Address</source>
+        <translation>Adrese</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Reso&amp;urces</source>
+        <translation>Res&amp;ursi</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Ask to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Always download</source>
+        <translation>Vienmēr lejupielādēt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Never download</source>
+        <translation>Nekad lejupielādēt</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Actions</source>
+        <translation>Darbības</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Add</source>
+        <translation>Pievienot</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Remove</source>
+        <translation>Noņemt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Move Up</source>
+        <translation>Pārvietot augšup</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Move Down</source>
+        <translation>Pārvietot uz leju</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Join</source>
+        <translation>Pievienoties</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="+46"/>
+        <source>Servers</source>
+        <translation>Serveri</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="+312"/>
+        <source>Context menu</source>
+        <translation>Konteksta izvēlne</translation>
+    </message>
+</context>
+<context>
+    <name>SetupWizard</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="+28"/>
+        <source>&amp;Next &gt;</source>
+        <translation>&amp;Nākošais &gt;</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&lt; &amp;Back</source>
+        <translation>&lt; Atpakaļ</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Finish</source>
+        <translation>Beigt</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Refresh</source>
+        <translation>Pārlādēt</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>%1 Quick Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ShaderPackPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="+12"/>
+        <source>Shader packs</source>
+        <translation>Shader pakas</translation>
+    </message>
+</context>
+<context>
+    <name>SkinDelete</name>
+    <message>
+        <location filename="src/launcher/minecraft/services/SkinDelete.cpp" line="+20"/>
+        <source>Deleting skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SkinUpload</name>
+    <message>
+        <location filename="src/launcher/minecraft/services/SkinUpload.cpp" line="+45"/>
+        <source>Uploading skin</source>
+        <translation>Augšupielādē skinu</translation>
+    </message>
+</context>
+<context>
+    <name>SkinUploadDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="+14"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="+43"/>
+        <location line="+12"/>
+        <location line="+16"/>
+        <location line="+22"/>
+        <location line="+4"/>
+        <source>Skin Upload</source>
+        <translation>Skina Augšupielādēšana</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Skin File</source>
+        <translation>Skina fails</translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>Player Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Steve Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Alex Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Cape</source>
+        <translation>Apmetnis</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="-53"/>
+        <source>Using remote URLs for setting skins is not implemented yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>You cannot use an invalid URL for uploading skins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Skin file does not exist!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Failed to upload skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Select Skin Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>No Cape</source>
+        <translation>Bez Apmetņa</translation>
+    </message>
+</context>
+<context>
+    <name>Technic::SingleZipPackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="+42"/>
+        <source>Downloading modpack:
+%1</source>
+        <translation type="unfinished">Lejuplādē modpaku:
+%1</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Modpack download</source>
+        <translation type="unfinished">Modpaka lejuplāde</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Extracting modpack</source>
+        <translation type="unfinished">Ekstraktē modpaku</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Unable to open supplied modpack zip file.</source>
+        <translation type="unfinished">Nevar atvērt piegādātā modpaka zip failu.</translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Failed to extract modpack</source>
+        <translation type="unfinished">Nesanāca ekstraktēt modpaku</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Could not fix permissions for %1</source>
+        <translation type="unfinished">Nevarēja izlabot atļaujas priekš %1</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Instance import has been aborted.</source>
+        <translation type="unfinished">Instances imports tika apstādināts.</translation>
+    </message>
+</context>
+<context>
+    <name>Technic::SolderPackInstallTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="+44"/>
+        <source>Finding recommended version:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Finding recommended version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Resolving modpack files:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Resolving modpack files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Downloading modpack:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Downloading modpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Extracting modpack</source>
+        <translation type="unfinished">Ekstraktē modpaku</translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>Failed to extract modpack</source>
+        <translation type="unfinished">Nesanāca ekstraktēt modpaku</translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Could not fix permissions for %1</source>
+        <translation type="unfinished">Nevarēja izlabot atļaujas priekš %1</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Instance import has been aborted.</source>
+        <translation type="unfinished">Instances imports tika apstādināts.</translation>
+    </message>
+</context>
+<context>
+    <name>Technic::TechnicPackProcessor</name>
+    <message>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="+56"/>
+        <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Unable to open &quot;fmlversion.properties&quot;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <location line="+55"/>
+        <source>Unable to open &quot;version.json&quot;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-46"/>
+        <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Unable to open &quot;forgeversion.properties&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Invalid &quot;forgeversion.properties&quot;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Unable to find a &quot;version.json&quot;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Could not understand &quot;version.json&quot;:
+inheritsFrom is missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>Could not understand &quot;version.json&quot;:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TechnicPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="+32"/>
+        <source>Search and filter ...</source>
+        <translation>Meklēt un filtrēt...</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Search</source>
+        <translation type="unfinished">Meklēt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="+187"/>
+        <source> by </source>
+        <translation type="unfinished"> no </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.h" line="+45"/>
+        <source>Technic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TexturePackFolderModel</name>
+    <message>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="+10"/>
+        <source>Is the texture pack enabled?</source>
+        <translation>Vai tekstūras paka ir iespējota?</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The name of the texture pack.</source>
+        <translation>Tekstūras pakas nosaukums.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The version of the texture pack.</source>
+        <translation>Tekstūras pakas versija.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The date and time this texture pack was last changed (or added).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TexturePackPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="+12"/>
+        <source>Texture packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TranslationsModel</name>
+    <message>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="+407"/>
+        <source>%1:
+%2 translated
+%3 fuzzy
+%4 total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Language</source>
+        <translation type="unfinished">Valoda</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Completeness</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>The native language name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Update</name>
+    <message>
+        <location filename="src/launcher/launch/steps/Update.cpp" line="+23"/>
+        <source>Task aborted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Instance update failed because: %1
+
+</source>
+        <translation>Instances atjauninājums neizdevās jo: %1
+
+</translation>
+    </message>
+</context>
+<context>
+    <name>UpdateDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="+14"/>
+        <source>PolyMC Update</source>
+        <oldsource>PolyMC Update</oldsource>
+        <translation type="unfinished">PolyMC Atjauninājums</translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>Update now</source>
+        <translation>Atjaunināt tagad</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Don&apos;t update yet</source>
+        <translation>Neatjaunināt tagad</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="-119"/>
+        <source>A new %1 update is available!</source>
+        <translation>Jauns %1 atjauninājums ir pieejams!</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>No %1 updates found. You are running the latest version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Close</source>
+        <translation>Aizvērt</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;center&gt;&lt;h1&gt;Loading changelog...&lt;/h1&gt;&lt;/center&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+140"/>
+        <source>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Failed to fetch changelog... Error: %1&lt;/span&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VanillaPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="+41"/>
+        <source>Filter</source>
+        <translation>Filtri</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Releases</source>
+        <translation>Relīzes</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Snapshots</source>
+        <translation>Snapšoti</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Old Snapshots</source>
+        <translation>Vecie snapšoti</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Betas</source>
+        <translation>Beta versijas</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Alphas</source>
+        <translation>Alfa versijas</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Experiments</source>
+        <translation>Eksperimentālās</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Refresh</source>
+        <translation>Pārlādēt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="+40"/>
+        <source>Vanilla</source>
+        <translation>Bez modiem</translation>
+    </message>
+</context>
+<context>
+    <name>VerifyJavaInstall</name>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="+26"/>
+        <source>Minecraft 1.18 Pre Release 2 and above require the use of Java 17</source>
+        <translation>Minecraft 1.18 Pre Release 2 un jaunākām nepieciešama Java 17</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Minecraft 21w19a and above require the use of Java 16</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Minecraft 17w13a and above require the use of Java 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VersionListView</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="+26"/>
+        <source>No versions are currently available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VersionPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="+60"/>
+        <source>Filter:</source>
+        <translation>Filtrs:</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Actions</source>
+        <translation>Darbības</translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>Change version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Change version of the selected package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Move up</source>
+        <translation>Pārvietot augšup</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Make the selected package apply sooner.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Move down</source>
+        <translation>Pārvietot uz leju</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Make the selected package apply later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Remove</source>
+        <translation>Noņemt</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Remove selected package from the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Customize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Customize selected package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Edit</source>
+        <translation>Rediģēt</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Edit selected package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Revert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Revert the selected package to default.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Install Forge</source>
+        <translation>Instalēt Forge</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Install the Minecraft Forge package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Install Fabric</source>
+        <translation>Instalēt Fabric</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Install the Fabric Loader package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Install LiteLoader</source>
+        <translation>Instalēt LiteLoader</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Install the LiteLoader package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Install mods</source>
+        <translation>Instalēt modus</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Install normal mods.</source>
+        <translation>Instalēt normālos modus.</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Add to Minecraft.jar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add a mod into the Minecraft jar file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Replace Minecraft.jar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Add Empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add an empty custom package.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Reload</source>
+        <translation type="unfinished">Pārlādēt</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Reload all packages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Download All</source>
+        <translation>Lejupielādēt Visu</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Download the files needed to launch the instance now.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Open .minecraft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Open the instance&apos;s .minecraft folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Open libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Open the instance&apos;s local libraries folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="+155"/>
+        <source>Context menu</source>
+        <translation>Konteksta izvēlne</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>%1 possibly has issues.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>%1 has issues!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Error: </source>
+        <translation>Kļūda: </translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Warning: </source>
+        <translation>Brīdinājums: </translation>
+    </message>
+    <message>
+        <location line="+59"/>
+        <location line="+6"/>
+        <location line="+19"/>
+        <location line="+44"/>
+        <location line="+13"/>
+        <location line="+62"/>
+        <source>Error</source>
+        <translation>Kļūda</translation>
+    </message>
+    <message>
+        <location line="-137"/>
+        <source>Couldn&apos;t load the instance profile.</source>
+        <translation type="unfinished">Nevarēja ielādēt instances profilu.</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Couldn&apos;t remove file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Select jar mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Minecraft.jar mods (*.zip *.jar)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Select jar</source>
+        <translation>Izvēlēties jar</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Minecraft.jar replacement (*.jar)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+60"/>
+        <source>Change %1 version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>No intermediary mappings versions are currently available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</source>
+        <oldsource>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Select Forge version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>No Forge versions are currently available for Minecraft </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Couldn&apos;t load or download the Forge version lists!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Select Fabric Loader version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>No Fabric Loader versions are currently available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>Select LiteLoader version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>No LiteLoader versions are currently available for Minecraft </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+56"/>
+        <source>Error updating instance</source>
+        <translation>Kļūda atjauninot instanci</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="+38"/>
+        <source>Version</source>
+        <translation>Versija</translation>
+    </message>
+</context>
+<context>
+    <name>VersionProxyModel</name>
+    <message>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="+76"/>
+        <source>Version</source>
+        <translation>Versija</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Minecraft</source>
+        <translation>Minecraft</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Branch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Type</source>
+        <translation>Tips</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Architecture</source>
+        <translation>Arhitektūra</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Released</source>
+        <translation>Izlaista</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>The name of the version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Minecraft version</source>
+        <translation>Minecraft versija</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The version&apos;s branch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>The version&apos;s type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>CPU Architecture</source>
+        <translation>CPU arhitektūra</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Filesystem path to this version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Release date of this version</source>
+        <translation>Šīs versijas izlaišanas datums</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>%1 (installed)</source>
+        <translation>%1 (instalēts)</translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>Recommended</source>
+        <translation>Rekomendēts</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location line="+5"/>
+        <source>Latest</source>
+        <translation>Jaunākais</translation>
+    </message>
+</context>
+<context>
+    <name>VersionSelectDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="+81"/>
+        <source>Choose Version</source>
+        <translation>Izvēlēties Versiju</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Reloads the version list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Refresh</source>
+        <translation>Pārlādēt</translation>
+    </message>
+</context>
+<context>
+    <name>VersionSelectWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="+128"/>
+        <source>Error</source>
+        <translation>Kļūda</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>List update failed:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WorldList</name>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="+227"/>
+        <source>Name</source>
+        <translation>Vārds</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Game Mode</source>
+        <translation>Spēles Režīms</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Last Played</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>The name of the world.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Game mode of the world.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Date and time the world was last played.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WorldListPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="+65"/>
+        <source>Actions</source>
+        <translation>Darbības</translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>Add</source>
+        <translation>Pievienot</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Rename</source>
+        <translation>Pārdēvēt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Copy</source>
+        <translation>Kopēt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Remove</source>
+        <translation>Noņemt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>MCEdit</source>
+        <translation>MCEdit</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Copy Seed</source>
+        <translation>Kopēt Sēklu</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Refresh</source>
+        <translation>Pārlādēt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>View Folder</source>
+        <translation>Skatīt Mapi</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Reset Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Remove world icon to make the game re-generate it on next load.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Datapacks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Manage datapacks inside the world.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="+45"/>
+        <source>Worlds</source>
+        <translation>Pasaules</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="+108"/>
+        <source>Context menu</source>
+        <translation>Konteksta izvēlne</translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Are you sure?</source>
+        <translation>Vai esat pārliecināts?</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This will remove the selected world permenantly.
+The world will be gone forever (A LONG TIME).
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+111"/>
+        <source>No MCEdit found or set up!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You do not have MCEdit set up or it was moved.
+You can set it up in the global settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>MCEdit failed to start!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>MCEdit failed to start.
+It may be necessary to reinstall it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+49"/>
+        <source>Select a Minecraft world zip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Minecraft World Zip File (*.zip)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Copy World</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Changing a world while Minecraft is running is potentially unsafe.
+Do you wish to proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <location line="+23"/>
+        <source>World name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-23"/>
+        <source>Enter a new name for the copy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Enter a new world name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XboxAuthorizationStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="+21"/>
+        <source>Getting authorization to access %1 services.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>Failed to get authorization for %1 services. Error %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Could not parse authorization response for access to %1 services.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Got authorization to access %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Cannot parse %1 authorization error response as JSON: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>XErr element is missing from %1 authorization error response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>This Microsoft account is underaged and is not linked to a family.
+
+Please set up your account according to %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>XSTS authentication ended with unrecognized error(s):
+
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XboxProfileStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="+17"/>
+        <source>Fetching Xbox profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <source>Failed to retrieve the Xbox profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Got Xbox profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XboxUserStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="+15"/>
+        <source>Logging in as an Xbox user.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>XBox user authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>XBox user authentication response could not be understood.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Got Xbox user token</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Yggdrasil</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="+188"/>
+        <source>Authentication server didn&apos;t send a client token.</source>
+        <translation>Autentifikācijas serveris nenosūtīja klienta tokenu.</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
+        <translation>Autentifikācijas serveris mēģināja mainīt klienta tokenu. Šis netiek atbalstīts.</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Authentication server didn&apos;t send an access token.</source>
+        <translation>Autentifikācijas serveris nenosūtīja piekļūves tokenu.</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Authentication operation timed out.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Authentication operation cancelled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Authentication operation failed due to a network error: %1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>An unknown Yggdrasil error occurred.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>YggdrasilStep</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="+17"/>
+        <source>Logging in with Mojang account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Logged in with Mojang</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Mojang user authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Mojang user authentication ended with a network error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+</TS>
