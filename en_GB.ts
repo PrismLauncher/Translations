@@ -4144,7 +4144,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Upload the log to paste.ee - it will stay online for a month</translation>
+        <translation type="unfinished">Upload the log to paste.ee - it will stay online for a month.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
