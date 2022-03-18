@@ -503,7 +503,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="45"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Non se puido conectar conectar co servidor de identificación.</translation>
+        <translation type="unfinished">Non se puido conectar conectar co servidor de identificación.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="47"/>
@@ -4139,7 +4139,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Subir os rexistros a paste.ee - manteranse durante un mes</translation>
+        <translation type="unfinished">Subir os rexistros a paste.ee - manteranse durante un mes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
