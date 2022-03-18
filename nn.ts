@@ -1829,7 +1829,7 @@ Prøv igjen.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="40"/>
         <source>Console window for </source>
-        <translation>᠎</translation>
+        <translation type="unfinished">᠎ </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="64"/>
@@ -2808,7 +2808,7 @@ Grunn:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Last opp loggen til paste.ee. Den vil verta tilgjengeleg i ein månad.</translation>
+        <translation type="unfinished">Last opp loggen til paste.ee. Den vil verta tilgjengeleg i ein månad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -6138,7 +6138,8 @@ Legg til Minecraft- eller Mojang-kontoen din.</translation>
 The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
-        <translation>Dette vil sletta den valde verda for alltid (EI VELDEG LANG TID).
+        <translation type="unfinished">Dette vil sletta den valde verda for alltid (EI VELDEG LANG TID).
+Dette vil sletta den valde verda for alltid (EI VELDEG LANG TID).
 
 Vil du fortsetta?</translation>
     </message>
