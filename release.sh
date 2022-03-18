@@ -39,9 +39,15 @@ echo "Creating .qm files..."
 
 FIRST=true
 
-for po_file in $(ls *.po)
+for ts_file in $(ls *.ts)
 do
-    echo "Considering ${po_file}"
+    echo "Considering ${ts_file}"
+
+    lang="${ts_file%.ts}"
+
+    po_file="${lang}.po"
+    $LCONVERT_BIN -locations relative "$ts_file" -o "$po_file"
+
     if cat "${po_file}" | grep '\"X-Qt-Contexts: true\\n\"' > /dev/null ; then
         echo "Translation ${po_file} is OK"
     else
@@ -49,15 +55,12 @@ do
         exit 1
     fi
 
-    # gets everything up to the first dot
-    lang=$(echo $po_file | grep -oP "^[^\.]*")
     if [ "$lang" = "pt" ]; then
         lang="pt_PT"
     fi
-    echo "    Converting $po_file to $lang.ts"
-    $LCONVERT_BIN -locations relative $po_file -o $lang.ts
+
     echo "    Create $lang.qm"
-    $LRELEASE_BIN $lang.ts -qm $OUTPUT/$lang.qm
+    $LRELEASE_BIN $ts_file -qm $OUTPUT/$lang.qm
 
     SHA1=`sha1sum $OUTPUT/$lang.qm | awk '{ print $1 }'`
     FILENAME="${SHA1}.class"
@@ -86,12 +89,10 @@ do
     echo "            \"untranslated\" : $UNTRANSLATED" >> $OUTPUT/index_v2.json
     # Create an index file with just the files (legacy)
     echo "$lang.qm" >> $OUTPUT/index
+    rm "$po_file"
 done
 echo "        }" >> $OUTPUT/index_v2.json
 echo "    }" >> $OUTPUT/index_v2.json
 echo "}" >> $OUTPUT/index_v2.json
-
-echo "Removing intermediate files..."
-rm *.ts
 
 echo "All done!"
