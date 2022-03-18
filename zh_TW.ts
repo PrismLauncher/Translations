@@ -1131,7 +1131,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="99"/>
         <source> by </source>
-        <translation type="unfinished"> 作者：</translation>
+        <translation> 作者 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="108"/>
@@ -2098,8 +2098,7 @@ Please select one of the following or browse for a java executable.</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="58"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
-        <translation type="unfinished">要玩 Minecraft 的話，需要有 Mojang 或 Minecraft 帳號。
-是否開啟帳號管理器且新增一個帳號？</translation>
+        <translation>要玩 Minecraft 的話，需要有 Mojang 或 Minecraft 帳號。是否開啟帳號管理器且新增一個帳號?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="77"/>
@@ -2429,12 +2428,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
         <source>Show console while the game is running?</source>
-        <translation>遊戲執行時顯示控制台</translation>
+        <translation type="unfinished">遊戲執行時顯示控制台?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>Automatically close console when the game quits?</source>
-        <translation>離開遊戲時自動關閉控制台</translation>
+        <translation type="unfinished">離開遊戲時自動關閉控制台?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
@@ -2489,7 +2488,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="422"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation>[Something/錯誤] 錯誤！</translation>
+        <translation type="unfinished">[Something/錯誤] 錯誤！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="431"/>
@@ -3539,7 +3538,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft maximized?</source>
-        <translation>Minercaft 啟動時最大化</translation>
+        <translation type="unfinished">Minercaft 啟動時最大化?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -3961,7 +3960,7 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source> by </source>
-        <translation type="unfinished"> 作者：</translation>
+        <translation> 作者 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="94"/>
@@ -4349,12 +4348,12 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation>作為預設值</translation>
+        <translation type="unfinished">作為預設值?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>作為此實例的預設值</translation>
+        <translation>作為此實例的預設值?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
