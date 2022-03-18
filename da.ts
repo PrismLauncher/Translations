@@ -802,7 +802,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Pre-start kommando køres før instansen startes og kommando efter afslutning køres efter afslutning. &lt;/p&gt;&lt;p&gt;Begge vil blive kørt i launcherens arbejdsmappe med ekstra miljøvariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instansens navn&lt;/li&gt;&lt;li&gt;$INST_ID - Instansens ID (dens mappenavn)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolutte sti til instansen&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolutte sti til Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary brugt til launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - kommandolinjeparametre brugt til launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-kommando gør det muligt at starte ved hjælp af et ekstra wrapper-program (som &apos;optirun&apos; på Linux)&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-start kommando køres før instansen startes og kommando efter afslutning køres efter afslutning. &lt;/p&gt;&lt;p&gt;Begge vil blive kørt i launcherens arbejdsmappe med ekstra miljøvariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instansens navn&lt;/li&gt;&lt;li&gt;$INST_ID - Instansens ID (dens mappenavn)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolutte sti til instansen&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolutte sti til Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary brugt til launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - kommandolinjeparametre brugt til launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-kommando gør det muligt at starte ved hjælp af et ekstra wrapper-program (som &apos;optirun&apos; på Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1328,7 +1328,7 @@ Prøv venligst igen.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
         <source>Got skin</source>
-        <translation>Fik skin.</translation>
+        <translation>Fik skin</translation>
     </message>
 </context>
 <context>
