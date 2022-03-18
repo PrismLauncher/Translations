@@ -17,7 +17,7 @@ update_file() {
     echo "Updating $ts_file..."
 
     # Update .ts
-    $LUPDATE_BIN "${SOURCE_FILES[@]}" -ts "$ts_file"
+    $LUPDATE_BIN "${SOURCE_FILES[@]}" -locations "absolute" -ts "$ts_file"
 }
 
 cd "$ROOT"

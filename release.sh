@@ -46,7 +46,7 @@ do
     lang="${ts_file%.ts}"
 
     po_file="${lang}.po"
-    $LCONVERT_BIN -locations relative "$ts_file" -o "$po_file"
+    $LCONVERT_BIN -locations absolute "$ts_file" -o "$po_file"
 
     if cat "${po_file}" | grep '\"X-Qt-Contexts: true\\n\"' > /dev/null ; then
         echo "Translation ${po_file} is OK"
