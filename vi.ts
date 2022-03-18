@@ -4286,7 +4286,7 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="31"/>
         <source>Running Post-Launch command: %1</source>
-        <translation>Đang chạy lệnh lệnh thoát: %1</translation>
+        <translation type="unfinished">Đang chạy lệnh lệnh thoát: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="39"/>
