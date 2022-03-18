@@ -730,7 +730,8 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="702"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Εργασία ενημέρωσης μεταστοιχείων εξαρτήματος απετύχε κατα την λήψη από τον απομακρυσμένο διακομιστή:%1</translation>
+        <translation>Εργασία ενημέρωσης μεταστοιχείων εξαρτήματος απετύχε κατα την λήψη από τον απομακρυσμένο διακομιστή:
+%1</translation>
     </message>
 </context>
 <context>
@@ -1110,7 +1111,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="32"/>
         <source>Sort by last updated</source>
-        <translation type="unfinished">Ταξινόμηση κατά τελευτ. ενημ.</translation>
+        <translation type="unfinished">Ταξινόμηση κατά τελευτ. ενημ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="33"/>
@@ -1194,7 +1195,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="27"/>
         <source>Sort by last updated</source>
-        <translation>Ταξινόμηση κατά τελευτ. ενημ.</translation>
+        <translation>Ταξινόμηση κατά τελευτ. ενημ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="28"/>
@@ -3950,7 +3951,7 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="33"/>
         <source>Sort by last updated</source>
-        <translation type="unfinished">Ταξινόμηση κατά τελευτ. ενημ.</translation>
+        <translation>Ταξινόμηση κατά τελευτ. ενημ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="34"/>
@@ -4155,7 +4156,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Μεταφορτώστε το αρχείο καταγραφής στο paste.ee - θα παραμείνει online για ένα μήνα</translation>
+        <translation type="unfinished">Μεταφορτώστε το αρχείο καταγραφής στο paste.ee - θα παραμείνει online για ένα μήνα.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
