@@ -2771,7 +2771,8 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Деяким артефактам, відміченим як &apos;local&apos;, бракує файлів: %1
+        <translation>Деяким артефактам, відміченим як &apos;local&apos;, бракує файлів:
+%1
 
 Вам потрібно або додати ці файли, або видалити пакети, які їх потребують.
 Вам доведеться вручну виправити цю помилку.</translation>
@@ -4160,7 +4161,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Завантажити журнал на сайт paste.ee - він буде зберігається протягом місяця</translation>
+        <translation type="unfinished">Завантажити журнал на сайт paste.ee - він буде зберігається протягом місяця.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
