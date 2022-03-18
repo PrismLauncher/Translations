@@ -730,7 +730,8 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="702"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>משימת עדכון המטא נתונים של הרכיב נכשלה בעת ההורדה משרת מרוחק: %1</translation>
+        <translation>משימת עדכון המטא נתונים של הרכיב נכשלה בעת ההורדה משרת מרוחק:
+%1</translation>
     </message>
 </context>
 <context>
@@ -988,7 +989,8 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="191"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation>אירעה תקלה בעת בדיקת ההתקנה של MCEdit: %1</translation>
+        <translation>אירעה תקלה בעת בדיקת ההתקנה של MCEdit:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="195"/>
@@ -3421,7 +3423,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
-        <translation>לא ניתן היה ליצור תיקיה להורדת עדכונים: %1</translation>
+        <translation>לא ניתן היה ליצור תיקיה להורדת עדכונים:
+%1</translation>
     </message>
 </context>
 <context>
