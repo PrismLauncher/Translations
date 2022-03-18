@@ -2177,7 +2177,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <location filename="src/launcher/LaunchController.cpp" line="339"/>
         <source>Error!</source>
-        <translation>Սխա՛լ</translation>
+        <translation>Սխա՛լ.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="267"/>
@@ -2230,7 +2230,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="406"/>
         <source>Kill Minecraft?</source>
-        <translation>Սպանե՞լ Minecraft- ը:</translation>
+        <translation type="unfinished">Սպանե՞լ Minecraft- ը?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="407"/>
