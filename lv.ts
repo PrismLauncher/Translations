@@ -1058,7 +1058,6 @@ Please try again.</source>
         <translation>Neizdevās lejuplādēt šos failus:
 %1
 
-
 Iemesls:%2
 Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
@@ -3993,7 +3992,8 @@ Please update PolyMC!</source>
         <location filename="src/launcher/net/NetJob.cpp" line="128"/>
         <source>Job &apos;%1&apos; failed to process:
 %2</source>
-        <translation>Darbs &apos;%1&apos; nevarēja beight procesu: %2</translation>
+        <translation>Darbs &apos;%1&apos; nevarēja beight procesu:
+%2</translation>
     </message>
 </context>
 <context>
@@ -4152,7 +4152,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi</translation>
+        <translation type="unfinished">Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4220,7 +4220,8 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="229"/>
         <source>Do you really want to delete these files?
 %1</source>
-        <translation>Vai tiešām vēlaties dzēst šos failus? %1</translation>
+        <translation>Vai tiešām vēlaties dzēst šos failus?
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="256"/>
@@ -4231,7 +4232,8 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>Neizdevās izdzēst dažus failus: %1</translation>
+        <translation>Neizdevās izdzēst dažus failus:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="45"/>
