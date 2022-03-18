@@ -3680,7 +3680,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod herunterladen</translation>
+        <translation>Mod-Download</translation>
     </message>
 </context>
 <context>
