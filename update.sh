@@ -1,11 +1,10 @@
-#!/bin/sh
+#!/bin/bash
 
 set -e
+shopt -s globstar
 
-ROOT=`pwd`
+ROOT="$(pwd)"
 SRC=${ROOT}/src
-TEMPLATE_PO="$ROOT/template.pot"
-TEMPLATE_TS="$ROOT/template.ts"
 
 LCONVERT_BIN=${LCONVERT_BIN:-lconvert}
 LRELEASE_BIN=${LRELEASE_BIN:-lrelease}
@@ -13,19 +12,31 @@ LUPDATE_BIN=${LUPDATE_BIN:-lupdate}
 
 ###############################################################################
 
-echo "Generating new template..."
+readarray -d '' SOURCE_FILES < <(find "$SRC" -regex '.*\.\(h\|cpp\|ui\)' -type f -print0)
 
-if [ -f $TEMPLATE_PO ]
-then
-    echo "    Converting .pot to .ts"
-    $LCONVERT_BIN -locations relative $TEMPLATE_PO -o $TEMPLATE_TS
-fi
+update_file() {
+    po_file="$1"  # language.po
+    ts_file="$1.ts"  # language.po.ts
 
-echo "    Generating .ts"
-cd $SRC
-find "$SRC" -regex '.*\.\(h\|cpp\|ui\)' -type f -print0 | xargs -0 sh -c "$LUPDATE_BIN"' $@ -ts '"$TEMPLATE_TS"
-cd $ROOT
+    echo "Updating $po_file..."
 
-echo "    Converting .ts to .pot"
-$LCONVERT_BIN -locations relative $TEMPLATE_TS -o $TEMPLATE_PO
-rm -f "$TEMPLATE_TS"
+    # Convert .po to .ts
+    $LCONVERT_BIN -locations relative "$po_file" -o "$ts_file"
+
+    # Update .ts
+    $LUPDATE_BIN "${SOURCE_FILES[@]}" -ts "$ts_file"
+
+    # Convert .ts to .po
+    $LCONVERT_BIN -locations relative "$ts_file" -o "$po_file"
+
+    rm -f "$ts_file"
+}
+
+cd "$ROOT"
+
+for f in *.po; do
+    update_file "$f"
+done
+
+update_file template.pot
+
