@@ -4161,7 +4161,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">لاگ را در paste.ee آپلود کنید - به مدت یک ماه این را آنلاین نگه خواهد داشت</translation>
+        <translation>لاگ را در paste.ee آپلود کنید - به مدت یک ماه این را آنلاین نگه خواهد داشت.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -5841,7 +5841,8 @@ inheritsFrom گم شده</translation>
 Please add your Mojang or Minecraft account.</source>
         <oldsource>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">امکان دانلود ماینکرافت یا بروزرسانی نمایه ها برای PolyMC امکان پذیر نیست مگر اینکه شما حداقل یک حساب اضافه کرده باشید. لطفا یک حساب موجانگ یا ماینکرافت اضافه نمایید.</translation>
+        <translation>امکان دانلود ماینکرافت یا بروزرسانی نمایه ها برای PolyMC امکان پذیر نیست مگر اینکه شما حداقل یک حساب اضافه کرده باشید.
+لطفا یک حساب موجانگ یا ماینکرافت اضافه نمایید.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
