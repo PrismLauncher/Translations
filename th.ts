@@ -822,7 +822,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="91"/>
         <source>Could not launch minecraft!</source>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation>ไม่สามารถเปิด Minecraft ได้</translation>
+        <translation>ไม่สามารถเปิด Minecraft ได้!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -877,7 +877,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="393"/>
         <source>Overwrite?</source>
-        <translation>เขียนทับหรือไม่</translation>
+        <translation type="unfinished">เขียนทับหรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="394"/>
@@ -982,7 +982,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="167"/>
         <source>MCEdit Folder</source>
-        <translation>​โฟลเดอร์ MCEdit</translation>
+        <translation>โฟลเดอร์ MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
@@ -1303,7 +1303,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="75"/>
         <source>Spectator</source>
-        <translation>ผู้สังเกตการณ์:</translation>
+        <translation>ผู้สังเกตการณ์</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="80"/>
@@ -1397,7 +1397,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
         <source>Open Folder</source>
-        <translation>เปิด​โฟลเดอร์</translation>
+        <translation>เปิดโฟลเดอร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
@@ -1452,7 +1452,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
-        <translation>ชื่อ</translation>
+        <translation>&amp;ชื่อ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
@@ -2501,7 +2501,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="157"/>
         <source>Could not launch minecraft!</source>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>ไม่สามารถเปิด Minecraft ได้</translation>
+        <translation>ไม่สามารถเปิด Minecraft ได้!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
@@ -3967,7 +3967,7 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="52"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>&amp;ชื่อ:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="69"/>
