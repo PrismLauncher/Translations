@@ -1618,8 +1618,8 @@ msgctxt "InstanceImportTask|"
 msgid ""
 "Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1"
 msgstr ""
-"Verschachtelte Modpacks, die in anderen Modpacks eingeschlossen sind, sind "
-"nicht implementiert. Es wurde nichts heruntergeladen: %1"
+"Verschachtelte Modpacks sind nicht implementiert. Es wurde nichts "
+"heruntergeladen: %1"
 
 #: src/launcher/InstanceImportTask.cpp:371
 #: src/launcher/InstanceImportTask.cpp:373
@@ -2355,7 +2355,7 @@ msgstr "Fehler beim Verarbeiten der Minecraft-Zugriffstoken Antwort."
 #: src/launcher/ui/pages/global/LauncherPage.ui:45
 msgctxt "LauncherPage|"
 msgid "Features"
-msgstr "Features"
+msgstr "Funktionen"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:51
 msgctxt "LauncherPage|"
@@ -2835,7 +2835,7 @@ msgstr "&Kopieren"
 #: src/launcher/ui/pages/instance/LogPage.ui:103
 msgctxt "LogPage|"
 msgid "Upload the log to the paste service configured in preferences"
-msgstr "Lade das Log auf den konfigurierten Textupload-Dienst hoch."
+msgstr "Lade das Log auf den konfigurierten Textupload-Dienst hoch"
 
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
@@ -3490,8 +3490,8 @@ msgid ""
 "warning by the operating system <br/> - close the launcher now and extract "
 "it to a real location, not a temporary folder"
 msgstr ""
-"Das ist ein Problem: <br>- Der Launcher wird vermutlich ohne Warnung vom "
-"Betriebssystem gelöscht werden <br>- Schließe den Launcher und entpacke ihn "
+"Das ist ein Problem: <br/>- Der Launcher wird vermutlich ohne Warnung vom "
+"Betriebssystem gelöscht werden <br/>- Schließe den Launcher und entpacke ihn "
 "in einen nicht-temporären Pfad"
 
 #: src/launcher/ui/MainWindow.cpp:1943 src/launcher/ui/MainWindow.cpp:1869
@@ -4630,13 +4630,14 @@ msgstr ""
 #: src/launcher/ui/widgets/JavaSettingsWidget.cpp:290
 msgctxt "QObject|"
 msgid "The specified java binary didn't start properly.<br />"
-msgstr "Die spezifizierte Java-Binärdatei ist nicht richtig gestartet.<br>"
+msgstr "Die spezifizierte Java-Binärdatei ist nicht richtig gestartet.<br />"
 
 #: src/launcher/ui/widgets/JavaSettingsWidget.cpp:302
 msgctxt "QObject|"
 msgid "The specified java binary returned unexpected results:<br />"
 msgstr ""
-"Die angegebene Java-Binärdatei hat unerwartete Ergebnisse zurückgegeben:<br>"
+"Die angegebene Java-Binärdatei hat unerwartete Ergebnisse zurückgegeben:<br /"
+">"
 
 #: src/launcher/ui/widgets/JavaSettingsWidget.cpp:313
 #, qt-format
@@ -4904,7 +4905,7 @@ msgid ""
 "The specified java binary didn't work with the arguments you provided:<br />"
 msgstr ""
 "Die spezifizierte Java-Binärdatei hat nicht mit den Argumenten, die du "
-"angegeben hast, funktioniert:<br>"
+"angegeben hast, funktioniert:<br />"
 
 #: src/launcher/JavaCommon.cpp:51
 msgctxt "QObject|"
@@ -4912,9 +4913,9 @@ msgid ""
 "The specified java binary didn't work.<br />You should use the auto-detect "
 "feature, or set the path to the java executable.<br />"
 msgstr ""
-"Die ausgewählte Java-Binärdatei hat nicht funktioniert.<br>Du solltest die "
+"Die ausgewählte Java-Binärdatei hat nicht funktioniert.<br />Du solltest die "
 "Auto-Erkennung benutzen oder den Pfad zur Java-Binärdatei manuell angeben."
-"<br>"
+"<br />"
 
 #: src/launcher/meta/BaseEntity.cpp:120
 #, qt-format
@@ -6493,8 +6494,8 @@ msgid ""
 "Minecraft not starting.</li><li>Possibly something else. Check the log file "
 "for details</li></ul>"
 msgstr ""
-"<b>SSL-Handshake fehlgeschlagen.</b><br>Es kann mehrere Erklärungen geben:"
-"<br><ul><li>Du benutzt Windows und musst deine Stammzertifikate "
+"<b>SSL-Handshake fehlgeschlagen.</b><br/>Es kann mehrere Erklärungen geben:"
+"<br/><ul><li>Du benutzt Windows und musst deine Stammzertifikate "
 "aktualisieren. Bitte installiere alle ausstehenden Updates.</li><li>Ein "
 "Gerät in deinem Netzwerk mischt sich in den SSL-Verkehr ein. In diesem Fall "
 "hast du größere Probleme, als dass Minecraft nicht gestartet werden kann.</"
