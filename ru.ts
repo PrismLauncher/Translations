@@ -3432,12 +3432,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1927"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>У вас есть два способа: &lt;br&gt; - изменить папку сборки в настройках &lt;br&gt; - переместить сборку %1 в другую папку</translation>
+        <translation>У вас есть два способа: &lt;br/&gt; - изменить папку сборки в настройках &lt;br/&gt; - переместить сборку %1 в другую папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1936"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Обнаружена проблема: &lt;br&gt; - Лаунчер будет удалён операционной системой без какого-либо уведомления &lt;br&gt; - закройте лаунчер прямо сейчас и распакуйте его в настоящую место, не во временную папку</translation>
+        <translation>Обнаружена проблема: &lt;br/&gt; - Лаунчер будет удалён операционной системой без какого-либо уведомления &lt;br/&gt; - закройте лаунчер прямо сейчас и распакуйте его в настоящую место, не во временную папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1943"/>
