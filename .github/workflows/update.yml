@@ -4,6 +4,11 @@ on:
   schedule:
     - cron:  '0 */12 * * *'  # https://crontab.guru/#0_*/12_*_*_*
   workflow_dispatch: # allow manual trigger
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '**.ts'
 
 jobs:
   build:
