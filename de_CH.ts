@@ -1578,7 +1578,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="366"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation>Verschachtelte Modpacks, die in anderen Modpacks eingeschlossen sind, sind nicht implementiert. Es wurde nichts heruntergeladen: %1</translation>
+        <translation type="unfinished">Verschachtelte Modpacks, die in anderen Modpacks eingeschlossen sind, sind nicht implementiert. Es wurde nichts heruntergeladen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="371"/>
@@ -1638,7 +1638,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Diese Einstellungen überschreiben die globalen Einstellungen</translation>
+        <translation>Diese Einstellungen überschreiben die globalen Einstellungen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
@@ -4139,7 +4139,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Hochladen des Logs auf paste.ee - es wird dort einen Monat verbleiben</translation>
+        <translation type="unfinished">Hochladen des Logs auf paste.ee - es wird dort einen Monat verbleiben.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -5454,8 +5454,7 @@ inheritsFrom fehlt</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="21"/>
         <source>No %1 updates found. You are running the latest version.</source>
-        <translation>Es wurde kein %1 Update für PolyMC gefunden!
-Du verwendest bereits die neueste Version.</translation>
+        <translation>Es wurde kein %1 Update für PolyMC gefunden. Du verwendest bereits die neueste Version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="23"/>
