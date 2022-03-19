@@ -4763,8 +4763,7 @@ There are dedicated boxes for these in the settings (Java tab, in the Memory gro
 This message will be displayed until you remove them from the JVM arguments.</source>
         <translation>당신은 수동으로 JVM 메모리 옵션을 설정하려 했습니다(&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 또는 &quot;-Xms&quot; 사용).
 설정에 메모리 설정을 위한 전용 옵션들이 있습니다. (자바 탭 가장 위쪽의 메모리 그룹).
-수동 설정은 전용 옵션에 의해 재정의 될 것입니다.
-이 메세지는 JVM 명령줄 인수에서 메모리 옵션을 지울때까지 표시됩니다.</translation>
+수동 설정은 전용 옵션에 의해 재정의 될 것입니다. 이 메세지는 JVM 명령줄 인수에서 메모리 옵션을 지울때까지 표시됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="15"/>

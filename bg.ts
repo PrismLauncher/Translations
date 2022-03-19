@@ -933,7 +933,8 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="113"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation>Грешка по време на проверката на JProfiler инсталацията: %1</translation>
+        <translation>Грешка по време на проверката на JProfiler инсталацията:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
@@ -957,7 +958,8 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Грешка по време на проверката на JVisualVM инсталацията: %1</translation>
+        <translation>Грешка по време на проверката на JVisualVM инсталацията:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="154"/>
@@ -979,7 +981,8 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="191"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation>Грешка по време на проверката на MCEdit инсталацията: %1</translation>
+        <translation>Грешка по време на проверката на MCEdit инсталацията:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="195"/>

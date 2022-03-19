@@ -6,47 +6,47 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>Pastebin URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка на Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: принимаются только значения, начинающиеся с &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; или &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="74"/>
         <source>https://0x0.st</source>
-        <translation type="unfinished"></translation>
+        <translation>https://0x0.st</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="87"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Здесь вы можете выбрать среди списка предопределённых сервисов хранения логов, или ввести URL на другой сервис на ваш выбор, если он поддерживает тот же протокол, что и 0x0.st, то есть POST с параметром файла в URL и возвращает ссылку в теле ответа.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="106"/>
         <source>Microsoft Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Аутентификация Microsoft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="119"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Примечание: возможно, вам не нужно изменять это, если вход в аккаунт Microsoft уже работает.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(По умолчанию)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="139"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>Введите здесь собственный client ID для аутентифкации Microsoft. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="37"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">APIs</translation>
     </message>
 </context>
 <context>
@@ -283,7 +283,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Выключен</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
@@ -405,7 +405,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить автономную</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -432,7 +432,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="78"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Client ID для аутентифкации Microsoft не установлен.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
@@ -462,17 +462,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="166"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы должны добавить учетную запись Microsoft или Mojang, который владеет Minecraft, прежде чем вы сможете добавить автономную учетную запись.&lt;br&gt;&lt;br&gt;Если вы потеряли свою учетную запись, вы можете обратиться в службу поддержки Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, введите желаемое имя пользователя, чтобы добавить автономный аккаунт.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="276"/>
@@ -505,7 +505,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="47"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Client ID был изменён. Необходимо создать новую сессию.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="49"/>
@@ -1077,84 +1077,84 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="25"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрана версия:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="35"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="191"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите мод для загрузки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="44"/>
         <source>Search and filter ...</source>
-        <translation type="unfinished">Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished">Найти</translation>
+        <translation>Искать</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="30"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation>Упорядочить по избранным</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="31"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по популярности</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="32"/>
         <source>Sort by last updated</source>
-        <translation type="unfinished">Упорядочить по последнему обновлению</translation>
+        <translation>Сортировать по дате обновления</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="33"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по имени</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="34"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по автору</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="35"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по скачиваниям</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="99"/>
         <source> by </source>
-        <translation type="unfinished"> от </translation>
+        <translation> от </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="108"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка версий...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="156"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="174"/>
         <source>No Valid Version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Подходящяя версия не найдена!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="160"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно выбрать неверную версию :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="193"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить выбор мода для загрузки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.h" line="30"/>
         <source>CurseForge</source>
-        <translation type="unfinished">CurseForge</translation>
+        <translation>CurseForge</translation>
     </message>
 </context>
 <context>
@@ -1608,7 +1608,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Моды</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -2095,7 +2095,7 @@ Please select one of the following or browse for a java executable.</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="58"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
-        <translation type="unfinished">Для того чтобы играть в Minecraft, вам нужно войти, как минимум, в одну учётную запись Mojang или Minecraft. Открыть управление учетными записями для добавления учетной записи?</translation>
+        <translation>Чтобы играть в Minecraft, вам нужно войти как минимум в одну учётную запись Mojang или Minecraft. Вы хотите открыть менеджер аккаунтов, чтобы добавить аккаунт сейчас?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="77"/>
@@ -3427,12 +3427,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1927"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>У вас есть два способа: &lt;br&gt; - изменить папку сборки в настройках &lt;br&gt; - переместить сборку %1 в другую папку</translation>
+        <translation>У вас есть два способа: &lt;br/&gt; - изменить папку сборки в настройках &lt;br/&gt; - переместить сборку %1 в другую папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1936"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Обнаружена проблема: &lt;br&gt; - Лаунчер будет удалён операционной системой без какого-либо уведомления &lt;br&gt; - закройте лаунчер прямо сейчас и распакуйте его в настоящую место, не во временную папку</translation>
+        <translation>Обнаружена проблема: &lt;br/&gt; - Лаунчер будет удалён операционной системой без какого-либо уведомления &lt;br/&gt; - закройте лаунчер прямо сейчас и распакуйте его в настоящую место, не во временную папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1943"/>

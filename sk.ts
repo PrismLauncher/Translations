@@ -2863,7 +2863,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="77"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Proces spadol s exit kódom  %1.</translation>
+        <translation>Proces spadol s exit kódom %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="84"/>
@@ -3323,7 +3323,7 @@ Dôvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="939"/>
         <source>Delete group &apos;%1&apos;</source>
-        <translation>Vymazať skupinu  &apos;%1&apos;</translation>
+        <translation>Vymazať skupinu &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1000"/>
@@ -4151,7 +4151,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Odošlite log na paste.ee - zostane prístupný online jeden mesiac</translation>
+        <translation type="unfinished">Odošlite log na paste.ee - zostane prístupný online jeden mesiac.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4649,27 +4649,27 @@ Pozorne si vyber meno:</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;tweakers&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="239"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;-libraries&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="243"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;-tweakers&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="247"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;-minecraftArguments&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="251"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>Súbor verzie  obsahuje nepodporovaný element &apos;+minecraftArguments&apos;</translation>
+        <translation>Súbor verzie obsahuje nepodporovaný element &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="323"/>
@@ -5233,7 +5233,8 @@ Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argum
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="44"/>
         <source>Finding recommended version:
 %1</source>
-        <translation>Hľadanie doporučenej verzie: %1</translation>
+        <translation>Hľadanie doporučenej verzie:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="45"/>
@@ -5244,7 +5245,8 @@ Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argum
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="69"/>
         <source>Resolving modpack files:
 %1</source>
-        <translation>Hľadanie súborov modpacku: %1</translation>
+        <translation>Hľadanie súborov modpacku:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="70"/>
@@ -5842,7 +5844,7 @@ Prosím pridajte Mojang alebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation>Pre Minecraft momentálne nie je k doispozícii žiadna verzia Forge</translation>
+        <translation>Pre Minecraft momentálne nie je k doispozícii žiadna verzia Forge </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
@@ -5872,7 +5874,7 @@ Prosím pridajte Mojang alebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="500"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
-        <translation>Pre Minecraft momentálne nie je k doispozícii žiadna verzia LiteLoader</translation>
+        <translation>Pre Minecraft momentálne nie je k doispozícii žiadna verzia LiteLoader </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="501"/>

@@ -1477,7 +1477,8 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="52"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Elŝutas modaro: %1</translation>
+        <translation>Elŝutas modaro:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="58"/>
@@ -5069,7 +5070,8 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Elŝutas modaro: %1</translation>
+        <translation>Elŝutas modaro:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>

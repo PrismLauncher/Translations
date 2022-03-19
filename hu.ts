@@ -4134,7 +4134,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Töltsd fel a naplót a paste.ee-ra - online marad egy hónapig</translation>
+        <translation type="unfinished">Töltsd fel a naplót a paste.ee-ra - online marad egy hónapig.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4274,6 +4274,7 @@ Please update PolyMC!</source>
 
 </source>
         <translation>Az indítás utáni parancs nem sikerült a(z) %1 kóddal.
+
 </translation>
     </message>
     <message>
@@ -4299,6 +4300,7 @@ Please update PolyMC!</source>
 
 </source>
         <translation>Az indítás előtti parancs nem sikerült a(z) %1 kóddal.
+
 </translation>
     </message>
     <message>
@@ -5821,7 +5823,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation>Jelenleg nem áll rendelkezésre Forge verzió a Minecraft számára</translation>
+        <translation>Jelenleg nem áll rendelkezésre Forge verzió a Minecraft számára </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
@@ -5851,7 +5853,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="500"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
-        <translation>Jelenleg nincs elérhető LiteLoader verzió a Minecraft számára</translation>
+        <translation>Jelenleg nincs elérhető LiteLoader verzió a Minecraft számára </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="501"/>

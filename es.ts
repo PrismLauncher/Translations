@@ -4802,10 +4802,9 @@ Por favor, dejanos saber por qué y cómo sucedió esto.</translation>
         <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</source>
-        <translation>Intentaste configurar la opción de memoria JVM manualmente (usando &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+        <translation>Intentaste configurar la opción de memoria JVM manualmente (usando &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
 Hay casillas dedicadas para estas configuraciones en las opciones (Pestaña Java, en el grupo &quot;Memoria&quot; en la parte superior).
-Tu configuración manual será reemplazada por las opciones dedicadas.
-Este mensaje será mostrado hasta que las quites de los argumentos JVM.</translation>
+Tu configuración manual será reemplazada por las opciones dedicadas. Este mensaje será mostrado hasta que las quites de los argumentos JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="15"/>

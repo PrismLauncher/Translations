@@ -2315,7 +2315,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates on start?</source>
-        <translation>PolyMC の起動時に更新を確認します</translation>
+        <translation type="unfinished">PolyMC の起動時に更新を確認します?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
@@ -4522,7 +4522,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="126"/>
         <source>&lt;p&gt;Following commits were added since last update:&lt;/p&gt;</source>
-        <translation>&lt;p&gt;以下のコミットが最後のアップデートから追加されました:&lt;p&gt;</translation>
+        <translation>&lt;p&gt;以下のコミットが最後のアップデートから追加されました:&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="133"/>
@@ -4728,7 +4728,9 @@ See the %2 log file for details.</source>
         <source>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
 
 Roll back to previous version?</source>
-        <translation>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks. 前のバージョンにロールバックしますか?</translation>
+        <translation type="unfinished">The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
+
+前のバージョンにロールバックしますか?</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="414"/>
@@ -4758,7 +4760,8 @@ Please let us know why and how this happened.</source>
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</source>
         <translation>JVMメモリオプションを(&quot;-XX:PermSize&quot;,&quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;,&quot;-Xmx&quot;または&quot;-Xms&quot;
-を使用して)手動で設定しようとしました。設定にはこれらのための専用のボックスがあります(上部のJavaタブのMemoryグループ)。このメッセージは、JVM引数から削除するまで表示されます。</translation>
+を使用して)手動で設定しようとしました。設定にはこれらのための専用のボックスがあります(上部のJavaタブのMemoryグループ)。
+このメッセージは、JVM引数から削除するまで表示されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="15"/>
@@ -4773,7 +4776,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="33"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation>&lt;br /&gt;修正に失敗しました:&lt;/b&gt;%1&lt;/span&gt;&lt;br /&gt;警告:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
+        <translation type="unfinished">&lt;br /&gt;修正に失敗しました:警告: &lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="43"/>
@@ -6128,7 +6131,8 @@ Please add your Mojang or Minecraft account.</source>
 The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
-        <translation>選択されたワールドは完全に削除されます
+        <translation type="unfinished">選択されたワ
+ルドは完全に削除されます
 
 よろしいですか?</translation>
     </message>

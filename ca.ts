@@ -565,13 +565,15 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="93"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Error en descarregar l&apos;índex d&apos;actius %1</translation>
+        <translation>Error en descarregar l&apos;índex d&apos;actius:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="98"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Error en descarregar els actius: %1</translation>
+        <translation>Error en descarregar els actius:
+%1</translation>
     </message>
 </context>
 <context>
@@ -723,7 +725,8 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="702"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>L&apos;actualització dels components de metadades ha fallat mentre s&apos;estava descarregant des del servidor remot: %1</translation>
+        <translation>L&apos;actualització dels components de metadades ha fallat mentre s&apos;estava descarregant des del servidor remot:
+%1</translation>
     </message>
 </context>
 <context>
@@ -4122,7 +4125,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Puja el registre a paste.ee - estarà en línia durant un mes</translation>
+        <translation type="unfinished">Puja el registre a paste.ee - estarà en línia durant un mes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>

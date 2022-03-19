@@ -4139,7 +4139,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Lähetä loki paste.ee-sivustolle - se säilyy verkossa kuukauden ajan</translation>
+        <translation type="unfinished">Lähetä loki paste.ee-sivustolle - se säilyy verkossa kuukauden ajan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -5219,7 +5219,8 @@ Tämä viesti näytetään kunnes poistat nämä JVM-argumenteista.</translation
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="44"/>
         <source>Finding recommended version:
 %1</source>
-        <translation>Etsitään suositeltua versiota: %1</translation>
+        <translation>Etsitään suositeltua versiota:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="45"/>
@@ -5230,7 +5231,8 @@ Tämä viesti näytetään kunnes poistat nämä JVM-argumenteista.</translation
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="69"/>
         <source>Resolving modpack files:
 %1</source>
-        <translation>Selvitetään modipaketti tiedostoa: %1</translation>
+        <translation>Selvitetään modipaketti tiedostoa:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="70"/>
@@ -6119,7 +6121,8 @@ Lisääthän Mojang- tai Minecraft-tilisi.</translation>
 The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
-        <translation>Tämä poistaa valitun maailman pysyvästi. Pelimaailma poistuu lopullisesti (PITKÄ AIKA).
+        <translation>Tämä poistaa valitun maailman pysyvästi.
+Pelimaailma poistuu lopullisesti (PITKÄ AIKA).
 
 Haluatko jatkaa?</translation>
     </message>

@@ -3692,7 +3692,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="483"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>التأريخ والوقت منذ آخر تغيير على هذه الإضافة (أو تأريخ الإضافة)</translation>
+        <translation>التأريخ والوقت منذ آخر تغيير على هذه الإضافة (أو تأريخ الإضافة).</translation>
     </message>
 </context>
 <context>
@@ -4134,7 +4134,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">رفع التقرير على خدمة paste.ee - ستبقى متوفرة لمدة شهر</translation>
+        <translation>رفع التقرير على خدمة paste.ee - ستبقى متوفرة لمدة شهر.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4202,7 +4202,8 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="229"/>
         <source>Do you really want to delete these files?
 %1</source>
-        <translation>هل أنت متأكد أنك ترغب في حذف هذه الملفات؟ %1</translation>
+        <translation>هل أنت متأكد أنك ترغب في حذف هذه الملفات؟
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="256"/>

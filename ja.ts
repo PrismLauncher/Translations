@@ -82,7 +82,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="229"/>
         <source>No loader version set for modpack!</source>
-        <translation>Modパックのローダーのバージョンが設定されていません</translation>
+        <translation>Modパックのローダーのバージョンが設定されていません!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="333"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="474"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>%1 パックコンフィグを開けませんでした</translation>
+        <translation>%1 パックコンフィグを開けませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="504"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="645"/>
         <source>Failed to extract mods...</source>
-        <translation>Mod の展開に失敗しました</translation>
+        <translation>Mod の展開に失敗しました...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
@@ -147,7 +147,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
         <source>Installing modpack</source>
-        <translation>Mod パックをインストールしています…</translation>
+        <translation>Mod パックをインストールしています</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
@@ -443,7 +443,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="120"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Mojangのアカウントを使うにはメールアドレスとパスワードを入力してください</translation>
+        <translation>Mojangのアカウントを使うにはメールアドレスとパスワードを入力してください.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
@@ -480,7 +480,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="276"/>
         <source>Failed to delete current skin!</source>
-        <translation>現在のスキンの削除に失敗しました</translation>
+        <translation>現在のスキンの削除に失敗しました!</translation>
     </message>
 </context>
 <context>
@@ -554,7 +554,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="73"/>
         <source>Failed to read the assets index!</source>
-        <translation>assetsインデックスの読み込みに失敗しました</translation>
+        <translation>assetsインデックスの読み込みに失敗しました!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="79"/>
@@ -665,12 +665,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="20"/>
         <source>Finished all authentication steps</source>
-        <translation>すべての認証が完了…</translation>
+        <translation>すべての認証が完了</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
         <source>Initializing</source>
-        <translation>初期化中…</translation>
+        <translation>初期化中</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
@@ -709,7 +709,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="526"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>依存関係の確認中にコンフリクトが見つかりました。</translation>
+        <translation>依存関係の確認中にコンフリクトが見つかりました!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="545"/>
@@ -954,7 +954,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="127"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
@@ -1013,7 +1013,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Matoba Jar &apos;%1&apos; を &apos;%2&apos; に展開できませんでした。</translation>
+        <translation>Matoba Jar &apos;%1&apos; を &apos;%2&apos; に展開できませんでした</translation>
     </message>
 </context>
 <context>
@@ -1249,7 +1249,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter ...</source>
-        <translation>検索とフィルタ</translation>
+        <translation>検索とフィルタ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.h" line="43"/>
@@ -1359,12 +1359,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="140"/>
         <source>Downloading one update file.</source>
-        <translation>1つの更新ファイルをダウンロード中</translation>
+        <translation>1つの更新ファイルをダウンロード中.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="144"/>
         <source>Downloading %1 update files.</source>
-        <translation>%1 更新ファイルをダウンロード中</translation>
+        <translation>%1 更新ファイルをダウンロード中.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="159"/>
@@ -1568,7 +1568,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="354"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation>このフォルダは抽出が必要な場合があります: %1.</translation>
+        <translation>このフォルダは抽出が必要な場合があります: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="366"/>
@@ -1708,7 +1708,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="249"/>
         <source>Start Minecraft maximized?</source>
-        <translation>Minecraft起動時に最大化</translation>
+        <translation type="unfinished">Minecraft起動時に最大化?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="258"/>
@@ -1728,17 +1728,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="321"/>
         <source>Show console while the game is running?</source>
-        <translation>ゲームの実行中にコンソールを表示</translation>
+        <translation type="unfinished">ゲームの実行中にコンソールを表示?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="328"/>
         <source>Automatically close console when the game quits?</source>
-        <translation>ゲーム終了時にコンソールも自動的に閉じる</translation>
+        <translation>ゲーム終了時にコンソールも自動的に閉じる?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="335"/>
         <source>Show console when the game crashes?</source>
-        <translation>ゲームがクラッシュしたときにコンソールを表示</translation>
+        <translation type="unfinished">ゲームがクラッシュしたときにコンソールを表示?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
@@ -2216,7 +2216,9 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>ボタンを押すまで、ゲームの開始は遅れます。プロファイラサーバーが実行中なので、これはプロファイラを設定するのに適切なタイミングです。%1</translation>
+        <translation>ボタンを押すまで、ゲームの開始は遅れます。プロファイラサーバーが実行中なので、これはプロファイラを設定するのに適切なタイミングです。
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="351"/>
@@ -2262,7 +2264,8 @@ Do you want to play the demo?</source>
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <oldsource>PolyMC stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</oldsource>
-        <translation type="unfinished">ログの長さが %1 行を超えたため、PolyMCはゲームログの監視を停止しました。ゲームがまだファイルにログインしていて、ハードドライブのスペースを危険なほどに浪費している可能性があるので、あなたの変更を修正する必要があるかもしれません。</translation>
+        <translation>ログの長さが %1 行を超えたため、PolyMCはゲームログの監視を停止しました。
+ゲームがまだファイルにログインしていて、ハードドライブのスペースを危険なほどに浪費している可能性があるので、あなたの変更を修正する必要があるかもしれません!</translation>
     </message>
 </context>
 <context>
@@ -2418,17 +2421,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
         <source>Show console while the game is running?</source>
-        <translation type="unfinished">ゲームの実行中にコンソールを表示</translation>
+        <translation type="unfinished">ゲームの実行中にコンソールを表示?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>Automatically close console when the game quits?</source>
-        <translation type="unfinished">ゲーム終了時にコンソールも自動的に閉じる</translation>
+        <translation type="unfinished">ゲーム終了時にコンソールも自動的に閉じる?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Show console when the game crashes?</source>
-        <translation type="unfinished">ゲームがクラッシュしたときにコンソールを表示</translation>
+        <translation type="unfinished">ゲームがクラッシュしたときにコンソールを表示?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
@@ -2580,7 +2583,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="87"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>Modパックファイル %1 が開けられませんでした。</translation>
+        <translation>Modパックファイル %1 が開けられませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="110"/>
@@ -2590,12 +2593,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
         <source>Failed to move unzipped minecraft!</source>
-        <translation>解凍した Minecraft を移動できませんでした。</translation>
+        <translation>解凍した Minecraft を移動できませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="184"/>
         <source>No installation method found!</source>
-        <translation>インストール方法が見つかりませんでした。</translation>
+        <translation>インストール方法が見つかりませんでした!</translation>
     </message>
 </context>
 <context>
@@ -2745,14 +2748,20 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>&apos;local&apos;とマークされたアーティファクトのファイルがありません: %1 ファイルを追加するか、それらを必要とするパッケージを削除する必要があります。この問題は手動で修正する必要があります。</translation>
+        <translation>&apos;local&apos;とマークされたアーティファクトのファイルがありません:
+%1
+
+ファイルを追加するか、それらを必要とするパッケージを削除する必要があります。
+この問題は手動で修正する必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="78"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>ゲームの更新に失敗しました: 必要なライブラリを取得できませんでした。理由: %1</translation>
+        <translation>ゲームの更新に失敗しました: 必要なライブラリを取得できませんでした。
+理由:
+%1</translation>
     </message>
 </context>
 <context>
@@ -3188,7 +3197,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="552"/>
         <source>View and upload screenshots for this instance.</source>
-        <translation>このインスタンスのスクリーンショットの表示およびアップロード</translation>
+        <translation>このインスタンスのスクリーンショットの表示およびアップロード.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="558"/>
@@ -3507,7 +3516,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft maximized?</source>
-        <translation>Minecraft起動時に最大化</translation>
+        <translation type="unfinished">Minecraft起動時に最大化?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -3668,22 +3677,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="477"/>
         <source>Is the mod enabled?</source>
-        <translation>Modが有効かどうか</translation>
+        <translation>Modが有効かどうか?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="479"/>
         <source>The name of the mod.</source>
-        <translation>Modの名前</translation>
+        <translation>Modの名前.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="481"/>
         <source>The version of the mod.</source>
-        <translation>Modのバージョン</translation>
+        <translation>Modのバージョン.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="483"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>このModが変更あるいは追加された日時</translation>
+        <translation>このModが変更あるいは追加された日時.</translation>
     </message>
 </context>
 <context>
@@ -3812,7 +3821,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="36"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>Minecraft.jar用に大きなフォルダを作成できませんでした。</translation>
+        <translation>Minecraft.jar用に大きなフォルダを作成できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="42"/>
@@ -3857,7 +3866,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="174"/>
         <source>Failed to copy files</source>
-        <translation>ファイルのコピーに失敗しました。</translation>
+        <translation>ファイルのコピーに失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="179"/>
@@ -3965,7 +3974,8 @@ Please update PolyMC!</source>
         <location filename="src/launcher/net/NetJob.cpp" line="128"/>
         <source>Job &apos;%1&apos; failed to process:
 %2</source>
-        <translation>ジョブ &apos;%1&apos; は処理に失敗しました: %2</translation>
+        <translation>ジョブ &apos;%1&apos; は処理に失敗しました:
+%2</translation>
     </message>
 </context>
 <context>
@@ -4124,7 +4134,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">paste.eeにログをアップロードする - １か月間閲覧可能です</translation>
+        <translation type="unfinished">paste.eeにログをアップロードする - １か月間閲覧可能です.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4192,18 +4202,20 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="229"/>
         <source>Do you really want to delete these files?
 %1</source>
-        <translation>本当にこれらのファイルを削除しますか?%1</translation>
+        <translation>本当にこれらのファイルを削除しますか?
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="256"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>ファイルを削除できませんでした</translation>
+        <translation>ファイルを削除できませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>ファイルを削除できませんでした: %1</translation>
+        <translation>ファイルを削除できませんでした:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="45"/>
@@ -4311,7 +4323,7 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>プロファイルを選択</translation>
+        <translation>プロファイルを選択.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
@@ -4491,7 +4503,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="126"/>
         <source>&lt;p&gt;Following commits were added since last update:&lt;/p&gt;</source>
-        <translation>&lt;p&gt;以下のコミットが最後のアップデートから追加されました:&lt;p&gt;</translation>
+        <translation>&lt;p&gt;以下のコミットが最後のアップデートから追加されました:&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="133"/>
@@ -4613,7 +4625,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="202"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>メインの jar ファイルに対するURLが特定できませんでした - Mojang がフォールバックとして使用していたサーバーを削除しました</translation>
+        <translation>メインの jar ファイルに対するURLが特定できませんでした - Mojang がフォールバックとして使用していたサーバーを削除しました.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="235"/>
@@ -4638,7 +4650,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="251"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>バージョンファイルにサポートされていない要素  &quot;+minecraftArguments&quot; があります</translation>
+        <translation>バージョンファイルにサポートされていない要素 &quot;+minecraftArguments&quot; があります</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="323"/>
@@ -4698,7 +4710,9 @@ See the %2 log file for details.</source>
         <source>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
 
 Roll back to previous version?</source>
-        <translation>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks. 前のバージョンにロールバックしますか?</translation>
+        <translation type="unfinished">The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
+
+前のバージョンにロールバックしますか?</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="414"/>
@@ -4727,7 +4741,9 @@ Please let us know why and how this happened.</source>
         <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</source>
-        <translation>JVMメモリオプションを(&quot;-XX:PermSize&quot;,&quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;,&quot;-Xmx&quot;または&quot;-Xms&quot;を使用して)手動で設定しようとしました。設定にはこれらのための専用のボックスがあります(上部のJavaタブのMemoryグループ)。このメッセージは、JVM引数から削除するまで表示されます。</translation>
+        <translation>JVMメモリオプションを(&quot;-XX:PermSize&quot;,&quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;,&quot;-Xmx&quot;または&quot;-Xms&quot;を使用して)手動で設定しようとしました。
+設定にはこれらのための専用のボックスがあります(上部のJavaタブのMemoryグループ)。
+このメッセージは、JVM引数から削除するまで表示されます。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="15"/>
@@ -4742,7 +4758,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="33"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation>&lt;br /&gt;修正に失敗しました:&lt;/b&gt;%1&lt;/span&gt;&lt;br /&gt;警告:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
+        <translation type="unfinished">&lt;br /&gt;修正に失敗しました: 警告:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="43"/>
@@ -4764,7 +4780,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <location filename="src/launcher/meta/JsonFormat.cpp" line="153"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="166"/>
         <source>Unknown format version!</source>
-        <translation>不明なフォーマットバージョンです</translation>
+        <translation>不明なフォーマットバージョンです!</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
@@ -5129,12 +5145,12 @@ This message will be displayed until you remove them from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="71"/>
         <source>Skin file does not exist!</source>
-        <translation>スキンファイルが存在しません</translation>
+        <translation>スキンファイルが存在しません!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="93"/>
         <source>Failed to upload skin!</source>
-        <translation>スキンをアップロードできませんでした</translation>
+        <translation>スキンをアップロードできませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="97"/>
@@ -5174,7 +5190,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>提供された mod パックの zip ファイルを開けませんでした</translation>
+        <translation>提供された mod パックの zip ファイルを開けませんでした.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
@@ -5189,7 +5205,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
         <source>Instance import has been aborted.</source>
-        <translation>インスタンスのインポートを中止しました</translation>
+        <translation>インスタンスのインポートを中止しました.</translation>
     </message>
 </context>
 <context>
@@ -5246,7 +5262,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="208"/>
         <source>Instance import has been aborted.</source>
-        <translation>インスタンスのインポートを中止しました</translation>
+        <translation>インスタンスのインポートを中止しました.</translation>
     </message>
 </context>
 <context>
@@ -5254,23 +5270,23 @@ This message will be displayed until you remove them from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation>&quot;bin/modpack.jar&quot; ファイルを開けません。</translation>
+        <translation>&quot;bin/modpack.jar&quot; ファイルを開けません!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="68"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation>&quot;fmlversion.properties&quot; を開けません。</translation>
+        <translation>&quot;fmlversion.properties&quot; を開けません!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="82"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="137"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation>&quot;version.json&quot; を開けません。</translation>
+        <translation>&quot;version.json&quot; を開けません!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</source>
-        <translation>&quot;bin/modpack.jar&quot; 内に &quot;version.json&quot; が見つからず、Minecraft のバージョンが不明です。</translation>
+        <translation>&quot;bin/modpack.jar&quot; 内に &quot;version.json&quot; が見つからず、Minecraft のバージョンが不明です</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -5280,12 +5296,12 @@ This message will be displayed until you remove them from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation>無効な &quot;forgeversion.properties&quot; です</translation>
+        <translation>無効な &quot;forgeversion.properties&quot; です!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="146"/>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation>&quot;version.json&quot; が見つかりませんでした</translation>
+        <translation>&quot;version.json&quot; が見つかりませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="159"/>
@@ -5382,7 +5398,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="439"/>
         <source>The native language name.</source>
-        <translation>母国語</translation>
+        <translation>母国語.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="443"/>
@@ -5545,7 +5561,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
         <source>Change version of the selected package.</source>
-        <translation>選択したパッケージのバージョンを変更します</translation>
+        <translation>選択したパッケージのバージョンを変更します.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="133"/>
@@ -5555,7 +5571,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="136"/>
         <source>Make the selected package apply sooner.</source>
-        <translation>選択したパッケージが先に適用されるようにします</translation>
+        <translation>選択したパッケージが先に適用されるようにします.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="141"/>
@@ -5565,7 +5581,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="144"/>
         <source>Make the selected package apply later.</source>
-        <translation>選択したパッケージが後に適用されるようにします</translation>
+        <translation>選択したパッケージが後に適用されるようにします.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="149"/>
@@ -5575,7 +5591,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="152"/>
         <source>Remove selected package from the instance.</source>
-        <translation>選択したパッケージをインスタンスから削除します</translation>
+        <translation>選択したパッケージをインスタンスから削除します.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="157"/>
@@ -5585,7 +5601,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="160"/>
         <source>Customize selected package.</source>
-        <translation>選択したパッケージをカスタマイズ</translation>
+        <translation>選択したパッケージをカスタマイズ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="165"/>
@@ -5595,7 +5611,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="168"/>
         <source>Edit selected package.</source>
-        <translation>選択したパッケージを編集します</translation>
+        <translation>選択したパッケージを編集します.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="173"/>
@@ -5605,7 +5621,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="176"/>
         <source>Revert the selected package to default.</source>
-        <translation>選択したパッケージをデフォルトの状態に戻す</translation>
+        <translation>選択したパッケージをデフォルトの状態に戻す.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="181"/>
@@ -5615,7 +5631,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="184"/>
         <source>Install the Minecraft Forge package.</source>
-        <translation>Forgeをインストール</translation>
+        <translation>Forgeをインストール.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="189"/>
@@ -5625,7 +5641,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Install the Fabric Loader package.</source>
-        <translation>Fabricをインストール</translation>
+        <translation>Fabricをインストール.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="197"/>
@@ -5635,7 +5651,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <source>Install the LiteLoader package.</source>
-        <translation>LiteLoaderをインストール</translation>
+        <translation>LiteLoaderをインストール.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="205"/>
@@ -5645,7 +5661,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Install normal mods.</source>
-        <translation>普通のMod (Forge Mod) を導入</translation>
+        <translation>普通のMod (Forge Mod) を導入.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="213"/>
@@ -5655,7 +5671,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>minecraft.jarにModを導入</translation>
+        <translation>minecraft.jarにModを導入.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="221"/>
@@ -5670,7 +5686,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
         <source>Add an empty custom package.</source>
-        <translation>空のカスタムパッケージを追加します</translation>
+        <translation>空のカスタムパッケージを追加します.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="234"/>
@@ -5680,7 +5696,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
         <source>Reload all packages.</source>
-        <translation>すべてのパッケージをリロードします</translation>
+        <translation>すべてのパッケージをリロードします.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="242"/>
@@ -5690,7 +5706,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="245"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>インスタンスの起動に必要なすべてのファイルを今ダウンロードします</translation>
+        <translation>インスタンスの起動に必要なすべてのファイルを今ダウンロードします.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="250"/>
@@ -5710,7 +5726,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="261"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>インスタンスのローカル libraries フォルダを開きます</translation>
+        <translation>インスタンスのローカル libraries フォルダを開きます.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="155"/>
@@ -5720,12 +5736,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="173"/>
         <source>%1 possibly has issues.</source>
-        <translation>%1 に問題がある可能性があります</translation>
+        <translation>%1 に問題がある可能性があります.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="176"/>
         <source>%1 has issues!</source>
-        <translation>%1 に問題があります</translation>
+        <translation>%1 に問題があります!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
@@ -5750,7 +5766,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="260"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>インスタンスのプロファイルを読み込めませんでした</translation>
+        <translation>インスタンスのプロファイルを読み込めませんでした.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="278"/>
@@ -5790,7 +5806,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="370"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation>Intermediaryマッピングのバージョンリストのダウンロード・読み込みに失敗しました。</translation>
+        <translation>Intermediaryマッピングのバージョンリストのダウンロード・読み込みに失敗しました!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="398"/>
@@ -5814,7 +5830,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="427"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
-        <translation>Forgeのバージョンリストを読み込めないかダウンロードできませんでした</translation>
+        <translation>Forgeのバージョンリストを読み込めないかダウンロードできませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="453"/>
@@ -5829,7 +5845,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
-        <translation>Fabricのバージョンリストを読み込めませんでした</translation>
+        <translation>Fabricのバージョンリストを読み込めませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="498"/>
@@ -5844,7 +5860,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="501"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
-        <translation>LiteLoaderのバージョンリストが読み込めませんでした</translation>
+        <translation>LiteLoaderのバージョンリストが読み込めませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="557"/>
@@ -5897,7 +5913,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="96"/>
         <source>The name of the version.</source>
-        <translation>バージョンの名前</translation>
+        <translation>バージョンの名前.</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="98"/>
@@ -5999,17 +6015,17 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
         <source>The name of the world.</source>
-        <translation>ワールドの名前</translation>
+        <translation>ワールドの名前.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="242"/>
         <source>Game mode of the world.</source>
-        <translation>ワールドのゲームモード</translation>
+        <translation>ワールドのゲームモード.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
         <source>Date and time the world was last played.</source>
-        <translation>ワールドを最後にプレイした日時</translation>
+        <translation>ワールドを最後にプレイした日時.</translation>
     </message>
 </context>
 <context>
@@ -6100,14 +6116,15 @@ Please add your Mojang or Minecraft account.</oldsource>
 The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
-        <translation>選択されたワールドは完全に削除されます
+        <translation type="unfinished">選択されたワ
+ルドは完全に削除されます
 
 よろしいですか?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="270"/>
         <source>No MCEdit found or set up!</source>
-        <translation>MCEditが見つからないか設定されていません。</translation>
+        <translation>MCEditが見つからないか設定されていません!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="271"/>
@@ -6119,7 +6136,7 @@ You can set it up in the global settings.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="280"/>
         <source>MCEdit failed to start!</source>
-        <translation>MCEditの起動に失敗しました</translation>
+        <translation>MCEditの起動に失敗しました!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="281"/>
@@ -6159,12 +6176,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="376"/>
         <source>Enter a new name for the copy.</source>
-        <translation>新しいワールド名を入力してください</translation>
+        <translation>新しいワールド名を入力してください.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="399"/>
         <source>Enter a new world name.</source>
-        <translation>新しいワールド名を入力してください</translation>
+        <translation>新しいワールド名を入力してください.</translation>
     </message>
 </context>
 <context>

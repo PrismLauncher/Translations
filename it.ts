@@ -175,7 +175,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="113"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&amp;lt;html&amp;gt;&amp;lt;body&amp;gt;&lt;p&gt;Un launcher personalizzato che rende la gestione di Minecraft più semplice permettendo di avere più istanze di Minecraft contemporaneamente.&lt;/p&gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Un launcher personalizzato che rende la gestione di Minecraft più semplice permettendo di avere più istanze di Minecraft contemporaneamente.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="164"/>
@@ -457,7 +457,7 @@ Se sei nuovo, puoi cliccare il pulsante &quot;Aggiungi&quot; per aggiungere il t
 Please update both your operating system and PolyMC.</source>
         <translation>Gli account Microsoft sono utilizzabili da macOS 10.13+ con PolyMC pienamente aggiornato.
 
-Per favore aggiorna il tuo sistema operativo e PolyMC</translation>
+Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -951,7 +951,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>JProfiler sembra essere essere configurato in maniera corretta</translation>
+        <translation type="unfinished">JProfiler sembra essere essere configurato in maniera corretta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="127"/>
@@ -969,7 +969,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="154"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM sembra essere essere configurato correttamente</translation>
+        <translation type="unfinished">JVisualVM sembra essere essere configurato correttamente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="165"/>
@@ -2156,7 +2156,7 @@ Vuoi giocare alla demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>L&apos;avvio é stato annullato - l&apos;account non possiede Minecraft</translation>
+        <translation>L&apos;avvio é stato annullato - l&apos;account non possiede Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="207"/>
@@ -3195,7 +3195,7 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>View the mods of this instance.</source>
-        <translation>Vedi le mod di questa istanza</translation>
+        <translation>Vedi le mod di questa istanza.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="544"/>
@@ -3372,7 +3372,7 @@ Causa:
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>Il Launcher non può scaricare Minecraft o aggiornare istanze se non hai almeno un account aggiunto.
-Per favore aggiungi il tuo account Mojang/Minecraft</translation>
+Per favore aggiungi il tuo account Mojang/Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
@@ -3382,7 +3382,7 @@ Per favore aggiungi il tuo account Mojang/Minecraft</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
         <source>Enter a new group name.</source>
-        <translation>Inserisci un nuovo nome del gruppo</translation>
+        <translation>Inserisci un nuovo nome del gruppo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1570"/>
@@ -3423,12 +3423,12 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1927"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>Ora hai due opzioni: &lt;br&gt; - cambia la cartella dell&apos;istanza nelle impostazioni &lt;br&gt; - sposta questa installazione di %1 in una cartella diversa</translation>
+        <translation>Ora hai due opzioni: &lt;br/&gt; - cambia la cartella dell&apos;istanza nelle impostazioni &lt;br/&gt; - sposta questa installazione di %1 in una cartella diversa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1936"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Questo è un problema: &lt;br&gt; - È probabile che il programma di avvio venga eliminato senza preavviso dal sistema operativo &lt;br&gt; - chiudi ora il programma di avvio ed estrailo in una posizione reale, non in una cartella temporanea</translation>
+        <translation>Questo è un problema: &lt;br/&gt; - È probabile che il programma di avvio venga eliminato senza preavviso dal sistema operativo &lt;br/&gt; - chiudi ora il programma di avvio ed estrailo in una posizione reale, non in una cartella temporanea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1943"/>
@@ -4158,7 +4158,7 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Carica il log sul servizio di paste configurato nelle impostazioni</translation>
+        <translation>Carica il log sul servizio di paste configurato nelle impostazioni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4539,7 +4539,7 @@ Scegli attentamente il tuo nome:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="136"/>
         <source>&lt;p&gt;You can &lt;a href=&quot;%1&quot;&gt;look at the changes on github&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Puoi &lt;a fref=&quot;%1&quot;&gt;controllare i cambiamenti su GitHub&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Puoi &lt;a href=&quot;%1&quot;&gt;controllare i cambiamenti su GitHub&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="36"/>

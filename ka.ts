@@ -564,13 +564,15 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="93"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>ვერ გადმოიწერა ასეტის ინდექსი: %1</translation>
+        <translation>ვერ გადმოიწერა ასეტის ინდექსი:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="98"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>ვერ გადმოიწერა ასეტი: %1</translation>
+        <translation>ვერ გადმოიწერა ასეტი:
+%1</translation>
     </message>
 </context>
 <context>

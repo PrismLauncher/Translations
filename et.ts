@@ -565,7 +565,8 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="93"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Varade indeksi allalaadimine ebaõnnestus: %1</translation>
+        <translation>Varade indeksi allalaadimine ebaõnnestus:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="98"/>
@@ -4137,7 +4138,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Laadi logi paste.ee-sse - see püsib seal kuu aega</translation>
+        <translation type="unfinished">Laadi logi paste.ee-sse - see püsib seal kuu aega.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -5813,7 +5814,8 @@ inheritsFrom is missing</source>
 Please add your Mojang or Minecraft account.</source>
         <oldsource>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">PolyMC ei saa Minecrafti allalaadida ega eksemplare uuendada, kuni sul pole vähemalt ühte kontot lisatud. Palun lisa oma Mojangi või Minecrafti konto.</translation>
+        <translation>PolyMC ei saa Minecrafti allalaadida ega eksemplare uuendada, kuni sul pole vähemalt ühte kontot lisatud.
+Palun lisa oma Mojangi või Minecrafti konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>

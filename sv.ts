@@ -565,13 +565,15 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="93"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Ett fel uppstod vid nedladdning av filindex: %1</translation>
+        <translation>Ett fel uppstod vid nedladdning av filindex:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="98"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Ett fel uppstod vid nedladdning av filer: %1</translation>
+        <translation>Ett fel uppstod vid nedladdning av filer:
+%1</translation>
     </message>
 </context>
 <context>
@@ -1485,7 +1487,8 @@ Försök igen.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="52"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Laddar ned modpack: %1</translation>
+        <translation>Laddar ned modpack:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="58"/>
@@ -4144,7 +4147,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Ladda upp loggen till paste.ee - den kommer att sparas där i en månad</translation>
+        <translation type="unfinished">Ladda upp loggen till paste.ee - den kommer att sparas där i en månad.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4212,7 +4215,8 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="229"/>
         <source>Do you really want to delete these files?
 %1</source>
-        <translation>Vill du verkligen ta bort dessa filer? %1</translation>
+        <translation>Vill du verkligen ta bort dessa filer?
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="256"/>
@@ -6000,7 +6004,8 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="128"/>
         <source>List update failed:
 %1</source>
-        <translation>Listuppdatering misslyckades: %1</translation>
+        <translation>Listuppdatering misslyckades:
+%1</translation>
     </message>
 </context>
 <context>

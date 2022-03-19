@@ -1140,7 +1140,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="99"/>
         <source> by </source>
-        <translation type="unfinished"> 作者：</translation>
+        <translation> 作者 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="108"/>
@@ -1224,7 +1224,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="103"/>
         <source> by </source>
-        <translation> 作者：</translation>
+        <translation> 作者 </translation>
     </message>
 </context>
 <context>
@@ -1838,7 +1838,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="40"/>
         <source>Console window for </source>
-        <translation>控制台窗口：</translation>
+        <translation>控制台窗口 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="64"/>
@@ -3435,12 +3435,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1927"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>你现在有两个选项可选：&lt;br&gt; - 在设置中修改实例文件夹 &lt;br&gt; - 将 %1 移动至其他文件夹</translation>
+        <translation>你现在有两个选项可选：&lt;br/&gt; - 在设置中修改实例文件夹 &lt;br/&gt; - 将 %1 移动至其他文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1936"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>这问题不小：&lt;br&gt; - 操作系统可能会在没有事先警告的情况下自动删除此启动器 &lt;br&gt; - 马上关闭启动器并将启动器解压至其他目录，而非临时文件夹</translation>
+        <translation>这问题不小：&lt;br/&gt; - 操作系统可能会在没有事先警告的情况下自动删除此启动器 &lt;br/&gt; - 马上关闭启动器并将启动器解压至其他目录，而非临时文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1943"/>
@@ -3976,7 +3976,7 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
         <source> by </source>
-        <translation type="unfinished"> 作者：</translation>
+        <translation> 作者 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="94"/>
@@ -4412,7 +4412,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="167"/>
         <source>The name %1 is not allowed.</source>
-        <translation>不允许使用此名称。（%1）</translation>
+        <translation>不允许使用此名称。（%1）.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="170"/>
@@ -5374,7 +5374,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="187"/>
         <source> by </source>
-        <translation> 作者：</translation>
+        <translation> 作者 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.h" line="45"/>
