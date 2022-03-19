@@ -19,32 +19,31 @@
         <translation type="unfinished">https://0x0.st</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="79"/>
         <source>https://paste.polymc.org</source>
-        <translation type="unfinished">https://paste.polymc.org</translation>
+        <translation type="obsolete">https://paste.polymc.org</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="87"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="106"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>Microsoft Authentication</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="119"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
         <source>(Default)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="139"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation type="unfinished"></translation>
     </message>
