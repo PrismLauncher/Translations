@@ -3086,7 +3086,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>View information about %1.</source>
-        <translation>Zobacz informacje o %1.</translation>
+        <translation>Zobacz informację o %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="386"/>
