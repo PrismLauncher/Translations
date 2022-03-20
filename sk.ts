@@ -4100,8 +4100,18 @@ Please update PolyMC!</source>
         <translation type="unfinished">Pridať účet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="39"/>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
+        <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
+        <source>Allow long usernames</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
