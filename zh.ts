@@ -44,7 +44,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="37"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="57"/>
         <source>APIs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -244,118 +244,118 @@
 <context>
     <name>AccountList</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>未检查</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="300"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>离线</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
         <source>Online</source>
         <comment>Account status</comment>
         <translation>在线</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>处理中</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>已过期</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>不复存在</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
         <translation>不适用</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="335"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Account</source>
         <translation>账户</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>Type</source>
         <translation>账户类型</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="353"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Status</source>
         <translation>状态</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Can Migrate?</source>
         <translation>是否可迁移?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
         <source>Profile</source>
         <translation>配置文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="366"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>User name of the account.</source>
         <translation>账户用户名。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="368"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="388"/>
         <source>Type of the account - Mojang or MSA.</source>
         <translation>账户类型 - Mojang 账户或微软账户。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="370"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="390"/>
         <source>Current status of the account.</source>
         <translation>账户的当前状态。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="372"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="392"/>
         <source>Can this account migrate to Microsoft account?</source>
         <translation>此账户是否可迁移至微软账户？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="374"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Name of the Minecraft profile associated with the account.</source>
         <translation>与该账户关联的 Minecraft 配置文件。</translation>
     </message>
@@ -418,40 +418,40 @@
         <translation>刷新帐户令牌</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="62"/>
         <source>Accounts</source>
         <translation>帐号</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="45"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>欢迎！
 如果你是第一次使用，你可以点击“添加”按钮来添加你的 Mojang 或 Minecraft 账户。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>上下文菜单</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>请输入你的 Mojang 账户邮箱和密码来添加账户。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="157"/>
         <source>Microsoft Accounts not available</source>
         <translation>微软账户不可用</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
 
 Please update both your operating system and PolyMC.</source>
@@ -460,27 +460,27 @@ Please update both your operating system and PolyMC.</source>
 请把您的操作系统和 PolyMC 全部更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="185"/>
         <source>Error</source>
         <translation type="unfinished">错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="186"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="197"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
         <source>Skin Delete</source>
         <translation>皮肤已删除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
         <source>Failed to delete current skin!</source>
         <translation>未能删除当前皮肤！</translation>
     </message>
@@ -488,47 +488,47 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>AccountTask</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="41"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
         <translation>发送请求至身份验证服务器……</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="43"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
         <translation>身份验证任务已完成。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="45"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
         <translation>连接身份验证服务器失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="47"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
         <translation>在身份验证过程中出现错误。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>认证失败。会话已过期。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>登录失败，此账户已不存在。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
         <source>Unknown account task state: %1</source>
         <translation>未知账户工作状态： %1</translation>
     </message>
@@ -536,7 +536,7 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="701"/>
+        <location filename="src/launcher/Application.cpp" line="736"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
@@ -879,29 +879,29 @@ Please update both your operating system and PolyMC.</source>
         <translation>导出实例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="384"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
         <source>Export %1</source>
         <translation>导出 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
         <source>Overwrite?</source>
         <translation>覆盖文件？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="394"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
         <source>This file already exists. Do you want to overwrite it?</source>
         <translation>文件已经存在，你想覆盖它吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="409"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="409"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
         <translation>无法导出实例</translation>
     </message>
@@ -2095,57 +2095,57 @@ Please select one of the following or browse for a java executable.</source>
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="35"/>
+        <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
         <translation>未指定实例！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="57"/>
+        <location filename="src/launcher/LaunchController.cpp" line="92"/>
         <source>No Accounts</source>
         <translation>无帐户</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="58"/>
+        <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
         <translation type="unfinished">要游玩 Minecraft，您必须要登录至少一个 Minecraft 帐户（包括微软帐户和 Mojang 帐户），您想现在打开帐户界面来添加一个帐户吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="77"/>
+        <location filename="src/launcher/LaunchController.cpp" line="112"/>
         <source>Which account would you like to use?</source>
         <translation>你想使用哪个帐户？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="101"/>
+        <location filename="src/launcher/LaunchController.cpp" line="136"/>
         <source>No account selected for launch.</source>
         <translation>没有选中用于启动游戏的账户。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="110"/>
+        <location filename="src/launcher/LaunchController.cpp" line="145"/>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation>您的账户已登出。请再次输入密码并重新登录。&lt;br /&gt; &lt;br /&gt; 这可能是因为您更改了密码。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="172"/>
         <source>Player name</source>
         <translation>玩家名称</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="138"/>
+        <location filename="src/launcher/LaunchController.cpp" line="173"/>
         <source>Choose your offline mode player name.</source>
         <translation>选择离线游戏时的玩家名称。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="166"/>
+        <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>Received undetermined session status during login.</source>
         <translation>登录时收到了不确定的会话状态。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="177"/>
+        <location filename="src/launcher/LaunchController.cpp" line="212"/>
         <source>Play demo?</source>
         <translation>是否游玩演示模式？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="178"/>
+        <location filename="src/launcher/LaunchController.cpp" line="213"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -2156,84 +2156,84 @@ Do you want to play the demo?</source>
 是否游玩演示模式？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="180"/>
+        <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Play Demo</source>
         <translation>游玩演示</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="181"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="191"/>
+        <location filename="src/launcher/LaunchController.cpp" line="226"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>启动已取消 - 账户未持有 Minecraft。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="207"/>
+        <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Play Offline</source>
         <translation>离线游戏</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>帐户已过期，需要手动重新登录。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Account refresh failed</source>
         <translation>账户刷新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="232"/>
+        <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="235"/>
+        <location filename="src/launcher/LaunchController.cpp" line="270"/>
         <source>Client identification changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="244"/>
+        <location filename="src/launcher/LaunchController.cpp" line="279"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>服务器上不再存在该帐户。它可能已迁移，在这种情况下，请添加您迁移到的新账户。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="247"/>
+        <location filename="src/launcher/LaunchController.cpp" line="282"/>
         <source>Account gone</source>
         <translation>账户遗失了</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="257"/>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
         <source>Failed to launch.</source>
         <translation>启动失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <source>Error!</source>
         <translation>错误！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
-        <location filename="src/launcher/LaunchController.cpp" line="268"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>无法加载实例配置文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="310"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>无法实例化一个启动器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <source>Couldn&apos;t start profiler: %1</source>
         <translation>无法启动 Profiler：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -2242,37 +2242,37 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="351"/>
+        <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Waiting.</source>
         <translation>等待中.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="353"/>
+        <location filename="src/launcher/LaunchController.cpp" line="388"/>
         <source>Launch</source>
         <translation>运行</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="361"/>
+        <location filename="src/launcher/LaunchController.cpp" line="396"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>无法启动 Profiler：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="362"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="425"/>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Kill Minecraft?</source>
         <translation>强行退出 Minecraft？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="407"/>
+        <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>这可能导致实例出现错误，这应该只在 Minecraft 由于一些原因冻结的时候使用</translation>
     </message>
@@ -2925,7 +2925,7 @@ Reason:
         <translation>打开登录页并复制代码</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
         <translation>&lt;p&gt;请在浏览器中打开 %1 并输入代码 &lt;b&gt;%2&lt;/b&gt; 以继续登录。&lt;/p&gt;</translation>
     </message>
@@ -2933,37 +2933,37 @@ Reason:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="32"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
         <source>Logging in with Microsoft account.</source>
         <translation>正在使用微软账户登录.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
         <source>Got </source>
         <translation>已获取 </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="99"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Microsoft user authentication ended with a network error.</source>
         <translation>微软账户认证时遇到了网络错误。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="139"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
         <translation>微软用户身份验证失败 - 用户不再存在。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="144"/>
         <source>Microsoft user authentication failed.</source>
         <translation>微软用户验证失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="149"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
         <translation>微软用户身份验证已完成，但结果无法识别。</translation>
     </message>
@@ -4726,7 +4726,7 @@ Choose your name carefully:</source>
         <translation>无法处理版本文件%1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="428"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="463"/>
         <source>No profile (%1)</source>
         <translation>没有人个人资料（%1）</translation>
     </message>

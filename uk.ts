@@ -44,7 +44,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="37"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="57"/>
         <source>APIs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -244,118 +244,118 @@
 <context>
     <name>AccountList</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>Не перевірено</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="300"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>Офлайн</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
         <source>Online</source>
         <comment>Account status</comment>
         <translation>Онлайн</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>Працює</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>Термін дії закінчився</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>Втрачено</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
         <translation>N/A</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
         <translation>Так</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="335"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
         <translation>Ні</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Account</source>
         <translation>Обліковий запис</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="353"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Can Migrate?</source>
         <translation>Може мігрувати?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
         <source>Profile</source>
         <translation>Профіль</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="366"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>User name of the account.</source>
         <translation>Ім&apos;я користувача облікового запису.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="368"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="388"/>
         <source>Type of the account - Mojang or MSA.</source>
         <translation>Тип облікового запису - Mojang або MSA.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="370"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="390"/>
         <source>Current status of the account.</source>
         <translation>Поточний стан облікового запису.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="372"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="392"/>
         <source>Can this account migrate to Microsoft account?</source>
         <translation>Чи можна цей обліковий запис мігрувати на Microsoft аккаунт?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="374"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Name of the Minecraft profile associated with the account.</source>
         <translation>Ім&apos;я профілю Minecraft, пов&apos;язаний з обліковим записом.</translation>
     </message>
@@ -418,67 +418,67 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="62"/>
         <source>Accounts</source>
         <translation>Акаунти</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="45"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Вітаю!
 Якщо ви новенькі, нажміть кнопку &quot;Додати акаунт&quot;, щоб додати ваш Mojang чи Minecraft акаунт.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>Контекстне меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Будь ласка, введіть ваш обліковий запис Mojang та пароль, щоб додати ваш обліковий запис.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="157"/>
         <source>Microsoft Accounts not available</source>
         <translation>Обліковий запис Microsoft не доступний</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
 
 Please update both your operating system and PolyMC.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="185"/>
         <source>Error</source>
         <translation type="unfinished">Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="186"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="197"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
         <source>Skin Delete</source>
         <translation>Видалити скiн</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
         <source>Failed to delete current skin!</source>
         <translation>Не вдалося видалити поточний скін!</translation>
     </message>
@@ -486,47 +486,47 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>AccountTask</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="41"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
         <translation>Надсилання запиту до серверів авторизації...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="43"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
         <translation>Завдання аутентифікації виконано успішно.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="45"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
         <translation>Не вдалося зв&apos;язатися з сервером автентифікації.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="47"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
         <translation>Трапилась помилка під час автентифікації.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>Не вдалося виконати автентифікацію. Термін дії сесії закінчився.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
         <source>Unknown account task state: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -534,7 +534,7 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="701"/>
+        <location filename="src/launcher/Application.cpp" line="736"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
@@ -865,29 +865,29 @@ Please update both your operating system and PolyMC.</source>
         <translation>Експортування збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="384"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
         <source>Export %1</source>
         <translation>Експорт %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
         <source>Overwrite?</source>
         <translation>Перезаписати?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="394"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
         <source>This file already exists. Do you want to overwrite it?</source>
         <translation>Цей файл уже існує. Ви хочете перезаписати його?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="409"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="409"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
         <translation>Не вдалося експортувати збірку</translation>
     </message>
@@ -2081,58 +2081,58 @@ Please select one of the following or browse for a java executable.</source>
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="35"/>
+        <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
         <translation>Немає вказаної збірки!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="57"/>
+        <location filename="src/launcher/LaunchController.cpp" line="92"/>
         <source>No Accounts</source>
         <translation>Немає облікового запису</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="58"/>
+        <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in.Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Для того, щоб грати Minecraft, ви повинні увійти, як мінімум, в один обліковий запис Mojang, або Minecraft. Відкрити керування обліковими записами для додавання обліківки?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="77"/>
+        <location filename="src/launcher/LaunchController.cpp" line="112"/>
         <source>Which account would you like to use?</source>
         <translation>Який обліковий запис Ви хочете використовувати?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="101"/>
+        <location filename="src/launcher/LaunchController.cpp" line="136"/>
         <source>No account selected for launch.</source>
         <translation>Не вибрано акаунту для запуску.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="110"/>
+        <location filename="src/launcher/LaunchController.cpp" line="145"/>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation>Ви не увійшли в свій акаунт. Будь ласка, введіть ваш пароль, щоб увійти знову. &lt;br /&gt; &lt;br /&gt; Це може бути викликано зміною паролю.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="172"/>
         <source>Player name</source>
         <translation>Ім‘я гравця</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="138"/>
+        <location filename="src/launcher/LaunchController.cpp" line="173"/>
         <source>Choose your offline mode player name.</source>
         <translation>Виберіть ім‘я гравця для офлайн режиму.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="166"/>
+        <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>Received undetermined session status during login.</source>
         <translation>Отриманий неоприділений статус сесії під час входу.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="177"/>
+        <location filename="src/launcher/LaunchController.cpp" line="212"/>
         <source>Play demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="178"/>
+        <location filename="src/launcher/LaunchController.cpp" line="213"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -2140,84 +2140,84 @@ Do you want to play the demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="180"/>
+        <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Play Demo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="181"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="191"/>
+        <location filename="src/launcher/LaunchController.cpp" line="226"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="207"/>
+        <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Play Offline</source>
         <translation>Грати офлайн</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Account refresh failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="232"/>
+        <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="235"/>
+        <location filename="src/launcher/LaunchController.cpp" line="270"/>
         <source>Client identification changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="244"/>
+        <location filename="src/launcher/LaunchController.cpp" line="279"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Обліковий запис більше не існує на серверах. Можливо, він був перенесений, у такому випадку додайте новий обліковий запис на який ви перенесли поточний.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="247"/>
+        <location filename="src/launcher/LaunchController.cpp" line="282"/>
         <source>Account gone</source>
         <translation>Обліковий запис зник</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="257"/>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
         <source>Failed to launch.</source>
         <translation>Не вдалося запустити.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <source>Error!</source>
         <translation>Помилка!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
-        <location filename="src/launcher/LaunchController.cpp" line="268"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Не вдалося завантажити профіль збірки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="310"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Не вдалося запустити лаунчер.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <source>Couldn&apos;t start profiler: %1</source>
         <translation>Не вдалося запустити профайлер: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -2226,37 +2226,37 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="351"/>
+        <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Waiting.</source>
         <translation>Чекаємо.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="353"/>
+        <location filename="src/launcher/LaunchController.cpp" line="388"/>
         <source>Launch</source>
         <translation>Запуск</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="361"/>
+        <location filename="src/launcher/LaunchController.cpp" line="396"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Не вдалося запустити профайлер: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="362"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="425"/>
         <source>Abort</source>
         <translation>Перервати</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Kill Minecraft?</source>
         <translation>Зупинити Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="407"/>
+        <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Це може привести до зіпсуття збірки і повинно використовуватись лише якщо Minecraft завис по якійсь причині</translation>
     </message>
@@ -2913,7 +2913,7 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2921,37 +2921,37 @@ Reason:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="32"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
         <source>Logging in with Microsoft account.</source>
         <translation>Вхід через обліковий запис Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
         <source>Got </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="99"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Microsoft user authentication ended with a network error.</source>
         <translation>Автентифікація Microsoft користувача закінчилася через помилку мережі.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="139"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="144"/>
         <source>Microsoft user authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="149"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4713,7 +4713,7 @@ Choose your name carefully:</source>
         <translation>Неможливо обробити файл версії %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="428"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="463"/>
         <source>No profile (%1)</source>
         <translation>Немає профілю (%1)</translation>
     </message>

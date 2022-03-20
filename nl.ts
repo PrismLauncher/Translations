@@ -44,7 +44,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="37"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="57"/>
         <source>APIs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -244,118 +244,118 @@
 <context>
     <name>AccountList</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="277"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="297"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
         <translation>Afgevinkt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="300"/>
         <source>Offline</source>
         <comment>Account status</comment>
         <translation>Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="303"/>
         <source>Online</source>
         <comment>Account status</comment>
         <translation>Online</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="286"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
         <source>Working</source>
         <comment>Account status</comment>
         <translation>Bezig</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
         <source>Errored</source>
         <comment>Account status</comment>
         <translation>Mislukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="292"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
         <source>Expired</source>
         <comment>Account status</comment>
         <translation>Verlopen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="295"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
         <source>Disabled</source>
         <comment>Account status</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
         <source>Gone</source>
         <comment>Account status</comment>
         <translation>Verdwenen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
         <translation>N.V.T.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="312"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
         <translation>Ja</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="335"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
         <translation>Nee</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="349"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Account</source>
         <translation>Account</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="353"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="373"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="355"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Can Migrate?</source>
         <translation>Migreerbaar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="357"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
         <source>Profile</source>
         <translation>Profiel</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="366"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>User name of the account.</source>
         <translation>Gebruikersnaam van het account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="368"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="388"/>
         <source>Type of the account - Mojang or MSA.</source>
         <translation>Type van het account - Mojang of MSA.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="370"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="390"/>
         <source>Current status of the account.</source>
         <translation>Huidige status van het account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="372"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="392"/>
         <source>Can this account migrate to Microsoft account?</source>
         <translation>Kan dit account naar Microsoft account migreren?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="374"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Name of the Minecraft profile associated with the account.</source>
         <translation>Naam van het Minecraft-profiel dat aan dit account is gekoppeld.</translation>
     </message>
@@ -418,67 +418,67 @@
         <translation>Ververs de account-tokens</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="62"/>
         <source>Accounts</source>
         <translation>Accounts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="45"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Welkom!
 Als u hier nieuw bent, kunt u op de knop &quot;Toevoegen&quot; klikken om uw Mojang- of Minecraft-account toe te voegen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="89"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
         <source>Context menu</source>
         <translation>Contextmenu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="120"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Voer uw Mojang account e-mailadres en wachtwoord in om uw account toe te voegen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="157"/>
         <source>Microsoft Accounts not available</source>
         <translation>Microsoft-accounts niet beschikbaar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
 
 Please update both your operating system and PolyMC.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="185"/>
         <source>Error</source>
         <translation type="unfinished">Fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="186"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="197"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
         <source>Skin Delete</source>
         <translation>Skin verwijderen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
         <source>Failed to delete current skin!</source>
         <translation>Kon huidige skin niet verwijderen!</translation>
     </message>
@@ -486,47 +486,47 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>AccountTask</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="41"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
         <translation>Aanvraag naar de authenticatieservers verzenden...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="43"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
         <translation>Authenticatietaak geslaagd.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="45"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
         <translation>Kon geen contact maken met de authenticatieserver.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="47"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="49"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
         <translation>Fout opgetreden tijdens de authenticatie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="51"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
         <translation>Authenticatie mislukt. De sessie is verlopen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="53"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
         <translation>Authenticatie mislukt. Het account bestaat niet meer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="55"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
         <source>Unknown account task state: %1</source>
         <translation>Onbekende account taak status: %1</translation>
     </message>
@@ -534,7 +534,7 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="701"/>
+        <location filename="src/launcher/Application.cpp" line="736"/>
         <source>Settings</source>
         <translation>Instellingen</translation>
     </message>
@@ -865,29 +865,29 @@ Please update both your operating system and PolyMC.</source>
         <translation>Instantie exporteren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="384"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
         <source>Export %1</source>
         <translation>Exporteer %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="393"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
         <source>Overwrite?</source>
         <translation>Overschrijven?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="394"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
         <source>This file already exists. Do you want to overwrite it?</source>
         <translation>Dit bestand bestaat al. Wilt u het bestaande bestand overschrijven?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="409"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="409"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
         <translation>Kon de instantie niet exporteren</translation>
     </message>
@@ -2081,57 +2081,57 @@ Kies één van de volgende, of blader naar een uitvoerbaar Java-bestand.</transl
 <context>
     <name>LaunchController</name>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="35"/>
+        <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
         <translation>Geen server opgegeven!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="57"/>
+        <location filename="src/launcher/LaunchController.cpp" line="92"/>
         <source>No Accounts</source>
         <translation>Geen accounts</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="58"/>
+        <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
         <translation type="unfinished">Om Minecraft te kunnen spelen moet u op z&apos;n minst bij een Minecraft of Mojang account aangemeld zijn. Wilt u het accountbeheer openen om een account toe te voegen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="77"/>
+        <location filename="src/launcher/LaunchController.cpp" line="112"/>
         <source>Which account would you like to use?</source>
         <translation>Welk account wilt u gebruiken?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="101"/>
+        <location filename="src/launcher/LaunchController.cpp" line="136"/>
         <source>No account selected for launch.</source>
         <translation>Geen account gekozen om mee op te starten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="110"/>
+        <location filename="src/launcher/LaunchController.cpp" line="145"/>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation>Uw account is momenteel niet aangemeld. Voer uw wachtwoord in om u opnieuw aan te melden. &lt;br /&gt; &lt;br /&gt; Dit kan worden veroorzaakt door een wachtwoordwijziging.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="137"/>
+        <location filename="src/launcher/LaunchController.cpp" line="172"/>
         <source>Player name</source>
         <translation>Spelernaam</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="138"/>
+        <location filename="src/launcher/LaunchController.cpp" line="173"/>
         <source>Choose your offline mode player name.</source>
         <translation>Kies uw spelernaam voor de offline-modus.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="166"/>
+        <location filename="src/launcher/LaunchController.cpp" line="201"/>
         <source>Received undetermined session status during login.</source>
         <translation>Onbepaalde sessiestatus ontvangen tijdens inloggen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="177"/>
+        <location filename="src/launcher/LaunchController.cpp" line="212"/>
         <source>Play demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="178"/>
+        <location filename="src/launcher/LaunchController.cpp" line="213"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -2139,84 +2139,84 @@ Do you want to play the demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="180"/>
+        <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Play Demo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="181"/>
+        <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="191"/>
+        <location filename="src/launcher/LaunchController.cpp" line="226"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="207"/>
+        <location filename="src/launcher/LaunchController.cpp" line="242"/>
         <source>Play Offline</source>
         <translation>Speel offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="220"/>
+        <location filename="src/launcher/LaunchController.cpp" line="255"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>Het account is verlopen en moet opnieuw handmatig op worden ingelogd.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="223"/>
+        <location filename="src/launcher/LaunchController.cpp" line="258"/>
         <source>Account refresh failed</source>
         <translation>Account verversen is mislukt</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="232"/>
+        <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="235"/>
+        <location filename="src/launcher/LaunchController.cpp" line="270"/>
         <source>Client identification changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="244"/>
+        <location filename="src/launcher/LaunchController.cpp" line="279"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Het account bestaat niet meer op de servers. Het kan zijn gemigreerd, in dat geval dient U het nieuwe account waar U naartoe hebt gemigreerd toe te voegen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="247"/>
+        <location filename="src/launcher/LaunchController.cpp" line="282"/>
         <source>Account gone</source>
         <translation>Account is weg</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="257"/>
+        <location filename="src/launcher/LaunchController.cpp" line="292"/>
         <source>Failed to launch.</source>
         <translation>Starten mislukt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <source>Error!</source>
         <translation>Fout!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
-        <location filename="src/launcher/LaunchController.cpp" line="268"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
+        <location filename="src/launcher/LaunchController.cpp" line="303"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Kon het profiel van deze instantie niet laden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="275"/>
+        <location filename="src/launcher/LaunchController.cpp" line="310"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Kon geen launcher-instantie aanmaken.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="339"/>
+        <location filename="src/launcher/LaunchController.cpp" line="374"/>
         <source>Couldn&apos;t start profiler: %1</source>
         <translation>Kon de profiler niet starten: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="348"/>
+        <location filename="src/launcher/LaunchController.cpp" line="383"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -2225,37 +2225,37 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="351"/>
+        <location filename="src/launcher/LaunchController.cpp" line="386"/>
         <source>Waiting.</source>
         <translation>Wacht.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="353"/>
+        <location filename="src/launcher/LaunchController.cpp" line="388"/>
         <source>Launch</source>
         <translation>Start</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="361"/>
+        <location filename="src/launcher/LaunchController.cpp" line="396"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Kon de profiler niet starten: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="362"/>
+        <location filename="src/launcher/LaunchController.cpp" line="397"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="390"/>
+        <location filename="src/launcher/LaunchController.cpp" line="425"/>
         <source>Abort</source>
         <translation>Afbreken</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="406"/>
+        <location filename="src/launcher/LaunchController.cpp" line="441"/>
         <source>Kill Minecraft?</source>
         <translation>Minecraft afbreken?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="407"/>
+        <location filename="src/launcher/LaunchController.cpp" line="442"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Dit kan ervoor zorgen dat de instantie beschadigd raakt en zou alleen gebruikt moeten worden als Minecraft om één of andere reden vastgelopen is</translation>
     </message>
@@ -2908,7 +2908,7 @@ Reden:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="87"/>
+        <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Open %1 in een browser en voer code &lt;b&gt;%2&lt;/b&gt; in om door te gaan met inloggen.&lt;/p&gt;</translation>
     </message>
@@ -2916,37 +2916,37 @@ Reden:
 <context>
     <name>MSAStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="32"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
         <source>Logging in with Microsoft account.</source>
         <translation>Aanmelden met Microsoft-account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
         <source>Got </source>
         <translation>Ontving </translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="99"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Microsoft user authentication ended with a network error.</source>
         <translation>Microsoft gebruikersauthenticatie eindigde met een netwerkfout.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="139"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
         <translation>Microsoft gebruikersauthenticatie mislukt - gebruiker bestaat niet meer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="144"/>
         <source>Microsoft user authentication failed.</source>
         <translation>Microsoft gebruikersauthenticatie mislukt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="114"/>
+        <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="149"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
         <translation>Microsoft gebruikersauthenticatie voltooid met een onbekend resultaat.</translation>
     </message>
@@ -4705,7 +4705,7 @@ Kies uw naam zorgvuldig:</translation>
         <translation>Versiebestand %1 kon niet worden verwerkt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="428"/>
+        <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="463"/>
         <source>No profile (%1)</source>
         <translation>Geen profiel (%1)</translation>
     </message>
