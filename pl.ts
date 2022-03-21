@@ -749,7 +749,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="90"/>
         <source>&amp;Group</source>
-        <translation>&amp;amp;Grupa</translation>
+        <translation>&amp;Grupa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="115"/>
@@ -780,7 +780,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>Cus&amp;tom Commands</source>
-        <translation>Wła&amp;amp;sne komendy</translation>
+        <translation>Włas&amp;ne komendy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
@@ -1459,12 +1459,12 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
-        <translation>&amp;amp;Nazwa:</translation>
+        <translation>&amp;Nazwa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation>&amp;amp;Grupa:</translation>
+        <translation>&amp;Grupa:</translation>
     </message>
 </context>
 <context>
@@ -1651,7 +1651,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
         <source>Java insta&amp;llation</source>
-        <translation>Insta&amp;amp;lacja Java&apos;y</translation>
+        <translation>Insta&amp;lacja Java&apos;y</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
@@ -1671,7 +1671,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
         <source>Memor&amp;y</source>
-        <translation>Pamię&amp;amp;ć</translation>
+        <translation>Pam&amp;ięć</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="109"/>
@@ -1706,7 +1706,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="209"/>
         <source>Java argumen&amp;ts</source>
-        <translation>Argumenty Ja&amp;amp;vy</translation>
+        <translation>Argumen&amp;ty Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="228"/>
@@ -1736,7 +1736,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="309"/>
         <source>Conso&amp;le Settings</source>
-        <translation>Ustawienia konso&amp;amp;li</translation>
+        <translation>Ustawienia konso&amp;li</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="321"/>
@@ -2326,7 +2326,7 @@ Konieczne może być naprawienie modów, gdyż gra wciąż zapisuje logi do plik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
         <source>Up&amp;date Channel:</source>
-        <translation>Ka&amp;amp;nał aktualizacji:</translation>
+        <translation>K&amp;anał aktualizacji:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="81"/>
@@ -2341,17 +2341,17 @@ Konieczne może być naprawienie modów, gdyż gra wciąż zapisuje logi do plik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="100"/>
         <source>I&amp;nstances:</source>
-        <translation>I&amp;amp;nstancje:</translation>
+        <translation>I&amp;nstancje:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="120"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;amp;Mody:</translation>
+        <translation>&amp;Mody:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;amp;Ikony:</translation>
+        <translation>&amp;Ikony:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
@@ -2371,12 +2371,12 @@ Konieczne może być naprawienie modów, gdyż gra wciąż zapisuje logi do plik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
         <source>By &amp;last launched</source>
-        <translation>Według &amp;amp;ostatniego uruchomienia</translation>
+        <translation>Według &amp;ostatniego uruchomienia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="209"/>
         <source>By &amp;name</source>
-        <translation>Według &amp;amp;nazwy</translation>
+        <translation>Według &amp;nazwy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="222"/>
@@ -2386,7 +2386,7 @@ Konieczne może być naprawienie modów, gdyż gra wciąż zapisuje logi do plik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="228"/>
         <source>&amp;Icons</source>
-        <translation>&amp;amp;Ikony</translation>
+        <translation>&amp;Ikony</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
@@ -2821,7 +2821,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation>&amp;amp;Kopiuj</translation>
+        <translation>&amp;Kopiuj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -3574,12 +3574,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window hei&amp;ght:</source>
-        <translation>Wyso&amp;amp;kość okna:</translation>
+        <translation>Wyso&amp;kość okna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>W&amp;indow width:</source>
-        <translation>Szerokość o&amp;amp;kna:</translation>
+        <translation>Szerokość &amp;okna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -3764,7 +3764,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="96"/>
         <source>&amp;Add</source>
-        <translation>&amp;amp;Dodaj</translation>
+        <translation>Dod&amp;aj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="99"/>
@@ -3774,7 +3774,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="104"/>
         <source>&amp;Remove</source>
-        <translation>&amp;amp;Usuń</translation>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="107"/>
@@ -3784,7 +3784,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="112"/>
         <source>&amp;Enable</source>
-        <translation>&amp;amp;Włącz</translation>
+        <translation>&amp;Włącz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="115"/>
@@ -3794,7 +3794,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="120"/>
         <source>&amp;Disable</source>
-        <translation>&amp;amp;Wyłącz</translation>
+        <translation>&amp;Wyłącz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="123"/>
@@ -3804,7 +3804,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="128"/>
         <source>View &amp;Configs</source>
-        <translation>Wyświetl &amp;amp;konfigi</translation>
+        <translation>Wyświetl &amp;konfigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="131"/>
@@ -3814,7 +3814,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="136"/>
         <source>View &amp;Folder</source>
-        <translation>Wyświetl &amp;amp;folder</translation>
+        <translation>Wyświetl &amp;folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
@@ -4069,12 +4069,12 @@ Proszę zaktualizować PolyMC!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation>&amp;amp;Grupa:</translation>
+        <translation>&amp;Grupa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation>&amp;amp;Nazwa:</translation>
+        <translation>&amp;Nazwa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="69"/>
@@ -4153,12 +4153,12 @@ Proszę zaktualizować PolyMC!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwy użytkownika dłuższe niż 16 znaków nie mogą być używane w grach LAN lub na serwerach w trybie offline.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Zezwól na długą nazwę użytkownika</translation>
     </message>
 </context>
 <context>
@@ -4189,7 +4189,7 @@ Proszę zaktualizować PolyMC!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="70"/>
         <source>&amp;Copy</source>
-        <translation>&amp;amp;Kopiuj</translation>
+        <translation>&amp;Kopiuj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
@@ -4516,22 +4516,22 @@ Wybierz ostrożnie swoją nazwę:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation>&amp;amp;Domyślny</translation>
+        <translation>&amp;Domyślny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation>&amp;amp;Brak</translation>
+        <translation>&amp;Brak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>SOC&amp;KS5</source>
-        <translation>SOC&amp;amp;KS5</translation>
+        <translation>SOC&amp;KS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>H&amp;TTP</source>
-        <translation>H&amp;amp;TTP</translation>
+        <translation>H&amp;TTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
@@ -5071,7 +5071,7 @@ Ta wiadomość będzie się wyświetlać, dopóki te argumenty nie zostaną usun
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation>&amp;amp;Nazwa</translation>
+        <translation>&amp;Nazwa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
@@ -5081,7 +5081,7 @@ Ta wiadomość będzie się wyświetlać, dopóki te argumenty nie zostaną usun
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation>Zas&amp;amp;oby</translation>
+        <translation>Zas&amp;oby</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
@@ -5144,27 +5144,27 @@ Ta wiadomość będzie się wyświetlać, dopóki te argumenty nie zostaną usun
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="28"/>
         <source>&amp;Next &gt;</source>
-        <translation>&amp;amp;Dalej &amp;gt;</translation>
+        <translation>&amp;Dalej &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&lt; &amp;Back</source>
-        <translation>&amp;lt; &amp;amp;Wstecz</translation>
+        <translation>&lt; &amp;Wstecz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&amp;Finish</source>
-        <translation>&amp;amp;Zakończ</translation>
+        <translation>&amp;Zakończ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;amp;Odśwież</translation>
+        <translation>&amp;Odśwież</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>%1 Quick Setup</source>
-        <translation>%1 Szybka konfiguracja</translation>
+        <translation>Szybka konfiguracja %1</translation>
     </message>
 </context>
 <context>
@@ -6071,7 +6071,7 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;amp;Odśwież</translation>
+        <translation>&amp;Odśwież</translation>
     </message>
 </context>
 <context>
