@@ -14,11 +14,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="74"/>
-        <source>https://0x0.st</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
@@ -44,7 +39,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -418,67 +413,67 @@
         <translation>Obnoviť tokeny účtov</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="62"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
         <translation>Účty</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Vitaj!
 Ak si tu nový, klikni na tlačidlo „Pridať“ a pridaj svoj Mojang alebo Minecraft účet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="174"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Prosím zadaj e-mail a heslo svojho Mojang účtu na pridanie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
         <source>Microsoft Accounts not available</source>
         <translation>Microsoft účty nedostupné</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="164"/>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
 
 Please update both your operating system and PolyMC.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="191"/>
         <source>Error</source>
         <translation type="unfinished">Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="203"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
         <source>Skin Delete</source>
         <translation>Odstránenie skinu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
         <source>Failed to delete current skin!</source>
         <translation>Nepodarilo sa odstrániť aktuálny skin!</translation>
     </message>
@@ -636,28 +631,28 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
-        <source>Search and filter ...</source>
-        <translation>Hľadanie a filtrovanie ...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">Hľadanie a filtrovanie ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>Žiadne verzie nie sú momentálne dostupné pre Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="185"/>
         <source>No versions are currently available</source>
         <translation>Žiadne verzie nie sú momentálne dostupné</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
         <source>Couldn&apos;t load or download the version lists!</source>
         <translation>Nie je možné načítať alebo stiahnuť súbor s verziami!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h" line="45"/>
         <source>ATLauncher</source>
-        <translation>ATLauncher</translation>
+        <translation type="vanished">ATLauncher</translation>
     </message>
 </context>
 <context>
@@ -794,14 +789,15 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CustomCommandsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="35"/>
+        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
         <translation>Vlastné príkazy</translation>
     </message>
@@ -815,9 +811,10 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="91"/>
-        <source>Could not launch minecraft!</source>
+        <source>Could not launch Minecraft!</source>
+        <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation>Nepodarilo sa spustiť minecraft!</translation>
+        <translation type="unfinished">Nepodarilo sa spustiť minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -912,98 +909,98 @@ Please update both your operating system and PolyMC.</source>
         <translation>Textový editor:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="37"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
         <translation>Externé nástroje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="90"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="110"/>
         <source>JProfiler Folder</source>
         <translation>Adresár JProfilera</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="113"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="211"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="113"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="133"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>Chyba pri kontrole inštalácie JProfilera:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="154"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="215"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>Nastavenie JProfilera vyzerá byť v poriadku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="147"/>
         <source>JVisualVM Executable</source>
         <translation>JVisualVM spúštač</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <source>Error while checking JVisualVM install:
 %1</source>
         <translation>Chyba pri kontrole inštalácie JVisualVM:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="174"/>
         <source>JVisualVM setup seems to be OK</source>
         <translation>Nastavenie JVisualVM vyzerá byť v poriadku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Application</source>
         <translation>Aplikácia MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="187"/>
         <source>MCEdit Folder</source>
         <translation>Priečinok MCEditora</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="211"/>
         <source>Error while checking MCEdit install:
 %1</source>
         <translation>Chyba pri kontrole inštalácie MCEdit:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="215"/>
         <source>MCEdit setup seems to be OK</source>
         <translation>Nastavenie MCEdit vyzerá byť v poriadku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="222"/>
         <source>JSON Editor</source>
         <translation>JSON Editor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="244"/>
         <source>Invalid</source>
         <translation>Neplatný</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="245"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>Zvolený súbor nevyzerá byť spustiteľný</translation>
     </message>
@@ -1079,13 +1076,14 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="35"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="231"/>
         <source>Select mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="44"/>
-        <source>Search and filter ...</source>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1094,65 +1092,64 @@ Prosím skúste to znova.</translation>
         <translation type="unfinished">Hľadať</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="65"/>
         <source>Sort by Featured</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="66"/>
         <source>Sort by Popularity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="67"/>
         <source>Sort by last updated</source>
         <translation type="unfinished">Zoradiť podľa poslednej aktualizácie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="33"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="68"/>
         <source>Sort by Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="69"/>
         <source>Sort by Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="35"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="70"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="139"/>
         <source> by </source>
         <translation type="unfinished"> od </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="148"/>
         <source>Loading versions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="156"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="174"/>
-        <source>No Valid Version found!</source>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="214"/>
+        <source>No valid version found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="200"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="233"/>
         <source>Deselect mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.h" line="30"/>
         <source>CurseForge</source>
-        <translation type="unfinished">CurseForge</translation>
+        <translation type="obsolete">CurseForge</translation>
     </message>
 </context>
 <context>
@@ -1169,46 +1166,46 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
-        <source>Search and filter ...</source>
-        <translation>Hľadať a filtrovať ...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">Hľadať a filtrovať ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.h" line="45"/>
         <source>CurseForge</source>
-        <translation>CurseForge</translation>
+        <translation type="vanished">CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="25"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by featured</source>
         <translation>Zoradiť podľa odporúčaných</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="26"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by popularity</source>
         <translation>Triediť podľa obľúbenosti</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="27"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by last updated</source>
         <translation>Zoradiť podľa poslednej aktualizácie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="28"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by name</source>
         <translation>Zoradiť podľa názvu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by author</source>
         <translation>Triediť podľa autora</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
         <source>Sort by total downloads</source>
         <translation>Zoradiť podľa počtu stiahnutí</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="103"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="143"/>
         <source> by </source>
         <translation> od </translation>
     </message>
@@ -1217,8 +1214,9 @@ Prosím skúste to znova.</translation>
     <name>FoldersTask</name>
     <message>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
-        <source>Failed to create folder for minecraft binaries.</source>
-        <translation>Zlyhalo vytvorenie adresára pre binárne súbory Minecraftu.</translation>
+        <source>Failed to create folder for Minecraft binaries.</source>
+        <oldsource>Failed to create folder for minecraft binaries.</oldsource>
+        <translation type="unfinished">Zlyhalo vytvorenie adresára pre binárne súbory Minecraftu.</translation>
     </message>
 </context>
 <context>
@@ -1248,13 +1246,13 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
-        <source>Search and filter ...</source>
-        <translation>Hľadať a filtrovať ...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">Hľadať a filtrovať ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.h" line="43"/>
         <source>FTB</source>
-        <translation>FTB</translation>
+        <translation type="vanished">FTB</translation>
     </message>
 </context>
 <context>
@@ -1273,7 +1271,7 @@ Prosím skúste to znova.</translation>
 <context>
     <name>GameOptionsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="65"/>
         <source>Game Options</source>
         <translation>Nastavenia hry</translation>
     </message>
@@ -1419,17 +1417,17 @@ Prosím skúste to znova.</translation>
         <translation>Lokálny súbor alebo linka priameho stiahnutia:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="40"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
         <translation>Importovať zo zipu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
         <source>Choose modpack</source>
         <translation>Zvoliť modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
         <source>Zip (*.zip)</source>
         <translation>Zip (*.zip)</translation>
     </message>
@@ -1557,8 +1555,9 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
-        <source>Could not map recommended forge version for Minecraft %1</source>
-        <translation>Nepodarilo sa namapovať verziu forge pre Minecraft %1</translation>
+        <source>Could not map recommended Forge version for Minecraft %1</source>
+        <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
+        <translation type="unfinished">Nepodarilo sa namapovať verziu forge pre Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
@@ -1796,17 +1795,17 @@ Prosím skúste to znova.</translation>
         <translation>Adresa servera:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
         <source>Settings</source>
         <translation>Nastavenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="320"/>
         <source>Select a Java version</source>
         <translation>Zvoľte Java verziu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="338"/>
         <source>Find Java executable</source>
         <translation>Nájsť Java spúštač</translation>
     </message>
@@ -1956,17 +1955,17 @@ Prosím skúste to znova.</translation>
         <translation>Test</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="107"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="127"/>
         <source>Select a Java version</source>
         <translation>Zvoľte Java verziu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="120"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="140"/>
         <source>Find Java executable</source>
         <translation>Nájsť Java spúštač</translation>
     </message>
@@ -2044,15 +2043,17 @@ Verziu Javy dokážete kedykoľvek zmeniť v nastaveniach.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
         <source>You do not have a working Java set up yet or it went missing.
-Please select one of the following or browse for a java executable.</source>
-        <translation>Nemáte funkčné nastavenia Javy alebo toto nastavenie chýba
+Please select one of the following or browse for a Java executable.</source>
+        <oldsource>You do not have a working Java set up yet or it went missing.
+Please select one of the following or browse for a java executable.</oldsource>
+        <translation type="unfinished">Nemáte funkčné nastavenia Javy alebo toto nastavenie chýba
 Prosim zvoľte si jedno z nasledujúcich alebo vyhľadajte spustiteľnú Javu.</translation>
     </message>
 </context>
 <context>
     <name>LanguagePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="35"/>
+        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="55"/>
         <source>Language</source>
         <translation>Jazyk</translation>
     </message>
@@ -2467,42 +2468,42 @@ Maly by ste opraviť svoje módy, pretože hra stále zaznamenáva log do súbor
         <translation>Písmo konzoly</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="121"/>
         <source>Instance Folder</source>
         <translation>Priečinok inštancie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>Snažíte sa zadať priečinok inštancie ktorého cesta obsahuje aspoň jeden &apos;!&apos;. Java s týmto môže mať problémy a Vaša inštancia sa nemusí spustiť!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="135"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>Naozaj chcete použiť túto cestu? Zvolením &quot;Nie&quot; sa cesta k inštancii nezmení.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="153"/>
         <source>Icons Folder</source>
         <translation>Priečinok ikon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="164"/>
         <source>Mods Folder</source>
         <translation>Priečinok módov</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="422"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="442"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[Something/ERROR] Strašidelná chyba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="431"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="451"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Neškodná správa...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="460"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Something/WARN] Nie veľmi strašidelné upozornenie.</translation>
     </message>
@@ -2516,9 +2517,10 @@ Maly by ste opraviť svoje módy, pretože hra stále zaznamenáva log do súbor
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="157"/>
-        <source>Could not launch minecraft!</source>
+        <source>Could not launch Minecraft!</source>
+        <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Nepodarilo sa spustiť minecraft!</translation>
+        <translation type="unfinished">Nepodarilo sa spustiť minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
@@ -2605,8 +2607,9 @@ Maly by ste opraviť svoje módy, pretože hra stále zaznamenáva log do súbor
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
-        <source>Failed to move unzipped minecraft!</source>
-        <translation>Zlyhalo presúvanie rozbaleného minecraftu!</translation>
+        <source>Failed to move unzipped Minecraft!</source>
+        <oldsource>Failed to move unzipped minecraft!</oldsource>
+        <translation type="unfinished">Zlyhalo presúvanie rozbaleného minecraftu!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="184"/>
@@ -2647,39 +2650,38 @@ Maly by ste opraviť svoje módy, pretože hra stále zaznamenáva log do súbor
         <translation>Zvolená verzia:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.h" line="53"/>
         <source>FTB Legacy</source>
-        <translation>FTB Legacy</translation>
+        <translation type="vanished">FTB Legacy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="234"/>
         <source>FTB private packs</source>
         <translation>Privátne balíčky FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="235"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>Zlyhalo sťahovanie informácií balíčka kvôli %1.
 Môže byť balíček vymazaný?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="373"/>
         <source>Add FTB pack</source>
         <translation>Pridať FTB balíček</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="334"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="374"/>
         <source>Enter pack code:</source>
         <translation>Zadajte kód balíčku:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="397"/>
         <source>Remove pack</source>
         <translation>Vymazať balíček</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="398"/>
         <source>Are you sure you want to remove pack %1?</source>
         <translation>Naozaj chcete vymazať balíček %1?</translation>
     </message>
@@ -2841,7 +2843,7 @@ Dôvod:
         <translation>Na spodok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="41"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>Minecraftový záznam</translation>
     </message>
@@ -3042,7 +3044,8 @@ Dôvod:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
-        <source>Matrix</source>
+        <source>Matrix space</source>
+        <oldsource>Matrix</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3052,8 +3055,9 @@ Dôvod:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
-        <source>Discord</source>
-        <translation>Discord</translation>
+        <source>Discord guild</source>
+        <oldsource>Discord</oldsource>
+        <translation type="unfinished">Discord</translation>
     </message>
     <message>
         <source>Open %1 discord voice chat.</source>
@@ -3061,8 +3065,9 @@ Dôvod:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="370"/>
-        <source>Reddit</source>
-        <translation>Reddit</translation>
+        <source>Subreddit</source>
+        <oldsource>Reddit</oldsource>
+        <translation type="unfinished">Reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
@@ -3233,8 +3238,9 @@ Dôvod:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
-        <source>Open the selected instance&apos;s minecraft folder in a file browser.</source>
-        <translation>Otvoriť priečinok minecraft zvolenej inštancie v prehliadači súborov.</translation>
+        <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
+        <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
+        <translation type="unfinished">Otvoriť priečinok minecraft zvolenej inštancie v prehliadači súborov.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
@@ -3268,8 +3274,9 @@ Dôvod:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
-        <source>Delete</source>
-        <translation>Vymazať</translation>
+        <source>Delete Instance</source>
+        <oldsource>Delete</oldsource>
+        <translation type="unfinished">Vymazať</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
@@ -3389,7 +3396,7 @@ Please add your Mojang or Minecraft account.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
-        <source>Are you sure you want to delete the group %1</source>
+        <source>Are you sure you want to delete the group %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3596,7 +3603,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
@@ -3781,54 +3788,54 @@ Are you sure?</source>
         <translation>Zobrazit &amp;zložku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
         <source>Download mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="171"/>
         <source>Download mods from online mod platforms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>Add .jar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <source>Add mods via local file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="226"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="341"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Zvoliť %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="368"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="376"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="401"/>
         <source>Error</source>
         <translation type="unfinished">Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
         <source>Please install a mod loader first!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Warnings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="387"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>Abort</source>
         <translation type="unfinished">Zrušiť</translation>
     </message>
@@ -3914,7 +3921,8 @@ Please update PolyMC!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="54"/>
-        <source>Search and filter ...</source>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3924,64 +3932,59 @@ Please update PolyMC!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="218"/>
         <source>Select mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="30"/>
-        <source>Sort by Relevence</source>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
+        <source>Sort by Relevance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Follows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="33"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by last updated</source>
         <translation type="unfinished">Zoradiť podľa poslednej aktualizácie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
         <source>Sort by newest</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="126"/>
         <source> by </source>
         <translation type="unfinished"> od </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="94"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="133"/>
         <source>Loading versions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="162"/>
-        <source>No Valid Version found !</source>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
+        <source>No valid version found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="185"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="220"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="30"/>
-        <source>Modrinth</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4064,7 +4067,7 @@ Please update PolyMC!</source>
 <context>
     <name>NotesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="38"/>
+        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="58"/>
         <source>Notes</source>
         <translation>Poznámky</translation>
     </message>
@@ -4153,7 +4156,7 @@ Please update PolyMC!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="80"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Delete</source>
         <translation>Vymazať</translation>
     </message>
@@ -4184,68 +4187,68 @@ Please update PolyMC!</source>
         <translation>Hľadať:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="126"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="206"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="278"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>Nie je možné otvoriť %1 na čítanie: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="172"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>Súbor (%1) je príliš veľký. Možno by ste ho mali otvoriť v prehladači optimalizovanom na prehliadanie veľkých súborov.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="187"/>
         <source>The file (%1) is not readable.</source>
         <translation>Súbor (%1) nie je čitateľný.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Do you really want to delete %1?</source>
         <translation>Naozaj chcete vymazať %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <source>Unable to delete %1: %2</source>
         <translation>Nie je možné vymazať %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="246"/>
         <source>Clean up</source>
         <translation>Vyčistiť</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>Do you really want to delete all log files?</source>
         <translation>Naozaj chcete vymazať všetky súbory log?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="254"/>
         <source>Do you really want to delete these files?
 %1</source>
         <translation>Naozaj chcete vymazať tieto súbory?
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="281"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Nepodarilo sa vymazať niektoré súbory!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="286"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Nepodarilo sa vymazať niektoré súbory:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="65"/>
         <source>Other logs</source>
         <translation>Iné logy</translation>
     </message>
@@ -4502,7 +4505,7 @@ Pozorne si vyber meno:</translation>
         <translation>Upozornenie: Prihlasovacie meno a heslo Proxy sú uložené v nezašifrovanej podobe v konfigurácii spúšťača!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="39"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="59"/>
         <source>Proxy</source>
         <translation>Proxy</translation>
     </message>
@@ -4590,13 +4593,15 @@ Pozorne si vyber meno:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
-        <source>The specified java binary didn&apos;t start properly.&lt;br /&gt;</source>
-        <translation>Špecifikovaná java binárka nenaštartovala správne.&lt;br /&gt;</translation>
+        <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
+        <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
+        <translation type="unfinished">Špecifikovaná java binárka nenaštartovala správne.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
-        <source>The specified java binary returned unexpected results:&lt;br /&gt;</source>
-        <translation>Špecifikovaná java binárka vrátila neočakávaný výsledok:&lt;br /&gt;</translation>
+        <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
+        <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
+        <translation type="unfinished">Špecifikovaná java binárka vrátila neočakávaný výsledok:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="313"/>
@@ -4617,7 +4622,7 @@ Pozorne si vyber meno:</translation>
         <translation>Java test sa nepodaril</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="66"/>
         <source>Minecraft Server</source>
         <translation>Server Minecraft</translation>
     </message>
@@ -4767,10 +4772,13 @@ Please let us know why and how this happened.</source>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="10"/>
-        <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+        <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</source>
-        <translation>Pokúšate sa manuálne nastaviť voľby nastavení pamäte JVM (použitím &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+        <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
+This message will be displayed until you remove them from the JVM arguments.</oldsource>
+        <translation type="unfinished">Pokúšate sa manuálne nastaviť voľby nastavení pamäte JVM (použitím &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 Na tieto nastavenia sú určené špeciálne polia (záložka Java, v skupine Pamäť na vrchu).
 Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argumentov.</translation>
     </message>
@@ -4791,13 +4799,15 @@ Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argum
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="43"/>
-        <source>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
-        <translation>Špecifikovaná java binárka nebude pracovať s argumentami, ktoré ste zadali:&lt;br /&gt;</translation>
+        <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
+        <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
+        <translation type="unfinished">Špecifikovaná java binárka nebude pracovať s argumentami, ktoré ste zadali:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
-        <source>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</source>
-        <translation>Špecifikovaná java binárka nebude pracovať .&lt;br /&gt;Použite auto-detectkciu alebo nastavte cestu k java spúšťaču.&lt;br /&gt;</translation>
+        <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
+        <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
+        <translation type="unfinished">Špecifikovaná java binárka nebude pracovať .&lt;br /&gt;Použite auto-detectkciu alebo nastavte cestu k java spúšťaču.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
@@ -4870,7 +4880,7 @@ Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argum
 <context>
     <name>ResourcePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="12"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="47"/>
         <source>Resource packs</source>
         <translation>Zdrojové balíčky</translation>
     </message>
@@ -4933,50 +4943,50 @@ Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argum
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="52"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
         <source>Screenshots</source>
         <translation>Snímky obrazovky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="320"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="331"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
         <source>Failed to upload screenshots!</source>
         <translation>Zlyhalo odosielanie snímkov obrazovky!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="332"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="412"/>
         <source>Unknown error</source>
         <translation>Neznáma chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="341"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="383"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="423"/>
         <source>Upload finished</source>
         <translation>Odosielanie ukončené</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="382"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;odkaz k nahranému snímku obrazovky&lt;/a&gt; bol uložený do schránky.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="424"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Linka k odoslanému albumu&lt;/a&gt; bola uložená do clipboardu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="470"/>
         <source>Are you sure?</source>
         <translation>Ste si istý?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="470"/>
         <source>This will delete all selected screenshots.</source>
         <translation>Toto vymaže všetky zvolené snímky obrazovky.</translation>
     </message>
@@ -4984,17 +4994,17 @@ Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argum
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="324"/>
         <source>Name</source>
         <translation>Názov</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="326"/>
         <source>Address</source>
         <translation>Adresa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="328"/>
         <source>Latency</source>
         <translation>Odozva</translation>
     </message>
@@ -5062,12 +5072,12 @@ Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argum
         <translation>Pripojiť</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="46"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="66"/>
         <source>Servers</source>
         <translation>Servery</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="645"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
@@ -5103,7 +5113,7 @@ Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argum
 <context>
     <name>ShaderPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="12"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="47"/>
         <source>Shader packs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5314,8 +5324,9 @@ Táto správa bude zobrazovaná pokiaľ tieto nastavenia nevymažete z JVM argum
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
-        <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</source>
-        <translation>Nepodarilo sa nájsť &quot;version.json&quot; vnútri &quot;bin/modpack.jar&quot;, ale verzia Minecraftu je neznámá</translation>
+        <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
+        <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
+        <translation type="unfinished">Nepodarilo sa nájsť &quot;version.json&quot; vnútri &quot;bin/modpack.jar&quot;, ale verzia Minecraftu je neznámá</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -5351,8 +5362,9 @@ chýba inheritsFrom</translation>
     <name>TechnicPage</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="32"/>
-        <source>Search and filter ...</source>
-        <translation>Hľadať a filtrovať ...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">Hľadať a filtrovať ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="39"/>
@@ -5360,14 +5372,13 @@ chýba inheritsFrom</translation>
         <translation>Hľadať</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="212"/>
         <source> by </source>
         <translation> od </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.h" line="45"/>
         <source>Technic</source>
-        <translation>Technic</translation>
+        <translation type="vanished">Technic</translation>
     </message>
 </context>
 <context>
@@ -5396,7 +5407,7 @@ chýba inheritsFrom</translation>
 <context>
     <name>TexturePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="12"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="47"/>
         <source>Texture packs</source>
         <translation>Balíčky textúr</translation>
     </message>
@@ -5539,7 +5550,7 @@ chýba inheritsFrom</translation>
         <translation>Obnoviť</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="40"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
         <translation>Vanilla</translation>
     </message>
@@ -5758,87 +5769,87 @@ chýba inheritsFrom</translation>
         <translation>Otvoriť súbor miestnych knižníc inštancie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="180"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="198"/>
         <source>%1 possibly has issues.</source>
         <translation>%1 má pravdepodobne problémy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="201"/>
         <source>%1 has issues!</source>
         <translation>%1 má problémy!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="215"/>
         <source>Error: </source>
         <translation>Chyba: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="219"/>
         <source>Warning: </source>
         <translation>Upozornenie: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="255"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="362"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="287"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Nepodarilo sa načítať profil inštancie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
         <source>Couldn&apos;t remove file</source>
         <translation>Súbor sa nepodarilo vymazať</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
         <source>Select jar mods</source>
         <translation>Zvoliť jar módov</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>Minecraft.jar módy (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Select jar</source>
         <translation>Zvoľte jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>Prepis Minecraft.jar (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="393"/>
         <source>Change %1 version</source>
         <translation>Zmeniť %1 verziu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="371"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Momentálne nie sú dostupné žiadne sprostredkujúce mapovania verzií.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Nie je možné nahrať alebo stiahnuť sprostredkujúce mapovania zoznamu verzií!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <oldsource>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -5847,57 +5858,57 @@ Please add your Mojang or Minecraft account.</oldsource>
 Prosím pridajte Mojang alebo Minecraft účet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="451"/>
         <source>Select Forge version</source>
         <translation>Zvoľte verziu Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="428"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="453"/>
         <source>No Forge versions are currently available for Minecraft </source>
         <translation>Pre Minecraft momentálne nie je k doispozícii žiadna verzia Forge </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="454"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
         <translation>Nie je možné nahrať alebo stiahnuť zoznam verzií Forge!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="480"/>
         <source>Select Fabric Loader version</source>
         <translation>Zvoľte verziu Fabric Loader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="481"/>
         <source>No Fabric Loader versions are currently available.</source>
         <translation>Žiadne verzie Fabric Loadera nie sú momentálne dostupné.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
         <translation>Nie je možné načítať alebo stiahnuť zoznam verzií Fabric Loader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="500"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="525"/>
         <source>Select LiteLoader version</source>
         <translation>Zvoľte verziu LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="527"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
         <translation>Pre Minecraft momentálne nie je k doispozícii žiadna verzia LiteLoader </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="503"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="528"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
         <translation>Nie je možné nahrať alebo stiahnuť zoznam verzií LiteLoader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="584"/>
         <source>Error updating instance</source>
         <translation>Chyba pri vylepšovaní inštancie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="38"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="58"/>
         <source>Version</source>
         <translation>Verzia</translation>
     </message>
@@ -6125,22 +6136,22 @@ Prosím pridajte Mojang alebo Minecraft účet.</translation>
         <translation>Spravovať dátové balíčky sveta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="65"/>
         <source>Worlds</source>
         <translation>Svety</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="128"/>
         <source>Context menu</source>
         <translation>Kontextové menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="183"/>
         <source>Are you sure?</source>
         <translation>Ste si istý?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="159"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="184"/>
         <source>This will remove the selected world permenantly.
 The world will be gone forever (A LONG TIME).
 
@@ -6151,64 +6162,64 @@ Tento svet bude vymazaný navždy (Veeeeľmi dlhý čas).
 Naozaj chceš pokračovať?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit nenájdený alebo nie je nastavený!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Nemáš nastavený MCEdit alebo sa presunul inam.
 Môžeš ho nastaviť v globálnych nastaveniach.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="305"/>
         <source>MCEdit failed to start!</source>
         <translation>Štart MCEdit sa nepodaril!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="306"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>Štart MCEdit sa nepodaril.
 Može byť nutná reinštalácia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="355"/>
         <source>Select a Minecraft world zip</source>
         <translation>Zvoľte zip súbor Minecraft sveta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="331"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="356"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>Súbor zip Minecraft sveta (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
         <source>Copy World</source>
         <translation>Kopírovať svet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Menenie sveta pokiaľ Minecraft beží je potencionálne nebezpečné.
 Chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="376"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
         <source>World name</source>
         <translation>Názov sveta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="376"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
         <source>Enter a new name for the copy.</source>
         <translation>Zadajte nový názov pre kópiu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
         <source>Enter a new world name.</source>
         <translation>Zadajte nový názov sveta.</translation>
     </message>

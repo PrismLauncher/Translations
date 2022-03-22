@@ -14,11 +14,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="74"/>
-        <source>https://0x0.st</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
@@ -44,7 +39,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -418,67 +413,67 @@
         <translation>계정 토큰 새로고침</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="62"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
         <translation>계정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>환영합니다!
 처음이시라면, &quot;추가&quot;버튼을 눌러 Mojang 혹은 마인크래프트 계정을 추가하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="174"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>계정을 추가하기 위해 Mojang 계정 이메일과 비밀번호를 입력하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
         <source>Microsoft Accounts not available</source>
         <translation>마이크로소프트 계정은 사용할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="164"/>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
 
 Please update both your operating system and PolyMC.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="191"/>
         <source>Error</source>
         <translation type="unfinished">오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="203"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
         <source>Skin Delete</source>
         <translation>스킨 삭제</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
         <source>Failed to delete current skin!</source>
         <translation>현재 스킨 삭제에 실패했습니다!</translation>
     </message>
@@ -636,28 +631,28 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
-        <source>Search and filter ...</source>
-        <translation>검색 및 필터...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">검색 및 필터...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>마인크래프트 %1에 사용가능한 버전이 없습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="185"/>
         <source>No versions are currently available</source>
         <translation>현재 사용가능한 버전들이 없습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
         <source>Couldn&apos;t load or download the version lists!</source>
         <translation>버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h" line="45"/>
         <source>ATLauncher</source>
-        <translation>ATLauncher</translation>
+        <translation type="vanished">ATLauncher</translation>
     </message>
 </context>
 <context>
@@ -794,14 +789,15 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;실행 전 명령어는 인스턴스 시작 전에 실행되며, 종료 후 명령어는 종료 이후에 실행됩니다.&lt;/p&gt;&lt;p&gt;둘 모두 다음의 환경 변수를 사용하여 런처의 실행중인 폴더에서 실행됩니다:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 인스턴스 이름&lt;/li&gt;&lt;li&gt;$INST_ID - 인스턴스 ID (폴더명)&lt;/li&gt;&lt;li&gt;$INST_DIR - 인스턴스 절대 경로&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - 마인크래프트 절대 경로&lt;/li&gt;&lt;li&gt;$INST_JAVA - 실행에 사용되는 java 바이너리&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 실행에 사용되는 명령줄 인자&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;래퍼 명령어는 별도의 래퍼 프로그램을 이용한 실행을 가능케 합니다 (리눅스에서의 &apos;optirun&apos; 등)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;실행 전 명령어는 인스턴스 시작 전에 실행되며, 종료 후 명령어는 종료 이후에 실행됩니다.&lt;/p&gt;&lt;p&gt;둘 모두 다음의 환경 변수를 사용하여 런처의 실행중인 폴더에서 실행됩니다:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 인스턴스 이름&lt;/li&gt;&lt;li&gt;$INST_ID - 인스턴스 ID (폴더명)&lt;/li&gt;&lt;li&gt;$INST_DIR - 인스턴스 절대 경로&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - 마인크래프트 절대 경로&lt;/li&gt;&lt;li&gt;$INST_JAVA - 실행에 사용되는 java 바이너리&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 실행에 사용되는 명령줄 인자&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;래퍼 명령어는 별도의 래퍼 프로그램을 이용한 실행을 가능케 합니다 (리눅스에서의 &apos;optirun&apos; 등)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>CustomCommandsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="35"/>
+        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
         <translation>사용자 지정 명령어</translation>
     </message>
@@ -815,9 +811,10 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="91"/>
-        <source>Could not launch minecraft!</source>
+        <source>Could not launch Minecraft!</source>
+        <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation>마인크래프트를 실행할 수 없었습니다!</translation>
+        <translation type="unfinished">마인크래프트를 실행할 수 없었습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -912,98 +909,98 @@ Please update both your operating system and PolyMC.</source>
         <translation>텍스트 편집기:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="37"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
         <translation>외부 도구</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="90"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="110"/>
         <source>JProfiler Folder</source>
         <translation>JProfiler 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="113"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="211"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="113"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="133"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>JProfiler 설치 확인 중 오류 발생:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="154"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="215"/>
         <source>OK</source>
         <translation>확인</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>JProfiler 설치가 정상인 것으로 보임</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="147"/>
         <source>JVisualVM Executable</source>
         <translation>JVisualVM 실행파일</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <source>Error while checking JVisualVM install:
 %1</source>
         <translation>JVisualVM 설치 확인 중 오류 발생:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="174"/>
         <source>JVisualVM setup seems to be OK</source>
         <translation>JVisualVM 설치가 정상인 것으로 보임</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Application</source>
         <translation>MCEdit 프로그램</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="187"/>
         <source>MCEdit Folder</source>
         <translation>MCEdit 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="211"/>
         <source>Error while checking MCEdit install:
 %1</source>
         <translation>MCEdit 설치 확인 중 오류 발생:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="215"/>
         <source>MCEdit setup seems to be OK</source>
         <translation>MCEdit 설치가 정상인것으로 보임</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="222"/>
         <source>JSON Editor</source>
         <translation>JSON 편집기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="244"/>
         <source>Invalid</source>
         <translation>잘못됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="245"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>선택된 파일은 실행 가능한 파일이 아닌 듯 합니다</translation>
     </message>
@@ -1079,13 +1076,14 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="35"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="231"/>
         <source>Select mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="44"/>
-        <source>Search and filter ...</source>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
         <translation type="unfinished">검색 및 필터...</translation>
     </message>
     <message>
@@ -1094,65 +1092,64 @@ Please try again.</source>
         <translation type="unfinished">검색</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="65"/>
         <source>Sort by Featured</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="66"/>
         <source>Sort by Popularity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="67"/>
         <source>Sort by last updated</source>
         <translation type="unfinished">업데이트순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="33"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="68"/>
         <source>Sort by Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="69"/>
         <source>Sort by Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="35"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="70"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="139"/>
         <source> by </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="148"/>
         <source>Loading versions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="156"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="174"/>
-        <source>No Valid Version found!</source>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="214"/>
+        <source>No valid version found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="200"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="233"/>
         <source>Deselect mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.h" line="30"/>
         <source>CurseForge</source>
-        <translation type="unfinished">CurseForge</translation>
+        <translation type="obsolete">CurseForge</translation>
     </message>
 </context>
 <context>
@@ -1169,46 +1166,46 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
-        <source>Search and filter ...</source>
-        <translation>검색 및 필터...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">검색 및 필터...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.h" line="45"/>
         <source>CurseForge</source>
-        <translation>CurseForge</translation>
+        <translation type="vanished">CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="25"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by featured</source>
         <translation>인기순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="26"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by popularity</source>
         <translation>인기순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="27"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by last updated</source>
         <translation>업데이트순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="28"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by name</source>
         <translation>이름순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by author</source>
         <translation>작성자순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
         <source>Sort by total downloads</source>
         <translation>다운로드 수순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="103"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="143"/>
         <source> by </source>
         <translation> 제작자 </translation>
     </message>
@@ -1217,8 +1214,9 @@ Please try again.</source>
     <name>FoldersTask</name>
     <message>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
-        <source>Failed to create folder for minecraft binaries.</source>
-        <translation>마인크래프트 바이너리 폴더를 생성할 수 없습니다.</translation>
+        <source>Failed to create folder for Minecraft binaries.</source>
+        <oldsource>Failed to create folder for minecraft binaries.</oldsource>
+        <translation type="unfinished">마인크래프트 바이너리 폴더를 생성할 수 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -1248,13 +1246,13 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
-        <source>Search and filter ...</source>
-        <translation>검색 및 필터...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">검색 및 필터...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.h" line="43"/>
         <source>FTB</source>
-        <translation>FTB</translation>
+        <translation type="vanished">FTB</translation>
     </message>
 </context>
 <context>
@@ -1273,7 +1271,7 @@ Please try again.</source>
 <context>
     <name>GameOptionsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="65"/>
         <source>Game Options</source>
         <translation>게임 옵션들</translation>
     </message>
@@ -1419,17 +1417,17 @@ Please try again.</source>
         <translation>로컬 파일 또는 다운로드 링크:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="40"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
         <translation>Zip으로부터 읽어들이기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
         <source>Choose modpack</source>
         <translation>모드팩 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
         <source>Zip (*.zip)</source>
         <translation>Zip 압축파일 (*.zip)</translation>
     </message>
@@ -1557,8 +1555,9 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
-        <source>Could not map recommended forge version for Minecraft %1</source>
-        <translation>마인크래프트 %1에 권장되는 포지 버전을 결정하지 못하였습니다</translation>
+        <source>Could not map recommended Forge version for Minecraft %1</source>
+        <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
+        <translation type="unfinished">마인크래프트 %1에 권장되는 포지 버전을 결정하지 못하였습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
@@ -1796,17 +1795,17 @@ Please try again.</source>
         <translation>서버 주소:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="320"/>
         <source>Select a Java version</source>
         <translation>자바 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="338"/>
         <source>Find Java executable</source>
         <translation>자바 실행 파일 찾기</translation>
     </message>
@@ -1956,17 +1955,17 @@ Please try again.</source>
         <translation>테스트</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
         <translation>자바</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="107"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="127"/>
         <source>Select a Java version</source>
         <translation>자바 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="120"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="140"/>
         <source>Find Java executable</source>
         <translation>자바 실행파일 찾기</translation>
     </message>
@@ -2044,15 +2043,17 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
         <source>You do not have a working Java set up yet or it went missing.
-Please select one of the following or browse for a java executable.</source>
-        <translation>실행 가능한 자바가 아직 선택되지 않았거나 설정이 분실되었을 수 있습니다.
+Please select one of the following or browse for a Java executable.</source>
+        <oldsource>You do not have a working Java set up yet or it went missing.
+Please select one of the following or browse for a java executable.</oldsource>
+        <translation type="unfinished">실행 가능한 자바가 아직 선택되지 않았거나 설정이 분실되었을 수 있습니다.
 다음 중에 선택하거나 자바 실행파일을 찾아보십시오.</translation>
     </message>
 </context>
 <context>
     <name>LanguagePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="35"/>
+        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="55"/>
         <source>Language</source>
         <translation>언어</translation>
     </message>
@@ -2456,42 +2457,42 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>콘솔 창 폰트</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="121"/>
         <source>Instance Folder</source>
         <translation>인스턴스 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>&apos;!&apos;를 포함하는 경로로 인스턴스 경로를 지정하려 하고 있습니다. 이 경우 자바가 문제를 일으킬 수 있습니다. 인스턴스가 시작하려 하지 않을 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="135"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>정말로 이 경로를 쓰시겠습니까? &quot;No&quot;를 선택하면 닫고 인스턴스 경로를 변경하지 않을 것입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="153"/>
         <source>Icons Folder</source>
         <translation>아이콘 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="164"/>
         <source>Mods Folder</source>
         <translation>모드 폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="422"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="442"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[무언가/ERROR] 고양이가 당신의 컴퓨터를 침공합니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="431"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="451"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[테스트/INFO] 고양이는 귀엽습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="460"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[무언가/WARN] 귀여운 고양이가 당신을 공격합니다.</translation>
     </message>
@@ -2513,9 +2514,10 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="157"/>
-        <source>Could not launch minecraft!</source>
+        <source>Could not launch Minecraft!</source>
+        <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>마인크래프트를 실행할 수 없습니다!</translation>
+        <translation type="unfinished">마인크래프트를 실행할 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
@@ -2602,8 +2604,9 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
-        <source>Failed to move unzipped minecraft!</source>
-        <translation>압축 해제된 마인크래프트를 옮기는 데에 실패했습니다!</translation>
+        <source>Failed to move unzipped Minecraft!</source>
+        <oldsource>Failed to move unzipped minecraft!</oldsource>
+        <translation type="unfinished">압축 해제된 마인크래프트를 옮기는 데에 실패했습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="184"/>
@@ -2644,39 +2647,38 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>선택된 버전:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.h" line="53"/>
         <source>FTB Legacy</source>
-        <translation>레거시 FTB</translation>
+        <translation type="vanished">레거시 FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="234"/>
         <source>FTB private packs</source>
         <translation>FTB 비공개 팩</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="235"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>팩의 정보를 다운로드가 %1 코드를 리턴하며 실패하였습니다.
 지금 제거하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="373"/>
         <source>Add FTB pack</source>
         <translation>FTB 팩 추가</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="334"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="374"/>
         <source>Enter pack code:</source>
         <translation>팩 코드를 입력해 주세요:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="397"/>
         <source>Remove pack</source>
         <translation>팩 제거</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="398"/>
         <source>Are you sure you want to remove pack %1?</source>
         <translation>정말 %1 팩을 제거하시겠습니까?</translation>
     </message>
@@ -2841,7 +2843,7 @@ Reason:
         <translation>마지막으로</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="41"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>마인크래프트 로그</translation>
     </message>
@@ -3042,7 +3044,8 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
-        <source>Matrix</source>
+        <source>Matrix space</source>
+        <oldsource>Matrix</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3052,13 +3055,15 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
-        <source>Discord</source>
-        <translation>디스코드</translation>
+        <source>Discord guild</source>
+        <oldsource>Discord</oldsource>
+        <translation type="unfinished">디스코드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="370"/>
-        <source>Reddit</source>
-        <translation>레딧</translation>
+        <source>Subreddit</source>
+        <oldsource>Reddit</oldsource>
+        <translation type="unfinished">레딧</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
@@ -3229,8 +3234,9 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
-        <source>Open the selected instance&apos;s minecraft folder in a file browser.</source>
-        <translation>선택한 인스턴스의 디렉토리를 파일 탐색기로 엽니다.</translation>
+        <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
+        <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
+        <translation type="unfinished">선택한 인스턴스의 디렉토리를 파일 탐색기로 엽니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
@@ -3264,8 +3270,9 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
-        <source>Delete</source>
-        <translation>삭제</translation>
+        <source>Delete Instance</source>
+        <oldsource>Delete</oldsource>
+        <translation type="unfinished">삭제</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
@@ -3385,7 +3392,7 @@ Please add your Mojang or Minecraft account.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
-        <source>Are you sure you want to delete the group %1</source>
+        <source>Are you sure you want to delete the group %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3596,7 +3603,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
         <translation>마인크래프트</translation>
     </message>
@@ -3780,54 +3787,54 @@ Are you sure?</source>
         <translation>폴더 보기 (&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
         <source>Download mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="171"/>
         <source>Download mods from online mod platforms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>Add .jar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <source>Add mods via local file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="226"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="341"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>%1 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="368"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="376"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="401"/>
         <source>Error</source>
         <translation type="unfinished">오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
         <source>Please install a mod loader first!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Warnings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="387"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3913,7 +3920,8 @@ Please update PolyMC!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="54"/>
-        <source>Search and filter ...</source>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
         <translation type="unfinished">검색 및 필터...</translation>
     </message>
     <message>
@@ -3923,64 +3931,59 @@ Please update PolyMC!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="218"/>
         <source>Select mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="30"/>
-        <source>Sort by Relevence</source>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
+        <source>Sort by Relevance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Follows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="33"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by last updated</source>
         <translation type="unfinished">업데이트순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
         <source>Sort by newest</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="126"/>
         <source> by </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="94"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="133"/>
         <source>Loading versions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="162"/>
-        <source>No Valid Version found !</source>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
+        <source>No valid version found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="185"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="220"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="30"/>
-        <source>Modrinth</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4063,7 +4066,7 @@ Please update PolyMC!</source>
 <context>
     <name>NotesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="38"/>
+        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="58"/>
         <source>Notes</source>
         <translation>메모들</translation>
     </message>
@@ -4152,7 +4155,7 @@ Please update PolyMC!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="80"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
@@ -4182,68 +4185,68 @@ Please update PolyMC!</source>
         <translation>검색:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="126"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="206"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="278"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>%1를 읽기 위해 열 수 없습니다: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="172"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>파일 %1은 너무 큽니다. 더 큰 파일에 최적화된 뷰어로 보시길 권장합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="187"/>
         <source>The file (%1) is not readable.</source>
         <translation>파일 %1을 읽을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Do you really want to delete %1?</source>
         <translation>%1를 진짜로 삭제하기를 원하십니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <source>Unable to delete %1: %2</source>
         <translation>%1를 삭제할 수 없습니다: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="246"/>
         <source>Clean up</source>
         <translation>깔끔히 지우기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>Do you really want to delete all log files?</source>
         <translation>모든 로그를 진짜로 삭제하기를 원하십니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="254"/>
         <source>Do you really want to delete these files?
 %1</source>
         <translation>다음 파일들을 진짜로 삭제하기를 원하십니까?
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="281"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>일부 파일 제거 실패!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="286"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>일부 파일 제거 실패:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="65"/>
         <source>Other logs</source>
         <translation>다른 로그들</translation>
     </message>
@@ -4500,7 +4503,7 @@ Choose your name carefully:</source>
         <translation>참고: 프록시 아이디와 비밀번호는 런처의 설정 파일에 평문으로 저장됩니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="39"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="59"/>
         <source>Proxy</source>
         <translation>프록시</translation>
     </message>
@@ -4587,13 +4590,15 @@ Choose your name carefully:</source>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
-        <source>The specified java binary didn&apos;t start properly.&lt;br /&gt;</source>
-        <translation>선택된 자바 실행 파일이 정상적으로 시작되지 않았습니다.&lt;br /&gt;</translation>
+        <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
+        <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
+        <translation type="unfinished">선택된 자바 실행 파일이 정상적으로 시작되지 않았습니다.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
-        <source>The specified java binary returned unexpected results:&lt;br /&gt;</source>
-        <translation>선택된 자바 실행 파일이 예측되지 않은 다음 결과를 반환하였습니다:&lt;br /&gt;</translation>
+        <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
+        <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
+        <translation type="unfinished">선택된 자바 실행 파일이 예측되지 않은 다음 결과를 반환하였습니다:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="313"/>
@@ -4614,7 +4619,7 @@ Choose your name carefully:</source>
         <translation>자바 테스트 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="66"/>
         <source>Minecraft Server</source>
         <translation>마인크래프트 서버</translation>
     </message>
@@ -4768,10 +4773,13 @@ Please let us know why and how this happened.</source>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="10"/>
-        <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+        <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</source>
-        <translation>당신은 수동으로 JVM 메모리 옵션을 설정하려 했습니다(&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 또는 &quot;-Xms&quot; 사용).
+        <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
+This message will be displayed until you remove them from the JVM arguments.</oldsource>
+        <translation type="unfinished">당신은 수동으로 JVM 메모리 옵션을 설정하려 했습니다(&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 또는 &quot;-Xms&quot; 사용).
 설정에 메모리 설정을 위한 전용 옵션들이 있습니다. (자바 탭 가장 위쪽의 메모리 그룹).
 수동 설정은 전용 옵션에 의해 재정의 될 것입니다. 이 메세지는 JVM 명령줄 인수에서 메모리 옵션을 지울때까지 표시됩니다.</translation>
     </message>
@@ -4792,13 +4800,15 @@ This message will be displayed until you remove them from the JVM arguments.</so
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="43"/>
-        <source>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
-        <translation>지정된 자바 실행 파일에 제공된 명령행 인수들을 적용하여 실행하지 못하였습니다:&lt;br /&gt;</translation>
+        <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
+        <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
+        <translation type="unfinished">지정된 자바 실행 파일에 제공된 명령행 인수들을 적용하여 실행하지 못하였습니다:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
-        <source>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</source>
-        <translation>지정된 자바 바이너리는 동작하지 않습니다.&lt;br /&gt;자동감지 기능을 사용하거나, path 환경 변수에 자바 실행파일 경로를 추가하세요.&lt;br /&gt;</translation>
+        <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
+        <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
+        <translation type="unfinished">지정된 자바 바이너리는 동작하지 않습니다.&lt;br /&gt;자동감지 기능을 사용하거나, path 환경 변수에 자바 실행파일 경로를 추가하세요.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
@@ -4871,7 +4881,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
 <context>
     <name>ResourcePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="12"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="47"/>
         <source>Resource packs</source>
         <translation>리소스 팩</translation>
     </message>
@@ -4934,50 +4944,50 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="52"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
         <source>Screenshots</source>
         <translation>스크린샷들</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="320"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="331"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
         <source>Failed to upload screenshots!</source>
         <translation>스크린샷을 업로드 하는 데 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="332"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="412"/>
         <source>Unknown error</source>
         <translation>알 수 없는 오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="341"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="383"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="423"/>
         <source>Upload finished</source>
         <translation>업로드 완료함</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="382"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>업로드된 &lt;a href=&quot;%1&quot;&gt; 스크린샷의 링크&lt;/a&gt;는 클립보드에 복사되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="424"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>업로드된 &lt;a href=&quot;%1&quot;&gt; 앨범의 링크&lt;/a&gt;는 클립보드에 복사되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="470"/>
         <source>Are you sure?</source>
         <translation>정말로 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="470"/>
         <source>This will delete all selected screenshots.</source>
         <translation>선택한 모든 스크린샷이 삭제됩니다.</translation>
     </message>
@@ -4985,17 +4995,17 @@ This message will be displayed until you remove them from the JVM arguments.</so
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="324"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="326"/>
         <source>Address</source>
         <translation>주소</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="328"/>
         <source>Latency</source>
         <translation>지연시간</translation>
     </message>
@@ -5063,12 +5073,12 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <translation>가입</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="46"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="66"/>
         <source>Servers</source>
         <translation>서버</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="645"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
@@ -5104,7 +5114,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
 <context>
     <name>ShaderPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="12"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="47"/>
         <source>Shader packs</source>
         <translation>쉐이더 팩</translation>
     </message>
@@ -5315,8 +5325,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
-        <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</source>
-        <translation>&quot;bin/modpack.jar&quot;에서 &quot;version.json&quot;을 찾지 못하였으며, 수동으로 선택하지도 않아 마인크래프트 버전을 알 수 없음</translation>
+        <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
+        <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
+        <translation type="unfinished">&quot;bin/modpack.jar&quot;에서 &quot;version.json&quot;을 찾지 못하였으며, 수동으로 선택하지도 않아 마인크래프트 버전을 알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -5352,8 +5363,9 @@ inheritsFrom 누락됨</translation>
     <name>TechnicPage</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="32"/>
-        <source>Search and filter ...</source>
-        <translation>검색 및 필터...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">검색 및 필터...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="39"/>
@@ -5361,14 +5373,13 @@ inheritsFrom 누락됨</translation>
         <translation>검색</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="212"/>
         <source> by </source>
         <translation> by </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.h" line="45"/>
         <source>Technic</source>
-        <translation>테크닉</translation>
+        <translation type="vanished">테크닉</translation>
     </message>
 </context>
 <context>
@@ -5397,7 +5408,7 @@ inheritsFrom 누락됨</translation>
 <context>
     <name>TexturePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="12"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="47"/>
         <source>Texture packs</source>
         <translation>텍스처 팩</translation>
     </message>
@@ -5539,7 +5550,7 @@ inheritsFrom 누락됨</translation>
         <translation>새로고침</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="40"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
         <translation>바닐라</translation>
     </message>
@@ -5758,144 +5769,144 @@ inheritsFrom 누락됨</translation>
         <translation>인스턴스의 로컬 라이브러리 폴더를 엽니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="180"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="198"/>
         <source>%1 possibly has issues.</source>
         <translation>%1은 아마도 문제가 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="201"/>
         <source>%1 has issues!</source>
         <translation>%1은 문제가 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="215"/>
         <source>Error: </source>
         <translation>오류: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="219"/>
         <source>Warning: </source>
         <translation>경고: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="255"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="362"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="287"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>인스턴스 프로필을 불러올 수 없었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
         <source>Couldn&apos;t remove file</source>
         <translation>파일을 제거할 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
         <source>Select jar mods</source>
         <translation>Jar 모드 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>마인크래프트 jar 모드들 (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Select jar</source>
         <translation>Jar 모드 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>마인크래프트 jar 대체하기 (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="393"/>
         <source>Change %1 version</source>
         <translation>%1 버전 변경</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="371"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>현재 사용 가능한 intermediary mappings 버전이 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Intermediary mappings 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation type="unfinished">최소 하나 이상의 계정을 추가하지 않을 시 마인크래프트를 다운로드하거나 인스턴스들을 업데이트할 수 없습니다.
 Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="451"/>
         <source>Select Forge version</source>
         <translation>포지 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="428"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="453"/>
         <source>No Forge versions are currently available for Minecraft </source>
         <translation>사용가능한 포지 버전이 없습니다. </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="454"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
         <translation>포지 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="480"/>
         <source>Select Fabric Loader version</source>
         <translation>패브릭 로더 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="481"/>
         <source>No Fabric Loader versions are currently available.</source>
         <translation>현재 사용가능한 패브릭 로더 버전(들)이 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
         <translation>패브릭 로더 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="500"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="525"/>
         <source>Select LiteLoader version</source>
         <translation>라이트로더 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="527"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
         <translation>사용가능한 라이트로더 버전이 없습니다. </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="503"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="528"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
         <translation>라이트로더 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="584"/>
         <source>Error updating instance</source>
         <translation>인스턴스 업데이트 중 오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="38"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="58"/>
         <source>Version</source>
         <translation>버전</translation>
     </message>
@@ -6123,22 +6134,22 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
         <translation>월드에 있는 데이터팩 관리하기.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="65"/>
         <source>Worlds</source>
         <translation>월드</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="128"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="183"/>
         <source>Are you sure?</source>
         <translation>정말로 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="159"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="184"/>
         <source>This will remove the selected world permenantly.
 The world will be gone forever (A LONG TIME).
 
@@ -6149,64 +6160,64 @@ Do you want to continue?</source>
 그래도 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit이 설치되지 않았거나 감지되지 않습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit이 없거나 이동되었습니다.
 이는 전역 설정에서 설정 가능합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="305"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit 시작에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="306"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit 시작에 실패하였습니다.
 재설치가 필요할 수도 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="355"/>
         <source>Select a Minecraft world zip</source>
         <translation>마인크래프트 월드 zip 선택하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="331"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="356"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>마인크래프트 월드 zip 파일 (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
         <source>Copy World</source>
         <translation>월드 복사하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>마인크래프트가 실행중인 동안 월드를 수정하는 것은 잠재적으로 위험합니다.
 그래도 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="376"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
         <source>World name</source>
         <translation>월드 이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="376"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
         <source>Enter a new name for the copy.</source>
         <translation>복사본을 위한 새로운 이름을 입력하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
         <source>Enter a new world name.</source>
         <translation>새로운 월드 이름을 입력하세요.</translation>
     </message>

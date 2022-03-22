@@ -14,11 +14,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="74"/>
-        <source>https://0x0.st</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
@@ -44,7 +39,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="57"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -418,67 +413,67 @@
         <translation>Làm mới token tài khoản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="62"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
         <translation>Tài khoản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Chào mừng!
 Nếu bạn là người mới, chọn nút &quot;Thêm&quot; để cho tài khoản Mojang hoặc Minecraft của bạn vào.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="109"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
         <source>Context menu</source>
         <translation>Menu ngữ cảnh</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="140"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="174"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Vui lòng nhập email và mật khẩu tài khoản Mojang của bạn để thêm tài khoản của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="163"/>
         <source>Microsoft Accounts not available</source>
         <translation>Tài khoản Microsoft không khả dụng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="164"/>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
 
 Please update both your operating system and PolyMC.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="191"/>
         <source>Error</source>
         <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="203"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
         <source>Skin Delete</source>
         <translation>Xóa skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
         <source>Failed to delete current skin!</source>
         <translation>Xoá skin hiện tại thất bại!</translation>
     </message>
@@ -636,28 +631,28 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
-        <source>Search and filter ...</source>
-        <translation>Tìm kiếm và lọc...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">Tìm kiếm và lọc...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>Hiện không có phiên bản nào cho Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="185"/>
         <source>No versions are currently available</source>
         <translation>Không có phiên bản nào có sẵn hiện tại</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
         <source>Couldn&apos;t load or download the version lists!</source>
         <translation>Không thể tải hoặc tải xuống danh sách phiên bản!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h" line="45"/>
         <source>ATLauncher</source>
-        <translation>ATLauncher</translation>
+        <translation type="vanished">ATLauncher</translation>
     </message>
 </context>
 <context>
@@ -794,14 +789,15 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh trước khởi chạy trước khi phiên bản khởi chạy và lệnh sau thoát chạy sau khi thoát.&lt;/p&gt;&lt;p&gt;Cả hai sẽ được chạy trong thư mục làm việc của PolyMC với các biến môi trường bổ sung:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID của instance (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - đường dẫn tuyệt đối của instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - đường dẫn tuyệt đối của minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java nhị phân được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - các tham số dòng lệnh được sử dụng để khởi chạy &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh Wrapper cho phép khởi chạy bằng một chương trình wrapper bổ sung (như &apos;optirun&apos; trên Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh trước khởi chạy trước khi phiên bản khởi chạy và lệnh sau thoát chạy sau khi thoát.&lt;/p&gt;&lt;p&gt;Cả hai sẽ được chạy trong thư mục làm việc của PolyMC với các biến môi trường bổ sung:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID của instance (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - đường dẫn tuyệt đối của instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - đường dẫn tuyệt đối của minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java nhị phân được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - các tham số dòng lệnh được sử dụng để khởi chạy &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh Wrapper cho phép khởi chạy bằng một chương trình wrapper bổ sung (như &apos;optirun&apos; trên Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>CustomCommandsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="35"/>
+        <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
         <translation>Các câu lệnh tùy biến</translation>
     </message>
@@ -815,9 +811,10 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="91"/>
-        <source>Could not launch minecraft!</source>
+        <source>Could not launch Minecraft!</source>
+        <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation>Không thể khởi chạy Minecraft!</translation>
+        <translation type="unfinished">Không thể khởi chạy Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -912,98 +909,98 @@ Please update both your operating system and PolyMC.</source>
         <translation>Trình chỉnh sửa văn bản:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="37"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
         <translation>Các công cụ khác</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="90"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="110"/>
         <source>JProfiler Folder</source>
         <translation>Thư mục JProfiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="113"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="211"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="98"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="113"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="133"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>Có lỗi khi kiểm tra JProfiler:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="154"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="215"/>
         <source>OK</source>
         <translation>Hoàn tất</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="117"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>Phiên bản JProfiler có vẻ đã hoạt động đúng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="147"/>
         <source>JVisualVM Executable</source>
         <translation>JVisualVM thực thi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
         <source>Error while checking JVisualVM install:
 %1</source>
         <translation>Có lỗi khi đang kiểm tra JVisualVM:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="154"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="174"/>
         <source>JVisualVM setup seems to be OK</source>
         <translation>Trình JVisualVM có vẻ đã hoạt động ổn định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Application</source>
         <translation>Ứng Dụng MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="187"/>
         <source>MCEdit Folder</source>
         <translation>Thư mục MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="176"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="211"/>
         <source>Error while checking MCEdit install:
 %1</source>
         <translation>Có lỗi khi đang kiểm tra MCEdit:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="215"/>
         <source>MCEdit setup seems to be OK</source>
         <translation>MCEdit có vẻ đã hoạt động ổn định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="222"/>
         <source>JSON Editor</source>
         <translation>Công cụ chỉnh sửa JSON</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="244"/>
         <source>Invalid</source>
         <translation>Không hợp lệ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="245"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>Tập tin được chọn này dường như không phải là tệp để thực thi</translation>
     </message>
@@ -1079,13 +1076,14 @@ Vui lòng thử lại.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="35"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="231"/>
         <source>Select mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="44"/>
-        <source>Search and filter ...</source>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
         <translation type="unfinished">Tìm kiếm và lọc...</translation>
     </message>
     <message>
@@ -1094,65 +1092,64 @@ Vui lòng thử lại.</translation>
         <translation type="unfinished">Tìm kiếm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="65"/>
         <source>Sort by Featured</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="66"/>
         <source>Sort by Popularity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="67"/>
         <source>Sort by last updated</source>
         <translation type="unfinished">Sắp xếp theo cập nhật lần cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="33"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="68"/>
         <source>Sort by Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="69"/>
         <source>Sort by Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="35"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="70"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="99"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="139"/>
         <source> by </source>
         <translation type="unfinished"> bởi </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="148"/>
         <source>Loading versions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="156"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="174"/>
-        <source>No Valid Version found!</source>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="214"/>
+        <source>No valid version found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="200"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="233"/>
         <source>Deselect mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.h" line="30"/>
         <source>CurseForge</source>
-        <translation type="unfinished">CurseForge</translation>
+        <translation type="obsolete">CurseForge</translation>
     </message>
 </context>
 <context>
@@ -1169,46 +1166,46 @@ Vui lòng thử lại.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
-        <source>Search and filter ...</source>
-        <translation>Tìm kiếm và lọc...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">Tìm kiếm và lọc...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.h" line="45"/>
         <source>CurseForge</source>
-        <translation>CurseForge</translation>
+        <translation type="vanished">CurseForge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="25"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by featured</source>
         <translation>Sắp xếp theo tính năng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="26"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by popularity</source>
         <translation>Sắp xếp theo mức độ phổ biến</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="27"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by last updated</source>
         <translation>Sắp xếp theo cập nhật lần cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="28"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by name</source>
         <translation>Sắp xếp theo tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by author</source>
         <translation>Sắp xếp theo tác giả</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
         <source>Sort by total downloads</source>
         <translation>Sắp xếp theo lượt tải xuống</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="103"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="143"/>
         <source> by </source>
         <translation> bởi </translation>
     </message>
@@ -1217,8 +1214,9 @@ Vui lòng thử lại.</translation>
     <name>FoldersTask</name>
     <message>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
-        <source>Failed to create folder for minecraft binaries.</source>
-        <translation>Không tạo được thư mục cho các tệp nhị phân minecraft.</translation>
+        <source>Failed to create folder for Minecraft binaries.</source>
+        <oldsource>Failed to create folder for minecraft binaries.</oldsource>
+        <translation type="unfinished">Không tạo được thư mục cho các tệp nhị phân minecraft.</translation>
     </message>
 </context>
 <context>
@@ -1248,13 +1246,13 @@ Vui lòng thử lại.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
-        <source>Search and filter ...</source>
-        <translation>Tìm kiếm và lọc...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">Tìm kiếm và lọc...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.h" line="43"/>
         <source>FTB</source>
-        <translation>FTB</translation>
+        <translation type="vanished">FTB</translation>
     </message>
 </context>
 <context>
@@ -1273,7 +1271,7 @@ Vui lòng thử lại.</translation>
 <context>
     <name>GameOptionsPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="65"/>
         <source>Game Options</source>
         <translation>Cài đặt game</translation>
     </message>
@@ -1419,17 +1417,17 @@ Vui lòng thử lại.</translation>
         <translation>Vị trí tệp hoặc đường dẫn để trực tiếp tải xuống:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="40"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
         <translation>Nhập từ tập tin zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
         <source>Choose modpack</source>
         <translation>Chọn modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="106"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
         <source>Zip (*.zip)</source>
         <translation>Zip (*.zip)</translation>
     </message>
@@ -1557,8 +1555,9 @@ Vui lòng thử lại.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
-        <source>Could not map recommended forge version for Minecraft %1</source>
-        <translation>Không thể lập bản đồ phiên bản khuyến khích Forge cho Minecraft %1</translation>
+        <source>Could not map recommended Forge version for Minecraft %1</source>
+        <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
+        <translation type="unfinished">Không thể lập bản đồ phiên bản khuyến khích Forge cho Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
@@ -1796,17 +1795,17 @@ Vui lòng thử lại.</translation>
         <translation>Địa chỉ máy chủ:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
         <source>Settings</source>
         <translation>Cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="284"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="320"/>
         <source>Select a Java version</source>
         <translation>Chọn phiên bản Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="338"/>
         <source>Find Java executable</source>
         <translation>Tìm tệp thực thi Java</translation>
     </message>
@@ -1956,17 +1955,17 @@ Vui lòng thử lại.</translation>
         <translation>Kiểm tra</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="107"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="127"/>
         <source>Select a Java version</source>
         <translation>Chọn phiên bản Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="120"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="140"/>
         <source>Find Java executable</source>
         <translation>Tìm tệp thực thi Java</translation>
     </message>
@@ -2044,15 +2043,17 @@ Bạn có thể thay đổi phiên bản Java ở phần cài đặt ở lần s
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
         <source>You do not have a working Java set up yet or it went missing.
-Please select one of the following or browse for a java executable.</source>
-        <translation>Bạn không có một phiên bản Java để hoạt động hoặc nó biến mất.
+Please select one of the following or browse for a Java executable.</source>
+        <oldsource>You do not have a working Java set up yet or it went missing.
+Please select one of the following or browse for a java executable.</oldsource>
+        <translation type="unfinished">Bạn không có một phiên bản Java để hoạt động hoặc nó biến mất.
 Hãy chọn một trong những tuỳ chọn sau để tìm tệp Java.</translation>
     </message>
 </context>
 <context>
     <name>LanguagePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="35"/>
+        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="55"/>
         <source>Language</source>
         <translation>Ngôn ngữ</translation>
     </message>
@@ -2456,42 +2457,42 @@ Bạn có thể phải sửa các bản mod của mình vì trò chơi vẫn đa
         <translation>Kiểu chữ console</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="101"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="121"/>
         <source>Instance Folder</source>
         <translation>Thư Mục Phiên Bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>Bạn đang cố gắng chỉ định một thư mục cá thể mà đường dẫn của nó chứa ít nhất một &apos;!&apos;. Java được biết là có thể gây ra sự cố nếu trường hợp đó xảy ra, các phiên bản của bạn (có thể) sẽ không khởi động!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="135"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>Bạn có thực sự muốn sử dụng đường dẫn này? Chọn &quot;Không&quot; sẽ đóng khung này và không thay đổi đường dẫn phiên bản của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="153"/>
         <source>Icons Folder</source>
         <translation>Thư Mục Biểu Tượng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="144"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="164"/>
         <source>Mods Folder</source>
         <translation>Thư Mục Mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="422"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="442"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[Cái gì đó/LỖI] Một lỗi ma quái!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="431"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="451"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Một tin nhắn vô hại...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="440"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="460"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Cái gì đó/CẢNH BÁO] Một cảnh báo không quá ma quái.</translation>
     </message>
@@ -2513,9 +2514,10 @@ Bạn có thể phải sửa các bản mod của mình vì trò chơi vẫn đa
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="157"/>
-        <source>Could not launch minecraft!</source>
+        <source>Could not launch Minecraft!</source>
+        <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Không thể khởi chạy Minecraft!</translation>
+        <translation type="unfinished">Không thể khởi chạy Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
@@ -2602,8 +2604,9 @@ Bạn có thể phải sửa các bản mod của mình vì trò chơi vẫn đa
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
-        <source>Failed to move unzipped minecraft!</source>
-        <translation>Không thể di chuyển tệp Minecraft đã giải nén!</translation>
+        <source>Failed to move unzipped Minecraft!</source>
+        <oldsource>Failed to move unzipped minecraft!</oldsource>
+        <translation type="unfinished">Không thể di chuyển tệp Minecraft đã giải nén!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="184"/>
@@ -2644,39 +2647,38 @@ Bạn có thể phải sửa các bản mod của mình vì trò chơi vẫn đa
         <translation>Phiên bản đã chọn:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.h" line="53"/>
         <source>FTB Legacy</source>
-        <translation>FTB Legacy</translation>
+        <translation type="vanished">FTB Legacy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="234"/>
         <source>FTB private packs</source>
         <translation>Gói packs riêng tư FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="235"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>Không thể tải về thông tin pack cho đoạn mã %1.
 Có nên xoá nó bây giờ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="373"/>
         <source>Add FTB pack</source>
         <translation>Thêm gói pack FTB</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="334"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="374"/>
         <source>Enter pack code:</source>
         <translation>Nhập mã gói pack:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="397"/>
         <source>Remove pack</source>
         <translation>Xoá gói pack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="398"/>
         <source>Are you sure you want to remove pack %1?</source>
         <translation>Bạn có chắc muốn xóa gói pack %1 không?</translation>
     </message>
@@ -2841,7 +2843,7 @@ Lý do:
         <translation>Dưới cùng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="41"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>Minecraft Log</translation>
     </message>
@@ -3042,7 +3044,8 @@ Lý do:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
-        <source>Matrix</source>
+        <source>Matrix space</source>
+        <oldsource>Matrix</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3052,13 +3055,15 @@ Lý do:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
-        <source>Discord</source>
-        <translation>Discord</translation>
+        <source>Discord guild</source>
+        <oldsource>Discord</oldsource>
+        <translation type="unfinished">Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="370"/>
-        <source>Reddit</source>
-        <translation>Reddit</translation>
+        <source>Subreddit</source>
+        <oldsource>Reddit</oldsource>
+        <translation type="unfinished">Reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
@@ -3229,8 +3234,9 @@ Lý do:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
-        <source>Open the selected instance&apos;s minecraft folder in a file browser.</source>
-        <translation>Mở thư mục phiên bản minecraft đã lựa chọn ở trong tệp trình duyệt.</translation>
+        <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
+        <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
+        <translation type="unfinished">Mở thư mục phiên bản minecraft đã lựa chọn ở trong tệp trình duyệt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
@@ -3264,8 +3270,9 @@ Lý do:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
-        <source>Delete</source>
-        <translation>Xoá</translation>
+        <source>Delete Instance</source>
+        <oldsource>Delete</oldsource>
+        <translation type="unfinished">Xoá</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
@@ -3385,7 +3392,7 @@ Please add your Mojang or Minecraft account.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
-        <source>Are you sure you want to delete the group %1</source>
+        <source>Are you sure you want to delete the group %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3596,7 +3603,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="42"/>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
@@ -3780,54 +3787,54 @@ Are you sure?</source>
         <translation>Xem &amp;Thư Mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
         <source>Download mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="171"/>
         <source>Download mods from online mod platforms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>Add .jar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="156"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <source>Add mods via local file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="226"/>
         <source>Context menu</source>
         <translation>Context menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="341"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Chọn %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="368"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="376"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="401"/>
         <source>Error</source>
         <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
         <source>Please install a mod loader first!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Warnings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="387"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>Abort</source>
         <translation type="unfinished">Hủy bỏ</translation>
     </message>
@@ -3913,7 +3920,8 @@ Please update PolyMC!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="54"/>
-        <source>Search and filter ...</source>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
         <translation type="unfinished">Tìm kiếm và lọc...</translation>
     </message>
     <message>
@@ -3923,64 +3931,59 @@ Please update PolyMC!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="218"/>
         <source>Select mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="30"/>
-        <source>Sort by Relevence</source>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
+        <source>Sort by Relevance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Follows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="33"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by last updated</source>
         <translation type="unfinished">Sắp xếp theo cập nhật lần cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
         <source>Sort by newest</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="87"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="126"/>
         <source> by </source>
         <translation type="unfinished"> bởi </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="94"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="133"/>
         <source>Loading versions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="142"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="162"/>
-        <source>No Valid Version found !</source>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
+        <source>No valid version found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="185"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="220"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="30"/>
-        <source>Modrinth</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4063,7 +4066,7 @@ Please update PolyMC!</source>
 <context>
     <name>NotesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="38"/>
+        <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="58"/>
         <source>Notes</source>
         <translation>Ghi chú</translation>
     </message>
@@ -4152,7 +4155,7 @@ Please update PolyMC!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="80"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Delete</source>
         <translation>Xoá</translation>
     </message>
@@ -4182,68 +4185,68 @@ Please update PolyMC!</source>
         <translation>Tìm Kiếm:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="126"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="206"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="278"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
         <source>Unable to open %1 for reading: %2</source>
         <translation>Không thể mở %1 để đọc: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="172"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
         <translation>Tệp (%1) quá lớn. Bạn có thể muốn mở nó trong một trình xem được tối ưu hóa cho các tệp lớn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="187"/>
         <source>The file (%1) is not readable.</source>
         <translation>Tệp (%1) không thể đọc được.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Do you really want to delete %1?</source>
         <translation>Bạn có thực sự muốn xóa %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <source>Unable to delete %1: %2</source>
         <translation>Không thể xoá %1: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="246"/>
         <source>Clean up</source>
         <translation>Dọn dẹp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>Do you really want to delete all log files?</source>
         <translation>Bạn có thực sự muốn xóa tất cả tệp nhật kí?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="254"/>
         <source>Do you really want to delete these files?
 %1</source>
         <translation>Bạn có thực sự muốn xoá các tập tin này?
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="281"/>
         <source>Couldn&apos;t delete some files!</source>
         <translation>Không thể xoá một số tập tin!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="286"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
         <translation>Không thể xoá một số tập tin sau:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="65"/>
         <source>Other logs</source>
         <translation>Các nhật kí khác</translation>
     </message>
@@ -4500,7 +4503,7 @@ Chọn tên của bạn một cách cẩn thận:</translation>
         <translation>Lưu ý: Tên người dùng và mật khẩu proxy được lưu trữ dưới dạng văn bản thuần túy bên trong tệp cấu hình của PolyMC!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="39"/>
+        <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="59"/>
         <source>Proxy</source>
         <translation>Proxy</translation>
     </message>
@@ -4587,13 +4590,15 @@ Chọn tên của bạn một cách cẩn thận:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
-        <source>The specified java binary didn&apos;t start properly.&lt;br /&gt;</source>
-        <translation>Hệ nhị phân java được chỉ định không bắt đầu đúng cách.&lt;br /&gt;</translation>
+        <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
+        <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
+        <translation type="unfinished">Hệ nhị phân java được chỉ định không bắt đầu đúng cách.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
-        <source>The specified java binary returned unexpected results:&lt;br /&gt;</source>
-        <translation>Hệ nhị phân java được chỉ định trả về kết quả không mong muốn:&lt;br /&gt;</translation>
+        <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
+        <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
+        <translation type="unfinished">Hệ nhị phân java được chỉ định trả về kết quả không mong muốn:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="313"/>
@@ -4614,7 +4619,7 @@ Chọn tên của bạn một cách cẩn thận:</translation>
         <translation>Thử nghiệm Java thất bại</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="66"/>
         <source>Minecraft Server</source>
         <translation>Máy chủ Minecraft</translation>
     </message>
@@ -4768,10 +4773,13 @@ Vui lòng cho chúng tôi biết tại sao và làm thế nào mà điều này 
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="10"/>
-        <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+        <source>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</source>
-        <translation>Bạn đã cố gắng đặt tùy chọn bộ nhớ JVM theo cách thủ công (sử dụng &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; hoặc &quot;-Xms&quot;).
+        <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
+This message will be displayed until you remove them from the JVM arguments.</oldsource>
+        <translation type="unfinished">Bạn đã cố gắng đặt tùy chọn bộ nhớ JVM theo cách thủ công (sử dụng &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; hoặc &quot;-Xms&quot;).
 Có các hộp dành riêng cho những thứ này trong cài đặt (Mục Java, trong nhóm &quot;Bộ nhớ&quot; ở trên cùng).
 Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng khỏi đối số JVM.</translation>
     </message>
@@ -4792,13 +4800,15 @@ Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng kh�
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="43"/>
-        <source>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
-        <translation>Hệ nhị phân Java được chỉ định không hoạt động với các đối số bạn đã cung cấp:&lt;br /&gt;</translation>
+        <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
+        <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
+        <translation type="unfinished">Hệ nhị phân Java được chỉ định không hoạt động với các đối số bạn đã cung cấp:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
-        <source>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</source>
-        <translation>Hệ nhị phân java được chỉ định không hoạt động.&lt;br /&gt;Bạn nên sử dụng tính năng tự động phát hiện hoặc đặt đường dẫn đến tệp thực thi java&lt;br /&gt;</translation>
+        <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
+        <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
+        <translation type="unfinished">Hệ nhị phân java được chỉ định không hoạt động.&lt;br /&gt;Bạn nên sử dụng tính năng tự động phát hiện hoặc đặt đường dẫn đến tệp thực thi java&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
@@ -4871,7 +4881,7 @@ Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng kh�
 <context>
     <name>ResourcePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="12"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="47"/>
         <source>Resource packs</source>
         <translation>Gói tài nguyên</translation>
     </message>
@@ -4934,50 +4944,50 @@ Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng kh�
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="52"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
         <source>Screenshots</source>
         <translation>Ảnh chụp màn hình</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="320"/>
         <source>Context menu</source>
         <translation>Danh mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="331"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="371"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="411"/>
         <source>Failed to upload screenshots!</source>
         <translation>Không thể tải ảnh chụp màn hình!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="332"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="412"/>
         <source>Unknown error</source>
         <translation>Lỗi không xác định</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="341"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="383"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="423"/>
         <source>Upload finished</source>
         <translation>Tải lên hoàn tất</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="382"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Liên kết đến ảnh chụp màn hình được tải lên&lt;/a&gt; đã được đặt trong khay nhớ tạm của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="424"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Liên kết đến album được tải lên&lt;/a&gt; đã được đặt trong khay nhớ tạm của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="470"/>
         <source>Are you sure?</source>
         <translation>Bạn có chắc không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="470"/>
         <source>This will delete all selected screenshots.</source>
         <translation>Điều này sẽ xoá tất cả ảnh chụp màn hình đã chọn.</translation>
     </message>
@@ -4985,17 +4995,17 @@ Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng kh�
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="324"/>
         <source>Name</source>
         <translation>Tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="326"/>
         <source>Address</source>
         <translation>Địa chỉ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="328"/>
         <source>Latency</source>
         <translation>Độ trễ</translation>
     </message>
@@ -5063,12 +5073,12 @@ Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng kh�
         <translation>Tham gia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="46"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="66"/>
         <source>Servers</source>
         <translation>Máy chủ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="605"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="645"/>
         <source>Context menu</source>
         <translation>Danh mục</translation>
     </message>
@@ -5104,7 +5114,7 @@ Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng kh�
 <context>
     <name>ShaderPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="12"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="47"/>
         <source>Shader packs</source>
         <translation>Gói Shader</translation>
     </message>
@@ -5315,8 +5325,9 @@ Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng kh�
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
-        <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</source>
-        <translation>Không tìm thấy &quot;version.json&quot; bên trong &quot;bin/modpack.jar&quot;, nhưng phiên bản minecraft là không xác định</translation>
+        <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
+        <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
+        <translation type="unfinished">Không tìm thấy &quot;version.json&quot; bên trong &quot;bin/modpack.jar&quot;, nhưng phiên bản minecraft là không xác định</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -5352,8 +5363,9 @@ Thiếu inheritFrom</translation>
     <name>TechnicPage</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="32"/>
-        <source>Search and filter ...</source>
-        <translation>Tìm kiếm và lọc...</translation>
+        <source>Search and filter...</source>
+        <oldsource>Search and filter ...</oldsource>
+        <translation type="unfinished">Tìm kiếm và lọc...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="39"/>
@@ -5361,14 +5373,13 @@ Thiếu inheritFrom</translation>
         <translation>Tìm kiếm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="212"/>
         <source> by </source>
         <translation> bởi </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.h" line="45"/>
         <source>Technic</source>
-        <translation>Technic</translation>
+        <translation type="vanished">Technic</translation>
     </message>
 </context>
 <context>
@@ -5397,7 +5408,7 @@ Thiếu inheritFrom</translation>
 <context>
     <name>TexturePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="12"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="47"/>
         <source>Texture packs</source>
         <translation>Texture packs</translation>
     </message>
@@ -5539,7 +5550,7 @@ Thiếu inheritFrom</translation>
         <translation>Làm mới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="40"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
         <translation>Vanilla</translation>
     </message>
@@ -5758,144 +5769,144 @@ Thiếu inheritFrom</translation>
         <translation>Mở thư mục local libraries của phiên bản.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="180"/>
         <source>Context menu</source>
         <translation>Danh mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="198"/>
         <source>%1 possibly has issues.</source>
         <translation>%1 có thể có vấn đề.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="201"/>
         <source>%1 has issues!</source>
         <translation>%1 có vấn đề!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="215"/>
         <source>Error: </source>
         <translation>Lỗi: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="219"/>
         <source>Warning: </source>
         <translation>Cảnh báo: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="255"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="261"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="349"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="362"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="287"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Không thể tải lên hồ sơ phiên bản.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
         <source>Couldn&apos;t remove file</source>
         <translation>Không thể xóa tệp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
         <source>Select jar mods</source>
         <translation>Chọn mod jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>Minecraft.jar mod (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Select jar</source>
         <translation>Chọn jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>Thay thế Minecraft.jar (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="368"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="393"/>
         <source>Change %1 version</source>
         <translation>Thay đổi phiên bản của %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="371"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Không có phiên bản intermediary mapping nào hiện có sẵn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Không thể tải hoặc tải xuống danh sách phiên bản của intermediary mapping!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation type="unfinished">PolyMC không thể tải xuống Minecraft hoặc cập nhật các phiên bản trừ khi bạn có ít nhất một tài khoản.
 Vui lòng thêm tài khoản Mojang hoặc Minecraft của bạn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="451"/>
         <source>Select Forge version</source>
         <translation>Chọn phiên bản Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="428"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="453"/>
         <source>No Forge versions are currently available for Minecraft </source>
         <translation>Hiện không có phiên bản Forge nào dành cho Minecraft </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="454"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
         <translation>Không thể tải hoặc tải xuống danh sách phiên bản cho Forge!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="480"/>
         <source>Select Fabric Loader version</source>
         <translation>Chọn phiên bản cho Fabric Loader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="456"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="481"/>
         <source>No Fabric Loader versions are currently available.</source>
         <translation>Hiện không có phiên bản nào dành cho Fabric Loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
         <translation>Không thể tải hoặc tải xuống danh sách phiên bản cho Fabric Loader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="500"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="525"/>
         <source>Select LiteLoader version</source>
         <translation>Chọn phiên bản cho LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="527"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
         <translation>Hiện không có phiên bản LiteLoader nào dành cho Minecraft </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="503"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="528"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
         <translation>Không thể tải hoặc tải xuống danh sách phiên bản cho LiteLoader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="559"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="584"/>
         <source>Error updating instance</source>
         <translation>Lỗi khi đang cập nhật phiên bản</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="38"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="58"/>
         <source>Version</source>
         <translation>Phiên bản</translation>
     </message>
@@ -6123,22 +6134,22 @@ Vui lòng thêm tài khoản Mojang hoặc Minecraft của bạn.</translation>
         <translation>Quản lí datapack trong thế giới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="45"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="65"/>
         <source>Worlds</source>
         <translation>Thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="108"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="128"/>
         <source>Context menu</source>
         <translation>Danh mục</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="183"/>
         <source>Are you sure?</source>
         <translation>Bạn có chắc không?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="159"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="184"/>
         <source>This will remove the selected world permenantly.
 The world will be gone forever (A LONG TIME).
 
@@ -6149,64 +6160,64 @@ Thế giới này sẽ mất đi vĩnh viễn (MỘT THỜI GIAN DÀI)
 Bạn chắc chắn muốn tiếp tục chứ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
         <source>No MCEdit found or set up!</source>
         <translation>Không tìm thấy MCEdit được thiết lập!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Bạn chưa thiết lập MCEdit hoặc nó đã bị di chuyển.
 Bạn có thể thiết lập nó trong cài đặt chung.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="305"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit không khởi động được!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="306"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit không khởi động được.
 Có thể cần phải cài đặt lại nó.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="355"/>
         <source>Select a Minecraft world zip</source>
         <translation>Chọn tệp nén thế giới Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="331"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="356"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>Tệp nén thế giới Minecraft (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
         <source>Copy World</source>
         <translation>Sao chép thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Thay đổi thế giới trong khi Minecraft đang chạy có khả năng không an toàn.
 Bạn có muốn tiếp tục?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="376"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
         <source>World name</source>
         <translation>Tên thế giới</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="376"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
         <source>Enter a new name for the copy.</source>
         <translation>Nhập tên mới cho bản sao.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
         <source>Enter a new world name.</source>
         <translation>Nhập một tên mới cho thế giới.</translation>
     </message>
