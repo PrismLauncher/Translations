@@ -2329,7 +2329,7 @@ Es posible que tengas que arreglar tus mods porque el juego todavía está regis
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="120"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;Mods:</translation>
+        <translation type="unfinished">&amp;Mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
