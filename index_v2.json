@@ -83,12 +83,12 @@
             "untranslated" : 187
         },
         "en_GB" : {
-            "file" : "889c0efc68f48247576945fae94aba1efbc26538.class",
-            "sha1" : "889c0efc68f48247576945fae94aba1efbc26538",
-            "size" : 113621,
-            "translated" : 867,
-            "fuzzy" : 53,
-            "untranslated" : 194
+            "file" : "b237c9f667cf72bb6e8e7a9b502e6371c2ea02dd.class",
+            "sha1" : "b237c9f667cf72bb6e8e7a9b502e6371c2ea02dd",
+            "size" : 145590,
+            "translated" : 1114,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "eo" : {
             "file" : "d3f6ded273ddccffd50009b7a424af649a6518ce.class",
@@ -331,12 +331,12 @@
             "untranslated" : 106
         },
         "pt_BR" : {
-            "file" : "12f1ce6a37db8a7cbbaf2bf8461a0ea9da139a81.class",
-            "sha1" : "12f1ce6a37db8a7cbbaf2bf8461a0ea9da139a81",
-            "size" : 141663,
-            "translated" : 998,
-            "fuzzy" : 43,
-            "untranslated" : 73
+            "file" : "47e576fd126067432a1cb31f54de8bb2221c16dd.class",
+            "sha1" : "47e576fd126067432a1cb31f54de8bb2221c16dd",
+            "size" : 153624,
+            "translated" : 1114,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "ro" : {
             "file" : "791bc182e6700951e7e4d14899fda7002dceb6f0.class",
@@ -347,12 +347,12 @@
             "untranslated" : 604
         },
         "ru" : {
-            "file" : "ead128dba8c0430397ae22fd051bfb76d2e4e567.class",
-            "sha1" : "ead128dba8c0430397ae22fd051bfb76d2e4e567",
-            "size" : 150706,
-            "translated" : 1084,
-            "fuzzy" : 25,
-            "untranslated" : 5
+            "file" : "848767351153a90241785c5fece83b70f2c4bbb2.class",
+            "sha1" : "848767351153a90241785c5fece83b70f2c4bbb2",
+            "size" : 151549,
+            "translated" : 1114,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "si" : {
             "file" : "c734b0b209dbff728932df65eb4f1b0f4c5eabdd.class",
