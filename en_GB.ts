@@ -6,42 +6,42 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>Pastebin URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastebin URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>Microsoft Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Authentication</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Default)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>Enter a custom client ID for Microsoft Authentication here. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -278,7 +278,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Disabled</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
@@ -400,7 +400,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -427,7 +427,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>No Microsoft Authentication client ID was set.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -450,22 +450,24 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
 
 Please update both your operating system and PolyMC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
+
+Please update both your operating system and PolyMC.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="191"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="203"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Please enter your desired username to add your offline account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
@@ -498,7 +500,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Client ID has changed. New session needs to be created.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -633,7 +635,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Search and filter ...</translation>
+        <translation>Search and filter ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
@@ -791,7 +793,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -814,7 +816,7 @@ Please update both your operating system and PolyMC.</source>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Could not launch minecraft!</translation>
+        <translation>Could not launch minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -1072,80 +1074,80 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="25"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selected:</translation>
+        <translation>Version selected:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="35"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="231"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Select mod for download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Search and filter ...</translation>
+        <translation>Search and filter ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished">Search</translation>
+        <translation>Search</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="65"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort by Featured</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="66"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort by Popularity</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="67"/>
         <source>Sort by last updated</source>
-        <translation type="unfinished">Sort by last updated</translation>
+        <translation>Sort by last updated</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="68"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort by Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="69"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort by Author</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="70"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort by Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="139"/>
         <source> by </source>
-        <translation type="unfinished"> by </translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="148"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Loading versions...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="196"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="214"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No valid version found.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="200"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Cannot select invalid version :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="233"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Deselect mod for download</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1168,7 +1170,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Search and filter ...</translation>
+        <translation>Search and filter...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1216,7 +1218,7 @@ Please try again.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Failed to create folder for minecraft binaries.</translation>
+        <translation>Failed to create folder for Minecraft binaries.</translation>
     </message>
 </context>
 <context>
@@ -1248,7 +1250,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Search and filter ...</translation>
+        <translation>Search and filter...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1437,7 +1439,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
 </context>
 <context>
@@ -1557,7 +1559,7 @@ Please try again.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">Could not map recommended forge version for Minecraft %1</translation>
+        <translation>Could not map recommended Forge version for Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
@@ -1609,7 +1611,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -2046,8 +2048,8 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">You do not have a working Java set up yet or it went missing.
-Please select one of the following or browse for a java executable.</translation>
+        <translation>You do not have a working Java set up yet or it went missing.
+Please select one of the following or browse for a Java executable.</translation>
     </message>
 </context>
 <context>
@@ -2095,7 +2097,7 @@ Please select one of the following or browse for a java executable.</translation
         <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</translation>
+        <translation>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="112"/>
@@ -2130,7 +2132,7 @@ Please select one of the following or browse for a java executable.</translation
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="212"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Play demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="213"/>
@@ -2138,22 +2140,25 @@ Please select one of the following or browse for a java executable.</translation
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>This account does not own Minecraft.
+You need to purchase the game first to play it.
+
+Do you want to play the demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Play Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="226"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Launch cancelled - account does not own Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
@@ -2173,12 +2178,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>The launcher&apos;s client identification has changed. Please remove this account and add it again.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="270"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Client identification changed</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="279"/>
@@ -2270,7 +2275,7 @@ Do you want to play the demo?</source>
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <oldsource>PolyMC stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</oldsource>
-        <translation type="unfinished">PolyMC stopped watching the game log because the log length surpassed %1 lines.
+        <translation>PolyMC stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting hard drive space at an alarming rate!</translation>
     </message>
 </context>
@@ -2327,177 +2332,177 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="100"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;nstances:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="120"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Icons:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Move the data to new location (will restart the launcher)</source>
-        <translation type="unfinished"></translation>
+        <translation>Move the data to new location (will restart the launcher)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="184"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>User Interface</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="193"/>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance view sorting mode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
         <source>By &amp;last launched</source>
-        <translation type="unfinished"></translation>
+        <translation>By &amp;last launched</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="209"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>By &amp;name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="222"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Theme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="228"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Icons</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="258"/>
         <source>Simple (Dark Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple (Dark Icons)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="253"/>
         <source>Simple (Light Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple (Light Icons)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="263"/>
         <source>Simple (Blue Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple (Blue Icons)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="248"/>
         <source>Simple (Colored Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple (Colored Icons)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Flat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
         <source>Legacy</source>
-        <translation type="unfinished">Legacy</translation>
+        <translation>Legacy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="288"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="309"/>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Colours</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="336"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="342"/>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Console Settings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="348"/>
         <source>Show console while the game is running?</source>
-        <translation type="unfinished">Show console while the game is running?</translation>
+        <translation>Show console while the game is running?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="355"/>
         <source>Automatically close console when the game quits?</source>
-        <translation type="unfinished">Automatically close console when the game quits?</translation>
+        <translation>Automatically close console when the game quits?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>Show console when the game crashes?</source>
-        <translation type="unfinished">Show console when the game crashes?</translation>
+        <translation>Show console when the game crashes?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="372"/>
         <source>History limit</source>
-        <translation type="unfinished"></translation>
+        <translation>History limit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="378"/>
         <source>Stop logging when log overflows</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop logging when log overflows</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> lines</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
         <source>Console font</source>
-        <translation type="unfinished"></translation>
+        <translation>Console font</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="121"/>
         <source>Instance Folder</source>
-        <translation type="unfinished">Instance Folder</translation>
+        <translation>Instance Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="135"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="153"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Icons Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="164"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="442"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Something/ERROR] A spooky error!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="451"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/INFO] A harmless message...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="460"/>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Something/WARN] A not so spooky warning.</translation>
     </message>
 </context>
 <context>
@@ -2512,7 +2517,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Could not launch minecraft!</translation>
+        <translation>Could not launch Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
@@ -2601,7 +2606,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">Failed to move unzipped minecraft!</translation>
+        <translation>Failed to move unzipped Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="184"/>
@@ -2797,7 +2802,7 @@ Reason:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Upload the log to paste.ee - it will stay online for a month</translation>
+        <translation>Upload the log to the paste service configured in preferences</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -2899,7 +2904,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Open page and copy code</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
@@ -2912,37 +2917,37 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
         <source>Logging in with Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Logging in with Microsoft account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft user authentication failed - client identification has changed.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
         <source>Got </source>
-        <translation type="unfinished"></translation>
+        <translation>Got </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft user authentication ended with a network error.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="139"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft user authentication failed - user no longer exists.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="144"/>
         <source>Microsoft user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft user authentication failed.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="149"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft user authentication completed with an unrecognized result.</translation>
     </message>
 </context>
 <context>
@@ -3032,45 +3037,45 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the bug tracker to report a bug with %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>Matrix space</source>
         <oldsource>Matrix</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Matrix space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>Open %1 Matrix space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>Discord guild</source>
         <oldsource>Discord</oldsource>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord guild</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="370"/>
         <source>Subreddit</source>
         <oldsource>Reddit</oldsource>
-        <translation type="unfinished">Reddit</translation>
+        <translation>Subreddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open %1 subreddit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <source>About %1</source>
-        <translation type="unfinished">About %1</translation>
+        <translation>About %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>View information about %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="386"/>
@@ -3081,7 +3086,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="387"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Get help with %1 or Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="403"/>
@@ -3091,7 +3096,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="404"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for new updates for %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="415"/>
@@ -3111,17 +3116,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="450"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>News Toolbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="455"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>More news...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the development blog to read more news about %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="474"/>
@@ -3182,12 +3187,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>View Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>View Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="539"/>
         <source>View the mods of this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>View the mods of this instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
@@ -3228,7 +3233,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
-        <translation type="unfinished">Open the selected instance&apos;s minecraft folder in a file browser.</translation>
+        <translation>Open the selected instance&apos;s Minecraft folder in a file browser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
@@ -3258,13 +3263,13 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="601"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Export the selected instance as a zip file.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
         <source>Delete Instance</source>
         <oldsource>Delete</oldsource>
-        <translation type="unfinished">Delete</translation>
+        <translation>Delete Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
@@ -3285,7 +3290,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="659"/>
         <source>%1 - Version %2</source>
         <comment>Launcher - Version X</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Version %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="662"/>
@@ -3302,7 +3307,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>Total playtime: 0s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
@@ -3343,54 +3348,55 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1195"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Loading news...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No news available.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1359"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1401"/>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>The launcher cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Group name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter a new group name.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Delete group</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Are you sure you want to delete the group %1?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1707"/>
         <source>CAREFUL!</source>
-        <translation type="unfinished"></translation>
+        <translation>CAREFUL!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1708"/>
@@ -3398,42 +3404,45 @@ Please add your Mojang or Minecraft account.</source>
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>About to delete: %1
+This is permanent and will completely delete the instance.
+
+Are you sure?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1913"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1926"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1928"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1937"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1944"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1952"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Your instance folder is in a temporary folder: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1965"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Total playtime: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
@@ -3447,7 +3456,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open %1 Discord guild.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
@@ -3462,12 +3471,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="15"/>
         <source>Checking for migration eligibility.</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking for migration eligibility.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="44"/>
         <source>Got migration flags</source>
-        <translation type="unfinished"></translation>
+        <translation>Got migration flags</translation>
     </message>
 </context>
 <context>
@@ -3568,7 +3577,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="153"/>
         <source>Show time spent playing across all instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Show time spent playing across all instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
@@ -3578,17 +3587,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Miscellaneous</translation>
+        <translation>Miscellaneous</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close PolyMC after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Close PolyMC after game window opens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -3601,27 +3610,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="15"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fetching the Minecraft profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="54"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Account has no Minecraft profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
         <source>Minecraft Java profile acquisition failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java profile acquisition failed.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="77"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java profile response could not be parsed</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="89"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java profile acquisition succeeded.</translation>
     </message>
 </context>
 <context>
@@ -3637,12 +3646,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="65"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Download mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="80"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm mods to download</translation>
     </message>
 </context>
 <context>
@@ -3651,12 +3660,13 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="9"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloading mod:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod download</translation>
+        <translation>Mod download</translation>
     </message>
 </context>
 <context>
@@ -3728,7 +3738,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="99"/>
         <source>Add</source>
         <oldsource>Add mods</oldsource>
-        <translation type="unfinished">Add mods</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="104"/>
@@ -3778,22 +3788,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Download mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="171"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Download mods from online mod platforms</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>Add .jar</source>
-        <translation type="unfinished"></translation>
+        <translation>Add .jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <source>Add mods via local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Add mods via local file</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="226"/>
@@ -3810,22 +3820,22 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="401"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>Please install a mod loader first!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
 </context>
 <context>
@@ -3891,13 +3901,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="257"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="257"/>
         <source>Modrinth API version too old!
 Please update PolyMC!</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth API version too old!
+Please update PolyMC!</translation>
     </message>
 </context>
 <context>
@@ -3905,75 +3916,75 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">Search</translation>
+        <translation>Search</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="54"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Search and filter ...</translation>
+        <translation>Search and filter ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selected:</translation>
+        <translation>Version selected:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="218"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Select mod for download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort by Relevance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort by Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort by Follows</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by last updated</source>
-        <translation type="unfinished">Sort by last updated</translation>
+        <translation>Sort by last updated</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
         <source>Sort by newest</source>
-        <translation type="unfinished"></translation>
+        <translation>Sort by newest</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="126"/>
         <source> by </source>
-        <translation type="unfinished"> by </translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="133"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Loading versions...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No valid version found.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="185"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Cannot select invalid version :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="220"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Deselect mod for download</translation>
     </message>
 </context>
 <context>
@@ -4034,7 +4045,8 @@ Please update PolyMC!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="98"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to load news RSS feed:
+%1</translation>
     </message>
 </context>
 <context>
@@ -4043,13 +4055,13 @@ Please update PolyMC!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="56"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Untitled</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="25"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
-        <translation type="unfinished"></translation>
+        <translation>No content.</translation>
     </message>
 </context>
 <context>
@@ -4088,22 +4100,22 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation type="unfinished">Add Account</translation>
+        <translation>Add Account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Username</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Allow long usernames</translation>
     </message>
 </context>
 <context>
@@ -4111,12 +4123,12 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="9"/>
         <source>Creating offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Creating offline account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="17"/>
         <source>Created offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Created offline account.</translation>
     </message>
 </context>
 <context>
@@ -4152,7 +4164,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Upload the log to paste.ee - it will stay online for a month.</translation>
+        <translation>Upload the log to the paste service configured in preferences.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4266,17 +4278,17 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="37"/>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uploading to %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="58"/>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Network error: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="65"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Error: %1 returned unexpected status code %2 %3</translation>
     </message>
 </context>
 <context>
@@ -4370,44 +4382,46 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose Minecraft name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>You just need to take one more step to be able to play Minecraft on this account.
+
+Choose your name carefully:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="104"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>Name is too short - must be between 3 and 16 characters long.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="164"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft profile with name %1 already exists.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="167"/>
         <source>The name %1 is not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>The name %1 is not allowed.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="170"/>
         <source>Unhandled profile name status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unhandled profile name status: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="174"/>
         <source>Failed to check name availability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to check name availability.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="251"/>
         <source>The server returned the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>The server returned the following error:</translation>
     </message>
 </context>
 <context>
@@ -4433,7 +4447,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>This only applies to the launcher. Minecraft does not accept proxy settings.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -4488,7 +4502,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="169"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="59"/>
@@ -4538,13 +4552,13 @@ Choose your name carefully:</source>
         <source>PolyMC Developers</source>
         <oldsource>Developers</oldsource>
         <comment>About Credits</comment>
-        <translation type="unfinished"></translation>
+        <translation>PolyMC Developers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="42"/>
         <source>MultiMC Developers</source>
         <comment>About Credits</comment>
-        <translation type="unfinished"></translation>
+        <translation>MultiMC Developers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="50"/>
@@ -4581,13 +4595,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">The specified java binary didn&apos;t start properly.&lt;br /&gt;</translation>
+        <translation>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">The specified java binary returned unexpected results:&lt;br /&gt;</translation>
+        <translation>The specified Java binary returned unexpected results:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="313"/>
@@ -4625,7 +4639,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="179"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
@@ -4701,7 +4715,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="463"/>
         <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>No profile (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="366"/>
@@ -4717,13 +4731,15 @@ Choose your name carefully:</source>
         <location filename="src/launcher/UpdateController.cpp" line="372"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t replace file %1. Changes will be reverted.
+See the %2 log file for details.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="382"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t remove file %1. Changes will be reverted.
+See the %2 log file for details.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="392"/>
@@ -4739,22 +4755,24 @@ Roll back to previous version?</translation>
         <source>The rollback failed too.
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
-        <translation type="unfinished"></translation>
+        <translation>The rollback failed too.
+You will have to repair %1 manually.
+Please let us know why and how this happened.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1m %2s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1m %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1h %2m</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1d %2h %3m</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="10"/>
@@ -4764,7 +4782,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
+        <translation>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</translation>
     </message>
@@ -4787,13 +4805,13 @@ This message will be displayed until you remove them from the JVM arguments.</tr
         <location filename="src/launcher/JavaCommon.cpp" line="43"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</translation>
+        <translation>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</translation>
+        <translation>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
@@ -4876,17 +4894,17 @@ This message will be displayed until you remove them from the JVM arguments.</tr
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="14"/>
         <source>Confirm mod selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm mod selection</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="26"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>You&apos;re about to download the following mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="26"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Filename: %1</translation>
     </message>
 </context>
 <context>
@@ -4920,13 +4938,13 @@ This message will be displayed until you remove them from the JVM arguments.</tr
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy Image</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy File(s)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
@@ -5093,7 +5111,7 @@ This message will be displayed until you remove them from the JVM arguments.</tr
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Quick Setup</translation>
     </message>
 </context>
 <context>
@@ -5312,7 +5330,7 @@ This message will be displayed until you remove them from the JVM arguments.</tr
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</translation>
+        <translation>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -5350,7 +5368,7 @@ inheritsFrom is missing</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="32"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Search and filter ...</translation>
+        <translation>Search and filter...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="39"/>
@@ -5455,7 +5473,7 @@ inheritsFrom is missing</translation>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>PolyMC Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished">PolyMC Update</translation>
+        <translation>PolyMC Update</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -5546,7 +5564,7 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="26"/>
         <source>Minecraft 1.18 Pre Release 2 and above require the use of Java 17</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft 1.18 Pre Release 2 and above require the use of Java 17</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="35"/>
@@ -5840,7 +5858,7 @@ inheritsFrom is missing</translation>
 Please add your Mojang or Minecraft account.</source>
         <oldsource>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="unfinished">PolyMC cannot download Minecraft or update instances unless you have at least one account added.
+        <translation>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</translation>
     </message>
     <message>
@@ -6215,61 +6233,65 @@ Do you wish to proceed?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="21"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Getting authorisation to access %1 services.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to get authorisation for %1 services. Error %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not parse authorisation response for access to %1 services.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Server has changed %1 authorisation user hash in the reply. Something is wrong.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Got authorisation to access %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="109"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cannot parse %1 authorisation error response as JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="119"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>XErr element is missing from %1 authorisation error response.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="127"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox Live is not available in your country. You&apos;ve been blocked.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>This Microsoft account is underaged and is not linked to a family.
+
+Please set up your account according to %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XSTS authentication ended with unrecognized error(s):
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -6277,17 +6299,17 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="17"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fetching Xbox profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="63"/>
         <source>Failed to retrieve the Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to retrieve the Xbox profile.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="72"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Got Xbox profile</translation>
     </message>
 </context>
 <context>
@@ -6295,22 +6317,22 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="15"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Logging in as an Xbox user.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="56"/>
         <source>XBox user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox user authentication failed.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox user authentication response could not be understood.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="67"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Got Xbox user token</translation>
     </message>
 </context>
 <context>
@@ -6343,7 +6365,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="234"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="252"/>
@@ -6376,22 +6398,22 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="17"/>
         <source>Logging in with Mojang account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Logging in with Mojang account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="34"/>
         <source>Logged in with Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>Logged in with Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="43"/>
         <source>Mojang user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang user authentication failed.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="48"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang user authentication ended with a network error.</translation>
     </message>
 </context>
 </TS>

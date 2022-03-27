@@ -639,7 +639,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
@@ -797,7 +797,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском выполняется перед запуском сборки, а команда после выхода когда она закрылась.&lt;/p&gt;&lt;p&gt;Обе команды будут выполняться в папке PolyMC с дополнительными переменными среды:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Имя сборки&lt;/li&gt;&lt;li&gt;$INST_ID - ID сборки (название её папки)&lt;/li&gt;&lt;li&gt;$INST_DIR - полный путь до сборки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - полный путь до Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java файл, используемый при запуске&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументы командной строки, используемые при запуске&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обёртки позволяет запускать Java, используя дополнительную программу-обёртку (например &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском выполняется перед запуском сборки, а команда после выхода когда она закрылась.&lt;/p&gt;&lt;p&gt;Обе команды будут выполняться в папке PolyMC с дополнительными переменными среды:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Имя сборки&lt;/li&gt;&lt;li&gt;$INST_ID - ID сборки (название её папки)&lt;/li&gt;&lt;li&gt;$INST_DIR - полный путь до сборки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - полный путь до Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java файл, используемый при запуске&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументы командной строки, используемые при запуске&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обёртки позволяет запускать Java, используя дополнительную программу-обёртку (например &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -820,7 +820,7 @@ Please update both your operating system and PolyMC.</source>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Не удалось запустить minecraft!</translation>
+        <translation>Не удалось запустить Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -1090,7 +1090,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="81"/>
@@ -1141,7 +1141,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="196"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="214"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подходящая версия не найдена.</translation>
     </message>
     <message>
         <source>No Valid Version found!</source>
@@ -1178,7 +1178,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1226,7 +1226,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Не удалось создать папку для файлов minecraft.</translation>
+        <translation>Не удалось создать папку для файлов Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -1258,7 +1258,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1567,7 +1567,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">Не удалось отобразить рекомендуемую версию forge для Minecraft %1</translation>
+        <translation>Не удалось отобразить рекомендуемую версию Forge для Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
@@ -2056,7 +2056,7 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">У вас ещё не выбрана рабочая версия Java.
+        <translation>У вас ещё не выбрана рабочая версия Java.
 Выберите один из вариантов ниже или найдите исполняемый файл Java, нажав на кнопку «Обзор».</translation>
     </message>
 </context>
@@ -2534,7 +2534,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Не удалось запустить minecraft!</translation>
+        <translation>Не удалось запустить Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
@@ -2623,7 +2623,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">Не удалось переместить распакованный minecraft!</translation>
+        <translation>Не удалось переместить распакованный Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="184"/>
@@ -3063,7 +3063,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>Matrix space</source>
         <oldsource>Matrix</oldsource>
-        <translation type="unfinished">Matrix</translation>
+        <translation>Пространство Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
@@ -3074,13 +3074,13 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>Discord guild</source>
         <oldsource>Discord</oldsource>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord сервер</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="370"/>
         <source>Subreddit</source>
         <oldsource>Reddit</oldsource>
-        <translation type="unfinished">Reddit</translation>
+        <translation>Reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
@@ -3253,7 +3253,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
-        <translation type="unfinished">Открыть папку выбранной сборки в файловом менеджере.</translation>
+        <translation>Открыть папку выбранной сборки в файловом менеджере.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
@@ -3289,7 +3289,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
         <source>Delete Instance</source>
         <oldsource>Delete</oldsource>
-        <translation type="unfinished">Удалить сборку</translation>
+        <translation>Удалить сборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
@@ -3411,7 +3411,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished">Вы уверены, что хотите удалить группу %1?</translation>
+        <translation>Вы уверены, что хотите удалить группу %1?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -3949,7 +3949,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="54"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="66"/>
@@ -3969,7 +3969,7 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по релевантности</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
@@ -4005,7 +4005,7 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подходящая версия не найдена.</translation>
     </message>
     <message>
         <source>No Valid Version found !</source>
@@ -4149,12 +4149,12 @@ Please update PolyMC!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ники длиннее 16 символов не могут быть использованы для игры по локальной сети или на пиратских серверах.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешить длинные ники</translation>
     </message>
 </context>
 <context>
@@ -4632,13 +4632,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Указанный файл Java запускается не корректно.&lt;br /&gt;</translation>
+        <translation>Указанный файл Java не запустился корректно.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Указанный файл Java вернул непредвиденный результат:&lt;br /&gt;</translation>
+        <translation>Указанный файл Java вернул неожиданный результат:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="313"/>
@@ -4819,8 +4819,8 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">Вы пытались вручную задать параметр памяти JVM (используя &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; или &quot;-Xms&quot;)
-в настройках есть выделенные поля для них (вкладка Java, в группе «Память» вверху).
+        <translation>Вы пытались вручную задать параметр памяти JVM (используя &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; или &quot;-Xms&quot;).
+В настройках есть выделенные поля для них (вкладка Java, в группе «Память» вверху).
 Это сообщение будет отображаться до тех пор, пока вы не удалите их из аргументов JVM.</translation>
     </message>
     <message>
@@ -4842,13 +4842,13 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="43"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Указанная версия Java не работает c аргументами, которые вы указали:&lt;br /&gt;</translation>
+        <translation>Указанная версия Java не работает c аргументами, которые вы указали:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Указанная версия Java не работает.&lt;br /&gt;Используйте автоматический поиск, или установите путь к Java файлу вручную.&lt;br /&gt;</translation>
+        <translation>Указанный файл Java не работает.&lt;br /&gt;Используйте автоматический поиск или установите путь к файлу Java вручную.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
@@ -5367,7 +5367,7 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">Не удалось найти &quot;version.json&quot; внутри &quot;bin/modpack.jar&quot;, но версия minecraft неизвестна</translation>
+        <translation>Не удалось найти &quot;version.json&quot; внутри &quot;bin/modpack.jar&quot;, но версия Minecraft неизвестна</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -5405,7 +5405,7 @@ inheritsFrom отсутствует</translation>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="32"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="39"/>
