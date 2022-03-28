@@ -535,7 +535,7 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="736"/>
+        <location filename="src/launcher/Application.cpp" line="737"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
@@ -1076,86 +1076,75 @@ Please try again.</source>
 <context>
     <name>FlameModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="25"/>
         <source>Version selected:</source>
-        <translation>Выбрана версия:</translation>
+        <translation type="vanished">Выбрана версия:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="35"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="231"/>
         <source>Select mod for download</source>
-        <translation>Выберите мод для загрузки</translation>
+        <translation type="vanished">Выберите мод для загрузки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Поиск и фильтрация...</translation>
+        <translation type="vanished">Поиск и фильтрация...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="81"/>
         <source>Search</source>
-        <translation>Искать</translation>
+        <translation type="vanished">Искать</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
         <translation>Упорядочить по избранным</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="66"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
         <translation>Сортировать по популярности</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="67"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by last updated</source>
         <translation>Сортировать по дате обновления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="68"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
         <translation>Сортировать по имени</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="69"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
         <translation>Сортировать по автору</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="70"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
         <translation>Сортировать по скачиваниям</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="139"/>
         <source> by </source>
-        <translation> от </translation>
+        <translation type="vanished"> от </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="148"/>
         <source>Loading versions...</source>
-        <translation>Загрузка версий...</translation>
+        <translation type="vanished">Загрузка версий...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="214"/>
         <source>No valid version found.</source>
-        <translation>Подходящая версия не найдена.</translation>
+        <translation type="vanished">Подходящая версия не найдена.</translation>
     </message>
     <message>
         <source>No Valid Version found!</source>
         <translation type="vanished">Подходящяя версия не найдена!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="200"/>
         <source>Cannot select invalid version :(</source>
-        <translation>Невозможно выбрать неверную версию :(</translation>
+        <translation type="vanished">Невозможно выбрать неверную версию :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="233"/>
         <source>Deselect mod for download</source>
-        <translation>Отменить выбор мода для загрузки</translation>
+        <translation type="vanished">Отменить выбор мода для загрузки</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -2538,7 +2527,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="178"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="179"/>
         <source>Game crashed.</source>
         <translation>Игра вылетела.</translation>
     </message>
@@ -3510,47 +3499,47 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="692"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="693"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID СЕССИИ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="694"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="695"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ ДОСТУПА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="696"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="697"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;КЛЮЧ КЛИЕНТА&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="698"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="699"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID ПРОФИЛЯ&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="770"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="771"/>
         <source>broken</source>
         <translation>повреждённый</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="774"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="775"/>
         <source>Minecraft %1 (%2)</source>
         <translation>Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="778"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="779"/>
         <source>, last played for %1</source>
         <translation>, %1 за последнее время</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="782"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="783"/>
         <source>, total played for %1</source>
         <translation>, %1 за всё время</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="787"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="788"/>
         <source>, has crashed.</source>
         <translation>, вылетела.</translation>
     </message>
@@ -3626,6 +3615,16 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close PolyMC after game window opens</source>
         <translation>Закрыть PolyMC после открытия игры</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
+        <source>Quit PolyMC after game window stops</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -3884,6 +3883,74 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>ModPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
+        <source>Search and filter...</source>
+        <translation type="unfinished">Поиск и фильтрация...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
+        <source>Version selected:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="166"/>
+        <source>Select mod for download</source>
+        <translation type="unfinished">Выберите мод для загрузки</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="81"/>
+        <source> by </source>
+        <translation type="unfinished"> от </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="90"/>
+        <source>Loading versions...</source>
+        <translation type="unfinished">Загрузка версий...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="98"/>
+        <source>No valid version found.</source>
+        <translation type="unfinished">Подходящая версия не найдена.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="149"/>
+        <source>No valid version found!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="151"/>
+        <source>Cannot select invalid version :(</source>
+        <translation type="unfinished">Невозможно выбрать неверную версию :(</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="168"/>
+        <source>Deselect mod for download</source>
+        <translation type="unfinished">Отменить выбор мода для загрузки</translation>
+    </message>
+</context>
+<context>
+    <name>ModPlatform::ListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="188"/>
+        <source>Error</source>
+        <translation type="unfinished">Ошибка</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="189"/>
+        <source>API version too old!
+Please update PolyMC!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ModpacksCH::PackInstallTask</name>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="62"/>
@@ -3926,100 +3993,87 @@ Are you sure?</source>
 <context>
     <name>Modrinth::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="257"/>
         <source>Error</source>
-        <translation>Ошибка</translation>
+        <translation type="vanished">Ошибка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="257"/>
         <source>Modrinth API version too old!
 Please update PolyMC!</source>
-        <translation>Версия Modrinth API слишком старая!
+        <translation type="vanished">Версия Modrinth API слишком старая!
 Пожалуйста, обновите PolyMC!</translation>
     </message>
 </context>
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="47"/>
         <source>Search</source>
-        <translation>Найти</translation>
+        <translation type="vanished">Найти</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="54"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Поиск и фильтрация...</translation>
+        <translation type="vanished">Поиск и фильтрация...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation>Версия:</translation>
+        <translation type="vanished">Версия:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="218"/>
         <source>Select mod for download</source>
-        <translation>Выберите мод для загрузки</translation>
+        <translation type="vanished">Выберите мод для загрузки</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
         <source>Sort by Relevence</source>
-        <translation type="vanished">Сортировать по релевантности</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
-        <source>Sort by Relevance</source>
         <translation>Сортировать по релевантности</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
+        <source>Sort by Relevance</source>
+        <translation type="vanished">Сортировать по релевантности</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
         <translation>Сортировать по скачиваниям</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Follows</source>
         <translation>Сортировать по фолловерам</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
         <source>Sort by last updated</source>
         <translation>Сортировать по дате обновления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by newest</source>
         <translation>Сортировать по новизне</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="126"/>
         <source> by </source>
-        <translation> от </translation>
+        <translation type="vanished"> от </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="133"/>
         <source>Loading versions...</source>
-        <translation>Загрузка версий...</translation>
+        <translation type="vanished">Загрузка версий...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
         <source>No valid version found.</source>
-        <translation>Подходящая версия не найдена.</translation>
+        <translation type="vanished">Подходящая версия не найдена.</translation>
     </message>
     <message>
         <source>No Valid Version found !</source>
         <translation type="vanished">Подходящяя версия не найдена!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="185"/>
         <source>Cannot select invalid version :(</source>
-        <translation>Невозможно выбрать неверную версию :(</translation>
+        <translation type="vanished">Невозможно выбрать неверную версию :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="220"/>
         <source>Deselect mod for download</source>
-        <translation>Отменить выбор мода для загрузки</translation>
+        <translation type="vanished">Отменить выбор мода для загрузки</translation>
     </message>
     <message>
         <source>Modrinth</source>

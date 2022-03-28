@@ -531,7 +531,7 @@ Please update both your operating system and PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="736"/>
+        <location filename="src/launcher/Application.cpp" line="737"/>
         <source>Settings</source>
         <translation>Settings</translation>
     </message>
@@ -1072,82 +1072,71 @@ Please try again.</translation>
 <context>
     <name>FlameModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="25"/>
         <source>Version selected:</source>
-        <translation>Version selected:</translation>
+        <translation type="vanished">Version selected:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="35"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="231"/>
         <source>Select mod for download</source>
-        <translation>Select mod for download</translation>
+        <translation type="vanished">Select mod for download</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="44"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Search and filter ...</translation>
+        <translation type="vanished">Search and filter ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.ui" line="81"/>
         <source>Search</source>
-        <translation>Search</translation>
+        <translation type="vanished">Search</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
         <translation>Sort by Featured</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="66"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
         <translation>Sort by Popularity</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="67"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by last updated</source>
         <translation>Sort by last updated</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="68"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
         <translation>Sort by Name</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="69"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
         <translation>Sort by Author</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="70"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
         <translation>Sort by Downloads</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="139"/>
         <source> by </source>
-        <translation> by </translation>
+        <translation type="vanished"> by </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="148"/>
         <source>Loading versions...</source>
-        <translation>Loading versions...</translation>
+        <translation type="vanished">Loading versions...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="214"/>
         <source>No valid version found.</source>
-        <translation>No valid version found.</translation>
+        <translation type="vanished">No valid version found.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="200"/>
         <source>Cannot select invalid version :(</source>
-        <translation>Cannot select invalid version :(</translation>
+        <translation type="vanished">Cannot select invalid version :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="233"/>
         <source>Deselect mod for download</source>
-        <translation>Deselect mod for download</translation>
+        <translation type="vanished">Deselect mod for download</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -2521,7 +2510,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="178"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="179"/>
         <source>Game crashed.</source>
         <translation>Game crashed.</translation>
     </message>
@@ -3482,47 +3471,47 @@ Are you sure?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="692"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="693"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="694"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="695"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="696"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="697"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="698"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="699"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="770"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="771"/>
         <source>broken</source>
         <translation>broken</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="774"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="775"/>
         <source>Minecraft %1 (%2)</source>
         <translation>Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="778"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="779"/>
         <source>, last played for %1</source>
         <translation>, last played for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="782"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="783"/>
         <source>, total played for %1</source>
         <translation>, total played for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="787"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="788"/>
         <source>, has crashed.</source>
         <translation>, has crashed.</translation>
     </message>
@@ -3598,6 +3587,16 @@ Are you sure?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close PolyMC after game window opens</source>
         <translation>Close PolyMC after game window opens</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
+        <source>Quit PolyMC after game window stops</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -3857,6 +3856,74 @@ Are you sure?</translation>
     </message>
 </context>
 <context>
+    <name>ModPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
+        <source>Search</source>
+        <translation type="unfinished">Search</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
+        <source>Search and filter...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
+        <source>Version selected:</source>
+        <translation type="unfinished">Version selected:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="166"/>
+        <source>Select mod for download</source>
+        <translation type="unfinished">Select mod for download</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="81"/>
+        <source> by </source>
+        <translation type="unfinished"> by </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="90"/>
+        <source>Loading versions...</source>
+        <translation type="unfinished">Loading versions...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="98"/>
+        <source>No valid version found.</source>
+        <translation type="unfinished">No valid version found.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="149"/>
+        <source>No valid version found!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="151"/>
+        <source>Cannot select invalid version :(</source>
+        <translation type="unfinished">Cannot select invalid version :(</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="168"/>
+        <source>Deselect mod for download</source>
+        <translation type="unfinished">Deselect mod for download</translation>
+    </message>
+</context>
+<context>
+    <name>ModPlatform::ListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="188"/>
+        <source>Error</source>
+        <translation type="unfinished">Error</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="189"/>
+        <source>API version too old!
+Please update PolyMC!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ModpacksCH::PackInstallTask</name>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="62"/>
@@ -3899,92 +3966,83 @@ Are you sure?</translation>
 <context>
     <name>Modrinth::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="257"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation type="vanished">Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="257"/>
         <source>Modrinth API version too old!
 Please update PolyMC!</source>
-        <translation>Modrinth API version too old!
+        <translation type="vanished">Modrinth API version too old!
 Please update PolyMC!</translation>
     </message>
 </context>
 <context>
     <name>ModrinthPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="47"/>
         <source>Search</source>
-        <translation>Search</translation>
+        <translation type="vanished">Search</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="54"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Search and filter ...</translation>
+        <translation type="vanished">Search and filter ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation>Version selected:</translation>
+        <translation type="vanished">Version selected:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="218"/>
         <source>Select mod for download</source>
-        <translation>Select mod for download</translation>
+        <translation type="vanished">Select mod for download</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Relevance</source>
-        <translation>Sort by Relevance</translation>
+        <translation type="vanished">Sort by Relevance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
+        <source>Sort by Relevence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
         <translation>Sort by Downloads</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Follows</source>
         <translation>Sort by Follows</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
         <source>Sort by last updated</source>
         <translation>Sort by last updated</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by newest</source>
         <translation>Sort by newest</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="126"/>
         <source> by </source>
-        <translation> by </translation>
+        <translation type="vanished"> by </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="133"/>
         <source>Loading versions...</source>
-        <translation>Loading versions...</translation>
+        <translation type="vanished">Loading versions...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="181"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="201"/>
         <source>No valid version found.</source>
-        <translation>No valid version found.</translation>
+        <translation type="vanished">No valid version found.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="185"/>
         <source>Cannot select invalid version :(</source>
-        <translation>Cannot select invalid version :(</translation>
+        <translation type="vanished">Cannot select invalid version :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="220"/>
         <source>Deselect mod for download</source>
-        <translation>Deselect mod for download</translation>
+        <translation type="vanished">Deselect mod for download</translation>
     </message>
 </context>
 <context>
