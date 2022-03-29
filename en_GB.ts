@@ -197,22 +197,22 @@
         <translation>Credits</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="225"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="222"/>
         <source>License</source>
         <translation>Licence</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="261"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="258"/>
         <source>About Qt</source>
         <translation>About Qt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="281"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="278"/>
         <source>Close</source>
         <translation>Close</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="80"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="128"/>
         <source>About %1</source>
         <translation>About %1</translation>
     </message>
@@ -221,17 +221,17 @@
         <translation type="vanished">Version</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="144"/>
         <source>Platform</source>
         <translation>Platform</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="149"/>
         <source>Build Number</source>
         <translation>Build Number</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="154"/>
         <source>Channel</source>
         <translation>Channel</translation>
     </message>
@@ -436,7 +436,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="175"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>Please enter your Mojang account email and password to add your account.</translation>
     </message>
@@ -446,36 +446,43 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <translation>Microsoft Accounts not available</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated %1.
+
+Please update both your operating system and %1.</source>
+        <extracomment>%1 refers to the launcher itself</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
 
 Please update both your operating system and PolyMC.</source>
-        <translation>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
+        <translation type="vanished">Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
 
 Please update both your operating system and PolyMC.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="204"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>Please enter your desired username to add your offline account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="303"/>
         <source>Skin Delete</source>
         <translation>Skin Delete</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="303"/>
         <source>Failed to delete current skin!</source>
         <translation>Failed to delete current skin!</translation>
     </message>
@@ -2259,13 +2266,18 @@ Do you want to play the demo?</translation>
 <context>
     <name>LaunchTask</name>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="215"/>
         <source>PolyMC stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <oldsource>PolyMC stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</oldsource>
-        <translation>PolyMC stopped watching the game log because the log length surpassed %1 lines.
+        <translation type="vanished">PolyMC stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting hard drive space at an alarming rate!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
+        <source>Stopped watching the game log because the log length surpassed %1 lines.
+You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3471,47 +3483,47 @@ Are you sure?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="693"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="729"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="695"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="731"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="697"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="733"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="699"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="735"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="771"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="807"/>
         <source>broken</source>
         <translation>broken</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="775"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
         <source>Minecraft %1 (%2)</source>
         <translation>Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="779"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="815"/>
         <source>, last played for %1</source>
         <translation>, last played for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="783"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
         <source>, total played for %1</source>
         <translation>, total played for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="788"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="824"/>
         <source>, has crashed.</source>
         <translation>, has crashed.</translation>
     </message>
@@ -3912,14 +3924,15 @@ Are you sure?</translation>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="182"/>
         <source>Error</source>
         <translation type="unfinished">Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="184"/>
         <source>API version too old!
-Please update PolyMC!</source>
+Please update %1!</source>
+        <extracomment>%1 refers to the launcher itself</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4606,20 +4619,38 @@ Choose your name carefully:</translation>
         <translation>&lt;p&gt;You can &lt;a href=&quot;%1&quot;&gt;look at the changes on github&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="36"/>
         <source>PolyMC Developers</source>
         <oldsource>Developers</oldsource>
         <comment>About Credits</comment>
-        <translation>PolyMC Developers</translation>
+        <translation type="vanished">PolyMC Developers</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="42"/>
         <source>MultiMC Developers</source>
         <comment>About Credits</comment>
-        <translation>MultiMC Developers</translation>
+        <translation type="vanished">MultiMC Developers</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
+        <source>Website</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="90"/>
+        <source>%1 Developers</source>
+        <comment>About Credits</comment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
+        <source>%1 Contributors</source>
+        <comment>About Credits</comment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>With thanks to</translation>
@@ -5831,141 +5862,146 @@ inheritsFrom is missing</translation>
         <translation>Open the instance&apos;s local libraries folder.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="181"/>
         <source>Context menu</source>
         <translation>Context menu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="199"/>
         <source>%1 possibly has issues.</source>
         <translation>%1 possibly has issues.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="202"/>
         <source>%1 has issues!</source>
         <translation>%1 has issues!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="216"/>
         <source>Error: </source>
         <translation>Error: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
         <source>Warning: </source>
         <translation>Warning: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="286"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="349"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="362"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="306"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Couldn&apos;t load the instance profile.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="306"/>
         <source>Couldn&apos;t remove file</source>
         <translation>Couldn&apos;t remove file</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
         <source>Select jar mods</source>
         <translation>Select jar mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>Minecraft.jar mods (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="334"/>
         <source>Select jar</source>
         <translation>Select jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="334"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>Minecraft.jar replacement (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>Change %1 version</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>No intermediary mappings versions are currently available.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="398"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Couldn&apos;t load or download the intermediary mappings version lists!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <source>Cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <oldsource>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
+        <translation type="vanished">PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="451"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="452"/>
         <source>Select Forge version</source>
         <translation>Select Forge version</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="454"/>
         <source>No Forge versions are currently available for Minecraft </source>
         <translation>No Forge versions are currently available for Minecraft </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="454"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
         <translation>Couldn&apos;t load or download the Forge version lists!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="480"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="481"/>
         <source>Select Fabric Loader version</source>
         <translation>Select Fabric Loader version</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="481"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
         <source>No Fabric Loader versions are currently available.</source>
         <translation>No Fabric Loader versions are currently available.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="483"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
         <translation>Couldn&apos;t load or download the Fabric Loader version lists!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="525"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="526"/>
         <source>Select LiteLoader version</source>
         <translation>Select LiteLoader version</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="527"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="528"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
         <translation>No LiteLoader versions are currently available for Minecraft </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="528"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="529"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
         <translation>Couldn&apos;t load or download the LiteLoader version lists!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="584"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="585"/>
         <source>Error updating instance</source>
         <translation>Error updating instance</translation>
     </message>

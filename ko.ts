@@ -193,37 +193,37 @@
         <translation>개발자</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="225"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="222"/>
         <source>License</source>
         <translation>라이센스</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="261"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="258"/>
         <source>About Qt</source>
         <translation>Qt에 대해</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="281"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="278"/>
         <source>Close</source>
         <translation>닫기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="80"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="128"/>
         <source>About %1</source>
         <translation>%1 정보</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="96"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="144"/>
         <source>Platform</source>
         <translation>플랫폼</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="101"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="149"/>
         <source>Build Number</source>
         <translation>빌드 번호</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="154"/>
         <source>Channel</source>
         <translation>채널</translation>
     </message>
@@ -436,7 +436,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="146"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="175"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>계정을 추가하기 위해 Mojang 계정 이메일과 비밀번호를 입력하세요.</translation>
     </message>
@@ -446,34 +446,35 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <translation>마이크로소프트 계정은 사용할 수 없습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="164"/>
-        <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
+        <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated %1.
 
-Please update both your operating system and PolyMC.</source>
+Please update both your operating system and %1.</source>
+        <extracomment>%1 refers to the launcher itself</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>Error</source>
         <translation type="unfinished">오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="204"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="303"/>
         <source>Skin Delete</source>
         <translation>스킨 삭제</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="302"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="303"/>
         <source>Failed to delete current skin!</source>
         <translation>현재 스킨 삭제에 실패했습니다!</translation>
     </message>
@@ -2229,11 +2230,16 @@ Do you want to play the demo?</source>
 <context>
     <name>LaunchTask</name>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="215"/>
         <source>PolyMC stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished">PolyMC는 로그 길이가 %1 줄을 넘었기에 게임 로그 감시를 중단하였습니다.
+        <translation type="obsolete">PolyMC는 로그 길이가 %1 줄을 넘었기에 게임 로그 감시를 중단하였습니다.
 게임은 여전히 로그를 작성 중이며 (아마도) 저장 공간을 매우 빠르게 잡아먹고 있기에 모드를 손 볼 필요가 있는 것 같습니다!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
+        <source>Stopped watching the game log because the log length surpassed %1 lines.
+You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3450,47 +3456,47 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="693"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="729"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="695"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="731"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="697"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="733"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="699"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="735"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="771"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="807"/>
         <source>broken</source>
         <translation>손상됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="775"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
         <source>Minecraft %1 (%2)</source>
         <translation>마인크래프트 %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="779"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="815"/>
         <source>, last played for %1</source>
         <translation>, %1동안 지난 플레이함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="783"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
         <source>, total played for %1</source>
         <translation>, 총 %1동안 플레이 함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="788"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="824"/>
         <source>, has crashed.</source>
         <translation>, 는 튕겼습니다.</translation>
     </message>
@@ -3889,14 +3895,15 @@ Are you sure?</source>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="182"/>
         <source>Error</source>
         <translation type="unfinished">오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="184"/>
         <source>API version too old!
-Please update PolyMC!</source>
+Please update %1!</source>
+        <extracomment>%1 refers to the launcher itself</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4547,19 +4554,32 @@ Choose your name carefully:</source>
         <translation>&lt;p&gt; &lt;a href=&quot;%1&quot;&gt;에서 깃헙에서의 변화를 볼 수 있습니다&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="36"/>
         <source>PolyMC Developers</source>
         <comment>About Credits</comment>
-        <translation type="unfinished">개발자</translation>
+        <translation type="obsolete">개발자</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="42"/>
-        <source>MultiMC Developers</source>
-        <comment>About Credits</comment>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
+        <source>Website</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="90"/>
+        <source>%1 Developers</source>
+        <comment>About Credits</comment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
+        <source>%1 Contributors</source>
+        <comment>About Credits</comment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>다음 사람들에게 고마움을 표하며</translation>
@@ -5770,139 +5790,144 @@ inheritsFrom 누락됨</translation>
         <translation>인스턴스의 로컬 라이브러리 폴더를 엽니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="181"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="199"/>
         <source>%1 possibly has issues.</source>
         <translation>%1은 아마도 문제가 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="202"/>
         <source>%1 has issues!</source>
         <translation>%1은 문제가 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="216"/>
         <source>Error: </source>
         <translation>오류: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="220"/>
         <source>Warning: </source>
         <translation>경고: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="280"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="286"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="349"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="362"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="424"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="306"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="288"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>인스턴스 프로필을 불러올 수 없었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="306"/>
         <source>Couldn&apos;t remove file</source>
         <translation>파일을 제거할 수 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
         <source>Select jar mods</source>
         <translation>Jar 모드 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="324"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>마인크래프트 jar 모드들 (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="334"/>
         <source>Select jar</source>
         <translation>Jar 모드 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="334"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>마인크래프트 jar 대체하기 (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="393"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="394"/>
         <source>Change %1 version</source>
         <translation>%1 버전 변경</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>현재 사용 가능한 intermediary mappings 버전이 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="398"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Intermediary mappings 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="425"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
+        <source>Cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished">최소 하나 이상의 계정을 추가하지 않을 시 마인크래프트를 다운로드하거나 인스턴스들을 업데이트할 수 없습니다.
+        <translation type="obsolete">최소 하나 이상의 계정을 추가하지 않을 시 마인크래프트를 다운로드하거나 인스턴스들을 업데이트할 수 없습니다.
 Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="451"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="452"/>
         <source>Select Forge version</source>
         <translation>포지 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="453"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="454"/>
         <source>No Forge versions are currently available for Minecraft </source>
         <translation>사용가능한 포지 버전이 없습니다. </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="454"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
         <translation>포지 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="480"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="481"/>
         <source>Select Fabric Loader version</source>
         <translation>패브릭 로더 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="481"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
         <source>No Fabric Loader versions are currently available.</source>
         <translation>현재 사용가능한 패브릭 로더 버전(들)이 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="482"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="483"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
         <translation>패브릭 로더 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="525"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="526"/>
         <source>Select LiteLoader version</source>
         <translation>라이트로더 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="527"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="528"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
         <translation>사용가능한 라이트로더 버전이 없습니다. </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="528"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="529"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
         <translation>라이트로더 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="584"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="585"/>
         <source>Error updating instance</source>
         <translation>인스턴스 업데이트 중 오류</translation>
     </message>
