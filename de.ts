@@ -459,7 +459,9 @@ Solltest du neu sein, kannst du die &quot;Hinzufügen&quot;-Schaltfläche drück
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-Konten können nur ab macOS 10.13 mit dem vollständig aktualisierten %1 verwendet werden.
+
+Bitte aktualisiere sowohl das Betriebssystem als auch %1.</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
@@ -2282,7 +2284,8 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Beobachtung des Logs wurde gestoppt, da eine Länge von %1 Zeilen überschritten wurde.
+Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien protokolliert und wahrscheinlich Festplattenspeicher mit einer alarmierenden Geschwindigkeit vergeudet!</translation>
     </message>
 </context>
 <context>
