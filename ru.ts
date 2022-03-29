@@ -3636,7 +3636,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>Quit PolyMC after game window stops</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть PolyMC после остановки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -3899,61 +3899,61 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Поиск и фильтрация...</translation>
+        <translation>Поиск и фильтрация...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранная версия:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="166"/>
         <source>Select mod for download</source>
-        <translation type="unfinished">Выберите мод для загрузки</translation>
+        <translation>Выберите мод для загрузки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="81"/>
         <source> by </source>
-        <translation type="unfinished"> от </translation>
+        <translation> от </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="90"/>
         <source>Loading versions...</source>
-        <translation type="unfinished">Загрузка версий...</translation>
+        <translation>Загрузка версий...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="98"/>
         <source>No valid version found.</source>
-        <translation type="unfinished">Подходящая версия не найдена.</translation>
+        <translation>Подходящая версия не найдена.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="149"/>
         <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найдено подходящей версии!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="151"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished">Невозможно выбрать неверную версию :(</translation>
+        <translation>Невозможно выбрать неверную версию :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="168"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished">Отменить выбор мода для загрузки</translation>
+        <translation>Отменить выбор мода для загрузки</translation>
     </message>
 </context>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="188"/>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="184"/>

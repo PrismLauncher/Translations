@@ -3094,17 +3094,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="450"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>最新消息工具列</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="455"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>更多最新消息…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>前往我們的開發部落格，閱讀更多有關 %1 的最新消息。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="474"/>
@@ -3165,12 +3165,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>View Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>檢視模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="539"/>
         <source>View the mods of this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>檢視在這個實例的模組。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
@@ -3326,54 +3326,55 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1195"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在載入最新消息…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>沒有可用的最新消息。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1359"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1401"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
+請新增你的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>群組名稱</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入新的群組名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除群組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>你確定想要刪除群組 %1？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1707"/>
         <source>CAREFUL!</source>
-        <translation type="unfinished"></translation>
+        <translation>小心！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1708"/>
@@ -3381,22 +3382,25 @@ Please add your Mojang or Minecraft account.</source>
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>關於欲刪除的實例：%1
+此舉動將永久性地刪除實例。
+
+你確定還要繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1913"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>重新命名實例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1926"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>你的實例資料夾名稱中包含了「!」，這會導致 Java 出現問題！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1928"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>你現在有兩個選項： &lt;br/&gt; - 在設定中變更實例資料夾 &lt;br/&gt; - 移動這個安裝檔 %1 至不同的資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1937"/>
@@ -3575,7 +3579,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close PolyMC after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>遊戲視窗開啟後關閉 PolyMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
@@ -3634,12 +3638,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="65"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>下載模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="80"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation>確認欲下載的模組</translation>
     </message>
 </context>
 <context>
@@ -3648,12 +3652,13 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="9"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在下載模組：
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>模組下載</translation>
     </message>
 </context>
 <context>
@@ -3774,22 +3779,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>下載模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="171"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>從線上模組平台下載模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>Add .jar</source>
-        <translation type="unfinished"></translation>
+        <translation>新增 .jar 檔案</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <source>Add mods via local file</source>
-        <translation type="unfinished"></translation>
+        <translation>透過本機檔案新增模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="226"/>
@@ -3811,17 +3816,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>請先安裝模組載入器！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -3863,37 +3868,37 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="166"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇欲下載的模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="81"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> 作者： </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="90"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在載入版本……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="98"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到可用的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="149"/>
         <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到可用的版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="151"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>無法選擇無效版本 :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="168"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>取消選擇欲下載的模組</translation>
     </message>
 </context>
 <context>
@@ -3976,27 +3981,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
         <source>Sort by Relevence</source>
-        <translation type="unfinished"></translation>
+        <translation>按關聯性排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>按下載數量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>按追蹤數量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
         <source>Sort by last updated</source>
-        <translation type="unfinished">按最後更新時間排序</translation>
+        <translation>按最近更新時間排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by newest</source>
-        <translation type="unfinished"></translation>
+        <translation>按最近發布時間排序</translation>
     </message>
     <message>
         <source> by </source>
@@ -4076,7 +4081,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="25"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
-        <translation type="unfinished"></translation>
+        <translation>沒有內容。</translation>
     </message>
 </context>
 <context>
@@ -4120,7 +4125,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者名稱</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -4138,12 +4143,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="9"/>
         <source>Creating offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>正在建立離線帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="17"/>
         <source>Created offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>離線帳號建立完成。</translation>
     </message>
 </context>
 <context>
@@ -4292,7 +4297,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="37"/>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在上傳至 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="58"/>
@@ -4964,13 +4969,13 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>複製圖片</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>複製檔案</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
