@@ -2494,12 +2494,15 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы&apos;пытаетесь указать папку экземпляра, которая была временно предоставлена через Flatpak.
+Это может вызвать проблемы. После перезапуска лаунчер может сломаться, потому что у него больше не будет доступа к этой папке.
+
+Рекомендуется предоставить доступ PolyMC к ней через Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="155"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите продолжить?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="172"/>
