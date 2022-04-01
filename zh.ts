@@ -6,42 +6,42 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>Pastebin URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastebin 链接</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：仅支持以&lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt;或&lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt;开头的链接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在这里，您可以从预定义的 Pastebin 服务列表中进行选择，或者输入您选择的不同 Pastebin 服务的 URL，前提是它支持与 0x0.st 相同的协议，即 POST 文件参数到 URL 并返回链接响应体。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>Microsoft Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft 身份验证</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意：如果通过 Microsoft 身份验证登录已经有效，您可能不需要设置此项。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>（默认）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>在此处输入 Microsoft 身份验证的自定义客户端 ID。 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -278,7 +278,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>已禁用</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
@@ -400,7 +400,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>离线添加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -427,7 +427,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>未设置 Microsoft 身份验证客户端 ID。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -451,7 +451,9 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft 账户只能在 macOS 10.13 或更新的版本上使用，且完全更新 %1。
+
+请更新您的操作系统和 %1。</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
@@ -464,17 +466,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>您必须先添加拥有 Minecraft 的 Microsoft 或 Mojang 帐户，然后才能添加离线帐户。&lt;br&gt;&lt;br&gt;如果您丢失了帐户，请联系 Microsoft 寻求支持。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="204"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>请输入要添加的的离线账户名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="303"/>
@@ -507,7 +509,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端 ID 已更改。需要创建新会话。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -642,7 +644,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">搜索和过滤……</translation>
+        <translation>搜索和过滤…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
@@ -800,19 +802,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;p&gt;预执行命令会在实例开始之前运行，后执行命令会在实例结束之后运行。&lt;/p&gt;
-&lt;p&gt;它们均会在在本启动器的工作目录执行，并带有以下额外环境变量：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;$INST_NAME - 实例名称&lt;/li&gt;
-&lt;li&gt;$INST_ID - 实例 ID (其文件夹名)&lt;/li&gt;
-&lt;li&gt;$INST_DIR - 实例的绝对路径&lt;/li&gt;
-&lt;li&gt;$INST_MC_DIR - Minecraft 的绝对路径&lt;/li&gt;
-&lt;li&gt;$INST_JAVA - 运行所使用的 Java 可执行文件&lt;/li&gt;
-&lt;li&gt;$INST_JAVA_ARGS - 运行所使用的命令行参数&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;包装命令允许使用一个额外的包装程序来运行游戏（例如Linux上的 &quot;optirun&quot;）&lt;/p&gt;
-&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;预执行命令会在实例开始之前运行，后执行命令会在实例结束之后运行。&lt;/p&gt;&lt;p&gt;它们均会在在本启动器的工作目录执行，并带有以下额外环境变量：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 实例名&lt;/li&gt;&lt;li&gt;$INST_ID - 实例 ID (其文件夹名)&lt;/li&gt;&lt;li&gt;$INST_DIR - 实例的绝对路径&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的绝对路径&lt;/li&gt;&lt;li&gt;$INST_JAVA - 运行所使用的 Java 可执行文件&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 运行所使用命令行参数&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包装命令允许使用一个额外的包装程序来运行游戏（例如Linux上的 &quot;optirun&quot;）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -835,7 +825,7 @@ Please update both your operating system and PolyMC.</source>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">无法启动 Minecraft！</translation>
+        <translation>无法启动 Minecraft！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -1102,32 +1092,32 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation>按功能排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation>按人气排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by last updated</source>
-        <translation type="unfinished">按最后更新时间排序</translation>
+        <translation>按最后更新时间排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>按名称排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>按作者排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>按下载量排序</translation>
     </message>
     <message>
         <source> by </source>
@@ -1154,7 +1144,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">搜索和过滤……</translation>
+        <translation>搜索和过滤…</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1202,7 +1192,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">为 Minecraft 文件创建文件夹时出错。</translation>
+        <translation>为 Minecraft 文件创建文件夹时出错。</translation>
     </message>
 </context>
 <context>
@@ -1234,7 +1224,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">搜索和过滤……</translation>
+        <translation>搜索和过滤…</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1423,7 +1413,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
 </context>
 <context>
@@ -1543,7 +1533,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">无法为以下 Minecraft 版本提供推荐的 Forge 版本：%1</translation>
+        <translation>无法为以下 Minecraft 版本提供推荐的 Forge 版本：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
@@ -1591,7 +1581,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>模组</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -2032,7 +2022,7 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">你还没有设置可运行的 Java 或者它丢失了。
+        <translation>您的 Java 设置无效。
 请在下面选择或浏览来选定一个 Java 可执行文件。</translation>
     </message>
 </context>
@@ -2080,7 +2070,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="93"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
-        <translation type="unfinished">要游玩 Minecraft，您必须要登录至少一个 Minecraft 帐户（包括微软帐户和 Mojang 帐户），您想现在打开帐户界面来添加一个帐户吗？</translation>
+        <translation>要游玩 Minecraft，您必须要登录 Minecraft 帐户（Microsoft 帐户或 Mojang 帐户）。立即打开帐户设置来添加一个帐户吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="112"/>
@@ -2161,12 +2151,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动器的客户端标识已更改。请删除此帐户，然后重新添加。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="270"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端标识已更改</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="279"/>
@@ -2262,7 +2252,8 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>已停止监视游戏日志，因为日志长度超过 %1 行。
+您可能必须修复您的模组，因为游戏仍在写入游戏日志，并且可能以惊人的速度浪费硬盘空间！</translation>
     </message>
 </context>
 <context>
@@ -2388,12 +2379,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>扁平</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
         <source>Legacy</source>
-        <translation type="unfinished">旧版</translation>
+        <translation>旧版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="288"/>
@@ -2524,7 +2515,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">无法启动 Minecraft！</translation>
+        <translation>无法启动 Minecraft！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
@@ -2613,7 +2604,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">移动解压后的 Minecraft 文件失败！</translation>
+        <translation>无法移动解压后的 Minecraft 文件！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="184"/>
@@ -2812,7 +2803,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">上传日志到 paste.ee - 只会保留一个月</translation>
+        <translation>上传日志到 paste.ee - 只会保留一个月</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -2932,7 +2923,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft 账户身份验证失败 - 客户端标识已更改。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
@@ -3053,24 +3044,24 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>Matrix space</source>
         <oldsource>Matrix</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Matrix 空间</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 %1 Matrix 空间</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>Discord guild</source>
         <oldsource>Discord</oldsource>
-        <translation type="unfinished">Discord</translation>
+        <translation>Discord 频道</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="370"/>
         <source>Subreddit</source>
         <oldsource>Reddit</oldsource>
-        <translation type="unfinished">Reddit</translation>
+        <translation>子版块</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
@@ -3126,17 +3117,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="450"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>新闻工具栏</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="455"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>更多新闻...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开开发日志以阅读有关 %1 的更多新闻。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="474"/>
@@ -3243,7 +3234,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
-        <translation type="unfinished">在文件资源管理器中打开实例的 minecraft 文件夹。</translation>
+        <translation>在文件资源管理器中打开实例的 Minecraft 文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
@@ -3273,13 +3264,13 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="601"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>将所选实例导出为 zip 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
         <source>Delete Instance</source>
         <oldsource>Delete</oldsource>
-        <translation type="unfinished">移除实例</translation>
+        <translation>移除实例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
@@ -3353,28 +3344,28 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
         <source>No Default Account</source>
-        <translation>取消默认账户</translation>
+        <translation>无默认账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1195"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载新闻...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>暂无新闻。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1359"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1401"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
@@ -3401,7 +3392,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished">你确定要移除实例组 %1? 吗</translation>
+        <translation>你确定要移除实例组 %1 吗？</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -3470,7 +3461,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 %1 Discord 频道。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
@@ -3605,27 +3596,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">杂项</translation>
+        <translation>杂项</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;当游戏崩溃或退出时，PolyMC 会重新打开。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close PolyMC after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>游戏启动后关闭 PolyMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;如果游戏启动或崩溃后，PolyMC 将自动退出。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>Quit PolyMC after game window stops</source>
-        <translation type="unfinished"></translation>
+        <translation>游戏关闭后退出 PolyMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -3674,12 +3665,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="65"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>下载模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="80"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation>确认要下载的模组</translation>
     </message>
 </context>
 <context>
@@ -3688,12 +3679,13 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="9"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在下载模组：
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
         <source>Mod download</source>
-        <translation type="unfinished">模组下载</translation>
+        <translation>模组下载</translation>
     </message>
 </context>
 <context>
@@ -3764,7 +3756,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="99"/>
         <source>Add</source>
-        <translation type="unfinished">添加模组</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="104"/>
@@ -3814,22 +3806,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="170"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>下载模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="171"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>在线下载模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>Add .jar</source>
-        <translation type="unfinished"></translation>
+        <translation>添加 .jar 文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <source>Add mods via local file</source>
-        <translation type="unfinished"></translation>
+        <translation>通过本地文件添加模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="226"/>
@@ -3846,22 +3838,22 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="401"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="393"/>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>请先安装一个模组加载器！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -3887,53 +3879,53 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">搜索</translation>
+        <translation>搜索</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">搜索和过滤……</translation>
+        <translation>搜索和过滤…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>所选版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="166"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>选择要下载的模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="81"/>
         <source> by </source>
-        <translation type="unfinished"> 作者 </translation>
+        <translation> 作者 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="90"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在加载版本...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="98"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到有效版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="149"/>
         <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到有效版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="151"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>不能选择无效的版本 :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="168"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>取消选择要下载的模组</translation>
     </message>
 </context>
 <context>
@@ -3941,14 +3933,15 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="182"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="184"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>API 版本太旧！
+请更新 %1！</translation>
     </message>
 </context>
 <context>
@@ -4012,27 +4005,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
         <source>Sort by Relevence</source>
-        <translation type="unfinished"></translation>
+        <translation>按相关度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>按下载量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>按关注数排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
         <source>Sort by last updated</source>
-        <translation type="unfinished">按最后更新时间排序</translation>
+        <translation>按最后更新时间排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by newest</source>
-        <translation type="unfinished"></translation>
+        <translation>按时间排序</translation>
     </message>
     <message>
         <source> by </source>
@@ -4088,7 +4081,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="69"/>
         <source>No group</source>
-        <translation>无组</translation>
+        <translation>未分类</translation>
     </message>
 </context>
 <context>
@@ -4097,7 +4090,8 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="98"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法加载新闻 RSS 源：
+%1</translation>
     </message>
 </context>
 <context>
@@ -4106,13 +4100,13 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="56"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>无标题</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="25"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
-        <translation type="unfinished"></translation>
+        <translation>无内容。</translation>
     </message>
 </context>
 <context>
@@ -4151,22 +4145,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation type="unfinished">添加账户</translation>
+        <translation>添加账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>超过 16 个字符的用户名不能用于在线游戏或离线服务器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>允许超长用户名</translation>
     </message>
 </context>
 <context>
@@ -4174,12 +4168,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="9"/>
         <source>Creating offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建离线账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="17"/>
         <source>Created offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>已创建离线帐户。</translation>
     </message>
 </context>
 <context>
@@ -4214,7 +4208,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation type="unfinished">上传日志到 paste.ee - 只会保留一个月.</translation>
+        <translation>上传日志到 paste.ee - 只会保留一个月.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4605,7 +4599,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>网站</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="71"/>
@@ -4613,14 +4607,14 @@ Choose your name carefully:</source>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 开发人员</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 贡献者</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
@@ -4657,13 +4651,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定的 Java 二进制文件未正常启动。&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件未正常启动。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定的 Java 二进制文件无法使用你提供的参数工作：&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法使用你提供的参数工作：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="313"/>
@@ -4844,9 +4838,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">你尝试手动设置 JVM 内存选项（使用“-XX:PermSize”，-XX-MaxHeapSize&quot;， &quot;-XX:InitialHeapSize&quot;，“-Xmx”或“-Xms”选项）。
-这些选项在设置（Java 选项卡，顶部的“内存”组）中有专门的框框，你不需要手动设置。
-这条信息会一直显示，直到你删除这些 JVM 参数。</translation>
+        <translation>你正在尝试手动设置 JVM 内存选项（使用“-XX:PermSize”，-XX-MaxHeapSize&quot;， &quot;-XX:InitialHeapSize&quot;，“-Xmx”或“-Xms”选项）。
+这些选项已包含在设置（Java - 内存）中，你无需手动设置。
+此信息将一直显示，直到你删除这些 JVM 参数。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="15"/>
@@ -4867,13 +4861,13 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="43"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定的 Java 二进制文件无法使用你提供的参数工作：&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法使用你提供的参数工作：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="51"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定的 Java 二进制文件无法工作。&lt;br /&gt;你应该使用自动检测功能，或者设置 Java 可执行文件的路径。&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法工作。&lt;br /&gt;你应该使用自动检测功能，或者设置 Java 可执行文件的路径。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
@@ -4956,17 +4950,17 @@ This message will be displayed until you remove them from the JVM arguments.</ol
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="14"/>
         <source>Confirm mod selection</source>
-        <translation type="unfinished"></translation>
+        <translation>确认模组选择</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="26"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>您将要下载以下模组：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="26"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文件名：%1</translation>
     </message>
 </context>
 <context>
@@ -5000,13 +4994,13 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>复制图片</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>复制文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
@@ -5392,7 +5386,7 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">无法在“bin/modpack.jar”中找到“Version.json”，且Minecraft版本是未知的</translation>
+        <translation>无法在“bin/modpack.jar”中找到“Version.json”，且 Minecraft 版本未知</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -5430,7 +5424,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="32"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">搜索和过滤……</translation>
+        <translation>搜索和过滤…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="39"/>
@@ -5534,7 +5528,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>PolyMC Update</source>
-        <translation type="unfinished">PolyMC 更新</translation>
+        <translation>PolyMC 更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -5917,7 +5911,8 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>启动器无法在没有账户添加的情况下下载 Minecraft 或更新实例。
+请添加你的 Mojang 或 Microsoft 账户。</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
