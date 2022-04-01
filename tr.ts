@@ -2434,42 +2434,55 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>Konsol yazı tipi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Instance Folder</source>
         <translation>Profil Klasörü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="131"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>Dizin yolunda en az bir &quot;!&quot; işareti içeren bir profil klasörü belirlemeye çalışıyorsunuz. Java, bunun gibi durumlarda sorun çıkarmasıyla bilinir; eğer durum buysa profiliniz (muhtemelen) başlamayacak!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>Bu dizin yolunu kullanmak istediğinizden emin misiniz? &quot;Hayır&quot;ı seçmek, bu uyarıyı kapatacak ve profil dizin yolunu değiştirmeyecek.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="148"/>
+        <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
+This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
+
+Granting PolyMC access to it via Flatseal is recommended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="155"/>
+        <source>Do you want to proceed anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="172"/>
         <source>Icons Folder</source>
         <translation>Simgeler Klasörü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="183"/>
         <source>Mods Folder</source>
         <translation>Modlar Klasörü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="461"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[BirŞey/HATA] Ürkütücü bir hata!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="451"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="470"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Zararsız bir mesaj...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="460"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="479"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Something/WARN] Çok da korkunç olmayan bir hata.</translation>
     </message>

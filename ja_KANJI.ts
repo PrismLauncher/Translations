@@ -2439,42 +2439,55 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>制御盤出力の書体</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="121"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="122"/>
         <source>Instance Folder</source>
         <translation>構成実例の格納用文件集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="131"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>あなたが選択した文件集の経路には，少なくとも一つの &quot;!&quot; (英字感嘆符) があります。これは Java の問題を起こしますが，構成実例が起動不能の可能性もあります!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>本当にこの経路を使用しますか? &quot;いいえ&quot;を選択すると，文件集選択を中止して，既存の格納用文件集設定も未変更のままにします。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="148"/>
+        <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
+This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
+
+Granting PolyMC access to it via Flatseal is recommended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="155"/>
+        <source>Do you want to proceed anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="172"/>
         <source>Icons Folder</source>
         <translation>図標の格納用文件集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="164"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="183"/>
         <source>Mods Folder</source>
         <translation>Mods の格納用文件集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="461"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[Something/ERROR] なんか不気味な錯誤だ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="451"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="470"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] 無害な通知一つ...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="460"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="479"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Something/WARN] それほど不気味ではないの警告。</translation>
     </message>
