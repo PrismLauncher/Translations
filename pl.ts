@@ -3728,7 +3728,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
         <source>Mod download</source>
-        <translation type="unfinished">Pobieranie moda</translation>
+        <translation>Pobieranie modów</translation>
     </message>
 </context>
 <context>
