@@ -1277,32 +1277,32 @@ Por favor, tente novamente.</translation>
 <context>
     <name>GameType</name>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="70"/>
         <source>Survival</source>
         <translation>Sobrevivência</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="72"/>
         <source>Creative</source>
         <translation>Criativo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="74"/>
         <source>Adventure</source>
         <translation>Aventura</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="75"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="76"/>
         <source>Spectator</source>
         <translation>Espectador</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="81"/>
         <source>Unknown (%1)</source>
         <translation>Desconhecido (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="83"/>
         <source>Undefined</source>
         <translation>Indefinido</translation>
     </message>
@@ -6163,34 +6163,45 @@ Por favor, adicione a sua conta do Minecraft.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="238"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="229"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
         <source>Game Mode</source>
         <translation>Modo de jogo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="231"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="242"/>
         <source>Last Played</source>
         <translation>Último uso</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="245"/>
+        <source>Size</source>
+        <extracomment>World size on disk</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="254"/>
         <source>The name of the world.</source>
         <translation>Nome do mundo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="242"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
         <source>Game mode of the world.</source>
         <translation>Modo de jogo do mundo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="258"/>
         <source>Date and time the world was last played.</source>
         <translation>Data da última modificação do mundo.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
+        <source>Size of the world on disk.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

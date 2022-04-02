@@ -1249,32 +1249,32 @@ Vui lòng thử lại.</translation>
 <context>
     <name>GameType</name>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="69"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="70"/>
         <source>Survival</source>
         <translation>Sinh tồn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="72"/>
         <source>Creative</source>
         <translation>Sáng tạo</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="74"/>
         <source>Adventure</source>
         <translation>Phiêu lưu</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="75"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="76"/>
         <source>Spectator</source>
         <translation>Khán giả</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="81"/>
         <source>Unknown (%1)</source>
         <translation>Không xác định (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="83"/>
         <source>Undefined</source>
         <translation>Chưa xác định</translation>
     </message>
@@ -6083,34 +6083,45 @@ Vui lòng thêm tài khoản Mojang hoặc Minecraft của bạn.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="227"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="238"/>
         <source>Name</source>
         <translation>Tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="229"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
         <source>Game Mode</source>
         <translation>Chế độ chơi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="231"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="242"/>
         <source>Last Played</source>
         <translation>Lần chơi cuối</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="245"/>
+        <source>Size</source>
+        <extracomment>World size on disk</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="254"/>
         <source>The name of the world.</source>
         <translation>Tên của thế giới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="242"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
         <source>Game mode of the world.</source>
         <translation>Chế độ chơi của thế giới.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="258"/>
         <source>Date and time the world was last played.</source>
         <translation>Ngày và giờ mà thế giới được chơi lần cuối.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
+        <source>Size of the world on disk.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
