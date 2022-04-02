@@ -459,7 +459,9 @@ Jeśli jesteś tu nowy, możesz kliknąć przycisk &quot;Dodaj&quot;, aby dodać
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Konta Microsoft działają tylko na macOS 10.13 lub nowszym, z w pełni zaktualizowanym %1.
+
+Proszę zaktualizować zarówno system operacyjny i %1.</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
@@ -2286,7 +2288,8 @@ Konieczne może być naprawienie modów, gdyż gra wciąż zapisuje logi do plik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Przestano obserwować log gry, ponieważ długość logu przekroczyła %1 wierszy.
+Konieczne może być naprawienie twoich modów, gdyż gra wciąż zapisuje logi do plików i prawdopodobnie marnuje przestrzeń dyskową w alarmującym tempie!</translation>
     </message>
 </context>
 <context>
@@ -2495,12 +2498,15 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Próbujesz określić folder instancji, który został tymczasowo przyznany za pośrednictwem Flatpak.
+Wiadomo, że powoduje to problemy. Po ponownym uruchomieniu launcher może się zepsuć, ponieważ nie będzie już miał dostępu do tego katalogu.
+
+Przyznanie PolyMC dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="155"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy mimo to chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="172"/>
@@ -3648,12 +3654,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC zamknie się automatycznie, jeśli gra ulegnie awarii lub zostanie zamknięta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>Quit PolyMC after game window stops</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyjdź z PolyMC po zakończeniu okna gry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -3916,53 +3922,53 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">Szukaj</translation>
+        <translation>Szukaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search and filter...</source>
-        <translation type="unfinished">Szukaj i filtruj...</translation>
+        <translation>Szukaj i filtruj...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrana wersja:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="166"/>
         <source>Select mod for download</source>
-        <translation type="unfinished">Wybierz moda do pobrania</translation>
+        <translation>Wybierz moda do pobrania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="81"/>
         <source> by </source>
-        <translation type="unfinished"> przez </translation>
+        <translation> przez </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="90"/>
         <source>Loading versions...</source>
-        <translation type="unfinished">Ładowanie wersji...</translation>
+        <translation>Ładowanie wersji...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="98"/>
         <source>No valid version found.</source>
-        <translation type="unfinished">Nie znaleziono poprawnej wersji.</translation>
+        <translation>Nie znaleziono poprawnej wersji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="149"/>
         <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie znaleziono poprawnej wersji!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="151"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wybrać niepoprawnej wersji :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="168"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Odznacz mod do pobrania</translation>
     </message>
 </context>
 <context>
@@ -3970,14 +3976,15 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="182"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="184"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wersja API zbyt stara!
+Proszę zaktualizować %1!</translation>
     </message>
 </context>
 <context>
@@ -4694,7 +4701,7 @@ Wybierz ostrożnie swoją nazwę:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="71"/>
@@ -4702,14 +4709,14 @@ Wybierz ostrożnie swoją nazwę:</translation>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Twórcy %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Współtwórcy %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
@@ -6006,7 +6013,8 @@ Brakuje inheritsFrom</translation>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można pobrać Minecraft ani zaktualizować instancji, chyba że masz dodane przynajmniej jedno konto.
+Proszę dodać twoje konto Mojang lub Minecraft.</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -6213,7 +6221,7 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="245"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="254"/>
@@ -6233,7 +6241,7 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar świata na dysku.</translation>
     </message>
 </context>
 <context>
