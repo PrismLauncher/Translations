@@ -2948,12 +2948,12 @@ Powód:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation>Otwórz stronę i przekopiuj kod</translation>
+        <translation>Otwórz stronę i skopiuj kod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Otwórz %1 w przeglądarce i wpisz kod &lt;b&gt;%2&lt;/b&gt; aby kontynuować logowanie.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Proszę otworzyć %1 w przeglądarce i wprowadzić kod &lt;b&gt;%2&lt;/b&gt;, aby kontynuować logowanie.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -3728,7 +3728,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
         <source>Mod download</source>
-        <translation>Pobieranie modów</translation>
+        <translation>Pobieranie moda</translation>
     </message>
 </context>
 <context>
