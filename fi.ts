@@ -4855,8 +4855,8 @@ Tämä viesti näytetään kunnes poistat nämä JVM-argumenteista.</translation
         <translation>Virheellinen polku JVisualVM:lle</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Polkua ei ole olemassa</translation>
     </message>

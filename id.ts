@@ -4844,8 +4844,8 @@ Pesan ini akan terus ditampilkan sampai anda menghapus mereka dari argumen JVM.<
         <translation>Jalur tidak valid menuju JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Jalur tidak ada</translation>
     </message>

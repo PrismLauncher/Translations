@@ -4893,8 +4893,8 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <translation>无效的 JVisualVM 路径</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>路径不存在</translation>
     </message>

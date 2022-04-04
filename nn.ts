@@ -4876,8 +4876,8 @@ Denne åtvaringa vil ikkje forsvinna før du fjernar desse JVM-argumenta.</trans
         <translation>Stien fører ikkje til JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Stien finst ikkje</translation>
     </message>

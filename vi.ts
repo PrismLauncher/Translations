@@ -4876,8 +4876,8 @@ Thông báo này sẽ được hiển thị cho đến khi bạn xóa chúng kh�
         <translation>Đường dẫn đến JVisualVM không hợp lệ</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Đường dẫn không tồn tại</translation>
     </message>

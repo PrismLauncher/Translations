@@ -4855,8 +4855,8 @@ Tato zpráva se bude zobrazovat, dokud je neodstraníš z argumentů JVM.</trans
         <translation>Neplatná cesta k JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Cesta neexistuje</translation>
     </message>

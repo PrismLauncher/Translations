@@ -4826,8 +4826,8 @@ Ez az üzenet addig jelenik meg, amíg nem távolítja el őket a JVM argumentum
         <translation>Érvénytelen elérési út a JVisualVM-hez</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Az elérési út nem létezik</translation>
     </message>

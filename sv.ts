@@ -4855,8 +4855,8 @@ Detta meddelade kommer att synas tills du tar bort dem från JVM-argumenten.</tr
         <translation>Ogiltig sökväg till JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Sökvägen existerar inte</translation>
     </message>
