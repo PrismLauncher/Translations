@@ -530,7 +530,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="737"/>
+        <location filename="src/launcher/Application.cpp" line="738"/>
         <source>Settings</source>
         <translation>Ρυθμίσεις</translation>
     </message>
@@ -1625,142 +1625,152 @@ Please try again.</source>
         <translation>Δοκιμή</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
         <source>Memor&amp;y</source>
         <translation>Μνήμη &amp;y</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
         <source>Minimum memory allocation:</source>
         <translation>Ελάχιστη κατανομή μνήμης:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="116"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Το μέγιστο μέγεθος μνήμης που επιτρέπεται να χρησιμοποιήσει το Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Το μέγεθος μνήμης με το οποίο ξεκινάει το Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="170"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Το μέγεθος διαθέσιμης μνήμης για την αποθήκευση κλάσεων Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="199"/>
         <source>Maximum memory allocation:</source>
         <translation>Μέγιστη κατανομή μνήμης:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="206"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Σημείωση: Το Permgen ρυθμίζεται αυτόματα από την Java 8 και τις νεώτερες εκδόσεις</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="219"/>
         <source>Java argumen&amp;ts</source>
         <translation>Παράμετροι Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="238"/>
         <source>Game windows</source>
         <translation>Παράθυρα παιχνιδιού</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="247"/>
         <source>Game Window</source>
         <translation>Παράθυρο Παιχνιδιού</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
         <source>Start Minecraft maximized?</source>
         <translation>Εκκίνηση του Minecraft σε πλήρες παράθυρο;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
         <source>Window height:</source>
         <translation>Ύψος παραθύρου:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="275"/>
         <source>Window width:</source>
         <translation>Πλάτος παραθύρου:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="309"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="319"/>
         <source>Conso&amp;le Settings</source>
         <translation>Ρυθμίσεις Κονσόλας</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="331"/>
         <source>Show console while the game is running?</source>
         <translation>Εμφάνιση κονσόλας ενώ εκτελείται το παιχνίδι;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="338"/>
         <source>Automatically close console when the game quits?</source>
         <translation>Αυτόματο κλείσιμο κονσόλας όταν τερματιστεί το παιχνίδι;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="345"/>
         <source>Show console when the game crashes?</source>
         <translation>Εμφάνιση κονσόλας όταν το παιχνίδι τερματίσει ανεπιτυχώς;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="369"/>
         <source>Custom commands</source>
         <translation>Προσαρμοσμένες εντολές</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="379"/>
         <source>Workarounds</source>
         <translation>Λύσεις</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
         <source>Native libraries</source>
         <translation>Τοπικές βιβλιοθήκες</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="400"/>
         <source>Use system installation of GLFW</source>
         <translation>Χρήση εγκατάστασης συστήματος GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="407"/>
         <source>Use system installation of OpenAL</source>
         <translation>Χρήση εγκατάστασης συστήματος OpenAL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="421"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="431"/>
         <source>Miscellaneous</source>
         <translation>Διάφορα</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="440"/>
         <source>Override global game time settings</source>
         <translation>Παράκαμψη καθολικών ρυθμίσεων χρόνου παιχνιδιού</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="452"/>
         <source>Show time spent playing this instance</source>
         <translation>Εμφάνιση χρόνου που έχετε περάσει σε αυτή την εγκατάσταση</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="459"/>
         <source>Record time spent playing this instance</source>
         <translation>Καταγραφή του χρόνου που έχετε περάσει σε αυτή την εγκατάσταση</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="459"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Set a server to join on launch</source>
         <translation>Ορίστε ένα διακομιστή για να συνδεθείτε κατά την εκκίνηση</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="489"/>
         <source>Server address:</source>
         <translation>Διεύθυνση διακομιστή:</translation>
     </message>
@@ -1770,12 +1780,12 @@ Please try again.</source>
         <translation>Ρυθμίσεις</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="323"/>
         <source>Select a Java version</source>
         <translation>Επιλέξτε έκδοση Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
         <source>Find Java executable</source>
         <translation>Εύρεση εκτελέσιμου Java</translation>
     </message>
@@ -1925,17 +1935,27 @@ Please try again.</source>
         <translation>Δοκιμή</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
         <source>Select a Java version</source>
         <translation>Επιλέξτε έκδοση Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="143"/>
         <source>Find Java executable</source>
         <translation>Εύρεση εκτελέσιμου Java</translation>
     </message>
@@ -3473,47 +3493,47 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="729"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="730"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="731"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="732"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="733"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="734"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="735"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="736"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="807"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="808"/>
         <source>broken</source>
         <translation>χαλασμένο</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="812"/>
         <source>Minecraft %1 (%2)</source>
         <translation>Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="815"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="816"/>
         <source>, last played for %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="820"/>
         <source>, total played for %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="824"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="825"/>
         <source>, has crashed.</source>
         <translation>, έχει καταρρεύσει.</translation>
     </message>
@@ -4659,17 +4679,17 @@ Choose your name carefully:</source>
         <translation>Το patch δεν έχει φορτωθεί ακόμα.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
         <translation>processArguments έχει οριστεί σε άγνωστη τιμή &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5585,18 +5605,19 @@ inheritsFrom is missing</source>
 <context>
     <name>VerifyJavaInstall</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="26"/>
-        <source>Minecraft 1.18 Pre Release 2 and above require the use of Java 17</source>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
+        <source>Java major version is incompatible. Things might break.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="35"/>
-        <source>Minecraft 21w19a and above require the use of Java 16</source>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
+        <source>This instance is not compatible with Java version %1.
+Please switch to one of the following Java versions for this instance:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="44"/>
-        <source>Minecraft 17w13a and above require the use of Java 8</source>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
+        <source>Java version %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

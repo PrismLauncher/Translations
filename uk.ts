@@ -530,7 +530,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="737"/>
+        <location filename="src/launcher/Application.cpp" line="738"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
@@ -1620,142 +1620,152 @@ Please try again.</source>
         <translation>Перевірка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
         <source>Memor&amp;y</source>
         <translation>Налаштування пам&apos;яті</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
         <source>Minimum memory allocation:</source>
         <translation>Мінімальний об&apos;єм виділеної пам&apos;яті:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="116"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>Максимальний дозволений для використання об&apos;єм пам&apos;яті Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Мінімальний об&apos;єм пам&apos;яті для завантаження Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="170"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Об&apos;єм доступної пам&apos;яті для зберігання завантажених класів Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="199"/>
         <source>Maximum memory allocation:</source>
         <translation>Максимальний об&apos;єм виділеної пам&apos;яті:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="206"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Примітка: Permgen встановлюється автоматично для Java 8 і для більш пізніх версій</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="219"/>
         <source>Java argumen&amp;ts</source>
         <translation>Аргументи Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="238"/>
         <source>Game windows</source>
         <translation>Ігрові вікна</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="247"/>
         <source>Game Window</source>
         <translation>Налаштування вікна гри</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
         <source>Start Minecraft maximized?</source>
         <translation>Запускати Minecraft в повноекранному режимі?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
         <source>Window height:</source>
         <translation>Висота вікна:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="275"/>
         <source>Window width:</source>
         <translation>Ширина вікна:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="309"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="319"/>
         <source>Conso&amp;le Settings</source>
         <translation>Налаштування консолі</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="331"/>
         <source>Show console while the game is running?</source>
         <translation>Показувати консоль під час гри?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="338"/>
         <source>Automatically close console when the game quits?</source>
         <translation>Автоматично закривати консоль при виході із гри?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="345"/>
         <source>Show console when the game crashes?</source>
         <translation>Показувати вікно консолі після аварії гри?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="369"/>
         <source>Custom commands</source>
         <translation>Користувацькі команди</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="379"/>
         <source>Workarounds</source>
         <translation>Обхідні шляхи</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
         <source>Native libraries</source>
         <translation>Нативні бібліотеки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="400"/>
         <source>Use system installation of GLFW</source>
         <translation>Використовувати системне встановлення GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="407"/>
         <source>Use system installation of OpenAL</source>
         <translation>Використовувати системне встановлення OpenAL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="421"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="431"/>
         <source>Miscellaneous</source>
         <translation>Інше</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="440"/>
         <source>Override global game time settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="452"/>
         <source>Show time spent playing this instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="459"/>
         <source>Record time spent playing this instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="459"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Set a server to join on launch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="489"/>
         <source>Server address:</source>
         <translation>Адреса сервера:</translation>
     </message>
@@ -1765,12 +1775,12 @@ Please try again.</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="323"/>
         <source>Select a Java version</source>
         <translation>Виберіть версію Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
         <source>Find Java executable</source>
         <translation>Пошук виконуваного файлу Java</translation>
     </message>
@@ -1920,17 +1930,27 @@ Please try again.</source>
         <translation>Перевірити</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
         <source>Select a Java version</source>
         <translation>Виберіть версію Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="143"/>
         <source>Find Java executable</source>
         <translation>Пошук виконуваного файлу Java</translation>
     </message>
@@ -3473,47 +3493,47 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="729"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="730"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="731"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="732"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="733"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="734"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="735"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="736"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="807"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="808"/>
         <source>broken</source>
         <translation>пошкоджено</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="812"/>
         <source>Minecraft %1 (%2)</source>
         <translation>Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="815"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="816"/>
         <source>, last played for %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="820"/>
         <source>, total played for %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="824"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="825"/>
         <source>, has crashed.</source>
         <translation>, вилетів.</translation>
     </message>
@@ -4669,17 +4689,17 @@ Choose your name carefully:</source>
         <translation>Патч ще не завантажений.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
         <translation>в processArguments задано невідоме значення &apos;%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>Значення «minimumLauncherVersion» цієї версії (%1) вище, ніж підтримується у %3 (%2). Це може працювати некоректно!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5595,19 +5615,32 @@ inheritsFrom відсутній</translation>
 <context>
     <name>VerifyJavaInstall</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="26"/>
         <source>Minecraft 1.18 Pre Release 2 and above require the use of Java 17</source>
-        <translation>Minecraft 1.18 Pre Release 2 та вище потребує Java версії 17</translation>
+        <translation type="vanished">Minecraft 1.18 Pre Release 2 та вище потребує Java версії 17</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="35"/>
         <source>Minecraft 21w19a and above require the use of Java 16</source>
-        <translation>Minecraft 21w19a та вище потребує Java версії 16</translation>
+        <translation type="vanished">Minecraft 21w19a та вище потребує Java версії 16</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="44"/>
         <source>Minecraft 17w13a and above require the use of Java 8</source>
-        <translation>Minecraft 17w13a та вище потребує Java версії 8</translation>
+        <translation type="vanished">Minecraft 17w13a та вище потребує Java версії 8</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
+        <source>Java major version is incompatible. Things might break.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
+        <source>This instance is not compatible with Java version %1.
+Please switch to one of the following Java versions for this instance:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
+        <source>Java version %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

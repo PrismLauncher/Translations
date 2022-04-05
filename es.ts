@@ -546,7 +546,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="737"/>
+        <location filename="src/launcher/Application.cpp" line="738"/>
         <source>Settings</source>
         <translation>Ajustes</translation>
     </message>
@@ -1636,142 +1636,152 @@ Por favor inténtelo nuevamente.</translation>
         <translation>Hacer una prueba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
         <source>Memor&amp;y</source>
         <translation>Memoria</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
         <source>Minimum memory allocation:</source>
         <translation>Asignación mínima de memoria:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="116"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>La cantidad máxima de memoria permitida para Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>Cantidad de memoria con la que iniciará Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="170"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>Cantidad de memoria disponible para almacenar clases cargadas de Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="199"/>
         <source>Maximum memory allocation:</source>
         <translation>Asignación máxima de memoria:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="206"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>Nota: Permgen se establece automáticamente en Java 8 y posteriores</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="219"/>
         <source>Java argumen&amp;ts</source>
         <translation>Argument&amp;os de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="238"/>
         <source>Game windows</source>
         <translation>Ventanas de juego</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="247"/>
         <source>Game Window</source>
         <translation>Ventana de juego</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
         <source>Start Minecraft maximized?</source>
         <translation>¿Iniciar Minecraft maximizado?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
         <source>Window height:</source>
         <translation>Alto de la ventana:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="275"/>
         <source>Window width:</source>
         <translation>Ancho de la ventana:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="309"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="319"/>
         <source>Conso&amp;le Settings</source>
         <translation>Configuración de la conso&amp;la</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="331"/>
         <source>Show console while the game is running?</source>
         <translation>¿Mostrar consola mientras el juego se está ejecutando?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="338"/>
         <source>Automatically close console when the game quits?</source>
         <translation>¿Cerrar consola automáticamente cuando el juego se cierra?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="345"/>
         <source>Show console when the game crashes?</source>
         <translation>¿Mostrar consola cuando el juego cierra de forma inesperada?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="369"/>
         <source>Custom commands</source>
         <translation>Comandos personalizados</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="379"/>
         <source>Workarounds</source>
         <translation>Solucion Alternativa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
         <source>Native libraries</source>
         <translation>Bibliotecas nativas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="400"/>
         <source>Use system installation of GLFW</source>
         <translation>Usar la instalación de GLFW</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="407"/>
         <source>Use system installation of OpenAL</source>
         <translation>Usar instalación de OpenAL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="421"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="431"/>
         <source>Miscellaneous</source>
         <translation>Misceláneo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="440"/>
         <source>Override global game time settings</source>
         <translation>Sustituir ajustes globales de tiempo de juego</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="452"/>
         <source>Show time spent playing this instance</source>
         <translation>Mostrar tiempo jugando a esta instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="459"/>
         <source>Record time spent playing this instance</source>
         <translation>Grabar tiempo jugando a esta instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="459"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Set a server to join on launch</source>
         <translation>Establecer un servidor al que unirse al lanzar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="489"/>
         <source>Server address:</source>
         <translation>Dirección del servidor:</translation>
     </message>
@@ -1781,12 +1791,12 @@ Por favor inténtelo nuevamente.</translation>
         <translation>Configuración</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="323"/>
         <source>Select a Java version</source>
         <translation>Seleccionar una versión de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
         <source>Find Java executable</source>
         <translation>Buscar ejecutable de Java</translation>
     </message>
@@ -1936,17 +1946,27 @@ Por favor inténtelo nuevamente.</translation>
         <translation>Probar</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
         <source>Select a Java version</source>
         <translation>Seleccionar versión de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="143"/>
         <source>Find Java executable</source>
         <translation>Buscar el ejecutable de Java</translation>
     </message>
@@ -3501,47 +3521,47 @@ Esto es permanente y borrará completamente la instancia.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="729"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="730"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID DE SESIÓN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="731"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="732"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TOKEN DE ACCESO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="733"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="734"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;TOKEN DE CLIENTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="735"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="736"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID DEL PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="807"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="808"/>
         <source>broken</source>
         <translation>roto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="812"/>
         <source>Minecraft %1 (%2)</source>
         <translation>Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="815"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="816"/>
         <source>, last played for %1</source>
         <translation>, la última vez se jugó por %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="820"/>
         <source>, total played for %1</source>
         <translation>, se ha jugado un total de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="824"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="825"/>
         <source>, has crashed.</source>
         <translation>, se ha cerrado de forma inesperada.</translation>
     </message>
@@ -4710,17 +4730,17 @@ Elija su nombre cuidadosamente:</translation>
         <translation>La ruta no existe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
         <translation>processArguments se establece en el valor desconocido &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>El valor de &apos;minimumLauncherVersion&apos; (versión mínima del lanzador) de esta versión (%1) es superior al soportado por %3 (%2). ¡Puede que no funcione correctamente!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>El nombre de la biblioteca %1 está roto y no se puede procesar.</translation>
     </message>
@@ -5639,19 +5659,32 @@ falta inheritsFrom</translation>
 <context>
     <name>VerifyJavaInstall</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="26"/>
         <source>Minecraft 1.18 Pre Release 2 and above require the use of Java 17</source>
-        <translation>Minecraft 1.18 Pre Release 2 y superior requieren el uso the Java 17</translation>
+        <translation type="vanished">Minecraft 1.18 Pre Release 2 y superior requieren el uso the Java 17</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="35"/>
         <source>Minecraft 21w19a and above require the use of Java 16</source>
-        <translation>Minecraft 21w19a y superior requieren el uso the Java 16</translation>
+        <translation type="vanished">Minecraft 21w19a y superior requieren el uso the Java 16</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="44"/>
         <source>Minecraft 17w13a and above require the use of Java 8</source>
-        <translation>Minecraft 17w13a y superior requieren el uso de Java 8</translation>
+        <translation type="vanished">Minecraft 17w13a y superior requieren el uso de Java 8</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
+        <source>Java major version is incompatible. Things might break.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
+        <source>This instance is not compatible with Java version %1.
+Please switch to one of the following Java versions for this instance:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
+        <source>Java version %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

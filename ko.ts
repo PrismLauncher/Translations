@@ -530,7 +530,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="737"/>
+        <location filename="src/launcher/Application.cpp" line="738"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
@@ -1621,142 +1621,152 @@ Please try again.</source>
         <translation>테스트</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
         <source>Memor&amp;y</source>
         <translation>메모리 (&amp;Y)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="119"/>
         <source>Minimum memory allocation:</source>
         <translation>메모리 최소 할당량:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="116"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
         <translation>마인크래프트에 할당된 사용 가능한 최대 메모리입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="148"/>
         <source>The amount of memory Minecraft is started with.</source>
         <translation>마인크래프트는 이 용량의 메모리를 할당받고 실행됩니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="170"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translation>로드된 자바 클래스를 저장하는 데에 사용 가능한 메모리입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="199"/>
         <source>Maximum memory allocation:</source>
         <translation>메모리 최대 할당량:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="206"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
         <translation>참고: 펌젠(Permgen) 은 자바 8 이상일 경우 자동설정됩니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="219"/>
         <source>Java argumen&amp;ts</source>
         <translation>자바 명령행 인자 (&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="238"/>
         <source>Game windows</source>
         <translation>게임 창(들)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="247"/>
         <source>Game Window</source>
         <translation>게임 창</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
         <source>Start Minecraft maximized?</source>
         <translation>마인크래프트를 최대화된 상태로 시작할까요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="258"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
         <source>Window height:</source>
         <translation>창 높이:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="275"/>
         <source>Window width:</source>
         <translation>창 너비:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="309"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="319"/>
         <source>Conso&amp;le Settings</source>
         <translation>콘솔 설정 (&amp;L)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="321"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="331"/>
         <source>Show console while the game is running?</source>
         <translation>게임이 실행 중일때도 콘솔을 표시할까요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="338"/>
         <source>Automatically close console when the game quits?</source>
         <translation>게임 종료시 콘솔을 자동으로 닫을까요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="345"/>
         <source>Show console when the game crashes?</source>
         <translation>게임이 충돌했을 때도 콘솔을 표시할까요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="359"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="369"/>
         <source>Custom commands</source>
         <translation>사용자 정의 명령어들</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="369"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="379"/>
         <source>Workarounds</source>
         <translation>해결책</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="388"/>
         <source>Native libraries</source>
         <translation>네이티브 라이브러리</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="400"/>
         <source>Use system installation of GLFW</source>
         <translation>시스템에 설치되어 있는 GLFW 사용하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="397"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="407"/>
         <source>Use system installation of OpenAL</source>
         <translation>시스템에 설치되어 있는 OpenAL 사용하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="421"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="431"/>
         <source>Miscellaneous</source>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="430"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="440"/>
         <source>Override global game time settings</source>
         <translation>전역 게임 시간 설정을 오버라이드</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="452"/>
         <source>Show time spent playing this instance</source>
         <translation>인스턴스에서 플레이 한 시간 보기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="449"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="459"/>
         <source>Record time spent playing this instance</source>
         <translation>인스턴스에서 플레이 한 시간 기록</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="459"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Set a server to join on launch</source>
         <translation>실행 후 바로 접속 할 서버 설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="479"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="489"/>
         <source>Server address:</source>
         <translation>서버 주소:</translation>
     </message>
@@ -1766,12 +1776,12 @@ Please try again.</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="323"/>
         <source>Select a Java version</source>
         <translation>자바 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
         <source>Find Java executable</source>
         <translation>자바 실행 파일 찾기</translation>
     </message>
@@ -1921,17 +1931,27 @@ Please try again.</source>
         <translation>테스트</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
+        <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
+        <source>Skip Java compatibility checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
         <translation>자바</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
         <source>Select a Java version</source>
         <translation>자바 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="140"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="143"/>
         <source>Find Java executable</source>
         <translation>자바 실행파일 찾기</translation>
     </message>
@@ -3469,47 +3489,47 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="729"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="730"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="731"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="732"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="733"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="734"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="735"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="736"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="807"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="808"/>
         <source>broken</source>
         <translation>손상됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="812"/>
         <source>Minecraft %1 (%2)</source>
         <translation>마인크래프트 %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="815"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="816"/>
         <source>, last played for %1</source>
         <translation>, %1동안 지난 플레이함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="820"/>
         <source>, total played for %1</source>
         <translation>, 총 %1동안 플레이 함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="824"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="825"/>
         <source>, has crashed.</source>
         <translation>, 는 튕겼습니다.</translation>
     </message>
@@ -4663,17 +4683,17 @@ Choose your name carefully:</source>
         <translation>패치가 아직 로드되지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="154"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
         <translation>processArguments이 알 수 없는 값 &apos;%1&apos;으로 설정되었습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="179"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
         <translation>이 버전의 &apos;minimumLauncherVersion&apos; 값(%1) 이 %3가 지원하는 (%2) 보다 높습니다. 올바로 작동하지 않을 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="299"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>라이브러리 %1 이름이 손상되어 처리할 수 없습니다.</translation>
     </message>
@@ -5592,19 +5612,32 @@ inheritsFrom 누락됨</translation>
 <context>
     <name>VerifyJavaInstall</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="26"/>
         <source>Minecraft 1.18 Pre Release 2 and above require the use of Java 17</source>
-        <translation>마인크래프트 1.18 Pre Release 2 이상은 Java 17의 사용을 요구합니다</translation>
+        <translation type="vanished">마인크래프트 1.18 Pre Release 2 이상은 Java 17의 사용을 요구합니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="35"/>
         <source>Minecraft 21w19a and above require the use of Java 16</source>
-        <translation>마인크래프트 21w19a 이상은 Java 16의 사용을 요구합니다</translation>
+        <translation type="vanished">마인크래프트 21w19a 이상은 Java 16의 사용을 요구합니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="44"/>
         <source>Minecraft 17w13a and above require the use of Java 8</source>
-        <translation>마인크래프트 17w13a 이상은 Java 8의 사용을 요구합니다</translation>
+        <translation type="vanished">마인크래프트 17w13a 이상은 Java 8의 사용을 요구합니다</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
+        <source>Java major version is incompatible. Things might break.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
+        <source>This instance is not compatible with Java version %1.
+Please switch to one of the following Java versions for this instance:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
+        <source>Java version %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
