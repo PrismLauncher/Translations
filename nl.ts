@@ -6,42 +6,42 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>Pastebin URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastebin URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Let op: er wordt alleen input die start met &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; of &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; geaccepteerd.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hier kan uit een vaste lijst tekstplakdiensten gekozen worden. Of er kan een URL van een andere tekstplakdienst ingevuld worden als die hetzelfde protocol als 0x0.st ondersteunt: als er een POST-verzoek met een bestandsparameter naar de URL wordt gestuurd, wordt een reactie teruggestuurd met een link in de body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>Microsoft Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Authenticatie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Let op: dit hoeft waarschijnlijk niet ingesteld te worden als het al lukt om met Microsoft Authenticatie in te loggen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Standaard)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>Voer hier een eigen Microsoft Authenticatie identiteit in. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>API&apos;s</translation>
     </message>
 </context>
 <context>
@@ -278,7 +278,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Uitgeschakeld</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
@@ -400,7 +400,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -427,7 +427,7 @@ Als u hier nieuw bent, kunt u op de knop &quot;Toevoegen&quot; klikken om uw Moj
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is geen Microsoft Authenticatie ingesteld.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -451,22 +451,24 @@ Als u hier nieuw bent, kunt u op de knop &quot;Toevoegen&quot; klikken om uw Moj
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-accounts kunnen alleen gebruikt worden op macOS 10.13 of nieuwer, met %1 volledig bijgewerkt.
+
+Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>Error</source>
-        <translation type="unfinished">Fout</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er kan pas een offline account toegevoegd worden als er een Microsoft- of Mojang-account is toegevoegd.&lt;br&gt;&lt;br&gt;Neem contact of met Microsoft als u toegang to uw account bent verloren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="204"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vul uw gewenste gebruikersnaam in voor uw offline-account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="303"/>
@@ -499,7 +501,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Client-ID is veranderd. Er moet een nieuwe sessie gemaakt worden.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -1086,12 +1088,12 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteren op Uitgelicht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteren op Populariteit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
@@ -1101,17 +1103,17 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteren op Naam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteren op Auteur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteren op Downloads</translation>
     </message>
     <message>
         <source> by </source>
@@ -1575,7 +1577,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -1627,12 +1629,12 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als dit is ingeschakeld zal de launcher niet controlleren of een instantie compatibel is met de geselecteerde Java-versie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Java compatibiliteitscontrole overslaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -1937,12 +1939,12 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als dit is insgeschakeld zal de launcher niet controlleren of een instantie compatibel is met de geselecteerde Java-versie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Java compatibiliteitscontrole overslaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2119,7 +2121,7 @@ Kies één van de volgende, of blader naar een uitvoerbaar Java-bestand.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="212"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Demo spelen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="213"/>
@@ -2127,22 +2129,25 @@ Kies één van de volgende, of blader naar een uitvoerbaar Java-bestand.</transl
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit account is niet in bezit van Minecraft.
+U moet het spel eerst kopen om het te kunnen spelen.
+
+Wilt u de demo spelen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="215"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Demo spelen</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="216"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulleren</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="226"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Start geannulleerd - account niet in bezit van Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
@@ -2162,12 +2167,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="267"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>De client-identificatie van het startprogramma is veranderd. Gelieve dit account te verwijderen en opnieuw toe te voegen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="270"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Client-identificatie veranderd</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="279"/>
@@ -2263,7 +2268,8 @@ Mogelijk moet u uw mods repareren omdat het spel nog steeds naar dit logbestand 
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestopt de log van het spel bij te houden omdat die langer is dan %1 regels.
+Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan het loggen en is waarschijnlijk op hoge snelheid schijfruimte aan het verspillen!</translation>
     </message>
 </context>
 <context>
@@ -2389,7 +2395,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Plat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
@@ -2472,12 +2478,15 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>U probeert een instantiemap in te stellen die slechts tijdelijk beschikbaar was via Flatpak.
+Dit kan problemen opleveren. Na een herstart kan het startprogramma namelijk crashen omdat het geen toegang meer heeft tot die map.
+
+Het is aangeraden om PolyMC toegang te verlenen met Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="155"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Toch doorgaan?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="172"/>
@@ -2915,7 +2924,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Open pagina en kopieer de code</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
@@ -2933,7 +2942,7 @@ Reden:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft gebruikersauthenticatie mislukt - client-identificatie is veranderd.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
@@ -3054,12 +3063,12 @@ Reden:
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>Matrix space</source>
         <oldsource>Matrix</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Matrixruimte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 matrixruimte openen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
@@ -3127,17 +3136,17 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="450"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuws-taakbalk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="455"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer nieuws...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open de ontwikkelingsblog voor meer nieuws over %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="474"/>
@@ -3198,12 +3207,12 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>View Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="539"/>
         <source>View the mods of this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk de mods van deze instantie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
@@ -3274,7 +3283,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="601"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporteer de geselecteerde instantie als een zip-bestand.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
@@ -3359,17 +3368,17 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1195"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuws laden...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen nieuws beschikbaar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarschuwingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1359"/>
@@ -3381,32 +3390,33 @@ Reden:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1410"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het startprogramma kan Minecraft niet downloaden of instanties bijwerken totdat u ten minste één account heeft toegevoegd.
+Gelieve uw Mojang- of Microsoft-account toe te voegen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Groepsnaam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vul een nieuwe groepsnaam in.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Groep verwijderen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u de groep %1 wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1707"/>
         <source>CAREFUL!</source>
-        <translation type="unfinished"></translation>
+        <translation>PAS OP!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1708"/>
@@ -3414,42 +3424,45 @@ Please add your Mojang or Minecraft account.</source>
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>U staat op het punt om %1 te verwijderen.
+Dit is permanent en zal de instantie volledig verwijderen.
+
+Weet u het zeker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1913"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantie hernoemen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1926"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw instantiemap bevat &apos;!&apos; en dat kan problemen met Java veroorzaken!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1928"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>U heeft twee mogelijkheden:&lt;br/&gt; - verander de instantiemap in de instellingen &lt;br/&gt; - verplaats deze installatie van %1 naar een andere map</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1937"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit is problematisch: &lt;br/&gt; - Het startprogramma zal waarschijnlijk zonder waarschuwing verwijderd worden door het besturingssysteem &lt;br/&gt; sluit het startprogramma nu af en pak het opnieuw uit naar een echte locatie, geen tijdelijke map</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1944"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw instantiemap bevat &apos;Rar$&apos; - dat betekent dat uw het archiefbestand van het startprogramma niet uitgepakt heeft!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1952"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Uw instantiemap bevindt zich in een tijdelijke map: &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1965"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Totale speeltijd: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
@@ -3463,7 +3476,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Discord-gilde openen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1273"/>
@@ -3603,22 +3616,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC zal automatisch opnieuw openen als het spel crasht of afsluit.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close PolyMC after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit PolyMC nadat het spelvenster opent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC zal automatisch afsluiten als het spel crasht of afsluit.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>Quit PolyMC after game window stops</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit PolyMC als het spelvenster sluit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -3667,12 +3680,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="65"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="80"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig de te downloaden mods</translation>
     </message>
 </context>
 <context>
@@ -3681,7 +3694,8 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="9"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod aan het downloaden:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
@@ -3807,22 +3821,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="171"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="172"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Download mods van online mod-platforms</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="176"/>
         <source>Add .jar</source>
-        <translation type="unfinished"></translation>
+        <translation>.jar toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="177"/>
         <source>Add mods via local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods toevoegen van lokale bestanden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="227"/>
@@ -3844,12 +3858,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="394"/>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelieve eerst een mod-lader te installeren!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarschuwingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="414"/>
@@ -3896,7 +3910,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="166"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer mod om te downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="81"/>
@@ -3906,27 +3920,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="90"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Versies laden...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="98"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen juiste versie gevonden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="149"/>
         <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen juiste versie gevonden!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="151"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Onjuiste versie kan niet geselecteerd worden :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="168"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Deselecteer mod voor downloaden</translation>
     </message>
 </context>
 <context>
@@ -3941,7 +3955,8 @@ Are you sure?</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>API-versie te oud!
+Gelieve %1 bij te werken!</translation>
     </message>
 </context>
 <context>
@@ -4009,17 +4024,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
         <source>Sort by Relevence</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteer op Relevantie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteer op Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteer op Volgers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
@@ -4029,7 +4044,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by newest</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteer op nieuwste</translation>
     </message>
     <message>
         <source> by </source>
@@ -4094,7 +4109,8 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="98"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>RSS-feed laden mislukt:
+%1</translation>
     </message>
 </context>
 <context>
@@ -4103,13 +4119,13 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="56"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Naamloos</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="25"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leeg.</translation>
     </message>
 </context>
 <context>
@@ -4153,17 +4169,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersnamen langer dan 16 tekens kunnen niet gebruikt worden in LAN-spellen of offline-modus-servers.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Lange gebruikersnamen toestaan</translation>
     </message>
 </context>
 <context>
@@ -4171,12 +4187,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="9"/>
         <source>Creating offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline-acount maken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="17"/>
         <source>Created offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline-account gemaakt.</translation>
     </message>
 </context>
 <context>
@@ -4325,17 +4341,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="37"/>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan het uploaden naar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="58"/>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Netwerkfout: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="65"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout: %1 geeft onverwachtte statuscode %2 %3</translation>
     </message>
 </context>
 <context>
@@ -4481,7 +4497,7 @@ Kies uw naam zorgvuldig:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Globale taakstatus...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="44"/>
@@ -4607,7 +4623,7 @@ Kies uw naam zorgvuldig:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Website</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="71"/>
@@ -4615,7 +4631,7 @@ Kies uw naam zorgvuldig:</translation>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Ontwikkelaars</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
@@ -6177,7 +6193,7 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Grootte van wereld op schijf.</translation>
     </message>
 </context>
 <context>
