@@ -1463,110 +1463,110 @@ Por favor inténtelo nuevamente.</translation>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="52"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="60"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Descargando modpack:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="58"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="66"/>
         <source>Modpack download</source>
         <translation>Descarga de modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="88"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
         <source>Extracting modpack</source>
         <translation>Extrayendo modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="104"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>No se puede abrir el archivo zip de modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="129"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="193"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="137"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="201"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>El archivo no contiene un tipo de Modpack reconocido.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="153"/>
         <source>Failed to extract modpack</source>
         <translation>Error al extraer Modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="172"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
         <source>Could not fix permissions for %1</source>
         <translation>No se han podido corregir los permisos para %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="208"/>
         <source>Instance import has been aborted.</source>
         <translation>La importación de la instancia ha sido cancelada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="221"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="229"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>No se pudo entender el manifiesto del paquete:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>No se pudo cambiar el nombre de la carpeta:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="238"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="246"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Falta la carpeta de anulaciones especificada (%1) ¿Tal vez el modpack ya fue utilizado anteriormente?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="259"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="267"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Error desconocido de carga de la instancia %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="278"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Misteriosos puntos finales eliminados de la versión de Minecraft al importar el paquete.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="294"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation type="unfinished">No se pudo encontrar la versión de Forge recomendada para Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="346"/>
         <source>Mod download</source>
         <translation>Descarga de modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="354"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="362"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Esta &apos;Carpeta&apos; necesita ser extraida: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="366"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="374"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Anidar modpacks en modpacks no está implementado, no se descargó nada: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="371"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="379"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>PackageType no reconocido para: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="391"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="399"/>
         <source>Downloading mods...</source>
         <translation>Descargando mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="398"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="406"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Imposible actualizar las ID de mods:

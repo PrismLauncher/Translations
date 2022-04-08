@@ -1448,110 +1448,110 @@ Please try again.</source>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="52"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="60"/>
         <source>Downloading modpack:
 %1</source>
         <translation>מוריד את המודפאק:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="58"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="66"/>
         <source>Modpack download</source>
         <translation>הורדת מודפאק</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="88"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
         <source>Extracting modpack</source>
         <translation>מחלץ מודפאק</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="104"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>לא ניתן היה לפתוח את קובץ ה-zip של המודפאק שסופק.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="129"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="193"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="137"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="201"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>הארכיון לא מכיל מודפאק מסוג מזוהה.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="153"/>
         <source>Failed to extract modpack</source>
         <translation>חילוץ המודפאק נכשל</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="172"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
         <source>Could not fix permissions for %1</source>
         <translation>לא ניתן היה לתקן הרשאות עבור %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="208"/>
         <source>Instance import has been aborted.</source>
         <translation>ייבוא המופע נעצר.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="221"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="229"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>לא ניתן היה להבין את המניפסט של החבילה:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>לא ניתן היה לשנות את שם תיקיית העקיפות:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="238"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="246"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>תיקיית העקיפות שצוינה (%1) חסרה. ייתכן שהמודפאק היה כבר בשימוש לפני כן?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="259"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="267"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>מטען מודים לא מוכר במניפסט: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="278"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>נקודות מסתוריות בסוף הגרסה הוסרו מגרסת המיינקרפט בעת ייבוא החבילה.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="294"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation type="unfinished">לא ניתן היה למפות את גרסת ה-Forge המומלצת עבור Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="346"/>
         <source>Mod download</source>
         <translation>הורדת מוד</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="354"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="362"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>ייתכן שיש לחלץ את ה&apos;תיקייה&apos; הזו: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="366"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="374"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>קינון של מודפאקים בתוך מודפאקים עוד לא יושם, דבר לא הורד: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="371"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="379"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>סוג חבילה לא מזוהה / לא מטופל עבור: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="391"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="399"/>
         <source>Downloading mods...</source>
         <translation>מוריד מודים...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="398"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="406"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>לא ניתן היה לפתור את מזהי המודים:

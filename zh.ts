@@ -1458,110 +1458,110 @@ Please try again.</source>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="52"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="60"/>
         <source>Downloading modpack:
 %1</source>
         <translation>正在下载整合包：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="58"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="66"/>
         <source>Modpack download</source>
         <translation>下载整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="88"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
         <source>Extracting modpack</source>
         <translation>正在解压整合包</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="104"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>无法打开提供的整合包 zip 压缩文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="129"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="193"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="137"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="201"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>压缩包未包含可识别的整合包类型。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="153"/>
         <source>Failed to extract modpack</source>
         <translation>解压整合包时失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="172"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
         <source>Could not fix permissions for %1</source>
         <translation>无法修复 %1 的权限</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="208"/>
         <source>Instance import has been aborted.</source>
         <translation>实例导入操作被中断。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="221"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="229"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>无法解析包清单：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>无法重命名覆盖的目录：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="238"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="246"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>未找到指定的覆盖目录（%1）。或许整合包之前已经使用过？</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="259"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="267"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>清单中包含未知的模组加载器： %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="278"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>在导入包时移除了 Minecraft 版本字符串结尾的迷之点。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="294"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation>无法为以下 Minecraft 版本提供推荐的 Forge 版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="346"/>
         <source>Mod download</source>
         <translation>模组下载</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="354"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="362"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>此 “目录” 可能需要解压：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="366"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="374"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>并不支持在整合包中嵌套整合包。未下载任何数据：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="371"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="379"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>无法识别的或未被处理的包类型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="391"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="399"/>
         <source>Downloading mods...</source>
         <translation>正在下载模组……</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="398"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="406"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>无法解析模组 ID：

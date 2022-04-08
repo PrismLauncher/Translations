@@ -1436,110 +1436,110 @@ Per favor, intenta de nou la descàrrega.</translation>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="52"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="60"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Descarregant el paquet de mods:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="58"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="66"/>
         <source>Modpack download</source>
         <translation>Descàrrega del paquet de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="88"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
         <source>Extracting modpack</source>
         <translation>Extraent els paquets de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="104"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>No hem estat capaços d&apos;obrir l&apos;arxiu zip del paquet de mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="129"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="193"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="137"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="201"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>L&apos;arxiu no hi conté un tipus de paquet de mods reconegut.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="145"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="153"/>
         <source>Failed to extract modpack</source>
         <translation>Error a l&apos;extraure el paquet de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="172"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
         <source>Could not fix permissions for %1</source>
         <translation>No hem pogut solucionar els permissos per a %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="208"/>
         <source>Instance import has been aborted.</source>
         <translation>La importació de la instància ha estat avortada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="221"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="229"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>No hem estat capaços d&apos;entendre el manifest del paquet:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>No hem pogut canviar el nom de la carpeta de substitucions:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="238"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="246"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Falta la carpeta d&apos;anul·lacions especificada (%1) Potser el modpack ja ha estat utilitzat anteriorment?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="259"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="267"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Error desconegut mentre es carregava la instància %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="278"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Punts finals misteriosos eliminats de la versió de Minecraft al importar el paquet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="294"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation type="unfinished">No s&apos;ha pogut trobar la versió de Forge recomenada per Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="338"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="346"/>
         <source>Mod download</source>
         <translation>Descàrrega de modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="354"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="362"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>És possible que calgui extreure aquesta &quot;Carpeta&quot;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="366"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="374"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Niar modpacks a modpacks no està implementat, no s&apos;ha descarregat res: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="371"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="379"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>PackageType no reconegut per a: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="391"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="399"/>
         <source>Downloading mods...</source>
         <translation>Descarregant mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="398"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="406"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Impossible actualitzar les ID dels mods:
