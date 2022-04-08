@@ -806,7 +806,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском выполняется перед запуском сборки, а команда после выхода когда она закрылась.&lt;/p&gt;&lt;p&gt;Обе команды будут выполняться в папке PolyMC с дополнительными переменными среды:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Имя сборки&lt;/li&gt;&lt;li&gt;$INST_ID - ID сборки (название её папки)&lt;/li&gt;&lt;li&gt;$INST_DIR - полный путь до сборки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - полный путь до Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java файл, используемый при запуске&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументы командной строки, используемые при запуске&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обёртки позволяет запускать Java, используя дополнительную программу-обёртку (например &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Команда перед запуском выполняется перед запуском сборки, а команда после выхода после закрытия.&lt;/p&gt;&lt;p&gt;Они будут выполняться в папке лаунчера с дополнительными переменными среды:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Имя сборки&lt;/li&gt;&lt;li&gt;$INST_ID - ID сборки (название её папки)&lt;/li&gt;&lt;li&gt;$INST_DIR - полный путь до сборки&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - полный путь до Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java файл, используемый при запуске&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - аргументы командной строки, используемые при запуске (внимание: они не будут работать при наличии пробелов)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Команда обёртки позволяет запускать Java, используя дополнительную программу-обёртку (например, &apos;optirun&apos; на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -3661,25 +3661,25 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC автоматически откроется при вылете игры или выходе.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер автоматически откроется при вылете или выходе из игры.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close the launcher after game window opens</source>
         <oldsource>Close PolyMC after game window opens</oldsource>
-        <translation type="unfinished">Закрыть PolyMC после открытия игры</translation>
+        <translation>Закрыть лаунчер после открытия игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC автоматически выйдет при вылете или выходе из игры.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Лаунчер автоматически выйдет при вылете или выходе из игры.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>Quit the launcher after game window closes</source>
         <oldsource>Quit PolyMC after game window stops</oldsource>
-        <translation type="unfinished">Закрыть PolyMC после остановки игры</translation>
+        <translation>Закрыть лаунчер после остановки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -4583,7 +4583,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Общее состояние задачи...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="44"/>
@@ -5171,7 +5171,7 @@ This message will be displayed until you remove them from the JVM arguments.</ol
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="61"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Выполнение задачи %1 из %2</translation>
     </message>
 </context>
 <context>
@@ -5468,7 +5468,7 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Невозможно разобрать манифест сборки:
+        <translation>Не удалось понять манифест пакета:
 </translation>
     </message>
     <message>
@@ -5551,7 +5551,7 @@ inheritsFrom отсутствует</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранная версия:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="70"/>
@@ -5662,7 +5662,7 @@ inheritsFrom отсутствует</translation>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished">Обновление PolyMC</translation>
+        <translation>Обновление лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
