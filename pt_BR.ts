@@ -538,7 +538,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="738"/>
+        <location filename="src/launcher/Application.cpp" line="741"/>
         <source>Settings</source>
         <translation>Configurações</translation>
     </message>
@@ -1808,12 +1808,12 @@ Por favor, tente novamente.</translation>
         <translation>Configurações</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="322"/>
         <source>Select a Java version</source>
         <translation>Selecionar versão do Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="341"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="340"/>
         <source>Find Java executable</source>
         <translation>Encontrar executável do Java</translation>
     </message>
@@ -2105,52 +2105,57 @@ Por favor, selecione um dos seguintes ou busque um executável do Java no seu si
         <translation>Nenhuma instância especificada!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="92"/>
+        <location filename="src/launcher/LaunchController.cpp" line="75"/>
+        <source>Invalid Java arguments specified. Please fix this first.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/LaunchController.cpp" line="95"/>
         <source>No Accounts</source>
         <translation>Nenhuma conta</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="93"/>
+        <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
         <translation>Para jogar Minecraft, você precisa ter pelo menos uma conta da Mojang ou Microsoft logada. Você gostaria de abrir o gerenciador de contas e adicionar uma conta agora?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="112"/>
+        <location filename="src/launcher/LaunchController.cpp" line="115"/>
         <source>Which account would you like to use?</source>
         <translation>Deseja usar qual conta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="136"/>
+        <location filename="src/launcher/LaunchController.cpp" line="139"/>
         <source>No account selected for launch.</source>
         <translation>Nenhuma conta selecionada para jogar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="145"/>
+        <location filename="src/launcher/LaunchController.cpp" line="148"/>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
         <translation>Sua sessão não foi iniciada. Insira a sua senha novamente. &lt;br/&gt;&lt;br/&gt; Isso pode ter sido causado por uma troca de senha.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="172"/>
+        <location filename="src/launcher/LaunchController.cpp" line="176"/>
         <source>Player name</source>
         <translation>Nome do jogador</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="173"/>
+        <location filename="src/launcher/LaunchController.cpp" line="177"/>
         <source>Choose your offline mode player name.</source>
         <translation>Escolha o seu nome para jogar off-line.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="201"/>
+        <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>Received undetermined session status during login.</source>
         <translation>Um status de sessão indeterminado foi recebido na inicialização.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="212"/>
+        <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>Play demo?</source>
         <translation>Jogar demo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="213"/>
+        <location filename="src/launcher/LaunchController.cpp" line="218"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -2161,84 +2166,84 @@ Você precisa comprar o jogo antes de poder jogá-lo.
 Você gostaria de jogar o demo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="215"/>
+        <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>Play Demo</source>
         <translation>Jogar demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="216"/>
+        <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="226"/>
+        <location filename="src/launcher/LaunchController.cpp" line="231"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>Inicialização cancelada - a conta não possui Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="242"/>
+        <location filename="src/launcher/LaunchController.cpp" line="247"/>
         <source>Play Offline</source>
         <translation>Jogar off-line</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="255"/>
+        <location filename="src/launcher/LaunchController.cpp" line="260"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>A conta expirou, inicie a sessão novamente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="258"/>
+        <location filename="src/launcher/LaunchController.cpp" line="263"/>
         <source>Account refresh failed</source>
         <translation>Falha ao atualizar dados da conta</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="267"/>
+        <location filename="src/launcher/LaunchController.cpp" line="272"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>A identificação de cliente do launcher mudou. Por favor, remova essa conta e a adicione novamente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="270"/>
+        <location filename="src/launcher/LaunchController.cpp" line="275"/>
         <source>Client identification changed</source>
         <translation>Identificação de cliente mudou</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="279"/>
+        <location filename="src/launcher/LaunchController.cpp" line="284"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>Essa conta já não existe nos servidores. Pode ter sido migrada. Se for o caso, adicione a nova conta migrada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="282"/>
+        <location filename="src/launcher/LaunchController.cpp" line="287"/>
         <source>Account gone</source>
         <translation>A conta está inacessível</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="292"/>
+        <location filename="src/launcher/LaunchController.cpp" line="297"/>
         <source>Failed to launch.</source>
         <translation>Falha ao iniciar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="302"/>
-        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="307"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>Error!</source>
         <translation>Erro!</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="302"/>
-        <location filename="src/launcher/LaunchController.cpp" line="303"/>
+        <location filename="src/launcher/LaunchController.cpp" line="307"/>
+        <location filename="src/launcher/LaunchController.cpp" line="308"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Não foi possível carregar o perfil da instância.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="310"/>
+        <location filename="src/launcher/LaunchController.cpp" line="315"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>Não foi possível instanciar o launcher.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="374"/>
+        <location filename="src/launcher/LaunchController.cpp" line="379"/>
         <source>Couldn&apos;t start profiler: %1</source>
         <translation>Não foi possível iniciar o profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="383"/>
+        <location filename="src/launcher/LaunchController.cpp" line="388"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -2247,37 +2252,37 @@ Você gostaria de jogar o demo?</translation>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="386"/>
+        <location filename="src/launcher/LaunchController.cpp" line="391"/>
         <source>Waiting.</source>
         <translation>Aguardando.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="388"/>
+        <location filename="src/launcher/LaunchController.cpp" line="393"/>
         <source>Launch</source>
         <translation>Iniciar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="396"/>
+        <location filename="src/launcher/LaunchController.cpp" line="401"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>Não foi possível iniciar o profiler: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="397"/>
+        <location filename="src/launcher/LaunchController.cpp" line="402"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="425"/>
+        <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Abort</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="441"/>
+        <location filename="src/launcher/LaunchController.cpp" line="446"/>
         <source>Kill Minecraft?</source>
         <translation>Forçar parada do Minecraft?</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="442"/>
+        <location filename="src/launcher/LaunchController.cpp" line="447"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Isso pode corromper a instância e só deve ser usado se o Minecraft não responder por algum motivo</translation>
     </message>
@@ -4757,14 +4762,14 @@ Escolha o seu nome com cuidado:</translation>
         <translation>O teste de Java foi concluído!&lt;br /&gt;Plataforma: %1&lt;br /&gt;Versão do Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="35"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <source>Java test success</source>
         <translation>O teste de Java foi concluído</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="45"/>
-        <location filename="src/launcher/JavaCommon.cpp" line="54"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="56"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="65"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <source>Java test failure</source>
         <translation>O teste de Java falhou</translation>
@@ -4936,27 +4941,34 @@ Essa mensagem será exibida até que você remova essas opções dos argumentos 
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="15"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="26"/>
         <source>JVM arguments warning</source>
         <translation>Aviso de argumentos da JVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="26"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="22"/>
+        <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
+This message will be displayed until you remove this from the JVM arguments.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/JavaCommon.cpp" line="37"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
         <translation>O teste de Java foi concluído!&lt;br /&gt;Plataforma: %1&lt;br /&gt;Versão: %2&lt;br /&gt;Fornecedor: %3&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="33"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="44"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
         <translation>&lt;br /&gt;Avisos:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="43"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="54"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
         <translation>O binário de Java especificado não funcionou com os argumentos fornecidos:&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="51"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
         <translation>O binário de Java especificado não funcionou.&lt;br /&gt;Utilize a detecção automática ou selecione o caminho do executável do Java.&lt;br /&gt;</translation>
@@ -6429,8 +6441,9 @@ Deseja continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
-        <source>Failed to get authorization for %1 services. Error %1.</source>
-        <translation>Falha ao receber autorização dos serviços %1. Erro %1.</translation>
+        <source>Failed to get authorization for %1 services. Error %2.</source>
+        <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
+        <translation type="unfinished">Falha ao receber autorização dos serviços %1. Erro %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
