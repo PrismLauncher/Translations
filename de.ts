@@ -1975,12 +1975,12 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wenn aktiviert, wird der Launcher nicht überprüfen, ob eine Instanz mit der ausgewählten Java-Version kompatibel ist.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java Kompatiblilitätsüberprüfungen überspringen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
