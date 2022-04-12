@@ -2117,7 +2117,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Указаны недопустимые аргументы Java. Пожалуйста, исправьте это.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -4972,7 +4972,8 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="22"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы попытались передать JVM требуемую версию Java (используя &quot;-version:xxx&quot;). Это небезопасно и не будет разрешено.
+Это сообщение будет отображаться до тех пор, пока вы не удалите его из аргументов JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="37"/>
@@ -6469,7 +6470,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished">Не удалось получить авторизацию для служб %1. Ошибка %1.</translation>
+        <translation>Не удалось получить авторизацию для служб %1. Ошибка %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
