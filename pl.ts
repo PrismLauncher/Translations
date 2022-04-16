@@ -1486,7 +1486,7 @@ Spróbuj ponownie.</translation>
 <context>
     <name>InstanceCreationTask</name>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="16"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="25"/>
         <source>Creating instance from version %1</source>
         <translation>Tworzenie instancji z wersji %1</translation>
     </message>
@@ -5730,49 +5730,90 @@ Brakuje inheritsFrom</translation>
 <context>
     <name>VanillaPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="41"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="66"/>
         <source>Filter</source>
         <translation>Filtr</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="51"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="76"/>
         <source>Releases</source>
         <translation>Wydania</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="64"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="89"/>
         <source>Snapshots</source>
         <translation>Snapshoty</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="99"/>
         <source>Old Snapshots</source>
         <translation>Stare snapshoty</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="84"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="109"/>
         <source>Betas</source>
         <translation>Bety</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="119"/>
         <source>Alphas</source>
         <translation>Alphy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="129"/>
         <source>Experiments</source>
         <translation>Eksperymenty</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="152"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="253"/>
         <source>Refresh</source>
         <translation>Odśwież</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
+        <source>Mod Loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
+        <source>Forge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
+        <source>Fabric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
+        <source>Quilt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
+        <source>LiteLoader</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
         <translation>Vanilla</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="125"/>
+        <source>No mod loader is selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="162"/>
+        <source>No versions are currently available for Minecraft %1</source>
+        <translation type="unfinished">Brak aktualnie dostępnych wersji dla Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6285,12 +6326,12 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
 <context>
     <name>VersionSelectWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="128"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="128"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>List update failed:
 %1</source>
         <translation>Aktualizacja listy nie powiodła się:

@@ -1451,7 +1451,7 @@ Please try again.</source>
 <context>
     <name>InstanceCreationTask</name>
     <message>
-        <location filename="src/launcher/InstanceCreationTask.cpp" line="16"/>
+        <location filename="src/launcher/InstanceCreationTask.cpp" line="25"/>
         <source>Creating instance from version %1</source>
         <translation>版次 %1 から構成実例を作成中</translation>
     </message>
@@ -5587,49 +5587,90 @@ inheritsFrom is missing</source>
 <context>
     <name>VanillaPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="41"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="66"/>
         <source>Filter</source>
         <translation>フィルター</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="51"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="76"/>
         <source>Releases</source>
         <translation>通常のリリース</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="64"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="89"/>
         <source>Snapshots</source>
         <translation>スナップショット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="99"/>
         <source>Old Snapshots</source>
         <translation>古いスナップショット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="84"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="109"/>
         <source>Betas</source>
         <translation>ベータ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="119"/>
         <source>Alphas</source>
         <translation>アルファ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="129"/>
         <source>Experiments</source>
         <translation>実験的なバージョン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="152"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="253"/>
         <source>Refresh</source>
         <translation>リフレッシュ</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
+        <source>Mod Loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
+        <source>Forge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
+        <source>Fabric</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
+        <source>Quilt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
+        <source>LiteLoader</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
         <translation>バニラ</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="125"/>
+        <source>No mod loader is selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="162"/>
+        <source>No versions are currently available for Minecraft %1</source>
+        <translation type="unfinished">現在利用可能な Minecraft %1 の版次情報がありません</translation>
     </message>
 </context>
 <context>
@@ -6137,12 +6178,12 @@ Please add your Mojang or Minecraft account.</source>
 <context>
     <name>VersionSelectWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="128"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="128"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>List update failed:
 %1</source>
         <translation>リストの更新に失敗しました:
