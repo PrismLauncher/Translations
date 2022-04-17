@@ -451,7 +451,9 @@ Acabou de chegar? Clique em &quot;Adicionar&quot; e inicie a sessão com a sua c
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contas da Microsoft só podem ser usadas no macOS 10.13 ou superior, com o %1 totalmente atualizado.
+
+Por favor, atualize tanto o seu sistema operacional quanto o %1.</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
@@ -800,7 +802,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Os comandos de pré-inicialização e pós-inicialização são rodados antes da inicialização da instância e após a instância terminar de executar, respectivamente.&lt;/p&gt;&lt;p&gt;Ambos serão rodados na pasta de trabalho do launcher com variáveis adicionais de ambiente:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME — Nome da instância&lt;/li&gt;&lt;li&gt;$INST_ID — ID da instância (nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_DIR — Caminho absoluto da instância&lt;/li&gt;&lt;li&gt;$INST_MC_DIR — Caminho absoluto do Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA — Binário do Java usado na inicialização&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS — Parâmetros de linha de comando usados na inicialização&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comandos de wrapper permitem o uso de um programa adicional junto da instância (como o &apos;optirun&apos; no Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Os comandos de pré-inicialização e pós-inicialização são rodados antes da inicialização da instância e após a instância terminar de executar, respectivamente.&lt;/p&gt;&lt;p&gt;Ambos serão rodados na pasta de trabalho do launcher com variáveis adicionais de ambiente:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME — Nome da instância&lt;/li&gt;&lt;li&gt;$INST_ID — ID da instância (nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_DIR — Caminho absoluto da instância (o nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_MC_DIR — Caminho absoluto do Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA — Binário do Java usado na inicialização&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS — Parâmetros de linha de comando usados na inicialização (aviso: esses argumentos não funcionarão corretamente se eles contiverem espaços)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comandos de wrapper permitem o uso de um programa adicional junto da instância (como o &apos;optirun&apos; no Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1655,12 +1657,12 @@ Por favor, tente novamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se habilitado, o launcher não irá checar se uma instância é compatível com a versão do Java selecionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pular verificação de compatibilidade do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -1965,12 +1967,12 @@ Por favor, tente novamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se habilitado, o launcher não irá checar se uma instância é compatível com a versão do Java selecionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pular verificação de compatibilidade do Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2107,7 +2109,7 @@ Por favor, selecione um dos seguintes ou busque um executável do Java no seu si
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumentos especificados do Java são inválidos. Por favor conserte-os primeiro.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -2299,7 +2301,8 @@ Você talvez devesse checar seus mods, pois o jogo continua fazendo registros em
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramos de monitorar o log do jogo pois ele ultrapassou %1 linhas.
+Você talvez tenha que consertar os seus mods, porque o jogo ainda está logando em arquivos e consumindo espaço de HD a uma taxa alarmante!</translation>
     </message>
 </context>
 <context>
@@ -2523,12 +2526,15 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você está tentando especificar uma pasta de instância a qual foi dada temporariamente pelo Flatpak.
+Isso é conhecido por causar problemas. Depois de reiniciar o launcher, pode ser que ele esteja quebrado, porque ele não terá mais acesso àquele arquivo.
+
+Dar acesso ao PolyMC pelo Flatseal é recomendado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você quer prosseguir mesmo assim?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
@@ -3865,25 +3871,25 @@ Você tem certeza?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;O PolyMC vai automaticamente reabrir quando você sair do jogo ou ele crashar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;O PolyMC vai automaticamente reabrir quando você sair do jogo ou ele crashar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close the launcher after game window opens</source>
         <oldsource>Close PolyMC after game window opens</oldsource>
-        <translation type="unfinished">Fechar o PolyMC quando a tela do jogo abrir</translation>
+        <translation>Fechar o PolyMC quando a tela do jogo abrir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;O launcher vai automaticamente fechar depois que você sair do jogo ou ele crashar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>Quit the launcher after game window closes</source>
         <oldsource>Quit PolyMC after game window stops</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sair do launcher após o jogo fechar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -3960,7 +3966,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versões do Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="29"/>
@@ -3980,17 +3986,17 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="29"/>
         <source>Strict match (= %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Estritamente igual (= %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="31"/>
         <source>Major version match (= %1.%2.x)</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão maior igual (= %1.%2.x)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="33"/>
         <source>Any version</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualquer versão</translation>
     </message>
 </context>
 <context>
@@ -4184,59 +4190,59 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation type="unfinished">Buscar e filtrar...</translation>
+        <translation>Procurar por mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versão selecionada:</translation>
+        <translation>Versão selecionada:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
         <source>Select mod for download</source>
-        <translation type="unfinished">Selecionar Mod para download</translation>
+        <translation>Selecionar mod para download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opções de filtro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="114"/>
         <source> by </source>
-        <translation type="unfinished"> por </translation>
+        <translation> por </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="123"/>
         <source>Loading versions...</source>
-        <translation type="unfinished">Carregando versões...</translation>
+        <translation>Carregando versões...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="131"/>
         <source>No valid version found.</source>
-        <translation type="unfinished">Versão válida não encontrada.</translation>
+        <translation>Versão válida não encontrada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="189"/>
         <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão válida não encontrada!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="190"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished">Não pode selecionar uma versão inválida :(</translation>
+        <translation>Não pode selecionar uma versão inválida :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="209"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished">Desselecionar Mod para download</translation>
+        <translation>Desselecionar mod para download</translation>
     </message>
 </context>
 <context>
@@ -4244,14 +4250,15 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="199"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A versão da API é muito antiga!
+Por favor atualize o %1!</translation>
     </message>
 </context>
 <context>
@@ -4333,7 +4340,7 @@ Por favor, atualize o PolyMC!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
         <source>Sort by Relevence</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por relevância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
@@ -4822,7 +4829,7 @@ Escolha o seu nome com cuidado:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Status do processo global...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="44"/>
@@ -4953,7 +4960,7 @@ Escolha o seu nome com cuidado:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Website</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="71"/>
@@ -4961,14 +4968,14 @@ Escolha o seu nome com cuidado:</translation>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desenvolvedores do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="82"/>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contribuidores do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
@@ -5206,7 +5213,8 @@ Essa mensagem será exibida até que você remova essas opções dos argumentos 
         <location filename="src/launcher/JavaCommon.cpp" line="22"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tentou passar argumentos da versão necessária do Java para a JVM (usando &quot;-version:xxx&quot;). Isso não é seguro e não será permitido.
+Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="37"/>
@@ -5417,7 +5425,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="61"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Executando tarefa %1 de %2</translation>
     </message>
 </context>
 <context>
@@ -5714,7 +5722,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível entender o manifesto do pacote:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="137"/>
@@ -5796,7 +5805,7 @@ inheritsFrom está ausente</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versão selecionada:</translation>
+        <translation>Versão selecionada:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="70"/>
@@ -5907,7 +5916,7 @@ total: %4</translation>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished">Atualização do PolyMC</translation>
+        <translation>Atualização do Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -5991,32 +6000,32 @@ total: %4</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
@@ -6026,12 +6035,12 @@ total: %4</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="125"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum mod loader está selecionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="162"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nenhuma versão disponível para o Minecraft %1</translation>
+        <translation>Nenhuma versão disponível para o Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6051,18 +6060,19 @@ total: %4</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão do Java é incompatível. Algumas coisas podem não funcionar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Essa instância não é compatível com o Java na versão %1.
+Por favor troque para uma das seguintes versões do Java para essa instância:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Java versão %1</translation>
     </message>
 </context>
 <context>
@@ -6178,12 +6188,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
         <source>Install Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Install the Quilt Loader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar o pacote do Quilt Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
@@ -6354,7 +6364,8 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível baixar o Minecraft ou atualizar instâncias a não ser que ao menos uma conta seja adicionada.
+Por favor adicione a sua conta do Minecraft.</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -6395,17 +6406,17 @@ Por favor, adicione a sua conta do Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
         <source>Select Quilt Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar versão do Quilt Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="512"/>
         <source>No Quilt Loader versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma versão do Quilt Loader está disponível atualmente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="513"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível carregar ou baixar a lista de versões do Quilt Loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
@@ -6576,7 +6587,7 @@ Por favor, adicione a sua conta do Minecraft.</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="245"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="254"/>
@@ -6596,7 +6607,7 @@ Por favor, adicione a sua conta do Minecraft.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do mundo no disco.</translation>
     </message>
 </context>
 <context>
@@ -6766,7 +6777,7 @@ Deseja continuar?</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished">Falha ao receber autorização dos serviços %1. Erro %1.</translation>
+        <translation>Falha ao receber autorização dos serviços %1. Erro %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
