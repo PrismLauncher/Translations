@@ -530,7 +530,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="741"/>
+        <location filename="src/launcher/Application.cpp" line="746"/>
         <source>Settings</source>
         <translation type="unfinished">Configuración</translation>
     </message>
@@ -3473,47 +3473,47 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="741"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="745"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESIÓN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="743"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="747"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TESTEMUÑA DE ACCESO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="745"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="749"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;TESTEMUÑA DO CLIENTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="747"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="751"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;IDENTIFICADOR DO PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="823"/>
         <source>broken</source>
         <translation>roto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="823"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
         <source>Minecraft %1 (%2)</source>
         <translation>Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="831"/>
         <source>, last played for %1</source>
         <translation>, anteriormente xogárase durante %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="831"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
         <source>, total played for %1</source>
         <translation>, en total xogado %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="836"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
         <source>, has crashed.</source>
         <translation>, quebrou.</translation>
     </message>
@@ -3649,12 +3649,12 @@ Are you sure?</source>
 <context>
     <name>ModDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Download mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="80"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="82"/>
         <source>Confirm mods to download</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3671,6 +3671,44 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
         <source>Mod download</source>
         <translation type="unfinished">Descarga de mod</translation>
+    </message>
+</context>
+<context>
+    <name>ModFilterWidget</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
+        <source>Minecraft versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="29"/>
+        <source>allVersions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="36"/>
+        <source>strictVersion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="43"/>
+        <source>majorVersion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="29"/>
+        <source>Strict match (= %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="31"/>
+        <source>Major version match (= %1.%2.x)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="33"/>
+        <source>Any version</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3869,7 +3907,8 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
-        <source>Search and filter...</source>
+        <source>Search for mods...</source>
+        <oldsource>Search and filter...</oldsource>
         <translation type="unfinished">Buscar e filtrar...</translation>
     </message>
     <message>
@@ -3879,37 +3918,42 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
         <source>Select mod for download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
+        <source>Filter options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="114"/>
         <source> by </source>
         <translation type="unfinished"> por </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="90"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="123"/>
         <source>Loading versions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="98"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="131"/>
         <source>No valid version found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="189"/>
         <source>No valid version found!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="190"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="209"/>
         <source>Deselect mod for download</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3917,12 +3961,12 @@ Are you sure?</source>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
         <source>Error</source>
         <translation type="unfinished">Erro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="199"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
