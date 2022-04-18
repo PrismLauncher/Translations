@@ -594,18 +594,21 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <name>Atl::FilterModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
-        <source>Sort by popularity</source>
-        <translation>Nach Beliebtheit sortieren</translation>
+        <source>Sort by Popularity</source>
+        <oldsource>Sort by popularity</oldsource>
+        <translation type="unfinished">Nach Beliebtheit sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
-        <source>Sort by name</source>
-        <translation>Nach Name sortieren</translation>
+        <source>Sort by Name</source>
+        <oldsource>Sort by name</oldsource>
+        <translation type="unfinished">Nach Name sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
-        <source>Sort by game version</source>
-        <translation>Nach Spielversion sortieren</translation>
+        <source>Sort by Game Version</source>
+        <oldsource>Sort by game version</oldsource>
+        <translation type="unfinished">Nach Spielversion sortieren</translation>
     </message>
 </context>
 <context>
@@ -1117,8 +1120,9 @@ Bitte versuche es erneut.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
-        <source>Sort by last updated</source>
-        <translation>Nach zuletzt aktualisiert sortieren</translation>
+        <source>Sort by Last Updated</source>
+        <oldsource>Sort by last updated</oldsource>
+        <translation type="unfinished">Nach zuletzt aktualisiert sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
@@ -1184,33 +1188,39 @@ Bitte versuche es erneut.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
-        <source>Sort by featured</source>
-        <translation>Nach Vorgestellt sortieren</translation>
+        <source>Sort by Featured</source>
+        <oldsource>Sort by featured</oldsource>
+        <translation type="unfinished">Nach Vorgestellt sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
-        <source>Sort by popularity</source>
-        <translation>Nach Beliebtheit sortieren</translation>
+        <source>Sort by Popularity</source>
+        <oldsource>Sort by popularity</oldsource>
+        <translation type="unfinished">Nach Beliebtheit sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
-        <source>Sort by last updated</source>
-        <translation>Nach zuletzt aktualisiert sortieren</translation>
+        <source>Sort by Last Updated</source>
+        <oldsource>Sort by last updated</oldsource>
+        <translation type="unfinished">Nach zuletzt aktualisiert sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
-        <source>Sort by name</source>
-        <translation>Nach Name sortieren</translation>
+        <source>Sort by Name</source>
+        <oldsource>Sort by name</oldsource>
+        <translation type="unfinished">Nach Name sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
-        <source>Sort by author</source>
-        <translation>Nach Autor sortieren</translation>
+        <source>Sort by Author</source>
+        <oldsource>Sort by author</oldsource>
+        <translation type="unfinished">Nach Autor sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
-        <source>Sort by total downloads</source>
-        <translation>Nach Gesamt-Downloads sortieren</translation>
+        <source>Sort by Total Downloads</source>
+        <oldsource>Sort by total downloads</oldsource>
+        <translation type="unfinished">Nach Gesamt-Downloads sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="143"/>
@@ -1231,18 +1241,21 @@ Bitte versuche es erneut.</translation>
     <name>Ftb::FilterModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
-        <source>Sort by plays</source>
-        <translation>Nach Gespielt sortieren</translation>
+        <source>Sort by Plays</source>
+        <oldsource>Sort by plays</oldsource>
+        <translation type="unfinished">Nach Gespielt sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
-        <source>Sort by installs</source>
-        <translation>Nach Installationen sortieren</translation>
+        <source>Sort by Installs</source>
+        <oldsource>Sort by installs</oldsource>
+        <translation type="unfinished">Nach Installationen sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
-        <source>Sort by name</source>
-        <translation>Nach Name sortieren</translation>
+        <source>Sort by Name</source>
+        <oldsource>Sort by name</oldsource>
+        <translation type="unfinished">Nach Name sortieren</translation>
     </message>
 </context>
 <context>
@@ -2607,13 +2620,15 @@ Es wird empfohlen, PolyMC über Flatseal Zugriff zu gewähren.</translation>
     <name>LegacyFTB::FilterModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="19"/>
-        <source>Sort by name</source>
-        <translation>Nach Name sortieren</translation>
+        <source>Sort by Name</source>
+        <oldsource>Sort by name</oldsource>
+        <translation type="unfinished">Nach Name sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="20"/>
-        <source>Sort by game version</source>
-        <translation>Nach Spielversion sortieren</translation>
+        <source>Sort by Game Version</source>
+        <oldsource>Sort by game version</oldsource>
+        <translation type="unfinished">Nach Spielversion sortieren</translation>
     </message>
 </context>
 <context>
@@ -3977,21 +3992,6 @@ Bist du dir sicher?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="29"/>
-        <source>allVersions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="36"/>
-        <source>strictVersion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="43"/>
-        <source>majorVersion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="29"/>
         <source>Strict match (= %1)</source>
         <translation type="unfinished"></translation>
@@ -4343,8 +4343,9 @@ Bitte aktualisiere PolyMC!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
-        <source>Sort by Relevence</source>
-        <translation>Nach Relevanz sortieren</translation>
+        <source>Sort by Relevance</source>
+        <oldsource>Sort by Relevence</oldsource>
+        <translation type="unfinished">Nach Relevanz sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
@@ -4358,13 +4359,15 @@ Bitte aktualisiere PolyMC!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
-        <source>Sort by last updated</source>
-        <translation>Nach zuletzt aktualisiert sortieren</translation>
+        <source>Sort by Last Updated</source>
+        <oldsource>Sort by last updated</oldsource>
+        <translation type="unfinished">Nach zuletzt aktualisiert sortieren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
-        <source>Sort by newest</source>
-        <translation>Nach neusten sortieren</translation>
+        <source>Sort by Newest</source>
+        <oldsource>Sort by newest</oldsource>
+        <translation type="unfinished">Nach neusten sortieren</translation>
     </message>
     <message>
         <source> by </source>

@@ -567,18 +567,21 @@ Please update both your operating system and %1.</source>
     <name>Atl::FilterModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
-        <source>Sort by popularity</source>
-        <translation>Razvrsti po priljubljenosti</translation>
+        <source>Sort by Popularity</source>
+        <oldsource>Sort by popularity</oldsource>
+        <translation type="unfinished">Razvrsti po priljubljenosti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
-        <source>Sort by name</source>
-        <translation>Razvrsti po imenu</translation>
+        <source>Sort by Name</source>
+        <oldsource>Sort by name</oldsource>
+        <translation type="unfinished">Razvrsti po imenu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
-        <source>Sort by game version</source>
-        <translation>Razvrsti po verziji igre</translation>
+        <source>Sort by Game Version</source>
+        <oldsource>Sort by game version</oldsource>
+        <translation type="unfinished">Razvrsti po verziji igre</translation>
     </message>
 </context>
 <context>
@@ -1072,27 +1075,28 @@ Prosim, poskusite ponovno.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Razvrsti po izpostavljenim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Razvrsti po priljubljenosti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
-        <source>Sort by last updated</source>
+        <source>Sort by Last Updated</source>
+        <oldsource>Sort by last updated</oldsource>
         <translation type="unfinished">Razvrsti po nazadnje posodobljenem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Razvrsti po imenu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Razvrsti po avtorju</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
@@ -1132,33 +1136,39 @@ Prosim, poskusite ponovno.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
-        <source>Sort by featured</source>
-        <translation>Razvrsti po izpostavljenim</translation>
+        <source>Sort by Featured</source>
+        <oldsource>Sort by featured</oldsource>
+        <translation type="unfinished">Razvrsti po izpostavljenim</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
-        <source>Sort by popularity</source>
-        <translation>Razvrsti po priljubljenosti</translation>
+        <source>Sort by Popularity</source>
+        <oldsource>Sort by popularity</oldsource>
+        <translation type="unfinished">Razvrsti po priljubljenosti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
-        <source>Sort by last updated</source>
-        <translation>Razvrsti po nazadnje posodobljenem</translation>
+        <source>Sort by Last Updated</source>
+        <oldsource>Sort by last updated</oldsource>
+        <translation type="unfinished">Razvrsti po nazadnje posodobljenem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
-        <source>Sort by name</source>
-        <translation>Razvrsti po imenu</translation>
+        <source>Sort by Name</source>
+        <oldsource>Sort by name</oldsource>
+        <translation type="unfinished">Razvrsti po imenu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
-        <source>Sort by author</source>
-        <translation>Razvrsti po avtorju</translation>
+        <source>Sort by Author</source>
+        <oldsource>Sort by author</oldsource>
+        <translation type="unfinished">Razvrsti po avtorju</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
-        <source>Sort by total downloads</source>
-        <translation>Razvrsti po skupnem številu prenosov</translation>
+        <source>Sort by Total Downloads</source>
+        <oldsource>Sort by total downloads</oldsource>
+        <translation type="unfinished">Razvrsti po skupnem številu prenosov</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="143"/>
@@ -1179,18 +1189,21 @@ Prosim, poskusite ponovno.</translation>
     <name>Ftb::FilterModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
-        <source>Sort by plays</source>
-        <translation>Razvrsti po številu igranj</translation>
+        <source>Sort by Plays</source>
+        <oldsource>Sort by plays</oldsource>
+        <translation type="unfinished">Razvrsti po številu igranj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
-        <source>Sort by installs</source>
-        <translation>Razvrsti po številu namestitev</translation>
+        <source>Sort by Installs</source>
+        <oldsource>Sort by installs</oldsource>
+        <translation type="unfinished">Razvrsti po številu namestitev</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
-        <source>Sort by name</source>
-        <translation>Razvrsti po imenu</translation>
+        <source>Sort by Name</source>
+        <oldsource>Sort by name</oldsource>
+        <translation type="unfinished">Razvrsti po imenu</translation>
     </message>
 </context>
 <context>
@@ -2519,12 +2532,14 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <name>LegacyFTB::FilterModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="19"/>
-        <source>Sort by name</source>
+        <source>Sort by Name</source>
+        <oldsource>Sort by name</oldsource>
         <translation type="unfinished">Razvrsti po imenu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="20"/>
-        <source>Sort by game version</source>
+        <source>Sort by Game Version</source>
+        <oldsource>Sort by game version</oldsource>
         <translation type="unfinished">Razvrsti po verziji igre</translation>
     </message>
 </context>
@@ -3723,21 +3738,6 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="29"/>
-        <source>allVersions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="36"/>
-        <source>strictVersion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="43"/>
-        <source>majorVersion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="29"/>
         <source>Strict match (= %1)</source>
         <translation type="unfinished"></translation>
@@ -4078,7 +4078,8 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
-        <source>Sort by Relevence</source>
+        <source>Sort by Relevance</source>
+        <oldsource>Sort by Relevence</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4093,12 +4094,14 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
-        <source>Sort by last updated</source>
+        <source>Sort by Last Updated</source>
+        <oldsource>Sort by last updated</oldsource>
         <translation type="unfinished">Razvrsti po nazadnje posodobljenem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
-        <source>Sort by newest</source>
+        <source>Sort by Newest</source>
+        <oldsource>Sort by newest</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
