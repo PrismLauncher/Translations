@@ -1124,7 +1124,7 @@ Por favor inténtelo nuevamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por descargas</translation>
     </message>
     <message>
         <source> by </source>
