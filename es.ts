@@ -29,7 +29,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>Microsoft Authentication</source>
-        <translation type="unfinished">Autenticación de Microsoft</translation>
+        <translation>Autenticación de Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
@@ -459,7 +459,9 @@ Si eres nuevo aquí, clic en el botón &quot;Añadir&quot; para agregar tu cuent
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Las cuentas de Microsoft solo se pueden usar en macOS 10.13 o posterior, con el %1 más reciente
+
+Actualice su sistema operativo y %1.</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
@@ -1097,7 +1099,7 @@ Por favor inténtelo nuevamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Destacados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
@@ -1107,7 +1109,7 @@ Por favor inténtelo nuevamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by last updated</source>
-        <translation type="unfinished">Ordenar por última actualización</translation>
+        <translation>Ordenar por la última actualización</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
@@ -1117,7 +1119,7 @@ Por favor inténtelo nuevamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
@@ -1149,7 +1151,7 @@ Por favor inténtelo nuevamente.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Buscar y filtrar...</translation>
+        <translation>Buscar y filtrar...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1197,7 +1199,7 @@ Por favor inténtelo nuevamente.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Error al crear la carpeta para los binarios de Minecraft.</translation>
+        <translation>Error al crear la carpeta para los binarios de Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -1229,7 +1231,7 @@ Por favor inténtelo nuevamente.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Buscar y filtrar...</translation>
+        <translation>Buscar y filtrar...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1538,7 +1540,7 @@ Por favor inténtelo nuevamente.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="295"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">No se pudo encontrar la versión de Forge recomendada para Minecraft %1</translation>
+        <translation>No se pudo mapear la versión recomendada de Forge para Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="347"/>
@@ -1590,7 +1592,7 @@ Por favor inténtelo nuevamente.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -1638,12 +1640,12 @@ Por favor inténtelo nuevamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está habilitado, el iniciador no verificará si una instancia es compatible con la versión de Java seleccionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitir las comprobaciones de compatibilidad con Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -1948,12 +1950,12 @@ Por favor inténtelo nuevamente.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si se activa, el lanzador no comprobará si una instancia es compatible con la versión de Java seleccionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitir las comprobaciones de compatibilidad con Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2047,8 +2049,8 @@ Puedes cambiar la versión de Java en los ajustes más tarde.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">No tiene una configuración Java que funcione aún o desapareció.
-Por favor, seleccione uno de los siguientes o busque un ejecutable java.</translation>
+        <translation>Todavía no tiene instalado un Java que funcione o lo ha perdido.
+Por favor, seleccione uno de los siguientes o busque un ejecutable de Java.</translation>
     </message>
 </context>
 <context>
@@ -2090,7 +2092,7 @@ Por favor, seleccione uno de los siguientes o busque un ejecutable java.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se han especificado argumentos Java no válidos. Por favor, arregle esto primero.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -2101,7 +2103,7 @@ Por favor, seleccione uno de los siguientes o busque un ejecutable java.</transl
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in.Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Para poder jugar a Minecraft necesitas tener al menos una cuenta de Mojang o Microsoft conectada. ¿Quieres abrir el gestor de cuentas para añadir una cuenta ahora?</translation>
+        <translation>Para poder jugar a Minecraft, debes tener al menos una cuenta de Mojang o Minecraft conectada. Quieres abrir el gestor de cuentas para añadir una cuenta ahora?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
@@ -2182,12 +2184,12 @@ Necesitas comprar el juego primero para jugarlo.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="272"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>La identificación del cliente del lanzador ha cambiado. Elimine esta cuenta y agréguela de nuevo.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="275"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>La identificación del cliente ha cambiado</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="284"/>
@@ -2283,7 +2285,8 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Se dejó de ver el registro del juego porque la longitud del registro superó %1 líneas.
+¡Es posible que tengas que arreglar tus mods porque el juego todavía está iniciando sesión en archivos y probablemente está desperdiciando espacio en el disco duro a un ritmo alarmante!</translation>
     </message>
 </context>
 <context>
@@ -2417,7 +2420,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Plana</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
@@ -2441,17 +2444,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Herramientas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>La barra de menús es más amigable para la interacción con teclado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Replace toolbar with menubar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sustituir la barra de herramientas por la barra de menús</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="361"/>
@@ -2519,12 +2522,15 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usted&apos;está intentando especificar una carpeta de instancia que fue concedida temporalmente a través de Flatpak.
+Se sabe que esto causa problemas. Después de un reinicio el lanzador podría romperse, porque ya no tendrá acceso a ese directorio.
+
+Se recomienda conceder acceso a PolyMC a través de Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea continuar de todos modos?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
@@ -2973,7 +2979,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallado la autenticación de usuario de Microsoft: la identificación del cliente ha cambiado.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
@@ -3088,7 +3094,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir el espacio de la matriz %1</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -3154,17 +3160,17 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="593"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de herramientas de noticias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="598"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Más noticias...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="599"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre el blog de desarrollo para leer más noticias sobre %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="752"/>
@@ -3201,7 +3207,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
