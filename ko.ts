@@ -31,7 +31,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(기본값)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -400,7 +400,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 계정 추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -456,17 +456,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>Error</source>
-        <translation type="unfinished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 계정을 추가하려면 마인크래프트를 구매한 마이크로소프트 또는 모장 계정을 추가해야 합니다.&lt;br&gt;&lt;br&gt;계정을 분실한 경우 마이크로소프트에 지원을 요청할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="204"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 계정을 추가하려면 원하는 사용자명을 입력하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="303"/>
@@ -499,7 +499,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>클라이언트 ID가 변경되었습니다. 새로운 세션을 생성해야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -1089,7 +1089,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation>인기순 정렬</translation>
+        <translation>추천순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
@@ -1148,7 +1148,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation>인기순 정렬</translation>
+        <translation>추천순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
@@ -2098,7 +2098,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
-        <translation type="unfinished">마인크래프트를 이용하시려면, 반드시 최소 하나 이상의 모장 또는 마인크래프트 계정으로 로그인해야합니다. 계정 추가를 위해 계정 관리자를 여시겠습니까?</translation>
+        <translation>마인크래프트를 이용하시려면, 반드시 최소 하나 이상의 모장 또는 마인크래프트 계정으로 로그인해야합니다. 계정 추가를 위해 계정 관리자를 여시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
@@ -2151,12 +2151,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>취소</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="231"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 취소됨 - 계정이 마인크래프트를 소유하고 있지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="247"/>
@@ -2428,12 +2428,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>메뉴바는 키보드 기반 상호작용에 친화적입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Replace toolbar with menubar</source>
-        <translation type="unfinished"></translation>
+        <translation>툴바를 메뉴바로 변경</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="361"/>
@@ -3223,7 +3223,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="393"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>야옹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
@@ -3233,32 +3233,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="481"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>파일</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="504"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="510"/>
         <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>프로필</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="513"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>도움말</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="537"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>창 닫기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 창 닫기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
@@ -3294,12 +3294,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="645"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인으로 실행</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation>인스턴스 편집...</translation>
+        <translation>인스턴스 편집... (&amp;a)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="653"/>
@@ -3481,7 +3481,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="720"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 인스턴스를 zip 파일로 내보냅니다.</translation>
     </message>
     <message>
         <source>Delete Instance</source>
@@ -3824,25 +3824,25 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;게임을 종료하거나 충돌나면 런처를 자동으로 엽니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;게임을 종료하거나 충돌이 나면 런처를 자동으로 다시 엽니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close the launcher after game window opens</source>
         <oldsource>Close PolyMC after game window opens</oldsource>
-        <translation>게임 화면이 열리면 런처 닫기</translation>
+        <translation>게임 창이 열리면 런처 닫기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;게임을 종료하거나 충돌나면 런처를 자동으로 종료합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;게임을 종료하거나 충돌이 나면 런처를 자동으로 종료합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>Quit the launcher after game window closes</source>
         <oldsource>Quit PolyMC after game window stops</oldsource>
-        <translation>게임 화면을 닫으면 런처 종료</translation>
+        <translation>게임 창이 닫히면 런처 종료</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -4144,7 +4144,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드할 모드 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
@@ -4179,7 +4179,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="209"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드할 모드 선택 해제</translation>
     </message>
 </context>
 <context>
@@ -4264,29 +4264,29 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>관련성순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>팔로우순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">업데이트순 정렬</translation>
+        <translation>업데이트순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>최신순 정렬</translation>
     </message>
 </context>
 <context>
