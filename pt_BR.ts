@@ -4339,12 +4339,6 @@ Por favor, atualize o PolyMC!</translation>
         <translation>Ordenar por relevância</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
-        <source>Sort by Relevance</source>
-        <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished">Ordenar por relevância</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
         <translation>Ordenar por número de downloads</translation>

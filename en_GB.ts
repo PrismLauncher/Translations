@@ -4313,12 +4313,6 @@ Please update PolyMC!</translation>
         <translation>Sort by Relevance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
-        <source>Sort by Relevance</source>
-        <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished">Sort by Relevance</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
         <translation>Sort by Downloads</translation>

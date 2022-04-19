@@ -4348,11 +4348,6 @@ Please update PolyMC!</source>
         <translation type="unfinished">Сортировать по релевантности</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
-        <source>Sort by Relevance</source>
-        <translation>Сортировать по релевантности</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
         <translation>Сортировать по скачиваниям</translation>

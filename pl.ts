@@ -4352,11 +4352,6 @@ Proszę zaktualizować PolyMC!</translation>
         <translation type="unfinished">Sortuj według trafności</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
-        <source>Sort by Relevance</source>
-        <translation>Sortuj po trafności</translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
         <translation>Sortuj po ilości pobrań</translation>

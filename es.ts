@@ -4306,7 +4306,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordenar por descargas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
