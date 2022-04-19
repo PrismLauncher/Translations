@@ -3057,7 +3057,7 @@ Reason:
         <translation>Остановить запущенную сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1179"/>
         <source>Launch</source>
         <translation>Запуск</translation>
     </message>
@@ -3102,7 +3102,7 @@ Reason:
         <translation>Открыть папку основных модов в файловом менеджере.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="853"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="849"/>
         <source>Folders</source>
         <translation>Папки</translation>
     </message>
@@ -3165,7 +3165,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="850"/>
         <source>Help</source>
         <translation>Помощь</translation>
     </message>
@@ -3445,7 +3445,7 @@ Reason:
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1185"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
         <source>Launch Offline</source>
         <translation>Играть в автономном режиме</translation>
     </message>
@@ -3571,118 +3571,117 @@ Reason:
         <translation>%1 - Версия %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="836"/>
         <source> on %1</source>
         <comment>on platform, as in operating system</comment>
-        <translation> на %1</translation>
+        <translation type="vanished"> на %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="946"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1057"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="942"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1053"/>
         <source>No instance selected</source>
         <translation>Не выбрана сборка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="947"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="943"/>
         <source>Total playtime: 0s</source>
         <translation>Всего наиграно: 0с</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1051"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1375"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1047"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1371"/>
         <source>Profiles</source>
         <translation>Профили</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1110"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
         <source>Create instance</source>
         <translation>Создать сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1126"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1122"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Удалить группу &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1186"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1182"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1197"/>
         <source>Profilers</source>
         <translation>Профайлеры</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1213"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1209"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>Профайлер установлен неправильно. Перейдите в &quot;Настройки&quot; - &quot;Внешние инструменты&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1259"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
         <source>No accounts added!</source>
         <translation>Учётная запись не добавлена!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>No Default Account</source>
         <translation>Нет учётной записи по умолчанию</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1306"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1415"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1411"/>
         <source>Loading news...</source>
         <translation>Загрузка новостей...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1424"/>
         <source>No news available.</source>
         <translation>Новостей нет.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
         <source>Warnings</source>
         <translation>Предупреждения</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1579"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1621"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1617"/>
         <source>Abort</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1626"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>Лаунчер не может скачивать Minecraft или обновлять сборки до тех пор, пока не будет добавлен хотя бы один аккаунт.
 Пожалуйста, добавьте аккаунт Mojang или Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1769"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1765"/>
         <source>Group name</source>
         <translation>Название группы</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1769"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1765"/>
         <source>Enter a new group name.</source>
         <translation>Введите название новой группы.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1791"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1787"/>
         <source>Delete group</source>
         <translation>Удалить группу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1791"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1787"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>Вы уверены, что хотите удалить группу %1?</translation>
     </message>
@@ -3691,12 +3690,12 @@ Please add your Mojang or Minecraft account.</source>
         <translation type="vanished">Вы уверены, что хотите удалить группу %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1933"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1929"/>
         <source>CAREFUL!</source>
         <translation>ВНИМАНИЕ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1934"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1930"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -3707,46 +3706,46 @@ Are you sure?</source>
 Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2142"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2138"/>
         <source>Rename Instance</source>
         <translation>Переименовать сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2155"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2151"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Папка вашей сборки содержит знак &apos;!&apos; в своём пути, это приводит к проблемам в Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2157"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2153"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>У вас есть два варианта: &lt;br/&gt; - изменить папку сборки в настройках &lt;br/&gt; - переместить сборку %1 в другую папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2166"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2162"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Обнаружена проблема: &lt;br/&gt; - Лаунчер будет удалён операционной системой без уведомления &lt;br/&gt; - закройте лаунчер и распакуйте его в настоящую локацию, а не во временную папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2173"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2169"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Папка вашей сборки содержит &apos;Rar$&apos; - это значит, что Вы не извлекли архив с лаунчером!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2181"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2177"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Папка сборки располагается во временной папке: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2194"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2190"/>
         <source>Total playtime: %1</source>
         <translation>Общее время игры: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1510"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1617"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1629"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1506"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1564"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1613"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1625"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -3756,7 +3755,7 @@ Are you sure?</source>
         <translation>Открыть Discord-сервер %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
         <translation>Не удалось создать папку для получения обновлений:
