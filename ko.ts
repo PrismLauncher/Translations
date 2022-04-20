@@ -11,12 +11,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; 또는 &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; 로 시작하는 입력만 허용됩니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;여기에서 사전 정의된 로그 저장 서비스를 선택하거나, 0x0.st와 동일한 프로토콜(파일 매개 변수를 URL로 전송하고 응답 본문의 링크를 반환)을 지원하는 다른 로그 저장 서비스의 URL을 입력할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;여기에서 사전 정의된 로그 공유 서비스를 선택하거나, 0x0.st와 동일한 프로토콜(파일 매개 변수를 URL로 전송하고 응답 본문의 링크를 반환)을 지원하는 다른 로그 공유서비스의 URL을 입력할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
@@ -451,7 +451,9 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>마이크로소프트 계정은 최신버전의 PolyMC와 함께 macOS 10.13 이상에서만 사용할 수 있습니다.
+
+운영체제와 %1 을 모두 업데이트하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
@@ -2088,7 +2090,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>잘못된 자바 인수를 지정했습니다. 이 문제를 먼저 고쳐야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -2280,7 +2282,8 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>로그 길이가 %1 줄을 초과하여 게임 로그 표시를 중단했습니다.
+여전히 게임 로그는 기록되고 있으며 엄청난 속도로 디스크 용량을 차지할 수 있으니 모드를 고쳐야 할 수도 있습니다!</translation>
     </message>
 </context>
 <context>
@@ -2509,7 +2512,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>그래도 계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
@@ -3302,7 +3305,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation>인스턴스 편집... (&amp;a)</translation>
+        <translation>인스턴스 편집...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="653"/>
@@ -3637,7 +3640,10 @@ Please add your Mojang or Minecraft account.</source>
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>삭제 예정: %1
+이것은 영구적이며 인스턴스를 완전히 제거합니다.
+
+정말 삭제하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2138"/>
@@ -3647,12 +3653,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2151"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 폴더에 &apos;!&apos;이 포함되어 있습니다. 이 경우 자바에 문제가 생길 수 있습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2153"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2162"/>
@@ -4158,7 +4164,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="114"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> 제작자 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="123"/>
@@ -4745,7 +4751,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>전역 작업 상태...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="44"/>
@@ -5336,7 +5342,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="61"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 중 작업 %1 을 실행 중입니다</translation>
     </message>
 </context>
 <context>
