@@ -588,19 +588,19 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ordenar por popularidade</translation>
+        <translation>Ordenar por Popularidade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordenar por nome</translation>
+        <translation>Ordenar por Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Ordenar por versão</translation>
+        <translation>Ordenar por Versão</translation>
     </message>
 </context>
 <context>
@@ -1114,7 +1114,7 @@ Por favor, tente novamente.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Ordenar por última atualização</translation>
+        <translation>Ordenar por Última atualização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
@@ -1182,37 +1182,37 @@ Por favor, tente novamente.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Ordenar por destaque</translation>
+        <translation>Ordenar por Destaque</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ordenar por popularidade</translation>
+        <translation>Ordenar por Popularidade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Ordenar por última atualização</translation>
+        <translation>Ordenar por Última atualização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordenar por nome</translation>
+        <translation>Ordenar por Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Ordenar por autor</translation>
+        <translation>Ordenar por Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Ordenar por downloads</translation>
+        <translation>Ordenar por Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="143"/>
@@ -1235,19 +1235,19 @@ Por favor, tente novamente.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Ordenar por uso</translation>
+        <translation>Ordenar por Uso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Ordenar por instalação</translation>
+        <translation>Ordenar por Instalações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordenar por nome</translation>
+        <translation>Ordenar por Nome</translation>
     </message>
 </context>
 <context>
@@ -2461,17 +2461,17 @@ Você talvez tenha que consertar os seus mods, porque o jogo ainda está logando
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>A barra de menu é mais amigável para interações por teclado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Replace toolbar with menubar</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir barra de menu por barra de ferramentas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="361"/>
@@ -2614,13 +2614,13 @@ Dar acesso ao PolyMC pelo Flatseal é recomendado.</translation>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="19"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordenar por nome</translation>
+        <translation>Ordenar por Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="20"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Ordenar por versão</translation>
+        <translation>Ordenar por Versão</translation>
     </message>
 </context>
 <context>
@@ -3216,115 +3216,115 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="267"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>$Matar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="272"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="289"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Adicionar instância...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="316"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pastas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
         <source>Report a &amp;Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>Reportar um &amp;Bug...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaço no &amp;Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupo do &amp;Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="374"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sobre %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>At&amp;ualizar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="393"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gerenciar contas...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="481"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arqui&amp;vo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="504"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Visualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="510"/>
         <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Perfis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="513"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;juda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="537"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar &amp;Janela</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar a janela atual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
         <source>%1 He&amp;lp</source>
-        <translation type="unfinished"></translation>
+        <translation>Aj&amp;uda do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="546"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir a wiki do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="552"/>
         <source>%1 &amp;News</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Notícias do %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
@@ -3344,97 +3344,97 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="645"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar ins&amp;tância...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="653"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="658"/>
         <source>E&amp;dit Notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;ditar anotações...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>View &amp;Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver &amp;Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>&amp;View Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver &amp;Mundos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Manage &amp;Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerenciar &amp;Screenshots</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mudar grupo...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
         <source>Minec&amp;raft Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta do minec&amp;raft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="691"/>
         <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+M</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="704"/>
         <source>Confi&amp;g Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta de confi&amp;gurações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>&amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta de &amp;instâncias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="719"/>
         <source>E&amp;xport Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xportar instância...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
         <source>Dele&amp;te Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dele&amp;tar instância...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
         <source>Cop&amp;y Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Co&amp;piar instância...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="736"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
@@ -3597,7 +3597,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1182"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1197"/>
@@ -3617,7 +3617,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
@@ -3627,7 +3627,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1411"/>
@@ -3995,7 +3995,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="38"/>
         <source>Major version match (unsupported)</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão maior igual (não suportado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="42"/>
@@ -4260,7 +4260,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Um erro de conexão ocorreu. Não foi possível carregar os mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="202"/>
@@ -4362,13 +4362,13 @@ Por favor, atualize o PolyMC!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Ordenar por última atualização</translation>
+        <translation>Ordenar por Última atualização</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="54"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished">Ordenar por mais novo</translation>
+        <translation>Ordenar por Mais novo</translation>
     </message>
     <message>
         <source> by </source>
@@ -6043,7 +6043,7 @@ total: %4</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma versão do Minecraft está selecionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
