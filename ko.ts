@@ -4141,7 +4141,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="205"/>
         <source>Select mod for download</source>
         <translation>다운로드할 모드 선택</translation>
     </message>
@@ -4166,17 +4166,17 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="187"/>
         <source>No valid version found!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="188"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
         <source>Deselect mod for download</source>
         <translation>다운로드할 모드 선택 해제</translation>
     </message>
@@ -4185,11 +4185,17 @@ Are you sure?</source>
     <name>ModPlatform::ListModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="200"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
+        <source>A network error occurred. Could not load mods.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="202"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -4260,29 +4266,29 @@ Please update %1!</source>
         <translation type="obsolete">선택된 버전:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation>관련성순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
         <translation>다운로드순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
         <source>Sort by Follows</source>
         <translation>팔로우순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>업데이트순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="54"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation>최신순 정렬</translation>
@@ -5936,7 +5942,7 @@ inheritsFrom 누락됨</translation>
         <translation>모드 로더를 선택하지 않았습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="161"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>마인크래프트 %1에 사용가능한 버전이 없습니다</translation>
     </message>
@@ -6465,43 +6471,43 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="238"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="249"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="251"/>
         <source>Game Mode</source>
         <translation>게임 모드</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="242"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="253"/>
         <source>Last Played</source>
         <translation>최근 실행일</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="245"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>The name of the world.</source>
         <translation>월드 이름입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Game mode of the world.</source>
         <translation>월드의 게임 모드입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="258"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Date and time the world was last played.</source>
         <translation>월드가 마지막으로 플레이 된 날짜와 시각.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size of the world on disk.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6579,17 +6585,17 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
         <translation>월드</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="128"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="130"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="185"/>
         <source>Are you sure?</source>
         <translation>정말로 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="186"/>
         <source>This will remove the selected world permenantly.
 The world will be gone forever (A LONG TIME).
 
@@ -6600,64 +6606,64 @@ Do you want to continue?</source>
 그래도 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="297"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit이 설치되지 않았거나 감지되지 않습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit이 없거나 이동되었습니다.
 이는 전역 설정에서 설정 가능합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit 시작에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="306"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit 시작에 실패하였습니다.
 재설치가 필요할 수도 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="357"/>
         <source>Select a Minecraft world zip</source>
         <translation>마인크래프트 월드 zip 선택하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="358"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>마인크래프트 월드 zip 파일 (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Copy World</source>
         <translation>월드 복사하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>마인크래프트가 실행중인 동안 월드를 수정하는 것은 잠재적으로 위험합니다.
 그래도 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
         <source>World name</source>
         <translation>월드 이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
         <source>Enter a new name for the copy.</source>
         <translation>복사본을 위한 새로운 이름을 입력하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
         <source>Enter a new world name.</source>
         <translation>새로운 월드 이름을 입력하세요.</translation>
     </message>

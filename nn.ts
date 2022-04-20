@@ -4145,7 +4145,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="205"/>
         <source>Select mod for download</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4170,17 +4170,17 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="187"/>
         <source>No valid version found!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="190"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="188"/>
         <source>Cannot select invalid version :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
         <source>Deselect mod for download</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4189,11 +4189,17 @@ Are you sure?</source>
     <name>ModPlatform::ListModel</name>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="200"/>
         <source>Error</source>
         <translation type="unfinished">Feil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="199"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
+        <source>A network error occurred. Could not load mods.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="202"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -4263,29 +4269,29 @@ Please update %1!</source>
         <translation type="obsolete">Versjon:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="49"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
         <source>Sort by Follows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation type="unfinished">Sorter etter sist endra</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="54"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation type="unfinished"></translation>
@@ -5942,7 +5948,7 @@ mangler «inheritsFrom»</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="161"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation type="unfinished">Ingen tilgjengelege versjonar for Minecraft %1</translation>
     </message>
@@ -6471,43 +6477,43 @@ Legg til Minecraft- eller Mojang-kontoen din.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="238"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="249"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="251"/>
         <source>Game Mode</source>
         <translation>Spelmodus</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="242"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="253"/>
         <source>Last Played</source>
         <translation>Sist spelt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="245"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="254"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>The name of the world.</source>
         <translation>Namnet til verda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Game mode of the world.</source>
         <translation>Spelmodusen til verda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="258"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Date and time the world was last played.</source>
         <translation>Når verda vart spelt sist.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="260"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size of the world on disk.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6585,17 +6591,17 @@ Legg til Minecraft- eller Mojang-kontoen din.</translation>
         <translation>Verder</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="128"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="130"/>
         <source>Context menu</source>
         <translation>Kontekstmeny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="185"/>
         <source>Are you sure?</source>
         <translation>Er du sikker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="186"/>
         <source>This will remove the selected world permenantly.
 The world will be gone forever (A LONG TIME).
 
@@ -6606,64 +6612,64 @@ Dette vil sletta den valde verda for alltid (EI VELDEG LANG TID).
 Vil du fortsetta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="295"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="297"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit vart ikkje funne!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit er ikkje installert eller har vorte flytta.
 Du kan leggja den til i dei globale innstillingane.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit klarte ikkje starta!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="306"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit klarte ikkje starta.
 Du må kanskje installera den på nytt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="355"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="357"/>
         <source>Select a Minecraft world zip</source>
         <translation>Legg til ei Minecraft-verd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="356"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="358"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>Minecraft-verd (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Copy World</source>
         <translation>Kopier verd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Å endra på ei verd mens Minecraft køyrar er utrygt.
 Vil du fortsetta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
         <source>World name</source>
         <translation>Verdsnamn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
         <source>Enter a new name for the copy.</source>
         <translation>Skriv inn eit nytt namn til kopien.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="424"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
         <source>Enter a new world name.</source>
         <translation>Skriv inn eit nytt namn til verda.</translation>
     </message>
