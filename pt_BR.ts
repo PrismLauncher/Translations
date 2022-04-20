@@ -3774,47 +3774,47 @@ Você tem certeza?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="745"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="741"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID DA SESSÃO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="747"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="743"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TOKEN DE ACESSO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="749"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="745"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;TOKEN DO CLIENTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="751"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="747"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID DO PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="823"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
         <source>broken</source>
         <translation>corrompida</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="823"/>
         <source>Minecraft %1 (%2)</source>
         <translation>Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="831"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
         <source>, last played for %1</source>
         <translation>, jogada pela última vez por %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="831"/>
         <source>, total played for %1</source>
         <translation>, total de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="836"/>
         <source>, has crashed.</source>
         <translation>, parou de funcionar.</translation>
     </message>
@@ -3983,17 +3983,22 @@ Você tem certeza?</translation>
         <translation>Versões do Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="29"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="27"/>
         <source>Strict match (= %1)</source>
         <translation>Estritamente igual (= %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="31"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="34"/>
         <source>Major version match (= %1.%2.x)</source>
         <translation>Versão maior igual (= %1.%2.x)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="33"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="38"/>
+        <source>Major version match (unsupported)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="42"/>
         <source>Any version</source>
         <translation>Qualquer versão</translation>
     </message>
@@ -6036,12 +6041,17 @@ total: %4</translation>
         <translation>Padrão</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
+        <source>No Minecraft version is selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
         <translation>Nenhum mod loader está selecionado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>Nenhuma versão disponível para o Minecraft %1</translation>
     </message>

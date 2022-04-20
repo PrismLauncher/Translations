@@ -1956,7 +1956,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启用时，启动器将不会检查选中的 Java 是否与实例兼容</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
@@ -3743,47 +3743,47 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="745"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="741"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="747"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="743"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="749"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="745"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="751"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="747"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="823"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="819"/>
         <source>broken</source>
         <translation>损坏</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="823"/>
         <source>Minecraft %1 (%2)</source>
         <translation>Minecraft %1 （%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="831"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
         <source>, last played for %1</source>
         <translation>，最后一次游玩时长: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="831"/>
         <source>, total played for %1</source>
         <translation>，此实例总游玩时长：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="836"/>
         <source>, has crashed.</source>
         <translation>，最后一次运行发生崩溃。</translation>
     </message>
@@ -3952,17 +3952,22 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="29"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="27"/>
         <source>Strict match (= %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="31"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="34"/>
         <source>Major version match (= %1.%2.x)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="33"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="38"/>
+        <source>Major version match (unsupported)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="42"/>
         <source>Any version</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5970,12 +5975,17 @@ inheritsFrom is missing</source>
         <translation>原版</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
+        <source>No Minecraft version is selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation type="unfinished">当前没有适用于Minecraft %1 的版本可用</translation>
     </message>
