@@ -6,7 +6,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>Pastebin URL</source>
-        <translation type="unfinished"></translation>
+        <translation>페이스트빈 URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
@@ -16,17 +16,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;여기에서 사전 정의된 로그 저장 서비스를 선택하거나, 0x0.st와 동일한 프로토콜(파일 매개 변수를 URL로 전송하고 응답 본문의 링크를 반환)을 지원하는 다른 로그 저장 서비스의 URL을 입력할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>Microsoft Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>마이크로소프트 인증</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>참고: 마이크로 소프트 인증을 통한 로그인이 이미 작동하는 경우에는 이 설정을 하지 않아도 됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
@@ -36,7 +36,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>여기에 마이크로소프트 인증을 위한 사용자 지정 클라이언트 ID를 입력하십시오. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
@@ -278,7 +278,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>비활성화</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
@@ -427,7 +427,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>마이크로소프트 인증 클라이언트 ID가 설정되지 않았습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -748,7 +748,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="115"/>
         <source>Copy saves</source>
-        <translation>월드 복사</translation>
+        <translation>세계 복사</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="122"/>
@@ -1536,7 +1536,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="295"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">마인크래프트 %1에 권장되는 포지 버전을 결정하지 못하였습니다</translation>
+        <translation>마인크래프트 %1에 권장되는 포지 버전을 결정하지 못하였습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="347"/>
@@ -2045,7 +2045,7 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">실행 가능한 자바가 아직 선택되지 않았거나 설정이 분실되었을 수 있습니다.
+        <translation>실행 가능한 자바가 아직 선택되지 않았거나 설정이 분실되었을 수 있습니다.
 다음 중에 선택하거나 자바 실행파일을 찾아보십시오.</translation>
     </message>
 </context>
@@ -2133,7 +2133,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>데모를 플레이하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
@@ -2141,12 +2141,15 @@ Please select one of the following or browse for a java executable.</oldsource>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>이 계정은 마인크래프트를 소유하고 있지 않습니다.
+게임을 구매해야 플레이할 수 있습니다.
+
+먼저 데모를 플레이하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>데모 플레이</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
@@ -2176,12 +2179,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="272"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>런처의 클라이언트 ID가 변경되었습니다. 이 계정을 제거하고 다시 추가하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="275"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>클라이언트 ID가 변경되었습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="284"/>
@@ -2403,7 +2406,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>플랫</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
@@ -2423,7 +2426,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>도구</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -2946,7 +2949,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지를 열고 코드 복사</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
@@ -2964,7 +2967,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>마이크로소프트 사용자 인증 실패 - 클라이언트 ID가 변경되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
@@ -3141,17 +3144,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="593"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>뉴스 툴바</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="598"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>뉴스 더 보기...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="599"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>개발 블로그를 열어 %1 에 대한 더 많은 뉴스를 볼 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="752"/>
@@ -3263,18 +3266,18 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
         <source>%1 He&amp;lp</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 도움말</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="546"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 위키 열기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="552"/>
         <source>%1 &amp;News</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 뉴스</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
@@ -3319,7 +3322,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>&amp;View Worlds</source>
-        <translation>월드 보기</translation>
+        <translation>세계 보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
@@ -3426,7 +3429,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="671"/>
         <source>View the worlds of this instance.</source>
-        <translation>선택한 인스턴스의 월드를 살펴봅니다.</translation>
+        <translation>선택한 인스턴스의 세계를 살펴봅니다.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -3578,12 +3581,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1411"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>뉴스를 불러오는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1424"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>뉴스가 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1571"/>
@@ -3594,13 +3597,14 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1617"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>강제 종료</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1626"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>런처에 하나 이상의 계정을 추가하지 않으면 마인크래프트 다운로드 또는 인스턴스 업데이트를 할 수 없습니다.
+모장 또는 마인크래프트 계정을 추가하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1765"/>
@@ -3890,12 +3894,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Download mods</source>
-        <translation type="unfinished">모드 다운로드</translation>
+        <translation>모드 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="82"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드할 모드 확인</translation>
     </message>
 </context>
 <context>
@@ -3904,7 +3908,8 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="9"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드 중인 모드:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
@@ -4003,7 +4008,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="99"/>
         <source>Add</source>
-        <translation type="unfinished">모드 추가</translation>
+        <translation>모드 추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="104"/>
@@ -4100,7 +4105,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="415"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>강제 종료</translation>
     </message>
 </context>
 <context>
@@ -4163,17 +4168,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="131"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>유효한 버전이 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="187"/>
         <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>유효한 버전이 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="188"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>잘못된 버전을 선택할 수 없습니다:(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
@@ -4192,7 +4197,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 오류가 발생했습니다. 모드를 불러올 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="202"/>
@@ -4352,7 +4357,8 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="98"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>뉴스 RSS 피드를 불러오지 못했습니다:
+%1</translation>
     </message>
 </context>
 <context>
@@ -4361,7 +4367,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="56"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>무제</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="25"/>
@@ -4429,12 +4435,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="9"/>
         <source>Creating offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 계정을 생성 중입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="17"/>
         <source>Created offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>오프라인 계정을 생성했습니다.</translation>
     </message>
 </context>
 <context>
@@ -4583,17 +4589,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="37"/>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 에 업로드 중</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="58"/>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>네트워크 오류: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="65"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>오류: %1 이(가) 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
     </message>
 </context>
 <context>
@@ -4865,7 +4871,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>웹사이트</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="71"/>
@@ -4923,7 +4929,7 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">선택된 자바 실행 파일이 예측되지 않은 다음 결과를 반환하였습니다:&lt;br /&gt;</translation>
+        <translation>선택된 자바 실행 파일이 예측되지 않은 다음 결과를 반환하였습니다:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="313"/>
@@ -5104,9 +5110,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">당신은 수동으로 JVM 메모리 옵션을 설정하려 했습니다(&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 또는 &quot;-Xms&quot; 사용).
+        <translation>당신은 수동으로 JVM 메모리 옵션을 설정하려 했습니다(&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 또는 &quot;-Xms&quot; 사용).
 설정에 메모리 설정을 위한 전용 옵션들이 있습니다. (자바 탭 가장 위쪽의 메모리 그룹).
-수동 설정은 전용 옵션에 의해 재정의 될 것입니다. 이 메세지는 JVM 명령줄 인수에서 메모리 옵션을 지울때까지 표시됩니다.</translation>
+수동 설정은 전용 옵션에 의해 재정의 될 것입니다. 이 메시지는 JVM 명령줄 인수에서 메모리 옵션을 지울때까지 표시됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="15"/>
@@ -5118,7 +5124,8 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="22"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM에 자바 버전 인수를 전달하려고 했습니다(&quot;-version:xxx&quot; 사용). 이것은 안전하지 않으며 허용하지 않습니다.
+이 메시지는 JVM 명령줄 인수를 제거할 때까지 표시됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="37"/>
@@ -5134,13 +5141,13 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="54"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">지정된 자바 실행 파일에 제공된 명령행 인수들을 적용하여 실행하지 못하였습니다:&lt;br /&gt;</translation>
+        <translation>지정된 자바 실행 파일에 제공된 명령행 인수들을 적용하여 실행하지 못하였습니다:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">지정된 자바 바이너리는 동작하지 않습니다.&lt;br /&gt;자동감지 기능을 사용하거나, path 환경 변수에 자바 실행파일 경로를 추가하세요.&lt;br /&gt;</translation>
+        <translation>지정된 자바 바이너리는 작동하지 않습니다.&lt;br /&gt;자동감지 기능을 사용하거나, path 환경 변수에 자바 실행파일 경로를 추가하세요.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
@@ -5223,7 +5230,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="14"/>
         <source>Confirm mod selection</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 선택 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="26"/>
@@ -5233,7 +5240,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="26"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>파일명: %1</translation>
     </message>
 </context>
 <context>
@@ -5626,7 +5633,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">팩 manifest를 해석하지 못함:
+        <translation>팩 manifest를 해석하지 못함:
 </translation>
     </message>
     <message>
@@ -5672,7 +5679,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">&quot;bin/modpack.jar&quot;에서 &quot;version.json&quot;을 찾지 못하였으며, 수동으로 선택하지도 않아 마인크래프트 버전을 알 수 없음</translation>
+        <translation>&quot;bin/modpack.jar&quot;에서 &quot;version.json&quot;을 찾지 못하였으며, 수동으로 선택하지도 않아 마인크래프트 버전을 알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -5970,12 +5977,13 @@ inheritsFrom 누락됨</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>이 인스턴스는 자바 버전 %1 과 호환되지 않습니다.
+다음 자바 버전 중 하나로 변경하세요:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>자바 버전 %1</translation>
     </message>
 </context>
 <context>
@@ -6267,7 +6275,8 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>하나 이상의 계정을 추가하지 않으면 마인크래프트 다운로드 또는 인스턴스 업데이트를 할 수 없습니다.
+모장 또는 마인크래프트 계정을 추가하세요.</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -6318,7 +6327,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="513"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>퀼트 로더 버전을 불러오거나 다운로드할 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
@@ -6489,27 +6498,27 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>크기</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
         <source>The name of the world.</source>
-        <translation>월드 이름입니다.</translation>
+        <translation>세계 이름입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Game mode of the world.</source>
-        <translation>월드의 게임 모드입니다.</translation>
+        <translation>세계의 게임 모드입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Date and time the world was last played.</source>
-        <translation>월드가 마지막으로 플레이 된 날짜와 시각.</translation>
+        <translation>세계가 마지막으로 플레이 된 날짜와 시각.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>디스크에 있는 세계의 크기입니다.</translation>
     </message>
 </context>
 <context>
@@ -6567,7 +6576,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>월드 아이콘을 제거하여 다음 번 실행시 게임이 이를 다시 만들도록 합니다.</translation>
+        <translation>세계 아이콘을 제거하여 다음 번 실행시 게임이 이를 다시 만들도록 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
@@ -6577,12 +6586,12 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
         <source>Manage datapacks inside the world.</source>
-        <translation>월드에 있는 데이터팩 관리하기.</translation>
+        <translation>세계에 있는 데이터팩 관리하기.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="65"/>
         <source>Worlds</source>
-        <translation>월드</translation>
+        <translation>세계</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="130"/>
@@ -6600,8 +6609,8 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
 The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
-        <translation>이 작업은 선택된 월드를 완전히 제거할 것입니다.
-이 월드는 시공 속으로 사라지는 겁니다.
+        <translation>이 작업은 선택한 세계를 완전히 제거합니다.
+이 세계는 영원히 사라질 겁니다.
 
 그래도 계속하시겠습니까?</translation>
     </message>
@@ -6632,30 +6641,30 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="357"/>
         <source>Select a Minecraft world zip</source>
-        <translation>마인크래프트 월드 zip 선택하기</translation>
+        <translation>마인크래프트 세계 zip 선택하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="358"/>
         <source>Minecraft World Zip File (*.zip)</source>
-        <translation>마인크래프트 월드 zip 파일 (*.zip)</translation>
+        <translation>마인크래프트 세계 zip 파일 (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Copy World</source>
-        <translation>월드 복사하기</translation>
+        <translation>세계 복사하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation>마인크래프트가 실행중인 동안 월드를 수정하는 것은 잠재적으로 위험합니다.
+        <translation>마인크래프트가 실행중인 동안 세계를 수정하는 것은 잠재적으로 위험합니다.
 그래도 계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
         <source>World name</source>
-        <translation>월드 이름</translation>
+        <translation>세계 이름</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
@@ -6665,7 +6674,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
         <source>Enter a new world name.</source>
-        <translation>새로운 월드 이름을 입력하세요.</translation>
+        <translation>새로운 세계 이름을 입력하세요.</translation>
     </message>
 </context>
 <context>
