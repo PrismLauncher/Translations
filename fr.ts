@@ -6,7 +6,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>Pastebin URL</source>
-        <translation type="unfinished">URL Pastebin</translation>
+        <translation>URL Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
@@ -29,27 +29,27 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>Microsoft Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Authentification Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note : vous n&apos;avez probablement pas besoin de définir ceci si la connexion via l&apos;authentification Microsoft fonctionne déjà.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Par défaut)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez une ID de client personnalisée pour l&apos;authentification Microsoft ici. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -110,7 +110,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="474"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Échec d&apos;ouverture des configurations du pack %1&#x202f;!</translation>
+        <translation>Échec d&apos;ouverture des configurations du pack %1 !</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="504"/>
@@ -286,7 +286,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
@@ -408,7 +408,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un compte hors ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -435,7 +435,7 @@ Si vous êtes nouveau ici, vous pouvez cliquer sur le bouton &quot;Ajouter&quot;
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune ID d&apos;authentification Microsoft n&apos;a été définie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -459,7 +459,9 @@ Si vous êtes nouveau ici, vous pouvez cliquer sur le bouton &quot;Ajouter&quot;
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Les comptes Microsoft ne sont utilisables que sur macOS 10.13 ou plus récent, et avec %1 entièrement mis à jour.
+
+Veuillez mettre à jour votre système d&apos;exploitation et %1.</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
@@ -472,17 +474,17 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez ajouter un compte Microsoft ou Mojang possédant Minecraft avant de pouvoir ajouter un compte hors ligne. &lt;br&gt;&lt;br&gt;Si vous avez perdu votre compte vous pouvez contacter le support Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="204"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez entrer le nom d&apos;utilisateur voulu pour votre compte hors ligne.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="303"/>
@@ -515,7 +517,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>L’ID du client a changé. Une nouvelle session doit être créée.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -594,19 +596,19 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Trier par popularité</translation>
+        <translation>Trier par popularité</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Trier par nom</translation>
+        <translation>Trier par nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Trier par version du jeu</translation>
+        <translation>Trier par version du jeu</translation>
     </message>
 </context>
 <context>
@@ -653,7 +655,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Rechercher et filtrer...</translation>
+        <translation>Rechercher et filtrer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
@@ -668,7 +670,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Impossible de charger ou télécharger les listes de versions&#x202f;!</translation>
+        <translation>Impossible de charger ou télécharger les listes de versions !</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -811,7 +813,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Les commandes de pré-lancement s&apos;exécutent avant le lancement de l&apos;instance, et les commandes de post-arrêt s&apos;exécutent après qu&apos;il ferme.&lt;/p&gt;&lt;p&gt;Les deux vont être exécuté dans le fichier de travail de PolyMC avec des variables environnementales supplémentaires&#x202f;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (Nom du fichier)&lt;/li&gt;&lt;li&gt;$INST_DIR - Chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Le binaire de Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Paramètres de la ligne de commande utilisés pour le lancement&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande wrapper permet de démarrer en utilisant un programme externe (exemple&#x202f;: &apos;optirun&apos; sur Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Les commandes de pré-lancement s&apos;exécutent avant le lancement de l&apos;instance, et les commandes de post-arrêt s&apos;exécutent après qu&apos;il ferme.&lt;/p&gt;&lt;p&gt;Les deux vont être exécuté dans le fichier de travail de PolyMC avec des variables environnementales supplémentaires :&lt;/p&gt; &lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (Nom du fichier)&lt;/li&gt;&lt;li&gt;$INST_DIR - Chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Le binaire de Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Paramètres de la ligne de commande utilisés pour le lancement&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande wrapper permet de démarrer en utilisant un programme externe (exemple : &apos;optirun&apos; sur Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1576,7 +1578,7 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="380"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation>Type de paquet inconnu ou pas pris en charge pour&#x202f;: %1</translation>
+        <translation>Type de paquet inconnu ou pas pris en charge pour : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="400"/>
@@ -3652,7 +3654,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1787"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished">Voulez-vous vraiment supprimer le groupe %1?</translation>
+        <translation type="unfinished">Voulez-vous vraiment supprimer le groupe %1 ?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -4871,7 +4873,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="169"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Remarque&#x202f;: le nom d&apos;utilisateur et le mot de passe du proxy sont stockés en texte brut à l&apos;intérieur du fichier de configuration du launcher&#x202f;!</translation>
+        <translation>Remarque : le nom d&apos;utilisateur et le mot de passe du proxy sont stockés en texte brut à l&apos;intérieur du fichier de configuration du launcher !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="59"/>
@@ -5163,7 +5165,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">Vous avez essayé de définir manuellement une option de mémoire JVM (en utilisant &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; ou &quot;-Xms&quot;).
+        <translation>Vous avez essayé de définir manuellement une option de mémoire JVM (en utilisant &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; ou &quot;-Xms&quot;).
 Des cases leur sont réservées dans les paramètres (onglet &quot;Java&quot;, dans la section &quot;Mémoire&quot; en haut).
 Ce message sera affiché jusqu&apos;à ce que vous les retiriez des arguments JVM.</translation>
     </message>
@@ -5662,7 +5664,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Resolving modpack files:
 %1</source>
-        <translation type="vanished">Résolution des fichiers du pack de mods&#x202f;:
+        <translation type="vanished">Résolution des fichiers du pack de mods :
 %1</translation>
     </message>
     <message>
