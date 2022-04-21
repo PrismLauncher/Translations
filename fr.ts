@@ -3109,7 +3109,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrir l&apos;espace Matrix de %1</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -3228,7 +3228,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Espace &amp;Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
@@ -3932,12 +3932,12 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Télécharger des mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="82"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmer les mods à télécharger</translation>
     </message>
 </context>
 <context>
@@ -3946,7 +3946,8 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ModDownloadTask.cpp" line="9"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Téléchargement des mods :
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="11"/>
@@ -3959,7 +3960,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versions de Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="27"/>
@@ -4105,17 +4106,17 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Téléchargement des mods depuis une plateforme de mods en ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="178"/>
         <source>Add .jar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajouter un .jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="179"/>
         <source>Add mods via local file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajouter un mod via un fichier local</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
@@ -4147,7 +4148,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="415"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annuler</translation>
     </message>
 </context>
 <context>
@@ -4190,12 +4191,12 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="205"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionner le mod à télécharger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Options de filtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="114"/>
@@ -4205,7 +4206,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="123"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chargement des versions...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="131"/>
@@ -4411,7 +4412,7 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="56"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sans nom</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="25"/>
