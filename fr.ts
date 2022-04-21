@@ -2429,7 +2429,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Plat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
@@ -2449,17 +2449,17 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Outils</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>La barre de menus est plus pratique pour une utilisation clavier.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Replace toolbar with menubar</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplacer la barre d&apos;outils avec la barre de menus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="361"/>
@@ -2532,7 +2532,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous continuer quand même ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
@@ -3171,17 +3171,17 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="593"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barre des actualités</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="598"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus d&apos;actualités...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="599"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrez le blog de développement pour lire plus d&apos;actualités à propos de %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="752"/>
@@ -3196,34 +3196,34 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="267"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tuer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="272"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lancer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="289"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajouter une Instanc&amp;e...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="316"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">D&amp;ossiers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
         <source>Report a &amp;Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Signaler un &amp;Bug...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
@@ -3233,78 +3233,78 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Serveur &amp;Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="374"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;A propos de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mise-à-jour...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="393"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miaou</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Configurer les Comptes...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="481"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fichier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="504"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Voir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="510"/>
         <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Profils</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="513"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="537"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fermer la Fenêtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ferme la fenêtre actuelle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
         <source>%1 He&amp;lp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 Aide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="546"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvre le wiki de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="552"/>
         <source>%1 &amp;News</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 Actualités</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
@@ -3324,32 +3324,32 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="645"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancer en m&amp;ode Hors-ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modifier l&apos;inst&amp;ance...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="653"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="658"/>
         <source>E&amp;dit Notes...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mo&amp;difier les Notes...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>View &amp;Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voir les &amp;Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>&amp;View Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Voir les Mondes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
