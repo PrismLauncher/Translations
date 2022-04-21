@@ -3412,7 +3412,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>&amp;Instance Folder</source>
-        <translation>&amp;Intanz-Ordner</translation>
+        <translation>&amp;Instanz-Ordner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="719"/>
