@@ -3999,7 +3999,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="483"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>모드가 마지막으로 수정(또는 추가) 된 날짜와 시각.</translation>
+        <translation>모드가 마지막으로 수정(또는 추가) 된 날짜와 시간입니다.</translation>
     </message>
 </context>
 <context>
@@ -5228,7 +5228,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="16"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>리소스 팩이 마지막으로 수정(또는 추가) 된 날짜와 시각.</translation>
+        <translation>리소스 팩이 마지막으로 수정(또는 추가) 된 날짜와 시간입니다.</translation>
     </message>
 </context>
 <context>
@@ -5773,7 +5773,7 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="16"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <translation>텍스쳐 팩이 마지막으로 수정(또는 추가) 된 날짜와 시각.</translation>
+        <translation>텍스쳐 팩이 마지막으로 수정(또는 추가) 된 날짜와 시간입니다.</translation>
     </message>
 </context>
 <context>
@@ -6336,7 +6336,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
         <source>Select Quilt Loader version</source>
-        <translation>퀼트 로더 버전 선택</translation>
+        <translation>퀼트 로더 버전을 선택하세요</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="512"/>
@@ -6532,7 +6532,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Date and time the world was last played.</source>
-        <translation>세계가 마지막으로 플레이 된 날짜와 시각.</translation>
+        <translation>세계가 마지막으로 플레이 된 날짜와 시간입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
