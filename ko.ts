@@ -11,7 +11,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; 또는 &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; 로 시작하는 입력만 허용됩니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; 또는 &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; 로 시작하는 URL만 입력 가능합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>Microsoft Authentication</source>
-        <translation>마이크로소프트 인증</translation>
+        <translation>Microsoft 인증</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>참고: 마이크로 소프트 인증을 통한 로그인이 이미 작동하는 경우에는 이 설정을 하지 않아도 됩니다.</translation>
+        <translation>참고: Microsoft 인증을 통한 로그인이 이미 작동하는 경우에는 이 설정을 하지 않아도 됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
@@ -36,7 +36,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>여기에 마이크로소프트 인증을 위한 사용자 지정 클라이언트 ID를 입력하십시오. </translation>
+        <translation>이곳에 Microsoft 인증을 위한 사용자 지정 클라이언트 ID를 입력합니다. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
@@ -190,7 +190,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Credits</source>
-        <translation>개발자</translation>
+        <translation>크레딧</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="222"/>
@@ -332,7 +332,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>User name of the account.</source>
-        <translation>계정 유저 이름.</translation>
+        <translation>계정의 사용자명.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="388"/>
@@ -2507,7 +2507,10 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Flatpak을 통해 임시로 부여된 인스턴스 폴더를 지정하려고 합니다.
+이 행동은 다시 시작 후 런처가 해당 디렉토리에 접근할 수 없어서 런처가 중단될 수 있는 문제가 발생하는 것으로 알려져 있습니다.
+
+Flatseal을 통해 PolyMC에 접근 권한을 부여하는 것이 좋습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
@@ -3632,7 +3635,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1929"/>
         <source>CAREFUL!</source>
-        <translation type="unfinished"></translation>
+        <translation>주의!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1930"/>
@@ -3641,7 +3644,7 @@ This is permanent and will completely delete the instance.
 
 Are you sure?</source>
         <translation>삭제 예정: %1
-이것은 영구적이며 인스턴스를 완전히 제거합니다.
+인스턴스를 완전히 제거합니다.
 
 정말 삭제하시겠습니까?</translation>
     </message>
@@ -3658,22 +3661,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2153"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation></translation>
+        <translation>두 가지 옵션이 있습니다: &lt;br/&gt; - 설정에서 인스턴스 폴더를 변경 &lt;br/&gt; - %1 설치를 다른 폴더로 이동</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2162"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>문제가 있습니다: &lt;br/&gt; - 운영체제에 의해 경고 없이 런처가 삭제될 수 있습니다 &lt;br/&gt; - 지금 런처를 종료하고 임시 폴더가 아닌 실제 위치로 추출을 합니다</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2169"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 폴더에 &apos;Rar$&apos;가 포함되어 있습니다 - 런처 아카이브를 추출하지 않았음을 의미합니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2177"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 폴더는 임시 폴더 &apos;%1&apos;에 있습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2190"/>
@@ -3943,7 +3946,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="38"/>
         <source>Major version match (unsupported)</source>
-        <translation type="unfinished"></translation>
+        <translation>주 버전 일치(지원되지 않음)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="42"/>
@@ -5957,7 +5960,7 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>마인크래프트 버전이 선택되지 않았습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
