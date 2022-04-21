@@ -456,7 +456,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>Error</source>
-        <translation type="unfinished">錯誤</translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
@@ -578,19 +578,19 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">按人氣程度排序</translation>
+        <translation>按人氣程度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">依名稱排序</translation>
+        <translation>按名稱排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">依遊戲版本排序</translation>
+        <translation>按遊戲版本排序</translation>
     </message>
 </context>
 <context>
@@ -637,7 +637,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">搜尋及篩選…</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
@@ -795,7 +795,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。&lt;/p&gt;&lt;p&gt;此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例的 ID（其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 啟動所用的 java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 啟動所用的命令列參數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的 &apos;optirun&apos;）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。&lt;/p&gt;&lt;p&gt;此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例的 ID（其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 啟動所用的 java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 啟動所用的命令列參數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的 &apos;optirun&apos;）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -818,7 +818,7 @@ Please update both your operating system and %1.</source>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">無法啟動 Minecraft！</translation>
+        <translation>無法啟動 Minecraft！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -1089,33 +1089,33 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">按精選內容排序</translation>
+        <translation>按精選內容排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">按人氣程度排序</translation>
+        <translation>按人氣程度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">按最後更新時間排序</translation>
+        <translation>按最後更新時間排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">依名稱排序</translation>
+        <translation>按名稱排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">按作者排序</translation>
+        <translation>按作者排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">按下載數量排序</translation>
+        <translation>按下載數量排序</translation>
     </message>
     <message>
         <source> by </source>
@@ -1142,7 +1142,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">搜尋及篩選…</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1152,37 +1152,37 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">按精選內容排序</translation>
+        <translation>按精選內容排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">按人氣程度排序</translation>
+        <translation>按人氣程度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">按最後更新時間排序</translation>
+        <translation>按最後更新時間排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">依名稱排序</translation>
+        <translation>按名稱排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">按作者排序</translation>
+        <translation>按作者排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">按總下載量排序</translation>
+        <translation>按總下載量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="143"/>
@@ -1196,7 +1196,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">為 Minecraft 二進位檔案建立資料夾失敗。</translation>
+        <translation>為 Minecraft 二進位檔案建立資料夾失敗。</translation>
     </message>
 </context>
 <context>
@@ -1205,19 +1205,19 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">依遊玩量排序</translation>
+        <translation>按遊玩量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">依安裝量排序</translation>
+        <translation>按安裝量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">依名稱排序</translation>
+        <translation>按名稱排序</translation>
     </message>
 </context>
 <context>
@@ -1231,7 +1231,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">搜尋及篩選…</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1420,7 +1420,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">名稱</translation>
+        <translation>名稱</translation>
     </message>
 </context>
 <context>
@@ -1540,7 +1540,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="295"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">無法為 Minecraft %1 提供推薦的 Forge 版本</translation>
+        <translation>無法為 Minecraft %1 提供推薦的 Forge 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="347"/>
@@ -2049,7 +2049,7 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">缺少能夠執行的 Java。
+        <translation>缺少能夠執行的 Java。
 請在下方選擇或是指定一個 Java 執行檔。</translation>
     </message>
 </context>
@@ -2256,7 +2256,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="430"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>終止</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="446"/>
@@ -2412,7 +2412,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
         <source>Legacy</source>
-        <translation type="unfinished">舊版</translation>
+        <translation>舊版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="288"/>
@@ -2452,12 +2452,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
         <source>Show console while the game is running?</source>
-        <translation type="unfinished">遊戲執行時顯示控制台?</translation>
+        <translation>遊戲執行時顯示控制台？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Automatically close console when the game quits?</source>
-        <translation type="unfinished">離開遊戲時自動關閉控制台?</translation>
+        <translation>離開遊戲時自動關閉控制台？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
@@ -2525,7 +2525,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="471"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation type="unfinished">[Something/錯誤] 錯誤！</translation>
+        <translation>[Something/錯誤] 錯誤！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="480"/>
@@ -2558,7 +2558,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">無法啟動 Minecraft！</translation>
+        <translation>無法啟動 Minecraft！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="166"/>
@@ -2573,13 +2573,13 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="19"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">依名稱排序</translation>
+        <translation>按名稱排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="20"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">依遊戲版本排序</translation>
+        <translation>按遊戲版本排序</translation>
     </message>
 </context>
 <context>
@@ -2649,7 +2649,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">移動解壓縮的 Minecraft 失敗！</translation>
+        <translation>移動解壓縮的 Minecraft 失敗！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="184"/>
@@ -2848,7 +2848,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">上傳記錄檔至 paste.ee - 這會保留在網路上1個月</translation>
+        <translation>上傳記錄檔至 paste.ee - 這會保留在網路上 1 個月</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -3207,12 +3207,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished">&amp;Discord Guild</translation>
+        <translation>&amp;Discord Guild</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished">Sub&amp;reddit</translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="374"/>
@@ -3308,7 +3308,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="653"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished">Ctrl+I</translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="658"/>
@@ -3338,7 +3338,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished">Ctrl+G</translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
@@ -3348,7 +3348,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="691"/>
         <source>Ctrl+M</source>
-        <translation type="unfinished">Ctrl+M</translation>
+        <translation>Ctrl+M</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="704"/>
@@ -3368,7 +3368,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished">Ctrl+E</translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
@@ -3388,7 +3388,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="736"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished">Ctrl+D</translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
@@ -3551,7 +3551,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1182"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1197"/>
@@ -3571,7 +3571,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished">Ctrl+%1</translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
@@ -3581,7 +3581,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1302"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished">Ctrl+0</translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1411"/>
@@ -3779,7 +3779,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft maximized?</source>
-        <translation type="unfinished">Minercaft 啟動時最大化?</translation>
+        <translation>Minercaft 啟動時最大化？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -3829,7 +3829,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">其他</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
@@ -3841,7 +3841,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Close the launcher after game window opens</source>
         <oldsource>Close PolyMC after game window opens</oldsource>
-        <translation type="unfinished">遊戲視窗開啟後關閉 PolyMC</translation>
+        <translation>遊戲視窗開啟後關閉啟動器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
@@ -4021,7 +4021,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="99"/>
         <source>Add</source>
-        <translation type="unfinished">新增模組</translation>
+        <translation>新增模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="104"/>
@@ -4103,7 +4103,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="395"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="402"/>
         <source>Error</source>
-        <translation type="unfinished">錯誤</translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="395"/>
@@ -4144,18 +4144,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">搜尋</translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation type="unfinished">搜尋及篩選…</translation>
+        <translation>搜尋模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished">選擇版本：</translation>
+        <translation>選擇版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
@@ -4205,7 +4205,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="200"/>
         <source>Error</source>
-        <translation type="unfinished">錯誤</translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
@@ -4286,7 +4286,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished">按關聯性排序</translation>
+        <translation>按關聯性排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
@@ -4302,13 +4302,13 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">按最近更新時間排序</translation>
+        <translation>按最近更新時間排序</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="54"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished">按最近發布時間排序</translation>
+        <translation>按最近發布時間排序</translation>
     </message>
     <message>
         <source> by </source>
@@ -4427,7 +4427,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation type="unfinished">新增帳號</translation>
+        <translation>新增帳號</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
@@ -4490,7 +4490,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation type="unfinished">上傳記錄檔至 paste.ee - 這會保留在網路上1個月.</translation>
+        <translation>上傳記錄檔至 paste.ee - 這會保留在網路上 1 個月。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4684,7 +4684,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation type="unfinished">作為預設值?</translation>
+        <translation>作為預設值？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
@@ -4938,13 +4938,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定的 java 二進位檔案未正常啟動。&lt;br /&gt;</translation>
+        <translation>指定的 java 二進位檔案未正常啟動。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定的 java 二進位檔案回傳了預期外的結果：&lt;br /&gt;</translation>
+        <translation>指定的 java 二進位檔案回傳了預期外的結果：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="313"/>
@@ -5125,7 +5125,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">您嘗試手動指定 JVM 的記憶體選項（&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; 或 &quot;-Xms&quot;）。
+        <translation>您嘗試手動指定 JVM 的記憶體選項（&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 或 &quot;-Xms&quot;）。
 這些選項在設定中有專門的欄位（在 Java 頁中，上方的 Memory 群組）。
 此訊息會持續顯示，直到您將他們從 JVM 參數中移除。</translation>
     </message>
@@ -5155,13 +5155,13 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="54"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定的 Java 二進位檔無法使用您提供的參數：&lt;br /&gt;</translation>
+        <translation>指定的 Java 二進位檔無法使用您提供的參數：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定的 Java 二進位檔無法使用。&lt;br /&gt;應使用自動偵測功能，或者設定 Java 可執行檔的路徑。&lt;br /&gt;</translation>
+        <translation>指定的 Java 二進位檔無法使用。&lt;br /&gt;應使用自動偵測功能，或者設定 Java 可執行檔的路徑。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
@@ -5692,7 +5692,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">在 &quot;bin/modpack.jar&quot; 中找不到 &quot;version.json&quot;，Minecraft 版本不明</translation>
+        <translation>在 &quot;bin/modpack.jar&quot; 中找不到 &quot;version.json&quot;，Minecraft 版本不明</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -5729,13 +5729,13 @@ inheritsFrom 參數缺失</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">選擇版本：</translation>
+        <translation>選擇版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="70"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">搜尋及篩選…</translation>
+        <translation>搜尋及篩選…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="77"/>
@@ -5840,7 +5840,7 @@ inheritsFrom 參數缺失</translation>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished">PolyMC 更新</translation>
+        <translation>啟動器更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -5969,7 +5969,7 @@ inheritsFrom 參數缺失</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">目前沒有用於 Minecraft %1 的版本</translation>
+        <translation>目前沒有用於 Minecraft %1 的版本</translation>
     </message>
 </context>
 <context>
@@ -6704,7 +6704,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished">無法獲得 %1 服務的授權。錯誤 %1。</translation>
+        <translation>無法獲得 %1 服務的授權。錯誤 %2。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
