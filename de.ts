@@ -2379,12 +2379,12 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="100"/>
         <source>I&amp;nstances:</source>
-        <translation>I&amp;nstanzen:</translation>
+        <translation>&amp;Instanzen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="120"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;amp;Mods:</translation>
+        <translation>&amp;Mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
@@ -3241,7 +3241,7 @@ Grund:
         <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="316"/>
         <source>F&amp;olders</source>
-        <translation>Or&amp;dner</translation>
+        <translation>&amp;Ordner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
@@ -3251,12 +3251,12 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
         <source>Report a &amp;Bug...</source>
-        <translation>Fehler &amp;melden...</translation>
+        <translation>&amp;Fehler melden...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
         <source>&amp;Matrix Space</source>
-        <translation>Matri&amp;x-Space</translation>
+        <translation>&amp;Matrix-Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
@@ -3286,7 +3286,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Konten verwalten...</translation>
+        <translation>Konten &amp;verwalten...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="481"/>
@@ -3321,7 +3321,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
         <source>%1 He&amp;lp</source>
-        <translation>%1 Hil&amp;fe</translation>
+        <translation>%1 &amp;Hilfe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="546"/>
@@ -3332,7 +3332,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="552"/>
         <source>%1 &amp;News</source>
-        <translation>%1 Neui&amp;gkeiten</translation>
+        <translation>%1 &amp;Neuigkeiten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
@@ -3372,7 +3372,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>View &amp;Mods</source>
-        <translation>M&amp;ods ansehen</translation>
+        <translation>Mo&amp;ds ansehen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
@@ -3382,7 +3382,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Manage &amp;Screenshots</source>
-        <translation>Screenshots ve&amp;rwalten</translation>
+        <translation>Screenshots &amp;verwalten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
@@ -3397,7 +3397,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
         <source>Minec&amp;raft Folder</source>
-        <translation>Min&amp;ecraft-Ordner</translation>
+        <translation>Minecr&amp;aft-Ordner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="691"/>
