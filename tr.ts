@@ -3400,22 +3400,22 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
         <source>Dele&amp;te Instance...</source>
-        <translation>Oturumu Si&amp;l...</translation>
+        <translation>Profili Si&amp;l...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Geridönüş</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
         <source>Cop&amp;y Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otu&amp;rumu kopyala...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="736"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
