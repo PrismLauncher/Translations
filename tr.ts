@@ -427,7 +427,7 @@ Burada yeniyseniz, &quot;Ekle&quot; düğmesine basarak Mojang veya Minecraft he
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished">Hiç Microsoft Onaylaması client ID ayarlanmamış.</translation>
+        <translation>Hiç Microsoft Onaylama client ID&apos;si ayarlanmamış.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -471,7 +471,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Çevrimdışı hesap eklemeden önce Minecraft&apos;a sahip Microsoft veya Mojang hesabı eklemelisin.&lt;br&gt;&lt;br&gt;Eğer hesabınızı kaybettiyseniz Microsoft&apos;a destek için iletişime geçebilirsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="204"/>
@@ -633,17 +633,17 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="322"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortak kod seç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="323"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortak kod:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="337"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ortak kod ayarlanmamış!</translation>
     </message>
 </context>
 <context>
@@ -1556,7 +1556,7 @@ Lütfen tekrar deneyin.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="295"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">Minecraft %1 için önerilen Forge sürümü saptanamadı</translation>
+        <translation>Minecraft %1 için önerilen Forge sürümü saptanamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="347"/>
@@ -1604,7 +1604,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modlar</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -1656,12 +1656,12 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eğer açılırsa, başlatıcı bir oturumun seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Java uyumluluk kontrolünü geç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -1966,12 +1966,12 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eğer açılırsa, başlatıcı bir oturumun seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Java uyumluluk kontrolünü geç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2065,7 +2065,7 @@ Daha sonra, Java sürümünü ayarlardan değiştirebilirsiniz.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">Henüz çalışan kurulu bir Java&apos;ya sahip değilsiniz ya da kayıp.
+        <translation>Henüz çalışan kurulu bir Java&apos;ya sahip değilsiniz ya da kayıp.
 Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atın.</translation>
     </message>
 </context>
@@ -2108,7 +2108,7 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanımsız Java değişkeni ayarlandı. Lütfen önce bunu düzeltin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -2118,7 +2118,7 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</source>
-        <translation type="unfinished">Minecraft oynayabilmek için en az 1 hesap ile oturum açman gerekiyor. Hesap eklemek için hesap yöneticisini açmak ister misin?</translation>
+        <translation>Minecraft oynayabilmek için en az 1 hesap ile oturum açman gerekiyor. Hesap eklemek için hesap yöneticisini açmak ister misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
@@ -2199,12 +2199,12 @@ Deneme sürümünü oynamak ister misiniz?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="272"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlatıcının istemci tanılaması değişti. Lütfen bu hesabı kaldırıp yeniden ekleyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="275"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>İstemci tanılama değişti</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="284"/>
@@ -2300,7 +2300,8 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala sistem kaydı yapmakt
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyunun kayıtlarına bakmayı durdu çünkü kayıdın uzunluğu %1&apos;in satırlarını geçti.
+Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve büyük ihtimal endişe verici şekilde harddisk alanı harcıyor!</translation>
     </message>
 </context>
 <context>
@@ -2426,12 +2427,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Düz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
         <source>Legacy</source>
-        <translation type="unfinished">Eski</translation>
+        <translation>Eski</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="288"/>
@@ -2446,17 +2447,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Aletler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menü çubuğu klavye kullanımı için daha kolay.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>Replace toolbar with menubar</source>
-        <translation type="unfinished"></translation>
+        <translation>Araç çubuğunu menü çubuğuyla değiştir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="361"/>
@@ -2524,12 +2525,15 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Flatpak tarafından geçici olarak izin alan bir oturum dosyasını belirtmeye çalışıyosunuz.
+Bunun problemlere yol açtığı bilinmekte. Yeniden başlatmadan sonra başlatıcı bozulabilir çünkü artık ordaki klasör yoluna izni olmayacak.
+
+Flatseal ile PolyMC&apos;ye izin verilmesi önerilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Genede devam etmek istiyor musun?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
@@ -2596,13 +2600,13 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="19"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">İsme göre sırala</translation>
+        <translation>İsme göre sırala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="20"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Oyun sürümüne göre sırala</translation>
+        <translation>Oyun sürümüne göre sırala</translation>
     </message>
 </context>
 <context>
@@ -2672,7 +2676,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">ZIP&apos;ten çıkartılmış Minecraft taşınamadı!</translation>
+        <translation>ZIP&apos;ten çıkartılmış Minecraft taşınamadı!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="184"/>
@@ -2991,7 +2995,7 @@ Sebep:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft kullanıcı doğrulama başarısız - istemci tanımlama değişti.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
@@ -3106,7 +3110,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Matrix alanı aç</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -3168,17 +3172,17 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="593"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Haberler Alet Çubuğu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="598"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha fazla haber...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="599"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geliştirme bloğunu açarak %1 hakkında daha fazla haber oku.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="752"/>
@@ -3193,115 +3197,115 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="267"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Öldür</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="272"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Başlat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="289"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oturum ekl&amp;e...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="316"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;osyalar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
         <source>Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
         <source>Report a &amp;Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir hata &amp;raporla...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Matrix Alanı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord Grubu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="374"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;%1 Hakkında</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Güncelle...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="393"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miyav</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hesapları Yönet...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="481"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dosya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="504"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Görünüm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="510"/>
         <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profiller</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="513"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yardım</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="537"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencereyi &amp;Kapat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Şuan ki pencereyi kapa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
         <source>%1 He&amp;lp</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Yar&amp;dım</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="546"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 wikisini aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="552"/>
         <source>%1 &amp;News</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Haberler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
@@ -3321,82 +3325,82 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="645"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Çevrimdışı &amp;Başlat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oturumu düzenle...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="653"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="658"/>
         <source>E&amp;dit Notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>N&amp;otları düzenle...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>View &amp;Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modları &amp;Gör</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>&amp;View Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dünyalara Bak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Manage &amp;Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran görüntülerini &amp;Yönet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Grubu değiştir...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
         <source>Minec&amp;raft Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Minec&amp;raft Dosyası</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="691"/>
         <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+M</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="704"/>
         <source>Confi&amp;g Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Confi&amp;g Dosyası</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>&amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oturum Dosyası</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="719"/>
         <source>E&amp;xport Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;turumu çıkart...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
         <source>Dele&amp;te Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oturumu Si&amp;l...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
