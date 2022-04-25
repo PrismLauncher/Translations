@@ -16,7 +16,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Burda hazır olan bir kaç yapıştırma hizmetlerini seçebilir ya da istediğiniz bir yapıştırma hizmetinin URL linkini koyabilirsiniz ancak 0x0.st ile aynı protokolü desteklemeli ki bu bir POST&apos;tur yani URL için ve dönüt parçasındaki dönüş linki için bir dosya parametresidir.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
@@ -36,12 +36,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>Buraya Microsoft Onaylaması için özel client ID&apos;yi girin. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIlar</translation>
     </message>
 </context>
 <context>
@@ -278,7 +278,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="315"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kapalı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="318"/>
@@ -400,7 +400,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Çevrimdışı ekle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -427,7 +427,7 @@ Burada yeniyseniz, &quot;Ekle&quot; düğmesine basarak Mojang veya Minecraft he
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hiç Microsoft Onaylaması client ID ayarlanmamış.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -451,7 +451,9 @@ Burada yeniyseniz, &quot;Ekle&quot; düğmesine basarak Mojang veya Minecraft he
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft hesapları sadece macOS 10.13 ile yeni sürümleri ve tamamıyla güncellenmiş %1 için kullanılabilir.
+
+Lütfen işletim sisteminizi ve %1&apos;i güncelleyin.</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
