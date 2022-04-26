@@ -373,7 +373,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
@@ -2520,7 +2520,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished">Заменить панель инструментов строкой меню</translation>
+        <translation>Заменить панель инструментов строкой меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="361"/>
@@ -2536,31 +2536,31 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Показывать консоль во время игры?</translation>
+        <translation>Показывать &amp;консоль во время игры?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Закрывать консоль при выходе из игры?</translation>
+        <translation>Закрывать консоль при выходе из игры?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Показать окно консоли при вылете игры?</translation>
+        <translation>Показать окно кон&amp;соли при вылете игры?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished">Лимит строк журнала</translation>
+        <translation>Лимит ст&amp;рок журнала</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="403"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished">Прекратить запись в журнал при его переполнении</translation>
+        <translation>Прекратить запись в журнал при его переполнении</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="416"/>
@@ -2571,7 +2571,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished">Шрифт консоли</translation>
+        <translation>Шрифт консоли</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="123"/>
@@ -3296,7 +3296,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished">Настройки...</translation>
+        <translation>Нас&amp;тройки...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
@@ -3372,7 +3372,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished">Сп&amp;равка %1</translation>
+        <translation>Сп&amp;равка %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="546"/>
@@ -3889,19 +3889,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Запускать Minecraft в полноэкранном режиме?</translation>
+        <translation>Запускать Minecraft в полноэкранном режиме?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished">Высота &amp;окна:</translation>
+        <translation>Высота окна:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished">Ширина &amp;окна:</translation>
+        <translation>Ширина окна:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -3912,13 +3912,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished">Использовать установленный в системе GLFW</translation>
+        <translation>Использовать установленный в системе &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished">Использовать установленный в системе OpenAL</translation>
+        <translation>Использовать установленный в системе &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
@@ -3929,19 +3929,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="unfinished">Показать время, проведённое в сборках</translation>
+        <translation>Показать время, проведённое в сборках</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="153"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="unfinished">Показать время, проведённое во всех сборках</translation>
+        <translation>Показать время, проведённое во всех сборках</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="unfinished">Записывать время, проведённое в сборках</translation>
+        <translation>Записывать время, проведённое в сборках</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
@@ -3958,7 +3958,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="unfinished">Закрыть лаунчер после открытия игры</translation>
+        <translation>Закрыть лаунчер по&amp;сле открытия игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
@@ -3970,7 +3970,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="unfinished">Закрыть лаунчер после остановки игры</translation>
+        <translation>Закрыть лаунчер после остановки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -4011,32 +4011,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="15"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished">Получение профиля Minecraft.</translation>
+        <translation>Получение профиля Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="21"/>
         <source>A UUID is required to get the profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>UUID требуется для получения профиля.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished">У аккаунта нет профиля Minecraft.</translation>
+        <translation>У аккаунта нет профиля Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="72"/>
         <source>Minecraft Java profile acquisition failed.</source>
-        <translation type="unfinished">Во время получения профиля Minecraft Java произошла ошибка.</translation>
+        <translation>Произошла ошибка при получении профиля Minecraft Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished">Не удалось получить ответ профиля Minecraft Java</translation>
+        <translation>Не удалось получить ответ профиля Minecraft Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="92"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished">Получение профиля Minecraft Java успешно.</translation>
+        <translation>Получение профиля Minecraft Java успешно.</translation>
     </message>
 </context>
 <context>
@@ -4095,7 +4095,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="38"/>
         <source>Major version match (unsupported)</source>
-        <translation type="unfinished"></translation>
+        <translation>Совпадение основной версии (не поддерживается)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="42"/>
@@ -4990,19 +4990,19 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SO&amp;CKS5</translation>
+        <translation>SO&amp;CKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished">HTTP</translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">Адрес и порт</translation>
+        <translation>Адрес и порт</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -5013,13 +5013,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">Имя пользователя:</translation>
+        <translation>Имя пользователя:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="155"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">Пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="169"/>
@@ -7021,12 +7021,12 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер аутентификации не отправил выбранный профиль.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер аутентификации не отправил UUID в выбранном профиле.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
