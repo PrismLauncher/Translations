@@ -5,7 +5,8 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>Pastebin URL</source>
+        <source>&amp;Pastebin URL</source>
+        <oldsource>Pastebin URL</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -20,7 +21,8 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
-        <source>Microsoft Authentication</source>
+        <source>&amp;Microsoft Authentication</source>
+        <oldsource>Microsoft Authentication</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -359,33 +361,39 @@
     <name>AccountListPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
-        <source>Add Mojang</source>
-        <translation>Agregar Mojang</translation>
+        <source>Add &amp;Mojang</source>
+        <oldsource>Add Mojang</oldsource>
+        <translation type="unfinished">Agregar Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
-        <source>Remove</source>
-        <translation>Eliminar</translation>
+        <source>Remo&amp;ve</source>
+        <oldsource>Remove</oldsource>
+        <translation type="unfinished">Eliminar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
-        <source>Set Default</source>
-        <translation>Establecer por defecto</translation>
+        <source>&amp;Set Default</source>
+        <oldsource>Set Default</oldsource>
+        <translation type="unfinished">Establecer por defecto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
-        <source>No Default</source>
-        <translation>Sin predeterminado</translation>
+        <source>&amp;No Default</source>
+        <oldsource>No Default</oldsource>
+        <translation type="unfinished">Sin predeterminado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
-        <source>Upload Skin</source>
-        <translation>Subir skin</translation>
+        <source>&amp;Upload Skin</source>
+        <oldsource>Upload Skin</oldsource>
+        <translation type="unfinished">Subir skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
-        <source>Delete Skin</source>
-        <translation>Borrar skin</translation>
+        <source>&amp;Delete Skin</source>
+        <oldsource>Delete Skin</oldsource>
+        <translation type="unfinished">Borrar skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -394,18 +402,21 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
-        <source>Add Microsoft</source>
-        <translation>Agregar Microsoft</translation>
+        <source>&amp;Add Microsoft</source>
+        <oldsource>Add Microsoft</oldsource>
+        <translation type="unfinished">Agregar Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
-        <source>Add Offline</source>
+        <source>Add &amp;Offline</source>
+        <oldsource>Add Offline</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
-        <source>Refresh</source>
-        <translation>Refrescar</translation>
+        <source>&amp;Refresh</source>
+        <oldsource>Refresh</oldsource>
+        <translation type="unfinished">Refrescar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -788,23 +799,27 @@ Please update both your operating system and %1.</source>
     <name>CustomCommands</name>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
-        <source>Cus&amp;tom Commands</source>
-        <translation>Comandos personalizados (&amp;t)</translation>
+        <source>&amp;Custom Commands</source>
+        <oldsource>Cus&amp;tom Commands</oldsource>
+        <translation type="unfinished">Comandos personalizados (&amp;t)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
-        <source>Post-exit command:</source>
-        <translation>Comando post-salida:</translation>
+        <source>P&amp;ost-exit command:</source>
+        <oldsource>Post-exit command:</oldsource>
+        <translation type="unfinished">Comando post-salida:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
-        <source>Pre-launch command:</source>
-        <translation>Comando pre-lanzamiento:</translation>
+        <source>&amp;Pre-launch command:</source>
+        <oldsource>Pre-launch command:</oldsource>
+        <translation type="unfinished">Comando pre-lanzamiento:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="64"/>
-        <source>Wrapper command:</source>
-        <translation>Comando de Wrapper:</translation>
+        <source>&amp;Wrapper command:</source>
+        <oldsource>Wrapper command:</oldsource>
+        <translation type="unfinished">Comando de Wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
@@ -924,8 +939,9 @@ Please update both your operating system and %1.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
-        <source>Text Editor:</source>
-        <translation>Editor de texto:</translation>
+        <source>&amp;Text Editor:</source>
+        <oldsource>Text Editor:</oldsource>
+        <translation type="unfinished">Editor de texto:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -1919,13 +1935,15 @@ Por favor inténtalo nuevamente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
-        <source>Minimum memory allocation:</source>
-        <translation>Asignación mínima de memoria:</translation>
+        <source>&amp;Minimum memory allocation:</source>
+        <oldsource>Minimum memory allocation:</oldsource>
+        <translation type="unfinished">Asignación mínima de memoria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
-        <source>Maximum memory allocation:</source>
-        <translation>Asignación máxima de memoria:</translation>
+        <source>Ma&amp;ximum memory allocation:</source>
+        <oldsource>Maximum memory allocation:</oldsource>
+        <translation type="unfinished">Asignación máxima de memoria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="87"/>
@@ -1944,23 +1962,27 @@ Por favor inténtalo nuevamente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="153"/>
-        <source>Java path:</source>
-        <translation>Ruta de acceso de Java:</translation>
+        <source>&amp;Java path:</source>
+        <oldsource>Java path:</oldsource>
+        <translation type="unfinished">Ruta de acceso de Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
-        <source>JVM arguments:</source>
-        <translation>Argumentos de JVM:</translation>
+        <source>J&amp;VM arguments:</source>
+        <oldsource>JVM arguments:</oldsource>
+        <translation type="unfinished">Argumentos de JVM:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="208"/>
-        <source>Auto-detect...</source>
-        <translation>Detección automática...</translation>
+        <source>&amp;Auto-detect...</source>
+        <oldsource>Auto-detect...</oldsource>
+        <translation type="unfinished">Detección automática...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="221"/>
-        <source>Test</source>
-        <translation>Probar</translation>
+        <source>&amp;Test</source>
+        <oldsource>Test</oldsource>
+        <translation type="unfinished">Probar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
@@ -1969,7 +1991,8 @@ Por favor inténtalo nuevamente.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
-        <source>Skip Java compatibility checks</source>
+        <source>&amp;Skip Java compatibility checks</source>
+        <oldsource>Skip Java compatibility checks</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2381,8 +2404,9 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
-        <source>By &amp;last launched</source>
-        <translation>Por última vez &amp;lanzado</translation>
+        <source>&amp;By last launched</source>
+        <oldsource>By &amp;last launched</oldsource>
+        <translation type="unfinished">Por última vez &amp;lanzado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="209"/>
@@ -2436,8 +2460,9 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
-        <source>Colors</source>
-        <translation>Colores</translation>
+        <source>&amp;Colors</source>
+        <oldsource>Colors</oldsource>
+        <translation type="unfinished">Colores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
@@ -2451,7 +2476,8 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
-        <source>Replace toolbar with menubar</source>
+        <source>&amp;Replace toolbar with menubar</source>
+        <oldsource>Replace toolbar with menubar</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2466,28 +2492,33 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
-        <source>Show console while the game is running?</source>
-        <translation>¿Mostrar la consola mientras el juego está corriendo?</translation>
+        <source>Show console while the game is &amp;running?</source>
+        <oldsource>Show console while the game is running?</oldsource>
+        <translation type="unfinished">¿Mostrar la consola mientras el juego está corriendo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
-        <source>Automatically close console when the game quits?</source>
-        <translation>¿Cerrar la consola automáticamente al salir del juego?</translation>
+        <source>&amp;Automatically close console when the game quits?</source>
+        <oldsource>Automatically close console when the game quits?</oldsource>
+        <translation type="unfinished">¿Cerrar la consola automáticamente al salir del juego?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
-        <source>Show console when the game crashes?</source>
-        <translation>¿Mostrar la consola cuando el juego se cierra de forma inesperada?</translation>
+        <source>Show console when the game &amp;crashes?</source>
+        <oldsource>Show console when the game crashes?</oldsource>
+        <translation type="unfinished">¿Mostrar la consola cuando el juego se cierra de forma inesperada?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
-        <source>History limit</source>
-        <translation>Límite del historial</translation>
+        <source>&amp;History limit</source>
+        <oldsource>History limit</oldsource>
+        <translation type="unfinished">Límite del historial</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="403"/>
-        <source>Stop logging when log overflows</source>
-        <translation>Dejar de registrar si el registro se sobrecarga</translation>
+        <source>&amp;Stop logging when log overflows</source>
+        <oldsource>Stop logging when log overflows</oldsource>
+        <translation type="unfinished">Dejar de registrar si el registro se sobrecarga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="416"/>
@@ -2496,8 +2527,9 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
-        <source>Console font</source>
-        <translation>Fuente de la consola</translation>
+        <source>Console &amp;font</source>
+        <oldsource>Console font</oldsource>
+        <translation type="unfinished">Fuente de la consola</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="123"/>
@@ -3049,8 +3081,9 @@ Motivo:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
-        <source>View Instance Folder</source>
-        <translation>Ver la carpeta de la instancia</translation>
+        <source>&amp;View Instance Folder</source>
+        <oldsource>View Instance Folder</oldsource>
+        <translation type="unfinished">Ver la carpeta de la instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="298"/>
@@ -3059,8 +3092,9 @@ Motivo:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="304"/>
-        <source>View Central Mods Folder</source>
-        <translation>Ver la carpeta central de mods</translation>
+        <source>View &amp;Central Mods Folder</source>
+        <oldsource>View Central Mods Folder</oldsource>
+        <translation type="unfinished">Ver la carpeta central de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="305"/>
@@ -3206,7 +3240,8 @@ Motivo:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
-        <source>Settings...</source>
+        <source>Setti&amp;ngs...</source>
+        <oldsource>Settings...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3281,7 +3316,8 @@ Motivo:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
-        <source>%1 He&amp;lp</source>
+        <source>%1 &amp;Help</source>
+        <oldsource>%1 He&amp;lp</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3785,18 +3821,21 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
-        <source>Start Minecraft maximized?</source>
-        <translation>¿Iniciar Minecraft maximizado?</translation>
+        <source>Start Minecraft &amp;maximized?</source>
+        <oldsource>Start Minecraft maximized?</oldsource>
+        <translation type="unfinished">¿Iniciar Minecraft maximizado?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
-        <source>Window hei&amp;ght:</source>
-        <translation>&amp;Alto de la ventana:</translation>
+        <source>Window &amp;height:</source>
+        <oldsource>Window hei&amp;ght:</oldsource>
+        <translation type="unfinished">&amp;Alto de la ventana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
-        <source>W&amp;indow width:</source>
-        <translation>Ancho de la &amp;ventana:</translation>
+        <source>Window &amp;width:</source>
+        <oldsource>W&amp;indow width:</oldsource>
+        <translation type="unfinished">Ancho de la &amp;ventana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -3805,13 +3844,15 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
-        <source>Use system installation of GLFW</source>
-        <translation>Usar instalación del sistema de GLFW</translation>
+        <source>Use system installation of &amp;GLFW</source>
+        <oldsource>Use system installation of GLFW</oldsource>
+        <translation type="unfinished">Usar instalación del sistema de GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
-        <source>Use system installation of OpenAL</source>
-        <translation>Usar instalación del sistema de OpenAL</translation>
+        <source>Use system installation of &amp;OpenAL</source>
+        <oldsource>Use system installation of OpenAL</oldsource>
+        <translation type="unfinished">Usar instalación del sistema de OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
@@ -3820,18 +3861,21 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
-        <source>Show time spent playing instances</source>
-        <translation>Mostrar el tiempo de juego de instancias</translation>
+        <source>Show time spent &amp;playing instances</source>
+        <oldsource>Show time spent playing instances</oldsource>
+        <translation type="unfinished">Mostrar el tiempo de juego de instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="153"/>
-        <source>Show time spent playing across all instances</source>
-        <translation>Mostrar el tiempo de juego de todas las instancias</translation>
+        <source>Show time spent playing across &amp;all instances</source>
+        <oldsource>Show time spent playing across all instances</oldsource>
+        <translation type="unfinished">Mostrar el tiempo de juego de todas las instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
-        <source>Record time spent playing instances</source>
-        <translation>Grabar el tiempo de juego de instancias</translation>
+        <source>&amp;Record time spent playing instances</source>
+        <oldsource>Record time spent playing instances</oldsource>
+        <translation type="unfinished">Grabar el tiempo de juego de instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
@@ -3846,8 +3890,8 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
-        <source>Close the launcher after game window opens</source>
-        <oldsource>Close PolyMC after game window opens</oldsource>
+        <source>&amp;Close the launcher after game window opens</source>
+        <oldsource>Close the launcher after game window opens</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3858,8 +3902,8 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
-        <source>Quit the launcher after game window closes</source>
-        <oldsource>Quit PolyMC after game window stops</oldsource>
+        <source>&amp;Quit the launcher after game window closes</source>
+        <oldsource>Quit the launcher after game window closes</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3894,6 +3938,39 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="89"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>Error en la adquisición del perfil de Minecraft Java.</translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftProfileStepMojang</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="15"/>
+        <source>Fetching the Minecraft profile.</source>
+        <translation type="unfinished">Obteniendo perfil de Minecraft.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="21"/>
+        <source>A UUID is required to get the profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
+        <source>Account has no Minecraft profile.</source>
+        <translation type="unfinished">La cuenta no tiene perfil de Minecraft.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="72"/>
+        <source>Minecraft Java profile acquisition failed.</source>
+        <translation type="unfinished">Error en la adquisición del perfil de Minecraft Java.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
+        <source>Minecraft Java profile response could not be parsed</source>
+        <translation type="unfinished">No se pudo analizar la respuesta del perfil de Minecraft Java</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="92"/>
+        <source>Minecraft Java profile acquisition succeeded.</source>
+        <translation type="unfinished">Error en la adquisición del perfil de Minecraft Java.</translation>
     </message>
 </context>
 <context>
@@ -4808,18 +4885,21 @@ Elige tu nombre cuidadosamente:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
-        <source>SOC&amp;KS5</source>
-        <translation>SOC&amp;KS5</translation>
+        <source>&amp;SOCKS5</source>
+        <oldsource>SOC&amp;KS5</oldsource>
+        <translation type="unfinished">SOC&amp;KS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
-        <source>H&amp;TTP</source>
-        <translation>H&amp;TTP</translation>
+        <source>&amp;HTTP</source>
+        <oldsource>H&amp;TTP</oldsource>
+        <translation type="unfinished">H&amp;TTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
-        <source>Address and Port</source>
-        <translation>Dirección y puerto</translation>
+        <source>&amp;Address and Port</source>
+        <oldsource>Address and Port</oldsource>
+        <translation type="unfinished">Dirección y puerto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -4828,13 +4908,15 @@ Elige tu nombre cuidadosamente:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
-        <source>Username:</source>
-        <translation>Nombre de usuario:</translation>
+        <source>&amp;Username:</source>
+        <oldsource>Username:</oldsource>
+        <translation type="unfinished">Nombre de usuario:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="155"/>
-        <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <source>&amp;Password:</source>
+        <oldsource>Password:</oldsource>
+        <translation type="unfinished">Contraseña:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="169"/>
@@ -6826,42 +6908,52 @@ Por favor, configura tu cuenta como se indica en %1.</translation>
         <translation>El server de autenticación no envió un token de acceso.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
+        <source>Authentication server didn&apos;t send a selected profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
+        <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
         <source>Authentication operation timed out.</source>
         <translation>Tiempo de espera agotado para la autenticación.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="229"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="251"/>
         <source>Authentication operation cancelled.</source>
         <translation>Autentificación cancelada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="234"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
         <translation>&lt;b&gt;Error durante la operación de SSL Handshake.&lt;/b&gt;&lt;br/&gt;Puede haber unas causas para esto:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Usas Windows y necesitas actualizar tus certificados raíz, por favor instala cualquier actualización destacada.&lt;/li&gt;&lt;li&gt;Algún dispositivo en tu red está interfiriendo con el tráfico de SSL. En ese caso, tienes problemas mayores que Minecraft.&lt;/li&gt;&lt;li&gt;Posiblemente algo más. Consulta el archivo de registro para detalles&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="252"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
         <translation>La cuenta de Mojang ya no existe. Puede que haya sido migrada a una cuenta de Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="258"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
         <translation>La operación de autenticación falló debido a un error de red: %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
         <translation>Error al analizar la respuesta JSON del servidor de autenticación: %1 en el offset %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
         <translation>Un error desconocido se produjo al intentar comunicar con el server de autenticación: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
         <source>An unknown Yggdrasil error occurred.</source>
         <translation>Se produjo un error desconocido de Yggdrasil.</translation>
     </message>

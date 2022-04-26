@@ -5,8 +5,9 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>Pastebin URL</source>
-        <translation>Pastebin 链接</translation>
+        <source>&amp;Pastebin URL</source>
+        <oldsource>Pastebin URL</oldsource>
+        <translation type="unfinished">Pastebin 链接</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
@@ -20,8 +21,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
-        <source>Microsoft Authentication</source>
-        <translation>Microsoft 身份验证</translation>
+        <source>&amp;Microsoft Authentication</source>
+        <oldsource>Microsoft Authentication</oldsource>
+        <translation type="unfinished">Microsoft 身份验证</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
@@ -359,33 +361,39 @@
     <name>AccountListPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
-        <source>Add Mojang</source>
-        <translation>添加 Mojang 账户</translation>
+        <source>Add &amp;Mojang</source>
+        <oldsource>Add Mojang</oldsource>
+        <translation type="unfinished">添加 Mojang 账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
-        <source>Remove</source>
-        <translation>移除</translation>
+        <source>Remo&amp;ve</source>
+        <oldsource>Remove</oldsource>
+        <translation type="unfinished">移除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
-        <source>Set Default</source>
-        <translation>设为默认</translation>
+        <source>&amp;Set Default</source>
+        <oldsource>Set Default</oldsource>
+        <translation type="unfinished">设为默认</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
-        <source>No Default</source>
-        <translation>无默认值</translation>
+        <source>&amp;No Default</source>
+        <oldsource>No Default</oldsource>
+        <translation type="unfinished">无默认值</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
-        <source>Upload Skin</source>
-        <translation>上传皮肤</translation>
+        <source>&amp;Upload Skin</source>
+        <oldsource>Upload Skin</oldsource>
+        <translation type="unfinished">上传皮肤</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
-        <source>Delete Skin</source>
-        <translation>删除皮肤</translation>
+        <source>&amp;Delete Skin</source>
+        <oldsource>Delete Skin</oldsource>
+        <translation type="unfinished">删除皮肤</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -394,18 +402,21 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
-        <source>Add Microsoft</source>
-        <translation>添加微软账户</translation>
+        <source>&amp;Add Microsoft</source>
+        <oldsource>Add Microsoft</oldsource>
+        <translation type="unfinished">添加微软账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
-        <source>Add Offline</source>
-        <translation>离线添加</translation>
+        <source>Add &amp;Offline</source>
+        <oldsource>Add Offline</oldsource>
+        <translation type="unfinished">离线添加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
-        <source>Refresh</source>
-        <translation>刷新账户信息</translation>
+        <source>&amp;Refresh</source>
+        <oldsource>Refresh</oldsource>
+        <translation type="unfinished">刷新账户信息</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -798,23 +809,27 @@ Please update both your operating system and PolyMC.</source>
     <name>CustomCommands</name>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
-        <source>Cus&amp;tom Commands</source>
-        <translation>自定义命令（&amp;T）</translation>
+        <source>&amp;Custom Commands</source>
+        <oldsource>Cus&amp;tom Commands</oldsource>
+        <translation type="unfinished">自定义命令（&amp;T）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
-        <source>Post-exit command:</source>
-        <translation>后执行命令：</translation>
+        <source>P&amp;ost-exit command:</source>
+        <oldsource>Post-exit command:</oldsource>
+        <translation type="unfinished">后执行命令：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
-        <source>Pre-launch command:</source>
-        <translation>预执行命令：</translation>
+        <source>&amp;Pre-launch command:</source>
+        <oldsource>Pre-launch command:</oldsource>
+        <translation type="unfinished">预执行命令：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="64"/>
-        <source>Wrapper command:</source>
-        <translation>包装命令：</translation>
+        <source>&amp;Wrapper command:</source>
+        <oldsource>Wrapper command:</oldsource>
+        <translation type="unfinished">包装命令：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
@@ -934,8 +949,9 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
-        <source>Text Editor:</source>
-        <translation>文本编辑器：</translation>
+        <source>&amp;Text Editor:</source>
+        <oldsource>Text Editor:</oldsource>
+        <translation type="unfinished">文本编辑器：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -1925,13 +1941,15 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
-        <source>Minimum memory allocation:</source>
-        <translation>最小内存分配：</translation>
+        <source>&amp;Minimum memory allocation:</source>
+        <oldsource>Minimum memory allocation:</oldsource>
+        <translation type="unfinished">最小内存分配：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
-        <source>Maximum memory allocation:</source>
-        <translation>最大内存分配：</translation>
+        <source>Ma&amp;ximum memory allocation:</source>
+        <oldsource>Maximum memory allocation:</oldsource>
+        <translation type="unfinished">最大内存分配：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="87"/>
@@ -1950,23 +1968,27 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="153"/>
-        <source>Java path:</source>
-        <translation>Java 路径：</translation>
+        <source>&amp;Java path:</source>
+        <oldsource>Java path:</oldsource>
+        <translation type="unfinished">Java 路径：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
-        <source>JVM arguments:</source>
-        <translation>JVM 参数：</translation>
+        <source>J&amp;VM arguments:</source>
+        <oldsource>JVM arguments:</oldsource>
+        <translation type="unfinished">JVM 参数：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="208"/>
-        <source>Auto-detect...</source>
-        <translation>自动检测……</translation>
+        <source>&amp;Auto-detect...</source>
+        <oldsource>Auto-detect...</oldsource>
+        <translation type="unfinished">自动检测……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="221"/>
-        <source>Test</source>
-        <translation>测试</translation>
+        <source>&amp;Test</source>
+        <oldsource>Test</oldsource>
+        <translation type="unfinished">测试</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
@@ -1975,7 +1997,8 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
-        <source>Skip Java compatibility checks</source>
+        <source>&amp;Skip Java compatibility checks</source>
+        <oldsource>Skip Java compatibility checks</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2391,8 +2414,9 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
-        <source>By &amp;last launched</source>
-        <translation>按最后启动时间（&amp;L）</translation>
+        <source>&amp;By last launched</source>
+        <oldsource>By &amp;last launched</oldsource>
+        <translation type="unfinished">按最后启动时间（&amp;L）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="209"/>
@@ -2446,8 +2470,9 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
-        <source>Colors</source>
-        <translation>颜色</translation>
+        <source>&amp;Colors</source>
+        <oldsource>Colors</oldsource>
+        <translation type="unfinished">颜色</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
@@ -2461,7 +2486,8 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
-        <source>Replace toolbar with menubar</source>
+        <source>&amp;Replace toolbar with menubar</source>
+        <oldsource>Replace toolbar with menubar</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2476,28 +2502,33 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
-        <source>Show console while the game is running?</source>
-        <translation>是否在游戏运行时显示控制台?</translation>
+        <source>Show console while the game is &amp;running?</source>
+        <oldsource>Show console while the game is running?</oldsource>
+        <translation type="unfinished">是否在游戏运行时显示控制台?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
-        <source>Automatically close console when the game quits?</source>
-        <translation>是否在游戏退出后自动关闭控制台?</translation>
+        <source>&amp;Automatically close console when the game quits?</source>
+        <oldsource>Automatically close console when the game quits?</oldsource>
+        <translation type="unfinished">是否在游戏退出后自动关闭控制台?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="387"/>
-        <source>Show console when the game crashes?</source>
-        <translation>是否在游戏崩溃时显示控制台?</translation>
+        <source>Show console when the game &amp;crashes?</source>
+        <oldsource>Show console when the game crashes?</oldsource>
+        <translation type="unfinished">是否在游戏崩溃时显示控制台?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="397"/>
-        <source>History limit</source>
-        <translation>日志行数限制</translation>
+        <source>&amp;History limit</source>
+        <oldsource>History limit</oldsource>
+        <translation type="unfinished">日志行数限制</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="403"/>
-        <source>Stop logging when log overflows</source>
-        <translation>是否在日志溢出的时候停止记录</translation>
+        <source>&amp;Stop logging when log overflows</source>
+        <oldsource>Stop logging when log overflows</oldsource>
+        <translation type="unfinished">是否在日志溢出的时候停止记录</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="416"/>
@@ -2506,8 +2537,9 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="444"/>
-        <source>Console font</source>
-        <translation>控制台字体</translation>
+        <source>Console &amp;font</source>
+        <oldsource>Console font</oldsource>
+        <translation type="unfinished">控制台字体</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="123"/>
@@ -3059,8 +3091,9 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
-        <source>View Instance Folder</source>
-        <translation>查看实例文件夹</translation>
+        <source>&amp;View Instance Folder</source>
+        <oldsource>View Instance Folder</oldsource>
+        <translation type="unfinished">查看实例文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="298"/>
@@ -3069,8 +3102,9 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="304"/>
-        <source>View Central Mods Folder</source>
-        <translation>查看公共 Mods 文件夹</translation>
+        <source>View &amp;Central Mods Folder</source>
+        <oldsource>View Central Mods Folder</oldsource>
+        <translation type="unfinished">查看公共 Mods 文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="305"/>
@@ -3221,7 +3255,8 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
-        <source>Settings...</source>
+        <source>Setti&amp;ngs...</source>
+        <oldsource>Settings...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3296,7 +3331,8 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
-        <source>%1 He&amp;lp</source>
+        <source>%1 &amp;Help</source>
+        <oldsource>%1 He&amp;lp</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3812,18 +3848,21 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
-        <source>Start Minecraft maximized?</source>
-        <translation>是否在启动时将 Minecraft 窗口最大化?</translation>
+        <source>Start Minecraft &amp;maximized?</source>
+        <oldsource>Start Minecraft maximized?</oldsource>
+        <translation type="unfinished">是否在启动时将 Minecraft 窗口最大化?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
-        <source>Window hei&amp;ght:</source>
-        <translation>窗口高度（&amp;G）：</translation>
+        <source>Window &amp;height:</source>
+        <oldsource>Window hei&amp;ght:</oldsource>
+        <translation type="unfinished">窗口高度（&amp;G）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
-        <source>W&amp;indow width:</source>
-        <translation>窗口宽度（&amp;I）：</translation>
+        <source>Window &amp;width:</source>
+        <oldsource>W&amp;indow width:</oldsource>
+        <translation type="unfinished">窗口宽度（&amp;I）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -3832,13 +3871,15 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
-        <source>Use system installation of GLFW</source>
-        <translation>使用系统中的 GLFW</translation>
+        <source>Use system installation of &amp;GLFW</source>
+        <oldsource>Use system installation of GLFW</oldsource>
+        <translation type="unfinished">使用系统中的 GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
-        <source>Use system installation of OpenAL</source>
-        <translation>使用系统中的 OpenAL</translation>
+        <source>Use system installation of &amp;OpenAL</source>
+        <oldsource>Use system installation of OpenAL</oldsource>
+        <translation type="unfinished">使用系统中的 OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
@@ -3847,18 +3888,21 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
-        <source>Show time spent playing instances</source>
-        <translation>显示单实例的游玩时间</translation>
+        <source>Show time spent &amp;playing instances</source>
+        <oldsource>Show time spent playing instances</oldsource>
+        <translation type="unfinished">显示单实例的游玩时间</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="153"/>
-        <source>Show time spent playing across all instances</source>
-        <translation>显示游玩所有实例的总时长</translation>
+        <source>Show time spent playing across &amp;all instances</source>
+        <oldsource>Show time spent playing across all instances</oldsource>
+        <translation type="unfinished">显示游玩所有实例的总时长</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
-        <source>Record time spent playing instances</source>
-        <translation>记录单实例的游玩时间</translation>
+        <source>&amp;Record time spent playing instances</source>
+        <oldsource>Record time spent playing instances</oldsource>
+        <translation type="unfinished">记录单实例的游玩时间</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
@@ -3873,8 +3917,8 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
-        <source>Close the launcher after game window opens</source>
-        <oldsource>Close PolyMC after game window opens</oldsource>
+        <source>&amp;Close the launcher after game window opens</source>
+        <oldsource>Close the launcher after game window opens</oldsource>
         <translation type="unfinished">游戏启动后关闭 PolyMC</translation>
     </message>
     <message>
@@ -3885,8 +3929,8 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
-        <source>Quit the launcher after game window closes</source>
-        <oldsource>Quit PolyMC after game window stops</oldsource>
+        <source>&amp;Quit the launcher after game window closes</source>
+        <oldsource>Quit the launcher after game window closes</oldsource>
         <translation type="unfinished">游戏关闭后退出 PolyMC</translation>
     </message>
     <message>
@@ -3921,6 +3965,39 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="89"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>Minecraft Java 版个人资料获取成功。</translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftProfileStepMojang</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="15"/>
+        <source>Fetching the Minecraft profile.</source>
+        <translation type="unfinished">获取 Minecraft 个人资料中。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="21"/>
+        <source>A UUID is required to get the profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
+        <source>Account has no Minecraft profile.</source>
+        <translation type="unfinished">此账户没有 Minecraft 个人资料。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="72"/>
+        <source>Minecraft Java profile acquisition failed.</source>
+        <translation type="unfinished">Minecraft Java 版个人资料获取失败。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
+        <source>Minecraft Java profile response could not be parsed</source>
+        <translation type="unfinished">Minecraft Java 版个人资料响应无法解析</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="92"/>
+        <source>Minecraft Java profile acquisition succeeded.</source>
+        <translation type="unfinished">Minecraft Java 版个人资料获取成功。</translation>
     </message>
 </context>
 <context>
@@ -4834,18 +4911,21 @@ Choose your name carefully:</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
-        <source>SOC&amp;KS5</source>
-        <translation>SOC&amp;KS5</translation>
+        <source>&amp;SOCKS5</source>
+        <oldsource>SOC&amp;KS5</oldsource>
+        <translation type="unfinished">SOC&amp;KS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
-        <source>H&amp;TTP</source>
-        <translation>H&amp;TTP</translation>
+        <source>&amp;HTTP</source>
+        <oldsource>H&amp;TTP</oldsource>
+        <translation type="unfinished">H&amp;TTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
-        <source>Address and Port</source>
-        <translation>地址及端口</translation>
+        <source>&amp;Address and Port</source>
+        <oldsource>Address and Port</oldsource>
+        <translation type="unfinished">地址及端口</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -4854,13 +4934,15 @@ Choose your name carefully:</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
-        <source>Username:</source>
-        <translation>用户名：</translation>
+        <source>&amp;Username:</source>
+        <oldsource>Username:</oldsource>
+        <translation type="unfinished">用户名：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="155"/>
-        <source>Password:</source>
-        <translation>密码：</translation>
+        <source>&amp;Password:</source>
+        <oldsource>Password:</oldsource>
+        <translation type="unfinished">密码：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="169"/>
@@ -6853,42 +6935,52 @@ Please set up your account according to %1.</source>
         <translation>验证服务器没有提供访问令牌（Access Token）。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="226"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
+        <source>Authentication server didn&apos;t send a selected profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
+        <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
         <source>Authentication operation timed out.</source>
         <translation>身份验证操作已超时。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="229"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="251"/>
         <source>Authentication operation cancelled.</source>
         <translation>身份验证操作已取消。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="234"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
         <translation>&lt;b&gt;SSL 握手失败。&lt;/b&gt;&lt;br/&gt;可能的原因如下：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;你正在使用 Windows 并且你需要更新你的根证书，请在系统更新处安装任何突出显示的更新。&lt;/li&gt;&lt;li&gt;或者在你的网络上有一些设备正在干扰 SSL 流量，在这种情况下，你应该比 Minecraft 无法启动更加担心。&lt;/li&gt;&lt;li&gt;可能原因还有很多，查看日志文件以获取详细信息&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="252"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
         <translation>此 Mojang 帐户不再存在，它可能已迁移至微软帐户。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="258"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
         <translation>身份验证操作因为一个网络错误而失败：%1 （%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="283"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
         <translation>解析验证服务器 JSON 回复失败：%1 在位置 %2。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="307"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
         <translation>尝试与认证服务器通信时发生未知错误：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
         <source>An unknown Yggdrasil error occurred.</source>
         <translation>发生未知 Yggdrasil 错误。</translation>
     </message>
