@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin URL</source>
         <oldsource>Pastebin URL</oldsource>
-        <translation type="unfinished">Ссылка на Pastebin</translation>
+        <translation>Ссылка на &amp;Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
@@ -27,7 +27,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">Аутентификация Microsoft</translation>
+        <translation>Аутентификация &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
@@ -367,7 +367,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">Войти через Mojang</translation>
+        <translation>Войти через &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
@@ -379,25 +379,25 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">Использовать по умолчанию</translation>
+        <translation>Использовать по умолчанию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Не использовать по умолчанию</translation>
+        <translation>Не использова&amp;ть по умолчанию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished">Загрузить скин</translation>
+        <translation>За&amp;грузить скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished">Удалить скин</translation>
+        <translation>Удалить скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -408,19 +408,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished">Войти через Microsoft</translation>
+        <translation>Войти через Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished">Добавить автономную</translation>
+        <translation>Добавить автономную</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">Обновить</translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -648,17 +648,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="322"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите код</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="323"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Код:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="337"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Код не указан!</translation>
     </message>
 </context>
 <context>
@@ -815,25 +815,25 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">Пользовательские команды</translation>
+        <translation>Пользователь&amp;ские команды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished">Команды после выхода:</translation>
+        <translation>Команды после выхода:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="54"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished">Команда перед запуском:</translation>
+        <translation>Команда перед &amp;запуском:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="64"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">Команда обёртки:</translation>
+        <translation>Команда обёртки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="77"/>
@@ -955,7 +955,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">Текстовой редактор:</translation>
+        <translation>Т&amp;екстовый редактор:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -1975,13 +1975,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished">Минимальный объем выделенной памяти:</translation>
+        <translation>Минимал&amp;ьный объем выделенной памяти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="80"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished">Максимальный объем выделенной памяти:</translation>
+        <translation>Максимальный объем выделенной памяти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="87"/>
@@ -2002,25 +2002,25 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="153"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">Путь к Java:</translation>
+        <translation>Путь к &amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
-        <translation type="unfinished">Аргументы JVM:</translation>
+        <translation>Аргументы J&amp;VM:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="208"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">Автоматический поиск...</translation>
+        <translation>Автоматический поиск...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="221"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">Проверить</translation>
+        <translation>Пров&amp;ерить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
@@ -2031,7 +2031,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished">Пропустить проверку совместимости Java</translation>
+        <translation>Пропустить проверку совместимости Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2448,7 +2448,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished">По %последним запущенным</translation>
+        <translation>По последн&amp;им запущенным</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="209"/>
@@ -2504,7 +2504,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="296"/>
         <source>&amp;Colors</source>
         <oldsource>Colors</oldsource>
-        <translation type="unfinished">Цвета</translation>
+        <translation>Цвета</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="328"/>
@@ -3132,7 +3132,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished">Открыть папку со сборками</translation>
+        <translation>Открыть папку со сборка&amp;ми</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="298"/>
@@ -3143,7 +3143,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="304"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="unfinished">Открыть общую папку модов</translation>
+        <translation>Открыть общую папку модов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="305"/>
@@ -3273,13 +3273,13 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="267"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Остановить</translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="272"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
         <source>&amp;Launch</source>
-        <translation>&amp;Запустить</translation>
+        <translation>Запустить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="289"/>
@@ -6675,7 +6675,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Обновить</translation>
+        <translation>Обновить</translation>
     </message>
 </context>
 <context>
