@@ -23,7 +23,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">微軟驗證</translation>
+        <translation>微軟驗證（&amp;M）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
@@ -33,7 +33,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>（預設）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
@@ -2406,7 +2406,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="199"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished">依上次啟動時間（&amp;L）</translation>
+        <translation>依上次啟動時間（&amp;B）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="209"/>
@@ -2446,7 +2446,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Flat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
@@ -3242,7 +3242,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished">設定…</translation>
+        <translation>設定（&amp;N）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
@@ -3318,7 +3318,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished">%1 幫助（&amp;L）</translation>
+        <translation>%1 幫助（&amp;H）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="546"/>
