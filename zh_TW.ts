@@ -1621,7 +1621,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>模組</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -3876,19 +3876,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="unfinished">顯示本實例遊玩時數</translation>
+        <translation>顯示本實例遊玩時數（&amp;P）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="153"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="unfinished">顯示所有實例總遊玩時數</translation>
+        <translation>顯示所有實例總遊玩時數（&amp;A）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="unfinished">紀錄本實例遊玩時數</translation>
+        <translation>紀錄本實例遊玩時數（&amp;R）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
@@ -3905,13 +3905,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="unfinished">遊戲視窗開啟後關閉啟動器</translation>
+        <translation>遊戲視窗開啟後關閉啟動器（&amp;C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟動器將於遊戲啟動或崩潰時自動關閉。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
@@ -4027,12 +4027,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="27"/>
         <source>Strict match (= %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>完全相符（= %1）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="34"/>
@@ -4215,7 +4215,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="415"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>終止</translation>
     </message>
 </context>
 <context>
@@ -4258,7 +4258,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="205"/>
         <source>Select mod for download</source>
-        <translation>選擇欲下載的模組</translation>
+        <translation>選取欲下載的模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
@@ -4293,7 +4293,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
         <source>Deselect mod for download</source>
-        <translation>取消選擇欲下載的模組</translation>
+        <translation>取消選取欲下載的模組</translation>
     </message>
 </context>
 <context>
@@ -4307,14 +4307,15 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="197"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>發生網路錯誤。無法載入模組。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="202"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>API 版本過於老舊！
+請更新 %1！</translation>
     </message>
 </context>
 <context>
