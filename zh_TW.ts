@@ -3836,19 +3836,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Minercaft 啟動時最大化？</translation>
+        <translation>Minecraft 啟動時將視窗最大化（&amp;M）？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished">視窗高度（&amp;I）：</translation>
+        <translation>視窗高度（&amp;H）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished">視窗寬度（&amp;W）：</translation>
+        <translation>視窗寬度（&amp;W）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -3859,13 +3859,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished">使用系統安裝的 GLFW</translation>
+        <translation>使用系統安裝的 GLFW（&amp;G）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished">使用系統安裝的 OpenAL</translation>
+        <translation>使用系統安裝的 OpenAL（&amp;O）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
@@ -6027,32 +6027,32 @@ inheritsFrom 參數缺失</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>模組載入器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>無</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
@@ -6062,12 +6062,12 @@ inheritsFrom 參數缺失</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未選取 Minecraft 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未選取模組載入器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
