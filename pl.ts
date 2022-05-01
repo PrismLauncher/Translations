@@ -2932,7 +2932,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation>Zawijaj linijki</translation>
+        <translation>Zawijaj wiersze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
