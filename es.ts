@@ -2476,7 +2476,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="276"/>
         <source>Legacy</source>
-        <translation>Legacy</translation>
+        <translation>Legado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="281"/>
@@ -3306,7 +3306,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="393"/>
         <source>&amp;Meow</source>
-        <translation>&amp;Meow</translation>
+        <translation>&amp;Miau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
@@ -6740,7 +6740,7 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
         <source>Datapacks</source>
-        <translation>Datapacks</translation>
+        <translation>Packs de datos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
