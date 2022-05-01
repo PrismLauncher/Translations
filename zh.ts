@@ -551,7 +551,7 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="686"/>
+        <location filename="src/launcher/Application.cpp" line="687"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
@@ -1973,30 +1973,40 @@ Please try again.</source>
         <translation type="unfinished">Java 路径：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="166"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
         <translation type="unfinished">JVM 参数：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation type="unfinished">自动检测……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="221"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation type="unfinished">测试</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="244"/>
+        <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="247"/>
+        <source>Skip Java &amp;Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="179"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation type="unfinished">启用时，启动器将不会检查选中的 Java 是否与实例兼容</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="182"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation type="unfinished"></translation>
@@ -2007,12 +2017,12 @@ Please try again.</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="132"/>
         <source>Select a Java version</source>
         <translation>选择一个 Java 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="145"/>
         <source>Find Java executable</source>
         <translation>寻找 Java 可执行文件</translation>
     </message>

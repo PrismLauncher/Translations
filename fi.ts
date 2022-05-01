@@ -541,7 +541,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="686"/>
+        <location filename="src/launcher/Application.cpp" line="687"/>
         <source>Settings</source>
         <translation>Asetukset</translation>
     </message>
@@ -1967,30 +1967,40 @@ Yritä uudelleen.</translation>
         <translation type="unfinished">Java-polku:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="166"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
         <translation type="unfinished">JVM-argumentit:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation type="unfinished">Tunnista automaattisesti...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="221"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation type="unfinished">Testi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="244"/>
+        <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="247"/>
+        <source>Skip Java &amp;Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="179"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="182"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation type="unfinished"></translation>
@@ -2001,12 +2011,12 @@ Yritä uudelleen.</translation>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="132"/>
         <source>Select a Java version</source>
         <translation>Valitse Java-versio</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="145"/>
         <source>Find Java executable</source>
         <translation>Etsi Java-ohjelma</translation>
     </message>

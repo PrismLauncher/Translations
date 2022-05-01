@@ -551,7 +551,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="686"/>
+        <location filename="src/launcher/Application.cpp" line="687"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
@@ -1968,30 +1968,40 @@ Lütfen tekrar deneyin.</translation>
         <translation>&amp;Java konumu:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="166"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
         <translation>JVM değişkenleri:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation>&amp;Otomatik Bul...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="221"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation>&amp;Test</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="244"/>
+        <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="247"/>
+        <source>Skip Java &amp;Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="179"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>Eğer açılırsa, başlatıcı bir oturumun seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="182"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation>&amp;Java uyumluluk kontrolünü geç</translation>
@@ -2002,12 +2012,12 @@ Lütfen tekrar deneyin.</translation>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="132"/>
         <source>Select a Java version</source>
         <translation>Bir Java sürümü seç</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="145"/>
         <source>Find Java executable</source>
         <translation>Yürütülebilir Java&apos;yı bul</translation>
     </message>

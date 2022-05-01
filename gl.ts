@@ -541,7 +541,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="686"/>
+        <location filename="src/launcher/Application.cpp" line="687"/>
         <source>Settings</source>
         <translation type="unfinished">Configuración</translation>
     </message>
@@ -1959,30 +1959,40 @@ Por favor volvao a intentar.</translation>
         <translation type="unfinished">Ruta de Java:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="166"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
         <translation type="unfinished">Parámetros da JVM:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="195"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation type="unfinished">Detección Automática...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="221"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation type="unfinished">Proba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="234"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="244"/>
+        <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="247"/>
+        <source>Skip Java &amp;Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="179"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="237"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="182"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation type="unfinished"></translation>
@@ -1993,12 +2003,12 @@ Por favor volvao a intentar.</translation>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="132"/>
         <source>Select a Java version</source>
         <translation>Escoller versión de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="145"/>
         <source>Find Java executable</source>
         <translation>Atopar executable de Java</translation>
     </message>
