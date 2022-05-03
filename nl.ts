@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin URL</source>
         <oldsource>Pastebin URL</oldsource>
-        <translation type="unfinished">Pastebin URL</translation>
+        <translation type="unfinished">&amp;Pastebin URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
@@ -17,13 +17,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hier kan uit een vaste lijst tekstplakdiensten gekozen worden. Of er kan een URL van een andere tekstplakdienst ingevuld worden als die hetzelfde protocol als 0x0.st ondersteunt: als er een POST-verzoek met een bestandsparameter naar de URL wordt gestuurd, wordt een reactie teruggestuurd met een link in de body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Hier kunt u kiezen uit een vooraf gedefinieerde lijst met plakservices, of de URL van een andere plakservice naar keuze invoeren, op voorwaarde dat deze hetzelfde protocol ondersteunt als 0x0.st, dat is POST een bestandsparameter naar de URL en retourneer een link in de antwoordtekst.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">Microsoft Authenticatie</translation>
+        <translation>Microsoft Authenticatie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
@@ -64,7 +64,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="108"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Ophalen van lokale metadata-index van &apos;%1&apos; v%2 mislukt</translation>
+        <translation type="unfinished">Ophalen van lokale metadata-index van &apos;%1&apos; v%2 mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="170"/>
