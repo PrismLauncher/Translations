@@ -652,17 +652,17 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="322"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Freigabecode aus﻿wählen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="323"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Freigabecode:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="337"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Freigabecode angegeben!</translation>
     </message>
 </context>
 <context>
@@ -2025,12 +2025,12 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn diese Option aktiviert ist, wird der Launcher nicht auffordern eine Java-Version auszuwählen, falls keine gefunden wurde.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Java &amp;Wizard überspringen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
@@ -4025,7 +4025,7 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="21"/>
         <source>A UUID is required to get the profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zum Abrufen des Profils ist eine UUID erforderlich.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
@@ -7030,12 +7030,12 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Authentifizierungsserver hat kein ausgewähltes Profil gesendet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Authentifizierungsserver hat keine UUID im ausgewählten Profil gesendet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
