@@ -219,11 +219,11 @@
             "untranslated" : 1134
         },
         "ko" : {
-            "file" : "c15230049cb9a0f585f9aeabe8b96cda9ed3db9c.class",
-            "sha1" : "c15230049cb9a0f585f9aeabe8b96cda9ed3db9c",
-            "size" : 125639,
-            "translated" : 1111,
-            "fuzzy" : 56,
+            "file" : "3aab86209ee7ea09380f1cbe672118bf2dafd878.class",
+            "sha1" : "3aab86209ee7ea09380f1cbe672118bf2dafd878",
+            "size" : 125651,
+            "translated" : 1167,
+            "fuzzy" : 0,
             "untranslated" : 8
         },
         "lb" : {
