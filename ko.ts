@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin URL</source>
         <oldsource>Pastebin URL</oldsource>
-        <translation type="unfinished">페이스트빈 URL</translation>
+        <translation>페이스트빈 URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
@@ -23,7 +23,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">Microsoft 인증</translation>
+        <translation>Microsoft 인증</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
@@ -363,37 +363,37 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">Mojang 계정 추가</translation>
+        <translation>Mojang 계정 추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">제거</translation>
+        <translation>제거</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">기본으로 설정</translation>
+        <translation>기본 계정으로 설정</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">기본 해제</translation>
+        <translation>기본 계정 해제</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished">스킨 업로드</translation>
+        <translation>스킨 업로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished">스킨 삭제</translation>
+        <translation>스킨 삭제</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -404,19 +404,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished">Microsoft 계정 추가</translation>
+        <translation>Microsoft 계정 추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished">오프라인 계정 추가</translation>
+        <translation>오프라인 계정 추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">새로고침</translation>
+        <translation>새로고침</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -803,25 +803,25 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">사용자 지정 명령어 (&amp;T)</translation>
+        <translation>사용자 지정 명령어 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished">종료 후 명령어:</translation>
+        <translation>종료 후 명령어:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished">실행 전 명령어:</translation>
+        <translation>실행 전 명령어:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">래퍼 명령어:</translation>
+        <translation>래퍼 명령어:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -943,7 +943,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">텍스트 편집기:</translation>
+        <translation>텍스트 편집기:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -1935,13 +1935,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished">메모리 최소 할당량:</translation>
+        <translation>메모리 최소 할당량:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="83"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished">메모리 최대 할당량:</translation>
+        <translation>메모리 최대 할당량:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="93"/>
@@ -1962,25 +1962,25 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">자바 경로:</translation>
+        <translation>자바 경로:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="178"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
-        <translation type="unfinished">JVM 명령줄 인수:</translation>
+        <translation>JVM 명령줄 인수:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="210"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">자동감지...</translation>
+        <translation>자동감지...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">테스트</translation>
+        <translation>테스트</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
@@ -2001,7 +2001,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="197"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished">자바 호환성 검사 무시</translation>
+        <translation>자바 호환성 검사 무시</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2417,7 +2417,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished">최근 실행 순 (&amp;L)</translation>
+        <translation>최근 실행 순 (&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="202"/>
@@ -2473,7 +2473,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="289"/>
         <source>&amp;Colors</source>
         <oldsource>Colors</oldsource>
-        <translation type="unfinished">색깔</translation>
+        <translation>색깔</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="321"/>
@@ -2489,7 +2489,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="330"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished">툴바를 메뉴바로 변경</translation>
+        <translation>툴바를 메뉴바로 변경</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="354"/>
@@ -2505,31 +2505,31 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="366"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">게임이 실행 중일 때도 콘솔을 표시할까요?</translation>
+        <translation>게임이 실행 중일 때도 콘솔을 표시할까요?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">게임 종료 시 콘솔을 자동으로 닫을까요?</translation>
+        <translation>게임 종료 시 콘솔을 자동으로 닫을까요?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">게임이 충돌했을 때도 콘솔을 표시할까요?</translation>
+        <translation>게임이 충돌했을 때도 콘솔을 표시할까요?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished">히스토리 길이 제한</translation>
+        <translation>히스토리 길이 제한</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="396"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished">로그가 오버플로우할 때에 로깅 멈추기</translation>
+        <translation>로그가 오버플로우할 때에 로깅 멈추기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
@@ -2540,7 +2540,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished">콘솔 창 폰트</translation>
+        <translation>콘솔 창 폰트</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
@@ -3097,7 +3097,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished">인스턴스 폴더 보기</translation>
+        <translation>인스턴스 폴더 보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="298"/>
@@ -3108,7 +3108,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="304"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="unfinished">중앙 모드 폴더 보기</translation>
+        <translation>중앙 모드 폴더 보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="305"/>
@@ -3256,7 +3256,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished">설정...</translation>
+        <translation>설정...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
@@ -3332,7 +3332,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished">%1 도움말</translation>
+        <translation>%1 도움말</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="546"/>
@@ -3841,19 +3841,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">마인크래프트를 최대화된 상태로 시작할까요?</translation>
+        <translation>마인크래프트를 최대화된 상태로 시작할까요?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished">창 높이 (&amp;G):</translation>
+        <translation>창 높이 (&amp;G):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished">창 너비 (&amp;I):</translation>
+        <translation>창 너비 (&amp;I):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -3864,13 +3864,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished">시스템에 설치되어 있는 GLFW 사용하기</translation>
+        <translation>시스템에 설치되어 있는 GLFW 사용하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished">시스템에 설치되어 있는 OpenAL 사용하기</translation>
+        <translation>시스템에 설치되어 있는 OpenAL 사용하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
@@ -3881,19 +3881,19 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="unfinished">인스턴스에서 플레이 한 시간 보기</translation>
+        <translation>인스턴스에서 플레이 한 시간 보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="153"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="unfinished">모든 인스턴스에서 플레이 한 시간 보기</translation>
+        <translation>모든 인스턴스에서 플레이 한 시간 보기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="unfinished">인스턴스에서 플레이 한 시간 기록</translation>
+        <translation>인스턴스에서 플레이 한 시간 기록</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
@@ -3910,7 +3910,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="unfinished">게임 창이 열리면 런처 닫기</translation>
+        <translation>게임 창이 열리면 런처 닫기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
@@ -3922,7 +3922,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="unfinished">게임 창이 닫히면 런처 종료</translation>
+        <translation>게임 창이 닫히면 런처 종료</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -3963,7 +3963,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="15"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished">마인크래프트 프로필 가져오는 중.</translation>
+        <translation>마인크래프트 프로필 가져오는 중.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="21"/>
@@ -3973,22 +3973,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished">계정에 마인크래프트 프로필이 없습니다.</translation>
+        <translation>계정에 마인크래프트 프로필이 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="72"/>
         <source>Minecraft Java profile acquisition failed.</source>
-        <translation type="unfinished">마인크래프트 Java 프로필을 획득하지 못했습니다.</translation>
+        <translation>마인크래프트 Java 프로필을 획득하지 못했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished">마인크래프트 Java 프로필의 응답을 분석할 수 없습니다</translation>
+        <translation>마인크래프트 Java 프로필의 응답을 분석할 수 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="92"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished">마인크래프트 Java 프로필을 획득했습니다.</translation>
+        <translation>마인크래프트 Java 프로필을 획득했습니다.</translation>
     </message>
 </context>
 <context>
@@ -4904,19 +4904,19 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOC&amp;KS5</translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished">H&amp;TTP</translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">주소와 포트</translation>
+        <translation>주소와 포트</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -4927,13 +4927,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">아이디:</translation>
+        <translation>아이디:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">비밀번호:</translation>
+        <translation>비밀번호:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
