@@ -1466,14 +1466,13 @@ Por favor, tente novamente.</translation>
         <translation>Importar (.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <source>Choose modpack</source>
         <translation>Selecionar modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
         <source>Zip (*.zip)</source>
-        <translation>ZIP (*.zip)</translation>
+        <translation type="vanished">ZIP (*.zip)</translation>
     </message>
 </context>
 <context>
@@ -5748,12 +5747,12 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <translation>Concluído</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="103"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="104"/>
         <source>Select Skin Texture</source>
         <translation>Selecionar textura de skin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="121"/>
         <source>No Cape</source>
         <translation>Nenhuma</translation>
     </message>

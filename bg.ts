@@ -1421,14 +1421,13 @@ Please try again.</source>
         <translation>Внеси от zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <source>Choose modpack</source>
         <translation>Избери пакет с модификации</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
         <source>Zip (*.zip)</source>
-        <translation>Архив zip (*.zip)</translation>
+        <translation type="vanished">Архив zip (*.zip)</translation>
     </message>
 </context>
 <context>
@@ -5560,12 +5559,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="103"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="104"/>
         <source>Select Skin Texture</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="121"/>
         <source>No Cape</source>
         <translation type="unfinished"></translation>
     </message>

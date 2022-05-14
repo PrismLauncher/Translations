@@ -1474,14 +1474,13 @@ Bitte versuche es erneut.</translation>
         <translation>Importiere ZIP-Datei</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
         <source>Choose modpack</source>
         <translation>Modpack auswählen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="146"/>
         <source>Zip (*.zip)</source>
-        <translation>ZIP (*.zip)</translation>
+        <translation type="vanished">ZIP (*.zip)</translation>
     </message>
 </context>
 <context>
@@ -5765,12 +5764,12 @@ Diese Meldung wird so lange angezeigt, bis Sie dieses Argument aus den JVM-Argum
         <translation>Erfolg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="103"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="104"/>
         <source>Select Skin Texture</source>
         <translation>Wähle eine Skin Textur aus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="121"/>
         <source>No Cape</source>
         <translation>Kein Umhang</translation>
     </message>
