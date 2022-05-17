@@ -1771,7 +1771,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun penceresi kapandıktan sonra başlatıcıdan çık</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -1998,12 +1998,12 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eğer açılırsa, başlatıcı size seçmeniz için Java sürümü yoksa önünüze seçenek çıkarmaz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Java Sihirbazını Geç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
@@ -2162,7 +2162,7 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Minecraft oynayabilmek için en az 1 hesap ile oturum açman gerekiyor. Hesap eklemek için hesap yöneticisini açmak ister misin?</translation>
+        <translation>Minecraft oynayabilmek için en az 1 hesap ile oturum açman gerekiyor. Hesap eklemek için hesap yöneticisini açmak ister misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
