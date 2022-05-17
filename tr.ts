@@ -1766,7 +1766,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Oyun penceresi açıldıktan sonra başlatıcıyı kapat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
