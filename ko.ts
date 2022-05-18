@@ -1419,12 +1419,37 @@ Please try again.</source>
 <context>
     <name>ImportPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
         <translation>탐색하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
+        <source>The following file types are implemented (both for local files and URLs):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
+        <source>- Curseforge modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
+        <source>- Modrinth modpacks (ZIP and mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
+        <source>- PolyMC / MultiMC exported instances (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
+        <source>- Technic modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
         <translation>로컬 파일 또는 다운로드 링크:</translation>
     </message>
@@ -1434,7 +1459,12 @@ Please try again.</source>
         <translation>Zip으로부터 읽어들이기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
+        <source>Modrinth pack (*.mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>Choose modpack</source>
         <translation>모드팩 선택</translation>
     </message>
@@ -1493,114 +1523,133 @@ Please try again.</source>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="60"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="89"/>
         <source>Downloading modpack:
 %1</source>
         <translation>모드팩 다운로드 중:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="66"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="95"/>
         <source>Modpack download</source>
         <translation>모드팩 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="125"/>
         <source>Extracting modpack</source>
         <translation>모드팩 추출 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="104"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>모드팩 압축 파일을 열 수 없음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="137"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="201"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="241"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>압축 파일이 인식 가능한 모드팩을 가지고 있지 않음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="153"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="190"/>
         <source>Failed to extract modpack</source>
         <translation>모드팩 추출 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="217"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="208"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
         <source>Instance import has been aborted.</source>
         <translation>인스턴스 읽어들이기가 중단되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="229"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="269"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>팩 manifest를 해석하지 못함:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="280"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="598"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>덮어쓰는 폴더를 이름 바꾸지 못함:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="246"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>지정된 덮어쓸 폴더 (%1)이 존재하지 않습니다. 이미 모드팩이 쓰였을지도요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="268"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="308"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Manifest의 알 수 없는 모드 로더 오류: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="319"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>읽어들이는 중 마인크래프트 버전에 있는 먼지를 청소했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="295"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation>마인크래프트 %1에 권장되는 포지 버전을 결정하지 못하였습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="347"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="387"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="626"/>
         <source>Mod download</source>
         <translation>모드 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="363"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="403"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>이 &apos;폴더&apos;는 추출을 필요로 할 지도 모릅니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="375"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="415"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>중첩된 구조, 즉 모드팩 안의 모드팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="380"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>인식불가/사용불가인 패키지 유형(PackageType) 으로 나타남: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="400"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="440"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
         <source>Downloading mods...</source>
         <translation>모드 다운로드 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="407"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>모드 ID 처리 실패:
 </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="530"/>
+        <source>Optional mod detected!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="590"/>
+        <source>Could not understand pack index:
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4382,10 +4431,71 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>Modrinth::ModpackListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
+        <source>Error</source>
+        <translation type="unfinished">오류</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <source>A network error occurred. Could not load modpacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="296"/>
+        <source>API version too old!
+Please update %1!</source>
+        <extracomment>%1 refers to the launcher itself</extracomment>
+        <translation type="unfinished">API 버전이 오래됐습니다!
+%1 을 업데이트하세요!</translation>
+    </message>
+</context>
+<context>
+    <name>ModrinthModPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
+        <source>Sort by Relevance</source>
+        <translation type="unfinished">관련성순 정렬</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
+        <source>Sort by Downloads</source>
+        <translation type="unfinished">다운로드순 정렬</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
+        <source>Sort by Follows</source>
+        <translation type="unfinished">팔로우순 정렬</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
+        <source>Sort by Last Updated</source>
+        <translation type="unfinished">업데이트순 정렬</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
+        <source>Sort by Newest</source>
+        <translation type="unfinished">최신순 정렬</translation>
+    </message>
+</context>
+<context>
     <name>ModrinthPage</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
+        <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="34"/>
+        <source>Search and filter ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="41"/>
         <source>Search</source>
-        <translation type="obsolete">검색</translation>
+        <translation type="unfinished">검색</translation>
     </message>
     <message>
         <source>Search and filter...</source>
@@ -4393,36 +4503,51 @@ Please update %1!</source>
         <translation type="obsolete">검색 및 필터...</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="obsolete">선택된 버전:</translation>
+        <translation type="unfinished">선택된 버전:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation>관련성순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation>다운로드순 정렬</translation>
+        <translation type="vanished">다운로드순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
+        <source>Sort by Total Downloads</source>
+        <translation type="unfinished">다운로드 수순 정렬</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Follows</source>
         <translation>팔로우순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>업데이트순 정렬</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="54"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="225"/>
+        <source> by </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation>최신순 정렬</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
+        <source>Modrinth</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4457,7 +4582,7 @@ Please update %1!</source>
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="145"/>
         <source>New Instance</source>
         <translation>새 인스턴스</translation>
     </message>
@@ -4472,7 +4597,7 @@ Please update %1!</source>
         <translation>이름 (&amp;N):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="69"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="70"/>
         <source>No group</source>
         <translation>그룹 없음</translation>
     </message>

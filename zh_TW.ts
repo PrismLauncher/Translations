@@ -1423,12 +1423,37 @@ Please try again.</source>
 <context>
     <name>ImportPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
         <translation>瀏覽</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
+        <source>The following file types are implemented (both for local files and URLs):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
+        <source>- Curseforge modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
+        <source>- Modrinth modpacks (ZIP and mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
+        <source>- PolyMC / MultiMC exported instances (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
+        <source>- Technic modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
         <translation>本機檔案或直接下載的連結：</translation>
     </message>
@@ -1438,7 +1463,12 @@ Please try again.</source>
         <translation>從 zip 匯入</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
+        <source>Modrinth pack (*.mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>Choose modpack</source>
         <translation>選擇模組包</translation>
     </message>
@@ -1497,114 +1527,133 @@ Please try again.</source>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="60"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="89"/>
         <source>Downloading modpack:
 %1</source>
         <translation>正在下載模組包：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="66"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="95"/>
         <source>Modpack download</source>
         <translation>模組包下載</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="125"/>
         <source>Extracting modpack</source>
         <translation>正在解壓縮模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="104"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>無法開啟提供的模組包壓縮檔。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="137"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="201"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="241"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>壓縮檔未包含已知的模組包類型。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="153"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="190"/>
         <source>Failed to extract modpack</source>
         <translation>模組包解壓縮失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="217"/>
         <source>Could not fix permissions for %1</source>
         <translation>無法修復 %1 的權限</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="208"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
         <source>Instance import has been aborted.</source>
         <translation>實例匯入已被中斷。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="229"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="269"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>無法理解模組包資訊：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="280"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="598"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>無法重新命名覆蓋的資料夾：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="246"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>找不到指定的目錄（%1）以覆寫。或許有模組包已經使用過了？</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="268"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="308"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>在資訊中的未知模組載入器：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="319"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>匯入包裝時移除了Minecraft版本的追蹤點。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="295"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation>無法為 Minecraft %1 提供推薦的 Forge 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="347"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="387"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="626"/>
         <source>Mod download</source>
         <translation>模組包下載</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="363"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="403"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>這個「資料夾」可能需要解壓縮：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="375"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="415"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>巢狀模組包尚未實作，未下載任何東西：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="380"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>此為 無法辨識的/無法處理的 包裝類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="400"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="440"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
         <source>Downloading mods...</source>
         <translation>正在下載模組包…</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="407"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>無法解析模組 IDs：
 </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="530"/>
+        <source>Optional mod detected!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="590"/>
+        <source>Could not understand pack index:
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4386,10 +4435,71 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>Modrinth::ModpackListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
+        <source>Error</source>
+        <translation type="unfinished">錯誤</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <source>A network error occurred. Could not load modpacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="296"/>
+        <source>API version too old!
+Please update %1!</source>
+        <extracomment>%1 refers to the launcher itself</extracomment>
+        <translation type="unfinished">API 版本過於老舊！
+請更新 %1！</translation>
+    </message>
+</context>
+<context>
+    <name>ModrinthModPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
+        <source>Sort by Relevance</source>
+        <translation type="unfinished">按關聯性排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
+        <source>Sort by Downloads</source>
+        <translation type="unfinished">按下載數量排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
+        <source>Sort by Follows</source>
+        <translation type="unfinished">按追蹤數量排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
+        <source>Sort by Last Updated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
+        <source>Sort by Newest</source>
+        <translation type="unfinished">按最近發布時間排序</translation>
+    </message>
+</context>
+<context>
     <name>ModrinthPage</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
+        <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="34"/>
+        <source>Search and filter ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="41"/>
         <source>Search</source>
-        <translation type="obsolete">搜尋</translation>
+        <translation type="unfinished">搜尋</translation>
     </message>
     <message>
         <source>Search and filter...</source>
@@ -4397,40 +4507,51 @@ Please update %1!</source>
         <translation type="obsolete">搜尋及篩選…</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="obsolete">選擇版本：</translation>
+        <translation type="unfinished">選擇版本：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation>按關聯性排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation>按下載數量排序</translation>
+        <translation type="vanished">按下載數量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Follows</source>
         <translation>按追蹤數量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>按最近更新時間排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="54"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation>按最近發布時間排序</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
+        <source>Sort by Total Downloads</source>
+        <translation type="unfinished">按總下載量排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="225"/>
         <source> by </source>
-        <translation type="vanished"> 作者 </translation>
+        <translation> 作者 </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
+        <source>Modrinth</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4465,7 +4586,7 @@ Please update %1!</source>
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="145"/>
         <source>New Instance</source>
         <translation>新實例</translation>
     </message>
@@ -4480,7 +4601,7 @@ Please update %1!</source>
         <translation>名稱（&amp;N）：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="69"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="70"/>
         <source>No group</source>
         <translation>未分類</translation>
     </message>

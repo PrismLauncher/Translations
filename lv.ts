@@ -1417,12 +1417,37 @@ Lūdzu, mēģiniet vēlreiz.</translation>
 <context>
     <name>ImportPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
         <translation>Pārlūkot</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
+        <source>The following file types are implemented (both for local files and URLs):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
+        <source>- Curseforge modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
+        <source>- Modrinth modpacks (ZIP and mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
+        <source>- PolyMC / MultiMC exported instances (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
+        <source>- Technic modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
         <translation>Lokālais fails vai links lai vērstos uz lejuplādi:</translation>
     </message>
@@ -1432,7 +1457,12 @@ Lūdzu, mēģiniet vēlreiz.</translation>
         <translation>Importēt no zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
+        <source>Modrinth pack (*.mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>Choose modpack</source>
         <translation>Izvēlēties modpaku</translation>
     </message>
@@ -1491,114 +1521,133 @@ Lūdzu, mēģiniet vēlreiz.</translation>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="60"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="89"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Lejuplādē modpaku:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="66"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="95"/>
         <source>Modpack download</source>
         <translation>Modpaka lejuplāde</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="125"/>
         <source>Extracting modpack</source>
         <translation>Ekstraktē modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="104"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Nevar atvērt piegādātā modpaka zip failu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="137"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="201"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="241"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arhīvā nav atpazīstamo modpak tipu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="153"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="190"/>
         <source>Failed to extract modpack</source>
         <translation>Nesanāca ekstraktēt modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="217"/>
         <source>Could not fix permissions for %1</source>
         <translation>Nevarēja izlabot atļaujas priekš %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="208"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
         <source>Instance import has been aborted.</source>
         <translation>Instances imports tika apstādināts.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="229"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="269"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Nevarēja saprast paka manifestu:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="280"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="598"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Nevarēja parmainīt vārdu ovveride mapei:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="246"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Specificētaā override mape (%1) ir pazudusi. Varbūt modpaks jau ir izmantots iepriekš?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="268"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="308"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Nezināms modifikācijas lādētājs manifestā: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="319"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Nezināmie treilēšanās punkti noņemti no Minecraft versijam kamēr importē paku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="295"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation type="unfinished">Nevarēja kartēt ieteikto Forge versiju Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="347"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="387"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="626"/>
         <source>Mod download</source>
         <translation>Modifikācijas lejuplāde</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="363"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="403"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Šai &apos;Mapei&apos; iespējams vajadzētu ekstraktēšanu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="375"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="415"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Ligzdot modpakus nav pievienota funkcija, nekas netika lejuplādēts: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="380"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Neatpazīts/Nenoturēts Pakas Tips priekš: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="400"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="440"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
         <source>Downloading mods...</source>
         <translation>Lejuplādē modifikācijas...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="407"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Nevar atrisināt modifikācijas IDs:
 </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="530"/>
+        <source>Optional mod detected!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="590"/>
+        <source>Could not understand pack index:
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4363,10 +4412,75 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>Modrinth::ModpackListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
+        <source>Error</source>
+        <translation type="unfinished">Kļūda</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <source>A network error occurred. Could not load modpacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="296"/>
+        <source>API version too old!
+Please update %1!</source>
+        <extracomment>%1 refers to the launcher itself</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ModrinthModPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
+        <source>Sort by Relevance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
+        <source>Sort by Downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
+        <source>Sort by Follows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
+        <source>Sort by Last Updated</source>
+        <translation type="unfinished">Kārtot pēc atjauninātajiem</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
+        <source>Sort by Newest</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ModrinthPage</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
+        <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="34"/>
+        <source>Search and filter ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="41"/>
         <source>Search</source>
-        <translation type="obsolete">Meklēt</translation>
+        <translation type="unfinished">Meklēt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <source>Version selected:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search and filter...</source>
@@ -4374,36 +4488,42 @@ Please update %1!</source>
         <translation type="obsolete">Meklēt un filtrēt...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
-        <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Follows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation type="unfinished">Kārtot pēc atjauninātajiem</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="54"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
+        <source>Sort by Total Downloads</source>
+        <translation type="unfinished">Kārtot pēc kopējām lejupielādēm</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="225"/>
         <source> by </source>
-        <translation type="obsolete"> no </translation>
+        <translation type="unfinished"> no </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
+        <source>Modrinth</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4438,7 +4558,7 @@ Please update %1!</source>
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="145"/>
         <source>New Instance</source>
         <translation>Jauna Instance</translation>
     </message>
@@ -4453,7 +4573,7 @@ Please update %1!</source>
         <translation>&amp;Vārds:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="69"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="70"/>
         <source>No group</source>
         <translation>Bez grupas</translation>
     </message>

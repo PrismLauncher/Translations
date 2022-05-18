@@ -1427,12 +1427,37 @@ Per favore, prova di nuovo.</translation>
 <context>
     <name>ImportPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
         <translation>Sfoglia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
+        <source>The following file types are implemented (both for local files and URLs):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
+        <source>- Curseforge modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
+        <source>- Modrinth modpacks (ZIP and mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
+        <source>- PolyMC / MultiMC exported instances (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
+        <source>- Technic modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
         <translation>File locale o collegamento a un download diretto:</translation>
     </message>
@@ -1442,7 +1467,12 @@ Per favore, prova di nuovo.</translation>
         <translation>Importa da zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
+        <source>Modrinth pack (*.mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>Choose modpack</source>
         <translation>Scegli modpack</translation>
     </message>
@@ -1501,114 +1531,133 @@ Per favore, prova di nuovo.</translation>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="60"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="89"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Download del modpack:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="66"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="95"/>
         <source>Modpack download</source>
         <translation>Scaricando il modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="125"/>
         <source>Extracting modpack</source>
         <translation>Estraendo il modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="104"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Impossibile aprire il file modpack fornito.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="137"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="201"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="241"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>L&apos;archivio non contiene un tipo di modpack riconosciuto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="153"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="190"/>
         <source>Failed to extract modpack</source>
         <translation>Impossibile estrarre il modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="217"/>
         <source>Could not fix permissions for %1</source>
         <translation>Impossibile risolvere i permessi di %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="208"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
         <source>Instance import has been aborted.</source>
         <translation>L&apos;importazione dell&apos;istanza è stata annullata.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="229"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="269"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Impossibile interpretare il manifesto del modpack:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="280"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="598"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Impossibile rinominare la cartella degli override:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="246"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>La cartella di override specificata (%1) non esiste. Forse il modpack è già stato usato?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="268"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="308"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Mod loader sconosciuto trovato nel manifesto: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="319"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Misteriosi punti finali rimossi dalla versione di Minecraft durante l&apos;importazione del pacchetto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="295"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation type="unfinished">Impossibile elaborare la versione di Forge raccomandata per Minecraft: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="347"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="387"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="626"/>
         <source>Mod download</source>
         <translation>Download mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="363"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="403"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Questa &apos;Cartella&apos; potrebbe aver bisogno di un&apos;estrazione: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="375"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="415"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>L&apos;annidamento di pacchetti in pacchetti non è implementato, non è stato scaricato niente: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="380"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>PackageType sconosciuto/non gestito per: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="400"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="440"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
         <source>Downloading mods...</source>
         <translation>Download delle mod in corso...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="407"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Impossibile risolvere gli ID delle mod:
 </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="530"/>
+        <source>Optional mod detected!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="590"/>
+        <source>Could not understand pack index:
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4392,10 +4441,70 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>Modrinth::ModpackListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
+        <source>Error</source>
+        <translation type="unfinished">Errore</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <source>A network error occurred. Could not load modpacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="296"/>
+        <source>API version too old!
+Please update %1!</source>
+        <extracomment>%1 refers to the launcher itself</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ModrinthModPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
+        <source>Sort by Relevance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
+        <source>Sort by Downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
+        <source>Sort by Follows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
+        <source>Sort by Last Updated</source>
+        <translation type="unfinished">Ordina per ultimo aggiornamento</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
+        <source>Sort by Newest</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ModrinthPage</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
+        <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="34"/>
+        <source>Search and filter ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="41"/>
         <source>Search</source>
-        <translation type="obsolete">Cerca</translation>
+        <translation type="unfinished">Cerca</translation>
     </message>
     <message>
         <source>Search and filter...</source>
@@ -4403,35 +4512,46 @@ Please update %1!</source>
         <translation type="obsolete">Cerca e filtra ...</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="obsolete">Versione selezionata:</translation>
+        <translation type="unfinished">Versione selezionata:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
-        <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
+        <source>Sort by Total Downloads</source>
+        <translation type="unfinished">Ordina per download totali</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Follows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation type="unfinished">Ordina per ultimo aggiornamento</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="54"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="225"/>
+        <source> by </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
+        <source>Modrinth</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4467,7 +4587,7 @@ Please update %1!</source>
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="145"/>
         <source>New Instance</source>
         <translation>Nuova Istanza</translation>
     </message>
@@ -4482,7 +4602,7 @@ Please update %1!</source>
         <translation>&amp;Nome:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="69"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="70"/>
         <source>No group</source>
         <translation>Nessun gruppo</translation>
     </message>

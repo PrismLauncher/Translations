@@ -1416,12 +1416,37 @@ Vă rugăm să încercați din nou.</translation>
 <context>
     <name>ImportPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="17"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="24"/>
         <source>Browse</source>
         <translation>Răsfoiește</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
+        <source>The following file types are implemented (both for local files and URLs):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
+        <source>- Curseforge modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
+        <source>- Modrinth modpacks (ZIP and mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
+        <source>- PolyMC / MultiMC exported instances (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
+        <source>- Technic modpacks (ZIP)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
         <translation>Fișier local sau link către o descărcare directă:</translation>
     </message>
@@ -1431,7 +1456,12 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Importă din zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
+        <source>Modrinth pack (*.mrpack)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>Choose modpack</source>
         <translation>Alege modpackul</translation>
     </message>
@@ -1490,114 +1520,133 @@ Vă rugăm să încercați din nou.</translation>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="60"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="89"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Se descarcă modpackul:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="66"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="95"/>
         <source>Modpack download</source>
         <translation>Descărcare modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="125"/>
         <source>Extracting modpack</source>
         <translation>Se extrage modpackul</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="104"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Nu se poate deschide fișierul zip al modpackului furnizat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="137"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="201"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="241"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arhiva nu conţine un tip de modpack recunoscut.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="153"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="190"/>
         <source>Failed to extract modpack</source>
         <translation>Extragerea modpackului a eșuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="180"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="217"/>
         <source>Could not fix permissions for %1</source>
         <translation>Nu s-au putut repara permisiunile pentru %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="208"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
         <source>Instance import has been aborted.</source>
         <translation>Importarea instanței a fost anulata.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="229"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="269"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Nu s-a putut înțelege manifestul pachetului:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="240"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="280"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="598"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Nu s-a putut redenumi folderul pentru overrides:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="246"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Folderul de overrides specificat (%1) lipseste. Poate modpackul a fost folost deja?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="268"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="308"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Mod loader necunoscut în manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="319"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Punctele misterioase lasate in urma au fost sterse din versiunea Minecraftului in timpul importarii pachetului.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="295"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation type="unfinished">Nu s-a putut mapa versiunea de Forge recomandată pentru Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="347"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="387"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="626"/>
         <source>Mod download</source>
         <translation>Descărcare mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="363"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="403"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Acest &apos;Fisier&apos; poate sa aiba nevoie sa fie extras: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="375"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="415"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Nestingul de modpackuri in modpackuri nu este implementat, nimic nu a fost descarcat: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="380"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Pachet nerecunoscut/nemanipulat pentru: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="400"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="440"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
         <source>Downloading mods...</source>
         <translation>Se descarcă modurile...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="407"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Nu s-au putut rezolva ID-urile modurilor:
 </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="530"/>
+        <source>Optional mod detected!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="590"/>
+        <source>Could not understand pack index:
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4303,46 +4352,113 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>Modrinth::ModpackListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
+        <source>Error</source>
+        <translation type="unfinished">Eroare</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <source>A network error occurred. Could not load modpacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="296"/>
+        <source>API version too old!
+Please update %1!</source>
+        <extracomment>%1 refers to the launcher itself</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ModrinthModPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
+        <source>Sort by Relevance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
+        <source>Sort by Downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
+        <source>Sort by Follows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
+        <source>Sort by Last Updated</source>
+        <translation type="unfinished">Sorteaza dupa cea mai recenta actualizare</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
+        <source>Sort by Newest</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ModrinthPage</name>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
+        <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="34"/>
+        <source>Search and filter ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="41"/>
         <source>Search</source>
-        <translation type="obsolete">Căutare</translation>
+        <translation type="unfinished">Căutare</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="obsolete">Versiunea selectată:</translation>
+        <translation type="unfinished">Versiunea selectată:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="51"/>
-        <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Follows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation type="unfinished">Sorteaza dupa cea mai recenta actualizare</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="54"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
+        <source>Sort by Total Downloads</source>
+        <translation type="unfinished">Sortează după totalul descărcărilor</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="225"/>
         <source> by </source>
-        <translation type="obsolete"> de </translation>
+        <translation type="unfinished"> de </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
+        <source>Modrinth</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4376,7 +4492,7 @@ Please update %1!</source>
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="143"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="145"/>
         <source>New Instance</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4391,7 +4507,7 @@ Please update %1!</source>
         <translation type="unfinished">&amp;Nume:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="69"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="70"/>
         <source>No group</source>
         <translation type="unfinished">Fără grup</translation>
     </message>
