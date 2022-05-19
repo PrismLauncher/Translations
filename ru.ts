@@ -1466,27 +1466,27 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддерживаются следующие типы файлов (для локальных файлов и URL):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- Curseforge modpacks (ZIP)</source>
-        <translation>- Модпаки Curseforge (ZIP)</translation>
+        <translation>- Сборки Curseforge (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Сборки Modrinth (ZIP и mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Экспортированные сборки PolyMC / MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Сборки Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1501,12 +1501,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <source>Modrinth pack (*.mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сборка Modrinth (*.mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
         <source>Choose modpack</source>
-        <translation>Выберите мод-пак</translation>
+        <translation>Выберите сборку</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -1566,7 +1566,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="89"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Получение сборки:
+        <translation>Скачивание сборки:
 %1</translation>
     </message>
     <message>
@@ -1678,18 +1678,19 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="530"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Обнаружен необязательный мод!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished"></translation>
+        <translation>Один или несколько модов в этой сборке необязательны. Они будут скачены, но отключены по умолчанию!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="590"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось понять индекс сборки:
+</translation>
     </message>
 </context>
 <context>
@@ -1852,12 +1853,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрывать лаунчер после запуска игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти из лаунчера после закрытия игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -2248,7 +2249,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Чтобы играть в Minecraft, вам нужно войти как минимум в одну учётную запись Mojang или Minecraft. Вы хотите открыть менеджер аккаунтов, чтобы добавить аккаунт сейчас?</translation>
+        <translation>Чтобы играть в Minecraft, вам нужно войти как минимум в одну учётную запись Mojang или Minecraft. Вы хотите открыть менеджер аккаунтов, чтобы добавить аккаунт сейчас?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
@@ -4499,19 +4500,19 @@ Please update PolyMC!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла сетевая ошибка. Не удалось загрузить сборки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="296"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished">Версия API сильно устарела!
+        <translation>Версия API сильно устарела!
 Пожалуйста, обновите %1!</translation>
     </message>
 </context>
@@ -4520,27 +4521,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">Сортировать по релевантности</translation>
+        <translation>Сортировать по релевантности</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">Сортировать по скачиваниям</translation>
+        <translation>Сортировать по скачиваниям</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">Сортировать по фолловерам</translation>
+        <translation>Сортировать по фолловерам</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по обновлению</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished">Сортировать по новизне</translation>
+        <translation>Сортировать по новизне</translation>
     </message>
 </context>
 <context>
@@ -4548,12 +4549,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Примечание: сборки Modrinth все еще находятся в альфа. Некоторые вещи могут быть криво работать или не работать вообще! Используйте с осторожностью.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="34"/>
         <source>Search and filter ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск и фильтр ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="41"/>
@@ -4604,7 +4605,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Упорядочить по кол-ву загрузок</translation>
+        <translation>Упорядочить по кол-ву загрузок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="225"/>
