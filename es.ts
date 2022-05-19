@@ -559,7 +559,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="687"/>
+        <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Settings</source>
         <translation>Ajustes</translation>
     </message>
@@ -967,93 +967,93 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
         <translation>Herramientas externas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="110"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>JProfiler Folder</source>
         <translation>Carpeta de JProfiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="133"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="155"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="211"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="118"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="133"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>Error while checking JProfiler install:
 %1</source>
         <translation>Error comprobando la instalación de JProfiler:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="174"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="137"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
         <translation>La configuración de JProfiler parece ser correcta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
         <translation>Ejecutable de JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="155"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="170"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="168"/>
         <source>Error while checking JVisualVM install:
 %1</source>
         <translation>Error verificando la instalación de JVisualVM:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
         <translation>La configuración de JVisualVM parece ser correcta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit Application</source>
         <translation>Aplicación MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Folder</source>
         <translation>Carpeta de MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="196"/>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="211"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error while checking MCEdit install:
 %1</source>
         <translation>Error al verificar la instalación de MCEdit:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>MCEdit setup seems to be OK</source>
         <translation>La configuración de MCEdit parece estar correcta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
         <source>JSON Editor</source>
         <translation>Editor de JSON</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
         <source>Invalid</source>
         <translation>Inválido</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
         <translation>El archivo elegido no parece ser un ejecutable</translation>
     </message>
@@ -5341,31 +5341,31 @@ Elija su nombre cuidadosamente:</translation>
         <translation>Ningún perfil (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="366"/>
+        <location filename="src/launcher/UpdateController.cpp" line="352"/>
         <source>Update failed!</source>
         <translation>La actualizacón ha fallado!</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="367"/>
+        <location filename="src/launcher/UpdateController.cpp" line="353"/>
         <source>Rollback failed!</source>
         <translation>¡El retroceso ha fallado!</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="372"/>
+        <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
         <translation>No se pudo reemplazar el archivo %1. Los cambios se revertirán.
 Consulte el archivo de registro %2 para obtener más detalles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="382"/>
+        <location filename="src/launcher/UpdateController.cpp" line="368"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
         <translation>No se pudo borrar el archivo %1. Los cambios se revertirán.
 Consulte el archivo de registro %2 para obtener más detalles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="392"/>
+        <location filename="src/launcher/UpdateController.cpp" line="378"/>
         <source>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
 
 Roll back to previous version?</source>
@@ -5374,7 +5374,7 @@ Roll back to previous version?</source>
 ¿Volver a la versión anterior?</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="414"/>
+        <location filename="src/launcher/UpdateController.cpp" line="400"/>
         <source>The rollback failed too.
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
