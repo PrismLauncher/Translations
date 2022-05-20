@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin URL</source>
         <oldsource>Pastebin URL</oldsource>
-        <translation type="unfinished">URL di Pastebin</translation>
+        <translation>URL di Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
@@ -43,7 +43,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
         <source>APIs</source>
-        <translation>APIs</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -363,37 +363,37 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">Aggiungi Mojang</translation>
+        <translation>Aggiungi Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Rimuovi</translation>
+        <translation>Rimuovi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">Imposta predefinito</translation>
+        <translation>Imposta predefinito</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Nessun predefinito</translation>
+        <translation>Nessun predefinito</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished">Carica skin</translation>
+        <translation>Carica skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished">Elimina skin</translation>
+        <translation>Elimina skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -404,7 +404,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished">Aggiungi Microsoft</translation>
+        <translation>Aggiungi Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
@@ -416,7 +416,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">Aggiorna</translation>
+        <translation>Aggiorna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -477,7 +477,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
         <source>Error</source>
-        <translation type="unfinished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
@@ -599,19 +599,19 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ordina per popolarità</translation>
+        <translation>Ordina per popolarità</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordina per nome</translation>
+        <translation>Ordina per nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Ordina per versione di gioco</translation>
+        <translation>Ordina per versione di gioco</translation>
     </message>
 </context>
 <context>
@@ -673,7 +673,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cerca e filtra ...</translation>
+        <translation>Cerca e filtra...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
@@ -811,31 +811,31 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">Comandi Personalizzati</translation>
+        <translation>Comandi Personalizzati</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished">Comando di post-uscita:</translation>
+        <translation>Comando di post-uscita:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished">Comando di pre-avvio:</translation>
+        <translation>Comando di pre-avvio:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">Comando del wrapper:</translation>
+        <translation>Comando del wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il comando di pre-avvio viene eseguito prima che l&apos;istanza si avvii e il comando di post-uscita viene eseguito dopo che si è chiusa.&lt;/p&gt;&lt;p&gt;Entrambi saranno eseguiti nella cartella di lavoro del launcher con le variabili d&apos;ambiente:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nome dell&apos;istanza&lt;/li&gt;&lt;li&gt;$INST_ID - ID dell&apos;istanza (il nome della sua cartella)&lt;/li&gt;&lt;li&gt;$INST_DIR - percorso assoluto dell&apos;istanza&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - percorso assoluto di Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binario java usato per l&apos;avvio&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parametri a riga di comando usati per l&apos;avvio&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Il comando wrapper permette di avviare java utilizzando altri programmi wrapper (come &apos;optirun&apos; su Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il comando di pre-avvio viene eseguito prima che l&apos;istanza si avvii e il comando di post-uscita viene eseguito dopo che si è chiusa.&lt;/p&gt;&lt;p&gt;Entrambi saranno eseguiti nella cartella di lavoro del launcher con le variabili d&apos;ambiente:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nome dell&apos;istanza&lt;/li&gt;&lt;li&gt;$INST_ID - ID dell&apos;istanza (il nome della sua cartella)&lt;/li&gt;&lt;li&gt;$INST_DIR - percorso assoluto dell&apos;istanza&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - percorso assoluto di Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binario java usato per l&apos;avvio&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parametri a riga di comando usati per l&apos;avvio&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Il comando wrapper permette di avviare java utilizzando altri programmi wrapper (come &apos;optirun&apos; su Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -858,7 +858,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Impossibile avviare Minecraft!</translation>
+        <translation>Impossibile avviare Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -951,7 +951,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">Editor di Testo:</translation>
+        <translation>Editor di Testo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -991,7 +991,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished">JProfiler sembra essere essere configurato in maniera corretta</translation>
+        <translation>JProfiler sembra essere configurato correttamente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
@@ -1009,7 +1009,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished">JVisualVM sembra essere essere configurato correttamente</translation>
+        <translation>JVisualVM sembra essere configurato correttamente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
@@ -1130,33 +1130,33 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Ordina per evidenza</translation>
+        <translation>Ordina per evidenza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Ordina per popolarità</translation>
+        <translation>Ordina per popolarità</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Ordina per ultimo aggiornamento</translation>
+        <translation>Ordina per ultimo aggiornamento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ordina per nome</translation>
+        <translation>Ordina per nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">Ordina per autore</translation>
+        <translation>Ordina per autore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordina per numero di download</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1179,7 +1179,7 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cerca e filtra ...</translation>
+        <translation>Cerca e filtra...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1189,37 +1189,37 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="59"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Ordina per evidenza</translation>
+        <translation>Ordina per evidenza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ordina per popolarità</translation>
+        <translation>Ordina per popolarità</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Ordina per ultimo aggiornamento</translation>
+        <translation>Ordina per ultimo aggiornamento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordina per nome</translation>
+        <translation>Ordina per nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Ordina per autore</translation>
+        <translation>Ordina per autore</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Ordina per download totali</translation>
+        <translation>Ordina per download totali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="140"/>
@@ -1233,7 +1233,7 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Impossibile creare la cartella per i file binari di minecraft.</translation>
+        <translation>Impossibile creare la cartella per i file binari di Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -1242,19 +1242,19 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Ordina per numero di avvii</translation>
+        <translation>Ordina per numero di avvii</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Ordina per numero di installazioni</translation>
+        <translation>Ordina per numero di installazioni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordina per nome</translation>
+        <translation>Ordina per nome</translation>
     </message>
 </context>
 <context>
@@ -1268,7 +1268,7 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cerca e filtra ...</translation>
+        <translation>Cerca e filtra...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1434,27 +1434,27 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Sono implementati i seguenti tipi di file (sia per i file locali che per gli URL):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- Curseforge modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modpack di Curseforge (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modpack Mondrinth (ZIP e mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Istanze esportate PolyMC / MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modpack Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1469,7 +1469,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <source>Modrinth pack (*.mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pacchetto Modrinth (*.mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
@@ -1607,7 +1607,7 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">Impossibile elaborare la versione di Forge raccomandata per Minecraft: %1</translation>
+        <translation>Impossibile elaborare la versione di Forge consigliata per Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="387"/>
@@ -1646,18 +1646,19 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="530"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod opzionale rilevata!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished"></translation>
+        <translation>Una o più mod di questo modpack sono opzionali. Verranno scaricate, ma disabilitate per impostazione predefinita!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="590"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile capire l&apos;indice del pacchetto:
+</translation>
     </message>
 </context>
 <context>
@@ -1673,7 +1674,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -1725,12 +1726,12 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se abilitato, il launcher non verificherà se un&apos;istanza è compatibile con la versione Java selezionata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Salta i controlli di compatibilità Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -1820,12 +1821,12 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi il launcher dopo l&apos;apertura della finestra di gioco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Esci dal launcher dopo la chiusura della finestra di gioco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -2002,13 +2003,13 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished">Allocazione minima di memoria:</translation>
+        <translation>Allocazione minima di memoria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="83"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished">Allocazione massima di memoria:</translation>
+        <translation>Allocazione massima di memoria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="93"/>
@@ -2029,7 +2030,7 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">Percorso di Java:</translation>
+        <translation>Percorso di Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="178"/>
@@ -2052,23 +2053,23 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se abilitato, il launcher non ti chiederà di scegliere una versione Java se non ne viene trovata una.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salta Java e procedura guidata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se abilitato, il launcher non verificherà se un&apos;istanza è compatibile con la versione Java selezionata.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="197"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Salta i controlli di compatibilità Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2205,7 +2206,7 @@ Per favore seleziona una delle seguenti o cerca l&apos;eseguibile di Java.</tran
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Argomenti Java specificati non validi. Si prega di risolvere prima questo problema.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
