@@ -44,17 +44,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="169"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意：您可能并不需要在 CurseForge 服务正常工作的情况去设置它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
         <source>Enter a custom API Key for CurseForge here. </source>
-        <translation type="unfinished"></translation>
+        <translation>在此处输入自定义的 CurseForge API Key </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
@@ -1194,7 +1194,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意： CurseForge 的 API 非常不靠谱。CurseForge 和在这之上的许多 Mod 作者已经禁止了从第三方应用（像是 PolyMC）处下载他们的 Mod。 因此，你可能需要去手动下载这些 Mod 来配置一个 Mod 包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1455,27 +1455,27 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>被支持的文件类型如下（包括本地文件和远程 URL）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- Curseforge modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- CurseForge 整合包 (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth 整合包（ZIP 和 mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- PolyMC / MultiMC 导出的实例（ZIP）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Technic 整合包（ZIP）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1490,7 +1490,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <source>Modrinth pack (*.mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth 整合包 (*.mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
@@ -1667,18 +1667,19 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>发现了可选的模组！</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished"></translation>
+        <translation>这个整合包的一些模组是可有可无的，并且他们将会被下载但不会被默认启用。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="591"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>无法解析包索引
+</translation>
     </message>
 </context>
 <context>
@@ -1841,12 +1842,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>在游戏窗口出现后关闭启动器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>在游戏窗口关闭后退出启动器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -2078,7 +2079,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>跳过 Java 向导</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
@@ -2653,12 +2654,15 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">你正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
+这很可能会造成问题。重启后启动器可能会损坏，因为它不再能访问到那个文件夹上。
+
+我们推荐通过 Flatseal 授权 PolyMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>你还想继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -3325,35 +3329,35 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="270"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;杀死进程</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="275"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="642"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>启动</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="292"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>添加实例（&amp;e）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="319"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>文件夹（&amp;o）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="332"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>设置（&amp;n）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
         <source>Report a &amp;Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>反馈问题（&amp;B）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
@@ -3363,22 +3367,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="359"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord 公会（&amp;D）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="368"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Reddit 子论坛（&amp;r）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="377"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>关于 %1 （&amp;A）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="386"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>更新（&amp;U）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="396"/>
