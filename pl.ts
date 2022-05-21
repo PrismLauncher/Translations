@@ -1131,7 +1131,7 @@ Spróbuj ponownie.</translation>
         <translation>Odczytywanie ID modów...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Niektóre zadania odczytywania ID modów się nie powiodły.</translation>
     </message>
@@ -1218,17 +1218,22 @@ Spróbuj ponownie.</translation>
 <context>
     <name>FlamePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="52"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
         <translation>Wybrana wersja:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search</source>
         <translation>Szukaj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
+        <source>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
         <translation>Szukaj i filtruj...</translation>
@@ -1583,130 +1588,130 @@ Spróbuj ponownie.</translation>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="89"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="90"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Pobieranie modpacka:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="95"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
         <source>Modpack download</source>
         <translation>Pobieranie modpacka</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="125"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="126"/>
         <source>Extracting modpack</source>
         <translation>Rozpakowywanie modpacka</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Nie można rozpakować dostarczonego pliku zip modpacka.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="174"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="241"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="242"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Archiwum nie zawiera obsługiwanego typu modpacka.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="190"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="191"/>
         <source>Failed to extract modpack</source>
         <translation>Nie udało się rozpakować modpacka</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="217"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="218"/>
         <source>Could not fix permissions for %1</source>
         <translation>Nie można naprawić uprawnień dla %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
         <source>Instance import has been aborted.</source>
         <translation>Importowanie instancji zostało anulowane.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="269"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Nie udało się sparsować manifestu paczki:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="280"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="598"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="281"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="599"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Nie udało się zmienić nazwy wymuszonego folderu:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="286"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="287"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Określony wymuszony folder (%1) nie istnieje. Być może ten modpack był już używany?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="308"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="309"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Nieznany mod loader w pliku manifest %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="319"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="320"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Tajemnicze kropki na końcu wersji Minecraft&apos;a zostały usunięte podczas importowania paczki.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="335"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="336"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation>Nie udało się dopasować zalecanej wersji Forge dla Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="387"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="626"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="388"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="627"/>
         <source>Mod download</source>
         <translation>Pobieranie Modyfikacji</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="403"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="404"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Ten &apos;Folder&apos; może wymagać rozpakowania: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="415"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="416"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Zagnieżdżanie modpacków w modpackach nie zostało jeszcze zaimplementowane, nic nie zostało pobrane: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Nierozpoznany/nieobsłużony PackageType dla: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="440"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="441"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="651"/>
         <source>Downloading mods...</source>
         <translation>Pobieranie modów...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="448"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Nie udało się odczytać następujących ID modów:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="530"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
         <source>Optional mod detected!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="590"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="591"/>
         <source>Could not understand pack index:
 </source>
         <translation type="unfinished"></translation>
@@ -4571,12 +4576,12 @@ Proszę zaktualizować %1!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="34"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
         <source>Search and filter ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="41"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
         <source>Search</source>
         <translation>Szukaj</translation>
     </message>
@@ -4586,7 +4591,7 @@ Proszę zaktualizować %1!</translation>
         <translation type="vanished">Szukaj i filtruj...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="91"/>
         <source>Version selected:</source>
         <translation>Wybrana wersja:</translation>
     </message>
@@ -4658,9 +4663,17 @@ Proszę zaktualizować %1!</translation>
     </message>
 </context>
 <context>
+    <name>Net::Download</name>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="92"/>
+        <source>Downloading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NetJob</name>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="128"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="208"/>
         <source>Job &apos;%1&apos; failed to process:
 %2</source>
         <translation>Zadanie &apos;%1&apos; nie zostało przetworzone:
@@ -4957,17 +4970,17 @@ Proszę zaktualizować %1!</translation>
 <context>
     <name>PasteUpload</name>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="37"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="71"/>
         <source>Uploading to %1</source>
         <translation>Wyślij do %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="58"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="92"/>
         <source>Network error: %1</source>
         <translation>Błąd sieciowy: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="65"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="99"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>Błąd: %1 zwrócił nieoczekiwany kod statusu %2 %3</translation>
     </message>
@@ -5395,7 +5408,7 @@ Wybierz ostrożnie swoją nazwę:</translation>
         <translation>Plik wersji zawiera niewspierany element &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="323"/>
+        <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="343"/>
         <source>Assets for %1</source>
         <translation>Zasoby dla %1</translation>
     </message>
@@ -6151,7 +6164,7 @@ Brakuje inheritsFrom</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="407"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="442"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -6162,22 +6175,22 @@ Brakuje inheritsFrom</translation>
 łącznie: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="425"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="460"/>
         <source>Language</source>
         <translation>Język</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="429"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="464"/>
         <source>Completeness</source>
         <translation>Stan ukończenia</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="439"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="474"/>
         <source>The native language name.</source>
         <translation>Natywna nazwa języka.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="443"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Stan ukończenia jest procentem w pełni przetłumaczonych wyrażeń, nie wliczając tych automatycznie uzupełnionych.</translation>
     </message>
