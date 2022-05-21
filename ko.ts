@@ -32,6 +32,7 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="179"/>
         <source>(Default)</source>
         <translation>(기본값)</translation>
     </message>
@@ -39,6 +40,21 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation>이곳에 Microsoft 인증을 위한 사용자 지정 클라이언트 ID를 입력합니다. </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <source>&amp;CurseForge Core API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="169"/>
+        <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
+        <source>Enter a custom API Key for CurseForge here. </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
@@ -543,7 +559,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="685"/>
+        <location filename="src/launcher/Application.cpp" line="686"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>

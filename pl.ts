@@ -40,6 +40,7 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="179"/>
         <source>(Default)</source>
         <translation>(Domyślne)</translation>
     </message>
@@ -47,6 +48,21 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation>Wprowadź własne ID klienta dla uwierzytelniania Microsoft tutaj. </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <source>&amp;CurseForge Core API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="169"/>
+        <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
+        <source>Enter a custom API Key for CurseForge here. </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
@@ -559,7 +575,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="685"/>
+        <location filename="src/launcher/Application.cpp" line="686"/>
         <source>Settings</source>
         <translation>Ustawienia</translation>
     </message>
