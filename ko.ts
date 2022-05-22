@@ -49,7 +49,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="169"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>참고: CurseForge가 이미 작동하는 경우에는 이 설정을 하지않아도 됩니다.</translation>
+        <translation>참고: CurseForge가 이미 작동하는 경우에는 이 설정을 하지 않아도 됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
@@ -1186,7 +1186,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <translation>참고: CurseForge의 API는 매우 불안정합니다. CurseForge 및 일부 모드 제작자는 PolyMC와 같은 타사 응용 프로그램에서 모드 다운로드를 허용하지 않습니다. 그래서 모드팩을 설치하려면 일부 모드를 수동으로 다운로드해야 할 수 있습니다.</translation>
+        <translation>참고: CurseForge의 API는 매우 불안정합니다. CurseForge 및 일부 모드 제작자는 PolyMC와 같은 타사 응용 프로그램의 모드 다운로드를 허용하지 않습니다. 그래서 모드팩을 설치하려면 일부 모드를 수동으로 다운로드해야 할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -5314,17 +5314,17 @@ Choose your name carefully:</source>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="96"/>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="149"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation>버전 파일 %1을 열 수 없습니다: %2.</translation>
+        <translation>버전 파일 %1을/를 열 수 없습니다: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="117"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation>버전 파일 %1을 처리할 수 없습니다: %3번째 줄의 %4열, %2.</translation>
+        <translation>버전 파일 %1을/를 처리할 수 없습니다: %3번째 줄의 %4열, %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="157"/>
         <source>Unable to process the version file %1.</source>
-        <translation>버전 파일 %1을 처리 할 수 없습니다.</translation>
+        <translation>버전 파일 %1을/를 처리 할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="463"/>
@@ -5345,7 +5345,7 @@ Choose your name carefully:</source>
         <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>파일 %1을 교체할 수 없었습니다. 모든 변경 사항은 취소될 것입니다.
+        <translation>파일 %1을/를 교체할 수 없었습니다. 모든 변경 사항은 취소될 것입니다.
 더 자세한 내용은 %2 로그에서 확인하십시오.</translation>
     </message>
     <message>
@@ -5370,7 +5370,7 @@ Roll back to previous version?</source>
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
         <translation>롤백조차 실패하였습니다.
-%1를 직접 고치셔야 할 것 같습니다.
+%1을/를 직접 고치셔야 할 것 같습니다.
 우리들에게 어떻게 일어난 일이고, 왜 일어났는지 보고해주시기 바랍니다.</translation>
     </message>
     <message>
@@ -6262,7 +6262,7 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>자바의 주 버전이 호환되지 않습니다. 안될 수도 있습니다.</translation>
+        <translation>자바의 주 버전이 호환되지 않습니다. 작동하지 않을 수도 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
@@ -7021,9 +7021,9 @@ Do you wish to proceed?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>이 Microsoft 계정은 나이가 낮으며 가족 계정에 연결되어 있지 않습니다.
+        <translation>이 Microsoft 계정은 미성년자이며 가족 계정과 연결되어 있지 않습니다.
  
-%1를 따라 계정을 설정해주세요.</translation>
+%1에 따라 계정을 설정해주세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
