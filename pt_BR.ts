@@ -4922,12 +4922,12 @@ Por favor atualize o %1!</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="608"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="615"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="610"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="617"/>
         <source>Version</source>
         <translation>Versão</translation>
     </message>
@@ -5340,7 +5340,7 @@ Escolha o seu nome com cuidado:</translation>
         <translation>O nome da biblioteca %1 está corrompido e não pode ser processado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Versão do arquivo do componente inválida, espera-se %1</translation>
     </message>

@@ -4860,12 +4860,12 @@ Gelieve %1 bij te werken!</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="608"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="615"/>
         <source>Name</source>
         <translation>Naam</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="610"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="617"/>
         <source>Version</source>
         <translation>Versie</translation>
     </message>
@@ -5273,7 +5273,7 @@ Kies uw naam zorgvuldig:</translation>
         <translation>Bibliotheeknaam %1 is ongeldig en kan niet worden verwerkt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Ongeldige onderdeelbestands-versie, verwachtte %1</translation>
     </message>

@@ -4852,12 +4852,12 @@ Please update %1!</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="608"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="615"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="610"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="617"/>
         <source>Version</source>
         <translation>Versione</translation>
     </message>
@@ -5265,7 +5265,7 @@ Scegli attentamente il tuo nome:</translation>
         <translation>Il nome della libreria %1 è corrotto e non può essere elaborato.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Invalid component file version, expected %1</source>
         <translation>La versione selezionata non è valida, atteso %1</translation>
     </message>

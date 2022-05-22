@@ -4804,12 +4804,12 @@ Please update %1!</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="608"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="615"/>
         <source>Name</source>
         <translation>Nama</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="610"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="617"/>
         <source>Version</source>
         <translation>Versi</translation>
     </message>
@@ -5215,7 +5215,7 @@ Choose your name carefully:</source>
         <translation>Nama perpustakaan %1 rusak dan tidak bisa diproses.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Versi file komponen tidak valid, diharapkan %1</translation>
     </message>

@@ -4880,12 +4880,12 @@ Veuillez mettre à jour %1 !</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="608"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="615"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="610"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="617"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
@@ -5305,7 +5305,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
         <translation>Le nom de la bibliothèque %1 est cassé et ne peut être traité.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="191"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Invalid component file version, expected %1</source>
         <translation>Ficher de l&apos;ordre non valide, %1 attendu</translation>
     </message>
