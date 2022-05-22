@@ -3940,7 +3940,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Native library workarounds</source>
-        <translation>네이티브 라이브러리 workarounds</translation>
+        <translation>네이티브 라이브러리 대체</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
