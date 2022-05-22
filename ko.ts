@@ -44,7 +44,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="169"/>
@@ -480,7 +480,7 @@ Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
         <translation>Microsoft 계정은 최신버전의 PolyMC와 함께 macOS 10.13 이상에서만 사용할 수 있습니다.
 
-운영체제와 %1 을 모두 업데이트하세요.</translation>
+운영체제와 %1을/를 모두 업데이트하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
@@ -1713,7 +1713,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation>이곳의 설정들은 전역 설정을 오버라이딩합니다.</translation>
+        <translation>이곳의 설정은 전역 설정을 오버라이딩합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
@@ -2070,7 +2070,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>자바 설치마법사 건너뛰기 (&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
@@ -2192,7 +2192,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>당신의 언어가 지원되지 않거나 번역의 질이 좋지 않나요?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;번역 작업을 도와주세요!&lt;/a&gt;</translation>
+        <translation>언어가 지원되지 않거나 번역의 질이 좋지 않나요?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;번역 작업을 도와주세요!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -2205,7 +2205,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="47"/>
         <source>Select the language to use in %1</source>
-        <translation>%1에서 쓸 언어를 선택하십시오</translation>
+        <translation>%1에서 사용할 언어를 선택하십시오</translation>
     </message>
 </context>
 <context>
@@ -2229,7 +2229,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">마인크래프트를 이용하려면 하나이상의 Mojang 또는 Minecraft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
+        <translation>마인크래프트를 이용하려면 하나이상의 Mojang 또는 Minecraft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
@@ -2244,7 +2244,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="148"/>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
-        <translation>당신의 계정이 로그인 되어있지 않습니다. 다시 로그인하기 위해 비밀번호를 입력하세요. &lt;br /&gt;&lt;br /&gt; 이것은 비밀번호 변경에 의해 발생할 수 있습니다.</translation>
+        <translation>계정이 로그인 되어있지 않습니다. 다시 로그인하기 위해 비밀번호를 입력하세요. &lt;br /&gt;&lt;br /&gt; 이것은 비밀번호 변경에 의해 발생할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="176"/>
@@ -2667,7 +2667,7 @@ Flatseal을 통해 PolyMC에 접근 권한을 부여하는 것이 좋습니다.<
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="457"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation>[무언가/ERROR] 고양이가 당신의 컴퓨터를 침공합니다!</translation>
+        <translation>[무언가/ERROR] 고양이가 컴퓨터를 침공합니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="466"/>
@@ -2677,7 +2677,7 @@ Flatseal을 통해 PolyMC에 접근 권한을 부여하는 것이 좋습니다.<
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="475"/>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation>[무언가/WARN] 귀여운 고양이가 당신을 공격합니다.</translation>
+        <translation>[무언가/WARN] 귀여운 고양이가 공격합니다.</translation>
     </message>
     <message>
         <source>Launcher notifications</source>
@@ -4457,7 +4457,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
         <source>Error</source>
-        <translation type="unfinished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
@@ -4585,7 +4585,7 @@ Please update %1!</source>
         <location filename="src/launcher/net/NetJob.cpp" line="208"/>
         <source>Job &apos;%1&apos; failed to process:
 %2</source>
-        <translation>작업 &apos;%1&apos;은 다음을 처리하는 데에 실패하였습니다:
+        <translation>작업 &apos;%1&apos;은/는 다음을 처리하는 데에 실패하였습니다:
 %2</translation>
     </message>
 </context>
@@ -4792,7 +4792,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="172"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation>파일 %1은 너무 큽니다. 더 큰 파일에 최적화된 뷰어로 보시길 권장합니다.</translation>
+        <translation>파일 %1은/는 너무 큽니다. 더 큰 파일에 최적화된 뷰어로 보시길 권장합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="187"/>
@@ -4879,7 +4879,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="99"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>오류: %1 이(가) 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
+        <translation>오류: %1 이/가 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
     </message>
 </context>
 <context>
@@ -4997,7 +4997,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="167"/>
         <source>The name %1 is not allowed.</source>
-        <translation>이 이름 %1은 허용되지 않습니다.</translation>
+        <translation>이 이름 %1은/는 허용되지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="170"/>
@@ -5395,7 +5395,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation>당신은 수동으로 JVM 메모리 옵션을 설정하려 했습니다(&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 또는 &quot;-Xms&quot; 사용).
+        <translation>수동으로 JVM 메모리 옵션을 설정하려 했습니다(&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 또는 &quot;-Xms&quot; 사용).
 설정에 메모리 설정을 위한 전용 옵션들이 있습니다. (자바 탭 가장 위쪽의 메모리 그룹).
 수동 설정은 전용 옵션에 의해 재정의 될 것입니다. 이 메시지는 JVM 명령줄 인수에서 메모리 옵션을 지울때까지 표시됩니다.</translation>
     </message>
@@ -6132,7 +6132,7 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="21"/>
         <source>No %1 updates found. You are running the latest version.</source>
-        <translation>%1 업데이트가 발견되지 않았습니다. 당신은 최신 버전을 사용하고 계십니다.</translation>
+        <translation>%1 업데이트가 발견되지 않았습니다. 최신 버전을 사용하고 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="23"/>
@@ -6489,12 +6489,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="199"/>
         <source>%1 possibly has issues.</source>
-        <translation>%1은 아마도 문제가 있습니다.</translation>
+        <translation>%1은/는 아마도 문제가 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="202"/>
         <source>%1 has issues!</source>
-        <translation>%1은 문제가 있습니다!</translation>
+        <translation>%1은/는 문제가 있습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="216"/>
@@ -7013,7 +7013,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>해당 국가에서는 XBox Live를 사용할 수 없습니다. 당신은 차단되었습니다.</translation>
+        <translation>해당 국가에서는 XBox Live를 사용할 수 없습니다. 차단되었습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
