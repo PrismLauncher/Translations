@@ -5,59 +5,88 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>&amp;Pastebin URL</source>
-        <oldsource>Pastebin URL</oldsource>
+        <source>Pastebin Service</source>
+        <oldsource>&amp;Pastebin URL</oldsource>
         <translation type="unfinished">Pastebin 網址</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：只接受以 &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; 開頭的輸入&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：只接受以 &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; 開頭的輸入&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在這裡，您可以從預定義的黏貼服務列表中進行選擇，或者輸入您選擇的不同粘貼服務的 URL，前提是它支持與 0x0.st 相同的協議，即將文件參數發佈到 URL 並在響應正文中返回鏈接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;在這裡，您可以從預定義的黏貼服務列表中進行選擇，或者輸入您選擇的不同粘貼服務的 URL，前提是它支持與 0x0.st 相同的協議，即將文件參數發佈到 URL 並在響應正文中返回鏈接。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
+        <source>Paste Service Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
+        <source>Base URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
+        <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>微軟驗證（&amp;M）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="149"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="194"/>
         <source>(Default)</source>
         <translation>（預設）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
+        <source>Meta&amp;data Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
+        <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <source>Enter a custom URL for meta here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
         <source>&amp;CurseForge Core API</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
         <source>Enter a custom API Key for CurseForge here. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -65,115 +94,114 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="94"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="114"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>無法解析模組包資訊：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="102"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="199"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>無法獲得本地化元素索引 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="108"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="125"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>無法獲得本地化元素索引 &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="186"/>
         <source>Unknown mod type: %1</source>
         <translation>未知的模組類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="231"/>
         <source>Failed to find version for %1 loader</source>
         <translation>尋找載入器 %1 的版本失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="229"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="245"/>
         <source>No loader version set for modpack!</source>
         <translation>沒有為模組包設置載入器版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="333"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>未知或不支援的下載類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="426"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="483"/>
         <source>Downloading configs...</source>
         <translation>正在下載組態檔案…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="427"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="484"/>
         <source>Config download</source>
         <translation>下載組態檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="467"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="524"/>
         <source>Extracting configs...</source>
         <translation>正在解壓縮組態檔案…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="474"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="531"/>
         <source>Failed to open pack configs %1!</source>
         <translation>開啟組態檔案 %1 失敗！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="504"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="561"/>
         <source>Selecting optional mods...</source>
         <translation>選擇可選的模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="508"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="565"/>
         <source>Downloading mods...</source>
         <translation>正在下載模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="511"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="568"/>
         <source>Mod download</source>
         <translation>模組下載</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="525"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="582"/>
         <source>Unsupported download type: %1</source>
         <translation>不支援的下載類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="531"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="588"/>
         <source>Unknown download type: %1</source>
         <translation>未知的下載類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="645"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="699"/>
         <source>Failed to extract mods...</source>
         <translation>解壓縮模組失敗…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
         <source>Extracting mods...</source>
         <translation>正在解壓縮模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="772"/>
         <source>Installing modpack</source>
         <translation>正在安裝模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="784"/>
         <source>Failed to create libraries component</source>
         <translation>建立組件程式庫失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="754"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="808"/>
         <source>Unknown loader type: </source>
         <translation>無效的載入器類型： </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="768"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="822"/>
         <source>Failed to create pack component</source>
         <translation>建立組件包失敗</translation>
     </message>
@@ -559,7 +587,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="686"/>
+        <location filename="src/launcher/Application.cpp" line="714"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
@@ -650,18 +678,31 @@ Please update both your operating system and %1.</source>
         <translation>全部清除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AtlOptionalModListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
+        <source>Are you sure that you want to enable this mod?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
+        <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -684,19 +725,24 @@ Please update both your operating system and %1.</source>
         <translation>搜尋及篩選…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>目前沒有用於 Minecraft %1 的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="190"/>
         <source>No versions are currently available</source>
         <translation>目前沒有可用的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="192"/>
         <source>Couldn&apos;t load or download the version lists!</source>
         <translation>無法載入或下載版本清單！</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
+        <source>Installing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -3778,12 +3824,12 @@ Please add your Mojang or Minecraft account.</source>
         <translation>你確定想要刪除群組 %1？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1952"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1955"/>
         <source>CAREFUL!</source>
         <translation>注意！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1953"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1956"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -3794,37 +3840,37 @@ Are you sure?</source>
 你確定還要繼續嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2161"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2164"/>
         <source>Rename Instance</source>
         <translation>重新命名實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2177"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>你的實例資料夾名稱中包含了「!」，這會導致 Java 出現問題！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2176"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2179"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>你現在有兩個選項： &lt;br/&gt; - 在設定中變更實例資料夾 &lt;br/&gt; - 移動這個安裝檔 %1 至不同的資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2188"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>出現一個問題： &lt;br/&gt; - 啟動器很有可能在未被警告的情況下遭到作業系統刪除 &lt;br/&gt; - 現在請關閉啟動器並將其解壓縮至實際存在的位置，而不是臨時的資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2195"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>你的實例資料夾名稱中包含了「Rar」 - 這意味著你還尚未將啟動器檔案解壓縮！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>你的實例資料夾還位於臨時資料夾：「%1」中！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
         <source>Total playtime: %1</source>
         <translation>總遊戲時長：%1</translation>
     </message>
@@ -4870,18 +4916,59 @@ Please update %1!</source>
 <context>
     <name>PasteUpload</name>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="71"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="138"/>
         <source>Uploading to %1</source>
         <translation>正在上傳至 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="92"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="155"/>
         <source>Network error: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="99"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="183"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="239"/>
+        <source>Error: %1 returned a malformed response body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
+        <source>Error: %1 returned an error: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="230"/>
+        <source>Error: %1 returned an error code: %2
+Error message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PasteWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
+        <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
+        <source>Use new default service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
+        <source>Keep previous settings</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5188,17 +5275,17 @@ Choose your name carefully:</source>
         <translation>%1（使用中）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="27"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="63"/>
         <source>Upload failed</source>
         <translation>上傳失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="38"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="74"/>
         <source>Upload finished</source>
         <translation>上傳完成</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="39"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="75"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;記錄檔連結&lt;/a&gt;已經在你的剪貼簿中。</translation>
     </message>
@@ -5437,7 +5524,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>指定的 Java 二進位檔無法使用。&lt;br /&gt;應使用自動偵測功能，或者設定 Java 可執行檔的路徑。&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
         <source>Download of meta file %1</source>
         <translation>下載更新檔案 %1</translation>
     </message>

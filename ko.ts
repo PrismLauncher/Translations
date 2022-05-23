@@ -5,59 +5,88 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>&amp;Pastebin URL</source>
-        <oldsource>Pastebin URL</oldsource>
-        <translation>&amp;Pastebin URL</translation>
+        <source>Pastebin Service</source>
+        <oldsource>&amp;Pastebin URL</oldsource>
+        <translation type="unfinished">&amp;Pastebin URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; 또는 &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; 로 시작하는 URL만 입력 가능합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; 또는 &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; 로 시작하는 URL만 입력 가능합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;여기에서 사전 정의된 로그 공유 서비스를 선택하거나, 0x0.st와 동일한 프로토콜(URL에 파일 매개 변수를 POST 전송하면 응답 본문에 링크를 반환)을 지원하는 다른 로그 공유서비스의 URL을 입력할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;여기에서 사전 정의된 로그 공유 서비스를 선택하거나, 0x0.st와 동일한 프로토콜(URL에 파일 매개 변수를 POST 전송하면 응답 본문에 링크를 반환)을 지원하는 다른 로그 공유서비스의 URL을 입력할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
+        <source>Paste Service Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
+        <source>Base URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
+        <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>&amp;Microsoft 인증</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>참고: Microsoft 인증을 통한 로그인이 이미 작동하는 경우에는 이 설정을 하지 않아도 됩니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="149"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="194"/>
         <source>(Default)</source>
         <translation>(기본값)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation>이곳에 Microsoft 인증을 위한 사용자 지정 클라이언트 ID를 입력합니다. </translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
+        <source>Meta&amp;data Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
+        <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <source>Enter a custom URL for meta here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
         <source>&amp;CurseForge Core API</source>
         <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>참고: CurseForge가 이미 작동하는 경우에는 이 설정을 하지 않아도 됩니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
         <source>Enter a custom API Key for CurseForge here. </source>
         <translation>이곳에 CurseForge의 사용자 지정 API 키를 입력합니다. </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
         <translation>API</translation>
     </message>
@@ -65,115 +94,114 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="94"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="114"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>팩 manifest를 해석하지 못함:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="102"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="199"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>다음의 로컬 메타데이터를 얻는 데에 실패하였습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="108"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="125"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>다음의 로컬 메타데이터를 얻는 데에 실패하였습니다: &apos;%1&apos; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="186"/>
         <source>Unknown mod type: %1</source>
         <translation>알 수 없는 모드 종류: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="231"/>
         <source>Failed to find version for %1 loader</source>
         <translation>%1 로더에 대한 버전을 찾는데 실패하였습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="229"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="245"/>
         <source>No loader version set for modpack!</source>
         <translation>모드팩 로더 버전이 설정되지 않았습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="333"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="426"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="483"/>
         <source>Downloading configs...</source>
         <translation>설정 다운로드 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="427"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="484"/>
         <source>Config download</source>
         <translation>설정 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="467"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="524"/>
         <source>Extracting configs...</source>
         <translation>설정 내보내는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="474"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="531"/>
         <source>Failed to open pack configs %1!</source>
         <translation>팩 설정 %1을/를 여는 데에 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="504"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="561"/>
         <source>Selecting optional mods...</source>
         <translation>선택적 모드 선택 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="508"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="565"/>
         <source>Downloading mods...</source>
         <translation>모드 다운로드 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="511"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="568"/>
         <source>Mod download</source>
         <translation>모드 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="525"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="582"/>
         <source>Unsupported download type: %1</source>
         <translation>지원하지 않는 다운로드 유형: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="531"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="588"/>
         <source>Unknown download type: %1</source>
         <translation>알 수 없는 다운로드 유형: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="645"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="699"/>
         <source>Failed to extract mods...</source>
         <translation>모드(들) 추출 실패...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
         <source>Extracting mods...</source>
         <translation>모드 추출 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="772"/>
         <source>Installing modpack</source>
         <translation>모드팩 설치 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="784"/>
         <source>Failed to create libraries component</source>
         <translation>라이브러리 구성 요소를 만드는데 실패하였습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="754"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="808"/>
         <source>Unknown loader type: </source>
         <translation>알 수 없는 로더 종류: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="768"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="822"/>
         <source>Failed to create pack component</source>
         <translation>팩 구성 요소를 만드는데 실패하였습니다</translation>
     </message>
@@ -559,7 +587,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="686"/>
+        <location filename="src/launcher/Application.cpp" line="714"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
@@ -650,19 +678,32 @@ Please update both your operating system and %1.</source>
         <translation>모두 지우기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
         <translation>공유할 코드 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
         <translation>공유 코드:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
         <translation>공유할 코드를 지정하지 않았습니다!</translation>
+    </message>
+</context>
+<context>
+    <name>AtlOptionalModListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
+        <source>Are you sure that you want to enable this mod?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -684,19 +725,24 @@ Please update both your operating system and %1.</source>
         <translation>검색 및 필터...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>마인크래프트 %1에 사용가능한 버전이 없습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="190"/>
         <source>No versions are currently available</source>
         <translation>현재 사용가능한 버전들이 없습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="192"/>
         <source>Couldn&apos;t load or download the version lists!</source>
         <translation>버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
+        <source>Installing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -3775,12 +3821,12 @@ Mojang 또는 마인크래프트 계정을 추가하세요.</translation>
         <translation>%1 그룹을 삭제하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1952"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1955"/>
         <source>CAREFUL!</source>
         <translation>주의!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1953"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1956"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -3791,37 +3837,37 @@ Are you sure?</source>
 정말 삭제하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2161"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2164"/>
         <source>Rename Instance</source>
         <translation>인스턴스 이름 바꾸기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2177"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>인스턴스 폴더에 &apos;!&apos;이 포함되어 있습니다. 이 경우 자바에 문제가 생길 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2176"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2179"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>두 가지 옵션이 있습니다: &lt;br/&gt; - 설정에서 인스턴스 폴더를 변경 &lt;br/&gt; - %1 설치를 다른 폴더로 이동</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2188"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>문제가 있습니다: &lt;br/&gt; - 운영체제에 의해 경고 없이 런처가 삭제될 수 있습니다 &lt;br/&gt; - 지금 런처를 종료하고 임시 폴더가 아닌 실제 위치로 추출을 합니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2195"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>인스턴스 폴더에 &apos;Rar$&apos;가 포함되어 있습니다 - 런처 아카이브를 추출하지 않았음을 의미합니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>인스턴스 폴더는 임시 폴더 &apos;%1&apos;에 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
         <source>Total playtime: %1</source>
         <translation>총 플레이시간: %1</translation>
     </message>
@@ -4868,19 +4914,60 @@ Please update %1!</source>
 <context>
     <name>PasteUpload</name>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="71"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="138"/>
         <source>Uploading to %1</source>
         <translation>%1에 업로드 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="92"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="155"/>
         <source>Network error: %1</source>
         <translation>네트워크 오류: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="99"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>오류: %1이/가 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="183"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="239"/>
+        <source>Error: %1 returned a malformed response body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
+        <source>Error: %1 returned an error: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="230"/>
+        <source>Error: %1 returned an error code: %2
+Error message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PasteWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
+        <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
+        <source>Use new default service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
+        <source>Keep previous settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5186,17 +5273,17 @@ Choose your name carefully:</source>
         <translation>%1 (이미 사용중)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="27"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="63"/>
         <source>Upload failed</source>
         <translation>업로드 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="38"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="74"/>
         <source>Upload finished</source>
         <translation>업로드 완료됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="39"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="75"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;업로드된 로그 링크&lt;/a&gt;는 클립보드에 복사되었습니다.</translation>
     </message>
@@ -5436,7 +5523,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>지정된 자바 바이너리는 작동하지 않습니다.&lt;br /&gt;자동감지 기능을 사용하거나, path 환경 변수에 자바 실행파일 경로를 추가하세요.&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
         <source>Download of meta file %1</source>
         <translation>%1 메타 파일들을 다운로드 하는 중</translation>
     </message>

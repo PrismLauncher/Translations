@@ -5,63 +5,92 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>&amp;Pastebin URL</source>
-        <oldsource>Pastebin URL</oldsource>
-        <translation>Ссылка на &amp;Pastebin</translation>
+        <source>Pastebin Service</source>
+        <oldsource>&amp;Pastebin URL</oldsource>
+        <translation type="unfinished">Ссылка на &amp;Pastebin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="57"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: принимаются только значения, начинающиеся с &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; или &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: принимаются только значения, начинающиеся с &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; или &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>https://0x0.st</source>
         <translation type="vanished">https://0x0.st</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Here you can choose from a predefined list of paste services, or input the URL of a different paste service of your choice, provided it supports the same protocol as 0x0.st, that is POST a file parameter to the URL and return a link in the response body.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Здесь вы можете выбрать среди списка предопределённых сервисов хранения логов, или ввести URL на другой сервис на ваш выбор, если он поддерживает тот же протокол, что и 0x0.st, то есть POST с параметром файла в URL и возвращает ссылку в теле ответа.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Здесь вы можете выбрать среди списка предопределённых сервисов хранения логов, или ввести URL на другой сервис на ваш выбор, если он поддерживает тот же протокол, что и 0x0.st, то есть POST с параметром файла в URL и возвращает ссылку в теле ответа.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="101"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
+        <source>Paste Service Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
+        <source>Base URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
+        <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>Аутентификация &amp;Microsoft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="114"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Примечание: возможно, вам не нужно изменять это, если вход в аккаунт Microsoft уже работает.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="127"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="149"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="194"/>
         <source>(Default)</source>
         <translation>(По умолчанию)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation>Введите здесь собственный client ID для аутентифкации Microsoft. </translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
+        <source>Meta&amp;data Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
+        <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <source>Enter a custom URL for meta here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
         <source>&amp;CurseForge Core API</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="186"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
         <source>Enter a custom API Key for CurseForge here. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.h" line="58"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
         <translation>API</translation>
     </message>
@@ -69,115 +98,114 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="94"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="114"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Невозможно разобрать манифест сборки:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="102"/>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="199"/>
         <source>Failed to get local metadata index for %1</source>
         <translation>Не удалось получить локальный индекс метаданных для %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="108"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="125"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
         <translation>Не удалось получить локальный индекс метаданных для &quot;%1&quot; v%2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="186"/>
         <source>Unknown mod type: %1</source>
         <translation>Неизвестный тип мода: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="215"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="231"/>
         <source>Failed to find version for %1 loader</source>
         <translation>Не удалось найти версию для загрузчика %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="229"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="245"/>
         <source>No loader version set for modpack!</source>
         <translation>Для сборки не установлена версия загрузчика!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="333"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>Unknown or unsupported download type: %1</source>
         <translation>Неизвестный или неподдерживаемый тип загрузки: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="426"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="483"/>
         <source>Downloading configs...</source>
         <translation>Загрузка настроек...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="427"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="484"/>
         <source>Config download</source>
         <translation>Загрузка настроек</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="467"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="524"/>
         <source>Extracting configs...</source>
         <translation>Извлечение настроек...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="474"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="531"/>
         <source>Failed to open pack configs %1!</source>
         <translation>Не удалось открыть настройки сборки %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="504"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="561"/>
         <source>Selecting optional mods...</source>
         <translation>Выбор необязательных модов...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="508"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="565"/>
         <source>Downloading mods...</source>
         <translation>Загрузка модов...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="511"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="568"/>
         <source>Mod download</source>
         <translation>Скачивание мода</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="525"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="582"/>
         <source>Unsupported download type: %1</source>
         <translation>Неподдерживаемый тип загрузки: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="531"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="588"/>
         <source>Unknown download type: %1</source>
         <translation>Неизвестный тип загрузки: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="645"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="699"/>
         <source>Failed to extract mods...</source>
         <translation>Не удалось извлечь моды...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="656"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="710"/>
         <source>Extracting mods...</source>
         <translation>Извлечение модов...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="718"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="772"/>
         <source>Installing modpack</source>
         <translation>Установка сборки</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="784"/>
         <source>Failed to create libraries component</source>
         <translation>Ошибка создания компонента библиотек</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="754"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="808"/>
         <source>Unknown loader type: </source>
         <translation>Неизвестный тип загрузчика: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="768"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="822"/>
         <source>Failed to create pack component</source>
         <translation>Ошибка создания компонента сборки</translation>
     </message>
@@ -571,7 +599,7 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="686"/>
+        <location filename="src/launcher/Application.cpp" line="714"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
@@ -662,19 +690,32 @@ Please update both your operating system and PolyMC.</source>
         <translation>Убрать все</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
         <translation>Введите код</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
         <translation>Код:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
         <translation>Код не указан!</translation>
+    </message>
+</context>
+<context>
+    <name>AtlOptionalModListModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
+        <source>Are you sure that you want to enable this mod?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -696,19 +737,24 @@ Please update both your operating system and PolyMC.</source>
         <translation>Поиск и фильтрация...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
         <source>No versions are currently available for Minecraft %1</source>
         <translation>В данный момент нет доступных версий для Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="190"/>
         <source>No versions are currently available</source>
         <translation>В данный момент нет доступных версий</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="192"/>
         <source>Couldn&apos;t load or download the version lists!</source>
         <translation>Не удалось прочитать или получить список версий!</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
+        <source>Installing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -3832,12 +3878,12 @@ Please add your Mojang or Minecraft account.</source>
         <translation type="vanished">Вы уверены, что хотите удалить группу %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1952"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1955"/>
         <source>CAREFUL!</source>
         <translation>ВНИМАНИЕ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1953"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1956"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -3848,37 +3894,37 @@ Are you sure?</source>
 Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2161"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2164"/>
         <source>Rename Instance</source>
         <translation>Переименовать сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2177"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Папка вашей сборки содержит знак &apos;!&apos; в своём пути, это приводит к проблемам в Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2176"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2179"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>У вас есть два варианта: &lt;br/&gt; - изменить папку сборки в настройках &lt;br/&gt; - переместить сборку %1 в другую папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2188"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Обнаружена проблема: &lt;br/&gt; - Лаунчер будет удалён операционной системой без уведомления &lt;br/&gt; - закройте лаунчер и распакуйте его в настоящую локацию, а не во временную папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2195"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Папка вашей сборки содержит &apos;Rar$&apos; - это значит, что Вы не извлекли архив с лаунчером!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Папка сборки располагается во временной папке: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
         <source>Total playtime: %1</source>
         <translation>Общее время игры: %1</translation>
     </message>
@@ -4955,19 +5001,60 @@ Please update %1!</source>
 <context>
     <name>PasteUpload</name>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="71"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="138"/>
         <source>Uploading to %1</source>
         <translation>Загрузка на %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="92"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="155"/>
         <source>Network error: %1</source>
         <translation>Сетевая ошибка: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="99"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>Ошибка: %1 вернул неожиданный код статуса %2 %3</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="183"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="239"/>
+        <source>Error: %1 returned a malformed response body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
+        <source>Error: %1 returned an error: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="230"/>
+        <source>Error: %1 returned an error code: %2
+Error message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PasteWizardPage</name>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
+        <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
+        <source>Use new default service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
+        <source>Keep previous settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5278,17 +5365,17 @@ Choose your name carefully:</source>
         <translation>%1 (используется)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="27"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="63"/>
         <source>Upload failed</source>
         <translation>Загрузка не удалась</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="38"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="74"/>
         <source>Upload finished</source>
         <translation>Загрузка завершена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="39"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="75"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка загруженного журнала&lt;/a&gt; была помещена в буфер обмена.</translation>
     </message>
@@ -5528,7 +5615,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Указанный файл Java не работает.&lt;br /&gt;Используйте автоматический поиск или установите путь к файлу Java вручную.&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/meta/BaseEntity.cpp" line="120"/>
+        <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
         <source>Download of meta file %1</source>
         <translation>Получение метафайла: %1</translation>
     </message>
