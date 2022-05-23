@@ -6457,27 +6457,27 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Install Forge</source>
-        <translation>포지 설치</translation>
+        <translation>Forge 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
         <source>Install the Minecraft Forge package.</source>
-        <translation>마인크래프트 포지 패키지를 설치합니다.</translation>
+        <translation>마인크래프트 Forge 패키지를 설치합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
         <source>Install Fabric</source>
-        <translation>패브릭 설치</translation>
+        <translation>Fabric 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Install the Fabric Loader package.</source>
-        <translation>패브릭 로더 패키지를 설치합니다.</translation>
+        <translation>Fabric 로더 패키지를 설치합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
         <source>Install Quilt</source>
-        <translation>퀼트 설치</translation>
+        <translation>Quilt 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
