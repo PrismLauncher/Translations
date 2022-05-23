@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>Pastebin Service</source>
         <oldsource>&amp;Pastebin URL</oldsource>
-        <translation type="unfinished">&amp;Pastebin URL</translation>
+        <translation>Pastebin 서비스</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -20,17 +20,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastebin 서비스 종류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
         <source>Base URL</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>참고: Pastebin 서비스를 변경한 후 기본 URL을 변경하거나 지울 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
@@ -58,17 +58,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>메타데이터 서버 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>제 3자 메타데이터 서버로 설정하여 패치된 라이브러리 또는 기타 해킹을 사용할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>이곳에 사용자 지정 메타 URL을 입력합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
@@ -148,7 +148,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="531"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>팩 설정 %1을/를 여는 데에 실패했습니다!</translation>
+        <translation>팩 설정 %1을(를) 여는 데에 실패했습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="561"/>
@@ -508,7 +508,7 @@ Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
         <translation>Microsoft 계정은 최신버전의 PolyMC와 함께 macOS 10.13 이상에서만 사용할 수 있습니다.
 
-운영체제와 %1을/를 모두 업데이트하세요.</translation>
+운영체제와 %1을(를) 모두 업데이트하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="192"/>
@@ -698,12 +698,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>이 모드를 활성화하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>경고</translation>
     </message>
 </context>
 <context>
@@ -742,7 +742,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>설치 중</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -905,7 +905,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="69"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>래퍼 명령어 &quot;%1&quot;을/를 찾을 수 없습니다.</translation>
+        <translation>래퍼 명령어 &quot;%1&quot;을(를) 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="91"/>
@@ -1109,7 +1109,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>네이티브 JAR &apos;%1&apos;을/를 &apos;%2&apos;로 추출하는 데에 실패하였습니다</translation>
+        <translation>네이티브 JAR &apos;%1&apos;을(를) &apos;%2&apos;로 추출하는 데에 실패하였습니다</translation>
     </message>
 </context>
 <context>
@@ -1232,7 +1232,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <translation>참고: CurseForge의 API는 매우 불안정합니다. CurseForge 및 일부 모드 제작자는 PolyMC와 같은 타사 응용 프로그램의 모드 다운로드를 허용하지 않습니다. 그래서 모드팩을 설치하려면 일부 모드를 수동으로 다운로드해야 할 수 있습니다.</translation>
+        <translation>참고: CurseForge의 API는 매우 불안정합니다. CurseForge 및 일부 모드 제작자는 PolyMC와 같은 제 3자 응용 프로그램의 모드 다운로드를 허용하지 않습니다. 그래서 모드팩을 설치하려면 일부 모드를 수동으로 다운로드해야 할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1666,7 +1666,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="336"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation>마인크래프트 %1에 권장되는 포지 버전을 결정하지 못하였습니다</translation>
+        <translation>마인크래프트 %1에 권장되는 Forge 버전을 결정하지 못하였습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="388"/>
@@ -2740,7 +2740,7 @@ Flatseal을 통해 PolyMC에 접근 권한을 부여하는 것이 좋습니다.<
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="136"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>래퍼 명령어 &quot;%1&quot;을/를 찾지 못하였습니다.</translation>
+        <translation>래퍼 명령어 &quot;%1&quot;을(를) 찾지 못하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="158"/>
@@ -2827,7 +2827,7 @@ Flatseal을 통해 PolyMC에 접근 권한을 부여하는 것이 좋습니다.<
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="87"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>모드팩 파일 %1을/를 여는 데에 실패했습니다!</translation>
+        <translation>모드팩 파일 %1을(를) 여는 데에 실패했습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="110"/>
@@ -2982,7 +2982,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation>인스턴스 %1을/를 위한 라이브러리</translation>
+        <translation>인스턴스 %1을(를) 위한 라이브러리</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
@@ -3086,7 +3086,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="68"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>마인크래프트가 종료 코드 %1와/과 함께 종료했습니다.</translation>
+        <translation>마인크래프트가 종료 코드 %1와(과) 함께 종료했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="75"/>
@@ -3097,7 +3097,7 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="77"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>프로세스가 종료 코드 %1와/과 함께 충돌했습니다.</translation>
+        <translation>프로세스가 종료 코드 %1와(과) 함께 충돌했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="84"/>
@@ -3725,7 +3725,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1061"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1394"/>
         <source>Profiles</source>
-        <translation>프로파일들</translation>
+        <translation>프로필</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1120"/>
@@ -3745,7 +3745,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1211"/>
         <source>Profilers</source>
-        <translation>프로파일러들</translation>
+        <translation>프로파일러</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1223"/>
@@ -4448,7 +4448,7 @@ Are you sure?</source>
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
         <translation>API 버전이 오래됐습니다!
-%1을/를 업데이트하세요!</translation>
+%1을(를) 업데이트하세요!</translation>
     </message>
 </context>
 <context>
@@ -4517,7 +4517,7 @@ Please update %1!</source>
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
         <translation>API 버전이 오래됐습니다!
-%1을/를 업데이트하세요!</translation>
+%1을(를) 업데이트하세요!</translation>
     </message>
 </context>
 <context>
@@ -4632,7 +4632,7 @@ Please update %1!</source>
         <location filename="src/launcher/net/NetJob.cpp" line="208"/>
         <source>Job &apos;%1&apos; failed to process:
 %2</source>
-        <translation>작업 &apos;%1&apos;은/는 다음을 처리하는 데에 실패하였습니다:
+        <translation>작업 &apos;%1&apos;은(는) 다음을 처리하는 데에 실패하였습니다:
 %2</translation>
     </message>
 </context>
@@ -4651,7 +4651,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>uid</translation>
+        <translation>UID</translation>
     </message>
 </context>
 <context>
@@ -4834,27 +4834,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation>%1을/를 읽기 위해 열 수 없습니다: %2</translation>
+        <translation>%1을(를) 읽기 위해 열 수 없습니다: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="172"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation>파일 %1은/는 너무 큽니다. 더 큰 파일에 최적화된 뷰어로 보시길 권장합니다.</translation>
+        <translation>파일 %1은(는) 너무 큽니다. 더 큰 파일에 최적화된 뷰어로 보시길 권장합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="187"/>
         <source>The file (%1) is not readable.</source>
-        <translation>파일 %1을/를 읽을 수 없습니다.</translation>
+        <translation>파일 %1을(를) 읽을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Do you really want to delete %1?</source>
-        <translation>%1을/를 진짜로 삭제하기를 원하십니까?</translation>
+        <translation>%1을(를) 진짜로 삭제하기를 원하십니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <source>Unable to delete %1: %2</source>
-        <translation>%1을/를 삭제할 수 없습니다: %2</translation>
+        <translation>%1을(를) 삭제할 수 없습니다: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="246"/>
@@ -4926,25 +4926,26 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>오류: %1이/가 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
+        <translation>오류: %1이(가) 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="183"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="239"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>오류: %1이(가) 잘못된 응답 본문을 반환했습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>오류: %1이(가) 오류를 반환: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="230"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>오류: %1이(가) 오류를 반환: %2
+오류 메시지: %3</translation>
     </message>
 </context>
 <context>
@@ -4952,22 +4953,22 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>폼</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 Pastebin 서비스가 mclo.gs로 변경되었습니다. 설정에서 수행할 작업을 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>새 기본 서비스 사용</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 설정 유지</translation>
     </message>
 </context>
 <context>
@@ -5037,7 +5038,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation>기본값으로?</translation>
+        <translation>기본값으로 사용하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
@@ -5085,7 +5086,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="167"/>
         <source>The name %1 is not allowed.</source>
-        <translation>이 이름 %1은/는 허용되지 않습니다.</translation>
+        <translation>이 이름 %1은(는) 허용되지 않습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="170"/>
@@ -5229,7 +5230,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="133"/>
         <source>&lt;p&gt;The update removes %1 commits and adds the following %2:&lt;/p&gt;</source>
-        <translation>&lt;p&gt;이번 업데이트는 커밋 %1을/를 제거하고 다음 커밋 %2를 추가합니다:&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;이번 업데이트는 커밋 %1을(를) 제거하고 다음 커밋 %2를 추가합니다:&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="136"/>
@@ -5350,7 +5351,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="198"/>
         <source>Invalid component file version, expected %1</source>
-        <translation>유효하지 않은 컴포넌트 파일 버전, %1을/를 예상하였음</translation>
+        <translation>유효하지 않은 컴포넌트 파일 버전, %1을(를) 예상하였음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="171"/>
@@ -5395,23 +5396,23 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="51"/>
         <source>Invalid order file version, expected %1</source>
-        <translation>유효하지 않은 순서의 파일 버전, %1을/를 예상하였음</translation>
+        <translation>유효하지 않은 순서의 파일 버전, %1을(를) 예상하였음</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="96"/>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="149"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation>버전 파일 %1을/를 열 수 없습니다: %2.</translation>
+        <translation>버전 파일 %1을(를) 열 수 없습니다: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="117"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation>버전 파일 %1을/를 처리할 수 없습니다: %3번째 줄의 %4열, %2.</translation>
+        <translation>버전 파일 %1을(를) 처리할 수 없습니다: %3번째 줄의 %4열, %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="157"/>
         <source>Unable to process the version file %1.</source>
-        <translation>버전 파일 %1을/를 처리 할 수 없습니다.</translation>
+        <translation>버전 파일 %1을(를) 처리 할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="463"/>
@@ -5432,7 +5433,7 @@ Choose your name carefully:</source>
         <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>파일 %1을/를 교체할 수 없었습니다. 모든 변경 사항은 취소될 것입니다.
+        <translation>파일 %1을(를) 교체할 수 없었습니다. 모든 변경 사항은 취소될 것입니다.
 더 자세한 내용은 %2 로그에서 확인하십시오.</translation>
     </message>
     <message>
@@ -5457,7 +5458,7 @@ Roll back to previous version?</source>
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
         <translation>롤백조차 실패하였습니다.
-%1을/를 직접 고치셔야 할 것 같습니다.
+%1을(를) 직접 고치셔야 할 것 같습니다.
 우리들에게 어떻게 일어난 일이고, 왜 일어났는지 보고해주시기 바랍니다.</translation>
     </message>
     <message>
@@ -6294,22 +6295,22 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
         <source>Forge</source>
-        <translation>포지</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation>패브릭</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation>퀼트</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation>라이트로더</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
@@ -6472,7 +6473,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Install the Fabric Loader package.</source>
-        <translation>Fabric 로더 패키지를 설치합니다.</translation>
+        <translation>Fabric 패키지를 설치합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
@@ -6482,17 +6483,17 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Install the Quilt Loader package.</source>
-        <translation>퀼트 로더 패키지를 설치합니다.</translation>
+        <translation>Quilt 로더 패키지를 설치합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
         <source>Install LiteLoader</source>
-        <translation>라이트로더 설치</translation>
+        <translation>LiteLoader 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
         <source>Install the LiteLoader package.</source>
-        <translation>라이트로더 패키지를 설치합니다.</translation>
+        <translation>LiteLoader 패키지를 설치합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
@@ -6577,12 +6578,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="199"/>
         <source>%1 possibly has issues.</source>
-        <translation>%1은/는 아마도 문제가 있습니다.</translation>
+        <translation>%1은(는) 아마도 문제가 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="202"/>
         <source>%1 has issues!</source>
-        <translation>%1은/는 문제가 있습니다!</translation>
+        <translation>%1은(는) 문제가 있습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="216"/>
@@ -6665,62 +6666,62 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
         <source>Select Forge version</source>
-        <translation>포지 버전을 선택하세요</translation>
+        <translation>Forge 버전을 선택하세요</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation>사용가능한 포지 버전이 없습니다. </translation>
+        <translation>사용가능한 Forge 버전이 없습니다. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="458"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
-        <translation>포지 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
+        <translation>Forge 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
         <source>Select Fabric Loader version</source>
-        <translation>패브릭 로더 버전을 선택하세요</translation>
+        <translation>Fabric 버전을 선택하세요</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="485"/>
         <source>No Fabric Loader versions are currently available.</source>
-        <translation>현재 사용가능한 패브릭 로더 버전(들)이 없습니다.</translation>
+        <translation>현재 사용가능한 Fabric 버전이 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
-        <translation>패브릭 로더 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
+        <translation>Fabric 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
         <source>Select Quilt Loader version</source>
-        <translation>퀼트 로더 버전을 선택하세요</translation>
+        <translation>Quilt 버전을 선택하세요</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="512"/>
         <source>No Quilt Loader versions are currently available.</source>
-        <translation>현재 사용 가능한 퀼트 로더 버전이 없습니다.</translation>
+        <translation>현재 사용 가능한 Quilt 버전이 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="513"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation>퀼트 로더 버전을 불러오거나 다운로드할 수 없습니다!</translation>
+        <translation>Quilt 버전을 불러오거나 다운로드할 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
         <source>Select LiteLoader version</source>
-        <translation>라이트로더 버전을 선택하세요</translation>
+        <translation>LiteLoader 버전을 선택하세요</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="558"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
-        <translation>사용가능한 라이트로더 버전이 없습니다. </translation>
+        <translation>사용가능한 LiteLoader 버전이 없습니다. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="559"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
-        <translation>라이트로더 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
+        <translation>LiteLoader 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="615"/>
