@@ -1151,7 +1151,7 @@ Kérlek próbáld újra.</translation>
         <translation>Mod ID-k feloldása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Néhány mod ID feloldási feladat sikertelen.</translation>
     </message>

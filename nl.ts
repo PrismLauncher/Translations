@@ -1161,7 +1161,7 @@ Probeer het opnieuw.</translation>
         <translation>Mod-ID&apos;s opzoeken...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Het opzoeken van sommige mod-ID&apos;s is mislukt.</translation>
     </message>

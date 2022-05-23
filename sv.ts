@@ -1151,7 +1151,7 @@ Försök igen.</translation>
         <translation>Löser mod-IDn...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Några mod-ID-lösningsarbeten misslyckades.</translation>
     </message>

@@ -1147,7 +1147,7 @@ Vennligst prøv på nytt.</translation>
         <translation>Løser mod-IDer...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Noen prosesser for løsning av mod-ID mislyktes.</translation>
     </message>

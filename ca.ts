@@ -1151,7 +1151,7 @@ Per favor, intenta de nou la descàrrega.</translation>
         <translation>Resolent els identificadors dels mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Algunes tasques de resolució dels identificadors dels mods han fallat.</translation>
     </message>

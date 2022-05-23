@@ -1137,7 +1137,7 @@ Prosim, poskusite ponovno.</translation>
         <translation>Ugotavljanje IDjev dodatkov...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Ugotavljanje določenih mod IDjev je bilo neuspešno.</translation>
     </message>

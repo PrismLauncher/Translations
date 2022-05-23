@@ -1161,7 +1161,7 @@ Please try again.</source>
         <translation>解析模組 ID 中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>一些模組 ID 解析工作失敗。</translation>
     </message>

@@ -1151,7 +1151,7 @@ Prøv igjen.</translation>
         <translation>Finn modd-ID-ar …</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Nokre modd-ID-ar vart ikkje funne.</translation>
     </message>

@@ -1151,7 +1151,7 @@ Vui lòng thử lại.</translation>
         <translation>Đang giải quyết mod IDs...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Một vài tác vụ giải quyết mod ID thất bại.</translation>
     </message>

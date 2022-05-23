@@ -1150,7 +1150,7 @@ Palun proovi uuesti.</translation>
         <translation>Modi IDde lahendamine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Mõned modi ID lahendamise toimingud ebaõnnestusid.</translation>
     </message>

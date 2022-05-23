@@ -1177,7 +1177,7 @@ Spróbuj ponownie.</translation>
         <translation>Odczytywanie ID modów...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Niektóre zadania odczytywania ID modów się nie powiodły.</translation>
     </message>

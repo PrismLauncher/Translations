@@ -1169,7 +1169,7 @@ Please try again.</source>
         <translation>正在解析模组 ID……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>无法解析部分模组 ID。</translation>
     </message>

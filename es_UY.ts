@@ -1151,7 +1151,7 @@ Por favor inténtalo nuevamente.</translation>
         <translation>Resolviendo ID de mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Fallaron algunos procesos al resolver ID de mods.</translation>
     </message>

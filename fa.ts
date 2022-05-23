@@ -1151,7 +1151,7 @@ Please try again.</source>
         <translation>دریافت ID مود ها...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>وظیفه دریافت ID بعضی مود ها شکست خورد.</translation>
     </message>

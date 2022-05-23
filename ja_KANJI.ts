@@ -1163,7 +1163,7 @@ Please try again.</source>
         <translation>Mod の識別子を解析中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>いくつかの Mod の識別子の解析に失敗しました。</translation>
     </message>

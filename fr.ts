@@ -1177,7 +1177,7 @@ Veuillez réessayer.</translation>
         <translation>Résolution des IDs de mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Certaines tâches de résolution d&apos;IDs de mods ont échoué.</translation>
     </message>

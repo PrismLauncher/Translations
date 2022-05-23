@@ -1151,7 +1151,7 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Se rezolvă ID-urile modurilor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Unele sarcini de rezolvare ale ID-urilor modurilor a esuat.</translation>
     </message>

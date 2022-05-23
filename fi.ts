@@ -1151,7 +1151,7 @@ Yritä uudelleen.</translation>
         <translation>Selvitetään moditunnisteita...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Osa moditunnisteiden selvitystehtävistä epäonnistui.</translation>
     </message>

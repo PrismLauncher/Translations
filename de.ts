@@ -1177,7 +1177,7 @@ Bitte versuche es erneut.</translation>
         <translation>Löse Mod-IDs auf...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Einige Mod-IDs konnten nicht aufgelöst werden.</translation>
     </message>

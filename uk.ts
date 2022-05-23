@@ -1151,7 +1151,7 @@ Please try again.</source>
         <translation>Виправлення ідентифікаторів модів...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
         <translation>Не вдалося виправити деякі проблеми з ідентифікаторами модів.</translation>
     </message>
