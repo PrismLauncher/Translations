@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>Pastebin Service</source>
         <oldsource>&amp;Pastebin URL</oldsource>
-        <translation type="unfinished">Pastebin 链接</translation>
+        <translation>Pastebin 服务</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -20,28 +20,28 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service Type</source>
-        <translation type="unfinished"></translation>
+        <translation>剪切板服务类型</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
         <source>Base URL</source>
-        <translation type="unfinished"></translation>
+        <translation>基本网址</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>注意：在更改剪切板服务类型后，您可能需要修改或清除基本网址。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">Microsoft 身份验证</translation>
+        <translation>微软身份验证</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注意：如果通过 Microsoft 身份验证登录已经有效，您可能不需要设置此项。</translation>
+        <translation>注意：如果微软身份验证登录已经有效，您可能不需要设置此项。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
@@ -53,32 +53,32 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>在此处输入 Microsoft 身份验证的自定义客户端 ID。 </translation>
+        <translation>在此处输入微软身份验证的自定义客户端 ID。 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>元数据服务器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>您可以将此设置为第三方元数据服务器来使用修改过的库或其他更改。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>在此处输入自定义的元数据网址。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation>&amp;CurseForge 核心 API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>注意：您可能并不需要在 CurseForge 服务正常工作的情况去设置它。</translation>
+        <translation>注意：在 CurseForge 服务正常工作的情况下， 您可能并不需要去设置它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
@@ -2130,7 +2130,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">启用时，启动器将不会检查选中的 Java 是否与实例兼容</translation>
+        <translation>启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="197"/>
@@ -2273,8 +2273,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>指定了不合法的 Java 参数。
-请修正。</translation>
+        <translation>指定了不合法的 Java 参数。请修正。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -2700,10 +2699,10 @@ You may have to fix your mods because the game is still logging to files and lik
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished">你正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
+        <translation>你正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
 这很可能会造成问题。重启后启动器可能会损坏，因为它不再能访问到那个文件夹上。
 
-我们推荐通过 Flatseal 授权 PolyMC</translation>
+我们推荐通过 Flatseal 授权 PolyMC。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
@@ -3438,7 +3437,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="404"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>账号管理</translation>
+        <translation>账号管理...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="484"/>
@@ -3510,7 +3509,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation>编辑实例</translation>
+        <translation>编辑实例...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="656"/>
@@ -3540,7 +3539,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>&amp;Change Group...</source>
-        <translation>更改组</translation>
+        <translation>更改组...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
@@ -3570,7 +3569,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>E&amp;xport Instance...</source>
-        <translation>导出实例</translation>
+        <translation>导出实例...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
@@ -3580,7 +3579,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Dele&amp;te Instance...</source>
-        <translation>删除实例</translation>
+        <translation>删除实例...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="731"/>
@@ -3590,7 +3589,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
         <source>Cop&amp;y Instance...</source>
-        <translation>复制实例</translation>
+        <translation>复制实例...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -4580,7 +4579,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
         <source>Search and filter ...</source>
-        <translation>搜索和筛选</translation>
+        <translation>搜索和筛选...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
@@ -4590,7 +4589,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="91"/>
         <source>Version selected:</source>
-        <translation>已选版本</translation>
+        <translation>已选版本：</translation>
     </message>
     <message>
         <source>Search and filter...</source>
@@ -5135,7 +5134,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
         <source>Global Task Status...</source>
-        <translation>全局任务状态</translation>
+        <translation>全局任务状态...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="44"/>
@@ -6340,12 +6339,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation>未选择Mineccraft版本</translation>
+        <translation>未选择Mineccraft版本...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation>未选择模组加载器</translation>
+        <translation>未选择模组加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
