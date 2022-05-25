@@ -73,12 +73,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge 核心 API（&amp;C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>備註：若 CurseForge 功能已經可以正常運作，你可能就不需要設定此選項。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
@@ -3371,7 +3371,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="292"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>新增實例（&amp;E）…</translation>
+        <translation>新增實例（&amp;E）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
@@ -3383,7 +3383,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="332"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>設定（&amp;N）…</translation>
+        <translation>設定（&amp;N）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
@@ -3413,7 +3413,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="386"/>
         <source>&amp;Update...</source>
-        <translation>更新（&amp;U）…</translation>
+        <translation>更新（&amp;U）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="396"/>
@@ -3495,7 +3495,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation>編輯實例（&amp;A）…</translation>
+        <translation>編輯實例（&amp;A）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="656"/>
@@ -3505,7 +3505,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="661"/>
         <source>E&amp;dit Notes...</source>
-        <translation>編輯筆記（&amp;D）…</translation>
+        <translation>編輯筆記（&amp;D）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="667"/>
@@ -3525,7 +3525,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>&amp;Change Group...</source>
-        <translation>變更群組（&amp;C）…</translation>
+        <translation>變更群組（&amp;C）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
@@ -3555,7 +3555,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>E&amp;xport Instance...</source>
-        <translation>匯出實例（&amp;X）…</translation>
+        <translation>匯出實例（&amp;X）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
@@ -3565,7 +3565,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Dele&amp;te Instance...</source>
-        <translation>刪除實例（&amp;T）…</translation>
+        <translation>刪除實例（&amp;T）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="731"/>
@@ -3575,7 +3575,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
         <source>Cop&amp;y Instance...</source>
-        <translation>複製實例（&amp;Y）…</translation>
+        <translation>複製實例（&amp;Y）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -3794,7 +3794,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1598"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1640"/>
         <source>Abort</source>
-        <translation>中止</translation>
+        <translation>終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1649"/>
@@ -4035,7 +4035,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟動器將於遊戲崩潰或啟動時自動重啟。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟動器將於遊戲崩潰或結束時自動重啟。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -4047,7 +4047,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟動器將於遊戲啟動或崩潰時自動結束。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;啟動器將於遊戲結束或崩潰時自動退出。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
@@ -4094,32 +4094,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="15"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished">正在取得 Minecraft 個人資料。</translation>
+        <translation>正在取得 Minecraft 個人資料。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="21"/>
         <source>A UUID is required to get the profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要 UUID 來獲取個人資料。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished">此帳號沒有 Minecraft 個人資料。</translation>
+        <translation>此帳號沒有 Minecraft 個人資料。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="72"/>
         <source>Minecraft Java profile acquisition failed.</source>
-        <translation type="unfinished">取得 Minecraft Java 個人資料失敗。</translation>
+        <translation>取得 Minecraft Java 個人資料失敗。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished">無法解析 Minecraft Java 個人資料回應</translation>
+        <translation>無法解析 Minecraft Java 個人資料回應</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="92"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished">取得 Minecraft Java 個人資料成功。</translation>
+        <translation>取得 Minecraft Java 個人資料成功。</translation>
     </message>
 </context>
 <context>
@@ -4127,7 +4127,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="87"/>
         <source>Aborted by user.</source>
-        <translation>被使用者中止。</translation>
+        <translation>被使用者終止。</translation>
     </message>
 </context>
 <context>
