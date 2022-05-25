@@ -143,7 +143,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="524"/>
         <source>Extracting configs...</source>
-        <translation>正在解压配置文件...</translation>
+        <translation>正在解压配置文件......</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="531"/>
@@ -482,7 +482,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>未设置 Microsoft 身份验证客户端 ID。</translation>
+        <translation>未设置微软身份验证客户端 ID。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -506,7 +506,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Microsoft 账户只能在 macOS 10.13 或更新的版本上使用，且完全更新 %1。
+        <translation>微软账户只能在 macOS 10.13 或更新的版本上使用，且完全更新 %1。
 
 请更新您的操作系统和 %1。</translation>
     </message>
@@ -526,7 +526,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您必须先添加拥有 Minecraft 的 Microsoft 或 Mojang 帐户，然后才能添加离线帐户。&lt;br&gt;&lt;br&gt;如果您丢失了帐户，请联系 Microsoft 寻求支持。</translation>
+        <translation>您必须先添加拥有 Minecraft 的微软或 Mojang 帐户，然后才能添加离线帐户。&lt;br&gt;&lt;br&gt;如果您丢失了帐户，请联系微软寻求支持。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="204"/>
@@ -584,7 +584,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation>......</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
@@ -1240,13 +1240,13 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <translation>注意： CurseForge 的 API 非常不靠谱。CurseForge 和在这之上的许多 Mod 作者已经禁止了从第三方应用（像是 PolyMC）处下载他们的 Mod。 因此，你可能需要去手动下载这些 Mod 来配置一个 Mod 包。</translation>
+        <translation>注意： CurseForge 的 API 非常不靠谱。CurseForge 和在这之上的许多模组作者已经禁止了从第三方应用（像是 PolyMC）处下载他们的模组。 因此，你可能需要去手动下载这些模组来配置一个 整合包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索和过滤…</translation>
+        <translation>搜索和过滤…...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1335,7 +1335,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索和过滤…</translation>
+        <translation>搜索和过滤…...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1718,7 +1718,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>这个整合包的一些模组是可有可无的，并且他们将会被下载但不会被默认启用。</translation>
+        <translation>这个整合包的一些模组是可选的。他们将会被下载，但会被默认禁用！</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="591"/>
@@ -1793,7 +1793,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>启用时，启动器将不会检查选中的 Java 是否与实例兼容</translation>
+        <translation>启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
