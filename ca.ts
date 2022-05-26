@@ -115,7 +115,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="245"/>
         <source>No loader version set for modpack!</source>
-        <translation>No s&apos;ha seleccionat una versió per al carregador del modpack!</translation>
+        <translation>No s&apos;ha seleccionat una versió per al carregador del paquet de mods!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
@@ -180,7 +180,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="807"/>
         <source>Installing modpack</source>
-        <translation>Instal·lant el modpack</translation>
+        <translation>Instal·lant el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="819"/>
@@ -298,7 +298,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="306"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Treballant</translation>
+        <translation>Treballant</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="309"/>
@@ -703,7 +703,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Atenció: Això encara està en desenvolupament. Si teniu algun problema amb el modpack importat, podria tractar-se d&apos;un error del programari.</translation>
+        <translation>Atenció: Això encara està en desenvolupament. Si teniu algun problema amb el paquet de mods importat, podria tractar-se d&apos;un error del programari.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -1188,17 +1188,17 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar per nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar per autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordena per nombre de descàrregues</translation>
     </message>
 </context>
 <context>
@@ -1206,64 +1206,64 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versió seleccionada:</translation>
+        <translation>Versió seleccionada:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cercar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: L&apos;API de CurseForge és molt imprevisible. CurseForge i alguns autors de mods han desactivat la capacitat de llançadors de tercers com PolyMC de descarregar mods. Tanmateix, potser és necessari que descarreguis manualment alguns mods per poder instal·lar un paquet de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cercar i filtrar...</translation>
+        <translation>Cercar i filtrar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="59"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordena per destacat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ordenar per popularitat</translation>
+        <translation>Ordenar per popularitat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar per última actualització</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar per nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar per autor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar per total de descàrregues</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="140"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> per </translation>
     </message>
 </context>
 <context>
@@ -1272,7 +1272,7 @@ Per favor, intenta de nou la descàrrega.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">La creació de la carpeta per als binaris del minecraft ha fallat.</translation>
+        <translation>La creació de la carpeta per als binaris del Minecraft ha fallat.</translation>
     </message>
 </context>
 <context>
@@ -1281,19 +1281,19 @@ Per favor, intenta de nou la descàrrega.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Ordena per número de jocs</translation>
+        <translation>Ordena per nombre de vegades jugat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Ordena per instal·lacions</translation>
+        <translation>Ordena per nombre d&apos;instal·lacions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordena per nom</translation>
+        <translation>Ordena per nom</translation>
     </message>
 </context>
 <context>
@@ -1307,7 +1307,7 @@ Per favor, intenta de nou la descàrrega.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cercar i filtrar...</translation>
+        <translation>Cercar i filtrar...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1373,12 +1373,12 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="16"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenint l&apos;aspecte.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha obtingut l&apos;aspecte</translation>
     </message>
 </context>
 <context>
@@ -1473,27 +1473,27 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>El següent tipus d&apos;arxiu són compatibles (tant per arxius locals com per URLs):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- Curseforge modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Paquet de mods de Curseforge (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Paquet de mods de Modrinth (ZIP i mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Instàncies exportades des de PolyMC / MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Paquet de mods de Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1508,7 +1508,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <source>Modrinth pack (*.mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquet de mods de Modrinth (*.mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
@@ -1525,7 +1525,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -1584,7 +1584,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="126"/>
         <source>Extracting modpack</source>
-        <translation>Extraent els paquets de mods</translation>
+        <translation>Extraient el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
@@ -1600,7 +1600,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="191"/>
         <source>Failed to extract modpack</source>
-        <translation>Error a l&apos;extraure el paquet de mods</translation>
+        <translation>Error en extraure el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="218"/>
@@ -1630,7 +1630,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="287"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>Falta la carpeta d&apos;anul·lacions especificada (%1) Potser el modpack ja ha estat utilitzat anteriorment?</translation>
+        <translation>Falta la carpeta d&apos;anul·lacions especificada (%1). Potser el paquet de mods ja ha estat utilitzat anteriorment?</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="309"/>
@@ -1646,13 +1646,13 @@ Per favor, intenta de nou la descàrrega.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="336"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">No s&apos;ha pogut trobar la versió de Forge recomenada per Minecraft %1</translation>
+        <translation>No s&apos;ha pogut trobar la versió de Forge recomanada per Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="388"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="627"/>
         <source>Mod download</source>
-        <translation>Descàrrega de modpack</translation>
+        <translation>Descàrrega de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="404"/>
@@ -1662,7 +1662,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="416"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation>Niar modpacks a modpacks no està implementat, no s&apos;ha descarregat res: %1</translation>
+        <translation>Inserir paquets de mods dins de paquets de mods no està implementat, no s&apos;ha descarregat res: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
@@ -1685,18 +1685,19 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod opcional detectat!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished"></translation>
+        <translation>Un o més mods d&apos;aquest paquet de mods és opcional. Són descarregats però inhabilitats per defecte!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="591"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut processar l&apos;índex del paquet:
+</translation>
     </message>
 </context>
 <context>
@@ -1716,7 +1717,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -1764,12 +1765,12 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si està activat, el llançador no comprovarà si la instància és compatible amb la versió de Java instal·lada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar-se comprovacions de compatibilitat de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -1859,12 +1860,12 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanca el llançador en obrir la finestra del joc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortir del llançador quan la finestra del joc es tanca</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -1895,32 +1896,32 @@ Per favor, intenta de nou la descàrrega.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="355"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="460"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Miscel·lània</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Override global game time settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobreescriu opcions globals de temps del joc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
         <source>Show time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra el temps jugant aquesta instància</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="488"/>
         <source>Record time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar el temps jugat a aquesta instància</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="498"/>
         <source>Set a server to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona un servidor per unir-se al llençar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="518"/>
         <source>Server address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça del servidor:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
@@ -2041,13 +2042,13 @@ Per favor, intenta de nou la descàrrega.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished">Assignació mínima de memòria:</translation>
+        <translation>Assignació &amp;mínima de memòria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="83"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished">Assignació màxima de memòria:</translation>
+        <translation>Assignació mà&amp;xima de memòria:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="93"/>
@@ -2068,30 +2069,30 @@ Per favor, intenta de nou la descàrrega.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">Ruta de acceso de Java:</translation>
+        <translation>Camí d&apos;acces a &amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="178"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
-        <translation type="unfinished">Arguments de JVM:</translation>
+        <translation>Arguments de J&amp;VM:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="210"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">Detecció automàtica...</translation>
+        <translation>Detecció &amp;automàtica...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">Provar</translation>
+        <translation>Provar (&amp;t)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si es troba habilitat, el llançador no preguntarà per una versió de Java si no troba cap.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
@@ -2250,7 +2251,7 @@ Si us plau, esculli un dels següents o busqui un executable java.</translation>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar per nombre de descàrregues</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
@@ -2733,17 +2734,17 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="81"/>
         <source>Public Modpack</source>
-        <translation>Modpack públic</translation>
+        <translation>Paquet de mods públic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="83"/>
         <source>Third Party Modpack</source>
-        <translation>Modpack de tercers</translation>
+        <translation>Paquet de mods de tercers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="85"/>
         <source>Private Modpack</source>
-        <translation>Modpack privat</translation>
+        <translation>Paquet de mods privat</translation>
     </message>
 </context>
 <context>
@@ -2751,12 +2752,12 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="78"/>
         <source>Public Packs</source>
-        <translation>Modpacks públics</translation>
+        <translation>Paquets de mods públics</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="83"/>
         <source>Third Party Packs</source>
-        <translation>Modpacks de tercers</translation>
+        <translation>Paquets de mods de tercers</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="88"/>
@@ -2779,17 +2780,17 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="81"/>
         <source>Extracting modpack</source>
-        <translation>Extraent el modpack</translation>
+        <translation>Extraient el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="87"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>Error al obrir l&apos;arxiu de modpack %1!</translation>
+        <translation>Error en obrir l&apos;arxiu del paquet de mods %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="110"/>
         <source>Installing modpack</source>
-        <translation>Instal·lant modpack</translation>
+        <translation>Instal·lant el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="117"/>
@@ -2823,12 +2824,12 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="86"/>
         <source>Add pack</source>
-        <translation>Afegir modpack</translation>
+        <translation>Afegir el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="93"/>
         <source>Remove selected pack</source>
-        <translation>Suprimir el modpack seleccionat</translation>
+        <translation>Suprimir el paquet de mods seleccionat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="109"/>
@@ -2842,7 +2843,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="234"/>
         <source>FTB private packs</source>
-        <translation>Modpacks privados de FTB</translation>
+        <translation>Paquets de mods privats de FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="235"/>
@@ -2854,22 +2855,22 @@ Hauria d&apos;eliminar-se ara?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="373"/>
         <source>Add FTB pack</source>
-        <translation>Afegir modpack d&apos;FTB</translation>
+        <translation>Afegir paquet de mods d&apos;FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="374"/>
         <source>Enter pack code:</source>
-        <translation>Introduir codi de modpack:</translation>
+        <translation>Introduir codi del paquet de mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="397"/>
         <source>Remove pack</source>
-        <translation>Eliminar modpack</translation>
+        <translation>Eliminar paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="398"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Estàs segur de que vols eliminar el modpack %1?</translation>
+        <translation>Estàs segur de què vols eliminar el paquet de mods %1?</translation>
     </message>
 </context>
 <context>
@@ -4397,7 +4398,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="62"/>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut trobar la versió %1 del paquet</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="97"/>
@@ -4419,17 +4420,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="166"/>
         <source>Copying modpack files</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiant els arxius del paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="174"/>
         <source>Failed to copy files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallida en copiar els arxius</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="179"/>
         <source>Installing modpack</source>
-        <translation>Instal·lant modpack</translation>
+        <translation>Instal·lant el paquet de mods</translation>
     </message>
 </context>
 <context>
@@ -4445,19 +4446,20 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hi ha hagut una fallida a la xarxa. No s&apos;han pogut carregar els paquets de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="296"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La versió de l&apos;API és molt vella!
+Si us plau, actualitza %1!</translation>
     </message>
 </context>
 <context>
@@ -4498,7 +4500,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Els paquets de mods de Modrinth encara estan en fase d&apos;alfa. Pots trobar alguns problemes o poden fallar totalment. Utilitza-ho amb prudència.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -5832,28 +5834,28 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Descarregant el paquet de mods:
+        <translation>Descarregant el paquet de mods:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Descàrrega del paquet de mods</translation>
+        <translation>Descàrrega del paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraient el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished">No hem estat capaços d&apos;obrir l&apos;arxiu zip del paquet de mods.</translation>
+        <translation>No hem estat capaços d&apos;obrir l&apos;arxiu zip del paquet de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Error a l&apos;extraure el paquet de mods</translation>
+        <translation>Error en extraure el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
@@ -5872,13 +5874,13 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolent arxius del paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="85"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarregant el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
@@ -5889,12 +5891,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="137"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraient el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="178"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Error a l&apos;extraure el paquet de mods</translation>
+        <translation>Error en extraure el paquet de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
@@ -5929,7 +5931,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">No s&apos;ha pogut trobar &quot;version.json&quot; dins de &quot;bin/modpack.jar&quot;, però la versió de minecraft és desconeguda</translation>
+        <translation>No s&apos;ha pogut trobar &quot;version.json&quot; dins de &quot;bin/modpack.jar&quot;, però la versió de Minecraft és desconeguda</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -6475,7 +6477,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>Minecraft.jar mods (*.zip *.jar)</translation>
+        <translation>Mods de Minecraft.jar (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
