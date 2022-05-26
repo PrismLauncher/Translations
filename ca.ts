@@ -672,17 +672,17 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona un codi per compartir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Codi per compartir:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha especificat cap codi!</translation>
     </message>
 </context>
 <context>
@@ -690,12 +690,12 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estàs segur que vols habilitar aquest mod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertència</translation>
     </message>
 </context>
 <context>
@@ -714,27 +714,27 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cercar i filtrar...</translation>
+        <translation>Cercar i filtrar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha versions disponibles actualment per Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="190"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha versions disponibles actualment</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="192"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut carregar o descarregar les llistes de versions!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lant</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -746,17 +746,17 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="20"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;han acabat totes les passes per l&apos;autentificació</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicialitzant</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>Treballant...</translation>
     </message>
 </context>
 <context>
@@ -772,12 +772,12 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="19"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Equipant capa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="33"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Traient capa</translation>
     </message>
 </context>
 <context>
@@ -848,7 +848,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="18"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut crear la carpeta principal del joc</translation>
     </message>
 </context>
 <context>
@@ -857,31 +857,31 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">Comandaments personali&amp;tzats</translation>
+        <translation>Comandes personali&amp;tzades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished">Comandament post-sortida:</translation>
+        <translation>Comanda post-sortida:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished">Comandaments pre-execució:</translation>
+        <translation>Comanda pre-execució:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">Comandament contenidor:</translation>
+        <translation>Comanda contenidor:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La comanda pre-execució s&apos;executa abans que la instància s&apos;iniciï i la post sortida després que es tanqui.&lt;/p&gt;&lt;p&gt;Les dues s&apos;executen al directori arrel del llançador amb els següents arguments: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - nom de l&apos;instància&lt;/li&gt;&lt;li&gt;$INST_ID - ID de la instància (el seu nom de carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - camí absolut a la carpeta &lt;/li&gt;&lt;li&gt;$INST_MC_DIR - camí absolut de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binari de Java utilitzat&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - paràmetres de línia d&apos;ordres pel llançament (advertència: no funcionarà correctament si els arguments contenen espais)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La comanda de contenidor permet executar un programa extra (per exemple &apos;optirun&apos; a Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -904,13 +904,13 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">No s&apos;ha pogut executar Minecraft!</translation>
+        <translation>No s&apos;ha pogut executar Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="110"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>El joc ha fet fallida.</translation>
     </message>
 </context>
 <context>
@@ -936,12 +936,12 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="14"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>Determinant la propietat del joc.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Té drets</translation>
     </message>
 </context>
 <context>
@@ -997,7 +997,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">Editor de text:</translation>
+        <translation>Editor de &amp;text:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -1114,7 +1114,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarregant llibreries FML...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="90"/>
@@ -1172,18 +1172,18 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar per destacat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Ordenar per popularitat</translation>
+        <translation>Ordenar per popularitat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar per última actualització</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
