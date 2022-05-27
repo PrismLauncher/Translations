@@ -5542,7 +5542,7 @@ Se mostrará este mensaje hasta que lo quites de los argumentos de la JVM.</tran
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="37"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>¡La prueba de Java ha sido exitosa!&lt;br /&gt;Plataforma reportada: %1&lt;br /&gt;Versión de Java reportada: %2&lt;br /&gt;Vendedor de Java reportado: %3&lt;br /&gt;</translation>
+        <translation>¡La prueba de Java ha sido exitosa!&lt;br /&gt;Plataforma reportada: %1&lt;br /&gt;Versión de Java reportada: %2&lt;br /&gt;Proveedor de Java reportado: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="44"/>
