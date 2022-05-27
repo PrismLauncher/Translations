@@ -49,7 +49,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Nota: probablemente no necesites ajustar esto si la autenticación a través de Microsoft ya funciona.</translation>
+        <translation>Nota: probablemente no necesites ajustar esto si la autentificación a través de Microsoft ya funciona.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Ingresa un ID de cliente personalizado para la autenticación de Microsoft aquí. </translation>
+        <translation>Ingresa un ID de cliente personalizado para la autentificación de Microsoft aquí. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
@@ -489,7 +489,7 @@ Si eres nuevo aquí, clic en el botón &quot;Añadir&quot; para agregar tu cuent
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Ningún ID de cliente para la autenticación de Microsoft ha sido establecido.</translation>
+        <translation>Ningún ID de cliente para la autentificación de Microsoft ha sido establecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -3176,7 +3176,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>Ha fallado la autenticación de usuario de Microsoft: la identificación del cliente ha cambiado.</translation>
+        <translation>Ha fallado la autentificación de usuario de Microsoft: la identificación del cliente ha cambiado.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
@@ -3186,7 +3186,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation>La autenticación de usuario de Microsoft terminó con un error de red.</translation>
+        <translation>La autentificación de usuario de Microsoft terminó con un error de red.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="139"/>
@@ -3201,7 +3201,7 @@ Motivo:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="149"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
-        <translation>La autenticación de usuario de Microsoft se ha completado con un resultado no reconocido.</translation>
+        <translation>La autentificación de usuario de Microsoft se ha completado con un resultado no reconocido.</translation>
     </message>
 </context>
 <context>
@@ -7222,12 +7222,12 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation>El servidor de autenticación no envió un perfil seleccionado.</translation>
+        <translation>El servidor de autentificación no envió un perfil seleccionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation>El servidor de autenticación no ha enviado un UUID en el perfil seleccionado.</translation>
+        <translation>El servidor de autentificación no ha enviado un UUID en el perfil seleccionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
@@ -7290,7 +7290,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="48"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation>La autenticación de usuario de Mojang terminó con un error de red.</translation>
+        <translation>La autentificación de usuario de Mojang terminó con un error de red.</translation>
     </message>
 </context>
 </TS>
