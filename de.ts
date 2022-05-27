@@ -1829,7 +1829,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation>Java Kompatiblilitätsüberprüfungen überspringen</translation>
+        <translation>Java-Kompatiblilitätsüberprüfungen überspringen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
