@@ -6232,17 +6232,17 @@ falta &quot;inheritsFrom&quot;</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha seleccionat cap versió de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha seleccionat cap carregador de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">No hi ha versions disponibles actualment per Minecraft %1</translation>
+        <translation>No hi ha versions disponibles actualment per Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6250,18 +6250,19 @@ falta &quot;inheritsFrom&quot;</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation type="unfinished"></translation>
+        <translation>La versió major de Java és incompatible. Potser es trenquen les coses.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquesta instància no és compatible amb la versió de Java %1.
+Si us plau, canvia la versió de Java a una de les següents per aquesta instància:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió de Java %1</translation>
     </message>
 </context>
 <context>
@@ -6269,7 +6270,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="26"/>
         <source>No versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualment no hi ha cap versió disponible.</translation>
     </message>
 </context>
 <context>
@@ -6277,7 +6278,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="60"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filtre:</translation>
+        <translation>Filtre:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="82"/>
@@ -6302,7 +6303,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
         <source>Make the selected package apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feu que el paquet seleccionat s&apos;apliqui abans.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
@@ -6312,7 +6313,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
         <source>Make the selected package apply later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feu que el paquet seleccionat s&apos;apliqui més tard.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
@@ -6322,7 +6323,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
         <source>Remove selected package from the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix el paquet seleccionat de la instància.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
@@ -6377,12 +6378,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
         <source>Install Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·la Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Install the Quilt Loader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·la el paquet Quilt Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
@@ -6402,7 +6403,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Install normal mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lar mods normals.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
@@ -6427,7 +6428,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="238"/>
         <source>Add an empty custom package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix un paquet personalitzat buit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
@@ -6447,42 +6448,42 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixeu els fitxers necessaris per iniciar la instància ara.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
         <source>Open .minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrir .minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrir la carpeta .minecraft de la instància.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
         <source>Open libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Llibreries de codi obert</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrir la carpeta llibreries locals de la instància.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="181"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menú contextual</translation>
+        <translation>Menú contextual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="199"/>
         <source>%1 possibly has issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 pot tenir problemes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="202"/>
         <source>%1 has issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 té problemes!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="216"/>
@@ -6532,7 +6533,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Substitució de Minecraft.jar (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
@@ -6542,18 +6543,19 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualment, no hi ha cap versió de mapes intermedis disponible.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="401"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut carregar ni descarregar les llistes de versions de mapes intermedis!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es pot descarregar Minecraft ni actualitzar instàncies tret que tinguis almenys un compte afegit.
+Si us plau, afegeix el teu compte de Mojang o Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
@@ -6563,67 +6565,67 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation type="unfinished"></translation>
+        <translation>Actualment, no hi ha versions de Forge disponibles per a Minecraft </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="458"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut carregar ni descarregar les llistes de versions de Forge!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
         <source>Select Fabric Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu la versió de Fabric Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="485"/>
         <source>No Fabric Loader versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualment, no hi ha versions disponibles de Fabric Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut carregar ni descarregar les llistes de versions de Fabric Loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
         <source>Select Quilt Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu la versió de Quilt Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="512"/>
         <source>No Quilt Loader versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha cap versió de Quilt Loader disponible actualment.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="513"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut carregar ni descarregar les llistes de versions de Quilt Loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
         <source>Select LiteLoader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu la versió de LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="558"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
-        <translation type="unfinished"></translation>
+        <translation>Actualment, no hi ha cap versió de LiteLoader disponible per a Minecraft </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="559"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut carregar ni descarregar les llistes de versions de LiteLoader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="615"/>
         <source>Error updating instance</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha produït un error en actualitzar la instància</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="58"/>
         <source>Version</source>
-        <translation type="unfinished">Versió</translation>
+        <translation>Versió</translation>
     </message>
 </context>
 <context>
@@ -6631,7 +6633,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="76"/>
         <source>Version</source>
-        <translation type="unfinished">Versió</translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="78"/>
@@ -6691,28 +6693,28 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="106"/>
         <source>Filesystem path to this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta del sistema cap aquesta versió</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="108"/>
         <source>Release date of this version</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de publicació d&apos;aquesta versió</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (instal·lat)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="164"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Recomanat</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="171"/>
         <location filename="src/launcher/VersionProxyModel.cpp" line="176"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Últims</translation>
     </message>
 </context>
 <context>
@@ -6725,12 +6727,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="82"/>
         <source>Reloads the version list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Torna a carregar la llista de versions.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Recarrega</translation>
+        <translation>&amp;Recarrega</translation>
     </message>
 </context>
 <context>
@@ -6744,7 +6746,8 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;actualització de la llista ha fallat:
+%1</translation>
     </message>
 </context>
 <context>
@@ -6768,7 +6771,7 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="256"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mida</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="265"/>
@@ -6778,17 +6781,17 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="267"/>
         <source>Game mode of the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode de joc del món.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>Data i hora en què es va jugar per última vegada el món.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida del món al disc.</translation>
     </message>
 </context>
 <context>
@@ -6821,7 +6824,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
@@ -6846,7 +6849,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina la icona del món per fer que el joc el torni a generar en la següent càrrega.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
@@ -6879,34 +6882,39 @@ Please add your Mojang or Minecraft account.</source>
 The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Això eliminarà el món seleccionat permanentment.
+El món desapareixerà per sempre (MOLT DE TEMPS).
+
+Voleu continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="297"/>
         <source>No MCEdit found or set up!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha trobat ni configurat cap MCEdit!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>No teniu configurat MCEdit o s&apos;ha mogut.
+Podeu configurar-lo a la configuració global.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;MCEdit no s&apos;ha pogut iniciar!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;MCEdit ha fallat al iniciar.
+Pot ser que sigui necessari reinstal·lar-lo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="357"/>
         <source>Select a Minecraft world zip</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona un món de Minecraft en format zip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="358"/>
@@ -6922,18 +6930,19 @@ It may be necessary to reinstall it.</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Canviar un món mentre s&apos;executa Minecraft és potencialment insegur.
+Vols continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
         <source>World name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del món</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
         <source>Enter a new name for the copy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu un nom nou per a la còpia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
@@ -6946,62 +6955,66 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="21"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;està obtenint l&apos;autorització per accedir als serveis de %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut obtenir l&apos;autorització per als serveis %1. Error %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut processar la resposta d&apos;autorització per accedir als serveis %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor ha canviat el hash de l&apos;autorització d&apos;usuari de %1 a la resposta. Alguna cosa està malament.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha obtingut l&apos;autorització per accedir a %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="109"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>No es pot processar la resposta de %1 d&apos;error d&apos;autorització com a JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="119"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falta l&apos;element XErr a la resposta d&apos;error d&apos;autorització de %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="127"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest compte de Microsoft no té un perfil d&apos;XBox Live. Compra primer el joc a %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>XBox Live no està disponible al teu país. T&apos;han bloquejat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest compte de Microsoft és d&apos;una persona menor d&apos;edat i no està vinculat a cap família.
+
+Configureu el vostre compte segons %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;autenticació XSTS ha finalitzat amb errors no reconeguts:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -7009,17 +7022,17 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="17"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;està obtenint el perfil de l&apos;Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="63"/>
         <source>Failed to retrieve the Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut recuperar el perfil de l&apos;Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="72"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha obtingut el perfil de l&apos;Xbox</translation>
     </message>
 </context>
 <context>
@@ -7027,22 +7040,22 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="15"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciant sessió com a usuari de l&apos;Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="56"/>
         <source>XBox user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;autenticació de l&apos;usuari de XBox ha fallat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut entendre la resposta d&apos;autenticació d&apos;usuari de l&apos;XBox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="67"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha obtingut el token d&apos;usuari de l&apos;Xbox</translation>
     </message>
 </context>
 <context>
@@ -7050,67 +7063,67 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="188"/>
         <source>Authentication server didn&apos;t send a client token.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor d&apos;autenticació no ha enviat cap token de client.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="195"/>
         <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor d&apos;autenticació ha intentat canviar el token de client. Això no és suportat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="204"/>
         <source>Authentication server didn&apos;t send an access token.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor d&apos;autenticació no ha enviat cap token d&apos;accés.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor d&apos;autenticació no ha enviat un perfil seleccionat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor d&apos;autenticació no ha enviat un UUID al perfil seleccionat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
         <source>Authentication operation timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha esgotat el temps de l&apos;operació d&apos;autenticació.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="251"/>
         <source>Authentication operation cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha cancel·lat l&apos;operació d&apos;autenticació.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;El &quot;SSL Handshake&quot; ha fallat.&lt;/b&gt;&lt;br/&gt;Podrien haver-hi algunes causes:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Utilitzeu Windows i necessiteu actualitzar els vostres certificats; instal·leu les actualitzacions pendents.&lt;/li&gt;&lt;li&gt;Algun dispositiu de la vostra xarxa està interferint amb el trànsit SSL. En aquest cas, tens més preocupacions que Minecraft que no s&apos;iniciï.&lt;/li&gt;&lt;li&gt;Possiblement una altra cosa. Comproveu el fitxer de registre per obtenir més informació&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>El compte de Mojang ja no existeix. Pot ser que s&apos;hagi migrat a un compte Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;operació d&apos;autenticació ha fallat a causa d&apos;un error de xarxa: %1 (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut analitzar la resposta JSON del servidor d&apos;autenticació: %1 a la posició %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha produït un error desconegut en intentar comunicar-se amb el servidor d&apos;autenticació: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha produït un error de Yggdrasil desconegut.</translation>
     </message>
 </context>
 <context>
@@ -7118,22 +7131,22 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="17"/>
         <source>Logging in with Mojang account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciant sessió amb el compte Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="34"/>
         <source>Logged in with Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha iniciat la sessió amb Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="43"/>
         <source>Mojang user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;autenticació de l&apos;usuari Mojang ha fallat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="48"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;autenticació d&apos;usuari de Mojang va acabar amb un error de xarxa.</translation>
     </message>
 </context>
 </TS>
