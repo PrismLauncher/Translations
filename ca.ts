@@ -2097,18 +2097,18 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar-se el configurador de Java (&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si s&apos;habilita, el llançador no comprovarà si la instància és compatible amb la versió de Java seleccionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="197"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salta les comprovacions de compatibilitat de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2141,7 +2141,12 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No has seleccionat una versió de Java o la seleccionada no funciona
+%1 no serà capaç d&apos;iniciar Minecraft
+Vols continuar sense cap Java?
+
+Pots canviar les opcions de Java més tard
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="265"/>
@@ -2197,8 +2202,8 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">No té una configuració Java que funcioni encara o ha desaparegut.
-Si us plau, esculli un dels següents o busqui un executable java.</translation>
+        <translation>No té una configuració Java que funcioni encara o ha desaparegut.
+Si us plau, esculli un dels següents o busqui un executable Java.</translation>
     </message>
 </context>
 <context>
@@ -2227,7 +2232,7 @@ Si us plau, esculli un dels següents o busqui un executable java.</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="47"/>
         <source>Select the language to use in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona la llengua a utilitzar en %1</translation>
     </message>
 </context>
 <context>
@@ -2240,7 +2245,7 @@ Si us plau, esculli un dels següents o busqui un executable java.</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;han especificat arguments invàlids de Java. Soluciona això abans de tot.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -2256,7 +2261,7 @@ Si us plau, esculli un dels següents o busqui un executable java.</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quin compte voldries utilitzar?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="139"/>
@@ -2286,7 +2291,7 @@ Si us plau, esculli un dels següents o busqui un executable java.</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="217"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jugar a la demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="218"/>
@@ -2294,22 +2299,25 @@ Si us plau, esculli un dels següents o busqui un executable java.</translation>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest compte no posseeix Minecraft
+Necessites comprar el joc abans per jugar-lo.
+
+Vols jugar la demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="220"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Jugar la demo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="221"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="231"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Llançament cancel·lat - el compte no posseeix Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="247"/>
@@ -2319,32 +2327,32 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="260"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation type="unfinished"></translation>
+        <translation>El compte ha expirat i és necessari tornar a iniciar sessió manualment.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="263"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en recarregar el compte</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="272"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>La identificació client del llançador ha canviat. Si us plau, elimina el compte i torna a afegir-ho.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="275"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>La identificació del client ha canviat</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="284"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>El compte ja no existeix als servidors. Potser ha sigut migrada, en aquest cas afegeix el nou compte al qual has migrat.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="287"/>
         <source>Account gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Compte eliminat</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
@@ -2432,7 +2440,8 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha aturat la visió del registre del joc, ja que ha sobrepassat %1 línies.
+És possible que hagis d&apos;arreglar els teus mods perquè el joc encara està registrant i és possible que això ompli el teu disc dur a una velocitat alarmant!</translation>
     </message>
 </context>
 <context>
@@ -2440,17 +2449,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="16"/>
         <source>Accessing Mojang services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Accedint als serveis de Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error en obtenir el token d&apos;accés de Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="75"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallida en processar la resposta del token d&apos;accés de Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -2458,191 +2467,191 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Característiques</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzar opcions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates on start?</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar actualitzacions en iniciar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
         <source>Up&amp;date Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Canal &amp;d&apos;actualitzacions:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="81"/>
         <source>No channel selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap canal ha sigut seleccionat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>Folders</source>
-        <translation type="unfinished">Carpetes</translation>
+        <translation>Carpetes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="100"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;nstàncies:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="120"/>
         <source>&amp;Mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Icones:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="177"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfície d&apos;usuari</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="186"/>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode per ordenar les instàncies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="192"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Per últim cop &amp;llançat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="202"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Per &amp;nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Icones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="251"/>
         <source>Simple (Dark Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple (Icones fosques)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="246"/>
         <source>Simple (Light Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple (Icones clares)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="256"/>
         <source>Simple (Blue Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple (Icones blaves)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="241"/>
         <source>Simple (Colored Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple (Icones de colors)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="271"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Pla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="276"/>
         <source>Legacy</source>
-        <translation type="unfinished">Antic</translation>
+        <translation>Antic</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="281"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalitzat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="289"/>
         <source>&amp;Colors</source>
         <oldsource>Colors</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Colors</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="321"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Eines</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="327"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>La barra de menú és més còmoda per interacció amb el teclat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="330"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Reemplaçar la barra d&apos;eines amb una barra de menús</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="354"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Consola</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="360"/>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions de la consola</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="366"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Mostrar la consola mentre el joc s&apos;està executant?</translation>
+        <translation>Mostrar la consola ment&amp;re el joc s&apos;està executant?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="373"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Tancar la consola automàticament quan es tanqui el joc?</translation>
+        <translation>T&amp;ancar la consola automàticament quan es tanqui el joc?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="380"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Mostrar la consola quan el joc es tanca de forma inesperada?</translation>
+        <translation>Mostrar la consola quan el joc es tan&amp;ca de forma inesperada?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="390"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Límit del &amp;historial</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="396"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Deixar de registrar quan el registre es &amp;sobrecarrega</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> línies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="437"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Font de la consola</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
         <source>Instance Folder</source>
-        <translation type="unfinished">Carpeta d&apos;Instància</translation>
+        <translation>Carpeta d&apos;Instància</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
