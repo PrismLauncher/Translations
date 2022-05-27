@@ -4538,7 +4538,7 @@ Si us plau, actualitza %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished">Ordena per rellevància</translation>
+        <translation>Ordena per rellevància</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
@@ -5122,18 +5122,18 @@ Elegeix un nom amb cura:</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation>Nom d&apos;usuari/ària/ària:</translation>
+        <translation>Nom d&apos;usuari/ària:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation>Contrasenya:</translation>
+        <translation>C&amp;ontrasenya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: El nom d&apos;usuari i contrasenya són guardats en text pla a l&apos;arxiu de configuració del llançador!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="59"/>
@@ -5146,17 +5146,17 @@ Elegeix un nom amb cura:</translation>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="10"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Fosc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="47"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="10"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>Clar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="122"/>
