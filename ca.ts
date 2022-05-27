@@ -4538,7 +4538,7 @@ Si us plau, actualitza %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ordena per rellevància</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
@@ -5207,7 +5207,7 @@ Elegeix un nom amb cura:</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="100"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (en ús)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="63"/>
