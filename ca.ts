@@ -880,7 +880,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La comanda pre-execució s&apos;executa abans que la instància s&apos;iniciï i la post sortida després que es tanqui.&lt;/p&gt;&lt;p&gt;Les dues s&apos;executen al directori arrel del llançador amb els següents arguments: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - nom de l&apos;instància&lt;/li&gt;&lt;li&gt;$INST_ID - ID de la instància (el seu nom de carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - camí absolut a la carpeta &lt;/li&gt;&lt;li&gt;$INST_MC_DIR - camí absolut de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binari de Java utilitzat&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - paràmetres de línia d&apos;ordres pel llançament (advertència: no funcionarà correctament si els arguments contenen espais)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La comanda de contenidor permet executar un programa extra (per exemple &apos;optirun&apos; a Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La comanda pre-execució s&apos;executa abans que la instància s&apos;iniciï i la post sortida després que es tanqui.&lt;/p&gt;&lt;p&gt;Les dues s&apos;executen al directori arrel del llançador amb els següents arguments: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - nom de la instància&lt;/li&gt;&lt;li&gt;$INST_ID - ID de la instància (el seu nom de carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - ruta absoluta a la carpeta &lt;/li&gt;&lt;li&gt;$INST_MC_DIR - rut a absoluta de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binari de Java utilitzat&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - paràmetres de línia d&apos;ordres pel llançament (advertència: no funcionarà correctament si els arguments contenen espais)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La comanda de contenidor permet executar un programa extra (per exemple &apos;optirun&apos; a Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2068,7 +2068,7 @@ Per favor, intenta de nou la descàrrega.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Camí d&apos;acces a &amp;Java:</translation>
+        <translation>Ruta d&apos;acces a &amp;Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="178"/>
@@ -2655,12 +2655,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Estàs intentant utilitzar una carpeta d&apos;instància on el seu camí conté almenys un &quot;!&quot;. Java és conegut per causar problemes en aquest cas. Potser les teves instàncies no funcionen!</translation>
+        <translation>Estàs intentant utilitzar una carpeta d&apos;instància on la seva ruta conté almenys un &quot;!&quot;. Java és conegut per causar problemes en aquest cas. Potser les teves instàncies no funcionen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Estàs segur que vols utilitzar aquest camí? Seleccionar &quot;No&quot; tancarà aquest diàleg i deixarà el camí de la instància com està.</translation>
+        <translation>Estàs segur que vols utilitzar aquesta ruta? Seleccionar &quot;No&quot; tancarà aquest diàleg i deixarà la ruta de la instància com està.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="142"/>
@@ -3665,7 +3665,7 @@ Motiu:
         <location filename="src/launcher/ui/MainWindow.cpp" line="839"/>
         <source>%1 - Version %2</source>
         <comment>Launcher - Version X</comment>
-        <translation>%2 - Versió %1</translation>
+        <translation>%1 - Versió %2</translation>
     </message>
     <message>
         <source> on %1</source>
@@ -5445,31 +5445,31 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="44"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Advertències:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="54"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>El binari de Java especificat no ha funcionat amb els arguments que li has proporcionat:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>El binari de Java especificat no ha funcionat.&lt;br /&gt;Hauries d&apos;utilitzar l&apos;eina d&apos;autodetecció o establir el camí a un executable de Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
         <source>Download of meta file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Descàrrega de l&apos;arxiu meta %1</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="140"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="153"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="166"/>
         <source>Unknown format version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Format de versió no reconegut!</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
@@ -5480,18 +5480,18 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="98"/>
         <source>Invalid path to JVisualVM</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta no valida per a JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>La ruta no existeix</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="110"/>
         <source>Invalid JProfiler install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lació de JProfiler invalida</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="31"/>
@@ -5509,22 +5509,22 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="10"/>
         <source>Is the resource pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>Està habilitat el paquet de recursos?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="12"/>
         <source>The name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom del paquet de recursos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="14"/>
         <source>The version of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>La versió del paquet de recursos.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="16"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>La data i hora en el que el paquet de recursos va canviar per últim cop (o va ser afegit).</translation>
     </message>
 </context>
 <context>
@@ -5540,17 +5540,17 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="14"/>
         <source>Confirm mod selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar la selecció de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="26"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estàs a punt de descarregar els següents mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="26"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l&apos;arxiu: %1</translation>
     </message>
 </context>
 <context>
@@ -5578,57 +5578,57 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation type="unfinished">Mostra la carpeta</translation>
+        <translation>Mostra la carpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia la imatge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia el(s) fitxer(s)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Captures de pantalla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="320"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menú contextual</translation>
+        <translation>Menú contextual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="394"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="434"/>
         <source>Failed to upload screenshots!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut pujar les captures de pantalla!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="395"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="435"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error desconegut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
         <source>Upload finished</source>
-        <translation type="unfinished">La càrrega ha finalitzat</translation>
+        <translation>La pujada ha finalitzat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;enllaç &lt;a href=&quot;%1&quot;&gt;a la captura de pantalla pujada&lt;/a&gt; s&apos;ha col·locat al porta-retalls.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="447"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;enllaç &lt;a href=&quot;%1&quot;&gt;a l&apos;àlbum penjat&lt;/a&gt; s&apos;ha col·locat al porta-retalls.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
@@ -5646,7 +5646,7 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="61"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;està executant la tasca %1 de %2</translation>
     </message>
 </context>
 <context>
@@ -5654,17 +5654,17 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="324"/>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="326"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="328"/>
         <source>Latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Latència</translation>
     </message>
 </context>
 <context>
@@ -5672,37 +5672,37 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nom</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>Rec&amp;ursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
         <source>Ask to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguntar abans de descarregar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="114"/>
         <source>Always download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarregar sense preguntar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="119"/>
         <source>Never download</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai descarregar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
         <source>Actions</source>
-        <translation type="unfinished">Accions</translation>
+        <translation>Accions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="155"/>
@@ -5727,7 +5727,7 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Unir-se</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="66"/>
@@ -5750,7 +5750,7 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&lt; &amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; &amp;Enrere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
@@ -5765,7 +5765,7 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Configuració ràpida</translation>
     </message>
 </context>
 <context>
@@ -5773,7 +5773,7 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="47"/>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquets de shaders</translation>
     </message>
 </context>
 <context>
@@ -5802,12 +5802,12 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="93"/>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="97"/>
         <source>Skin Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Pujar aspecte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="20"/>
         <source>Skin File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arxiu d&apos;aspecte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="51"/>
@@ -5822,32 +5822,32 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="67"/>
         <source>Alex Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model d&apos;Alex</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="77"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Capa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="44"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitzar URLs remotes per establir l&apos;aspecte no està implementat encara.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="56"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
-        <translation type="unfinished"></translation>
+        <translation>No pots utilitzar una adreça URL no vàlida per penjar aspectes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="71"/>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;arxiu d&apos;aspecte no existeix!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="93"/>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut pujar l&apos;aspecte!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="97"/>
@@ -5857,12 +5857,12 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="104"/>
         <source>Select Skin Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona la textura per l&apos;aspecte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="121"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Sense capa</translation>
     </message>
 </context>
 <context>
@@ -5897,12 +5897,12 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">No hem pogut solucionar els permissos per a %1</translation>
+        <translation>No hem pogut solucionar els permisos per a %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">La importació de la instància ha estat avortada.</translation>
+        <translation>La importació de la instància ha estat avortada.</translation>
     </message>
 </context>
 <context>
@@ -5923,7 +5923,8 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;entén el manifest del paquet:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="137"/>
@@ -5938,12 +5939,12 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">No hem pogut solucionar els permissos per a %1</translation>
+        <translation>No hem pogut solucionar els permisos per a %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="222"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">La importació de la instància ha estat avortada.</translation>
+        <translation>La importació de la instància ha estat avortada.</translation>
     </message>
 </context>
 <context>
@@ -5956,13 +5957,13 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="68"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut obrir &quot;fmlversion.properties&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="82"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="137"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut obrir &quot;version.json&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
@@ -5973,29 +5974,31 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut obrir &quot;forgeversion.properties&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;forgeversion.properties&quot; invalida!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="146"/>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha trobat &quot;version.json&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="159"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut entendre &quot;version&quot;.json
+falta &quot;inheritsFrom&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="200"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut entendre &quot;version.json&quot;:
+</translation>
     </message>
 </context>
 <context>
@@ -6003,23 +6006,23 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versió seleccionada:</translation>
+        <translation>Versió seleccionada:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="70"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cercar i filtrar...</translation>
+        <translation>Cercar i filtrar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="77"/>
         <source>Search</source>
-        <translation type="unfinished">Cercar</translation>
+        <translation>Cercar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <source> by </source>
-        <translation type="unfinished"> per </translation>
+        <translation> per </translation>
     </message>
 </context>
 <context>
@@ -6027,22 +6030,22 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="10"/>
         <source>Is the texture pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>És habilitat el paquet de textures?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="12"/>
         <source>The name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom del paquet de textures.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="14"/>
         <source>The version of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>La versió del paquet de textures.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="16"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>La data i l&apos;hora que es va modificar (o afegir) per darrera vegada aquest paquet de textures.</translation>
     </message>
 </context>
 <context>
@@ -6050,7 +6053,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="47"/>
         <source>Texture packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquets de textures</translation>
     </message>
 </context>
 <context>
@@ -6061,27 +6064,30 @@ inheritsFrom is missing</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:
+%2 traduït
+%3 difús
+%4 total</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="460"/>
         <source>Language</source>
-        <translation type="unfinished">Llengua</translation>
+        <translation>Llengua</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="464"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation>Integritat</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="474"/>
         <source>The native language name.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom de la llengua materna.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>La integritat és el percentatge de cadenes totalment traduïdes, sense comptar les endevinades automàticament.</translation>
     </message>
 </context>
 <context>
@@ -6089,14 +6095,16 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="23"/>
         <source>Task aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasca avortada.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="52"/>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;actualització de la instància ha fallat per la següent raó: %1
+
+</translation>
     </message>
 </context>
 <context>
@@ -6105,42 +6113,42 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Actualització del llançador</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzar ara</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="74"/>
         <source>Don&apos;t update yet</source>
-        <translation type="unfinished"></translation>
+        <translation>No actualitzis encara</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="17"/>
         <source>A new %1 update is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hi ha disponible una nova actualització de %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="21"/>
         <source>No %1 updates found. You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han trobat actualitzacions %1. Esteu executant la darrera versió.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="23"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Tancar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="25"/>
         <source>&lt;center&gt;&lt;h1&gt;Loading changelog...&lt;/h1&gt;&lt;/center&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;&lt;h1&gt;S&apos;està carregant el registre de canvis...&lt;/h1&gt;&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="165"/>
         <source>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Failed to fetch changelog... Error: %1&lt;/span&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;No s&apos;ha pogut obtenir el registre de canvis... Error: %1&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -6148,78 +6156,78 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="66"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions publicades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshots</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshots antigues</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished"></translation>
+        <translation>Betes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished"></translation>
+        <translation>Alfes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished"></translation>
+        <translation>Experiments</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="253"/>
         <source>Refresh</source>
-        <translation type="unfinished">Recarrega</translation>
+        <translation>Recarrega</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregador de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
