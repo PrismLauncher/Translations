@@ -3665,7 +3665,7 @@ Motiu:
         <location filename="src/launcher/ui/MainWindow.cpp" line="839"/>
         <source>%1 - Version %2</source>
         <comment>Launcher - Version X</comment>
-        <translation>% - Versió %2</translation>
+        <translation>%2 - Versió %1</translation>
     </message>
     <message>
         <source> on %1</source>
