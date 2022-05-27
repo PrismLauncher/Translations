@@ -2255,7 +2255,7 @@ Si us plau, esculli un dels següents o busqui un executable Java.</translation>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>Ordenar per nombre de descàrregues</translation>
+        <translation>Per poder jugar Minecraft, necessites almenys un compte de Mojang o Microsoft. Vols obrir el gestor de comptes per afegir-la?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="115"/>
@@ -2655,7 +2655,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Estàs intentant utilitzar una carpeta d&apos;instància on el seu camí conté almenys un &quot;!&quot;. Java és conegut per causar problemes en aquest cas. Potser les teves instàncies no funcionen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
@@ -4740,7 +4740,7 @@ Si us plau, actualitza %1!</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Puja el registre a paste.ee - estarà en línia durant un mes.</translation>
+        <translation>Puja el registre al servei configurat a les preferències.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
