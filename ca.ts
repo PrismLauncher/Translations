@@ -5343,39 +5343,41 @@ Elegeix un nom amb cura:</translation>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="117"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut processar l&apos;arxiu de versió %1: %2 a la línia %3, columna %4.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="157"/>
         <source>Unable to process the version file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut processar l&apos;arxiu de versió %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="463"/>
         <source>No profile (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap perfil (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="352"/>
         <source>Update failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualització fallida!</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="353"/>
         <source>Rollback failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Retrocés de versió fallit!</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut substituir el fitxer %1. Els canvis es revertiran.
+Vegeu el fitxer de registre %2 per obtenir-ne més detalls.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="368"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut suprimir el fitxer %1. Els canvis es revertiran.
+Vegeu el fitxer de registre %2 per obtenir-ne més detalls.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="378"/>
@@ -5391,22 +5393,24 @@ Restaurar una versió anterior?</translation>
         <source>The rollback failed too.
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
-        <translation type="unfinished"></translation>
+        <translation>El retrocés també ha fallat.
+Haureu de reparar %1 manualment.
+Si us plau, feu-nos saber per què i com va passar això.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1m %2s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1m %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1h %2m</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1d %2h %3m</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="10"/>
@@ -5416,24 +5420,27 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Heu intentat establir manualment una opció de memòria JVM (utilitzant &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; o &quot;-Xms&quot;).
+Hi ha quadres dedicats per a aquests a la configuració (pestanya Java, al grup Memòria a la part superior).
+Aquest missatge es mostrarà fins que els suprimiu dels arguments JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="15"/>
         <location filename="src/launcher/JavaCommon.cpp" line="26"/>
         <source>JVM arguments warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertència d&apos;arguments JVM</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="22"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Heu provat de passar l&apos;argument de la versió Java necessària a la JVM (utilitzant &quot;-version:xxx&quot;). Això no és segur i no es permetrà.
+Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="37"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>El test de Java s&apos;ha completat correctament!&lt;br /&gt;Plataforma reportada: %1&lt;br /&gt;Versió de Java reportada: %2&lt;br /&gt;Proveïdor de Java reportat: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="44"/>
