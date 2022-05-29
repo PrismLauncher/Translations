@@ -19,11 +19,11 @@
             "untranslated" : 807
         },
         "ca" : {
-            "file" : "720dec8f6b3e320080e9c9688fab76e1dba3fbcc.class",
-            "sha1" : "720dec8f6b3e320080e9c9688fab76e1dba3fbcc",
-            "size" : 175355,
-            "translated" : 1214,
-            "fuzzy" : 2,
+            "file" : "190178c88fa50a3ed8c4134a3c2e6d9103c10d40.class",
+            "sha1" : "190178c88fa50a3ed8c4134a3c2e6d9103c10d40",
+            "size" : 175371,
+            "translated" : 1216,
+            "fuzzy" : 0,
             "untranslated" : 5
         },
         "cs" : {
