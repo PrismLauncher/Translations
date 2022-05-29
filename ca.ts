@@ -3221,7 +3221,7 @@ Motiu:
         <location filename="src/launcher/ui/MainWindow.cpp" line="307"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>Veure la carpeta de Mods &amp;central</translation>
+        <translation>Veure la carpeta de mods &amp;central</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="308"/>
@@ -3487,17 +3487,17 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="661"/>
         <source>E&amp;dit Notes...</source>
-        <translation>E&amp;ditar Notes...</translation>
+        <translation>E&amp;ditar notes...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="667"/>
         <source>View &amp;Mods</source>
-        <translation>Veure &amp;Mods</translation>
+        <translation>Veure &amp;mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="673"/>
         <source>&amp;View Worlds</source>
-        <translation>&amp;Veure Mons</translation>
+        <translation>&amp;Veure mons</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="679"/>
@@ -3527,7 +3527,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
         <source>Confi&amp;g Folder</source>
-        <translation>Carpeta de Con&amp;figuració</translation>
+        <translation>Carpeta de con&amp;figuració</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
@@ -3547,7 +3547,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Dele&amp;te Instance...</source>
-        <translation>Eliminar Ins&amp;tància...</translation>
+        <translation>Eliminar ins&amp;tància...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="731"/>
