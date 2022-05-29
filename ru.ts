@@ -5828,7 +5828,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/ScrollMessageBox.ui" line="14"/>
         <source>ScrollMessageBox</source>
-        <translation type="unfinished"></translation>
+        <translation>Окно сообщения с прокруткой</translation>
     </message>
 </context>
 <context>
