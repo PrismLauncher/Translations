@@ -5,9 +5,9 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>Pastebin Service</source>
-        <oldsource>&amp;Pastebin URL</oldsource>
-        <translation>Serviço de Paste</translation>
+        <source>&amp;Pastebin Service</source>
+        <oldsource>Pastebin Service</oldsource>
+        <translation type="unfinished">Serviço de Paste</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -19,68 +19,73 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
-        <source>Paste Service Type</source>
-        <translation>Tipo de serviço de paste</translation>
+        <source>Paste Service &amp;Type</source>
+        <oldsource>Paste Service Type</oldsource>
+        <translation type="unfinished">Tipo de serviço de paste</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
         <source>Base URL</source>
-        <translation>URL de base</translation>
+        <translation type="vanished">URL de base</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
+        <source>Base &amp;URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
         <translation>Nota: Você provavelmente irá querer mudar ou remover o URL de base depois de mudar o tipo de serviço.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>Autenticação da &amp;Microsoft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Nota: Você provavelmente não precisa mudar isso se o seu login via a autenticação da Microsoft já funciona.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="194"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="200"/>
         <source>(Default)</source>
         <translation>(Padrão)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation>Insira um ID personalizado de cliente de Autenticação da Microsoft aqui. </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
         <source>Meta&amp;data Server</source>
         <translation>Servidor de Meta&amp;data</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>Você pode usar isso para usar um serviço third-party de metadata, para usar bibliotecas com patches, por exemplo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Enter a custom URL for meta here.</source>
         <translation>Insira um URL customizado aqui.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>&amp;CurseForge Core API</source>
         <translation>API do &amp;CurseForge Core</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="190"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>Nota: Você provavelmente não precisa mudar isso se o CurseForge já funciona.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <source>Enter a custom API Key for CurseForge here. </source>
         <translation>Insira uma chave customizada da API aqui. </translation>
     </message>
@@ -1163,14 +1168,13 @@ Por favor, tente novamente.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="10"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="12"/>
         <source>Resolving mod IDs...</source>
         <translation>Resolvendo IDs do mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
-        <translation>Algumas tarefas de resolução de IDs dos mods falharam.</translation>
+        <translation type="vanished">Algumas tarefas de resolução de IDs dos mods falharam.</translation>
     </message>
 </context>
 <context>
@@ -1621,130 +1625,145 @@ Por favor, tente novamente.</translation>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="90"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Baixando modpack:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="97"/>
         <source>Modpack download</source>
         <translation>Download do modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="126"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="127"/>
         <source>Extracting modpack</source>
         <translation>Extraindo modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Não foi possível abrir o .zip do modpack fornecido.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="242"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>O arquivo não contém um tipo de modpack legível.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="191"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
         <source>Failed to extract modpack</source>
         <translation>Falha ao extrair modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="218"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="227"/>
         <source>Could not fix permissions for %1</source>
         <translation>Não foi possível corrigir as permissões para: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Instance import has been aborted.</source>
         <translation>A importação da instância foi cancelada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Não foi possível entender o manifesto do pacote:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="281"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="599"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="683"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Não foi possível renomear a pasta de substituições:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="287"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>A pasta de substituições especificada (%1) está ausente. Talvez o modpack já tenha sido usado anteriormente?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="309"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="318"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Mod loader desconhecido no manifesto: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="320"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="329"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Pontos misteriosos foram removidos da versão do Minecraft ao importar o modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="336"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="345"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation>Não foi possível mapear a versão recomendada do Forge para o Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="388"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="627"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
+        <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="711"/>
         <source>Mod download</source>
         <translation>Download do mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="404"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="433"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="487"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Talvez essa &quot;pasta&quot; precise ser extraída: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="416"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="501"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>O agrupamento de modpacks em outros ainda não foi implementado, nada foi baixado: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="453"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="507"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>PackageType não reconhecido/processado para: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="441"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="651"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="735"/>
         <source>Downloading mods...</source>
         <translation>Baixando mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="448"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Não foi possível resolver os IDs de mods:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="615"/>
         <source>Optional mod detected!</source>
         <translation>Mod opcional detectado!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>Um ou mais mods desse modpack são opcionais. Eles serão baixados, mas desabilitados por padrão!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="591"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="675"/>
         <source>Could not understand pack index:
 </source>
         <translation>Não foi possível entender o índice do pack:
@@ -4700,6 +4719,14 @@ Por favor atualize o %1!</translation>
     </message>
 </context>
 <context>
+    <name>Net::Upload</name>
+    <message>
+        <location filename="src/launcher/net/Upload.cpp" line="150"/>
+        <source>Uploading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NetJob</name>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="208"/>
@@ -5781,6 +5808,14 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
         <source>This will delete all selected screenshots.</source>
         <translation>Isso apagará as capturas de tela selecionadas.</translation>
+    </message>
+</context>
+<context>
+    <name>ScrollMessageBox</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.ui" line="14"/>
+        <source>ScrollMessageBox</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

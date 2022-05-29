@@ -5,9 +5,9 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>Pastebin Service</source>
-        <oldsource>&amp;Pastebin URL</oldsource>
-        <translation>Pastebin 서비스</translation>
+        <source>&amp;Pastebin Service</source>
+        <oldsource>Pastebin Service</oldsource>
+        <translation type="unfinished">Pastebin 서비스</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -19,68 +19,73 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
-        <source>Paste Service Type</source>
-        <translation>Pastebin 서비스 종류</translation>
+        <source>Paste Service &amp;Type</source>
+        <oldsource>Paste Service Type</oldsource>
+        <translation type="unfinished">Pastebin 서비스 종류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
         <source>Base URL</source>
-        <translation>기본 URL</translation>
+        <translation type="vanished">기본 URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
+        <source>Base &amp;URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
         <translation>참고: Pastebin 서비스를 변경한 후 기본 URL을 변경하거나 지울 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>&amp;Microsoft 인증</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>참고: Microsoft 인증을 통한 로그인이 이미 작동하는 경우에는 이 설정을 하지 않아도 됩니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="194"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="200"/>
         <source>(Default)</source>
         <translation>(기본값)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation>이곳에 Microsoft 인증을 위한 사용자 지정 클라이언트 ID를 입력합니다. </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
         <source>Meta&amp;data Server</source>
         <translation>메타데이터 서버 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>제 3자 메타데이터 서버로 설정하여 패치된 라이브러리 또는 기타 해킹을 사용할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Enter a custom URL for meta here.</source>
         <translation>이곳에 사용자 지정 메타 URL을 입력합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>&amp;CurseForge Core API</source>
         <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="190"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>참고: CurseForge가 이미 작동하는 경우에는 이 설정을 하지 않아도 됩니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <source>Enter a custom API Key for CurseForge here. </source>
         <translation>이곳에 CurseForge의 사용자 지정 API 키를 입력합니다. </translation>
     </message>
@@ -1155,14 +1160,13 @@ Please try again.</source>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="10"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="12"/>
         <source>Resolving mod IDs...</source>
         <translation>모드 ID 처리중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
-        <translation>일부 모드 ID 처리 작업이 실패하였습니다.</translation>
+        <translation type="vanished">일부 모드 ID 처리 작업이 실패하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -1589,130 +1593,145 @@ Please try again.</source>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="90"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Downloading modpack:
 %1</source>
         <translation>모드팩 다운로드 중:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="97"/>
         <source>Modpack download</source>
         <translation>모드팩 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="126"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="127"/>
         <source>Extracting modpack</source>
         <translation>모드팩 추출 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>모드팩 압축 파일을 열 수 없음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="242"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>압축 파일이 인식 가능한 모드팩을 가지고 있지 않음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="191"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
         <source>Failed to extract modpack</source>
         <translation>모드팩 추출 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="218"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="227"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Instance import has been aborted.</source>
         <translation>인스턴스 읽어들이기가 중단되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>팩 manifest를 해석하지 못함:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="281"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="599"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="683"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>덮어쓰는 폴더를 이름 바꾸지 못함:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="287"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>지정된 덮어쓸 폴더 (%1)이 존재하지 않습니다. 이미 모드팩이 쓰였을지도요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="309"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="318"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Manifest의 알 수 없는 모드 로더 오류: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="320"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="329"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>읽어들이는 중 마인크래프트 버전에 있는 먼지를 청소했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="336"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="345"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation>마인크래프트 %1에 권장되는 Forge 버전을 결정하지 못하였습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="388"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="627"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
+        <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="711"/>
         <source>Mod download</source>
         <translation>모드 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="404"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="433"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="487"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>이 &apos;폴더&apos;는 추출을 필요로 할 지도 모릅니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="416"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="501"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>중첩된 구조, 즉 모드팩 안의 모드팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="453"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="507"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>인식불가/사용불가인 패키지 유형(PackageType) 으로 나타남: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="441"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="651"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="735"/>
         <source>Downloading mods...</source>
         <translation>모드 다운로드 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="448"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>모드 ID 처리 실패:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="615"/>
         <source>Optional mod detected!</source>
         <translation>선택적 모드가 감지되었습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>이 모드팩의 모드중 하나 이상은 선택적 모드입니다. 다운로드되지만 기본적으로 비활성화됩니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="591"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="675"/>
         <source>Could not understand pack index:
 </source>
         <translation>팩 인덱스를 분석할 수 없음:
@@ -4626,6 +4645,14 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>Net::Upload</name>
+    <message>
+        <location filename="src/launcher/net/Upload.cpp" line="150"/>
+        <source>Uploading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NetJob</name>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="208"/>
@@ -5702,6 +5729,14 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
         <source>This will delete all selected screenshots.</source>
         <translation>선택한 모든 스크린샷이 삭제됩니다.</translation>
+    </message>
+</context>
+<context>
+    <name>ScrollMessageBox</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.ui" line="14"/>
+        <source>ScrollMessageBox</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

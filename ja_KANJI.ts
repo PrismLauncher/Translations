@@ -5,74 +5,75 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>Pastebin Service</source>
-        <oldsource>&amp;Pastebin URL</oldsource>
+        <source>&amp;Pastebin Service</source>
+        <oldsource>Pastebin Service</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
-        <source>Paste Service Type</source>
+        <source>Paste Service &amp;Type</source>
+        <oldsource>Paste Service Type</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
-        <source>Base URL</source>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
+        <source>Base &amp;URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="194"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="200"/>
         <source>(Default)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
         <source>Meta&amp;data Server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Enter a custom URL for meta here.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>&amp;CurseForge Core API</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="190"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <source>Enter a custom API Key for CurseForge here. </source>
         <translation type="unfinished"></translation>
     </message>
@@ -1157,14 +1158,13 @@ Please try again.</source>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="10"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="12"/>
         <source>Resolving mod IDs...</source>
         <translation>Mod の識別子を解析中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
-        <translation>いくつかの Mod の識別子の解析に失敗しました。</translation>
+        <translation type="vanished">いくつかの Mod の識別子の解析に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -1590,130 +1590,145 @@ Please try again.</source>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="90"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Mod 整合包を受信中:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="97"/>
         <source>Modpack download</source>
         <translation>Mod 整合包の受信</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="126"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="127"/>
         <source>Extracting modpack</source>
         <translation>Mod 整合包を展開中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>指定した Mod 整合包の zip 圧縮文件を開けません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="242"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>圧縮包には型識別不能な Mod 整合包が含まれていようです。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="191"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
         <source>Failed to extract modpack</source>
         <translation>Mod 整合包の展開に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="218"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="227"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 の権限の修正に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Instance import has been aborted.</source>
         <translation>構成実例の導入は中断されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>整合包の Mod 声明文件の解析に失敗しました: 
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="281"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="599"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="683"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>上書き文件集の名前変更に失敗しました:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="287"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>指定された上書き文件集 (%1) がありません。この Mod 整合包は以前から使われていたのでしょうか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="309"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="318"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Mod 声明文件に不明な Mod 装載器があります: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="320"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="329"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>包の導入中に，Minecraft 版次番号から謎の末尾付点を削除した。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="336"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="345"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation type="unfinished">お勧めの Forge 版次を，以下の Minecraft 構成実例に提供できませんでした: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="388"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="627"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
+        <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="711"/>
         <source>Mod download</source>
         <translation>Mod 受信</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="404"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="433"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="487"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>この文件集(?)は抽出が必要な場合があります: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="416"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="501"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>再嵌構造を持つ Mod 整合包はまだ対応していません，何も受信されませんでした: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="453"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="507"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>識別不能・未処理の包の型: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="441"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="651"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="735"/>
         <source>Downloading mods...</source>
         <translation>Mod を受信中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="448"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Mod 識別子を解析不能:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="615"/>
         <source>Optional mod detected!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="591"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="675"/>
         <source>Could not understand pack index:
 </source>
         <translation type="unfinished"></translation>
@@ -4588,6 +4603,14 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>Net::Upload</name>
+    <message>
+        <location filename="src/launcher/net/Upload.cpp" line="150"/>
+        <source>Uploading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NetJob</name>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="208"/>
@@ -5650,6 +5673,14 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
         <source>This will delete all selected screenshots.</source>
         <translation>これは、選択した全てのスクリーンショットを削除します。</translation>
+    </message>
+</context>
+<context>
+    <name>ScrollMessageBox</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.ui" line="14"/>
+        <source>ScrollMessageBox</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -5,74 +5,75 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>Pastebin Service</source>
-        <oldsource>&amp;Pastebin URL</oldsource>
+        <source>&amp;Pastebin Service</source>
+        <oldsource>Pastebin Service</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
-        <source>Paste Service Type</source>
+        <source>Paste Service &amp;Type</source>
+        <oldsource>Paste Service Type</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
-        <source>Base URL</source>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
+        <source>Base &amp;URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="194"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="200"/>
         <source>(Default)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
         <source>Meta&amp;data Server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Enter a custom URL for meta here.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>&amp;CurseForge Core API</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="190"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <source>Enter a custom API Key for CurseForge here. </source>
         <translation type="unfinished"></translation>
     </message>
@@ -1145,14 +1146,13 @@ Prøv igjen.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="10"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="12"/>
         <source>Resolving mod IDs...</source>
         <translation>Finn modd-ID-ar …</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
-        <translation>Nokre modd-ID-ar vart ikkje funne.</translation>
+        <translation type="vanished">Nokre modd-ID-ar vart ikkje funne.</translation>
     </message>
 </context>
 <context>
@@ -1583,130 +1583,145 @@ Prøv igjen.</translation>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="90"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Laster ned moddpakkar:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="97"/>
         <source>Modpack download</source>
         <translation>Last ned moddpakke</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="126"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="127"/>
         <source>Extracting modpack</source>
         <translation>Pakker ut moddpakke</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Klarte ikkje opna vald moddpakkefil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="242"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arkiv inneheld ikkje ein støtta type moddpakke.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="191"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
         <source>Failed to extract modpack</source>
         <translation>Klarte ikkje pakka ut moddpakke</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="218"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="227"/>
         <source>Could not fix permissions for %1</source>
         <translation>Klarte ikkje fiksa tillatelser for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Instance import has been aborted.</source>
         <translation>Import av førekomst vart avbroten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Forsto ikkje pakkemanifestet
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="281"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="599"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="683"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Klarte ikkje gje nytt namn til overskrivingsmappa:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="287"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Den valde overskrivingsmappa (%1) finst ikkje. Kanskje moddpakka allereie har vorte brukt?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="309"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="318"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Ukjend moddlaster i manifestet: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="320"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="329"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Mystiske punktum etter Minecraft-versjonen vart fjerna mens pakka vart importert.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="336"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="345"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation type="unfinished">Klarte ikkje tilordna anbefalt Forge-versjon til Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="388"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="627"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
+        <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="711"/>
         <source>Mod download</source>
         <translation>Last ned modd</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="404"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="433"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="487"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Denne «mappa» kan måtta pakkas ut: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="416"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="501"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Moddpakkar inni moddpakkar er ikkje støtta. Ingenting vart lasta ned: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="453"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="507"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Ukjend/uhandtert PackageType for «%1»</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="441"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="651"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="735"/>
         <source>Downloading mods...</source>
         <translation>Lastar ned moddar …</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="448"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Klarte ikkje tyda modd-ID-ar:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="615"/>
         <source>Optional mod detected!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="591"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="675"/>
         <source>Could not understand pack index:
 </source>
         <translation type="unfinished"></translation>
@@ -4601,6 +4616,14 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>Net::Upload</name>
+    <message>
+        <location filename="src/launcher/net/Upload.cpp" line="150"/>
+        <source>Uploading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NetJob</name>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="208"/>
@@ -5674,6 +5697,14 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
         <source>This will delete all selected screenshots.</source>
         <translation>Er du sikker på at du vil sletta dei valde skjermbileta.</translation>
+    </message>
+</context>
+<context>
+    <name>ScrollMessageBox</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.ui" line="14"/>
+        <source>ScrollMessageBox</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -5,74 +5,79 @@
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
-        <source>Pastebin Service</source>
-        <oldsource>&amp;Pastebin URL</oldsource>
-        <translation>Pastebin szolgáltatás</translation>
+        <source>&amp;Pastebin Service</source>
+        <oldsource>Pastebin Service</oldsource>
+        <translation type="unfinished">Pastebin szolgáltatás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
-        <source>Paste Service Type</source>
+        <source>Paste Service &amp;Type</source>
+        <oldsource>Paste Service Type</oldsource>
         <translation type="unfinished">Beillesztéssi Szolgáltatás Típusa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="55"/>
         <source>Base URL</source>
-        <translation>Alap URL</translation>
+        <translation type="vanished">Alap URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="72"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
+        <source>Base &amp;URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="85"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>&amp;Microsoft Hitelesítés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>Megjegyzés: valószínűleg nem kell neked ezt beállítani, ha a &quot;bejelentkezés Microsoft hitelesítéssel&quot; már működik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="104"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="194"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="110"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="200"/>
         <source>(Default)</source>
         <translation>(Alapértelmezett)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="111"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="130"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
         <source>Meta&amp;data Server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Enter a custom URL for meta here.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="178"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>&amp;CurseForge Core API</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="190"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>Megjegyzés: valószínűleg már nem kell ezt beállítanod ha a CurseForge már működik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
         <source>Enter a custom API Key for CurseForge here. </source>
         <translation type="unfinished"></translation>
     </message>
@@ -1145,14 +1150,13 @@ Kérlek próbáld újra.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="10"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="12"/>
         <source>Resolving mod IDs...</source>
         <translation>Mod ID-k feloldása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="47"/>
         <source>Some mod ID resolving tasks failed.</source>
-        <translation>Néhány mod ID feloldási feladat sikertelen.</translation>
+        <translation type="vanished">Néhány mod ID feloldási feladat sikertelen.</translation>
     </message>
 </context>
 <context>
@@ -1567,130 +1571,145 @@ Kérlek próbáld újra.</translation>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="90"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Downloading modpack:
 %1</source>
         <translation>Modpack letöltése:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="97"/>
         <source>Modpack download</source>
         <translation>Modpack letöltés</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="126"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="127"/>
         <source>Extracting modpack</source>
         <translation>Modpack kicsomagolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Nem lehet megnyitni a mellékelt modulcsomagfájlt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="175"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="242"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Az archívum nem tartalmaz felismert modulcsomagot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="191"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
         <source>Failed to extract modpack</source>
         <translation>Nem sikerült kicsomagolni a modpackot</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="218"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="227"/>
         <source>Could not fix permissions for %1</source>
         <translation>Nem sikerült javítani az engedélyeket %1 példánynak</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="249"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Instance import has been aborted.</source>
         <translation>A példány importálása megszakadt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="270"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Nem sikerült megérteni a csomag manifesztet:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="281"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="599"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="683"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Nem sikerült átnevezni a felülírási mappát:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="287"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Hiányzik a megadott felülbírálási mappa (%1). Talán a modpacket már korábban használták?</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="309"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="318"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Ismeretlen mod loader a manifesztben: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="320"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="329"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>A Minecraft verzióból eltávolítva titokzatos végpontok a csomag importálása közben.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="336"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="345"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
         <translation type="unfinished">Nem sikerült párosítani a Minecraft %1 ajánlott forge verzióját</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="388"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="627"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
+        <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="711"/>
         <source>Mod download</source>
         <translation>Mod letöltés</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="404"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="433"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="487"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Ennek a &quot;mappának&quot; lehet kicsomagolásra van szüksége: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="416"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="501"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>A modulcsomagokban lévő modulcsomagok nincsenek alkalmazva, semmi nem lett letöltve: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="453"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="507"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Felismerhetetlen / kezeletlen PackageType a következő példánynak: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="441"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="651"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="735"/>
         <source>Downloading mods...</source>
         <translation>Modok letöltése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="448"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Nem sikerült feloldani a mod ID-ket:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="615"/>
         <source>Optional mod detected!</source>
         <translation>Opcionális mod észlelve!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation type="unfinished">Egy vagy több mod ebből a modpackból opcionális. Letöltésre kerülnek, de alapértelmezés szerint le lesznek tiltva!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="591"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="675"/>
         <source>Could not understand pack index:
 </source>
         <translation>A csomagindex nem értelmezhető:
@@ -4569,6 +4588,14 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>Net::Upload</name>
+    <message>
+        <location filename="src/launcher/net/Upload.cpp" line="150"/>
+        <source>Uploading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>NetJob</name>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="208"/>
@@ -5632,6 +5659,14 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
         <source>This will delete all selected screenshots.</source>
         <translation>Ez törli az összes kiválasztott képernyőképet.</translation>
+    </message>
+</context>
+<context>
+    <name>ScrollMessageBox</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.ui" line="14"/>
+        <source>ScrollMessageBox</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
