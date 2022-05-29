@@ -3057,7 +3057,7 @@ Motiu:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
         <source>Bottom</source>
-        <translation>Baix del tot</translation>
+        <translation>Lliscar al final</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
