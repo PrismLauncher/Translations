@@ -22,7 +22,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -1654,12 +1654,12 @@ Per favor, intenta de nou la descàrrega.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;han trobat mods bloquejats</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Els següents mods van ser bloquejats en llançadors de tercers. &lt;br/&gt; Haureu de descarregar-los manualment i afegir-los al modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
@@ -4605,7 +4605,7 @@ Si us plau, actualitza %1!</translation>
     <message>
         <location filename="src/launcher/net/Upload.cpp" line="150"/>
         <source>Uploading %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;està pujant %1</translation>
     </message>
 </context>
 <context>
