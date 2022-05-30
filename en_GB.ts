@@ -4206,7 +4206,7 @@ Are you sure?</translation>
         <translation>Download mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="82"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="80"/>
         <source>Confirm mods to download</source>
         <translation>Confirm mods to download</translation>
     </message>
@@ -4413,12 +4413,22 @@ Are you sure?</translation>
         <translation>Please install a mod loader first!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="407"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
+        <source>Download stopped by user.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
         <source>Warnings</source>
         <translation>Warnings</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="420"/>
         <source>Abort</source>
         <translation>Abort</translation>
     </message>
@@ -4504,18 +4514,18 @@ Are you sure?</translation>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="205"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="225"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="222"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>A network error occurred. Could not load mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="229"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -5223,7 +5233,7 @@ Choose your name carefully:</translation>
         <translation>Global Task Status...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="44"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="50"/>
         <source>Task Status...</source>
         <translation>Task Status...</translation>
     </message>
@@ -5231,6 +5241,11 @@ Choose your name carefully:</translation>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="30"/>
         <source>Skip</source>
         <translation>Skip</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.cpp" line="84"/>
+        <source>Aborted by user</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5719,12 +5734,17 @@ This message will be displayed until you remove this from the JVM arguments.</tr
         <translation>Confirm mod selection</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="26"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
         <translation>You&apos;re about to download the following mods:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="26"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
+        <source>Only mods with a check will be downloaded!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="30"/>
         <source>Filename: %1</source>
         <translation>Filename: %1</translation>
     </message>
@@ -5820,7 +5840,7 @@ This message will be displayed until you remove this from the JVM arguments.</tr
 <context>
     <name>SequentialTask</name>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="61"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="72"/>
         <source>Executing task %1 out of %2</source>
         <translation>Executing task %1 out of %2</translation>
     </message>

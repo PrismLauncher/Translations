@@ -4188,7 +4188,7 @@ Emin misiniz?</translation>
         <translation>Modlar indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="82"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="80"/>
         <source>Confirm mods to download</source>
         <translation>İndirilecek modları onayla</translation>
     </message>
@@ -4394,12 +4394,22 @@ Emin misiniz?</translation>
         <translation>Lütfen önce bir mod yükleyici kur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="407"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
+        <source>Download stopped by user.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
         <source>Warnings</source>
         <translation>Uyarılar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="420"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
@@ -4485,18 +4495,18 @@ Emin misiniz?</translation>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="205"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="222"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="225"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="222"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Bir ağ hatası oluştu. Modları yükleyemedik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="229"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -5172,7 +5182,7 @@ Choose your name carefully:</source>
         <translation>Küresel Görev Durumu...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="44"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="50"/>
         <source>Task Status...</source>
         <translation>Görev Durumu...</translation>
     </message>
@@ -5180,6 +5190,11 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="30"/>
         <source>Skip</source>
         <translation>Atla</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.cpp" line="84"/>
+        <source>Aborted by user</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5662,12 +5677,17 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
         <translation>Mod seçimini onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="26"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
         <translation>Aşağıdaki modları indirmek üzeresiniz:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="26"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
+        <source>Only mods with a check will be downloaded!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="30"/>
         <source>Filename: %1</source>
         <translation>Dosya adı: %1</translation>
     </message>
@@ -5763,7 +5783,7 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
 <context>
     <name>SequentialTask</name>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="61"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="72"/>
         <source>Executing task %1 out of %2</source>
         <translation>Görev %1&apos;den %2&apos;ye yapılıyor</translation>
     </message>
