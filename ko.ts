@@ -1644,7 +1644,7 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="683"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="709"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>덮어쓰는 폴더를 이름 바꾸지 못함:
@@ -1684,7 +1684,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="711"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="737"/>
         <source>Mod download</source>
         <translation>모드 다운로드</translation>
     </message>
@@ -1709,7 +1709,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="735"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="761"/>
         <source>Downloading mods...</source>
         <translation>모드 다운로드 중...</translation>
     </message>
@@ -1721,17 +1721,38 @@ Please try again.</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="615"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>Optional mod detected!</source>
         <translation>선택적 모드가 감지되었습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>이 모드팩의 모드중 하나 이상은 선택적 모드입니다. 다운로드되지만 기본적으로 비활성화됩니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="675"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
+        <source>Download URL for %1 is not a correctly formatted URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
+        <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
+        <source>Non-whitelisted mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
+        <source>The following mods have URLs that are not whitelisted by Modrinth.
+Proceed with caution!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
         <source>Could not understand pack index:
 </source>
         <translation>팩 인덱스를 분석할 수 없음:
@@ -2104,46 +2125,50 @@ Please try again.</source>
         <translation>자바 런타임</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
+        <source>JVM arguments:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
         <translation>자바 경로 (&amp;J):</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="178"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
-        <translation>J&amp;VM 명령줄 인수:</translation>
+        <translation type="vanished">J&amp;VM 명령줄 인수:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="210"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation>자동감지 (&amp;A)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="207"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation>테스트 (&amp;T)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
         <translation>이 옵션을 선택하면 런처가 Java 버전을 찾을 수 없는 경우 Java 버전을 선택하라는 대화 상자를 표시하지 않습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>Skip Java &amp;Wizard</source>
         <translation>자바 설치마법사 건너뛰기 (&amp;W)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>이 옵션을 선택하면 런처는 인스턴스가 선택한 자바 버전과 호환되는지 확인하지 않습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="197"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation>자바 호환성 검사 무시 (&amp;S)</translation>
@@ -5729,14 +5754,6 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
         <source>This will delete all selected screenshots.</source>
         <translation>선택한 모든 스크린샷이 삭제됩니다.</translation>
-    </message>
-</context>
-<context>
-    <name>ScrollMessageBox</name>
-    <message>
-        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.ui" line="14"/>
-        <source>ScrollMessageBox</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

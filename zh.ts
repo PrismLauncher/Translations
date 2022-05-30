@@ -1652,7 +1652,7 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="683"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="709"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>无法重命名覆盖的目录：
@@ -1692,7 +1692,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="711"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="737"/>
         <source>Mod download</source>
         <translation>模组下载</translation>
     </message>
@@ -1717,7 +1717,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="735"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="761"/>
         <source>Downloading mods...</source>
         <translation>正在下载模组……</translation>
     </message>
@@ -1729,17 +1729,38 @@ Please try again.</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="615"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>Optional mod detected!</source>
         <translation>发现了可选的模组！</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>这个整合包的一些模组是可选的。他们将会被下载，但会被默认禁用！</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="675"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
+        <source>Download URL for %1 is not a correctly formatted URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
+        <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
+        <source>Non-whitelisted mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
+        <source>The following mods have URLs that are not whitelisted by Modrinth.
+Proceed with caution!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
         <source>Could not understand pack index:
 </source>
         <translation>无法解析包索引
@@ -2112,46 +2133,50 @@ Please try again.</source>
         <translation>Java 运行环境</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
+        <source>JVM arguments:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
         <translation type="unfinished">Java 路径：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="178"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
-        <translation type="unfinished">JVM 参数：</translation>
+        <translation type="obsolete">JVM 参数：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="210"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation type="unfinished">自动检测……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="207"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation type="unfinished">测试</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
         <translation>如果启用该选项，那么在找不到 Java 的时候启动器将不会提示你选择 Java 版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>Skip Java &amp;Wizard</source>
         <translation>跳过 Java 向导</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>启用时，启动器将不会检查选中的 Java 是否与实例兼容。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="197"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation>跳过 Java 兼容性检查</translation>
@@ -5748,14 +5773,6 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
         <source>This will delete all selected screenshots.</source>
         <translation>这会删除所有选择的截图。</translation>
-    </message>
-</context>
-<context>
-    <name>ScrollMessageBox</name>
-    <message>
-        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.ui" line="14"/>
-        <source>ScrollMessageBox</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

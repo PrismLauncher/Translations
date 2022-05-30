@@ -1676,7 +1676,7 @@ Please try again.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="683"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="709"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Could not rename the overrides folder:
@@ -1716,7 +1716,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="711"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="737"/>
         <source>Mod download</source>
         <translation>Mod download</translation>
     </message>
@@ -1741,7 +1741,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="735"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="761"/>
         <source>Downloading mods...</source>
         <translation>Downloading mods...</translation>
     </message>
@@ -1753,17 +1753,38 @@ Please try again.</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="615"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>Optional mod detected!</source>
         <translation>Optional mod detected!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="675"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
+        <source>Download URL for %1 is not a correctly formatted URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
+        <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
+        <source>Non-whitelisted mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
+        <source>The following mods have URLs that are not whitelisted by Modrinth.
+Proceed with caution!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
         <source>Could not understand pack index:
 </source>
         <translation>Could not understand pack index:
@@ -2136,46 +2157,50 @@ Please try again.</translation>
         <translation>Java Runtime</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
+        <source>JVM arguments:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
         <translation>&amp;Java path:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="178"/>
         <source>J&amp;VM arguments:</source>
         <oldsource>JVM arguments:</oldsource>
-        <translation>J&amp;VM arguments:</translation>
+        <translation type="vanished">J&amp;VM arguments:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="210"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
         <translation>&amp;Auto-detect...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="207"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
         <translation>&amp;Test</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
         <translation>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>Skip Java &amp;Wizard</source>
         <translation>Skip Java &amp;Wizard</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="194"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
         <translation>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="197"/>
+        <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
         <translation>&amp;Skip Java compatibility checks</translation>
@@ -5790,14 +5815,6 @@ This message will be displayed until you remove this from the JVM arguments.</tr
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
         <source>This will delete all selected screenshots.</source>
         <translation>This will delete all selected screenshots.</translation>
-    </message>
-</context>
-<context>
-    <name>ScrollMessageBox</name>
-    <message>
-        <location filename="src/launcher/ui/dialogs/ScrollMessageBox.ui" line="14"/>
-        <source>ScrollMessageBox</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
