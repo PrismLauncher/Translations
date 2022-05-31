@@ -2090,13 +2090,13 @@ Var försiktig!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished">Minsta mängd minne:</translation>
+        <translation>&amp;Minsta minnesallokering:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="83"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished">Högsta mängd minne:</translation>
+        <translation>Maximal minnestilldelning:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="93"/>
@@ -2116,13 +2116,13 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM-argument:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">Sökväg till Java:</translation>
+        <translation>&amp;Java-sökväg:</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -2133,13 +2133,13 @@ Var försiktig!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">Hitta automatiskt…</translation>
+        <translation>&amp;Hitta automatiskt…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="207"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">Testa</translation>
+        <translation>&amp;Testa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
@@ -2149,7 +2149,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa över Java &amp;Wizard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
@@ -2160,7 +2160,7 @@ Var försiktig!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hoppa över Java-kompatibilitetskontroller</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2254,7 +2254,7 @@ Du kan ändra Java-versionen i inställningarna senare.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">Du har inte en fungerande Java-installation än, eller så har den försvunnit. 
+        <translation>Du har inte en fungerande Java-installation än, eller så har den försvunnit.
 Vänligen välj en av följande eller sök efter en Java-fil.</translation>
     </message>
 </context>
@@ -2297,7 +2297,7 @@ Vänligen välj en av följande eller sök efter en Java-fil.</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltiga Java-argument har angetts. Åtgärda detta först.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
