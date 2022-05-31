@@ -881,7 +881,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Före-startskommandot körs innan instansen startas och efter-avslutskommandot körs när det har avslutas. &lt;/p&gt; &lt;p&gt; Båda kommer att köras i startprogrammets arbetsmapp med extra miljövariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instansens namn&lt;/li&gt;&lt;li&gt;$INST_ID - ID för instansen (dess mappnamn)&lt;/li&gt;&lt;li&gt;$INST_DIR - instansens absoluta sökväg&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolut sökväg till Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java-binär som används för start&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - kommandoradsparametrar som används för start (varning: fungerar inte korrekt om argumenten innehåller blanksteg)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-kommandot tillåter start med ett extra omslutningsprogram (som &apos;optirun&apos; på Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1171,28 +1171,28 @@ Försök igen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Sortera efter utvalda</translation>
+        <translation>Sortera efter utvalda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Sortera efter popularitet</translation>
+        <translation>Sortera efter popularitet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Sortera efter senast uppdaterad</translation>
+        <translation>Sortera efter senast uppdaterad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sortera efter namn</translation>
+        <translation>Sortera efter namn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">Sortera efter skapare</translation>
+        <translation>Sortera efter skapare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
@@ -1229,7 +1229,7 @@ Försök igen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Sök och filtrera…</translation>
+        <translation>Sök och filtrera…</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1239,37 +1239,37 @@ Försök igen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="59"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Sortera efter utvalda</translation>
+        <translation>Sortera efter utvalda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Sortera efter popularitet</translation>
+        <translation>Sortera efter popularitet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Sortera efter senast uppdaterad</translation>
+        <translation>Sortera efter senast uppdaterad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sortera efter namn</translation>
+        <translation>Sortera efter namn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Sortera efter skapare</translation>
+        <translation>Sortera efter skapare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Sortera efter totala nedladdningar</translation>
+        <translation>Sortera efter totala nedladdningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="140"/>
@@ -1283,7 +1283,7 @@ Försök igen.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Misslyckades med att skapa en mapp för Minecraft-binärer.</translation>
+        <translation>Misslyckades med att skapa en mapp för Minecraft-binärer.</translation>
     </message>
 </context>
 <context>
@@ -1292,19 +1292,19 @@ Försök igen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Sortera efter antal spelningar</translation>
+        <translation>Sortera efter antal spelningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Sortera efter installationer</translation>
+        <translation>Sortera efter installationer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sortera efter namn</translation>
+        <translation>Sortera efter namn</translation>
     </message>
 </context>
 <context>
@@ -1318,7 +1318,7 @@ Försök igen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Sök och filtrera…</translation>
+        <translation>Sök och filtrera…</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1536,7 +1536,7 @@ Försök igen.</translation>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
 </context>
 <context>
@@ -1657,17 +1657,17 @@ Försök igen.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="345"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">Kunde inte hitta en rekommenderad forge-version för Minecraft %1</translation>
+        <translation type="unfinished">Kunde inte hitta en rekommenderad Forge-version för Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Blockerade mods hittades</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">De följande mods var blockerade på tredjepartslaunchers.&lt;br/&gt;Du kommer att behöva manuellt ladda ner dem och lägga till dem i modpacket.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
@@ -1711,39 +1711,41 @@ Försök igen.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Valfri mod upptäcktes!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En eller fler mods från detta modpack är valfria. De kommer att laddas ner, men de kommer förinställt att vara inaktiverade.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedladdnings-URL för %1 är inte en korrekt formaterad URL</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Filsökväg: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
         <source>Non-whitelisted mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Icke-vitlistade mods hittades</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
         <source>The following mods have URLs that are not whitelisted by Modrinth.
 Proceed with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>De följande mods har URL:s som inte är vitlistade av Modrinth.
+Var försiktig!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte förstå pack index:
+</translation>
     </message>
 </context>
 <context>
@@ -1811,12 +1813,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Om aktiverad så kommer launchern inte att kolla ifall en instans är kompatibel med den valda Java-versionen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa över Java-kompatibilitetskontroller</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
