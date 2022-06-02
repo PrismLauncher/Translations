@@ -5456,15 +5456,15 @@ Escolha o seu nome com cuidado:</translation>
         <translation>O teste de Java foi concluído!&lt;br /&gt;Plataforma: %1&lt;br /&gt;Versão do Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <source>Java test success</source>
         <translation>O teste de Java foi concluído</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <location filename="src/launcher/JavaCommon.cpp" line="65"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <source>Java test failure</source>
         <translation>O teste de Java falhou</translation>
     </message>
@@ -5692,8 +5692,8 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <translation>O caminho da JVisualVM é inválido</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <source>Path does not exist</source>
         <translation>O caminho não existe</translation>
     </message>

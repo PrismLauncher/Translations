@@ -5328,15 +5328,15 @@ Vyber si dobře svoje jméno:</translation>
         <translation>Test Javy byl úspěšný!&lt;br /&gt;Nahlášená platforma: %1&lt;br /&gt;Nahlášená verze Javy: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <source>Java test success</source>
         <translation>Test Javy byl úspěšný</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <location filename="src/launcher/JavaCommon.cpp" line="65"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <source>Java test failure</source>
         <translation>Test Javy selhal</translation>
     </message>
@@ -5560,8 +5560,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Neplatná cesta k JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <source>Path does not exist</source>
         <translation>Cesta neexistuje</translation>
     </message>

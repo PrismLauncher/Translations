@@ -5318,15 +5318,15 @@ Choose your name carefully:</source>
         <translation>Pengetesan Java sukses&lt;br /&gt;Platform dilaporkan: %1&lt;br /&gt;Versi java dilaporkan: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <source>Java test success</source>
         <translation>Tes Java sukses</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <location filename="src/launcher/JavaCommon.cpp" line="65"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <source>Java test failure</source>
         <translation>Test java gagal</translation>
     </message>
@@ -5549,8 +5549,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Jalur tidak valid menuju JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <source>Path does not exist</source>
         <translation>Jalur tidak ada</translation>
     </message>

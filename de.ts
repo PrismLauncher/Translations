@@ -5469,15 +5469,15 @@ Wähle deinen Namen sorgfältig:</translation>
         <translation>Java-Test erfolgreich!&lt;br /&gt;Gemeldete Plattform: %1&lt;br /&gt;Gemeldete Java-Version: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <source>Java test success</source>
         <translation>Java-Test erfolgreich</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <location filename="src/launcher/JavaCommon.cpp" line="65"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <source>Java test failure</source>
         <translation>Java-Test fehlgeschlagen</translation>
     </message>
@@ -5705,8 +5705,8 @@ Diese Meldung wird so lange angezeigt, bis Sie dieses Argument aus den JVM-Argum
         <translation>Ungültiger Pfad zur JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <source>Path does not exist</source>
         <translation>Pfad existiert nicht</translation>
     </message>

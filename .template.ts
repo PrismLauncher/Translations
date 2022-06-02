@@ -4978,8 +4978,8 @@ Please let us know why and how this happened.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <source>Path does not exist</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5118,15 +5118,15 @@ Please let us know why and how this happened.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <location filename="src/launcher/JavaCommon.cpp" line="65"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <source>Java test failure</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="46"/>
         <source>Java test success</source>
         <translation type="unfinished"></translation>
     </message>
