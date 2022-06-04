@@ -96,7 +96,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation>APIs</translation>
+        <translation>Zewnętrzne Interfejsy</translation>
     </message>
 </context>
 <context>
@@ -415,37 +415,37 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">Dodaj Mojang</translation>
+        <translation>Dodaj &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Usuń</translation>
+        <translation>Us&amp;uń</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">Ustaw jako domyślny</translation>
+        <translation>&amp;Ustaw Jako Domyślny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Brak domyślnego</translation>
+        <translation>&amp;Brak Domyślnego</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished">Prześlij Skórkę</translation>
+        <translation>&amp;Prześlij Skórkę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished">Usuń skórkę</translation>
+        <translation>&amp;Usuń Skórkę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -456,19 +456,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished">Dodaj Microsoft</translation>
+        <translation>&amp;Dodaj Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished">Dodaj Offline</translation>
+        <translation>Dodaj &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">Odśwież</translation>
+        <translation>&amp;Odśwież</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -696,17 +696,17 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz kod udostępnienia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod udostępnienia:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie podano kodu udostępnienia!</translation>
     </message>
 </context>
 <context>
@@ -714,12 +714,12 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy jesteś pewien, że chcesz włączyć tego moda?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga</translation>
     </message>
 </context>
 <context>
@@ -758,7 +758,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalowanie</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -1275,7 +1275,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwaga: API CurseForge jest bardzo niestabilne. CurseForge i niektórzy autorzy modów uniemożliwili pobieranie modów w aplikacjach firm trzecich, takich jak PolyMC. W związku z tym, aby móc zainstalować modpack, może być wymagane ręczne pobranie niektórych modów.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1536,27 +1536,27 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaimplementowane są następujące typy plików (zarówno dla plików lokalnych, jak i adresów URL):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- Curseforge modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modpacki Curseforge (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modpacki Modrinth (ZIP i mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Wyeksportowane instancje PolyMC / MultiMC</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modpacki Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1571,7 +1571,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <source>Modrinth pack (*.mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paczka Modrinth (*.mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
@@ -1714,12 +1714,12 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Znaleziono zablokowane mody</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniższe mody zostały zablokowane w innych launcherach.&lt;br/&gt;Będziesz musiał je ręcznie pobrać i dodać do modpacka</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
@@ -1763,39 +1763,41 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Znaleziono mod opcjonalny!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeden lub więcej modów z tego modpacka są opcjonalne. Zostaną one pobrane, ale domyślnie będą wyłączone!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres URL pobierania dla %1 nie jest poprawnie sformatowanym adresem URL</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścieżka pliku: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
         <source>Non-whitelisted mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Znaleziono moduły spoza białej listy</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
         <source>The following mods have URLs that are not whitelisted by Modrinth.
 Proceed with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniższe mody mają adresy URL, które nie są na białej liście Modrinth.
+Postępuj ostrożnie!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się zrozumieć indeksu paczki:
+</translation>
     </message>
 </context>
 <context>
@@ -1863,12 +1865,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Po włączeniu tej opcji launcher nie będzie sprawdzał, czy dana instancja jest zgodna z wybraną wersją Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomiń sprawdzanie zgodności z Javą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -1958,12 +1960,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij launcher, gdy gra się uruchomi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij launcher, gdy gra się wyłączy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -2166,7 +2168,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumenty Maszyny Wirtualnej Java:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
@@ -4405,7 +4407,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished">Pobierz mody z platform modowych online</translation>
+        <translation>Pobierz mody z platform moderskich online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="178"/>
