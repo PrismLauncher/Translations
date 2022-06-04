@@ -1773,23 +1773,24 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Download URL für %1 ist keine gültige URL</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateipfad: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
         <source>Non-whitelisted mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht erlaubte Mod gefunden</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
         <source>The following mods have URLs that are not whitelisted by Modrinth.
 Proceed with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>Die folgenden Mods haben URLs, welche von Modrinth nicht freigegeben sind.
+Achtung beim Fortfahren!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
@@ -2167,7 +2168,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM Argumente:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
@@ -2668,22 +2669,22 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished">Mods</translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwendung von Metadaten, die von Mod-Anbietern (wie Modrinth oder CurseForge) für Mods bereitgestellt werden, deaktivieren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwendung von Metadaten für Mods deaktivieren?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warnung&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Das Deaktivieren von Mod-Metadaten kann auch einige kommende QoL-Features deaktivieren, wie z.B. Mod-Updates!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
@@ -3125,7 +3126,8 @@ Grund:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="36"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisiere Index für Mod:
+%1</translation>
     </message>
 </context>
 <context>
@@ -4472,12 +4474,12 @@ Bist du dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgebrochen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Herunterladen vom Benutzer gestoppt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
@@ -5306,7 +5308,7 @@ Wähle deinen Namen sorgfältig:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.cpp" line="84"/>
         <source>Aborted by user</source>
-        <translation type="unfinished"></translation>
+        <translation>Vom Benutzer abgebrochen</translation>
     </message>
 </context>
 <context>
@@ -5801,7 +5803,7 @@ Diese Meldung wird so lange angezeigt, bis Sie dieses Argument aus den JVM-Argum
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur Mods welche angehakt sind werden heruntergeladen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="30"/>
