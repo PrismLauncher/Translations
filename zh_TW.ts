@@ -2502,7 +2502,8 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>已停止監控遊戲紀錄檔，因為紀錄檔長度超過了%1行。
+您可能需要修復您的模組，因為遊戲仍會持續記錄到檔案中且可能會以驚人的速度浪費硬碟空間！</translation>
     </message>
 </context>
 <context>
@@ -2628,7 +2629,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished">模組</translation>
+        <translation>模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -3078,7 +3079,8 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="36"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>更新模組索引：
+%1</translation>
     </message>
 </context>
 <context>
@@ -4416,12 +4418,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>下載被使用者停止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
@@ -5219,7 +5221,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.cpp" line="84"/>
         <source>Aborted by user</source>
-        <translation type="unfinished"></translation>
+        <translation>被使用者終止</translation>
     </message>
 </context>
 <context>
