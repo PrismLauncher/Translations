@@ -2167,7 +2167,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Аргументы JVM:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
@@ -2668,7 +2668,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished">Моды</translation>
+        <translation>Моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
