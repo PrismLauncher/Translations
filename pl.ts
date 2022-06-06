@@ -427,13 +427,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>&amp;Ustaw Jako Domyślny</translation>
+        <translation>&amp;Ustaw jako domyślny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Brak Domyślnego</translation>
+        <translation>&amp;Brak domyślnego</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
@@ -445,7 +445,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation>&amp;Usuń Skórkę</translation>
+        <translation>&amp;Usuń skórkę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -651,19 +651,19 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Sortuj według Popularności</translation>
+        <translation>Sortuj według popularności</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Sortuj według Nazwy</translation>
+        <translation>Sortuj według nazwy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Sortuj według Wersji Gry</translation>
+        <translation>Sortuj według wersji gry</translation>
     </message>
 </context>
 <context>
@@ -696,17 +696,17 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation>Wybierz kod udostępnienia</translation>
+        <translation>Wybierz kod udostępniania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation>Kod udostępnienia:</translation>
+        <translation>Kod udostępniania:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation>Nie podano kodu udostępnienia!</translation>
+        <translation>Nie wybrano kodu udostępniania!</translation>
     </message>
 </context>
 <context>
@@ -1214,7 +1214,7 @@ Spróbuj ponownie.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Sortuj według Ostatniej Aktualizacji</translation>
+        <translation>Sortuj według ostatniej aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
@@ -1291,37 +1291,37 @@ Spróbuj ponownie.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="59"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation>Sortuj według Wyróżnionych</translation>
+        <translation>Sortuj według wyróżnionych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation>Sortuj według Popularności</translation>
+        <translation>Sortuj według popularności</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Sortuj według Ostatniej Aktualizacji</translation>
+        <translation>Sortuj według ostatniej aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Sortuj według Nazwy</translation>
+        <translation>Sortuj według nazwy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>Sortuj według Autora</translation>
+        <translation>Sortuj według autora</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>Sortuj według Ilości Pobrań</translation>
+        <translation>Sortuj według ilości pobrań</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="140"/>
@@ -1344,19 +1344,19 @@ Spróbuj ponownie.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>Sortuj według Ilości Uruchomień</translation>
+        <translation>Sortuj według ilości uruchomień</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>Sortuj według Ilości Instalacji</translation>
+        <translation>Sortuj według ilości instalacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Sortuj według Nazwy</translation>
+        <translation>Sortuj według nazwy</translation>
     </message>
 </context>
 <context>
@@ -1536,27 +1536,27 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>Zaimplementowane są następujące typy plików (zarówno dla plików lokalnych, jak i adresów URL):</translation>
+        <translation>Zaimplementowane są następujące typy plików (lokalne pliki, jak i linki URL):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- Curseforge modpacks (ZIP)</source>
-        <translation>- Modpacki Curseforge (ZIP)</translation>
+        <translation>- Paczki modów CurseForge (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modpacki Modrinth (ZIP i mrpack)</translation>
+        <translation>- Paczki modów Modrinth (ZIP lub mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation>- Wyeksportowane instancje PolyMC / MultiMC</translation>
+        <translation>- Wyeksportowane instancje PolyMC / MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Modpacki Technic (ZIP)</translation>
+        <translation>- Paczki modów Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1571,7 +1571,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <source>Modrinth pack (*.mrpack)</source>
-        <translation>Paczka Modrinth (*.mrpack)</translation>
+        <translation>Paczki modów Modrinth (*.mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
@@ -1763,12 +1763,12 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>Optional mod detected!</source>
-        <translation>Znaleziono mod opcjonalny!</translation>
+        <translation>Znaleziono opcjonalny mod!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>Jeden lub więcej modów z tego modpacka są opcjonalne. Zostaną one pobrane, ale domyślnie będą wyłączone!</translation>
+        <translation>Jeden lub więcej modów z tej paczki są opcjonalne. Zostaną one pobrane, lecz domyślnie będą wyłączone!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
@@ -1796,7 +1796,7 @@ Postępuj ostrożnie!</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
         <source>Could not understand pack index:
 </source>
-        <translation>Nie udało się zrozumieć indeksu paczki:
+        <translation>Nie udało się zrozumieć indeksu pakietu:
 </translation>
     </message>
 </context>
@@ -1865,12 +1865,12 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Po włączeniu tej opcji launcher nie będzie sprawdzał, czy dana instancja jest zgodna z wybraną wersją Javy.</translation>
+        <translation>Gdy opcja jest włączona, launcher nie sprawdzi, czy instancja jest zgodna z wybraną wersją Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation>Pomiń sprawdzanie zgodności z Javą</translation>
+        <translation>Pomiń sprawdzanie zgodności wersji Javy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -2174,7 +2174,7 @@ Postępuj ostrożnie!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Ścieżka &amp;Javy:</translation>
+        <translation>&amp;Ścieżka Javy:</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -2870,13 +2870,13 @@ Przyznanie PolyMC dostępu do niego za pomocą Flatseal jest zalecane.</translat
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="19"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Sortuj według Nazwy</translation>
+        <translation>Sortuj według nazwy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="20"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Sortuj według wersji gry</translation>
+        <translation>Sortuj według wersji gry</translation>
     </message>
 </context>
 <context>
@@ -3343,7 +3343,7 @@ Powód:
         <location filename="src/launcher/ui/MainWindow.cpp" line="300"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished">Wyświetl folder instancji</translation>
+        <translation>&amp;Wyświetl folder instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
@@ -3354,7 +3354,7 @@ Powód:
         <location filename="src/launcher/ui/MainWindow.cpp" line="307"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="unfinished">Zobacz centralny katalog modów</translation>
+        <translation>Zobacz &amp;centralny katalog modów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="308"/>
@@ -3512,12 +3512,12 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
         <source>Report a &amp;Bug...</source>
-        <translation>Zgłoś &amp;Błąd...</translation>
+        <translation>Zgłoś &amp;błąd...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>&amp;Matrix Space</source>
-        <translation>&amp;Matrixowa Przestrzeń</translation>
+        <translation>&amp;Przestrzeń Matrixa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="359"/>
@@ -3547,7 +3547,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="404"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Zarządzaj Kontami...</translation>
+        <translation>&amp;Zarządzaj kontami...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="484"/>
@@ -3572,7 +3572,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="540"/>
         <source>Close &amp;Window</source>
-        <translation>Zamknij &amp;Okno</translation>
+        <translation>Zamknij &amp;okno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="541"/>
@@ -3614,7 +3614,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="648"/>
         <source>Launch &amp;Offline</source>
-        <translation>Uruchom &amp;Offline</translation>
+        <translation>Uruchom &amp;offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
@@ -3629,27 +3629,27 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="661"/>
         <source>E&amp;dit Notes...</source>
-        <translation>E&amp;dytuj Notatki...</translation>
+        <translation>E&amp;dytuj notatki...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="667"/>
         <source>View &amp;Mods</source>
-        <translation>Zobacz &amp;Mody</translation>
+        <translation>Zobacz &amp;mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="673"/>
         <source>&amp;View Worlds</source>
-        <translation>&amp;Zobacz Światy</translation>
+        <translation>&amp;Zobacz światy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="679"/>
         <source>Manage &amp;Screenshots</source>
-        <translation>Zarządzaj &amp;Zrzutami Ekranu</translation>
+        <translation>Zarządzaj &amp;zrzutami ekranu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>&amp;Change Group...</source>
-        <translation>&amp;Zmień Grupę...</translation>
+        <translation>&amp;Zmień grupę...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
@@ -3659,7 +3659,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>Minec&amp;raft Folder</source>
-        <translation>Folder Minec&amp;raft&apos;a</translation>
+        <translation>Folder Minec&amp;rafta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
@@ -3669,17 +3669,17 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
         <source>Confi&amp;g Folder</source>
-        <translation>Folder Konfi&amp;guracji</translation>
+        <translation>Folder z plikami konfi&amp;guracyjnymi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
         <source>&amp;Instance Folder</source>
-        <translation>Folder &amp;Instancji</translation>
+        <translation>Folder &amp;instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>E&amp;xport Instance...</source>
-        <translation>E&amp;ksportuj Instancję...</translation>
+        <translation>E&amp;ksportuj instancję...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
@@ -3689,7 +3689,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Dele&amp;te Instance...</source>
-        <translation>Us&amp;uń Instancję...</translation>
+        <translation>Us&amp;uń instancję...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="731"/>
@@ -3699,7 +3699,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
         <source>Cop&amp;y Instance...</source>
-        <translation>&amp;Kopiuj Instancję...</translation>
+        <translation>&amp;Kopiuj instancję...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -4100,19 +4100,19 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Uruchomić Minecraft zmaksymalizowanego?</translation>
+        <translation>Uruchomić Minecrafta &amp;zmaksymalizowanego?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished">Wyso&amp;kość okna:</translation>
+        <translation>Wysokość &amp;okna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished">Szerokość &amp;okna:</translation>
+        <translation>Szerokość &amp;okna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -4123,13 +4123,13 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished">Użyj systemowej instalacji GLFW</translation>
+        <translation>Użyj systemowej instalacji &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished">Użyj systemowej instalacji OpenAL</translation>
+        <translation>Użyj systemowej instalacji &amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
@@ -4140,19 +4140,19 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="unfinished">Pokaż czas spędzony na graniu w instancjach</translation>
+        <translation>Pokaż czas spędzony na &amp;graniu w instancjach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="153"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="unfinished">Pokaż czas spędzony na graniu we wszystkich instancjach</translation>
+        <translation>Pokaż czas spędzony na graniu we &amp;wszystkich instancjach</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="160"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="unfinished">Zapisuj czas spędzony na graniu w instancje</translation>
+        <translation>&amp;Zapisuj czas spędzony na graniu w instancje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
@@ -4163,25 +4163,25 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC automatycznie otworzy się ponownie, gdy gra ulegnie awarii lub zostanie zamknięta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher automatycznie otworzy się ponownie, gdy gra ulegnie awarii lub zostanie zamknięta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="unfinished">Zamknij PolyMC, gdy okno gry się otworzy</translation>
+        <translation>&amp;Zamknij launcher, gdy okno gry się otworzy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC zamknie się automatycznie, jeśli gra ulegnie awarii lub zostanie zamknięta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Launcher zamknie się automatycznie, jeśli gra ulegnie awarii lub zostanie zamknięta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="189"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="unfinished">Wyjdź z PolyMC po zakończeniu okna gry</translation>
+        <translation>&amp;Wyjdź z launchera po zamknięciu okna gry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -4222,7 +4222,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="15"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished">Pobieranie profilu Minecraft.</translation>
+        <translation>Pobieranie profilu konta Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="21"/>
@@ -4232,22 +4232,22 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished">Konto nie ma profilu Minecraft.</translation>
+        <translation>Konto nie ma profilu Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="72"/>
         <source>Minecraft Java profile acquisition failed.</source>
-        <translation type="unfinished">Nie udało się uzyskać profilu Minecraft Java.</translation>
+        <translation>Nie udało się uzyskać profilu Minecraft Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished">Nie udało się sparsować odpowiedzi z profilem Minecraft Java</translation>
+        <translation>Nie udało się przetworzyć odpowiedzi z profilem Minecraft Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="92"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished">Profil Minecraft Java został odebrany pomyślnie.</translation>
+        <translation>Profil Minecraft Java został pozyskany pomyślnie.</translation>
     </message>
 </context>
 <context>
@@ -4306,7 +4306,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="38"/>
         <source>Major version match (unsupported)</source>
-        <translation>Dopasowanie wersji głównej (niewspierane)</translation>
+        <translation>Dopasowanie wersji głównej (nieobsługiwane)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="42"/>
@@ -4521,7 +4521,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation type="unfinished">Szukaj i filtruj...</translation>
+        <translation>Szukaj i filtruj mody...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
@@ -4537,7 +4537,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
         <source>Filter options</source>
-        <translation>Filtruj opcje</translation>
+        <translation>Opcje filtra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="114"/>
@@ -4651,7 +4651,7 @@ Proszę zaktualizować PolyMC!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
@@ -4663,7 +4663,7 @@ Proszę zaktualizować PolyMC!</translation>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished">Wersja API zbyt stara!
+        <translation>Wersja API zbyt stara!
 Proszę zaktualizować %1!</translation>
     </message>
 </context>
@@ -4672,27 +4672,27 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">Sortuj według trafności</translation>
+        <translation>Sortuj według trafności</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">Sortuj po ilości pobrań</translation>
+        <translation>Sortuj po ilości pobrań</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">Sortuj według obserwowanych</translation>
+        <translation>Sortuj według obserwowanych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Sortuj według ostatniej aktualizacji</translation>
+        <translation>Sortuj według ostatniej aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished">Sortuj od najnowszych</translation>
+        <translation>Sortuj od najnowszych</translation>
     </message>
 </context>
 <context>
@@ -4730,7 +4730,7 @@ Proszę zaktualizować %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished">Sortuj według trafności</translation>
+        <translation>Sortuj według trafności</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -4745,18 +4745,18 @@ Proszę zaktualizować %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Sortuj według ostatniej aktualizacji</translation>
+        <translation>Sortuj według ostatniej aktualizacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished">Sortuj od najnowszych</translation>
+        <translation>Sortuj od najnowszych</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Sortuj według sumy pobrań</translation>
+        <translation>Sortuj według ilości pobrań</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="225"/>
@@ -5305,7 +5305,7 @@ Wybierz ostrożnie swoją nazwę:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
         <source>Global Task Status...</source>
-        <translation>Globalny Stan Zadania...</translation>
+        <translation>Globalny stan zadania...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="50"/>
@@ -5354,19 +5354,19 @@ Wybierz ostrożnie swoją nazwę:</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOC&amp;KS5</translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished">H&amp;TTP</translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">Adres i Port</translation>
+        <translation>&amp;Adres i Port</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -5377,13 +5377,13 @@ Wybierz ostrożnie swoją nazwę:</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">Nazwa użytkownika:</translation>
+        <translation>&amp;Nazwa użytkownika:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">Hasło:</translation>
+        <translation>&amp;Hasło:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
@@ -6407,7 +6407,7 @@ Brakuje inheritsFrom</translation>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished">Aktualizacja PolyMC</translation>
+        <translation>Aktualizacja launchera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -6491,7 +6491,7 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation>Loader Modów</translation>
+        <translation>Mechanizm ładujący Mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
@@ -6531,12 +6531,12 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation>Nie wybrano modloadera.</translation>
+        <translation>Nie wybrano mechanizmu ładującego mody.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Brak aktualnie dostępnych wersji dla Minecraft %1</translation>
+        <translation>Brak aktualnie dostępnych wersji dla Minecrafta %1</translation>
     </message>
 </context>
 <context>
@@ -6562,7 +6562,7 @@ Brakuje inheritsFrom</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation>Ta instancja nie jest kompatybilna z Javą %1.
+        <translation>Ta instancja nie jest kompatybilna z Javą w wersji %1.
 Dla tej instancji przełącz się na jedną z następujących wersji Javy:</translation>
     </message>
     <message>
@@ -7273,7 +7273,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished">Nie udało się uzyskać autoryzacji dla usług %1. Błąd %1.</translation>
+        <translation>Nie udało się uzyskać autoryzacji dla usług %1. Błąd %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
