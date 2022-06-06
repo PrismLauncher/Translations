@@ -1498,12 +1498,12 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- PolyMC / MultiMC exportované instance (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Technic modpacky (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1518,7 +1518,7 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="152"/>
         <source>Modrinth pack (*.mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth pack (*.mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="153"/>
@@ -1535,7 +1535,7 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Název</translation>
+        <translation>Název</translation>
     </message>
 </context>
 <context>
@@ -1656,17 +1656,17 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="345"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">Nebylo možno zmapovat doporučenou verzi forge pro Minecraft %1</translation>
+        <translation>Nebylo možno zmapovat doporučenou verzi Forge pro Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalezeny zablokované mody</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Následující mody byly zablokovány pro launchery třetích stran.&lt;br/&gt;Budete je muset stáhnout ručně a přidat je do modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
@@ -1710,33 +1710,34 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Byl detekován volitelný mod!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeden nebo více modu v tomto modpacku jsou volitelné. Budou staženy, ale ve výchozím nastavení budou deaktivovány!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa URL pro stažení %1 není správně formátovaná</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta k souboru: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
         <source>Non-whitelisted mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalezeny mody, které nejsou na seznamu povolených</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
         <source>The following mods have URLs that are not whitelisted by Modrinth.
 Proceed with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Následující mody mají adresy URL, které Modrinth nepřidal na seznam povolených.
+Postupujte obezřetně!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
@@ -1758,7 +1759,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mody</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="39"/>
@@ -1810,12 +1811,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokud je tato možnost povolena, spouštěč nebude kontrolovat, zda je instance kompatibilní s vybranou verzí Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Přeskočit kontroly kompatibility s Javou</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -1905,12 +1906,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavřít spouštěč po otevření okna hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavřít spouštěč po zavření okna hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -2087,13 +2088,13 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation type="unfinished">Minimální přidělení paměti:</translation>
+        <translation>&amp;Minimální přidělení paměti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="83"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation type="unfinished">Maximální přidělení paměti:</translation>
+        <translation>Ma&amp;ximální přidělení paměti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="93"/>
@@ -2113,13 +2114,13 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM argumenty:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">Cesta Javy:</translation>
+        <translation>Cesta &amp;Javy:</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -2130,28 +2131,28 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">Automaticky detekovat…</translation>
+        <translation>&amp;Automaticky detekovat…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="207"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">Otestovat</translation>
+        <translation>O&amp;testovat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokud je tato možnost povolena, spouštěč vás nevyzve k výběru verze Javy, pokud není nalezena.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Přeskočit Java Průvodce</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokud je tato možnost povolena, spouštěč nebude kontrolovat, zda je instance kompatibilní s vybranou verzí Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
