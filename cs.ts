@@ -672,17 +672,17 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished">Vyberte kód sdílení</translation>
+        <translation>Vyberte kód sdílení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished">Kód sdílení:</translation>
+        <translation>Kód sdílení:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished">Nebyl zadán žádný kód sdílení!</translation>
+        <translation>Nebyl zadán žádný kód sdílení!</translation>
     </message>
 </context>
 <context>
@@ -1736,7 +1736,7 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
         <source>The following mods have URLs that are not whitelisted by Modrinth.
 Proceed with caution!</source>
-        <translation type="unfinished">Následující mody mají adresy URL, které Modrinth nepřidal na seznam povolených.
+        <translation>Následující mody mají adresy URL, které Modrinth nepřidal na seznam povolených.
 Postupujte obezřetně!</translation>
     </message>
     <message>
@@ -2253,8 +2253,8 @@ Verzi Javy můžete později změnit v nastavení.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">Zatím nemáte funkční Java nastavení, nebo zmizelo.
-Vyberte prosím jeden z následujících nebo vyberte spustitelný soubor java.</translation>
+        <translation>Buď nemáte funkční Java nastavení, nebo zmizelo.
+Vyberte prosím jedno z následujících nebo vyberte spustitelný soubor Java.</translation>
     </message>
 </context>
 <context>
@@ -2307,7 +2307,7 @@ Vyberte prosím jeden z následujících nebo vyberte spustitelný soubor java.<
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Abyste mohli hrát Minecraft, musíte mít přidaný alespoň jeden Mojang nebo Microsoft účet. Přejete si otevřít správce účtů a přidat jeden?</translation>
+        <translation>Abyste mohli hrát Minecraft, musíte mít přidaný alespoň jeden Mojang nebo Microsoft účet. Přejete si otevřít správce účtů a přidat účet?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
@@ -2489,7 +2489,8 @@ Možná budete muset spravit své mody, jelikož hra stále generuje výpisy do 
         <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledování protokolu hry zastaveno, protože délka protokolu překročila %1 řádků.
+Možná budete muset opravit své mody, protože hra se stále zapisuje do souborů a pravděpodobně mrhá místem na pevném disku alarmující rychlostí!</translation>
     </message>
 </context>
 <context>
@@ -2497,17 +2498,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="16"/>
         <source>Accessing Mojang services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přistupuji ke službám Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se získat Minecraft access token: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="75"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se analyzovat odpověď Minecraft access tokenu.</translation>
     </message>
 </context>
 <context>
@@ -2575,7 +2576,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished">Podle posledního spuštění</translation>
+        <translation>Podle posledního spuštění</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
@@ -2615,22 +2616,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished">Mody</translation>
+        <translation>Mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat používání metadat poskytnuté poskytovateli modů (např. Modrinth nebo CurseForge) pro mody.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat používání metadat pro mody?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varování&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Zakázáním metadat pro mody může dojít k zakázání některých nadcházejících funkcí, např. aktualizace modu!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
@@ -2661,13 +2662,13 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lišta menu je lepší pro interakci pomocí klávesnice.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nah&amp;radit lištu nástrojů lištou menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="383"/>
@@ -2683,31 +2684,31 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Zobrazit konzoli během hry?</translation>
+        <translation>Zobrazit konzoli během hry?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Mám automaticky zavřít konzoli po ukončení hry?</translation>
+        <translation>&amp;Automaticky zavřít konzoli po ukončení hry?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Mám zobrazit konzoli pokud hra spadne?</translation>
+        <translation>Zobrazit konzoli pokud hra spadne?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished">Limit historie</translation>
+        <translation>Limit &amp;historie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished">Zastavit protokolování při přetečení protokolu</translation>
+        <translation>Zastavit protokolování při přetečení protokolu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="438"/>
@@ -2718,7 +2719,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished">Písmo použité pro konzoli</translation>
+        <translation>Písmo použité pro konzoli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
