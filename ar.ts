@@ -6101,7 +6101,7 @@ inheritsFrom is missing</source>
         <translation>تعذرت معالجة &quot;version.json&quot;: مجال inheritsForms مفقود</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="200"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="209"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
         <translation>تعذرت معالحة &quot;version.json&quot;:

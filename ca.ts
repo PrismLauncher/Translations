@@ -6095,7 +6095,7 @@ inheritsFrom is missing</source>
 falta &quot;inheritsFrom&quot;</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="200"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="209"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
         <translation>No s&apos;ha pogut entendre &quot;version.json&quot;:

@@ -6135,7 +6135,7 @@ inheritsFrom is missing</source>
 inheritsFrom відсутній</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="200"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="209"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
         <translation>Не вдалося зрозуміти &quot;version.json&quot;:

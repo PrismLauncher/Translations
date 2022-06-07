@@ -2611,7 +2611,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -4577,7 +4577,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seřadit podle počtu stažení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
@@ -6127,7 +6127,7 @@ inheritsFrom is missing</source>
 chybí inheritsFrom</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="200"/>
+        <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="209"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
         <translation>Nepodařilo se pochopit &quot;version.json&quot;:
