@@ -45,7 +45,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Zde zadejte vlastní client ID pro Microsoft Authentication. </translation>
+        <translation>Zde zadejte vlastní ID klienta pro autentifikaci účtem Microsoft. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
@@ -474,7 +474,7 @@ Jestli jsi zde nový, můžeš kliknout na tlačítko &quot;Přidat&quot;, abys 
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="99"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Nebylo nastaveno žádné client ID Microsoft Authentication.</translation>
+        <translation>Nebylo nastaveno žádné klientské ID pro ověření účtem Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="115"/>
@@ -548,7 +548,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Client ID bylo změněno. Musí být vytvořena nová session.</translation>
+        <translation>ID klienta se změnilo. Je třeba vytvořit novou relaci.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -2388,12 +2388,12 @@ Chcete si zahrát demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifikace klienta launcheru byla změněna. Odstraňte prosím tento účet a znova jej přidejte.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="280"/>
         <source>Client identification changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifikace klienta změněna</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="289"/>
@@ -2729,12 +2729,12 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Snažíte se zadat složku instance, jejíž cesta obsahuje alespoň jeden znak &apos;!&apos;. Java s má s tímto často problém, pokud tomu tak je, tak se vaše instance (pravděpodobně) nespustí!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opravdu chcete použít tuto cestu? Výběrem &quot;Ne&quot; se toto zavře a cesta in instanci se nezmění.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="142"/>
@@ -2747,7 +2747,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>Do you want to proceed anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete přesto pokračovat?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -2762,17 +2762,17 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="469"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Something/ERROR] Strašidelná chyba 👻!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="478"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/INFO] Neškodná zpráva...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="487"/>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Something/WARN] Ne až tak strašidelná chyba.</translation>
     </message>
     <message>
         <source>Launcher notifications</source>
@@ -3062,7 +3062,8 @@ Důvod:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="36"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuji index pro mod:
+%1</translation>
     </message>
 </context>
 <context>
@@ -3192,7 +3193,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít stránku a zkopírovat kód</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
@@ -3210,7 +3211,7 @@ Důvod:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověření Microsoft selhalo - klientské ID bylo změněno.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
@@ -3322,12 +3323,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="342"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít bug tracker pro nahlášení shyby s %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít %1 Matrix space</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -3342,7 +3343,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít %1 subreddit.</translation>
     </message>
     <message>
         <source>About %1</source>
@@ -3399,7 +3400,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="602"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít vývojový blog a přečíst si více novinek o %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
@@ -3425,7 +3426,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="292"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat instanci...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
@@ -3442,17 +3443,17 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
         <source>Report a &amp;Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahlásit &amp;bug...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Matrix Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="359"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord Server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="368"/>
@@ -3462,7 +3463,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="377"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>O %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="386"/>
@@ -3477,7 +3478,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="404"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spravovat Účty...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="484"/>
@@ -3502,29 +3503,29 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="540"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavřít Okno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="541"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zavřít aktuální okno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="548"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 Pomoc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="549"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="556"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít %1 wiki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="555"/>
         <source>%1 &amp;News</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Novinky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="618"/>
@@ -3544,12 +3545,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="648"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit Inst&amp;anci...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="656"/>
@@ -3559,27 +3560,27 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="661"/>
         <source>E&amp;dit Notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit Poznámky...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="667"/>
         <source>View &amp;Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit &amp;Mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="673"/>
         <source>&amp;View Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit S&amp;věty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="679"/>
         <source>Manage &amp;Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Spravovat &amp;Snímky Obrazovky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit Skupinu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
@@ -3589,7 +3590,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>Minec&amp;raft Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Složka Minec&amp;raft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
@@ -3599,17 +3600,17 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
         <source>Confi&amp;g Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Složka Confi&amp;g</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
         <source>&amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Složka &amp;Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>E&amp;xport Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xportovat Instanci...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
@@ -3619,7 +3620,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Dele&amp;te Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat Instanci...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="731"/>
@@ -3629,7 +3630,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
         <source>Cop&amp;y Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat Instanci...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -3667,7 +3668,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
         <source>View the mods of this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit mody této instance.</translation>
     </message>
     <message>
         <source>View Worlds</source>
@@ -3731,7 +3732,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat vybranou instanci jako soubor ZIP.</translation>
     </message>
     <message>
         <source>Delete Instance</source>
@@ -3756,7 +3757,7 @@ Důvod:
         <location filename="src/launcher/ui/MainWindow.cpp" line="839"/>
         <source>%1 - Version %2</source>
         <comment>Launcher - Version X</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Verze %2</translation>
     </message>
     <message>
         <source> on %1</source>
@@ -3833,7 +3834,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1447"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádné novinky.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
