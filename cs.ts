@@ -5500,14 +5500,15 @@ Vyber si dobře svoje jméno:</translation>
         <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>Nemůžu nahradit soubor %1. Provedené změny budou zrušeny.
-Podvejte se do logového souboru %2 pro další detaily.</translation>
+        <translation>Nepodařilo se nahradit soubor %1. Provedené změny budou zrušeny.
+Podívejte se do log souboru %2 pro další detaily.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="368"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se odstranit soubor %1. Provedené změny budou zrušeny.
+Podívejte se do log souboru %2 pro další detaily.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="378"/>
