@@ -4339,7 +4339,7 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="128"/>
         <source>View &amp;Configs</source>
-        <translation>Zobrazit &amp;konfigy</translation>
+        <translation>Zobrazit config</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="131"/>
@@ -4454,7 +4454,7 @@ Jste si jistý?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="205"/>
         <source>Select mod for download</source>
-        <translation>Vyberte mod ke stažení</translation>
+        <translation>Vybrat mod ke stažení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
@@ -4484,12 +4484,12 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="188"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze vybrat neplatnou verzi :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrušit výběr modu ke stažení</translation>
     </message>
 </context>
 <context>
@@ -4503,14 +4503,15 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="222"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba sítě. Nepodařilo se načíst mody.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="229"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Stará verze API!
+Aktualizujte prosím %1!</translation>
     </message>
 </context>
 <context>
@@ -4571,14 +4572,15 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba sítě. Nepodařilo se načíst modpacky.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="296"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Stará verze API!
+Aktualizujte prosím %1!</translation>
     </message>
 </context>
 <context>
@@ -4591,7 +4593,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">Seřadit podle počtu stažení</translation>
+        <translation>Seřadit podle počtu stažení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
@@ -4601,7 +4603,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Seřadit podle poslední aktualizace</translation>
+        <translation>Seřadit podle poslední aktualizace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
@@ -4614,12 +4616,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámka: Modrinth modpacky jsou stále ve fázi alfa. Některé věci nejsou perfektní nebo nemusí fungovat vůbec! Používejte s rozvahou.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
         <source>Search and filter ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhledat a filtrovat...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
@@ -4646,7 +4648,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Seřadit podle poslední aktualizace</translation>
+        <translation>Seřadit podle poslední aktualizace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
@@ -4657,7 +4659,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Seřadit podle celkového počtu stažení</translation>
+        <translation>Seřadit podle celkového počtu stažení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="225"/>
@@ -4744,7 +4746,8 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="98"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se načíst RSS feed novinek:
+%1</translation>
     </message>
 </context>
 <context>
@@ -4808,7 +4811,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jména delší než 16 znaků nelze použít pro LAN hry a pro servery v offline módu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
@@ -4861,7 +4864,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation type="unfinished">Nahrát log na paste.ee - tam zůstane on-line na měsíc.</translation>
+        <translation>Nahrát log na službu pastebin zvolenou v nastavení.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -4985,25 +4988,26 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba: %1 vrátil neočekávaný status kód %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="183"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="239"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba: %1 vrátil nesprávně formulované tělo odpovědi</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba: %1 vrátil chybu: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="230"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba: %1 vrátil kód chyby: %2
+Chybová hláška: %3</translation>
     </message>
 </context>
 <context>
@@ -5016,12 +5020,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí pastebin služba byla změněna na mclo.gs, prosím vyberte co chcete dělat se svými nastaveními.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít novou výchozí službu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
@@ -5149,7 +5153,7 @@ Vyber si dobře svoje jméno:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="170"/>
         <source>Unhandled profile name status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekávaný status jména profilu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="174"/>
@@ -5233,7 +5237,7 @@ Vyber si dobře svoje jméno:</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">Adresa a port</translation>
+        <translation>&amp;Adresa a port</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -5360,13 +5364,13 @@ Vyber si dobře svoje jméno:</translation>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Zadaný java binární soubor nebyl správně spuštěn.&lt;br /&gt;</translation>
+        <translation>Zvolený binární soubor Java nebyl správně spuštěn.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Zadaný binární soubor java vrátil neočekávané výsledky:&lt;br /&gt;</translation>
+        <translation>Zadaný binární soubor Java vrátil neočekávané výsledky:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="313"/>
@@ -5404,7 +5408,7 @@ Vyber si dobře svoje jméno:</translation>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnota &apos;minimumLauncherVersion&apos; této verze (%1) je vyšší než podporovaná %3 (%2). Proto nemusí fungovat správně!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
@@ -5574,13 +5578,13 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="54"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Zadaný java binární soubor nefungoval s argumenty, které jsi uvedl:&lt;br /&gt;</translation>
+        <translation>Zadaný binární soubor Java nefungoval s argumenty, které jste uvedl:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="62"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Zadaný binární soubor java nefungoval.&lt;br /&gt;Měl bys použít funkci automatické detekce, nebo nastavit cestu k spustitelnému souboru java.&lt;br /&gt;</translation>
+        <translation>Zadaný binární soubor Java nefungoval.&lt;br /&gt;Měl byste použít funkci automatické detekce, nebo nastavit cestu ke spustitelnému souboru Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -6348,7 +6352,7 @@ chybí inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished">Mod Loader</translation>
+        <translation>Mod Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
