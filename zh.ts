@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished">Pastebin 服务</translation>
+        <translation>剪切板服务（&amp;P）</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,7 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">剪切板服务类型</translation>
+        <translation>剪切板服务类型</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -30,23 +30,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>剪贴板网址</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注意：在更改剪切板服务类型后，您可能需要修改或清除基本网址。</translation>
+        <translation>注意：在更改剪切板服务类型后，您可能需要修改或清除剪贴板网址。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>微软身份验证</translation>
+        <translation>微软身份验证（&amp;M）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注意：如果微软身份验证登录已经有效，您可能不需要设置此项。</translation>
+        <translation>注意：如果微软认证登录已经成功，您可能不需要设置此项。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="110"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
         <source>Meta&amp;data Server</source>
-        <translation>元数据服务器</translation>
+        <translation>元数据服务器（&amp;D）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
@@ -77,7 +77,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge 核心 API</translation>
+        <translation>CurseForge 核心 API（C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="190"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="555"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>无法打开整合包文件 %1！</translation>
+        <translation>无法打开包配置 %1！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="585"/>
@@ -710,12 +710,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定要启用这个模组吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
 </context>
 <context>
@@ -754,7 +754,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>安装中</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -1682,12 +1682,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>发现被屏蔽的模组</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>以下模组屏蔽了第三方启动器。&lt;br/&gt;您需要手动下载它们并将它们添加到模组包</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
