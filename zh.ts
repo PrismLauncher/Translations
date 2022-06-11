@@ -38,54 +38,74 @@
         <translation>注意：在更改剪切板服务类型后，您可能需要修改或清除剪贴板网址。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
+        <source>API Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
         <translation>微软身份验证（&amp;M）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
         <translation>注意：如果微软认证登录已经成功，您可能不需要设置此项。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="110"/>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="200"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(Default)</source>
         <translation>（默认）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
         <translation>在此处输入微软身份验证的自定义客户端 ID。 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
+        <source>Miscellaneous</source>
+        <translation type="unfinished">杂项</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
+        <source>User Agent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
+        <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
         <translation>元数据服务器（&amp;D）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
         <translation>您可以将此设置为第三方元数据服务器来使用修改过的库或其他更改。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
         <translation>在此处输入自定义的元数据网址。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
         <translation>CurseForge 核心 API（&amp;C）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
         <translation>注意：在 CurseForge 服务正常工作的情况下， 您可能并不需要去设置它。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="207"/>
+        <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here. </source>
         <translation>在此处输入自定义的 CurseForge API Key </translation>
     </message>
@@ -599,7 +619,7 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="717"/>
+        <location filename="src/launcher/Application.cpp" line="718"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
