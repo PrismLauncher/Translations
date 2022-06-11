@@ -20,6 +20,9 @@ jobs:
 
       - name: Ensure updated translations
         run: |
+          git config --local user.email "gitbot@scrumplex.net"
+          git config --local user.name "Translations Bot"
+
           # pull latest translations manually to avoid conflicts
           git remote add weblate https://hosted.weblate.org/git/polymc/polymc
           git remote update
@@ -38,8 +41,6 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "gitbot@scrumplex.net"
-          git config --local user.name "Translations Bot"
           git commit -m "Update source strings" -a || true
 
       - name: Push changes
