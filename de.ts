@@ -48,7 +48,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API Schlüssel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -75,17 +75,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Sonstiges</translation>
+        <translation>Sonstiges</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gib hier einen eigenen User Agent ein. Die Zeichenfolge $LAUNCHER_VER wird mit der Version des launchers ersetzt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
