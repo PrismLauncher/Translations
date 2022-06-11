@@ -20,7 +20,8 @@ jobs:
     steps:
       - name: Lock Weblate
         run: |
-          echo "${{ secrets.WEBLATE_CONFIG }}" > .weblate.ini
+          mkdir -p ~/.config
+          echo "${{ secrets.WEBLATE_CONFIG }}" > ~/.config/weblate
           wlc commit "polymc/polymc"
           wlc lock "polymc/polymc"
 
@@ -73,7 +74,8 @@ jobs:
     steps:
       - name: Unlock Weblate
         run: |
-          echo "${{ secrets.WEBLATE_CONFIG }}" > .weblate.ini
+          mkdir -p ~/.config
+          echo "${{ secrets.WEBLATE_CONFIG }}" > ~/.config/weblate
           wlc pull "polymc/polymc"
           wlc unlock "polymc/polymc"
 
