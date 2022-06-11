@@ -15,8 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: weblate/wlc
-      volumes:
-        - weblate-data:/home/weblate
+      options: "-u root:root"
     steps:
       - name: Lock Weblate
         run: |
@@ -69,8 +68,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: weblate/wlc
-      volumes:
-        - weblate-data:/home/weblate
+      options: "-u root:root"
     steps:
       - name: Unlock Weblate
         run: |
