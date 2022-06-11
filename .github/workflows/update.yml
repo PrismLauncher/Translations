@@ -13,19 +13,18 @@ on:
 jobs:
   lock-weblate:
     runs-on: ubuntu-latest
+    container:
+      image: weblate/wlc
     steps:
-      - name: Prepare
-        run: |
-          sudo pip3 install wlc
-          echo "${{ secrets.WEBLATE_CONFIG }}" > .weblate.ini
       - name: Lock Weblate
         run: |
+          echo "${{ secrets.WEBLATE_CONFIG }}" > .weblate.ini
           wlc commit "polymc/polymc"
           wlc lock "polymc/polymc"
 
   update:
-    runs-on: ubuntu-latest
     needs: lock-weblate
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
@@ -62,16 +61,15 @@ jobs:
           branch: ${{ github.ref }}
 
   unlock-weblate:
-    runs-on: ubuntu-latest
     needs: update
     if: ${{ always() }}  # ensure that this runs, even if something failed
+    runs-on: ubuntu-latest
+    container:
+      image: weblate/wlc
     steps:
-      - name: Prepare
-        run: |
-          sudo pip3 install wlc
-          echo "${{ secrets.WEBLATE_CONFIG }}" > .weblate.ini
       - name: Unlock Weblate
         run: |
+          echo "${{ secrets.WEBLATE_CONFIG }}" > .weblate.ini
           wlc pull "polymc/polymc"
           wlc unlock "polymc/polymc"
 
