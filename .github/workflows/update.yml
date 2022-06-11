@@ -2,7 +2,7 @@ name: Update translations
 
 on:
   schedule:
-    - cron:  '0 */1 * * *'  # https://crontab.guru/#0_*/12_*_*_*
+    - cron:  '0 */6 * * *'  # https://crontab.guru/#0_*/12_*_*_*
   workflow_dispatch: # allow manual trigger
   push:
     branches:
