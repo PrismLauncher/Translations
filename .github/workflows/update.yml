@@ -18,6 +18,13 @@ jobs:
         with:
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
+      - name: Ensure updated translations
+        run: |
+          # pull latest translations manually to avoid conflicts
+          git remote add weblate https://hosted.weblate.org/git/polymc/polymc
+          git remote update
+          git merge weblate/master
+
       - name: Install dependencies
         run: |
           sudo apt-get update
@@ -26,6 +33,7 @@ jobs:
       - name: Update translations
         run: |
           git clone https://github.com/PolyMC/PolyMC.git src
+
           ./update.sh
 
       - name: Commit files
