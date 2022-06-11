@@ -22,9 +22,12 @@ update_file() {
 
 cd "$ROOT"
 
-for f in *.ts; do
-    update_file "$f"
-done
+if [ -n "$1" ]; then
+    update_file "$1"
+else
+    for f in *.ts; do
+        update_file "$f"
+    done
 
-update_file .template.ts
-
+    update_file .template.ts
+fi
