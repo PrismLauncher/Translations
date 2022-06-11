@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note : vous voudriez probablement changer ou nettoyer l&apos;URL de base après avoir changé le type de service de copie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="142"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez définir ceci sur un serveur de métadonnées tiers pour utiliser des librairies patchées ou d&apos;autres hacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -1754,18 +1754,19 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation>Chemin du fichier: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
+        <translation>Chemin du fichier : %1&lt;/br&gt;URL : &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
         <source>Non-whitelisted mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Mods absents de la liste blanche trouvés</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
         <source>The following mods have URLs that are not whitelisted by Modrinth.
 Proceed with caution!</source>
-        <translation type="unfinished"></translation>
+        <translation>Les mods suivant ne figurent pas sur la liste blanche de Modrinth.
+Procéder avec prudence!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
@@ -2143,7 +2144,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arguments JVM:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
@@ -2644,22 +2645,22 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished">Mods</translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactive l&apos;utilisation de métadonnées fournies par les fournisseurs de mods (comme Modrinth ou Curseforge) pour les mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactiver l&apos;utilisation des métadonnées pour les mods ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Désactiver les métadonnées de mods peut également désactiver certaines fonctionnalités pratiques à venir, comme la mise à jour de mod!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
@@ -3531,39 +3532,39 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="513"/>
         <source>&amp;Profiles</source>
-        <translation type="unfinished">&amp;Profils</translation>
+        <translation>&amp;Profils</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="516"/>
         <source>&amp;Help</source>
-        <translation type="unfinished">Aide</translation>
+        <translation>%Aide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="540"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished">Fermer la Fenêtre</translation>
+        <translation>Fermer &amp;la fenêtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="541"/>
         <source>Close the current window</source>
-        <translation type="unfinished">Ferme la fenêtre actuelle</translation>
+        <translation>Ferme la fenêtre actuelle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="548"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished">%1 Aide</translation>
+        <translation>%1 &amp;Aide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="549"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="556"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished">Ouvre le wiki de %1</translation>
+        <translation>Ouvre le wiki de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="555"/>
         <source>%1 &amp;News</source>
-        <translation type="unfinished">%1 Actualités</translation>
+        <translation>%1 &amp;Actualités</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="618"/>
@@ -3588,7 +3589,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation type="unfinished">Modifier l&apos;inst&amp;ance...</translation>
+        <translation>Modifier l&apos;inst&amp;ance...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="656"/>
@@ -3598,12 +3599,12 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="661"/>
         <source>E&amp;dit Notes...</source>
-        <translation type="unfinished">Mo&amp;difier les Notes...</translation>
+        <translation>Mo&amp;difier les Notes...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="667"/>
         <source>View &amp;Mods</source>
-        <translation type="unfinished">Voir les &amp;Mods</translation>
+        <translation>Voir les &amp;Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="673"/>
@@ -3613,12 +3614,12 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="679"/>
         <source>Manage &amp;Screenshots</source>
-        <translation type="unfinished">Gérer le&amp;s captures d&apos;écrans</translation>
+        <translation>Gérer &amp;les captures d&apos;écrans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished">&amp;Changer de groupe...</translation>
+        <translation>&amp;Changer de groupe...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
@@ -3643,7 +3644,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
         <source>&amp;Instance Folder</source>
-        <translation type="unfinished">Dossier de l&apos;&amp;Instance</translation>
+        <translation>Dossier de l&apos;&amp;Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
@@ -3668,7 +3669,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
         <source>Cop&amp;y Instance...</source>
-        <translation type="unfinished">Copier l&apos;instance...</translation>
+        <translation>Copi&amp;er l&apos;instance...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -3747,7 +3748,7 @@ Raison :
         <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
-        <translation type="unfinished">Ouvrir le dossier .minecraft de l&apos;instance sélectionnée dans un explorateur de fichiers.</translation>
+        <translation>Ouvrir le dossier Minecraft de l&apos;instance sélectionnée dans un explorateur de fichiers.</translation>
     </message>
     <message>
         <source>Config Folder</source>
@@ -3876,7 +3877,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1447"/>
         <source>No news available.</source>
-        <translation type="unfinished">Aucune actualité de disponible.</translation>
+        <translation>Aucune actualité de disponible.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
@@ -3914,7 +3915,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1810"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished">Voulez-vous vraiment supprimer le groupe %1 ?</translation>
+        <translation>Voulez-vous vraiment supprimer le groupe %1 ?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -3983,7 +3984,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished">Ouvrir le serveur Discord de %1.</translation>
+        <translation>Ouvrir le serveur Discord de %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1512"/>
@@ -4069,7 +4070,7 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Démarrer Minecraft en plein écran ?</translation>
+        <translation>Démarrer Minecraft en plein écran ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -4092,13 +4093,13 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished">Utiliser l&apos;installation système de GLFW</translation>
+        <translation>Utiliser l&apos;installation système de &amp;GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished">Utiliser l&apos;installation système d&apos;OpenAL</translation>
+        <translation>Utiliser l&apos;installation système d&apos;&amp;OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
@@ -4126,13 +4127,13 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="170"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Divers</translation>
+        <translation>Divers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="176"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Le lanceur va automatiquement se réouvrir lorsque le jeu va planter ou se fermer.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Le lanceur se rouvrira automatiquement lorsque le jeu plante ou se ferme.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -4448,7 +4449,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement arrêté par l&apos;utilisateur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
@@ -4733,7 +4734,7 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="92"/>
         <source>Downloading %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharge %1</translation>
     </message>
 </context>
 <context>
@@ -5063,18 +5064,19 @@ Veuillez mettre à jour %1 !</translation>
         <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="239"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur : %1 a renvoyé un corps de réponse malformé</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur : %1 a renvoyé une erreur : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="230"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur : %1 a renvoyé un code d&apos;erreur : %2
+Message d&apos;erreur : %3</translation>
     </message>
 </context>
 <context>
@@ -5082,7 +5084,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
@@ -5097,7 +5099,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserver les paramètres précédents</translation>
     </message>
 </context>
 <context>
@@ -5258,7 +5260,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.cpp" line="84"/>
         <source>Aborted by user</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulé par l&apos;utilisateur</translation>
     </message>
 </context>
 <context>
@@ -5748,7 +5750,7 @@ Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de la
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuls les mods cochés seront téléchargés !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="30"/>
