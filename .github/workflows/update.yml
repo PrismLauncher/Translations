@@ -2,7 +2,7 @@ name: Update translations
 
 on:
   schedule:
-    - cron:  '0 */12 * * *'  # https://crontab.guru/#0_*/12_*_*_*
+    - cron:  '0 */1 * * *'  # https://crontab.guru/#0_*/12_*_*_*
   workflow_dispatch: # allow manual trigger
   push:
     branches:
@@ -11,27 +11,39 @@ on:
       - '**.ts'
 
 jobs:
-  build:
+  lock-weblate:
     runs-on: ubuntu-latest
+    steps:
+      - name: Prepare
+        run: |
+          sudo pip3 install wlc
+          echo "${{ secrets.WEBLATE_CONFIG }}" > .weblate.ini
+      - name: Lock Weblate
+        run: |
+          wlc commit "polymc/polymc"
+          wlc lock "polymc/polymc"
+
+  update:
+    runs-on: ubuntu-latest
+    needs: lock-weblate
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
-      - name: Ensure updated translations
+      - name: Prepare
         run: |
+          sudo apt-get update
+          sudo apt-get install -y qttools5-dev-tools gettext
           git config --local user.email "gitbot@scrumplex.net"
           git config --local user.name "Translations Bot"
 
+      - name: Ensure updated translations
+        run: |
           # pull latest translations manually to avoid conflicts
           git remote add weblate https://hosted.weblate.org/git/polymc/polymc
           git remote update
           git merge weblate/master
-
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y qttools5-dev-tools gettext
 
       - name: Update translations
         run: |
@@ -48,3 +60,18 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+  unlock-weblate:
+    runs-on: ubuntu-latest
+    needs: update
+    if: ${{ always() }}  # ensure that this runs, even if something failed
+    steps:
+      - name: Prepare
+        run: |
+          sudo pip3 install wlc
+          echo "${{ secrets.WEBLATE_CONFIG }}" > .weblate.ini
+      - name: Unlock Weblate
+        run: |
+          wlc pull "polymc/polymc"
+          wlc unlock "polymc/polymc"
+
