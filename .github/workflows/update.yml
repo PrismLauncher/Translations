@@ -42,6 +42,7 @@ jobs:
       - name: Ensure updated translations
         run: |
           # pull latest translations manually to avoid conflicts
+          git pull  # maybe Weblate already pushed their changes
           git remote add weblate https://hosted.weblate.org/git/polymc/polymc
           git remote update
           git merge weblate/master
