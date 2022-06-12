@@ -403,12 +403,12 @@
             "untranslated" : 2
         },
         "zh_TW" : {
-            "file" : "a6a5d65e46f59df1ae5ca05d5f30bc6abc2703f2.class",
-            "sha1" : "a6a5d65e46f59df1ae5ca05d5f30bc6abc2703f2",
-            "size" : 121035,
-            "translated" : 1229,
-            "fuzzy" : 1,
-            "untranslated" : 5
+            "file" : "1f0dfd135269fa735a0a158cf8ecefa4fd98f8b6.class",
+            "sha1" : "1f0dfd135269fa735a0a158cf8ecefa4fd98f8b6",
+            "size" : 121583,
+            "translated" : 1235,
+            "fuzzy" : 0,
+            "untranslated" : 0
         }
     }
 }
