@@ -3672,7 +3672,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="679"/>
         <source>Manage &amp;Screenshots</source>
-        <translation>Zarządzaj &amp;zrzutami ekranu</translation>
+        <translation>&amp;Zrzuty Ekranu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
@@ -3697,7 +3697,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
         <source>Confi&amp;g Folder</source>
-        <translation>Folder z plikami konfi&amp;guracyjnymi</translation>
+        <translation>Folder konfi&amp;guracji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
