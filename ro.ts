@@ -1656,7 +1656,7 @@ Vă rugăm să încercați din nou.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="709"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="705"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Nu s-a putut redenumi folderul pentru overrides:
@@ -1696,7 +1696,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="737"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="742"/>
         <source>Mod download</source>
         <translation>Descărcare mod</translation>
     </message>
@@ -1721,7 +1721,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="761"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="777"/>
         <source>Downloading mods...</source>
         <translation>Se descarcă modurile...</translation>
     </message>
@@ -1733,39 +1733,42 @@ Vă rugăm să încercați din nou.</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
         <source>Optional mod detected!</source>
         <translation type="unfinished">Mod opțional detectat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="619"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>Unul sau mai multe moduri din acest pachet de mod-uri sunt opționale. Acestea vor fi descărcate, dar vor fi dezactivate în mod implicit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="662"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation type="unfinished">URL-ul de descărcare pentru %1 nu este un URL formatat corect</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="714"/>
+        <source>Could not rename the client overrides folder:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation>Cale fișier: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Cale fișier: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
         <source>Non-whitelisted mods found</source>
-        <translation>Au fost găsite mod-uri care nu există pe lista de mod-uri acceptate</translation>
+        <translation type="vanished">Au fost găsite mod-uri care nu există pe lista de mod-uri acceptate</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
         <source>The following mods have URLs that are not whitelisted by Modrinth.
 Proceed with caution!</source>
-        <translation>Următoarele mod-uri au URL-uri care nu sunt pe lista acceptată de Modrinth.
+        <translation type="vanished">Următoarele mod-uri au URL-uri care nu sunt pe lista acceptată de Modrinth.
 Continuați cu prudență!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="696"/>
         <source>Could not understand pack index:
 </source>
         <translation type="unfinished">Nu am putut înțelege indexul pachetului:

@@ -1669,7 +1669,7 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="709"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="705"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>덮어쓰는 폴더를 이름 바꾸지 못함:
@@ -1709,7 +1709,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="737"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="742"/>
         <source>Mod download</source>
         <translation>모드 다운로드</translation>
     </message>
@@ -1734,7 +1734,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="761"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="777"/>
         <source>Downloading mods...</source>
         <translation>모드 다운로드 중...</translation>
     </message>
@@ -1746,38 +1746,28 @@ Please try again.</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
         <source>Optional mod detected!</source>
         <translation>선택적 모드가 감지되었습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="619"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>이 모드팩의 모드중 하나 이상은 선택적 모드입니다. 다운로드되지만 기본적으로 비활성화됩니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="662"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
-        <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="714"/>
+        <source>Could not rename the client overrides folder:
+</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
-        <source>Non-whitelisted mods found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
-        <source>The following mods have URLs that are not whitelisted by Modrinth.
-Proceed with caution!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="696"/>
         <source>Could not understand pack index:
 </source>
         <translation>팩 인덱스를 분석할 수 없음:

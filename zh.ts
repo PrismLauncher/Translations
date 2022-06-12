@@ -1677,7 +1677,7 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="709"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="705"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>无法重命名覆盖的目录：
@@ -1717,7 +1717,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="737"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="742"/>
         <source>Mod download</source>
         <translation>模组下载</translation>
     </message>
@@ -1742,7 +1742,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="761"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="777"/>
         <source>Downloading mods...</source>
         <translation>正在下载模组……</translation>
     </message>
@@ -1754,39 +1754,42 @@ Please try again.</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
         <source>Optional mod detected!</source>
         <translation>发现了可选的模组！</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="619"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>这个整合包的一些模组是可选的。他们将会被下载，但会被默认禁用！</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="662"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1 的下载链接格式不正确</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="714"/>
+        <source>Could not rename the client overrides folder:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation>文件路径: %1&lt;br&gt;链接: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
+        <translation type="vanished">文件路径: %1&lt;br&gt;链接: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
         <source>Non-whitelisted mods found</source>
-        <translation>找到未列入白名单的模组</translation>
+        <translation type="vanished">找到未列入白名单的模组</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
         <source>The following mods have URLs that are not whitelisted by Modrinth.
 Proceed with caution!</source>
-        <translation>以下模组的链接未被 Modrinth 列入白名单。
+        <translation type="vanished">以下模组的链接未被 Modrinth 列入白名单。
 谨慎行事！</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="696"/>
         <source>Could not understand pack index:
 </source>
         <translation>无法解析包索引

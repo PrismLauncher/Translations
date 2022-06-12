@@ -1709,7 +1709,7 @@ Bitte versuche es erneut.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="709"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="705"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Konnte den &quot;overrides&quot;-Ordner nicht umbenennen:
@@ -1749,7 +1749,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="737"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="742"/>
         <source>Mod download</source>
         <translation>Mod herunterladen</translation>
     </message>
@@ -1774,7 +1774,7 @@ Bitte versuche es erneut.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="761"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="777"/>
         <source>Downloading mods...</source>
         <translation>Mods werden heruntergeladen...</translation>
     </message>
@@ -1786,39 +1786,42 @@ Bitte versuche es erneut.</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="616"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
         <source>Optional mod detected!</source>
         <translation>Optionale Mod entdeckt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="619"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>Eine oder mehrere Mods dieses Modpacks sind optional. Diese werden heruntergeladen, jedoch standardmäßig deaktiviert!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="650"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="662"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>Download URL für %1 ist keine gültige URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="663"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="714"/>
+        <source>Could not rename the client overrides folder:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation>Dateipfad: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Dateipfad: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="666"/>
         <source>Non-whitelisted mods found</source>
-        <translation>Nicht erlaubte Mod gefunden</translation>
+        <translation type="vanished">Nicht erlaubte Mod gefunden</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="667"/>
         <source>The following mods have URLs that are not whitelisted by Modrinth.
 Proceed with caution!</source>
-        <translation>Die folgenden Mods haben URLs, welche von Modrinth nicht freigegeben sind.
+        <translation type="vanished">Die folgenden Mods haben URLs, welche von Modrinth nicht freigegeben sind.
 Achtung beim Fortfahren!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="701"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="696"/>
         <source>Could not understand pack index:
 </source>
         <translation>Konnte Modpack-Index nicht verarbeiten:
