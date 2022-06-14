@@ -623,7 +623,7 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="718"/>
+        <location filename="src/launcher/Application.cpp" line="720"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
@@ -2342,7 +2342,7 @@ Please select one of the following or browse for a java executable.</oldsource>
 <context>
     <name>LanguagePage</name>
     <message>
-        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="55"/>
+        <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="56"/>
         <source>Language</source>
         <translation>Язык</translation>
     </message>
@@ -2606,37 +2606,37 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>Обновить настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="60"/>
         <source>Check for updates on start?</source>
         <translation>Проверять наличие обновлений при запуске?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="67"/>
         <source>Up&amp;date Channel:</source>
         <translation>Ка&amp;нал обновлений:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="81"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="84"/>
         <source>No channel selected.</source>
         <translation>Канал не выбран.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="97"/>
         <source>Folders</source>
         <translation>Папки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="140"/>
         <source>I&amp;nstances:</source>
         <translation>&amp;Установки:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>&amp;Mods:</source>
         <translation>&amp;Моды:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="127"/>
         <source>&amp;Icons:</source>
         <translation>&amp;Иконки:</translation>
     </message>
@@ -2645,181 +2645,181 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation type="vanished">Изменить место хранения данных PolyMC (Лаунчер будет перезапущен)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="209"/>
         <source>User Interface</source>
         <translation>Пользовательский интерфейс</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="218"/>
         <source>Instance view sorting mode</source>
         <translation>Режим сортировки установок</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>По последн&amp;им запущенным</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
         <source>By &amp;name</source>
         <translation>По &amp;названию</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="247"/>
         <source>Theme</source>
         <translation>Тема</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="253"/>
         <source>&amp;Icons</source>
         <translation>&amp;Значки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="283"/>
         <source>Simple (Dark Icons)</source>
         <translation>Простые (Тёмные значки)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="278"/>
         <source>Simple (Light Icons)</source>
         <translation>Простые (Светлые значки)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="288"/>
         <source>Simple (Blue Icons)</source>
         <translation>Простые (Синие значки)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="270"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="273"/>
         <source>Simple (Colored Icons)</source>
         <translation>Простые (Цветные значки)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Mods</source>
         <translation>Моды</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
         <translation>Отключить использование метаданных, предоставляемых поставщиками (например, Modrinth или Curseforge) для модов.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods?</source>
         <translation>Отключить использование метаданных для модов?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Внимание&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Отключение метаданных также может отключить некоторые предстоящие функции, такие как обновление модов!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="303"/>
         <source>Flat</source>
         <translation>Плоские</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="308"/>
         <source>Legacy</source>
         <translation>Старые</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="313"/>
         <source>Custom</source>
         <translation>Свои</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="321"/>
         <source>&amp;Colors</source>
         <oldsource>Colors</oldsource>
         <translation>Цвета</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
         <source>Tools</source>
         <translation>Инструменты</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>Строка меню более удобна для взаимодействия с помощью клавиатуры.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="362"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>Заменить панель инструментов строкой меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="383"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
         <source>Console</source>
         <translation>Консоль</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="392"/>
         <source>Console Settings</source>
         <translation>Настройки консоли</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="398"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
         <translation>Показывать &amp;консоль во время игры?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="405"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
         <translation>Закрывать консоль при выходе из игры?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="412"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
         <translation>Показать окно кон&amp;соли при вылете игры?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="422"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>Лимит ст&amp;рок журнала</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="425"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="428"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>Прекратить запись в журнал при его переполнении</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="438"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="441"/>
         <source> lines</source>
         <translation> строк</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="466"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="469"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>Шрифт консоли</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="115"/>
         <source>Instance Folder</source>
         <translation>Папка установок</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="124"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>Вы пытаетесь указать папку сборки, путь к которой содержит по крайней мере один символ &apos;!&apos;. Это может вызвать проблемы с Java, и ваши сборки (возможно) не запустятся!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="129"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>Вы действительно хотите использовать этот путь? Выбрав &quot;Нет&quot;, окно закроется и путь к сборке не будет изменен.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="141"/>
         <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -2830,32 +2830,32 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
 Рекомендуется предоставить доступ PolyMC к ней через Flatseal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="148"/>
         <source>Do you want to proceed anyway?</source>
         <translation>Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="165"/>
         <source>Icons Folder</source>
         <translation>Папка со иконками</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="176"/>
         <source>Mods Folder</source>
         <translation>Папка с модами</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="469"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="470"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[Что-то/ERROR] Жуткая ошибка!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="478"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="479"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Тест/INFO] Безобидное сообщение...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="487"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="488"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Что-то/WARN] Не такое уж и жуткое предупреждение.</translation>
     </message>
@@ -2875,20 +2875,20 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
 <context>
     <name>LauncherPartLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="136"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="157"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Команда обертки &quot;%1&quot; не может быть найдена.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="158"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="179"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Не удалось запустить Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="167"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="181"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="188"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="202"/>
         <source>Game crashed.</source>
         <translation>Игра вылетела.</translation>
     </message>
@@ -2896,13 +2896,13 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
 <context>
     <name>LegacyFTB::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="19"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="56"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>Упорядочить по названию</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="20"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="57"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
         <translation>Упорядочить по версии игры</translation>
@@ -2911,17 +2911,17 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
 <context>
     <name>LegacyFTB::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="81"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="118"/>
         <source>Public Modpack</source>
         <translation>Публичная сборка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="83"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="120"/>
         <source>Third Party Modpack</source>
         <translation>Сторонняя сборка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="85"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="122"/>
         <source>Private Modpack</source>
         <translation>Приватная сборка</translation>
     </message>
@@ -3152,7 +3152,7 @@ Reason:
 <context>
     <name>LocalModUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="36"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="37"/>
         <source>Updating index for mod:
 %1</source>
         <translation>Обновление индекса для мода:
@@ -3339,23 +3339,23 @@ Reason:
         <translation type="vanished">Остановить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="271"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="292"/>
         <source>Kill the running instance</source>
         <translation>Остановить запущенную сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1193"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1216"/>
         <source>Launch</source>
         <translation>Запуск</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="276"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="643"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>Launch the selected instance.</source>
         <translation>Запустить выбранную сборку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="420"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="441"/>
         <source>Main Toolbar</source>
         <translation>Главная панель инструментов</translation>
     </message>
@@ -3364,39 +3364,39 @@ Reason:
         <translation type="vanished">Добавить сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="314"/>
         <source>Add a new instance.</source>
         <translation>Добавить новую сборку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="300"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="321"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
         <translation>Открыть папку со сборка&amp;ми</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="322"/>
         <source>Open the instance folder in a file browser.</source>
         <translation>Открыть папку со сборками в файловом менеджере.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="307"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="328"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
         <translation>Открыть общую папку модов</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="308"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>Открыть папку основных модов в файловом менеджере.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="855"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="876"/>
         <source>Folders</source>
         <translation>Папки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="320"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>Откройте одну из папок, совместно используемых сборками.</translation>
     </message>
@@ -3405,7 +3405,7 @@ Reason:
         <translation type="vanished">Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
         <source>Change settings.</source>
         <translation>Изменить настройки.</translation>
     </message>
@@ -3414,7 +3414,7 @@ Reason:
         <translation type="vanished">Сообщить об ошибке</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="342"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>Открыть баг-трекер и сообщить об ошибке в %1.</translation>
     </message>
@@ -3424,7 +3424,7 @@ Reason:
         <translation type="vanished">Пространство Matrix</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>Open %1 Matrix space</source>
         <translation>Открыть Matrix %1</translation>
     </message>
@@ -3439,7 +3439,7 @@ Reason:
         <translation type="vanished">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
         <source>Open %1 subreddit.</source>
         <translation>Открыть сабреддит %1.</translation>
     </message>
@@ -3448,18 +3448,18 @@ Reason:
         <translation type="vanished">О %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="378"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
         <source>View information about %1.</source>
         <translation>Посмотреть информацию о %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="856"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="475"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="877"/>
         <source>Help</source>
         <translation>Помощь</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="455"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="476"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Получить помощь с %1 или Minecraft.</translation>
     </message>
@@ -3468,7 +3468,7 @@ Reason:
         <translation type="vanished">Обновить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="387"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="408"/>
         <source>Check for new updates for %1.</source>
         <translation>Проверка новых обновлений для %1.</translation>
     </message>
@@ -3477,7 +3477,7 @@ Reason:
         <translation type="vanished">Мяу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="397"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>Это пушистый котенок :3</translation>
     </message>
@@ -3486,262 +3486,262 @@ Reason:
         <translation type="vanished">Управление учетными записями</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="596"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="617"/>
         <source>News Toolbar</source>
         <translation>Панель новостей</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="601"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="622"/>
         <source>More news...</source>
         <translation>Больше новостей...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
         <source>Open the development blog to read more news about %1.</source>
         <translation>Открыть блог разработки, чтобы прочитать больше новостей о %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="779"/>
         <source>Instance Toolbar</source>
         <translation>Панель сборки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="617"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="638"/>
         <source>Change Icon</source>
         <translation>Выбрать иконку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="270"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="291"/>
         <source>&amp;Kill</source>
         <translation>Остановить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="275"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="642"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="296"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
         <source>&amp;Launch</source>
         <translation>Запустить</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="292"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="313"/>
         <source>Add Instanc&amp;e...</source>
         <translation>Добавить сборк&amp;у...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="340"/>
         <source>F&amp;olders</source>
         <translation>Папки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="332"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="353"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation>Нас&amp;тройки...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="362"/>
         <source>Report a &amp;Bug...</source>
         <translation>Сообщить об Ош&amp;ибке...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
         <source>&amp;Matrix Space</source>
         <translation>Пространство &amp;Matrix</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="359"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discord-сервер</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="368"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="389"/>
         <source>Sub&amp;reddit</source>
         <translation>&amp;Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="377"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="398"/>
         <source>&amp;About %1</source>
         <translation>О %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="386"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="407"/>
         <source>&amp;Update...</source>
         <translation>Обновить...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="396"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
         <source>&amp;Meow</source>
         <translation>Мяу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="404"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="425"/>
         <source>&amp;Manage Accounts...</source>
         <translation>Управление аккаунтами...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="484"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="505"/>
         <source>&amp;File</source>
         <translation>Ф&amp;айл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="507"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="528"/>
         <source>&amp;View</source>
         <translation>Вид</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="513"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Profiles</source>
         <translation>Профили</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="516"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="537"/>
         <source>&amp;Help</source>
         <translation>Помощь</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
         <source>Close &amp;Window</source>
         <translation>Закрыть окно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
         <source>Close the current window</source>
         <translation>Закрыть текущее окно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="548"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>Сп&amp;равка %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="549"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="556"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>Open the %1 wiki</source>
         <translation>Открыть %1 вики</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="555"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>%1 &amp;News</source>
         <translation>Новос&amp;ти %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="618"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Изменить иконку выбранной сборки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="630"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="631"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="652"/>
         <source>Rename the selected instance.</source>
         <translation>Переименовать выбранную сборку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="648"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Launch &amp;Offline</source>
         <translation>Запустить автономно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="675"/>
         <source>Edit Inst&amp;ance...</source>
         <translation>Редактировать сборку...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="656"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="661"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>E&amp;dit Notes...</source>
         <translation>Редактиро&amp;вать заметки...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="667"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="688"/>
         <source>View &amp;Mods</source>
         <translation>Просмотрет&amp;ь моды</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="673"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
         <source>&amp;View Worlds</source>
         <translation>Прос&amp;мотреть миры</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="679"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
         <source>Manage &amp;Screenshots</source>
         <translation>Управление скриншотами</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
         <source>&amp;Change Group...</source>
         <translation>Изменить группу...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>Minec&amp;raft Folder</source>
         <translation>Папка Minec&amp;raft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
         <source>Ctrl+M</source>
         <translation>Ctrl+M</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
         <source>Confi&amp;g Folder</source>
         <translation>&amp;Папка конфигурации</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
         <source>&amp;Instance Folder</source>
         <translation>Папка сборки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
         <source>E&amp;xport Instance...</source>
         <translation>Экспорт сборки...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="745"/>
         <source>Ctrl+E</source>
         <translation>Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
         <source>Dele&amp;te Instance...</source>
         <translation>Удалить сборку...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="752"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
         <source>Cop&amp;y Instance...</source>
         <translation>Скопировать сборку...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="760"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1195"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1218"/>
         <source>Launch Offline</source>
         <translation>Играть в автономном режиме</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="649"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>Launch the selected instance in offline mode.</source>
         <translation>Запустить выбранную сборку в автономном режиме.</translation>
     </message>
@@ -3750,7 +3750,7 @@ Reason:
         <translation type="vanished">Редактировать сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="655"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Изменить настройки, моды и версию сборки.</translation>
     </message>
@@ -3759,7 +3759,7 @@ Reason:
         <translation type="vanished">Редактировать заметки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="662"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
         <source>Edit the notes for the selected instance.</source>
         <translation>Редактировать заметки для выбранной сборки.</translation>
     </message>
@@ -3768,7 +3768,7 @@ Reason:
         <translation type="vanished">Посмотреть моды</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
         <source>View the mods of this instance.</source>
         <translation>Посмотреть моды этого инстенса.</translation>
     </message>
@@ -3777,7 +3777,7 @@ Reason:
         <translation type="vanished">Просмотреть миры</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="674"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="695"/>
         <source>View the worlds of this instance.</source>
         <translation>Открыть список миров для этой сборки.</translation>
     </message>
@@ -3786,7 +3786,7 @@ Reason:
         <translation type="vanished">Управление скриншотами</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="680"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
         <source>View and upload screenshots for this instance.</source>
         <translation>Просмотр и загрузка в интернет скриншотов для этой сборки.</translation>
     </message>
@@ -3795,7 +3795,7 @@ Reason:
         <translation type="vanished">Изменить группу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="686"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>Изменить группу выбранной сборки.</translation>
     </message>
@@ -3804,7 +3804,7 @@ Reason:
         <translation type="vanished">Папка с Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="714"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
         <translation>Открыть папку выбранной сборки в файловом менеджере.</translation>
@@ -3814,7 +3814,7 @@ Reason:
         <translation type="vanished">Папка конфигураций</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Open the instance&apos;s config folder.</source>
         <translation>Открыть папку конфигураций сборок.</translation>
     </message>
@@ -3823,7 +3823,7 @@ Reason:
         <translation type="vanished">Папка сборки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="717"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="738"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>Открыть корневую папку выбранной сборки в файловом менеджере.</translation>
     </message>
@@ -3832,7 +3832,7 @@ Reason:
         <translation type="vanished">Экспортировать сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
         <source>Export the selected instance as a zip file.</source>
         <translation>Экспорт выбранной сборки как zip архив.</translation>
     </message>
@@ -3842,7 +3842,7 @@ Reason:
         <translation type="vanished">Удалить сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="730"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="751"/>
         <source>Delete the selected instance.</source>
         <translation>Удалить выбранную сборку.</translation>
     </message>
@@ -3851,12 +3851,12 @@ Reason:
         <translation type="vanished">Копировать сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="759"/>
         <source>Copy the selected instance.</source>
         <translation>Копировать выбранную сборку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="839"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
         <source>%1 - Version %2</source>
         <comment>Launcher - Version X</comment>
         <translation>%1 - Версия %2</translation>
@@ -3867,112 +3867,112 @@ Reason:
         <translation type="vanished"> на %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="954"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1067"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="975"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1090"/>
         <source>No instance selected</source>
         <translation>Не выбрана сборка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="976"/>
         <source>Total playtime: 0s</source>
         <translation>Всего наиграно: 0с</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1061"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1394"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
         <source>Profiles</source>
         <translation>Профили</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1120"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1143"/>
         <source>Create instance</source>
         <translation>Создать сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Удалить группу &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1196"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1211"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1234"/>
         <source>Profilers</source>
         <translation>Профайлеры</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1223"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>Профайлер установлен неправильно. Перейдите в &quot;Настройки&quot; - &quot;Внешние инструменты&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1295"/>
         <source>No accounts added!</source>
         <translation>Учётная запись не добавлена!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1304"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1327"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1342"/>
         <source>No Default Account</source>
         <translation>Нет учётной записи по умолчанию</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1323"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1434"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1459"/>
         <source>Loading news...</source>
         <translation>Загрузка новостей...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1447"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1472"/>
         <source>No news available.</source>
         <translation>Новостей нет.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1623"/>
         <source>Warnings</source>
         <translation>Предупреждения</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1598"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1640"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1627"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1669"/>
         <source>Abort</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1649"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1678"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>Лаунчер не может скачивать Minecraft или обновлять сборки до тех пор, пока не будет добавлен хотя бы один аккаунт.
 Пожалуйста, добавьте аккаунт Mojang или Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1788"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1817"/>
         <source>Group name</source>
         <translation>Название группы</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1788"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1817"/>
         <source>Enter a new group name.</source>
         <translation>Введите название новой группы.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1810"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1839"/>
         <source>Delete group</source>
         <translation>Удалить группу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1810"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1839"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>Вы уверены, что хотите удалить группу %1?</translation>
     </message>
@@ -3981,12 +3981,12 @@ Please add your Mojang or Minecraft account.</source>
         <translation type="vanished">Вы уверены, что хотите удалить группу %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1955"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1986"/>
         <source>CAREFUL!</source>
         <translation>ВНИМАНИЕ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1956"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1987"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -3997,56 +3997,56 @@ Are you sure?</source>
 Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2169"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2200"/>
         <source>Rename Instance</source>
         <translation>Переименовать сборку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2182"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Папка вашей сборки содержит знак &apos;!&apos; в своём пути, это приводит к проблемам в Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2184"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2215"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>У вас есть два варианта: &lt;br/&gt; - изменить папку сборки в настройках &lt;br/&gt; - переместить сборку %1 в другую папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2193"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2224"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Обнаружена проблема: &lt;br/&gt; - Лаунчер будет удалён операционной системой без уведомления &lt;br/&gt; - закройте лаунчер и распакуйте его в настоящую локацию, а не во временную папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Папка вашей сборки содержит &apos;Rar$&apos; - это значит, что Вы не извлекли архив с лаунчером!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2208"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2239"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Папка сборки располагается во временной папке: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2252"/>
         <source>Total playtime: %1</source>
         <translation>Общее время игры: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1512"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1529"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1636"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1665"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1677"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Open %1 Discord guild.</source>
         <translation>Открыть Discord-сервер %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1512"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
         <translation>Не удалось создать папку для получения обновлений:
@@ -4303,14 +4303,14 @@ Are you sure?</source>
 <context>
     <name>ModDownloadTask</name>
     <message>
-        <location filename="src/launcher/ModDownloadTask.cpp" line="32"/>
+        <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
         <source>Downloading mod:
 %1</source>
         <translation>Скачивание мода:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ModDownloadTask.cpp" line="31"/>
+        <location filename="src/launcher/ModDownloadTask.cpp" line="34"/>
         <source>Mod download</source>
         <translation>Скачивание мода</translation>
     </message>
@@ -4346,47 +4346,47 @@ Are you sure?</source>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="378"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="399"/>
         <source>Folder</source>
         <translation>Папка</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="380"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="401"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="474"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="495"/>
         <source>Name</source>
         <translation>Название</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="476"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="497"/>
         <source>Version</source>
         <translation>Версия</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="478"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="499"/>
         <source>Last changed</source>
         <translation>Последнее изменение</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="487"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="508"/>
         <source>Is the mod enabled?</source>
         <translation>Мод включен?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="489"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="510"/>
         <source>The name of the mod.</source>
         <translation>Название мода.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="491"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="512"/>
         <source>The version of the mod.</source>
         <translation>Версия мода.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="493"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="514"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Дата и время последнего изменения (или добавления) этого мода.</translation>
     </message>
@@ -4459,64 +4459,64 @@ Are you sure?</source>
         <translation>Открыть папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
         <source>Download mods</source>
         <translation>Скачать моды</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
         <source>Download mods from online mod platforms</source>
         <translation>Скачать моды с онлайн платформ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="179"/>
         <source>Add .jar</source>
         <translation>Добавить .jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="180"/>
         <source>Add mods via local file</source>
         <translation>Добавить моды через локальный файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="230"/>
         <source>Context menu</source>
         <translation>Контекстное меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="345"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Выбрать %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="395"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="402"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="403"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
         <source>Please install a mod loader first!</source>
         <translation>Сначала установите загрузчик модов!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="407"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="406"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="407"/>
         <source>Download stopped by user.</source>
         <translation>Загрузка остановлена пользователем.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
         <source>Warnings</source>
         <translation>Предупреждения</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="420"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="421"/>
         <source>Abort</source>
         <translation>Отмена</translation>
     </message>
@@ -4559,7 +4559,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="242"/>
         <source>Select mod for download</source>
         <translation>Выбрать мод для загрузки</translation>
     </message>
@@ -4569,32 +4569,32 @@ Are you sure?</source>
         <translation>Фильтр</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="114"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="150"/>
         <source> by </source>
         <translation> от </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="123"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="159"/>
         <source>Loading versions...</source>
         <translation>Загрузка версий...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="167"/>
         <source>No valid version found.</source>
         <translation>Подходящая версия не найдена.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="224"/>
         <source>No valid version found!</source>
         <translation>Не найдено подходящей версии!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="225"/>
         <source>Cannot select invalid version :(</source>
         <translation>Невозможно выбрать неверную версию :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="207"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="244"/>
         <source>Deselect mod for download</source>
         <translation>Отменить выбор мода для загрузки</translation>
     </message>
@@ -4677,18 +4677,18 @@ Please update PolyMC!</source>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="293"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="289"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="290"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Произошла сетевая ошибка. Не удалось загрузить сборки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="296"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="297"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -5122,34 +5122,34 @@ Please update %1!</source>
 <context>
     <name>PasteUpload</name>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="138"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="141"/>
         <source>Uploading to %1</source>
         <translation>Загрузка на %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="155"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="158"/>
         <source>Network error: %1</source>
         <translation>Сетевая ошибка: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="162"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="165"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>Ошибка: %1 вернул неожиданный код статуса %2 %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="183"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="239"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="186"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="213"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="242"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>Ошибка: %1 вернул неправильно сформированный ответ</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="202"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="205"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>Ошибка: %1 вернул ошибку: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="230"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="233"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>Ошибка: %1 вернул код ошибки: %2
@@ -5487,22 +5487,22 @@ Choose your name carefully:</source>
         <translation>Благодарим</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="100"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="121"/>
         <source>%1 (in use)</source>
         <translation>%1 (используется)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="63"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="65"/>
         <source>Upload failed</source>
         <translation>Загрузка не удалась</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="74"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="76"/>
         <source>Upload finished</source>
         <translation>Загрузка завершена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="75"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="77"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка загруженного журнала&lt;/a&gt; была помещена в буфер обмена.</translation>
     </message>
@@ -5542,7 +5542,7 @@ Choose your name carefully:</source>
         <translation>Проверка Java провалилась</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="66"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="68"/>
         <source>Minecraft Server</source>
         <translation>Minecraft-сервер</translation>
     </message>
@@ -5789,22 +5789,22 @@ This message will be displayed until you remove this from the JVM arguments.</so
 <context>
     <name>ResourcePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="10"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="45"/>
         <source>Is the resource pack enabled?</source>
         <translation>Включён ли набор ресурсов?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="12"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="47"/>
         <source>The name of the resource pack.</source>
         <translation>Название набора ресурсов.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="14"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>The version of the resource pack.</source>
         <translation>Версия набора ресурсов.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="16"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>Дата и время последнего изменения набора ресурсов (или добавления).</translation>
     </message>
@@ -5880,50 +5880,50 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Копировать файл(ы)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="73"/>
         <source>Screenshots</source>
         <translation>Скриншоты</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="321"/>
         <source>Context menu</source>
         <translation>Контекстное меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="394"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="435"/>
         <source>Failed to upload screenshots!</source>
         <translation>Не удалось загрузить скриншоты!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="395"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="436"/>
         <source>Unknown error</source>
         <translation>Неизвестная ошибка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="404"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="447"/>
         <source>Upload finished</source>
         <translation>Загрузка завершена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="405"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка на загруженный скриншот&lt;/a&gt; скопирована.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="447"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Ссылка на загруженный альбом&lt;/a&gt; скопирована.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="494"/>
         <source>Are you sure?</source>
         <translation>Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="493"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="494"/>
         <source>This will delete all selected screenshots.</source>
         <translation>Это удалит все выбранные скриншоты.</translation>
     </message>
@@ -5946,17 +5946,17 @@ This message will be displayed until you remove this from the JVM arguments.</so
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="326"/>
         <source>Name</source>
         <translation>Название</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="326"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="328"/>
         <source>Address</source>
         <translation>IP Адрес</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="328"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="330"/>
         <source>Latency</source>
         <translation>Задержка</translation>
     </message>
@@ -6029,7 +6029,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Серверы</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="645"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="647"/>
         <source>Context menu</source>
         <translation>Контекстное меню</translation>
     </message>
@@ -6346,22 +6346,22 @@ inheritsFrom отсутствует</translation>
 <context>
     <name>TexturePackFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="10"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Is the texture pack enabled?</source>
         <translation>Включён ли набор ресурсов?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="12"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="47"/>
         <source>The name of the texture pack.</source>
         <translation>Название набора ресурсов.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="14"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>The version of the texture pack.</source>
         <translation>Версия набора ресурсов.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="16"/>
+        <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="51"/>
         <source>The date and time this texture pack was last changed (or added).</source>
         <translation>Дата и время последнего изменения текстурпака.</translation>
     </message>
@@ -7203,17 +7203,17 @@ Please add your Mojang or Minecraft account.</source>
         <translation>Миры</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="132"/>
         <source>Context menu</source>
         <translation>Контекстное меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="187"/>
         <source>Are you sure?</source>
         <translation>Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="188"/>
         <source>This will remove the selected world permenantly.
 The world will be gone forever (A LONG TIME).
 
@@ -7224,64 +7224,64 @@ Do you want to continue?</source>
 Вы ходите продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="299"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit не найден или не установлен!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="300"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit не установлен или перемещен.
 Вы можете настроить его в глобальных настройках.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="309"/>
         <source>MCEdit failed to start!</source>
         <translation>Не удалось запустить MCEdit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="310"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>Не удалось запустить MCEdit.
 Возможно, его необходимо переустановить.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="357"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
         <source>Select a Minecraft world zip</source>
         <translation>Выберите zip-архив сохранения Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="360"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>Zip-файл сохранения Minecraft (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Copy World</source>
         <translation>Копировать сохранение</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="381"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Изменение сохранения во время работы игры небезопасно.
 Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="405"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="428"/>
         <source>World name</source>
         <translation>Название сохранения</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="405"/>
         <source>Enter a new name for the copy.</source>
         <translation>Введите новое имя для копии.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="428"/>
         <source>Enter a new world name.</source>
         <translation>Введите название нового сохранения.</translation>
     </message>
