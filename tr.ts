@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished">&amp;Pastebin URL</translation>
+        <translation>&amp;Pastebin Servisi</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,22 +21,22 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Metin Paylaşım Servisi/Türü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Temel &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not: Muhtemelen metin paylaşım servis türünü değiştirdikten sonra temel URL&apos;yi değiştirmek veya temizlemek isteyeceksiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API Anahtarları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -63,47 +63,47 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Çeşitli</translation>
+        <translation>Çeşitli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı Aracısı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Özelleştirilmiş bir Kullanıcı Aracısı girin. Özel dize $LAUNCHER_VER, başlatıcının sürümüyle değiştirilecek.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Üst&amp;veri Sunucusu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunu, yamalanmış kitaplıkları veya diğer hackleri kullanmak için üçüncü parti üst veri sunucusuna ayarlayabilirsin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üstveri için buraya bir özelleştirilmiş URL gir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge Çekirdek API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not: Eğer CurseForge zaten çalışıyorsa muhtemelen buna ihtiyacınız yok.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here. </source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge için buraya bir özelleştirilmiş API anahtarı gir. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -726,12 +726,12 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu modu etkinleştirmek istediğinden emin misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyarı</translation>
     </message>
 </context>
 <context>
@@ -770,7 +770,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuruluyor</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -1254,7 +1254,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not: CurseForge&apos;un API&apos;si oldukça güvenilmezdir. CurseForge ve bazı mod geliştiricileri PolyMC gibi üçüncü parti uygulamalara mod indirilmesini izin vermiyor. Bu yüzden, bir mod paketi kurabilmek için bazı modları elle indirmeniz gerekebilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1515,27 +1515,27 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdaki dosya türleri uygulanmıştır (hem yerel dosyalar, hem de URL&apos;ler için)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- Curseforge modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Curseforge mod paketleri (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth mod paketleri (ZIP ve mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- PolyMC / MultiMC dışa çıkarılmış profiller (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Technic mod paketleri (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1551,7 +1551,7 @@ Lütfen tekrar deneyin.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth paketi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
@@ -1694,12 +1694,12 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Engellenmiş modlar bulundu</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdaki modlar üçüncü parti başlatıcılarda engellidir.&lt;br/&gt;Bunları elle indirip, mod paketine eklemeniz gerekecek</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
@@ -1743,7 +1743,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seçmeli mod bulundu!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="619"/>
