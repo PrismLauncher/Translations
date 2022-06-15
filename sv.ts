@@ -55,7 +55,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Diverse</translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished">Du kan ställa in detta till en tredjeparts metadataserver för att använda patchade bibliotek eller andra hack.</translation>
+        <translation>Du kan ställa in detta till en tredjeparts metadataserver för att använda patchade bibliotek eller andra hack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -647,19 +647,19 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Sortera efter popularitet</translation>
+        <translation>Sortera efter popularitet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sortera efter namn</translation>
+        <translation>Sortera efter namn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Sortera efter spelversion</translation>
+        <translation>Sortera efter spelversion</translation>
     </message>
 </context>
 <context>
@@ -734,7 +734,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Sök och filtrera…</translation>
+        <translation>Sök och filtrera…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
@@ -895,13 +895,13 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">&amp;Wrapper-kommando:</translation>
+        <translation>&amp;Wrapper-kommando:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Före-startskommandot körs innan instansen startas och efter-avslutskommandot körs när det har avslutas. &lt;/p&gt; &lt;p&gt; Båda kommer att köras i startprogrammets arbetsmapp med extra miljövariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instansens namn&lt;/li&gt;&lt;li&gt;$INST_ID - ID för instansen (dess mappnamn)&lt;/li&gt;&lt;li&gt;$INST_DIR - instansens absoluta sökväg&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolut sökväg till Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java-binär som används för start&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - kommandoradsparametrar som används för start (varning: fungerar inte korrekt om argumenten innehåller blanksteg)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-kommandot tillåter start med ett extra omslutningsprogram (som &apos;optirun&apos; på Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt;Före-startskommandot körs innan instansen startas och efter-avslutskommandot körs när det har avslutats. &lt;/p&gt; &lt;p&gt;Båda kommer att köras i startprogrammets arbetsmapp med extra miljövariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instansens namn&lt;/li&gt;&lt;li&gt;$INST_ID - ID för instansen (dess mappnamn)&lt;/li&gt;&lt;li&gt;$INST_DIR - instansens absoluta sökväg&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolut sökväg till Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java-binär som används för start&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - kommandoradsparametrar som används för start (varning: fungerar inte korrekt om argumenten innehåller blanksteg)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-kommandot tillåter start med ett extra omslutningsprogram (som &apos;optirun&apos; på Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -924,7 +924,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Kunde inte starta Minecraft!</translation>
+        <translation>Kunde inte starta Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="100"/>
@@ -5972,7 +5972,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&lt; &amp;Back</source>
-        <translation>&lt; %Tillbaka</translation>
+        <translation>&lt; &amp;Tillbaka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
