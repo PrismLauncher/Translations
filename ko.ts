@@ -107,7 +107,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here. </source>
-        <translation>이곳에 CurseForge의 사용자 지정 API 키를 입력합니다. </translation>
+        <translation>이곳에 사용자 지정 CurseForge API 키를 입력합니다. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
