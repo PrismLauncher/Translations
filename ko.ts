@@ -5503,15 +5503,15 @@ Choose your name carefully:</source>
         <translation>자바 테스트 성공!&lt;br /&gt;플랫폼 보고됨: %1&lt;br /&gt;자바 버전 보고됨: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <location filename="src/launcher/JavaCommon.cpp" line="46"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <source>Java test success</source>
         <translation>자바 테스트 성공</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <location filename="src/launcher/JavaCommon.cpp" line="56"/>
         <location filename="src/launcher/JavaCommon.cpp" line="65"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="322"/>
         <source>Java test failure</source>
         <translation>자바 테스트 실패</translation>
     </message>
@@ -5728,8 +5728,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>알 수 없는 포맷 버전!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <source>Empty path</source>
         <translation>빈 경로</translation>
     </message>
