@@ -225,12 +225,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="104"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="110"/>
         <source>About</source>
         <translation>Névjegy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="113"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -239,37 +239,37 @@
         <translation type="vanished">Verzió:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="164"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
         <translation>Platform:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="174"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Number:</source>
         <translation>Build szám:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="184"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Channel:</source>
         <translation>Csatorna:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="235"/>
         <source>Credits</source>
         <translation>Közreműködők</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="222"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="249"/>
         <source>License</source>
         <translation>Licensz</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="258"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="285"/>
         <source>About Qt</source>
         <translation>Qt-ról</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="278"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="305"/>
         <source>Close</source>
         <translation>Bezárás</translation>
     </message>
@@ -601,7 +601,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="720"/>
+        <location filename="src/launcher/Application.cpp" line="721"/>
         <source>Settings</source>
         <translation type="unfinished">Beállítások</translation>
     </message>

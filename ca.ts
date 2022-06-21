@@ -225,12 +225,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="104"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="110"/>
         <source>About</source>
         <translation>Quant a</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="113"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Una llançadora que fa administrar Minecraft més fàcil permetent tenir diverses instàncies de Minecraft a la vegada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
@@ -239,37 +239,37 @@
         <translation type="vanished">Versió:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="164"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
         <translation>Plataforma:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="174"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Number:</source>
         <translation>Número de compilació:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="184"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Channel:</source>
         <translation>Canal:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="235"/>
         <source>Credits</source>
         <translation>Crèdits</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="222"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="249"/>
         <source>License</source>
         <translation>Llicència</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="258"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="285"/>
         <source>About Qt</source>
         <translation>Quant a Qt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="278"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="305"/>
         <source>Close</source>
         <translation>Tanca</translation>
     </message>
@@ -603,7 +603,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="720"/>
+        <location filename="src/launcher/Application.cpp" line="721"/>
         <source>Settings</source>
         <translation>Opcions</translation>
     </message>

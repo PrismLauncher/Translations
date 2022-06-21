@@ -229,47 +229,47 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="104"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="110"/>
         <source>About</source>
         <translation>關於</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="113"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;是個第三方的啟動器，它讓你能夠在同一個啟動器裡更輕鬆地管理多個 Minecraft 的實例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="164"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
         <translation>平台：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="174"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Number:</source>
         <translation>組建版本號：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="184"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Channel:</source>
         <translation>通道：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="235"/>
         <source>Credits</source>
         <translation>作者群</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="222"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="249"/>
         <source>License</source>
         <translation>授權條款</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="258"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="285"/>
         <source>About Qt</source>
         <translation>關於 Qt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="278"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="305"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
@@ -607,7 +607,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="720"/>
+        <location filename="src/launcher/Application.cpp" line="721"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>

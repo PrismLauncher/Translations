@@ -233,47 +233,47 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="104"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="110"/>
         <source>About</source>
         <translation>PolyMC 정보</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="113"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;여러 마인크래프트 프로필들을 더 쉽게 관리할 수 있게 해 주는 커스텀 런쳐입니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="164"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
         <translation>플랫폼:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="174"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Number:</source>
         <translation>빌드 번호:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="184"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Channel:</source>
         <translation>채널:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="235"/>
         <source>Credits</source>
         <translation>크레딧</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="222"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="249"/>
         <source>License</source>
         <translation>라이센스</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="258"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="285"/>
         <source>About Qt</source>
         <translation>Qt에 대해</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="278"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="305"/>
         <source>Close</source>
         <translation>닫기</translation>
     </message>
@@ -611,7 +611,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="720"/>
+        <location filename="src/launcher/Application.cpp" line="721"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
