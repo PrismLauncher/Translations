@@ -3511,7 +3511,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="291"/>
         <source>&amp;Kill</source>
-        <translation>$Matar</translation>
+        <translation>&amp;Matar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="296"/>
