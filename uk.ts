@@ -5790,7 +5790,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation>Відкрити Папку</translation>
+        <translation>Відкрити Теку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
@@ -6705,7 +6705,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>Відкрити папку .minecraft збірки.</translation>
+        <translation>Відкрити теку .minecraft збірки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
@@ -6715,7 +6715,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>Відкрийте папку локальних бібліотек збірок.</translation>
+        <translation>Відкрийте теку локальних бібліотек збірок.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="181"/>
