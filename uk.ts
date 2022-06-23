@@ -5479,7 +5479,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="249"/>
         <source>Patch is not loaded yet.</source>
-        <translation>Патч ще не завантажений.</translation>
+        <translation>Латка ще не завантажена.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
