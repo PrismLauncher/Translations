@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Layanan Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Layanan Paste &amp;Tipe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -23,23 +23,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Catatan: Anda mungkin ingin mengubah atau menghapus URL Dasar setelah mengubah jenis layanan paste.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunci API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Autentikasi &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Catatan: Anda mungkin tidak perlu mengatur ini jika masuk melalui Autentikasi Microsoft sudah berfungsi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Masukkan Client ID sendiri untuk Autentikasi Microsoft di sini. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -60,12 +60,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Masukkan User Agent sendiri di sini. String khusus $LAUNCHER_VER akan diganti dengan versi launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -90,17 +90,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Catatan: Anda mungkin tidak perlu mengatur ini jika CurseForge sudah berfungsi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here. </source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan Kunci API sendiri untuk CurseForge di sini. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
