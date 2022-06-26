@@ -1296,7 +1296,7 @@ Bitte versuche es erneut.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Achtung: Die API von CurseForge ist sehr unzuverlässig. CurseForge und manche Mod-Autoren haben das Herunterladen von Mods in Drittanbieter-Programmen wie PolyMC verboten. Daher kann es sein, dass du einige Mods manuell herunterladen musst, um ein Modpack zu installieren.</translation>
+        <translation>Achtung: CurseForge erlaubt Mod-Autoren den Zugirff aud ihre Inhalte für Drittanbieter-Programme wie PolyMC zu verbieten. Daher kann es sein, dass du einige Mods manuell herunterladen musst, um ein Modpack zu installieren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
