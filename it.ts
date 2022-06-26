@@ -58,7 +58,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Inserisci qui un client ID personalizzato per l&apos;auteticazione di Microsoft </translation>
+        <translation>Inserisci qui un client ID personalizzato per l&apos;autenticazione di Microsoft. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -1316,7 +1316,7 @@ Per favore, prova di nuovo.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="227"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Link esterni:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="231"/>
@@ -3471,30 +3471,30 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="291"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>Termina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="296"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="313"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi istanza...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="340"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartelle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="353"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="362"/>
@@ -3529,7 +3529,7 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Meow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="425"/>
@@ -3539,38 +3539,38 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="505"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;File</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Visualizzazione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="537"/>
         <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profili</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="541"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Aiuto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="566"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi finestra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="567"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi la finestra corrente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="574"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 &amp;Aiuto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
@@ -6479,7 +6479,7 @@ inheritsFrom mancante</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
@@ -6489,22 +6489,22 @@ inheritsFrom mancante</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
