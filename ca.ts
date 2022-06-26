@@ -1238,8 +1238,9 @@ Per favor, intenta de nou la descàrrega.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <translation>Nota: L&apos;API de CurseForge és molt imprevisible. CurseForge i alguns autors de mods han desactivat la capacitat de llançadors de tercers com PolyMC de descarregar mods. Tanmateix, potser és necessari que descarreguis manualment alguns mods per poder instal·lar un paquet de mods.</translation>
+        <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
+        <translation type="unfinished">Nota: L&apos;API de CurseForge és molt imprevisible. CurseForge i alguns autors de mods han desactivat la capacitat de llançadors de tercers com PolyMC de descarregar mods. Tanmateix, potser és necessari que descarreguis manualment alguns mods per poder instal·lar un paquet de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3271,13 +3272,13 @@ Motiu:
         <translation>Mata la instància en execució</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1216"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
         <source>Launch</source>
         <translation>Iniciar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Launch the selected instance.</source>
         <translation>Llança la instància seleccionada.</translation>
     </message>
@@ -3318,7 +3319,7 @@ Motiu:
         <translation>Obre la carpeta principal de mods en el navegador de fitxers.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="876"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="879"/>
         <source>Folders</source>
         <translation>Carpetes</translation>
     </message>
@@ -3372,7 +3373,7 @@ Motiu:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="475"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="877"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="880"/>
         <source>Help</source>
         <translation>Ajuda</translation>
     </message>
@@ -3404,27 +3405,27 @@ Motiu:
         <translation type="vanished">Administrar comptes</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="617"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="622"/>
         <source>News Toolbar</source>
         <translation>Barra de notícies</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="622"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="627"/>
         <source>More news...</source>
         <translation>Més notícies...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="628"/>
         <source>Open the development blog to read more news about %1.</source>
         <translation>Obrir el blog de desenvolupament per llegir més notícies sobre %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="779"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="784"/>
         <source>Instance Toolbar</source>
         <translation>Barra de tasques de l&apos;Instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="638"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="643"/>
         <source>Change Icon</source>
         <translation>Canviar icona</translation>
     </message>
@@ -3435,7 +3436,7 @@ Motiu:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="296"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
         <source>&amp;Launch</source>
         <translation>&amp;Llençar</translation>
     </message>
@@ -3502,164 +3503,164 @@ Motiu:
         <translation>A&amp;rxiu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="528"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
         <source>&amp;View</source>
         <translation>&amp;Vista</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="537"/>
         <source>&amp;Profiles</source>
         <translation>&amp;Perfils</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="537"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="541"/>
         <source>&amp;Help</source>
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="566"/>
         <source>Close &amp;Window</source>
         <translation>&amp;Tancar Finestra</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="567"/>
         <source>Close the current window</source>
         <translation>Tanca la finestra actual</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="574"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>A&amp;juda sobre %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="582"/>
         <source>Open the %1 wiki</source>
         <translation>Obre la wiki de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="581"/>
         <source>%1 &amp;News</source>
         <translation>&amp;Novetats de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="644"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Canviar la icona de la instància seleccionada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="656"/>
         <source>Rename</source>
         <translation>Canvia el nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="652"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="657"/>
         <source>Rename the selected instance.</source>
         <translation>Canvia el nom a la instància seleccionada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="674"/>
         <source>Launch &amp;Offline</source>
         <translation>Llençar fora de &amp;línia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="675"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="680"/>
         <source>Edit Inst&amp;ance...</source>
         <translation>Editar inst&amp;ancia...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>Ctrl+I</source>
         <translation>Ctrl + I</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
         <source>E&amp;dit Notes...</source>
         <translation>E&amp;ditar notes...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="688"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
         <source>View &amp;Mods</source>
         <translation>Veure &amp;mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="699"/>
         <source>&amp;View Worlds</source>
         <translation>&amp;Veure mons</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="705"/>
         <source>Manage &amp;Screenshots</source>
         <translation>Gestionar &amp;captures de pantalla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="711"/>
         <source>&amp;Change Group...</source>
         <translation>Canviar &amp;grup...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>Ctrl+G</source>
         <translation>Ctrl + G</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
         <source>Minec&amp;raft Folder</source>
         <translation>Carpeta de Minec&amp;raft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="720"/>
         <source>Ctrl+M</source>
         <translation>Ctrl + M</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="733"/>
         <source>Confi&amp;g Folder</source>
         <translation>Carpeta de con&amp;figuració</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="742"/>
         <source>&amp;Instance Folder</source>
         <translation>Carpeta d&apos;&amp;instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="748"/>
         <source>E&amp;xport Instance...</source>
         <translation>E&amp;xportar instància...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="745"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
         <source>Ctrl+E</source>
         <translation>Ctrl + E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="755"/>
         <source>Dele&amp;te Instance...</source>
         <translation>Eliminar ins&amp;tància...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="752"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
         <source>Backspace</source>
         <translation>Retrocés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="763"/>
         <source>Cop&amp;y Instance...</source>
         <translation>Copiar instància... (&amp;y)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="760"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
         <source>Ctrl+D</source>
         <translation>Ctrl + D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1218"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1221"/>
         <source>Launch Offline</source>
         <translation>Jugar sense connexió</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="675"/>
         <source>Launch the selected instance in offline mode.</source>
         <translation>Inicia la instància seleccionada en mode sense connexió.</translation>
     </message>
@@ -3668,7 +3669,7 @@ Motiu:
         <translation type="vanished">Editar Instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="681"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Canvia la configuració, mods i versions de la instància.</translation>
     </message>
@@ -3677,12 +3678,12 @@ Motiu:
         <translation type="vanished">Editar Notes</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="688"/>
         <source>Edit the notes for the selected instance.</source>
         <translation>Edita les notes per a la instància seleccionada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
         <source>View the mods of this instance.</source>
         <translation>Veure els mods d&apos;aquesta instància.</translation>
     </message>
@@ -3691,7 +3692,7 @@ Motiu:
         <translation type="vanished">Veure mons</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="695"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
         <source>View the worlds of this instance.</source>
         <translation>Veure els mons de la instància.</translation>
     </message>
@@ -3700,7 +3701,7 @@ Motiu:
         <translation type="vanished">Administra captures</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
         <source>View and upload screenshots for this instance.</source>
         <translation>Visualitza i carrega captures de pantalla per a aquesta instància.</translation>
     </message>
@@ -3709,7 +3710,7 @@ Motiu:
         <translation type="vanished">Canviar grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="712"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>Canvia el grup de la instància seleccionada.</translation>
     </message>
@@ -3718,7 +3719,7 @@ Motiu:
         <translation type="vanished">Carpeta de Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="719"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
         <translation>Obri la carpeta de Minecraft de la instància seleccionada en l&apos;administrador de fitxers.</translation>
@@ -3728,7 +3729,7 @@ Motiu:
         <translation type="vanished">Carpeta de Configuració</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
         <source>Open the instance&apos;s config folder.</source>
         <translation>Obri la carpeta de configuració de la instància.</translation>
     </message>
@@ -3737,7 +3738,7 @@ Motiu:
         <translation type="vanished">Carpeta d&apos;Instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="738"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>Obri la carpeta arrel de la instància en l&apos;administrador de fitxers.</translation>
     </message>
@@ -3746,7 +3747,7 @@ Motiu:
         <translation type="vanished">Exportar Instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
         <source>Export the selected instance as a zip file.</source>
         <translation>Exporta la instància seleccionada com un arxiu zip.</translation>
     </message>
@@ -3756,7 +3757,7 @@ Motiu:
         <translation type="obsolete">Eliminar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="751"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="756"/>
         <source>Delete the selected instance.</source>
         <translation>Eliminar la instància seleccionada.</translation>
     </message>
@@ -3765,15 +3766,14 @@ Motiu:
         <translation type="vanished">Copiar instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="759"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="764"/>
         <source>Copy the selected instance.</source>
         <translation>Copiar la instància seleccionada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="860"/>
         <source>%1 - Version %2</source>
         <comment>Launcher - Version X</comment>
-        <translation>%1 - Versió %2</translation>
+        <translation type="vanished">%1 - Versió %2</translation>
     </message>
     <message>
         <source> on %1</source>
@@ -3781,122 +3781,122 @@ Motiu:
         <translation type="vanished"> en %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="975"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1090"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="978"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1093"/>
         <source>No instance selected</source>
         <translation>Cap instància seleccionada</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="976"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="979"/>
         <source>Total playtime: 0s</source>
         <translation>Temps de joc total: 0s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1084"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1419"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1087"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1422"/>
         <source>Profiles</source>
         <translation>Perfils</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1143"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1146"/>
         <source>Create instance</source>
         <translation>Crear instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1159"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1162"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Eliminar grup &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1222"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1234"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1237"/>
         <source>Profilers</source>
         <translation>Perfiladors</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1246"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1249"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>Perfilador no configurat correctament. Ves a configuració, &quot;Eines Externes&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1295"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>No accounts added!</source>
         <translation>No s&apos;ha afegit cap compte!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1327"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1330"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1342"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1345"/>
         <source>No Default Account</source>
         <translation>Cap Compte per Defecte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1349"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1459"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1462"/>
         <source>Loading news...</source>
         <translation>Carregant notícies...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1472"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
         <source>No news available.</source>
         <translation>No s&apos;han trobat notícies.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1623"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1626"/>
         <source>Warnings</source>
         <translation>Avisos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1627"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1669"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1672"/>
         <source>Abort</source>
         <translation>Cancel·lar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1678"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1681"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>El llançador no pot descarregar Minecraft o actualitzar les instàncies a no ser que tinguis almenys un compte afegit.
 Si us plau, afegeix un compte de Mojang o Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1817"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1820"/>
         <source>Group name</source>
         <translation>Nom del grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1817"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1820"/>
         <source>Enter a new group name.</source>
         <translation>Introdueix el nom del nou grup.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1839"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1842"/>
         <source>Delete group</source>
         <translation>Elimina el grup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1839"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1842"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>Estàs segur que vols esborrar el grup %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1986"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1989"/>
         <source>CAREFUL!</source>
         <translation>ATENCIÓ!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1987"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1990"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -3907,46 +3907,46 @@ Aquesta acció esborrarà permanentment la instància.
 Estàs segur?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2200"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <source>Rename Instance</source>
         <translation>Canvia el nom a la instància</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>El nom de la capeta de la instància conte un &apos;!&apos; i això és conegut de causar problemes amb el Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2215"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2218"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Tens dues opcions: &lt;br/&gt; - canviar la carpeta de la instància a les opcions &lt;br/&gt; - moure aquesta instal·lació de %1 a una carpeta diferent</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2224"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2227"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Això és un problema: &lt;br/&gt; - El llançador probablement serà eliminat sense comunicar-ho al sistema operatiu &lt;br/&gt; - tanca el llançador ara i extreu-ho a una carpeta real, no una temporal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2234"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>La teva carpeta de la instància conté &apos;Rar$&apos; - això significa que no has extret el llançador encara!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2239"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2242"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>La teva instància es troba en una carpeta temporal: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2252"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2255"/>
         <source>Total playtime: %1</source>
         <translation>Temps de joc total: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1616"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1665"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1677"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1543"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1560"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1619"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1668"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1680"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -3956,7 +3956,7 @@ Estàs segur?</translation>
         <translation>Obrir el servidor de Discord de %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1543"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
         <translation>No s&apos;ha pogut crear la carpeta per a les baixades d&apos;actualitzacions:
