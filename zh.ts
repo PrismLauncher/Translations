@@ -392,7 +392,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="375"/>
         <source>Can Migrate?</source>
-        <translation>是否可迁移?</translation>
+        <translation>是否可迁移？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="377"/>
@@ -1264,7 +1264,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">注意： CurseForge 的 API 非常不可靠。CurseForge 和在这之上的许多模组作者已经禁止了从 PloyMC 等第三方应用中下载他们的模组。 因此，您可能需要手动下载一些模组才能安装模组包。</translation>
+        <translation>注意：CurseForge 允许作者阻止从 PloyMC 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些模组才能安装模组包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
