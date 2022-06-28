@@ -1256,7 +1256,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">備註：CurseForge 的 API 目前相當不可靠。CurseForge 以及一些模組作者已經不容許玩家在第三方應用程式中下載模組，像是 PolyMC 。因此，你可能會需要手動下載一些模組，才能夠完成安裝模組包。</translation>
+        <translation>備註：CurseForge 的 API 目前相當不可靠。CurseForge 以及一些模組作者已經不容許玩家在第三方應用程式中下載模組，像是 PolyMC 。因此，你可能會需要手動下載一些模組，才能夠完成安裝模組包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
