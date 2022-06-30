@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Różne</translation>
+        <translation>Różne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
@@ -1296,7 +1296,7 @@ Spróbuj ponownie.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Uwaga: API CurseForge jest bardzo niestabilne. CurseForge i niektórzy autorzy modów uniemożliwili pobieranie modów w aplikacjach firm trzecich, takich jak PolyMC. W związku z tym, aby móc zainstalować modpack, może być wymagane ręczne pobranie niektórych modów.</translation>
+        <translation>Uwaga: CurseForge pozwala autorom modów zablokować pobieranie modów w aplikacjach firm trzecich, takich jak PolyMC. W związku z tym, aby móc zainstalować modpack, może być wymagane ręczne pobranie niektórych modów.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1352,7 +1352,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="227"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zewnętrzne linki:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="231"/>
