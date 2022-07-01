@@ -1016,6 +1016,95 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     </message>
 </context>
 <context>
+    <name>ExternalResourcesPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
+        <source>Filter:</source>
+        <translation type="unfinished">Filtro:</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
+        <source>Actions</source>
+        <translation type="unfinished">Azioni</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Aggiungi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;Elimina</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
+        <source>Remove selected item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
+        <source>&amp;Enable</source>
+        <translation type="unfinished">&amp;Abilita</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
+        <source>Enable selected item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
+        <source>&amp;Disable</source>
+        <translation type="unfinished">&amp;Disabilita</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
+        <source>Disable selected item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
+        <source>View &amp;Configs</source>
+        <translation type="unfinished">Visualizza &amp;Configurazioni</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
+        <source>Open the &apos;config&apos; folder in the system file manager.</source>
+        <translation type="unfinished">Apre la cartella &apos;config&apos; nel gestore file di sistema.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
+        <source>View &amp;Folder</source>
+        <translation type="unfinished">Apri &amp;Cartella</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
+        <source>&amp;Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
+        <source>Download a new resource</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
+        <source>Context menu</source>
+        <translation type="unfinished">Menu contestuale</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="239"/>
+        <source>Select %1</source>
+        <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
+        <translation type="unfinished">Seleziona %1</translation>
+    </message>
+</context>
+<context>
     <name>ExternalToolsPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="59"/>
@@ -1811,14 +1900,12 @@ Per favore, prova di nuovo.</translation>
 <context>
     <name>InstancePageProvider</name>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="36"/>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation type="vanished">Mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="39"/>
         <source>Core mods</source>
-        <translation>Core Mods</translation>
+        <translation type="vanished">Core Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="59"/>
@@ -4358,131 +4445,129 @@ Sei sicuro?</translation>
 <context>
     <name>ModFolderPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="39"/>
         <source>Filter:</source>
-        <translation>Filtro:</translation>
+        <translation type="vanished">Filtro:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="75"/>
         <source>Actions</source>
-        <translation>Azioni</translation>
+        <translation type="vanished">Azioni</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="96"/>
         <source>&amp;Add</source>
-        <translation>&amp;Aggiungi</translation>
+        <translation type="vanished">&amp;Aggiungi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="99"/>
         <source>Add</source>
-        <translation>Aggiungi mod</translation>
+        <translation type="vanished">Aggiungi mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="104"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Elimina</translation>
+        <translation type="vanished">&amp;Elimina</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="107"/>
         <source>Remove selected mods</source>
-        <translation>Elimina le mod selezionate</translation>
+        <translation type="vanished">Elimina le mod selezionate</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="112"/>
         <source>&amp;Enable</source>
-        <translation>&amp;Abilita</translation>
+        <translation type="vanished">&amp;Abilita</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="115"/>
         <source>Enable selected mods</source>
-        <translation>Abilita le mod selezionate</translation>
+        <translation type="vanished">Abilita le mod selezionate</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="120"/>
         <source>&amp;Disable</source>
-        <translation>&amp;Disabilita</translation>
+        <translation type="vanished">&amp;Disabilita</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="123"/>
         <source>Disable selected mods</source>
-        <translation>Disabilita le mod selezionate</translation>
+        <translation type="vanished">Disabilita le mod selezionate</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="128"/>
         <source>View &amp;Configs</source>
-        <translation>Visualizza &amp;Configurazioni</translation>
+        <translation type="vanished">Visualizza &amp;Configurazioni</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="131"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>Apre la cartella &apos;config&apos; nel gestore file di sistema.</translation>
+        <translation type="vanished">Apre la cartella &apos;config&apos; nel gestore file di sistema.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.ui" line="136"/>
         <source>View &amp;Folder</source>
-        <translation>Apri &amp;Cartella</translation>
+        <translation type="vanished">Apri &amp;Cartella</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
         <source>Download mods</source>
         <translation>Scarica mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods from online mod platforms</source>
         <translation>Scarica mod dalle piattaforme online</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="179"/>
         <source>Add .jar</source>
-        <translation>Aggiungi .jar</translation>
+        <translation type="vanished">Aggiungi .jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="180"/>
         <source>Add mods via local file</source>
-        <translation>Aggiungi mod da file locale</translation>
+        <translation type="vanished">Aggiungi mod da file locale</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="230"/>
         <source>Context menu</source>
-        <translation>Menu contestuale</translation>
+        <translation type="vanished">Menu contestuale</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="345"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation>Seleziona %1</translation>
+        <translation type="vanished">Seleziona %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="403"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
+        <source>Add file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
+        <source>Add a locally downloaded file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="124"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="396"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="124"/>
         <source>Please install a mod loader first!</source>
         <translation>Si prega di installare innanzitutto un mod loader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="407"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
         <source>Aborted</source>
         <translation>Interrotto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="407"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
         <source>Download stopped by user.</source>
         <translation>Download interrotto dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="412"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="142"/>
         <source>Warnings</source>
         <translation>Avvisi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="421"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="152"/>
         <source>Abort</source>
         <translation>Annulla</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="49"/>
+        <source>Mods</source>
+        <translation type="unfinished">Mods</translation>
     </message>
 </context>
 <context>
@@ -5797,7 +5882,7 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
 <context>
     <name>ResourcePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="47"/>
+        <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="52"/>
         <source>Resource packs</source>
         <translation>Resource Pack</translation>
     </message>
@@ -6043,7 +6128,7 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
 <context>
     <name>ShaderPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="47"/>
+        <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="52"/>
         <source>Shader packs</source>
         <translation>Pacchetti shader</translation>
     </message>
@@ -6347,7 +6432,7 @@ inheritsFrom mancante</translation>
 <context>
     <name>TexturePackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="47"/>
+        <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="52"/>
         <source>Texture packs</source>
         <translation>Texture pack</translation>
     </message>
