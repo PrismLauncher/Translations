@@ -625,24 +625,30 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <translation>Asset-index van %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
         <translation>Het lezen van de asset-index is mislukt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
         <translation>Asset bestanden bij Mojang ophalen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>Het downloaden van de asset-index is mislukt:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="98"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
         <source>Failed to download assets:
 %1</source>
         <translation>Het downloaden van de assets is mislukt:
@@ -811,27 +817,33 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
 <context>
     <name>ComponentUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
         <source>Some component metadata load tasks failed.</source>
         <translation>Het laden van de metadata van enkele componenten is mislukt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="526"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>Conflicterende vereisten gedetecteerd tijdens het controleren van afhankelijkheden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="545"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
         <translation>De instance heeft conflicterende afhankelijkheden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="552"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>Instantie kon een of meer afhankelijkheden niet vinden tijdens het laden/controleren van het startproces.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="702"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Update-taak van een metadata component mislukt tijdens downloaden van externe server:
@@ -1242,22 +1254,27 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <translation>Downloaden van FML-bibliotheken...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
         <source>Copying FML libraries into the instance...</source>
         <translation>FML-bibliotheken naar de instantie kopiëren...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="102"/>
         <source>Failed creating FML library folder inside the instance.</source>
         <translation>Het maken van de FML-bibliotheekmap in de instantie is mislukt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="107"/>
         <source>Failed copying Forge/FML library: %1.</source>
         <translation>Kopiëren van de Forge/FML-bibliotheek is mislukt: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="120"/>
         <source>Failed to download the following files:
 %1
 
@@ -3192,7 +3209,12 @@ U moet deze bestanden toevoegen, of u heeft de pakketten verwijderd die ze nodig
 U zult dit probleem handmatig moeten oplossen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
@@ -4120,6 +4142,17 @@ Weet u het zeker?</translation>
     </message>
 </context>
 <context>
+    <name>MinecraftAccount</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="149"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MinecraftInstance</name>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="748"/>
@@ -4147,24 +4180,36 @@ Weet u het zeker?</translation>
         <translation>defect</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="830"/>
-        <source>Minecraft %1 (%2)</source>
-        <translation>Minecraft %1 (%2)</translation>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="834"/>
+        <source>Minecraft %1 (%2)</source>
+        <translation type="vanished">Minecraft %1 (%2)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="842"/>
         <source>, last played for %1</source>
         <translation>, laatst gespeeld gedurende %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="846"/>
         <source>, total played for %1</source>
         <translation>, totaal gespeeld gedurende %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="843"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="851"/>
         <source>, has crashed.</source>
         <translation>, is gecrasht.</translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftLoadAndCheck</name>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4679,18 +4724,18 @@ Weet u het zeker?</translation>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="227"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="234"/>
         <source>Error</source>
         <translation type="unfinished">Fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="231"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="234"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="238"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -4748,18 +4793,18 @@ Gelieve %1 bij te werken!</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="290"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="294"/>
         <source>Error</source>
         <translation type="unfinished">Fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="291"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="298"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -5203,12 +5248,17 @@ Gelieve %1 bij te werken!</translation>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="615"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="349"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="616"/>
         <source>Name</source>
         <translation>Naam</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="617"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="618"/>
         <source>Version</source>
         <translation>Versie</translation>
     </message>
@@ -7550,22 +7600,22 @@ Stel uw account in volgens %1.</translation>
 <context>
     <name>YggdrasilStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="17"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="18"/>
         <source>Logging in with Mojang account.</source>
         <translation>Aanmelden met Mojang account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="34"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="35"/>
         <source>Logged in with Mojang</source>
         <translation>Aangemeld met Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="43"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="44"/>
         <source>Mojang user authentication failed.</source>
         <translation>Mojang gebruikersauthenticatie mislukt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="48"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
         <translation>Mojang gebruikersauthenticatie eindigde met een netwerkfout.</translation>
     </message>

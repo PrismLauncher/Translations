@@ -637,24 +637,30 @@ Please update both your operating system and PolyMC.</source>
         <translation>%1 的 asset 资源索引</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <source>Aborted</source>
+        <translation type="unfinished">中断</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
         <translation>读取资源索引错误！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
         <translation>正在从Mojang获取assets资源文件……</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>下载 assets 资源索引时出错：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="98"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
         <source>Failed to download assets:
 %1</source>
         <translation>下载 assets 资源时出错：
@@ -823,27 +829,33 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>ComponentUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
+        <source>Aborted</source>
+        <translation type="unfinished">中断</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
         <source>Some component metadata load tasks failed.</source>
         <translation>部分组件元数据加载失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="526"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>在依赖检测过程中检测到冲突的必要依赖项！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="545"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
         <translation>实例包含冲突的依赖项。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="552"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>实例在运行时执行的加载/检查中发现了未解析的依赖项。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="702"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>组件元数据更新失败，在从远端服务器下载时出现错误：
@@ -1254,22 +1266,27 @@ Please update both your operating system and PolyMC.</source>
         <translation>下载 FML 库文件中……</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
+        <source>Aborted</source>
+        <translation type="unfinished">中断</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
         <source>Copying FML libraries into the instance...</source>
         <translation>正在复制 FML 库文件到实例中……</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="102"/>
         <source>Failed creating FML library folder inside the instance.</source>
         <translation>在实例中创建 FML 库文件夹时出错。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="107"/>
         <source>Failed copying Forge/FML library: %1.</source>
         <translation>复制 Forge 或 FML 库文件时出错：%1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="120"/>
         <source>Failed to download the following files:
 %1
 
@@ -3220,7 +3237,12 @@ You&apos;ll have to correct this problem manually.</source>
 你必须手动修正这个问题。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
+        <source>Aborted</source>
+        <translation type="unfinished">中断</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
@@ -4153,6 +4175,17 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>MinecraftAccount</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="149"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
+        <source>Aborted</source>
+        <translation type="unfinished">中断</translation>
+    </message>
+</context>
+<context>
     <name>MinecraftInstance</name>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="748"/>
@@ -4180,24 +4213,36 @@ Are you sure?</source>
         <translation>损坏</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="830"/>
-        <source>Minecraft %1 (%2)</source>
-        <translation>Minecraft %1 （%2）</translation>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="834"/>
+        <source>Minecraft %1 (%2)</source>
+        <translation type="vanished">Minecraft %1 （%2）</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="842"/>
         <source>, last played for %1</source>
         <translation>，最后一次游玩时长: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="846"/>
         <source>, total played for %1</source>
         <translation>，此实例总游玩时长：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="843"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="851"/>
         <source>, has crashed.</source>
         <translation>，最后一次运行发生崩溃。</translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftLoadAndCheck</name>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
+        <source>Aborted</source>
+        <translation type="unfinished">中断</translation>
     </message>
 </context>
 <context>
@@ -4712,18 +4757,18 @@ Are you sure?</source>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="227"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="234"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="231"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>发生网络错误。无法加载模组。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="234"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="238"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -4781,18 +4826,18 @@ Please update %1!</source>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="290"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="294"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="291"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>发生网络错误。无法加载模组包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="298"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -5236,12 +5281,17 @@ Please update %1!</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="615"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="349"/>
+        <source>Aborted</source>
+        <translation type="unfinished">中断</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="616"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="617"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="618"/>
         <source>Version</source>
         <translation>版本</translation>
     </message>
@@ -7587,22 +7637,22 @@ Please set up your account according to %1.</source>
 <context>
     <name>YggdrasilStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="17"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="18"/>
         <source>Logging in with Mojang account.</source>
         <translation>正在使用 Mojang 账户登录.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="34"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="35"/>
         <source>Logged in with Mojang</source>
         <translation>已使用 Mojang 账户登录</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="43"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="44"/>
         <source>Mojang user authentication failed.</source>
         <translation>Mojang 用户验证失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="48"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
         <translation>Mojang 账户认证时遇到了网络错误。</translation>
     </message>

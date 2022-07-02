@@ -621,24 +621,30 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <translation>Dữ liệu cho %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="73"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
         <translation>Không thể đọc được dữ liệu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="79"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
         <translation>Đang tải dữ liệu từ Mojang...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>Không tải xuống được chỉ mục dữ liệu:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="98"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
         <source>Failed to download assets:
 %1</source>
         <translation>Không tải xuống được dữ liệu: 
@@ -807,27 +813,33 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
 <context>
     <name>ComponentUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="270"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
         <source>Some component metadata load tasks failed.</source>
         <translation>Một số tác vụ tải metadata thất bại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="526"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
         <translation>Yêu cầu xung đột được phát hiện trong quá trình kiểm tra tệp phụ thuộc!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="545"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
         <translation>Phiên bản có các yêu cầu mâu thuẫn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="552"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
         <translation>Phiên bản có các tệp phụ thuộc chưa được giải quyết trong khi tải / kiểm tra để khởi chạy.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="702"/>
+        <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
         <translation>Tác vụ cập nhật metadata không thành công khi tải xuống từ máy chủ:
@@ -1238,22 +1250,27 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <translation>Đang tải thư viện FML...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
         <source>Copying FML libraries into the instance...</source>
         <translation>Đang sao chép thư viện FML vào phiên bản...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="102"/>
         <source>Failed creating FML library folder inside the instance.</source>
         <translation>Thất bại trong việc tạo thư mục thư viện FML vào phiên bản.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="106"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="107"/>
         <source>Failed copying Forge/FML library: %1.</source>
         <translation>Sao chép thư viện Forge/FML thất bại: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="120"/>
         <source>Failed to download the following files:
 %1
 
@@ -3177,7 +3194,12 @@ Bạn cần thêm tệp, hoặc xoá gói mà cần chúng.
 Bạn phải khắc phục sự cố này bằng cách thủ công.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="82"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
@@ -4092,6 +4114,17 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>MinecraftAccount</name>
+    <message>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="149"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MinecraftInstance</name>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="748"/>
@@ -4119,24 +4152,36 @@ Are you sure?</source>
         <translation>hỏng</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="830"/>
-        <source>Minecraft %1 (%2)</source>
-        <translation>Minecraft %1 (%2)</translation>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="834"/>
+        <source>Minecraft %1 (%2)</source>
+        <translation type="vanished">Minecraft %1 (%2)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="842"/>
         <source>, last played for %1</source>
         <translation>, đã chơi trong vòng %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="846"/>
         <source>, total played for %1</source>
         <translation>, tổng cộng thời gian chơi là %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="843"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="851"/>
         <source>, has crashed.</source>
         <translation>, đã hỏng.</translation>
+    </message>
+</context>
+<context>
+    <name>MinecraftLoadAndCheck</name>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4642,18 +4687,18 @@ Are you sure?</source>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="227"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="230"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="234"/>
         <source>Error</source>
         <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="227"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="231"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="234"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="238"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -4710,18 +4755,18 @@ Please update %1!</source>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="290"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="294"/>
         <source>Error</source>
         <translation type="unfinished">Lỗi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="291"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="297"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="298"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -5159,12 +5204,17 @@ Please update %1!</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="615"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="349"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="616"/>
         <source>Name</source>
         <translation>Tên</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="617"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="618"/>
         <source>Version</source>
         <translation>Phiên bản</translation>
     </message>
@@ -7505,22 +7555,22 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
 <context>
     <name>YggdrasilStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="17"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="18"/>
         <source>Logging in with Mojang account.</source>
         <translation>Đang đăng nhập bằng tài khoản Mojang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="34"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="35"/>
         <source>Logged in with Mojang</source>
         <translation>Đã đăng nhặp bằng tài khoản Mojang</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="43"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="44"/>
         <source>Mojang user authentication failed.</source>
         <translation>Xác minh tài khoản Mojang thất bại.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="48"/>
+        <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
         <translation>Xác thực tài khoản Mojang đã kết thúc với kết nối mạng lỗi.</translation>
     </message>
