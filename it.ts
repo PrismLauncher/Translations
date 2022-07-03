@@ -378,7 +378,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Username</source>
-        <translation type="unfinished">Username</translation>
+        <translation>Username</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
@@ -434,7 +434,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Nome del profilo Minecraft associato all&apos;account.</translation>
+        <translation>Questo account può migrare a Microsoft account?</translation>
     </message>
 </context>
 <context>
@@ -1919,7 +1919,7 @@ Per favore, prova di nuovo.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="714"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished">Non è stato possibile rinominare la cartella d&apos;override del client:
+        <translation>Non è stato possibile rinominare la cartella d&apos;override del client:
 </translation>
     </message>
     <message>
@@ -3144,7 +3144,7 @@ Rimuoverlo?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="398"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Vuoi veramente cancellare il modpack %1?</translation>
+        <translation>Sei sicuro di voler cancellare il modpack %1?</translation>
     </message>
 </context>
 <context>
@@ -4089,7 +4089,7 @@ This is permanent and will completely delete the instance.
 
 Are you sure?</source>
         <translation>%1 sta per essere eliminato
-Questo è permanente e cancellerà completamente l&apos;istanza.
+L&apos;azione è permanente e cancellerà completamente l&apos;istanza.
 
 Sei sicuro?</translation>
     </message>
@@ -6914,7 +6914,7 @@ Si prega di selezionare per questa istanza una versione fra le seguenti:</transl
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
         <source>Replace Minecraft.jar</source>
-        <translation>Rimpiazza minecraft.jar</translation>
+        <translation>Rimpiazza Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
