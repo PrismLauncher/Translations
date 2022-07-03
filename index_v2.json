@@ -195,11 +195,11 @@
             "untranslated" : 1094
         },
         "it" : {
-            "file" : "3a9a6a43bf7b941285150c27ac8976596669e237.class",
-            "sha1" : "3a9a6a43bf7b941285150c27ac8976596669e237",
-            "size" : 180589,
-            "translated" : 1262,
-            "fuzzy" : 3,
+            "file" : "6cfe32ceb710c08c284105fd7d401d32a8b82208.class",
+            "sha1" : "6cfe32ceb710c08c284105fd7d401d32a8b82208",
+            "size" : 180599,
+            "translated" : 1265,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "ja" : {
