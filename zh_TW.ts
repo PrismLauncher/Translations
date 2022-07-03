@@ -4176,27 +4176,27 @@ Are you sure?</source>
         <translation>&lt;程序ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="750"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="751"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="752"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="754"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="754"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="756"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="826"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="828"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4205,17 +4205,17 @@ Are you sure?</source>
         <translation type="vanished">Minecraft %1（%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="842"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="844"/>
         <source>, last played for %1</source>
         <translation>，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="846"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="848"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="851"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="853"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>

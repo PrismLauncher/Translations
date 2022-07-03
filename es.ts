@@ -4184,27 +4184,27 @@ Esto es permanente y borrará completamente la instancia.
         <translation>&lt;ID DE SESIÓN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="750"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="751"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TOKEN DE ACCESO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="752"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="754"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;TOKEN DE CLIENTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="754"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="756"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID DEL PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="826"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="828"/>
         <source>broken</source>
         <translation>roto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4213,17 +4213,17 @@ Esto es permanente y borrará completamente la instancia.
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="842"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="844"/>
         <source>, last played for %1</source>
         <translation>, la última vez se jugó por %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="846"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="848"/>
         <source>, total played for %1</source>
         <translation>, se ha jugado un total de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="851"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="853"/>
         <source>, has crashed.</source>
         <translation>, se ha cerrado de forma inesperada.</translation>
     </message>

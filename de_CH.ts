@@ -4091,27 +4091,27 @@ Are you sure?</source>
         <translation>&lt;SITZUNGS ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="750"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="751"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ZUGANGS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="752"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="754"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="754"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="756"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFIL ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="826"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="828"/>
         <source>broken</source>
         <translation>kaputt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4120,17 +4120,17 @@ Are you sure?</source>
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="842"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="844"/>
         <source>, last played for %1</source>
         <translation>, zuletzt gespielt für %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="846"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="848"/>
         <source>, total played for %1</source>
         <translation>, gesamt gespielt für %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="851"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="853"/>
         <source>, has crashed.</source>
         <translation>, ist abgestürtzt.</translation>
     </message>
