@@ -403,12 +403,6 @@
         <translation>Trenutno stanje računa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="392"/>
-        <source>Current status of the account.</source>
-        <oldsource>Can this account migrate to Microsoft account?</oldsource>
-        <translation type="unfinished">Se lahko ta račun prenese na Microsoftov račun?</translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>

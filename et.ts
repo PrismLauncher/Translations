@@ -417,12 +417,6 @@
         <translation>Konto praegune olek.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="392"/>
-        <source>Current status of the account.</source>
-        <oldsource>Can this account migrate to Microsoft account?</oldsource>
-        <translation type="unfinished">Kas selle konto saab Microsofti kontole liigutada?</translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>

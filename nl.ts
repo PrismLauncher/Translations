@@ -425,12 +425,6 @@
         <translation>Huidige status van het account.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="392"/>
-        <source>Current status of the account.</source>
-        <oldsource>Can this account migrate to Microsoft account?</oldsource>
-        <translation type="unfinished">Kan dit account naar Microsoft account migreren?</translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>

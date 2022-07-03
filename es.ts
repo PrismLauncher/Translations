@@ -437,12 +437,6 @@
         <translation>Estado actual de la cuenta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="392"/>
-        <source>Current status of the account.</source>
-        <oldsource>Can this account migrate to Microsoft account?</oldsource>
-        <translation type="unfinished">¿Puede esta cuenta migrarse a una cuenta de Microsoft?</translation>
-    </message>
-    <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
