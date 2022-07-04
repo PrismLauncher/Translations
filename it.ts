@@ -3567,7 +3567,7 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>È un gattino birichino: 3</translation>
+        <translation>Un gattino birichino :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
