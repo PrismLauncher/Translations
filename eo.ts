@@ -317,7 +317,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -2309,7 +2309,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="137"/>
@@ -2385,7 +2385,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="94"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
@@ -2466,7 +2466,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="181"/>
         <source>Player name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ludanto nomo</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="182"/>
@@ -2494,7 +2494,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="225"/>
         <source>Play Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ludi demon</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="226"/>
@@ -6947,7 +6947,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="164"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekomendita</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="171"/>
