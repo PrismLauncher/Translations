@@ -31,7 +31,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Let op: je wilt waarschijnlijk de basis URL veranderen of wissen nadat je het plakdiensttype verandert.</translation>
+        <translation>Aandacht: je wil waarschijnlijk de basis URL veranderen of leeg maken nadat je het plakdiensttype verandert.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -63,7 +63,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation>Overigen</translation>
+        <translation>Overige</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
@@ -73,7 +73,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een aangepaste gebruikers-ID hier in. De speciale tekst $LAUNCHER_VER zal vervangen worden met de versie van de launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -88,22 +88,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ hier zelf een URL voor meta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Info: Je hoeft dit niet aan te passen als CurseForge al werkt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here. </source>
-        <translation type="unfinished"></translation>
+        <translation>Voer hier een API sleutel in voor CurseForge. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -128,7 +128,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="126"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Ophalen van lokale metadata-index van &apos;%1&apos; v%2 mislukt</translation>
+        <translation>Het is niet gelukt om de lokale metadata-index op te halen van &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
@@ -325,7 +325,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gereed</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -403,7 +403,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft gebruikersnaam verwant met het profiel.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -638,7 +638,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Geannuleerd</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -734,12 +734,12 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je deze mod aan wil zetten?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarschuwing</translation>
     </message>
 </context>
 <context>
@@ -778,7 +778,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Installeren</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -838,7 +838,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Geannuleerd</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -970,7 +970,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Kan Minecraft niet starten!</translation>
+        <translation>Kan Minecraft niet starten!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="116"/>
@@ -1065,7 +1065,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
@@ -1075,7 +1075,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Haal geselecteerd onderdeel weg</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
@@ -1085,7 +1085,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet geselecteerd onderdeel aan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
@@ -1095,7 +1095,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Zet geselecteerd onderdeel uit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
@@ -1346,7 +1346,7 @@ Probeer het opnieuw.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Sorteer op laatst bijgewerkt</translation>
+        <translation>Sorteer op laatst bijgewerkt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
@@ -1388,13 +1388,13 @@ Probeer het opnieuw.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Info: CurseForge maakt het mogelijk voor makers om hulpmiddelen van derde partijen zoals PolyMC to blokkeren. Hierdoor is het mogelijk nodig om voor het installeren van een modpack sommige mods handmatig te downloaden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Zoeken en filteren...</translation>
+        <translation>Zoeken en filteren...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1404,25 +1404,25 @@ Probeer het opnieuw.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="59"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Sorteer op aanbeveling</translation>
+        <translation>Sorteer op Uitgelicht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Sorteer op populariteit</translation>
+        <translation>Sorteer op populariteit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Sorteer op laatst bijgewerkt</translation>
+        <translation>Sorteer op laatst bijgewerkt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sorteer op naam</translation>
+        <translation>Sorteer op naam</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
@@ -1444,22 +1444,22 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="227"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Externe links:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="231"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbeterpunten: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="233"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="235"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Broncode: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -1477,19 +1477,19 @@ Probeer het opnieuw.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Op keren gespeeld sorteren</translation>
+        <translation>Op keren gespeeld sorteren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Op installaties sorteren</translation>
+        <translation>Sorteren op installaties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Op naam sorteren</translation>
+        <translation>Op naam sorteren</translation>
     </message>
 </context>
 <context>
@@ -1503,7 +1503,7 @@ Probeer het opnieuw.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Zoeken en filteren...</translation>
+        <translation>Zoeken en filteren...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1669,17 +1669,17 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>The volgende bestandstypes zijn geïmplementeerd (voor lokale bestanden en URLs):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- Curseforge modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Curseforge modpacks (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth modpacks (ZIP en mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -1853,7 +1853,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>De volgende mods zijn geblokkeerd door launchers van derde partijen.&lt;br/&gt;Je zal ze handmatig moeten downloaden en toevoegen aan de modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
@@ -1897,7 +1897,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Optionele mod gedetecteerd!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="619"/>
@@ -2095,7 +2095,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="408"/>
         <source>Workarounds</source>
-        <translation>Workarounds</translation>
+        <translation>Tijdelijke oplossingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="417"/>
@@ -5566,7 +5566,7 @@ Kies uw naam zorgvuldig:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished">Globale taakstatus...</translation>
+        <translation>Globale taakstatus...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="50"/>
