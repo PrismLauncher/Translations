@@ -1472,7 +1472,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="162"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="181"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>No version is available!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="235"/>
