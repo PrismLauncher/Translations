@@ -428,7 +428,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Naam van het Minecraft-profiel dat aan dit account is gekoppeld.</translation>
+        <translation>Kan dit account migreren naar een Microsoft account?</translation>
     </message>
 </context>
 <context>
