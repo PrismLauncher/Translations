@@ -1417,27 +1417,33 @@ Per favor, intenta de nou la descàrrega.</translation>
         <translation>Ordenar per total de descàrregues</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="220"/>
-        <source> by </source>
-        <translation> per </translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="227"/>
-        <source>External links:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="231"/>
-        <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="233"/>
-        <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="181"/>
+        <source>No version is available!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="235"/>
+        <source> by </source>
+        <translation> per </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="242"/>
+        <source>External links:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="246"/>
+        <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="248"/>
+        <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="250"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1802,7 +1808,7 @@ Per favor, intenta de nou la descàrrega.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="705"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="704"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>No hem pogut canviar el nom de la carpeta de substitucions:
@@ -1840,67 +1846,67 @@ Per favor, intenta de nou la descàrrega.</translation>
         <translation>Els següents mods van ser bloquejats en llançadors de tercers. &lt;br/&gt; Haureu de descarregar-los manualment i afegir-los al modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="421"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="475"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="742"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="417"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="474"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="741"/>
         <source>Mod download</source>
         <translation>Descàrrega de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="433"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="487"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="429"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="486"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>És possible que calgui extreure aquesta &quot;Carpeta&quot;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="447"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="501"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="443"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="500"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Inserir paquets de mods dins de paquets de mods no està implementat, no s&apos;ha descarregat res: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="453"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="507"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="449"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="506"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>PackageType no reconegut per a: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="470"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="524"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="777"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="466"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="523"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="776"/>
         <source>Downloading mods...</source>
         <translation>Descarregant mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="532"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Impossible actualitzar les ID dels mods:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
         <source>Optional mod detected!</source>
         <translation>Mod opcional detectat!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="619"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>Un o més mods d&apos;aquest paquet de mods és opcional. Són descarregats però inhabilitats per defecte!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="662"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="661"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="714"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="713"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="696"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="695"/>
         <source>Could not understand pack index:
 </source>
         <translation>No s&apos;ha pogut processar l&apos;índex del paquet:
@@ -4489,47 +4495,47 @@ Estàs segur?</translation>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="399"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="403"/>
         <source>Folder</source>
         <translation>Carpeta</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="401"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="405"/>
         <source>File</source>
         <translation>Fitxer</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="495"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="499"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="497"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="501"/>
         <source>Version</source>
         <translation>Versió</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="499"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="503"/>
         <source>Last changed</source>
         <translation>Últim canvi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="508"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="512"/>
         <source>Is the mod enabled?</source>
         <translation>Està habilitat el mod?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="510"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="514"/>
         <source>The name of the mod.</source>
         <translation>El nom del mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="512"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="516"/>
         <source>The version of the mod.</source>
         <translation>Versió del mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="514"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="518"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>La data i l&apos;hora que aquest mod ha sigut actualitzat (o afegit) per última vegada.</translation>
     </message>
@@ -4774,18 +4780,18 @@ Estàs segur?</translation>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="231"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="234"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="238"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="231"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="235"/>
         <source>A network error occurred. Could not load mods.</source>
         <translation>Hi ha hagut un error a la xarxa. No s&apos;han pogut carregar els mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="242"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -4843,18 +4849,18 @@ Si us plau, actualitza %1!</translation>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="291"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="306"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="309"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="291"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="306"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>Hi ha hagut una fallida a la xarxa. No s&apos;han pogut carregar els paquets de mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="313"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -4913,7 +4919,7 @@ Si us plau, actualitza %1!</translation>
         <translation>Cercar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="91"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
         <translation>Versió seleccionada:</translation>
     </message>
@@ -4940,37 +4946,37 @@ Si us plau, actualitza %1!</translation>
         <translation>Ordenar per última actualització</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
         <source> by </source>
         <translation> per </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
         <source>Donate information: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="263"/>
         <source>External links:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="250"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="254"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
