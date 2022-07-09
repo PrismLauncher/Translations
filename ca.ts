@@ -605,7 +605,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
         <translation>Estat de procés del compte desconegut: %1</translation>
     </message>

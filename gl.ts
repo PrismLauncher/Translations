@@ -599,7 +599,7 @@ Please update both your operating system and %1.</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
         <translation>O proceso de identificación atópase nun estado descoñecido: %1</translation>
     </message>

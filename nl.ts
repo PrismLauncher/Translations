@@ -609,7 +609,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
         <translation>Onbekende account taak status: %1</translation>
     </message>

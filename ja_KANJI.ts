@@ -599,7 +599,7 @@ Please update both your operating system and %1.</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
         <translation>不明な帳戸作動状態: %1</translation>
     </message>

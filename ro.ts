@@ -601,7 +601,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
         <translation>Statusul sarcinii contului necunoscut: %1</translation>
     </message>

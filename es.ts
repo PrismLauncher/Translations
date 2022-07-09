@@ -629,7 +629,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
         <translation>Estado de la tarea de cuenta desconocido: %1</translation>
     </message>
