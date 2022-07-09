@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Typ Služby Pastebin</translation>
+        <translation>&amp;Typ služby Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -34,7 +34,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft Authentication</translation>
+        <translation>&amp;Ověření přes Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Různé</translation>
+        <translation>Různé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
@@ -317,7 +317,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="307"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Připraven</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
@@ -370,7 +370,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="369"/>
         <source>Username</source>
-        <translation type="unfinished">Uživatelské jméno</translation>
+        <translation>Uživatelské jméno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="371"/>
@@ -395,7 +395,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uživatelské jméno v Minecraftu spojené s účtem.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -420,7 +420,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="394"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Jméno Minecraft profilu spojeného s tímto účtem.</translation>
+        <translation>Může být tento účet převeden na Microsoft účet?</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished">Přerušeno</translation>
+        <translation>Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -821,7 +821,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Knihovna kontroly Java nebyla nalezena. Zkontrolujte prosím svou instalaci.</translation>
     </message>
 </context>
 <context>
@@ -830,7 +830,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished">Přerušeno</translation>
+        <translation>Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -865,7 +865,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="142"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykonávání %1 úkol(ů) (dokončeno %2 z %3)</translation>
     </message>
 </context>
 <context>
@@ -1042,88 +1042,88 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filtr:</translation>
+        <translation>Filtr:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished">Akce</translation>
+        <translation>Akce</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Přidat</translation>
+        <translation>&amp;Přidat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
         <source>Add</source>
-        <translation type="unfinished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Odebrat</translation>
+        <translation>&amp;Odebrat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat vybranou položku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">&amp;Povolit</translation>
+        <translation>&amp;Povolit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit vybranou položku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">&amp;Zakázat</translation>
+        <translation>&amp;Zakázat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat vybranou položku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">Zobrazit config</translation>
+        <translation>Zobrazit &amp;nastavení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Otevřít složku &apos;configu&apos; v souborovém prohlížeči.</translation>
+        <translation>Otevřít složku &apos;config&apos; v souborovém prohlížeči.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">Zobrazit &amp;složku</translation>
+        <translation>Zobrazit &amp;složku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Stáhnout</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Stáhnout nový zdroj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontextové menu</translation>
+        <translation>Kontextové menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="239"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">Vybrat %1</translation>
+        <translation>Vybrat %1</translation>
     </message>
 </context>
 <context>
@@ -1266,7 +1266,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
         <source>Aborted</source>
-        <translation type="unfinished">Přerušeno</translation>
+        <translation>Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
@@ -1375,7 +1375,7 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Poznámka: API CurseForge je velmi nespolehlivá. CurseForge a někteří autoři modů zakázali stahování modů v aplikacích třetích stran, jako je PolyMC. Proto možná budete muset stáhnout některé mody ručně , abyste mohli nainstalovat modpack.</translation>
+        <translation>Poznámka: CurseForge umožňuje tvůrcům blokovat přístup k nástrojům třetích stran jako je PolyMC. Kvůli tomu budete muset při instalaci modpacku stáhnout některé módy manuálně.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1427,7 +1427,7 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="162"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="181"/>
         <source>No version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Není dostupná žádná verze!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="235"/>
@@ -2135,37 +2135,37 @@ Postupujte obezřetně!</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="460"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Výkon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit GameMode od Feral Interactive pro potenciální zlepšení herního výkonu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="484"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="491"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit pokročilé výkonnostní překrytí MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="494"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="501"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít diskrétní GPU místo primárního.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="504"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít diskrétní GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="537"/>
@@ -3013,7 +3013,7 @@ Doporučuje se poskytnout PolyMC přístup k němu prostřednictvím Flatseal.</
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="102"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se nalézt knihovnu spouštěče. Zkontrolujte prosím svou instalaci.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="170"/>
@@ -3279,7 +3279,7 @@ Tento problém budete muset opravit ručně.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished">Přerušeno</translation>
+        <translation>Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -3783,7 +3783,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
@@ -4021,7 +4021,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1136"/>
         <source>Create instance</source>
-        <translation>Přidat instanci</translation>
+        <translation>Vytvořit instanci</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1152"/>
@@ -4205,7 +4205,7 @@ Jste si jistý?</translation>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished">Přerušeno</translation>
+        <translation>Přerušeno</translation>
     </message>
 </context>
 <context>
@@ -4238,7 +4238,7 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="876"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -4265,7 +4265,7 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished">Přerušeno</translation>
+        <translation>Přerušeno</translation>
     </message>
 </context>
 <context>
@@ -4313,37 +4313,37 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Výkon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit GameMode od Feral Interactive pro potenciální zlepšení herního výkonu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="149"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Povolit pokročilé výkonnostní překrytí MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="159"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="166"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Použít diskrétní GPU místo primárního.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="169"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít diskrétní GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -4660,12 +4660,12 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat soubor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat místní stažený soubor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="124"/>
@@ -4701,7 +4701,7 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="49"/>
         <source>Mods</source>
-        <translation type="unfinished">Mody</translation>
+        <translation>Módy</translation>
     </message>
 </context>
 <context>
@@ -5105,23 +5105,23 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Novinky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="48"/>
         <source>Hide article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrýt seznam článků</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="46"/>
         <source>Show article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit seznam článků</translation>
     </message>
 </context>
 <context>
@@ -5332,7 +5332,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="349"/>
         <source>Aborted</source>
-        <translation type="unfinished">Přerušeno</translation>
+        <translation>Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="616"/>
@@ -5869,7 +5869,7 @@ Vyber si dobře svoje jméno:</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="476"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Offline&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="352"/>
@@ -5936,9 +5936,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">Pokusil jsi se ručně nastavit možnost paměti JVM (použitím &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; nebo &quot;-Xms&quot;).
-Pro tyto možnosti jsou v nastavení vyhrazeny záložky (Java v rámci skupiny Paměť).
-Tato zpráva se bude zobrazovat, dokud je neodstraníš z argumentů JVM.</translation>
+        <translation>Pokusili jste se ručně nastavit volbu paměti JVM (pomocí &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; nebo &quot;-Xms&quot;).
+V nastavení (karta Java, skupina Paměť nahoře) jsou pro ně vyhrazená pole.
+Tato zpráva se bude zobrazovat, dokud je z argumentů JVM neodstraníte.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="16"/>
@@ -5950,7 +5950,8 @@ Tato zpráva se bude zobrazovat, dokud je neodstraníš z argumentů JVM.</trans
         <location filename="src/launcher/JavaCommon.cpp" line="23"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokusili jste se předat JVM požadovaný argument verze Javy (pomocí &quot;-version:xxx&quot;). To není bezpečné a nebude to povoleno.
+Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="38"/>
@@ -5977,7 +5978,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="72"/>
         <source>Java checker library could not be found. Please check your installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Knihovna kontroly Java nebyla nalezena. Zkontrolujte prosím svou instalaci</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -6065,12 +6066,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se stáhnout následující módy:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Budou staženy pouze zaškrtnuté módy!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="30"/>
@@ -6171,7 +6172,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="76"/>
         <source>Executing task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykonávání úkolu %1 z %2</translation>
     </message>
 </context>
 <context>
@@ -6468,7 +6469,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se rozluštit manifest modpacku:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="137"/>
@@ -6513,7 +6515,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">Nepodařilo se najít &quot;version.json&quot; unvnitř &quot;bin/modpack.jar&quot;, ale verze Minecraftu je neznámá</translation>
+        <translation>Nepodařilo se najít soubor &quot;version.json&quot; unvnitř &quot;bin/modpack.jar&quot;, ale verze Minecraftu je neznámá</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -6939,7 +6941,7 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Install the Quilt Loader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nainstalovat balíček Quilt Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
@@ -7110,7 +7112,8 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze stahovat Minecraft ani aktualizovat instance, pokud nemáte přidaný alespoň jeden účet.
+Přidejte prosím svůj účet Mojang nebo Minecraft.</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -7151,17 +7154,17 @@ Prosím, přidejte svůj Mojang nebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="511"/>
         <source>Select Quilt Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte verzi Quilt Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="512"/>
         <source>No Quilt Loader versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>V současné době nejsou k dispozici žádné verze Quilt Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="513"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se načíst nebo stáhnout seznam verzí Quilt Loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
@@ -7352,7 +7355,7 @@ Prosím, přidejte svůj Mojang nebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
         <source>Size of the world on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velikost světa na disku.</translation>
     </message>
 </context>
 <context>
@@ -7516,62 +7519,66 @@ Přejete si pokračovat?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="21"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Získávání oprávnění pro přístup ke službám %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se získat oprávnění k přístupu ke službám %1. Chyba %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se analyzovat odpověď autorizace pro přístup ke službám %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Server v odpovědi změnil hash autorizovaného uživatele %1. Něco je špatně.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Získáno oprávnění k přístupu k %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="109"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze analyzovat chybovou odpověď autorizace %1 jako JSON: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="119"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>V odpovědi na chybu autorizace %1 chybí prvek XErr.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="127"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento účet Microsoft nemá profil XBox Live. Nejprve si hru kupte na %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Služba XBox Live není ve vaší zemi dostupná. Byli jste zablokováni.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento účet Microsoft je nezletilý a není spojen s rodinou.
+
+Nastavte prosím svůj účet podle %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověřování XSTS skončilo s nerozpoznanou chybou (chybami):
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -7584,7 +7591,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="63"/>
         <source>Failed to retrieve the Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se načíst profil Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="72"/>
@@ -7602,17 +7609,17 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="56"/>
         <source>XBox user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověření uživatele XBox se nezdařilo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověření uživatele XBoxu nebylo možné porozumět.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="67"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Získán token uživatele Xbox</translation>
     </message>
 </context>
 <context>
@@ -7635,12 +7642,12 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověřovací server neodeslal vybraný profil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověřovací server neodeslal UUID ve vybraném profilu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
@@ -7655,7 +7662,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL Handshake selhal.&lt;/b&gt;&lt;br/&gt;Může to mít několik příčin:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Používáte systém Windows a musíte aktualizovat kořenové certifikáty, nainstalujte prosím všechny aktualizace.&lt;/li&gt;&lt;li&gt;Nějaké zařízení ve vaší síti ruší provoz SSL. V takovém případě máte větší starosti než to, že se Minecraft nespustí.&lt;/li&gt;&lt;li&gt;Možná něco jiného. Podívejte se do souboru protokolu pro podrobnosti&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
@@ -7698,12 +7705,12 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="44"/>
         <source>Mojang user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověření uživatele Mojang selhalo.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověřování uživatele Mojang skončilo chybou sítě.</translation>
     </message>
 </context>
 </TS>
