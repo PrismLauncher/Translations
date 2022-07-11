@@ -637,7 +637,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="720"/>
+        <location filename="src/launcher/Application.cpp" line="721"/>
         <source>Settings</source>
         <translation>Ajustes</translation>
     </message>
@@ -2760,8 +2760,9 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
-        <source>Check for updates on start?</source>
-        <translation>¿Buscar actualizaciones al inicio?</translation>
+        <source>Check for updates automatically</source>
+        <oldsource>Check for updates on start?</oldsource>
+        <translation type="unfinished">¿Buscar actualizaciones al inicio?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
@@ -2969,22 +2970,22 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>&amp;Fuente de la consola</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="116"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="123"/>
         <source>Instance Folder</source>
         <translation>Carpeta de la instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>Estás intentando especificar una ruta de carpeta que contiene el carácter &apos;!&apos;. Java suele causar problemas en esos casos, tus instancias (probablemente) no iniciarán!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>¿Estás seguro de que quieres usar esta ruta? Selecciona &quot;No&quot; para cerrar y no modificar la ruta de tu instancia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
         <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -2995,32 +2996,32 @@ Se sabe que esto causa problemas. Después de un reinicio el lanzador podría ro
 Se recomienda conceder acceso a PolyMC a través de Flatseal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
         <source>Do you want to proceed anyway?</source>
         <translation>¿Desea continuar de todos modos?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
         <source>Icons Folder</source>
         <translation>Carpeta de Iconos</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="184"/>
         <source>Mods Folder</source>
         <translation>Carpeta de mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="469"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="494"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[Algo/ERROR] ¡Un error espantoso!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="478"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="503"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Prueba/INFO] Un mensaje inofensivo...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="487"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="512"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Algo/WARN] Una advertencia no tan espantoso.</translation>
     </message>
@@ -3507,7 +3508,7 @@ Motivo:
         <translation>Forzar cierre de la instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1199"/>
         <source>Launch</source>
         <translation>Iniciar</translation>
     </message>
@@ -3901,7 +3902,7 @@ Motivo:
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1193"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Launch Offline</source>
         <translation>Jugar sin conexión</translation>
     </message>
@@ -4032,7 +4033,7 @@ Motivo:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1069"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>No instance selected</source>
         <translation>No hay una instancia seleccionada</translation>
     </message>
@@ -4042,101 +4043,101 @@ Motivo:
         <translation>Tiempo de juego total: 0s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1063"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1406"/>
         <source>Profiles</source>
         <translation>Perfiles</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1122"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1130"/>
         <source>Create instance</source>
         <translation>Crear instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1138"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1146"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Eliminar grupo &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1194"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1202"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1212"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1220"/>
         <source>Profilers</source>
         <translation>Perfiladores</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1224"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1232"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>El analizador no está configurado correctamente. Ve a opciones, &quot;Herramientas externas&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1276"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>No accounts added!</source>
         <translation>¡No se ha añadido ninguna cuenta!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1308"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1316"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1323"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1331"/>
         <source>No Default Account</source>
         <translation>No hay cuenta por defecto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1327"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1335"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>Loading news...</source>
         <translation>Cargando noticias...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1451"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1459"/>
         <source>No news available.</source>
         <translation>No se encontraron noticias.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Warnings</source>
         <translation>Advertencias</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1606"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1656"/>
         <source>Abort</source>
         <translation>Abortar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1665"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>El iniciador no puede descargar Minecraft ni actualizar instancias a menos que tenga al menos una cuenta agregada.
 Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1796"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1804"/>
         <source>Group name</source>
         <translation>Nombre del grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1796"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1804"/>
         <source>Enter a new group name.</source>
         <translation>Entra un nuevo nombre de grupo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1818"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1826"/>
         <source>Delete group</source>
         <translation>Borrar grupo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1818"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1826"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>¿Estás seguro de que quieres borrar el grupo %1?</translation>
     </message>
@@ -4145,12 +4146,12 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
         <translation type="vanished">¿Estás seguro de que quieres borrar el grupo %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1955"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1963"/>
         <source>CAREFUL!</source>
         <translation>¡CUIDADO!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1956"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1964"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -4161,46 +4162,46 @@ Esto es permanente y borrará completamente la instancia.
 ¿Estás seguro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2151"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2159"/>
         <source>Rename Instance</source>
         <translation>Cambiar nombre de instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2172"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Su carpeta de instancia contiene &apos;!&apos;, ¡se sabe que esto causa problemas en Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2166"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2174"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Ahora tienes dos opciones: &lt;br/&gt; - cambiar la carpeta de la instancia en la configuración &lt;br/&gt; - mover esta instalación de %1 a una carpeta diferente</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2175"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2183"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Este es un problema: &lt;br/&gt; - Es probable que el sistema operativo borre el lanzador sin previo aviso &lt;br/&gt; - cierra el lanzador ahora y extráelo a una carpeta real, no a una carpeta temporal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2182"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2190"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Su carpeta de instancia contiene &apos;Rar$&apos; - ¡eso significa que no ha extraído el archivo del lanzador!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2190"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2198"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>¡Su instancia está en una carpeta temporal: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2211"/>
         <source>Total playtime: %1</source>
         <translation>Tiempo de juego total: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1520"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1537"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1595"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1644"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1656"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1528"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1603"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1652"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1664"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -4210,7 +4211,7 @@ Esto es permanente y borrará completamente la instancia.
         <translation>Abrir %1 servidor de Discord.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1520"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1528"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
         <translation>No se pudo crear la carpeta para descargar actualizaciones:
