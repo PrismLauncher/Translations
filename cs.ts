@@ -2749,7 +2749,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished">Mám při spuštění kontrolovat aktualizace?</translation>
+        <translation>Automaticky kontrolovat aktualizace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
