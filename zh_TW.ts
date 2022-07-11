@@ -829,7 +829,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法找到 Java 檢查器函式庫。請檢查您的設備。</translation>
     </message>
 </context>
 <context>
