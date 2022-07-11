@@ -94,8 +94,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
-        <source>Enter a custom API Key for CurseForge here. </source>
-        <translation>Skriv inn en egendefinert API-nøkkel for CurseForge her. </translation>
+        <source>Enter a custom API Key for CurseForge here.</source>
+        <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
+        <translation type="unfinished">Skriv inn en egendefinert API-nøkkel for CurseForge her. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -598,7 +599,7 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="721"/>
+        <location filename="src/launcher/Application.cpp" line="732"/>
         <source>Settings</source>
         <translation type="unfinished">Innstillinger</translation>
     </message>
@@ -1631,7 +1632,8 @@ Vennligst prøv på nytt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
-        <source>- Curseforge modpacks (ZIP)</source>
+        <source>- CurseForge modpacks (ZIP)</source>
+        <oldsource>- Curseforge modpacks (ZIP)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4359,12 +4361,12 @@ Are you sure?</source>
 <context>
     <name>ModDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="86"/>
         <source>Download mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="80"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="99"/>
         <source>Confirm mods to download</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4906,7 +4908,7 @@ Please update %1!</source>
 <context>
     <name>Net::Upload</name>
     <message>
-        <location filename="src/launcher/net/Upload.cpp" line="150"/>
+        <location filename="src/launcher/net/Upload.cpp" line="182"/>
         <source>Uploading %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4943,7 +4945,7 @@ Please update %1!</source>
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="172"/>
         <source>New Instance</source>
         <translation>Ny instans</translation>
     </message>

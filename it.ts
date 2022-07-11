@@ -102,8 +102,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
-        <source>Enter a custom API Key for CurseForge here. </source>
-        <translation>Inserisci una chiave API personalizzata di CurseForge qui. </translation>
+        <source>Enter a custom API Key for CurseForge here.</source>
+        <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
+        <translation type="unfinished">Inserisci una chiave API personalizzata di CurseForge qui. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -625,7 +626,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="721"/>
+        <location filename="src/launcher/Application.cpp" line="732"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
@@ -1683,8 +1684,9 @@ Per favore, prova di nuovo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
-        <source>- Curseforge modpacks (ZIP)</source>
-        <translation>- Modpack di Curseforge (ZIP)</translation>
+        <source>- CurseForge modpacks (ZIP)</source>
+        <oldsource>- Curseforge modpacks (ZIP)</oldsource>
+        <translation type="unfinished">- Modpack di Curseforge (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -4495,12 +4497,12 @@ Sei sicuro?</translation>
 <context>
     <name>ModDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="86"/>
         <source>Download mods</source>
         <translation>Scarica mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="80"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="99"/>
         <source>Confirm mods to download</source>
         <translation>Conferma le mod da scaricare</translation>
     </message>
@@ -5058,7 +5060,7 @@ Aggiorna %1!</translation>
 <context>
     <name>Net::Upload</name>
     <message>
-        <location filename="src/launcher/net/Upload.cpp" line="150"/>
+        <location filename="src/launcher/net/Upload.cpp" line="182"/>
         <source>Uploading %1</source>
         <translation>Caricando %1</translation>
     </message>
@@ -5095,7 +5097,7 @@ Aggiorna %1!</translation>
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="172"/>
         <source>New Instance</source>
         <translation>Nuova Istanza</translation>
     </message>
