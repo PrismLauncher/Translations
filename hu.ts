@@ -833,7 +833,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1269,7 +1269,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
@@ -3240,7 +3240,7 @@ Ezt a problémát kézzel kell javítania.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -4154,7 +4154,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megszakítva</translation>
     </message>
 </context>
 <context>
@@ -4214,7 +4214,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megszakítva</translation>
     </message>
 </context>
 <context>
@@ -4622,7 +4622,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
@@ -5276,7 +5276,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="369"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="636"/>
