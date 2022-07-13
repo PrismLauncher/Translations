@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Pastebin szolgáltatás</translation>
+        <translation>&amp;Pastebin Szolgáltatás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">Beillesztéssi Szolgáltatás Típusa</translation>
+        <translation>Beillesztéssi Szolgáltatás &amp;Típusa</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -27,7 +27,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjegyzés: Valószínűleg meg akarod változtatni vagy eltávolítani a Base URL-t miután megváltoztattad a beillesztési szolgáltatás típusát.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -120,12 +120,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="200"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nem sikerült lekérni a helyi metaadatindexet a következőhöz %1</translation>
+        <translation>Nem sikerült lekérni a helyi metaadatindexet a következőhöz: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="126"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült lekérni a helyi metaadatindexet a következőhöz: &quot;%1&quot; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="187"/>
@@ -135,7 +135,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="232"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Nem sikerült verziót találni a(z) %1 loaderhez</translation>
+        <translation>Nem sikerült verziót találni a(z) %1 loaderhez</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="246"/>
@@ -185,12 +185,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="611"/>
         <source>Unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem támogatott letöltési típus: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="617"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismeretlen letöltési típus: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="732"/>
@@ -210,7 +210,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="828"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült létrehozni a könyvtárak összetevőt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="852"/>
@@ -220,7 +220,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="866"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült létrehozni a csomagösszetevőt</translation>
     </message>
 </context>
 <context>
@@ -1070,7 +1070,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztott elem eltávolítása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
@@ -1670,7 +1670,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- PolyMC / MultiMC exportált példányok (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -1729,7 +1729,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="24"/>
         <source>Copying instance %1</source>
-        <translation>Példány %1 másolása</translation>
+        <translation>%1 példány másolása</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
@@ -1788,12 +1788,12 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="227"/>
         <source>Could not fix permissions for %1</source>
-        <translation>Nem sikerült javítani az engedélyeket %1 példánynak</translation>
+        <translation>Nem sikerült javítani az engedélyeket a(z) %1 példánynak</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="258"/>
         <source>Instance import has been aborted.</source>
-        <translation>A példány importálása megszakadt.</translation>
+        <translation>A példány importálása megszakítva.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="279"/>
@@ -3554,7 +3554,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kérjen segítséget a %1 vagy a Minecraft használatához.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -3591,7 +3591,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlesztési blog megnyitása további hírekért a %1-val/vel kapcsolatban.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="764"/>
@@ -3653,7 +3653,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="378"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-ról/ről</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="387"/>
@@ -3668,7 +3668,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="405"/>
         <source>&amp;Manage Accounts...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fiókok kezelése...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="485"/>
@@ -3735,7 +3735,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Indítás &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
@@ -3760,7 +3760,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="681"/>
         <source>View &amp;Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modok megtekintése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
@@ -3863,7 +3863,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>View the mods of this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztott példány modjainak megtekintése.</translation>
     </message>
     <message>
         <source>View Worlds</source>
@@ -4056,12 +4056,12 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1826"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Csoport törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1826"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan törli a %1 csoportot?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1963"/>
@@ -4074,7 +4074,10 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A &quot;%1&quot; példány törlése
+Ez végleges és törli a példány minden adatát.
+
+Biztos vagy benne?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2159"/>
@@ -4094,7 +4097,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2183"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a baj: &lt;br/&gt; - Az launcher valószínűleg figyelmeztetés nélkül törölve lesz az operációs rendszer által &lt;br/&gt; - zárja be a launchert, és csomagolja ki egy valós helyre, ne egy ideiglenes mappába</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2190"/>
@@ -5637,7 +5640,7 @@ Choose your name carefully:</source>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 fejlesztői</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="84"/>
@@ -5997,7 +6000,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>A következő modok letöltésére készülsz:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
