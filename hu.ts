@@ -233,7 +233,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Egy egyedi launcher, amely megkönnyíti a Minecraft kezelését azáltal, hogy egyszerre több Minecraft példányt is létrehozhatsz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -1060,7 +1060,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
@@ -1839,7 +1839,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>A következő modok le vannak tiltva a harmadik féltől származó launchereknek.&lt;br/&gt;Manuálisan kell letölteni őket, és úgy hozzáadni a modpackhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="417"/>
@@ -3468,7 +3468,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="294"/>
         <source>Add a new instance.</source>
-        <translation>Új példány hozzáadása</translation>
+        <translation>Új példány hozzáadása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
@@ -3543,7 +3543,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Információk megtekintése a %1-ról/ről.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="455"/>
