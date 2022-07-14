@@ -3692,7 +3692,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>&amp;Discord Guild</source>
-        <translation>디스코드</translation>
+        <translation>디스코드 (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
@@ -5027,7 +5027,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>디스코드: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
