@@ -2765,48 +2765,48 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Példánynézet rendezési mód</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Legutóbbi indítás szerint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Név szerint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Téma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ikonok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
         <source>Simple (Dark Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyszerű (sötét ikonok)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>Simple (Light Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyszerű (világos ikonok)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>Simple (Blue Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyszerű (kék ikonok)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="270"/>
         <source>Simple (Colored Icons)</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyszerű (színes ikonok)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
@@ -2847,12 +2847,12 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
         <source>&amp;Colors</source>
         <oldsource>Colors</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Színek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Eszközök</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
@@ -2863,7 +2863,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Cserélje ki az eszköztárat menüsorra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="383"/>
@@ -3519,7 +3519,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="343"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyissa meg a hibakövetőt a %1 hibájának bejelentéséhez.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="352"/>
@@ -3539,12 +3539,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="370"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyissa meg a %1 subreddit-et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
         <source>View information about %1.</source>
-        <translation>Információk megtekintése a %1-ról/ről.</translation>
+        <translation>Információk megtekintése a %1-ről.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="455"/>
@@ -3587,12 +3587,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>További hírek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Fejlesztési blog megnyitása további hírekért a %1-val/vel kapcsolatban.</translation>
+        <translation>Fejlesztési blog megnyitása további hírekért a %1-vel kapcsolatban.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="764"/>
@@ -3644,7 +3644,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discord szerver</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
@@ -3654,7 +3654,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="378"/>
         <source>&amp;About %1</source>
-        <translation>%1-ról/ről</translation>
+        <translation>%1 névjegye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="387"/>
@@ -3746,7 +3746,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány szerkesztése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
@@ -3766,7 +3766,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
         <source>&amp;View Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Világok megtekintése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
@@ -3776,7 +3776,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="699"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Csoport változtatása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
@@ -4127,7 +4127,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyissa meg a %1 Discord szerverét.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1528"/>
@@ -5444,7 +5444,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="53"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (használatban)</translation>
     </message>
 </context>
 <context>
