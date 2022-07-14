@@ -1834,7 +1834,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Letiltott modok találhatók</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
@@ -2109,7 +2109,7 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="460"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Teljesítmény</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
@@ -2159,7 +2159,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="566"/>
         <source>Set a server to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Állítson be egy szervert, amelyhez az indításkor csatlakozik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="586"/>
@@ -2947,12 +2947,12 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
         <source>Icons Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonok mappa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="184"/>
         <source>Mods Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok mappája</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="494"/>
@@ -3385,7 +3385,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-fiók hozzáadása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
@@ -3617,7 +3617,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="293"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány hozzáadása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="313"/>
@@ -3634,7 +3634,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="342"/>
         <source>Report a &amp;Bug...</source>
-        <translation>&amp;Hiba jelentése...</translation>
+        <translation>&amp;Hiba jelentése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
@@ -3669,7 +3669,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="405"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>&amp;Fiókok kezelése...</translation>
+        <translation>&amp;Fiókok kezelése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="485"/>
@@ -3756,7 +3756,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="675"/>
         <source>E&amp;dit Notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Jegyzetek szerkesztése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="681"/>
@@ -3771,7 +3771,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
         <source>Manage &amp;Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Képernyőképek kezelése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="699"/>
@@ -3786,7 +3786,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
         <source>Minec&amp;raft Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Minec&amp;raft mappa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
@@ -3796,17 +3796,17 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>Confi&amp;g Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfi&amp;gurációs mappa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>&amp;Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Példánymappa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
         <source>E&amp;xport Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány exportálása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="730"/>
@@ -3816,7 +3816,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="735"/>
         <source>Dele&amp;te Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
@@ -3826,7 +3826,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
         <source>Cop&amp;y Instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány másolása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="745"/>
@@ -4301,25 +4301,25 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Game time</source>
-        <translation type="unfinished"></translation>
+        <translation>Játékidő</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="185"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mutassa az eltöltött időt a példányokkal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="192"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mutassa az eltöltött időt az összes példányon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="199"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mentse az eltöltött időt a példányokkal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
@@ -4336,7 +4336,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="218"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Zárd be a launchert miután a játék ablak megnyílt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
@@ -4348,7 +4348,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Zárd be a launchert miután a játék ablak bezárult</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -4430,7 +4430,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="86"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="99"/>
@@ -4586,12 +4586,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok letöltése online mod platformokról</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -4605,12 +4605,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl hozzáadása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyileg letöltött fájl hozzáadása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="124"/>
@@ -4621,7 +4621,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="124"/>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kérjük, először telepítsen egy mod loader-t!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
@@ -4631,17 +4631,17 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>A letöltés a felhasználó által megszakítva.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="142"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Figyelmeztetések</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="152"/>
         <source>Abort</source>
-        <translation type="unfinished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
@@ -6045,13 +6045,13 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép másolása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl(ok) másolása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
@@ -6288,7 +6288,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="77"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Köpeny</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="79"/>
@@ -6323,7 +6323,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="156"/>
         <source>No Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs köpeny</translation>
     </message>
 </context>
 <context>
@@ -7574,7 +7574,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="251"/>
         <source>Authentication operation cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hitelesítési művelet megszakítva.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
