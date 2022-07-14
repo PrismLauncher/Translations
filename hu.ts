@@ -4029,7 +4029,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Figyelmeztetések</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
@@ -4266,7 +4266,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Teljesítmény</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
