@@ -5659,7 +5659,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="122"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (használatban)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="64"/>
