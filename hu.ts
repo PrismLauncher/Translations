@@ -277,7 +277,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
         <source>About %1</source>
-        <translation>A %1-ról/-ről</translation>
+        <translation>%1 névjegye</translation>
     </message>
     <message>
         <source>Version</source>
