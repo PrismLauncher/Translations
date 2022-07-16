@@ -116,7 +116,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished">Gib hier einen eigenen API-Schlüssel für CurseForge ein. </translation>
+        <translation>Gib hier einen eigenen API-Schlüssel für CurseForge ein.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -850,7 +850,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Java-Checker-Bibliothek konnte nicht gefunden werden. Bitte überprüfe deine Installation.</translation>
     </message>
 </context>
 <context>
@@ -1722,7 +1722,7 @@ Bitte versuche es erneut.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- CurseForge Modpacks (ZIP)</translation>
+        <translation>- CurseForge Modpacks (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -2804,7 +2804,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished">Beim Start nach Updates suchen?</translation>
+        <translation>Beim Start nach Updates suchen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
@@ -3073,7 +3073,7 @@ Es wird empfohlen, PolyMC über Flatseal Zugriff zu gewähren.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="101"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Launcher-Bibliothek konnte nicht gefunden werden. Bitte überprüfe deine Installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
@@ -6103,7 +6103,7 @@ Diese Meldung wird so lange angezeigt, bis Sie dieses Argument aus den JVM-Argum
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Java-Checker-Bibliothek konnte nicht gefunden werden. Bitte überprüfe deine Installation</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
