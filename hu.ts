@@ -4336,7 +4336,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="218"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>Zárd be a launchert miután a játék ablak megnyílt</translation>
+        <translation>Az indítóprogram bezárása a játékablak megnyitása után</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
@@ -4348,7 +4348,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>Zárd be a launchert miután a játék ablak bezárult</translation>
+        <translation>Kilépés az indítóprogramból a játékablak bezárása után</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -5872,7 +5872,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">Megpróbálta kézzel beállítani a JVM memória opciót (&quot;-XX: PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX: InitialHeapSize&quot;, &quot;-Xmx&quot; vagy &quot;-Xms&quot;) használatával.
+        <translation>Megpróbáltad kézzel beállítani a JVM memória opciót (&quot;-XX: PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX: InitialHeapSize&quot;, &quot;-Xmx&quot; vagy &quot;-Xms&quot;) használatával.
 Ezekhez külön dobozok vannak a beállításoknál (Java fül, a memóriacsoport felső részén).
 Ez az üzenet addig jelenik meg, amíg nem távolítja el őket a JVM argumentumokból.</translation>
     </message>
