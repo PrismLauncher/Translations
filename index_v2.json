@@ -163,11 +163,11 @@
             "untranslated" : 645
         },
         "hu" : {
-            "file" : "dc42db2976d5217a62a2ae83e776de327013c429.class",
-            "sha1" : "dc42db2976d5217a62a2ae83e776de327013c429",
-            "size" : 133045,
-            "translated" : 868,
-            "fuzzy" : 144,
+            "file" : "830ca040dd274d9916b01de2b2b4e12ce037ff8d.class",
+            "sha1" : "830ca040dd274d9916b01de2b2b4e12ce037ff8d",
+            "size" : 133067,
+            "translated" : 869,
+            "fuzzy" : 143,
             "untranslated" : 270
         },
         "hy" : {
