@@ -5982,7 +5982,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Knihovna kontroly Java nebyla nalezena. Zkontrolujte prosím svou instalaci</translation>
+        <translation>Knihovna kontroly Java nebyla nalezena. Zkontrolujte prosím svou instalaci.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
