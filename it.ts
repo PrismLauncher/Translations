@@ -6004,8 +6004,9 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
-        <source>Java checker library could not be found. Please check your installation</source>
-        <translation>Libreria di controllo Java non trovata. Controlla la tua installazione</translation>
+        <source>Java checker library could not be found. Please check your installation.</source>
+        <oldsource>Java checker library could not be found. Please check your installation</oldsource>
+        <translation type="unfinished">Libreria di controllo Java non trovata. Controlla la tua installazione</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>

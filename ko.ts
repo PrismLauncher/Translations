@@ -5996,8 +5996,9 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
-        <source>Java checker library could not be found. Please check your installation</source>
-        <translation>Java 검사기 라이브러리를 찾을 수 없습니다. 설치되어있는지 확인하십시오</translation>
+        <source>Java checker library could not be found. Please check your installation.</source>
+        <oldsource>Java checker library could not be found. Please check your installation</oldsource>
+        <translation type="unfinished">Java 검사기 라이브러리를 찾을 수 없습니다. 설치되어있는지 확인하십시오</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>

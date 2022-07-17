@@ -6075,8 +6075,9 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
-        <source>Java checker library could not be found. Please check your installation</source>
-        <translation>Não foi possível achar o verificador de Java. Verifique a sua instalação</translation>
+        <source>Java checker library could not be found. Please check your installation.</source>
+        <oldsource>Java checker library could not be found. Please check your installation</oldsource>
+        <translation type="unfinished">Não foi possível achar o verificador de Java. Verifique a sua instalação</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>

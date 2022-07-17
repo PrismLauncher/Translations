@@ -5998,8 +5998,9 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
-        <source>Java checker library could not be found. Please check your installation</source>
-        <translation>Java denetleyici kütüphane bulunamadı. Lütfen kurulumunuzu kontrol edin</translation>
+        <source>Java checker library could not be found. Please check your installation.</source>
+        <oldsource>Java checker library could not be found. Please check your installation</oldsource>
+        <translation type="unfinished">Java denetleyici kütüphane bulunamadı. Lütfen kurulumunuzu kontrol edin</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>

@@ -6048,8 +6048,9 @@ Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de la
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
-        <source>Java checker library could not be found. Please check your installation</source>
-        <translation type="unfinished"></translation>
+        <source>Java checker library could not be found. Please check your installation.</source>
+        <oldsource>Java checker library could not be found. Please check your installation</oldsource>
+        <translation type="unfinished">La bibliothèque Java checker est introuvable. Veuillez vérifier votre installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>

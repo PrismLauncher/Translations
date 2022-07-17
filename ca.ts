@@ -5931,7 +5931,8 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
-        <source>Java checker library could not be found. Please check your installation</source>
+        <source>Java checker library could not be found. Please check your installation.</source>
+        <oldsource>Java checker library could not be found. Please check your installation</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
