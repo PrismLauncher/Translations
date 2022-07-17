@@ -233,7 +233,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Egy egyedi launcher, amely megkönnyíti a Minecraft kezelését azáltal, hogy egyszerre több Minecraft példányt is létrehozhatsz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Egy egyedi launcher/indítóprogram, amely megkönnyíti a Minecraft kezelését azáltal, hogy egyszerre több Minecraft példányt is létrehozhatsz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -3607,12 +3607,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="661"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>Megölés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="648"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Indítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="293"/>
@@ -3928,7 +3928,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportálja a kiválasztott példányt zip fájlként.</translation>
     </message>
     <message>
         <source>Delete Instance</source>
@@ -4019,23 +4019,23 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hírek betöltése...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1459"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs hír.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Warnings</source>
-        <translation type="unfinished">Figyelmeztetések</translation>
+        <translation>Figyelmeztetések</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1656"/>
         <source>Abort</source>
-        <translation type="unfinished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1665"/>
@@ -4047,12 +4047,12 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1804"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Csoport név</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1804"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjon meg egy új csoportnevet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1826"/>
@@ -4067,7 +4067,7 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1963"/>
         <source>CAREFUL!</source>
-        <translation type="unfinished"></translation>
+        <translation>ÓVATOSAN!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1964"/>
@@ -4083,12 +4083,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2159"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány átnevezése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2172"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation type="unfinished"></translation>
+        <translation>A példánymappája a következőt tartalmazza: &quot;!&quot; és ez köztudottan Java problémákat okoz!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2174"/>
