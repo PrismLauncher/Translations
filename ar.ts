@@ -6244,11 +6244,11 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <name>SkinUploadDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="78"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="90"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="106"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="128"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="82"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Skin Upload</source>
         <translation>رفع مظهر</translation>
     </message>
@@ -6258,57 +6258,62 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>ملف المظهر</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="51"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
+        <source>Leave empty to keep current skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
         <source>Player Model</source>
         <translation>شخصية اللاعب</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="57"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="61"/>
         <source>Steve Model</source>
         <translation>شخصية ستيف</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="67"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="71"/>
         <source>Alex Model</source>
         <translation>شخصية أليكس</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="77"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="81"/>
         <source>Cape</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="83"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
         <translation>استخدام الروابط المتحكمة لإضافة المظاهر ليس مدعومًا بعد.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="95"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
         <translation>لا تستطيع استخدام رابط غير صالح لرفع المظاهر.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <source>Skin file does not exist!</source>
         <translation>ملف المظهر غير موجود!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="128"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <source>Failed to upload skin!</source>
         <translation>فشل في رفع المظهر!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Success</source>
         <translation>نجاح</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="143"/>
         <source>Select Skin Texture</source>
         <translation>اختر شكل المظهر</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="160"/>
         <source>No Cape</source>
         <translation type="unfinished"></translation>
     </message>

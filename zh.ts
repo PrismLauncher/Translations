@@ -6377,11 +6377,11 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <name>SkinUploadDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="78"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="90"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="106"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="128"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="82"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Skin Upload</source>
         <translation>皮肤上传</translation>
     </message>
@@ -6391,57 +6391,62 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>皮肤文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="51"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
+        <source>Leave empty to keep current skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
         <source>Player Model</source>
         <translation>玩家模型</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="57"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="61"/>
         <source>Steve Model</source>
         <translation>Steve 模型</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="67"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="71"/>
         <source>Alex Model</source>
         <translation>Alex 模型</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="77"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="81"/>
         <source>Cape</source>
         <translation>披风</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="83"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
         <translation>使用远程网址设置皮肤目前并没有实现。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="95"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
         <translation>你不能使用无效的网址来上传皮肤。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <source>Skin file does not exist!</source>
         <translation>皮肤文件不存在！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="128"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <source>Failed to upload skin!</source>
         <translation>皮肤上传失败！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Success</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="143"/>
         <source>Select Skin Texture</source>
         <translation>选择皮肤材质</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="160"/>
         <source>No Cape</source>
         <translation>无披风</translation>
     </message>

@@ -6277,11 +6277,11 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <name>SkinUploadDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="14"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="78"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="90"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="106"/>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="128"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="82"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Skin Upload</source>
         <translation>Pujar aspecte</translation>
     </message>
@@ -6291,57 +6291,62 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
         <translation>Arxiu d&apos;aspecte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="51"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
+        <source>Leave empty to keep current skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
         <source>Player Model</source>
         <translation>Model del jugador</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="57"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="61"/>
         <source>Steve Model</source>
         <translation>Model de Steve</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="67"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="71"/>
         <source>Alex Model</source>
         <translation>Model d&apos;Alex</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="77"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="81"/>
         <source>Cape</source>
         <translation>Capa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="83"/>
         <source>Using remote URLs for setting skins is not implemented yet.</source>
         <translation>Utilitzar URLs remotes per establir l&apos;aspecte no està implementat encara.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="91"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="95"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
         <translation>No pots utilitzar una adreça URL no vàlida per penjar aspectes.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="106"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <source>Skin file does not exist!</source>
         <translation>L&apos;arxiu d&apos;aspecte no existeix!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="128"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <source>Failed to upload skin!</source>
         <translation>No s&apos;ha pogut pujar l&apos;aspecte!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Success</source>
         <translation>Èxit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="139"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="143"/>
         <source>Select Skin Texture</source>
         <translation>Selecciona la textura per l&apos;aspecte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="160"/>
         <source>No Cape</source>
         <translation>Sense capa</translation>
     </message>
