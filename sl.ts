@@ -806,6 +806,39 @@ Please update both your operating system and %1.</source>
     </message>
 </context>
 <context>
+    <name>ChooseProviderDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
+        <source>Choose a mod provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
+        <source>Skip this mod</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
+        <source>Skip all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
+        <source>Confirm for all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
+        <source>Confirm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
+        <source>Try to automatically use other providers if the chosen one fails</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ComponentUpdateTask</name>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
@@ -970,6 +1003,36 @@ Please update both your operating system and %1.</source>
     </message>
 </context>
 <context>
+    <name>EnsureMetadataTask</name>
+    <message>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="96"/>
+        <source>Checking if mods have metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
+        <source>Requesting metadata information from %1...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="174"/>
+        <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="229"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="304"/>
+        <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="375"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="442"/>
+        <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EntitlementsStep</name>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="14"/>
@@ -1092,6 +1155,16 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
         <source>Download a new resource</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
+        <source>Check for &amp;Updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
+        <source>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1287,6 +1360,39 @@ Prosim, poskusite ponovno.</translation>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
         <translation type="vanished">Ugotavljanje določenih mod IDjev je bilo neuspešno.</translation>
+    </message>
+</context>
+<context>
+    <name>FlameCheckUpdate</name>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
+        <source>Preparing mods for CurseForge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
+        <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
+        <source>Getting API response from CurseForge for &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
+        <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
+        <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
+        <source>Mod has a new update available, but is opted-out on CurseForge</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3159,6 +3265,11 @@ Reason:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
+        <source>Invalid metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LogPage</name>
@@ -4246,13 +4357,13 @@ Are you sure?</source>
 <context>
     <name>ModDownloadTask</name>
     <message>
-        <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
+        <location filename="src/launcher/ModDownloadTask.cpp" line="36"/>
         <source>Downloading mod:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ModDownloadTask.cpp" line="34"/>
+        <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
         <source>Mod download</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4288,47 +4399,47 @@ Are you sure?</source>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="413"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
         <source>Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="415"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="453"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="509"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="547"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="511"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="549"/>
         <source>Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="513"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="551"/>
         <source>Last changed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="522"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="560"/>
         <source>Is the mod enabled?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="524"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="562"/>
         <source>The name of the mod.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="526"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="564"/>
         <source>The version of the mod.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="528"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="566"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4336,12 +4447,12 @@ Are you sure?</source>
 <context>
     <name>ModFolderPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="72"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
         <source>Download mods from online mod platforms</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4350,44 +4461,80 @@ Are you sure?</source>
         <translation type="obsolete">Vsebinski meni</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
         <source>Add file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Add a locally downloaded file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="124"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
+        <source>Tries to find / update all selected mods (all mods if none is selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="204"/>
         <source>Error</source>
         <translation type="unfinished">Napaka</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="124"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
         <source>Please install a mod loader first!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
         <source>Download stopped by user.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="159"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
         <source>Warnings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
         <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <source>The mod updater was aborted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
+        <source>Update checker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="195"/>
+        <source>&apos;%1&apos; is up-to-date! :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
+        <source>All %1mods are up-to-date! :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
+        <source>selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4526,6 +4673,140 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>ModUpdateDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="40"/>
+        <source>Confirm mods to update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="49"/>
+        <source>You&apos;re about to update the following mods:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="50"/>
+        <source>Only mods with a check will be updated!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
+        <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
+        <source>Metadata generation failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
+        <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
+        <source>Checking for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
+        <source>Error</source>
+        <translation type="unfinished">Napaka</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
+        <source>Warnings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="287"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
+        <source>Checking for updates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
+        <source>Mod name: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
+        <source>Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
+        <source>Possible solution: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
+        <source>Getting the latest version manually:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="166"/>
+        <source>Failed to check for updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
+        <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
+        <source>Looking for metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
+        <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
+        <source>Generating metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="333"/>
+        <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
+        <source>Provider: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <source>Old version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <source>Not installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
+        <source>New version: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="356"/>
+        <source>Changelog of the latest version</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ModpacksCH::PackInstallTask</name>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="81"/>
@@ -4589,6 +4870,39 @@ Please update %1!</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ModrinthCheckUpdate</name>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="27"/>
+        <source>Preparing mods for Modrinth...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="37"/>
+        <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="83"/>
+        <source>Parsing the API response from Modrinth...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="98"/>
+        <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="124"/>
+        <source>Mod has an empty download URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="165"/>
+        <source>Waiting for the API response from Modrinth...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4717,6 +5031,14 @@ Please update %1!</source>
     </message>
 </context>
 <context>
+    <name>MultipleOptionsTask</name>
+    <message>
+        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="32"/>
+        <source>Making attempt #%1 out of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Net::Download</name>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="93"/>
@@ -4727,7 +5049,7 @@ Please update %1!</source>
 <context>
     <name>Net::Upload</name>
     <message>
-        <location filename="src/launcher/net/Upload.cpp" line="182"/>
+        <location filename="src/launcher/net/Upload.cpp" line="192"/>
         <source>Uploading %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5645,8 +5967,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5663,6 +5985,11 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="42"/>
         <source>Path does not seem to be a MCEdit path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
+        <source>No author(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5811,7 +6138,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 <context>
     <name>SequentialTask</name>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="76"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="83"/>
         <source>Executing task %1 out of %2</source>
         <translation type="unfinished"></translation>
     </message>
