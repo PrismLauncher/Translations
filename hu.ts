@@ -22,12 +22,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Alap &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Megjegyzés: Valószínűleg meg akarod változtatni vagy eltávolítani a Base URL-t miután megváltoztattad a beillesztési szolgáltatás típusát.</translation>
+        <translation>Megjegyzés: Valószínűleg meg akarod változtatni vagy eltávolítani a alap URL-t miután megváltoztattad a beillesztési szolgáltatás típusát.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -3524,7 +3524,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="352"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyissa meg a %1 Matrix space-t</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -3564,7 +3564,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="388"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítéseket keresése a következőhöz: %1.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -3582,7 +3582,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="602"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Hírek eszköztár</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
@@ -3623,13 +3623,13 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.cpp" line="313"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="320"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappák</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="342"/>
@@ -3659,7 +3659,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="387"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="397"/>
@@ -3674,12 +3674,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="485"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fájl</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="511"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nézet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="518"/>
@@ -3689,7 +3689,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="522"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Súgó</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="547"/>
@@ -3901,7 +3901,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
-        <translation type="unfinished">Kiválasztott példány Minecraft mappájának megnyitása a fájlkezelőben.</translation>
+        <translation>Kiválasztott példány Minecraft mappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
         <source>Config Folder</source>
@@ -4093,7 +4093,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2174"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Most két lehetősége van: 1&lt;br/&gt; - módosítsa a példány mappáját a beállításokban &lt;br/&gt; - áthelyezi a(z) %1 telepítését egy másik mappába</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2183"/>
@@ -4103,12 +4103,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2190"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation type="unfinished"></translation>
+        <translation>A példánymappája a „Rar$” elemet tartalmazza – ez azt jelenti, hogy nem bontotta ki az indítóarchívumot!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2198"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Példánymappája egy ideiglenes mappában található: &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2211"/>
