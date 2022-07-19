@@ -10,14 +10,6 @@
             "fuzzy" : 104,
             "untranslated" : 569
         },
-        "be" : {
-            "file" : "e89314048a141037530dd0ccb31cf0de7a756187.class",
-            "sha1" : "e89314048a141037530dd0ccb31cf0de7a756187",
-            "size" : 34,
-            "translated" : 0,
-            "fuzzy" : 0,
-            "untranslated" : 1343
-        },
         "bg" : {
             "file" : "63f4302b4b8245b9c19ea839d004352329621935.class",
             "sha1" : "63f4302b4b8245b9c19ea839d004352329621935",
