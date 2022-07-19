@@ -1158,17 +1158,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">A &amp;konfigurációk megtekintése</translation>
+        <translation>&amp;Konfigurációk megnézése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Nyissa meg a &quot;config&quot; mappát a rendszerfájlkezelőben.</translation>
+        <translation>Nyissa meg a &quot;config&quot; mappát a fájlkezelőben.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">&amp;Mappák megnézése</translation>
+        <translation>&amp;Mappák megnézése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
@@ -1193,7 +1193,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menü</translation>
+        <translation>Menü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="239"/>
@@ -3586,7 +3586,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished">Példánymappa megnézése</translation>
+        <translation>Példánymappa megnézése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="302"/>
@@ -3597,7 +3597,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.cpp" line="308"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="unfinished">Közép Modok mappájának megnézése</translation>
+        <translation>Közép Modok mappájának megnézése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
@@ -4819,18 +4819,18 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation type="unfinished">Keresés és szűrés...</translation>
+        <translation>Modok keresése...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Kiválasztott verzió:</translation>
+        <translation>Kiválasztott verzió:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
@@ -4846,27 +4846,27 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="252"/>
         <source> by </source>
-        <translation type="unfinished"> tőle: </translation>
+        <translation> tőle: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="137"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verziók betöltése...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="145"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem található érvényes verzió.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="209"/>
         <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem található érvényes verzió!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="210"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem lehet érvénytelen verziót kiválasztani :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="229"/>
@@ -4881,12 +4881,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="273"/>
         <source>External links:</source>
-        <translation type="unfinished">Külső linkek:</translation>
+        <translation>Külső linkek:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="277"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problémák: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problémák: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="279"/>
@@ -4896,7 +4896,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="281"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Forráskód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Forráskód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="283"/>
@@ -5165,27 +5165,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendezés relevancia szerint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">Rendezés letöltések száma szerint</translation>
+        <translation>Rendezés letöltések száma szerint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendezés követések szerint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Legutóbb frissített szerinti rendezés</translation>
+        <translation>Rendezés utolsó frissítés szerint</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendezés a legújabbak szerint</translation>
     </message>
 </context>
 <context>
@@ -6516,7 +6516,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatlakozás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="67"/>
