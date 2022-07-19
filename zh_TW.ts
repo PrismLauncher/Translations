@@ -1194,7 +1194,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</source>
-        <translation>嘗試尋找 / 更新所選的資源（若未選取對象將尋找所有資源）</translation>
+        <translation>嘗試尋找 / 更新所選的資源（若未選取對象將檢查所有資源）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
@@ -1406,7 +1406,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;</source>
-        <translation>正在為「%1」獲取 CurseForge API 回應</translation>
+        <translation>正在為「%1」取得 CurseForge API 回應</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
@@ -4333,7 +4333,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="44"/>
         <source>Got migration flags</source>
-        <translation>已獲取遷移標誌</translation>
+        <translation>已取得遷移標誌</translation>
     </message>
 </context>
 <context>
@@ -4580,7 +4580,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="21"/>
         <source>A UUID is required to get the profile.</source>
-        <translation>需要 UUID 來獲取個人資料。</translation>
+        <translation>需要 UUID 來取得個人資料。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
@@ -4809,7 +4809,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Tries to find / update all selected mods (all mods if none is selected)</source>
-        <translation>嘗試尋找 / 更新所選的模組（若未選取對象將尋找所有模組）</translation>
+        <translation>嘗試尋找 / 更新所選的模組（若未選取對象將檢查所有模組）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
@@ -4866,7 +4866,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>All %1mods are up-to-date! :)</source>
-        <translation>%1 個模組皆已更新至最新版本！:)</translation>
+        <translation>%1模組皆已更新至最新版本！:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
@@ -5085,7 +5085,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
         <source>Getting the latest version manually:</source>
-        <translation>手動獲取最新版本：</translation>
+        <translation>手動取得最新版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="166"/>
@@ -7960,17 +7960,17 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="17"/>
         <source>Fetching Xbox profile.</source>
-        <translation>正在獲取 Xbox 個人資料。</translation>
+        <translation>正在取得 Xbox 個人資料。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="63"/>
         <source>Failed to retrieve the Xbox profile.</source>
-        <translation>無法獲取 Xbox 個人資料。</translation>
+        <translation>無法取得 Xbox 個人資料。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="72"/>
         <source>Got Xbox profile</source>
-        <translation>已獲取 Xbox 個人資料</translation>
+        <translation>已取得 Xbox 個人資料</translation>
     </message>
 </context>
 <context>
@@ -7993,7 +7993,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="67"/>
         <source>Got Xbox user token</source>
-        <translation>已獲取 Xbox 使用者權杖</translation>
+        <translation>已取得 Xbox 使用者權杖</translation>
     </message>
 </context>
 <context>
