@@ -1036,29 +1036,29 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="96"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在檢查模組是否擁有後設資料…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在向 %1 請求後設資料資訊…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="174"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在向 %1 請求「%2」的後設資料資訊…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="229"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="304"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在分析「%1」的 Modrinth API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="375"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="442"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在分析「%1」的 CurseForge API 回應…</translation>
     </message>
 </context>
 <context>
@@ -1189,12 +1189,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查更新（&amp;U）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>嘗試尋找 / 更新所選的資源（若未選取對象將尋找所有資源）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
@@ -1396,32 +1396,32 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在為 CurseForge 準備模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>為避免產生模組檔案問題，被停用的模組將不會被更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>正在為「%1」獲取 CurseForge API 回應</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在為「%1」分析 CurseForge 的 API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到該模組的有效版本。可能在目前的遊戲版本 / 模組載入器中還不可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is opted-out on CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>模組有可用更新，但在 CurseForge 上不開放第三方啟動器存取</translation>
     </message>
 </context>
 <context>
@@ -3429,7 +3429,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>無效後設資料</translation>
     </message>
 </context>
 <context>
@@ -4809,7 +4809,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Tries to find / update all selected mods (all mods if none is selected)</source>
-        <translation type="unfinished"></translation>
+        <translation>嘗試尋找 / 更新所選的模組（若未選取對象將尋找所有模組）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
@@ -4851,27 +4851,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>模組更新器已終止！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>更新檢測器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="195"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」已更新至最新版本！:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>All %1mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 個模組皆已更新至最新版本！:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>selected</source>
-        <translation type="unfinished"></translation>
+        <translation>已選取</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
@@ -5019,32 +5019,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="49"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>您即將更新以下模組：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="50"/>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>僅受檢查的模組會被更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>模組名稱：%1&lt;br&gt;檔案名稱：%2&lt;br&gt;原因：%3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>產生後設資料失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>無法為以下模組產生後設資料：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>正在檢查更新</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
@@ -5060,7 +5060,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="287"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>終止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
@@ -5075,72 +5075,72 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>原因：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
         <source>Possible solution: </source>
-        <translation type="unfinished"></translation>
+        <translation>可能的解決方法： </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
         <source>Getting the latest version manually:</source>
-        <translation type="unfinished"></translation>
+        <translation>手動獲取最新版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="166"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查更新失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>無法檢查或取得以下模組更新：&lt;br&gt;你想在不包含這些模組的情況下繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>正在尋找後設資料</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>模組（%1）還未擁有後設資料。我們需要建立一份後設資料，以保留如何更新本模組的相關資訊。請先選取一個模組託管平台，我們將透過此平台查詢 %1 是否有可用更新。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在產生後設資料…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="333"/>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>無法在所選的模組託管平台找到有效的版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>模組託管平台：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>舊版本：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>尚未安裝</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>新版本：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="356"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>最新版本的更新日誌</translation>
     </message>
 </context>
 <context>
@@ -5217,32 +5217,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="27"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在為 Modrinth 準備模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="37"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>為避免產生模組檔案問題，被停用的模組將不會被更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="83"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在分析來自 Modrinth 的 API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>未找到該模組的有效版本。可能在目前的遊戲版本 / 模組載入器中還不可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="124"/>
         <source>Mod has an empty download URL</source>
-        <translation type="unfinished"></translation>
+        <translation>模組的下載連結為空白</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="165"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在等候 Modrinth 的 API 回應…</translation>
     </message>
 </context>
 <context>
@@ -5378,7 +5378,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="32"/>
         <source>Making attempt #%1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>正在嘗試 %2 次中的第 #%1 次</translation>
     </message>
 </context>
 <context>
@@ -6387,7 +6387,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>沒有作者</translation>
     </message>
 </context>
 <context>
