@@ -6383,8 +6383,8 @@ Se mostrará este mensaje hasta que lo quites de los argumentos de la JVM.</tran
         <translation>Ruta no válida para JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <source>Path does not exist</source>
         <translation>La ruta no existe</translation>
     </message>

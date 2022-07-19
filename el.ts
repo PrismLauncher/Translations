@@ -6274,8 +6274,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Μή έγκυρη διαδρομή για JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <source>Path does not exist</source>
         <translation>Η διαδρομή δεν υπάρχει</translation>
     </message>

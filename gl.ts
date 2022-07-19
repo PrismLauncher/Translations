@@ -6252,8 +6252,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Ruta de JVisualVM inválida</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
+        <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
         <source>Path does not exist</source>
         <translation>Non existe a ruta</translation>
     </message>
