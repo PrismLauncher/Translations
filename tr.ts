@@ -6348,8 +6348,8 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
         <translation>Geçersiz JVisualVM dizin yolu</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Böyle bir dizin yolu yok</translation>
     </message>

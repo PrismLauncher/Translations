@@ -6267,8 +6267,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>JVisualVMへのパスが無効です</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>パスは存在しません</translation>
     </message>

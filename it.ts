@@ -6354,8 +6354,8 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
         <translation>Percorso invalido per JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Le chemin n&apos;existe pasIl percorso non esiste</translation>
     </message>
