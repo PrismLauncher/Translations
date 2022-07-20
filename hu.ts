@@ -1432,12 +1432,12 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Rendezés kiemeltek szerint</translation>
+        <translation>Kiemeltek szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Népszerűség szerinti rendezés</translation>
+        <translation>Népszerűség szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
@@ -1448,17 +1448,17 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation>Rendezés név alapján</translation>
+        <translation>Név szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">Rendezés alkotó alapján</translation>
+        <translation>Alkotó szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">Rendezés letöltések száma szerint</translation>
+        <translation>Letöltések száma szerinti rendezés</translation>
     </message>
 </context>
 <context>
@@ -1489,19 +1489,19 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="59"/>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Rendezés kiemeltek szerint</translation>
+        <translation>Kiemeltek szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="60"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Népszerűség szerinti rendezés</translation>
+        <translation>Népszerűség szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Legutóbb frissített szerinti rendezés</translation>
+        <translation>Legutóbb frissített szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
@@ -1513,13 +1513,13 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Rendezés alkotó alapján</translation>
+        <translation>Alkotó szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation>Rendezés letöltés szerint</translation>
+        <translation>Letöltés szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="162"/>
@@ -1568,19 +1568,19 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Játszások száma szerinti rendezés</translation>
+        <translation>Játszások száma szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Telepítések számának szerinti rendezés</translation>
+        <translation>Telepítések száma szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Név szerinti rendezés</translation>
+        <translation>Név szerinti rendezés</translation>
     </message>
 </context>
 <context>
@@ -1776,7 +1776,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation>- PolyMC / MultiMC exportált példányok (ZIP)</translation>
+        <translation>- PolyMC / MultiMC exportált példányok (ZIP fájl)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2836,17 +2836,17 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
         <source>Up&amp;date Channel:</source>
-        <translation type="unfinished">Up&amp;naprakész csatorna:</translation>
+        <translation>Frissítési csatorna:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="81"/>
         <source>No channel selected.</source>
-        <translation type="unfinished">Nincs kiválasztva csatorna.</translation>
+        <translation>Nincs kiválasztva csatorna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>Folders</source>
-        <translation type="unfinished">Mappák</translation>
+        <translation>Mappák</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
@@ -3025,7 +3025,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="123"/>
         <source>Instance Folder</source>
-        <translation type="unfinished">Példánymappa</translation>
+        <translation>Példánymappa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
@@ -3063,17 +3063,17 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="494"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Valami/ERROR] Egy kísérteties hiba!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="503"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Teszt/INFO] Ártalmatlan üzenet...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="512"/>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>[Valami/WARN] Egy nem olyan kísérteties figyelmeztetés.</translation>
     </message>
 </context>
 <context>
@@ -3108,13 +3108,13 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="54"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Rendezés név szerint</translation>
+        <translation>Név szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="55"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Rendezés verzió szerint</translation>
+        <translation>Verzió szerinti rendezés</translation>
     </message>
 </context>
 <context>
@@ -5165,27 +5165,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
         <source>Sort by Relevance</source>
-        <translation>Rendezés relevancia szerint</translation>
+        <translation>Relevancia szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation>Rendezés letöltések száma szerint</translation>
+        <translation>Letöltések száma szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
         <source>Sort by Follows</source>
-        <translation>Rendezés követések szerint</translation>
+        <translation>Követések szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
-        <translation>Rendezés utolsó frissítés szerint</translation>
+        <translation>Utolsó frissítés szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
         <source>Sort by Newest</source>
-        <translation>Rendezés a legújabbak szerint</translation>
+        <translation>Legújabbak szerinti rendezés</translation>
     </message>
 </context>
 <context>
@@ -5219,23 +5219,23 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
-        <translation type="unfinished">Rendezés relevancia szerint</translation>
+        <translation>Relevancia szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Rendezés letöltés szerint</translation>
+        <translation>Letöltések száma szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">Rendezés követések szerint</translation>
+        <translation>Követések szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Legutóbb frissített szerinti rendezés</translation>
+        <translation>Legutóbb frissített szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
@@ -5276,7 +5276,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished">Rendezés a legújabbak szerint</translation>
+        <translation>Legújabbak szerinti rendezés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
