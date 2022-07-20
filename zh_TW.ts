@@ -981,7 +981,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。&lt;/p&gt;&lt;p&gt;此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例的 ID（其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 啟動所用的 java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 啟動所用的命令列參數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的 &apos;optirun&apos;）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。&lt;/p&gt;&lt;p&gt;此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例的 ID（其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 啟動所用的 java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 啟動所用的命令列引數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的 &apos;optirun&apos;）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2164,7 +2164,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="219"/>
         <source>Java argumen&amp;ts</source>
-        <translation>Java 參數（&amp;T）</translation>
+        <translation>Java 引數（&amp;T）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="238"/>
@@ -2639,7 +2639,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>指定的 Java 參數無效。請先進行修正。</translation>
+        <translation>指定的 Java 引數無效。請先進行修正。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -6297,20 +6297,20 @@ There are dedicated boxes for these in the settings (Java tab, in the Memory gro
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>您嘗試手動指定 JVM 的記憶體選項（&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 或 &quot;-Xms&quot;）。
 這些選項在設定中有專門的欄位（在 Java 頁中，上方的 Memory 群組）。
-此訊息會持續顯示，直到您將他們從 JVM 參數中移除。</translation>
+此訊息會持續顯示，直到您將他們從 JVM 引數中移除。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="52"/>
         <location filename="src/launcher/JavaCommon.cpp" line="63"/>
         <source>JVM arguments warning</source>
-        <translation>JVM 參數警告</translation>
+        <translation>JVM 引數警告</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="59"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>您嘗試將所需要的 Java 版本參數傳送給 JVM（使用 “-version:xxx”）。這是不安全的，也是不允許的。
-此訊息會持續顯示，直到您將他們從 JVM 參數中移除。</translation>
+        <translation>您嘗試將所需要的 Java 版本引數傳送給 JVM（使用 “-version:xxx”）。這是不安全的，也是不允許的。
+此訊息會持續顯示，直到您將他們從 JVM 引數中移除。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
@@ -6326,7 +6326,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二進位檔無法使用您提供的參數：&lt;br /&gt;</translation>
+        <translation>指定的 Java 二進位檔無法使用您提供的引數：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
@@ -6907,7 +6907,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
         <translation>無法解析 &quot;version.json&quot;：
-inheritsFrom 參數缺失</translation>
+inheritsFrom 引數缺失</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="209"/>
