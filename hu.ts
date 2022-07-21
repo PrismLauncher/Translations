@@ -1835,7 +1835,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="24"/>
         <source>Copying instance %1</source>
-        <translation>%1 példány másolása</translation>
+        <translation>&quot;%1&quot; példány másolása</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
