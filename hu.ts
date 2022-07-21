@@ -2020,7 +2020,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="173"/>
         <source>%1 Instance</source>
-        <translation>%1 Példány</translation>
+        <translation>&quot;%1&quot; példány</translation>
     </message>
 </context>
 <context>
@@ -4186,7 +4186,7 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>A &quot;%1&quot; példány törlése
+        <translation>A(z) &quot;%1&quot; példány törlése
 Ez végleges és törli a példány minden adatát.
 
 Biztos vagy benne?</translation>
