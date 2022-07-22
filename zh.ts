@@ -1205,8 +1205,9 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
-        <source>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</source>
-        <translation>尝试获取/ 更新所选的资源（如未选择任何对象将检查全部资源）</translation>
+        <source>Try to check or update all selected resources (all resources if none are selected)</source>
+        <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
+        <translation type="unfinished">尝试获取/ 更新所选的资源（如未选择任何对象将检查全部资源）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
@@ -1417,8 +1418,9 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
-        <source>Getting API response from CurseForge for &apos;%1&apos;</source>
-        <translation>正在为&quot; %1 &quot;获取Curseforge API的回应</translation>
+        <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
+        <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
+        <translation type="unfinished">正在为&quot; %1 &quot;获取Curseforge API的回应</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
@@ -1432,8 +1434,9 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
-        <source>Mod has a new update available, but is opted-out on CurseForge</source>
-        <translation>Mod有可用更新，但CurseForge不允许第三方启动其更新此Mod</translation>
+        <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
+        <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
+        <translation type="unfinished">Mod有可用更新，但CurseForge不允许第三方启动其更新此Mod</translation>
     </message>
 </context>
 <context>
@@ -4825,13 +4828,14 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
-        <source>Tries to find / update all selected mods (all mods if none is selected)</source>
-        <translation>尝试获取/更新所选择的Mod(如未选取任意一个对象将检查所有Mod)</translation>
+        <source>Try to check or update all selected mods (all mods if none are selected)</source>
+        <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
+        <translation type="unfinished">尝试获取/更新所选择的Mod(如未选取任意一个对象将检查所有Mod)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -4843,25 +4847,25 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>Aborted</source>
         <translation>中断</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>Download stopped by user.</source>
         <translation>下载被用户停止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="159"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="219"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -4871,24 +4875,29 @@ Are you sure?</source>
         <translation>Mod更新已终止！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
+        <source>All selected mods are up-to-date! :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
         <source>Update checker</source>
         <translation>检查更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>“ %1 ”已更新至最新版本！:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <source>All %1mods are up-to-date! :)</source>
-        <translation>%1 Mod均已更新至最新版本！:)</translation>
+        <source>All mods are up-to-date! :)</source>
+        <oldsource>All %1mods are up-to-date! :)</oldsource>
+        <translation type="unfinished">%1 Mod均已更新至最新版本！:)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>selected</source>
-        <translation>已选择</translation>
+        <translation type="vanished">已选择</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
@@ -5075,7 +5084,7 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="287"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
@@ -5095,67 +5104,79 @@ Please update %1!</source>
         <translation>原因：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="245"/>
+        <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="334"/>
+        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Possible solution: </source>
-        <translation>可能的解决方法： </translation>
+        <translation type="vanished">可能的解决方法： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
         <source>Getting the latest version manually:</source>
-        <translation>手动获取最新版本：</translation>
+        <translation type="vanished">手动获取最新版本：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Failed to check for updates</source>
         <translation>检查更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>无法获取以下Mod更新：&lt;br&gt;你想在不包含这些Mod的情況下继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Looking for metadata</source>
         <translation>正在查找Metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
-        <translation>Mod（%1）还没有Metadata。我们需要创建一份Metadata，以保留如何更新此Mod的相关信息。请先选择一个Mod托管平台，我们将通过此平台查询 %1 是否有可用更新。</translation>
+        <translation type="vanished">Mod（%1）还没有Metadata。我们需要创建一份Metadata，以保留如何更新此Mod的相关信息。请先选择一个Mod托管平台，我们将通过此平台查询 %1 是否有可用更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="289"/>
         <source>Generating metadata...</source>
         <translation>生成Metadata中...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="333"/>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>无法在所选择的Mod托管平台上找到可用的版本</translation>
+        <translation type="vanished">无法在所选择的Mod托管平台上找到可用的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="348"/>
         <source>Provider: %1</source>
         <translation>Mod托管平台：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Old version: %1</source>
         <translation>旧版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
         <source>New version: %1</source>
         <translation>新版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="356"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
         <source>Changelog of the latest version</source>
         <translation>最新版本的更新日志</translation>
     </message>

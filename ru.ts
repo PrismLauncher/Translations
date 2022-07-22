@@ -1209,8 +1209,9 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
-        <source>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</source>
-        <translation>&quot;Пытается найти / обновить выбранные ресурсы (или все, если не выбран ни один)&quot;</translation>
+        <source>Try to check or update all selected resources (all resources if none are selected)</source>
+        <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
+        <translation type="unfinished">&quot;Пытается найти / обновить выбранные ресурсы (или все, если не выбран ни один)&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
@@ -1421,8 +1422,9 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
-        <source>Getting API response from CurseForge for &apos;%1&apos;</source>
-        <translation>Получаю ответ API CurseForge для &apos;%1&apos;</translation>
+        <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
+        <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
+        <translation type="unfinished">Получаю ответ API CurseForge для &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
@@ -1436,8 +1438,9 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
-        <source>Mod has a new update available, but is opted-out on CurseForge</source>
-        <translation>Для этого мода доступно обновление, но через CurseForge он недостуен</translation>
+        <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
+        <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
+        <translation type="unfinished">Для этого мода доступно обновление, но через CurseForge он недостуен</translation>
     </message>
 </context>
 <context>
@@ -4861,13 +4864,14 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
-        <source>Tries to find / update all selected mods (all mods if none is selected)</source>
-        <translation>Пытается найти / обновить выбранные моды (или все, если не выбран ни один)</translation>
+        <source>Try to check or update all selected mods (all mods if none are selected)</source>
+        <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
+        <translation type="unfinished">Пытается найти / обновить выбранные моды (или все, если не выбран ни один)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -4879,25 +4883,25 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>Download stopped by user.</source>
         <translation>Загрузка остановлена пользователем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="159"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="219"/>
         <source>Warnings</source>
         <translation>Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Abort</source>
         <translation>Отмена</translation>
     </message>
@@ -4907,24 +4911,29 @@ Are you sure?</source>
         <translation>Обновление модов отменено!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
+        <source>All selected mods are up-to-date! :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
         <source>Update checker</source>
         <translation>Проверка обновлений</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>Версия &apos;%1&apos; уже актуальна! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <source>All %1mods are up-to-date! :)</source>
-        <translation>Версии всех %1модов уже актуальны! :)</translation>
+        <source>All mods are up-to-date! :)</source>
+        <oldsource>All %1mods are up-to-date! :)</oldsource>
+        <translation type="unfinished">Версии всех %1модов уже актуальны! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>selected</source>
-        <translation>выбранный</translation>
+        <translation type="vanished">выбранный</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
@@ -5111,7 +5120,7 @@ Please update %1!</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="287"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
         <source>Abort</source>
         <translation>Отмена</translation>
     </message>
@@ -5131,67 +5140,79 @@ Please update %1!</source>
         <translation>Причина: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="245"/>
+        <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="334"/>
+        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Possible solution: </source>
-        <translation>Возможное решение: </translation>
+        <translation type="vanished">Возможное решение: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
         <source>Getting the latest version manually:</source>
-        <translation>Получаю последнюю версию вручную:</translation>
+        <translation type="vanished">Получаю последнюю версию вручную:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Failed to check for updates</source>
         <translation>Не удалось проверить обновления</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Не удалось проверить или получить обновления для следующих модов:&lt;br&gt;Вы желаете продолжить без них?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Looking for metadata</source>
         <translation>Ищу метаданные</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
-        <translation>У этого мода (%1) пока что нет метаданных. Нам нужно создать их для получения актуальной информации, как обновлять этот под. Чтобы сделать это, пожалуйста, выберите поставщика модов, где мы можем искать обновления для %1.</translation>
+        <translation type="vanished">У этого мода (%1) пока что нет метаданных. Нам нужно создать их для получения актуальной информации, как обновлять этот под. Чтобы сделать это, пожалуйста, выберите поставщика модов, где мы можем искать обновления для %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="289"/>
         <source>Generating metadata...</source>
         <translation>Генерирую метаданные...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="333"/>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Не удалось найти допустимую вевсию в выбранном(ых) поставщике(ах) модов</translation>
+        <translation type="vanished">Не удалось найти допустимую вевсию в выбранном(ых) поставщике(ах) модов</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="348"/>
         <source>Provider: %1</source>
         <translation>Поставщик: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Old version: %1</source>
         <translation>Старая версия: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Not installed</source>
         <translation>Не установлен</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
         <source>New version: %1</source>
         <translation>Новая версия: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="356"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
         <source>Changelog of the latest version</source>
         <translation>Список изменений последней версии</translation>
     </message>

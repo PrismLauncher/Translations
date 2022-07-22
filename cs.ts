@@ -1185,8 +1185,9 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
-        <source>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</source>
-        <translation>„Pokusí se najít / aktualizovat všechny vybrané zdroje (všechny zdroje, pokud není žádný vybraný)“</translation>
+        <source>Try to check or update all selected resources (all resources if none are selected)</source>
+        <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
+        <translation type="unfinished">„Pokusí se najít / aktualizovat všechny vybrané zdroje (všechny zdroje, pokud není žádný vybraný)“</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
@@ -1397,8 +1398,9 @@ Prosím zkus znovu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
-        <source>Getting API response from CurseForge for &apos;%1&apos;</source>
-        <translation>Získávání odpovědi API z CurseForge pro &apos;%1&apos;</translation>
+        <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
+        <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
+        <translation type="unfinished">Získávání odpovědi API z CurseForge pro &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
@@ -1412,8 +1414,9 @@ Prosím zkus znovu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
-        <source>Mod has a new update available, but is opted-out on CurseForge</source>
-        <translation>Je dostupná nová aktualizace módu, ale je vypnutá na CurseForge</translation>
+        <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
+        <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
+        <translation type="unfinished">Je dostupná nová aktualizace módu, ale je vypnutá na CurseForge</translation>
     </message>
 </context>
 <context>
@@ -4783,13 +4786,14 @@ Jste si jistý?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
-        <source>Tries to find / update all selected mods (all mods if none is selected)</source>
-        <translation>Pokusí se najít / aktualizovat všechny načtené módy (všechny módy, pokud není žádný vybraný)</translation>
+        <source>Try to check or update all selected mods (all mods if none are selected)</source>
+        <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
+        <translation type="unfinished">Pokusí se najít / aktualizovat všechny načtené módy (všechny módy, pokud není žádný vybraný)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -4801,25 +4805,25 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>Aborted</source>
         <translation>Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>Download stopped by user.</source>
         <translation>Stahování bylo přerušeno uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="159"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="219"/>
         <source>Warnings</source>
         <translation>Varování</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -4829,24 +4833,29 @@ Jste si jistý?</translation>
         <translation>Aktualizace módu byla přerušena!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
+        <source>All selected mods are up-to-date! :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
         <source>Update checker</source>
         <translation>Kontrola aktualizací</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>&apos;%1&apos; je aktuální! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
-        <source>All %1mods are up-to-date! :)</source>
-        <translation>Všech %1 módů je aktuální! :)</translation>
+        <source>All mods are up-to-date! :)</source>
+        <oldsource>All %1mods are up-to-date! :)</oldsource>
+        <translation type="unfinished">Všech %1 módů je aktuální! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>selected</source>
-        <translation>vybrán</translation>
+        <translation type="vanished">vybrán</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
@@ -5033,7 +5042,7 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="287"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -5053,67 +5062,79 @@ Aktualizujte prosím %1!</translation>
         <translation>Důvod: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
+        <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
+        <extracomment>%1 is the link to download it manually</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="245"/>
+        <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="334"/>
+        <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Possible solution: </source>
-        <translation>Možné řešení: </translation>
+        <translation type="vanished">Možné řešení: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
         <source>Getting the latest version manually:</source>
-        <translation>Ruční získávání nejnovější verze:</translation>
+        <translation type="vanished">Ruční získávání nejnovější verze:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Failed to check for updates</source>
         <translation>Nepodařilo se zkontrolovat aktualizace</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>Nepodařilo se zkontrolovat nebo získat aktualizace následujících módů:&lt;br&gt;Přejete si pokračovat bez těchto módů?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="204"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Looking for metadata</source>
         <translation>Hledání metadat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>This mod (%1) does not have a metadata yet. We need to create one in order to keep relevant information on how to update this mod. To do this, please select a mod provider from which we can search for updates for %1.</source>
-        <translation>Tento mód (%1) nemá ještě stejná metadata. Musíme je nejprve vytvořit, abychom ponechali relevantní informace o tom, jak aktualizovat tento mód. Abyste tak učinili, vyberte poskytovatele módů, na kterém budeme moci vyhledat aktualizace módu %1.</translation>
+        <translation type="vanished">Tento mód (%1) nemá ještě stejná metadata. Musíme je nejprve vytvořit, abychom ponechali relevantní informace o tom, jak aktualizovat tento mód. Abyste tak učinili, vyberte poskytovatele módů, na kterém budeme moci vyhledat aktualizace módu %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="289"/>
         <source>Generating metadata...</source>
         <translation>Generování metadat...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="333"/>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Nepodařilo se najít platnou verzi vybraných poskytovatelů módů</translation>
+        <translation type="vanished">Nepodařilo se najít platnou verzi vybraných poskytovatelů módů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="347"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="348"/>
         <source>Provider: %1</source>
         <translation>Poskytovatel: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Old version: %1</source>
         <translation>Stará verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="350"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Not installed</source>
         <translation>Nenainstalováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="353"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
         <source>New version: %1</source>
         <translation>Nová verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="356"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
         <source>Changelog of the latest version</source>
         <translation>Seznam změn nejnovější verze</translation>
     </message>
