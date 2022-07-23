@@ -2823,17 +2823,18 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
 <context>
     <name>LauncherLoginStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="16"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
         <translation>Mojang servislerine erişiliyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Minecraft erişim belirteci alma başarısız: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="75"/>
+        <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="84"/>
         <source>Failed to parse the Minecraft access token response.</source>
         <translation>Minecraft erişim belirteci yanıtı ayrıştırılamadı.</translation>
     </message>
@@ -4537,27 +4538,32 @@ Emin misiniz?</translation>
 <context>
     <name>MinecraftProfileStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="15"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
         <translation>Minecraft profili alınıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="54"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="55"/>
         <source>Account has no Minecraft profile.</source>
         <translation>Hesap, Minecraft profiline sahip değil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="69"/>
-        <source>Minecraft Java profile acquisition failed.</source>
-        <translation>Minecraft Java profili edinme başarısız.</translation>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="77"/>
+        <source>Minecraft Java profile acquisition failed: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="77"/>
+        <source>Minecraft Java profile acquisition failed.</source>
+        <translation type="vanished">Minecraft Java profili edinme başarısız.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="86"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Minecraft Java profili cevabı ayrıştırılamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="89"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="98"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>Minecraft Java profili edinildi.</translation>
     </message>
@@ -4565,32 +4571,37 @@ Emin misiniz?</translation>
 <context>
     <name>MinecraftProfileStepMojang</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="15"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
         <translation>Minecraft profili alınıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="21"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="22"/>
         <source>A UUID is required to get the profile.</source>
         <translation>Proili almak için bir UUID&apos;ye ihtiyaç var.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="58"/>
         <source>Account has no Minecraft profile.</source>
         <translation>Hesap, Minecraft profiline sahip değil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="72"/>
-        <source>Minecraft Java profile acquisition failed.</source>
-        <translation>Minecraft Java profili edinme başarısız.</translation>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
+        <source>Minecraft Java profile acquisition failed: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
+        <source>Minecraft Java profile acquisition failed.</source>
+        <translation type="vanished">Minecraft Java profili edinme başarısız.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="89"/>
         <source>Minecraft Java profile response could not be parsed</source>
         <translation>Minecraft Java profili cevabı ayrıştırılamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="92"/>
+        <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="101"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
         <translation>Minecraft Java profili başarıyla edinildi.</translation>
     </message>
@@ -7876,53 +7887,63 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>XboxAuthorizationStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="21"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="22"/>
         <source>Getting authorization to access %1 services.</source>
         <translation>%1 servislerine erişim sağlamak için yetki alınıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="70"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
         <translation>%1 servisleri için kimlik doğrulaması alınamadı. Hata %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="76"/>
+        <source>Unknown STS error for %1 services: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
+        <source>Failed to get authorization for %1 services: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Could not parse authorization response for access to %1 services.</source>
         <translation>%1 servislerine erişim için kimlik doğrulaması ayrıştırılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="86"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="101"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
         <translation>Sunucu yanıtta %1 kimlik doğrulaması kullanıcı hash&apos;ini değiştirdi. Yanlış birşey var.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="108"/>
         <source>Got authorization to access %1</source>
         <translation>%1&apos;e erişim için kimlik doğrulama alındı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
         <translation>%1 kimlik doğrulama hatası JSON olarak ayrıştırılamıyor: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="119"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
         <source>XErr element is missing from %1 authorization error response.</source>
         <translation>XErr elmanı %1 kimlik doğrulama yanıtında eksik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
         <translation>Bu Microsoft hesabı bir XBox Live profili içermiyor. İlk önce %1 üstünden oyunu satın alın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="136"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
         <translation>XBox Live ülkenizde mevcut değil. Engellendiniz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="143"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
@@ -7931,7 +7952,7 @@ Please set up your account according to %1.</source>
 Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="166"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
@@ -7943,17 +7964,22 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
 <context>
     <name>XboxProfileStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="17"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="18"/>
         <source>Fetching Xbox profile.</source>
         <translation>Xbox profili alınıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="63"/>
-        <source>Failed to retrieve the Xbox profile.</source>
-        <translation>Xbox profili alınamadı.</translation>
+        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="71"/>
+        <source>Failed to retrieve the Xbox profile: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="72"/>
+        <source>Failed to retrieve the Xbox profile.</source>
+        <translation type="vanished">Xbox profili alınamadı.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="81"/>
         <source>Got Xbox profile</source>
         <translation>Xbox profili alındı</translation>
     </message>
@@ -7961,22 +7987,27 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
 <context>
     <name>XboxUserStep</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="15"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="16"/>
         <source>Logging in as an Xbox user.</source>
         <translation>Xbox kullanıcısı olarak giriş yapılıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="56"/>
         <source>XBox user authentication failed.</source>
-        <translation>XBox kullanıcı kimlik doğrulaması başarısız oldu.</translation>
+        <translation type="vanished">XBox kullanıcı kimlik doğrulaması başarısız oldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
+        <source>XBox user authentication failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>XBox user authentication response could not be understood.</source>
         <translation>Xbox kullanıcı kimlik doğrulaması anlaşılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="67"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>Got Xbox user token</source>
         <translation>Xbox kullanıcı jetonu alındı</translation>
     </message>
