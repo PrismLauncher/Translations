@@ -1207,7 +1207,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished">尝试获取/ 更新所选的资源（如未选择任何对象将检查全部资源）</translation>
+        <translation>尝试检查或更新所有选定的资源（未选择任何资源将检查全部资源）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
@@ -1420,7 +1420,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished">正在为&quot; %1 &quot;获取Curseforge API的回应</translation>
+        <translation>正从 CurseForge 获取 &apos;%1&apos; 的 API 响应…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
@@ -1436,7 +1436,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished">Mod有可用更新，但CurseForge不允许第三方启动其更新此Mod</translation>
+        <translation>Mod 有新更新可用，但不能使用 CurseForge 进行下载。</translation>
     </message>
 </context>
 <context>
@@ -4830,7 +4830,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished">尝试获取/更新所选择的Mod(如未选取任意一个对象将检查所有Mod)</translation>
+        <translation>尝试检查或更新所有选定的 Mod (未选取任何 Mod 将检查所有 Mod)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
@@ -4877,7 +4877,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>所选 Mod 均为最新！:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
@@ -4893,7 +4893,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished">%1 Mod均已更新至最新版本！:)</translation>
+        <translation>Mod 均已是最新版本！:)</translation>
     </message>
     <message>
         <source>selected</source>
