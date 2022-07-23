@@ -1187,7 +1187,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished">„Pokusí se najít / aktualizovat všechny vybrané zdroje (všechny zdroje, pokud není žádný vybraný)“</translation>
+        <translation>Pokusit se najít / aktualizovat všechny vybrané zdroje (všechny zdroje, pokud není žádný vybraný)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="162"/>
@@ -1400,7 +1400,7 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Získávání odpovědi API z CurseForge pro &apos;%1&apos;</translation>
+        <translation>Získávání odpovědi API z CurseForge pro &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
@@ -1416,7 +1416,7 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished">Je dostupná nová aktualizace módu, ale je vypnutá na CurseForge</translation>
+        <translation>Je dostupná nová aktualizace módu, ale je vypnutá na CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -4788,7 +4788,7 @@ Jste si jistý?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished">Pokusí se najít / aktualizovat všechny načtené módy (všechny módy, pokud není žádný vybraný)</translation>
+        <translation>Pokusit se najít / aktualizovat všechny vybrané módy (všechny módy, pokud není žádný vybraný)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
@@ -4835,7 +4835,7 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechny vybrané módy jsou již aktuální! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
@@ -4851,7 +4851,7 @@ Jste si jistý?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished">Všech %1 módů je aktuální! :)</translation>
+        <translation>Všechny módy jsou aktuální! :)</translation>
     </message>
     <message>
         <source>selected</source>
@@ -5065,7 +5065,7 @@ Aktualizujte prosím %1!</translation>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Možné řešení: ruční získání nejnovější verze:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="245"/>
