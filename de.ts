@@ -85,7 +85,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Gib hier einen eigenen User Agent ein. Die Zeichenfolge $LAUNCHER_VER wird mit der Version des launchers ersetzt.</translation>
+        <translation>Gib hier einen eigenen User Agent ein. Die Zeichenfolge $LAUNCHER_VER wird mit der Version des Launchers ersetzt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
