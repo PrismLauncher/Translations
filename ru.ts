@@ -1424,7 +1424,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Получаю ответ API CurseForge для &apos;%1&apos;</translation>
+        <translation type="unfinished">Получаю ответ API CurseForge для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
@@ -1440,7 +1440,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished">Для этого мода доступно обновление, но через CurseForge он недостуен</translation>
+        <translation>Для этого мода доступно обновление, но через CurseForge он недоступен.</translation>
     </message>
 </context>
 <context>
