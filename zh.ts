@@ -4579,7 +4579,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="77"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java 配置文件获取失败：%1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -4617,7 +4617,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java 配置文件获取失败：%1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -7953,12 +7953,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="76"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 服务未知 STS 错误：%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>获取 %1 服务授权失败：%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
@@ -8025,7 +8025,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="71"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法获取 Xbox 档案：%1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -8052,7 +8052,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox 用户身份验证失败：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
