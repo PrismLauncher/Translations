@@ -54,7 +54,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Adj meg egy egyedi kliens azonosítót a Microsoft Authentication-nek. </translation>
+        <translation>Adjon meg egy egyedi kliens azonosítót a Microsoft Authentication-nek. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -69,7 +69,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjon meg egy egyéni User Agent-et. A $LAUNCHER_VER speciális karakterlánc helyére a launcher verziója kerül.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -100,7 +100,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Adj meg egy egyéni API-kulcsot a CurseForge-nak.</translation>
+        <translation>Adjon meg egy egyéni API-kulcsot a CurseForge-nak.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -509,7 +509,7 @@ Ha új vagy itt, kattints a &quot;Hozzáadás&quot; gombra, hogy hozzá add Moja
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs beállítva Microsoft Authentication ügyfélazonosító.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -533,7 +533,9 @@ Ha új vagy itt, kattints a &quot;Hozzáadás&quot; gombra, hogy hozzá add Moja
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A Microsoft-fiókok csak macOS 10.13 vagy újabb rendszeren használhatók, teljesen frissített %1 esetén.
+
+Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -606,7 +608,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismeretlen fiókfeladat állapot: %1</translation>
     </message>
 </context>
 <context>
@@ -4190,7 +4192,7 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; példány törlése
+        <translation>A(z) &quot;%1&quot; példány törlésére készülsz.
 Ez végleges és törli a példány minden adatát.
 
 Biztos vagy benne?</translation>
@@ -5374,7 +5376,8 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsChecker.cpp" line="118"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült betölteni az RSS hírfolyamot:
+%1</translation>
     </message>
 </context>
 <context>
@@ -5382,7 +5385,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Hírek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
@@ -5393,12 +5396,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="48"/>
         <source>Hide article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Cikklista elrejtése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="46"/>
         <source>Show article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Cikklista megjelenítése</translation>
     </message>
 </context>
 <context>
@@ -5407,13 +5410,13 @@ Please update %1!</source>
         <location filename="src/launcher/news/NewsEntry.cpp" line="24"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="56"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Névtelen</translation>
     </message>
     <message>
         <location filename="src/launcher/news/NewsEntry.cpp" line="25"/>
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs tartalom.</translation>
     </message>
 </context>
 <context>
