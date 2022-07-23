@@ -2137,7 +2137,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="355"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="528"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Басқа</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="460"/>
@@ -4194,7 +4194,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Басқа</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -5326,19 +5326,19 @@ Error message: %3</source>
     <name>PostLaunchCommand</name>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="60"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
         <source>Running Post-Launch command: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="69"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="70"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="92"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="93"/>
         <source>Post-Launch command ran successfully.
 
 </source>
@@ -5349,19 +5349,19 @@ Error message: %3</source>
     <name>PreLaunchCommand</name>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="60"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
         <source>Running Pre-Launch command: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="69"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="70"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="92"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="93"/>
         <source>Pre-Launch command ran successfully.
 
 </source>

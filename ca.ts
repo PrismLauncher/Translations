@@ -5709,12 +5709,12 @@ Missatge de l&apos;error: %3</translation>
     <name>PostLaunchCommand</name>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="60"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
         <source>Running Post-Launch command: %1</source>
         <translation>Executant la comanda post-llançament: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="69"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="70"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
@@ -5723,7 +5723,7 @@ Missatge de l&apos;error: %3</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="92"/>
+        <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="93"/>
         <source>Post-Launch command ran successfully.
 
 </source>
@@ -5736,12 +5736,12 @@ Missatge de l&apos;error: %3</translation>
     <name>PreLaunchCommand</name>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="60"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
         <source>Running Pre-Launch command: %1</source>
         <translation>Executant comanda pre-llançament: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="69"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="70"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
@@ -5750,7 +5750,7 @@ Missatge de l&apos;error: %3</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="92"/>
+        <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="93"/>
         <source>Pre-Launch command ran successfully.
 
 </source>
