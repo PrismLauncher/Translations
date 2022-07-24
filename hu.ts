@@ -79,7 +79,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished">Beállíthatsz egy harmadik féltől származó metaadat-kiszolgálót, hogy módosított könyvtárakat vagy más hackeket használj.</translation>
+        <translation>Beállíthatsz egy harmadik féltől származó metaadat-kiszolgálót, hogy módosított könyvtárakat vagy más hackeket használj.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -89,7 +89,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation></translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -755,12 +755,12 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="187"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Jelenleg nincs elérhető verzió a Minecraft %1 -hoz</translation>
+        <translation>Jelenleg nincs elérhető verzió a Minecraft %1 számára</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="190"/>
@@ -826,7 +826,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
     </message>
 </context>
 <context>
@@ -849,12 +849,12 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Mind elfogadása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Elfogadás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
@@ -868,7 +868,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -953,7 +953,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">&amp;Egyedi parancsok</translation>
+        <translation>&amp;Egyedi parancsok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
@@ -965,13 +965,13 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished">Indítás előtti parancs:</translation>
+        <translation>Indítás előtti parancs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">Wrapper parancs:</translation>
+        <translation>Wrapper parancs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1000,7 +1000,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Nem indítható el a Minecraft!</translation>
+        <translation>Nem indítható el a Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="116"/>
@@ -1032,29 +1032,29 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="96"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok metaadatainak ellenőrzése...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaadat-információk kérése a következőtől: %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="174"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaadat-információk kérése (tőle: %1) a következőhöz: &quot;%2&quot;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="229"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="304"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>API-válasz elemzése a Modrinth-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="375"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="442"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
 </context>
 <context>
@@ -1180,7 +1180,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Új erőforrás letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
@@ -1223,7 +1223,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">Szöveg szerkesztő:</translation>
+        <translation>Szöveg szerkesztő:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -1340,12 +1340,12 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">FML-könyvtárak letöltése...</translation>
+        <translation>FML-könyvtárak letöltése...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
@@ -1393,23 +1393,23 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok előkészítése a CurseForge-nak...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>A letiltott modok nem frissülnek, hogy elkerüljük a modduplikációs problémákat!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>API-válasz lekérése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>API-válasz elemzése a CurseForge-tól következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
@@ -1420,7 +1420,7 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>A modnak elérhető egy új frissítése, de nem tölthető le a CurseForge segítségével.</translation>
     </message>
 </context>
 <context>
@@ -1471,7 +1471,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Kiválasztott verzió:</translation>
+        <translation>Kiválasztott verzió:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -1482,13 +1482,13 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Megjegyzés: A CurseForge API nagyon megbízhatatlan. A CurseForge és néhány mod készítője letiltotta a modok letöltését harmadik féltől származó alkalmazásokban, mint például a PolyMC-ben. Ezért előfordulhat, hogy manuálisan kell letöltenie néhány modot a modpack telepítéséhez.</translation>
+        <translation>Megjegyzés: A CurseForge API nagyon megbízhatatlan. A CurseForge és néhány mod készítője letiltotta a modok letöltését harmadik féltől származó alkalmazásokban, mint például a PolyMC-ben. Ezért előfordulhat, hogy manuálisan kell letöltenie néhány modot a modpack telepítéséhez.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="59"/>
@@ -1665,7 +1665,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="16"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skin beszerzése.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
@@ -1819,7 +1819,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Név</translation>
+        <translation>Név</translation>
     </message>
 </context>
 <context>
@@ -2928,7 +2928,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiltsa le a mod-szolgáltatók (például a Modrinth vagy a Curseforge) által biztosított metaadatok használatát a modokhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
@@ -2969,7 +2969,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>A menüsor barátságosabb a billentyűzet által vezérelt interakcióhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
@@ -3371,12 +3371,13 @@ Indok:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod indexének frissítése:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Érvénytelen metaadatok</translation>
     </message>
 </context>
 <context>
@@ -4179,7 +4180,7 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1826"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation>Biztosan törli a %1 csoportot?</translation>
+        <translation>Biztosan törli a(z) &quot;%1&quot; csoportot?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1963"/>
@@ -4478,28 +4479,28 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft profil lekérése.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="55"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>A fióknak nincs Minecraft profilja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="77"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A Minecraft Java profil beszerzése sikertelen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="86"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished"></translation>
+        <translation>A Minecraft Java-profil válasza nem értelmezhető</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="98"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Minecraft Java profil beszerzése sikerült.</translation>
     </message>
 </context>
 <context>
@@ -4507,17 +4508,17 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft profil lekérése.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="22"/>
         <source>A UUID is required to get the profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>A profil eléréséhez UUID szükséges.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="58"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>A fióknak nincs Minecraft profilja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
@@ -4563,7 +4564,8 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ModDownloadTask.cpp" line="36"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod letöltése:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
@@ -4735,7 +4737,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Próbálja meg ellenőrizni vagy frissíteni az összes kiválasztott modot (ha nincs kiválasztva semmi akkor az összes modot)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
@@ -4777,7 +4779,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>A mod frissítő megszakítva!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
@@ -4936,7 +4938,8 @@ Biztos vagy benne?</translation>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Az API verzió túl régi!
+Kérjük, frissítse a következőt: %1</translation>
     </message>
 </context>
 <context>
@@ -4969,7 +4972,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült metaadatokat generálni a következő modokhoz:&lt;br&gt;Szeretné folytatni ezek a modok nélkül?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
@@ -4979,18 +4982,18 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
         <source>Warnings</source>
-        <translation type="unfinished">Figyelmeztetések</translation>
+        <translation>Figyelmeztetések</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
         <source>Abort</source>
-        <translation type="unfinished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
@@ -5000,18 +5003,18 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod neve: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lehetséges megoldás: A legújabb verzió kézi beszerzése:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="245"/>
@@ -5036,37 +5039,37 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaadatok keresése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="289"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaadatok generálása...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="348"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Szolgáltató: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Régi verzió: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs telepítve</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Új verzió: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Változásnapló a legújabb verzióhoz</translation>
     </message>
 </context>
 <context>
@@ -5134,7 +5137,8 @@ Please update %1!</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Az API verzió túl régi!
+Kérjük, frissítse a következőt: %1</translation>
     </message>
 </context>
 <context>
@@ -5142,17 +5146,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="27"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok előkészítése Modrinth-nek...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="37"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>A letiltott modok nem frissülnek, hogy elkerüljük a modduplikációs problémákat!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="83"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth API-válaszának elemzése...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="98"/>
@@ -5162,12 +5166,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="124"/>
         <source>Mod has an empty download URL</source>
-        <translation type="unfinished"></translation>
+        <translation>A modnak üres a letöltési URL-je</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="165"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Várakozás a Modrinth API-válaszára...</translation>
     </message>
 </context>
 <context>
@@ -5638,7 +5642,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="142"/>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Feltöltés ide: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="159"/>
@@ -6573,7 +6577,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="52"/>
         <source>Shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Shader csomagok</translation>
     </message>
 </context>
 <context>
@@ -7857,7 +7861,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="18"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox-profil lekérése.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
