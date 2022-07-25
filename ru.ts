@@ -4924,7 +4924,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished">Версии всех выбранных модов актуальны! :)</translation>
+        <translation>Версии всех выбранных модов актуальны! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
@@ -5154,17 +5154,17 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Возможное решение: Установить актуальную версию вручную:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Возможное решение: Установить актуальную версию вручную:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="245"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished">Мод &apos;%1&apos; ещё не имеет метадаты. Нам нужно сгенерировать её, чтобы отслеживать релевантную информацию об обновлении этого мода. Чтобы это сделать, пожалуйста выберите поставщика модификаций, которого ы используем для проверки обновлений мода.</translation>
+        <translation>Мод &apos;%1&apos; ещё не имеет метадаты. Нам нужно сгенерировать её, чтобы отслеживать релевантную информацию об обновлении этого мода. Чтобы это сделать, пожалуйста выберите поставщика модификаций, которого мы используем для проверки обновлений мода.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="334"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Не удаётся найти актуальную версию у выбранного(ых) поставщика модификаций</translation>
+        <translation>Не удаётся найти актуальную версию у выбранного(-ых) поставщика(-ов) модификаций</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -8031,12 +8031,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="76"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished">Неизвестная ошибка STS для &apos;%1&apos; сервисов: &apos;%2&apos;</translation>
+        <translation>Неизвестная ошибка STS для &apos;%1&apos; сервисов: &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished">Не удалось получить авторизацию для &apos;%1&apos; сервисов: &apos;%2&apos;</translation>
+        <translation>Не удалось получить авторизацию для &apos;%1&apos; сервисов: &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
@@ -8103,7 +8103,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="71"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished">Не удалось получить информацию о профиле Xbox: &apos;%1&apos;</translation>
+        <translation>Не удалось получить информацию о профиле Xbox: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -8130,7 +8130,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished">Не удалось выполнить аутентификацию пользователя XBox: &apos;%1&apos;</translation>
+        <translation>Не удалось выполнить аутентификацию пользователя XBox: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
