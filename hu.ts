@@ -89,7 +89,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -328,13 +328,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="310"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Működő</translation>
+        <translation>Betöltés</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="313"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Hibá(ka)t okozó</translation>
+        <translation>Hibás</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="316"/>
@@ -775,7 +775,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp" line="221"/>
         <source>Installing</source>
-        <translation>Telepítés...</translation>
+        <translation>Telepítés</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -792,7 +792,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
         <source>Initializing</source>
-        <translation>Inicializálás...</translation>
+        <translation>Inicializálás</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
@@ -813,7 +813,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished">Köpeny felvevése</translation>
+        <translation>Köpeny felvevése</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
@@ -977,7 +977,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítás előtti parancs a példány indítása előtt, a kilépés utáni parancs pedig a példány becsukódása után fut le.&lt;/p&gt;&lt;p&gt;Mindkettő az indító munkamappájában fog futni extra  környezeti változókkel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME – a példány neve&lt;/li&gt;&lt;li&gt;$INST_ID – a példány azonosítója (mappa neve)&lt;/li&gt;&lt;li&gt;$INST_DIR – a példány abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - a Minecraft abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_JAVA - Az indításhoz használt Java bináris fájl&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - az indításhoz használt parancssori paraméterek (figyelmeztetés: nem működik megfelelően, ha az argumentumok szóközt tartalmaznak)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A Wrapper parancs lehetővé teszi az indítást egy extra wrapper program használatával (például &quot;optirun&quot; Linuxon)&lt;/p&gt;&lt;/body&gt;&lt;/ html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítás előtti parancs a példány indítása előtt, a kilépés utáni parancs pedig a példány becsukódása után fut le.&lt;/p&gt;&lt;p&gt;Mindkettő az indító munkamappájában fog futni extra környezeti változókkel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME – a példány neve&lt;/li&gt;&lt;li&gt;$INST_ID – a példány azonosítója (mappa neve)&lt;/li&gt;&lt;li&gt;$INST_DIR – a példány abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - a Minecraft abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_JAVA - Az indításhoz használt Java bináris fájl&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - az indításhoz használt parancssori paraméterek (figyelmeztetés: nem működik megfelelően, ha az argumentumok szóközt tartalmaznak)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A Wrapper parancs lehetővé teszi az indítást egy extra wrapper program használatával (például &quot;optirun&quot; Linuxon)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1006,7 +1006,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="116"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="126"/>
         <source>Game crashed.</source>
-        <translation type="unfinished">A játék kicrashelt.</translation>
+        <translation>A játék összeomlott.</translation>
     </message>
 </context>
 <context>
@@ -1062,7 +1062,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="14"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished">A játék tulajdonjogának meghatározása.</translation>
+        <translation>A játék tulajdonjogának meghatározása.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
@@ -2417,7 +2417,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="150"/>
         <source>Java Runtime</source>
-        <translation>Java Runtime</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
@@ -4448,7 +4448,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítóprogram automatikusan újra megnyílik, ha a játék összeomlik vagy kilép.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="218"/>
@@ -4460,7 +4460,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítóprogram automatikusan bezárul, ha a játékot bezárják vagy összeomlik.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
@@ -4471,7 +4471,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
-        <translation>Minecraft</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5347,7 +5347,7 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
         <source>uid</source>
-        <translation>uid</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6308,22 +6308,22 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="45"/>
         <source>Is the resource pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>Az erőforráscsomag engedélyezve van?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="47"/>
         <source>The name of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az erőforráscsomag neve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="49"/>
         <source>The version of the resource pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az erőforráscsomag verziója.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="51"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>Az erőforráscsomag utolsó módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
 </context>
 <context>
@@ -6833,7 +6833,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Kiválasztott verzió:</translation>
+        <translation>Kiválasztott verzió:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
@@ -6844,7 +6844,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
@@ -6857,22 +6857,22 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="45"/>
         <source>Is the texture pack enabled?</source>
-        <translation type="unfinished"></translation>
+        <translation>A textúracsomag engedélyezve van?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="47"/>
         <source>The name of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>A textúracsomag neve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>The version of the texture pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>A textúracsomag verziója.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="51"/>
         <source>The date and time this texture pack was last changed (or added).</source>
-        <translation type="unfinished"></translation>
+        <translation>A textúracsomag utolsó módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
 </context>
 <context>
@@ -7054,12 +7054,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
-        <translation>Vanilla</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs kiválasztva a Minecraft verzió.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
@@ -7077,18 +7077,19 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Java fő verziója nem kompatibilis. Problémák adódhatnak.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a példány nem kompatibilis a Java %1 verziójával.
+Kérjük, váltson a következő Java-verziók egyikére:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Java version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Java verzió: %1</translation>
     </message>
 </context>
 <context>
@@ -7472,7 +7473,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="113"/>
         <source>Minecraft</source>
-        <translation>Minecraft</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="115"/>
@@ -7658,7 +7659,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
         <source>MCEdit</source>
-        <translation>MCEdit</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
@@ -7800,12 +7801,12 @@ Folytatni akarja?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="76"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismeretlen STS hiba a(z) %1 szolgáltatásokhoz: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült jogosultságot szerezni a(z) %1 szolgáltatásokhoz: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
@@ -7820,7 +7821,7 @@ Folytatni akarja?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="108"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Engedélyt kapott a(z) %1 eléréséhez</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
