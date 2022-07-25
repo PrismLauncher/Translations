@@ -4524,17 +4524,17 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A Minecraft Java profil beszerzése sikertelen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="89"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A Minecraft Java-profil válasza nem értelmezhető</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="101"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A Minecraft Java profil beszerzése sikerült.</translation>
     </message>
 </context>
 <context>
@@ -6251,7 +6251,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Java-ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
