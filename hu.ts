@@ -64,7 +64,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Felhasználói ügynök</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
@@ -703,7 +703,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Megosztási kód használata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -713,17 +713,17 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Megosztási kód kiválasztása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Megosztási kód:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs megadva megosztási kód!</translation>
     </message>
 </context>
 <context>
@@ -959,7 +959,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished">Kilépés utáni parancs:</translation>
+        <translation>Kilépés utáni parancs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
@@ -1067,7 +1067,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Jogosultságok</translation>
     </message>
 </context>
 <context>
@@ -1115,7 +1115,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Műveletek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
@@ -1550,7 +1550,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="248"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="250"/>
@@ -1564,7 +1564,7 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="17"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Nem sikerült létrehozni a Minecraft binárisok mappáját.</translation>
+        <translation>Nem sikerült létrehozni a Minecraft binárisok mappáját.</translation>
     </message>
 </context>
 <context>
@@ -1599,7 +1599,7 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Keresés és szűrés...</translation>
+        <translation>Keresés és szűrés...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1940,7 +1940,7 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="345"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <oldsource>Could not map recommended forge version for Minecraft %1</oldsource>
-        <translation type="unfinished">Nem sikerült párosítani a Minecraft %1 ajánlott forge verzióját</translation>
+        <translation>Nem sikerült párosítani a Minecraft %1 ajánlott forge verzióját</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
@@ -2010,7 +2010,8 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="713"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült átnevezni az ügyfél felülbírálása mappát:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="695"/>
@@ -2225,32 +2226,32 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Engedélyezd a Feral Interactive GameMode-ját, hogy potenciálisan javíthasd a játékteljesítményt. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="484"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral GameMode engedélyezése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="491"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Engedélyezze a MangoHud fejlett teljesítmény-átfedését. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="494"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHud engedélyezése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="501"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Használja a diszkrét GPU-t az elsődleges GPU helyett.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="504"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Diszkrét GPU használata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="537"/>
@@ -2428,7 +2429,7 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation type="unfinished">Java útvonal:</translation>
+        <translation>Java útvonal:</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -2439,13 +2440,13 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished">Auto felismerés...</translation>
+        <translation>Auto felismerés...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="207"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">Tesztelés</translation>
+        <translation>Tesztelés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
@@ -2499,7 +2500,7 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Nem választott ki Java verziót, vagy olyat választott, amely nem működik.
+        <translation>Nem választott ki Java verziót, vagy olyat választott, amely nem működik.
 %1 nem tudja elindítani a Minecraftot.
 Java nélkül kívánod folytatni a játékot?
 
@@ -2560,7 +2561,7 @@ A Java verziót később a beállításokban megváltoztathatja.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished">Még nincs működő Java beállítása, vagy eltűnt.
+        <translation>Még nincs működő Java beállítása, vagy eltűnt.
 Kérjük, válasszon egyet a következők közül, vagy keressen egy java futtatható fájlt.</translation>
     </message>
 </context>
@@ -2649,7 +2650,7 @@ Kérjük, válasszon egyet a következők közül, vagy keressen egy java futtat
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="222"/>
         <source>Play demo?</source>
-        <translation type="unfinished">Demo játszása?</translation>
+        <translation>Demo indítása?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="223"/>
@@ -2657,7 +2658,7 @@ Kérjük, válasszon egyet a következők közül, vagy keressen egy java futtat
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished">Ez a fiók nem tulajdonosa a Minecraftnak.
+        <translation>Ez a fiók nem tulajdonosa a Minecraftnak.
 Először meg kell vásárolnod a játékot, hogy játszhass vele.
 
 Szeretnél játszani a demóval?</translation>
@@ -2665,7 +2666,7 @@ Szeretnél játszani a demóval?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="225"/>
         <source>Play Demo</source>
-        <translation type="unfinished">Demo játszása</translation>
+        <translation>Demo indítása</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="226"/>
@@ -2807,18 +2808,18 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="17"/>
         <source>Accessing Mojang services.</source>
-        <translation type="unfinished">Csatlakozás a Mojang szolgáltatásokhoz.</translation>
+        <translation>Csatlakozás a Mojang szolgáltatásokhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished">Nem sikerült megszerezni a Minecraft hozzáférési tokent: %1</translation>
+        <translation>Nem sikerült megszerezni a Minecraft hozzáférési tokent: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="84"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished">Nem sikerült elemezni a Minecraft hozzáférési token válaszát.</translation>
+        <translation>Nem sikerült elemezni a Minecraft hozzáférési token válaszát.</translation>
     </message>
 </context>
 <context>
@@ -2826,12 +2827,12 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished">Funkciók</translation>
+        <translation>Funkciók</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation type="unfinished">Beállítások frissítése</translation>
+        <translation>Beállítások frissítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
@@ -2923,7 +2924,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished">Modok</translation>
+        <translation>Modok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -2938,22 +2939,22 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt; Figyelem&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: A mod metaadatok letiltása letilthatja a QoL néhány közelgő funkcióját is, például a mod frissítést! &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Lapos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Legacy</source>
-        <translation type="unfinished">Hagyományos</translation>
+        <translation>Hagyományos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyedi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
@@ -2991,7 +2992,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Mutassa a konzolt, amíg a játék fut?</translation>
+        <translation>Mutassa a konzolt, amíg a játék fut?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="402"/>
@@ -3003,7 +3004,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Mutassa a konzolt amikor a játék összeomlik?</translation>
+        <translation>Mutassa a konzolt amikor a játék összeomlik?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="419"/>
@@ -3036,7 +3037,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Egy olyan példány mappát próbálsz megadni, amelynek az elérési útja legalább egy &apos;!&apos;-t tartalmaz. A Java közismerten problémákat okoz, ha ez a helyzet, a példányok (valószínűleg) nem fognak elindulni!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
@@ -3049,7 +3050,10 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egy olyan példány mappát próbálsz megadni, amelyet ideiglenesen a Flatpakon keresztül adtál meg.
+Ez köztudottan problémákat okoz. Egy újraindítás után az indítóprogram megszakadhat, mert már nem fér hozzá az adott könyvtárhoz.
+
+A PolyMC hozzáférésének biztosítása a Flatseal-on keresztül ajánlott.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
@@ -3087,7 +3091,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="101"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az indítókönyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
@@ -3099,13 +3103,13 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Nem indítható el a Minecraft!</translation>
+        <translation>Nem indítható el a Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="211"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="225"/>
         <source>Game crashed.</source>
-        <translation type="unfinished">A játék kicrashelt.</translation>
+        <translation>A játék kicrashelt.</translation>
     </message>
 </context>
 <context>
@@ -3190,7 +3194,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="156"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">Nem sikerült a kicsomagolt Minecraft mozgatása!</translation>
+        <translation>Nem sikerült a kicsomagolt Minecraft mozgatása!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="223"/>
@@ -3353,7 +3357,7 @@ Ezt a problémát kézzel kell javítania.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -3406,7 +3410,7 @@ Indok:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Töltsd fel a naplót a paste.ee-ra - online marad egy hónapig</translation>
+        <translation>Töltsd fel a naplót a paste.ee-ra - online marad egy hónapig</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -3508,12 +3512,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Oldal megnyitása és kód kimásolása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; Kérjük, nyissa meg a(z) %1 linket egy böngészőben, és tegye be a(z) &lt;b&gt;%2&lt;/b&gt; kódot a bejelentkezés folytatásához. &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -3521,37 +3525,37 @@ Indok:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
         <source>Logging in with Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bejelentkezés Microsoft-fiókkal.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Microsoft-felhasználók hitelesítése nem sikerült – az ügyfélazonosítás megváltozott.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="128"/>
         <source>Got </source>
-        <translation type="unfinished"></translation>
+        <translation>Van </translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Microsoft felhasználói hitelesítés hálózati hibával végződött.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="139"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Microsoft felhasználói hitelesítés sikertelen - a felhasználó már nem létezik.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="144"/>
         <source>Microsoft user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Microsoft felhasználói hitelesítés sikertelen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="149"/>
         <source>Microsoft user authentication completed with an unrecognized result.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Microsoft felhasználói hitelesítés nem felismert eredménnyel zárult.</translation>
     </message>
 </context>
 <context>
@@ -3757,7 +3761,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mátrix tér</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
@@ -3767,7 +3771,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="378"/>
@@ -3782,7 +3786,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="397"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miáúú</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="405"/>
@@ -3823,18 +3827,18 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.cpp" line="555"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;súgó</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="556"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="563"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>A %1 wiki megnyitása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
         <source>%1 &amp;News</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 &amp;Hírek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="624"/>
@@ -3859,7 +3863,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
@@ -3869,7 +3873,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="675"/>
@@ -3899,7 +3903,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
@@ -3909,7 +3913,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+M</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
@@ -3929,7 +3933,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="730"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="735"/>
@@ -3939,7 +3943,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
@@ -3949,7 +3953,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="745"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
@@ -4102,7 +4106,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1202"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1220"/>
@@ -4122,7 +4126,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1316"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1331"/>
@@ -4132,7 +4136,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1335"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
@@ -4260,12 +4264,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="15"/>
         <source>Checking for migration eligibility.</source>
-        <translation type="unfinished"></translation>
+        <translation>A migrálásra való jogosultság ellenőrzése.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MigrationEligibilityStep.cpp" line="44"/>
         <source>Got migration flags</source>
-        <translation type="unfinished"></translation>
+        <translation>Migrációs jelzők vannak</translation>
     </message>
 </context>
 <context>
@@ -4276,7 +4280,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
 </context>
 <context>
@@ -4309,7 +4313,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="880"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -4336,7 +4340,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
 </context>
 <context>
@@ -4350,19 +4354,19 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Indítsa el a Minecraft-ot maximalizálva?</translation>
+        <translation>Indítsa el a Minecraft-ot maximalizálva?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished">Ablak ma&amp;gasság:</translation>
+        <translation>Ablak &amp;magasság:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished">A&amp;blak szélesség:</translation>
+        <translation>Ablak &amp;szélesség:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -4373,48 +4377,48 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
         <source>Use system installation of &amp;GLFW</source>
         <oldsource>Use system installation of GLFW</oldsource>
-        <translation type="unfinished">Használja a GLFW rendszer telepítését</translation>
+        <translation>Használja a GLFW rendszer telepítését</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="130"/>
         <source>Use system installation of &amp;OpenAL</source>
         <oldsource>Use system installation of OpenAL</oldsource>
-        <translation type="unfinished">Használja az OpenAL rendszer telepítését</translation>
+        <translation>Használja az OpenAL rendszer telepítését</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Performance</source>
-        <translation type="unfinished">Teljesítmény</translation>
+        <translation>Teljesítmény</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Engedélyezd a Feral Interactive GameMode-ját, hogy potenciálisan javíthasd a játékteljesítményt. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="149"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral GameMode engedélyezése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Engedélyezze a MangoHud fejlett teljesítményátfedését. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="159"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHud engedélyezése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="166"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; Az elsődleges GPU helyett a különálló GPU-t használja. &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="169"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Különálló GPU használata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -4442,7 +4446,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Egyéb</translation>
+        <translation>Egyéb</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -4524,17 +4528,17 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished">A Minecraft Java profil beszerzése sikertelen: %1</translation>
+        <translation>A Minecraft Java profil beszerzése sikertelen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="89"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished">A Minecraft Java-profil válasza nem értelmezhető</translation>
+        <translation>A Minecraft Java-profil válasza nem értelmezhető</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="101"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished">A Minecraft Java profil beszerzése sikerült.</translation>
+        <translation>A Minecraft Java profil beszerzése sikerült.</translation>
     </message>
 </context>
 <context>
@@ -4555,7 +4559,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="99"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Modok letöltésének megerősítése</translation>
     </message>
 </context>
 <context>
@@ -4570,7 +4574,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod letöltés</translation>
+        <translation>Mod letöltés</translation>
     </message>
 </context>
 <context>
@@ -4784,12 +4788,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Az összes kiválasztott mod naprakész! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítés-ellenőrző</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
@@ -4907,7 +4911,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="279"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="281"/>
@@ -4917,7 +4921,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="283"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -4926,12 +4930,12 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="235"/>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="238"/>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="235"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hálózati hiba történt. Nem sikerült betölteni a modokat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="242"/>
@@ -4947,7 +4951,7 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="40"/>
         <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
+        <translation>A frissítendő modok megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="49"/>
@@ -4957,17 +4961,17 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="50"/>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Csak a kipipált modok lesznek lefrissítve!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod név: %1&lt;br&gt;Fájlnév: %2&lt;br&gt;Ok: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>A metaadatok létrehozása sikertelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
@@ -5024,7 +5028,7 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="334"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem található érvényes verzió a kiválasztott modszolgáltató(k)on</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
@@ -5125,7 +5129,7 @@ Kérjük, frissítse a következőt: %1</translation>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="306"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="309"/>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="306"/>
@@ -5222,12 +5226,12 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Kiválasztott verzió:</translation>
+        <translation>Kiválasztott verzió:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
@@ -5259,32 +5263,32 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
         <source>Donate information: </source>
-        <translation type="unfinished">Támogatási információk: </translation>
+        <translation>Támogatási információk: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="263"/>
         <source>External links:</source>
-        <translation type="unfinished">Külső linkek:</translation>
+        <translation>Külső linkek:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problémák: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problémák: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Forráskód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Forráskód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
@@ -5295,7 +5299,7 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
         <source>Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -5303,7 +5307,7 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="32"/>
         <source>Making attempt #%1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kísérlet #%1 a %2-ből</translation>
     </message>
 </context>
 <context>
@@ -5464,17 +5468,17 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished">Felhasználónév</translation>
+        <translation>Felhasználónév</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>A 16 karakternél hosszabb felhasználónevek nem használhatók LAN-játékokban vagy offline módú szervereken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Hosszú felhasználónevek engedélyezése</translation>
     </message>
 </context>
 <context>
@@ -5482,12 +5486,12 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="9"/>
         <source>Creating offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline fiók létrehozása.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="17"/>
         <source>Created offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline fiók létrehozva.</translation>
     </message>
 </context>
 <context>
@@ -5523,7 +5527,7 @@ Kérjük, frissítse a következőt: %1</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Töltsd fel a naplót a paste.ee-ra - online marad egy hónapig.</translation>
+        <translation>Töltsd fel a naplót a paste.ee-ra - online marad egy hónapig.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -5647,30 +5651,31 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="159"/>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hálózati hiba: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="166"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba: A(z) %1 váratlan állapotkódot adott vissza%2%3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="187"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="214"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="243"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba: A(z) %1 helytelenül formázott választörzset adott vissza</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="206"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba: A(z) %1 hibát adott vissza: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="234"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba: A%1 hibakódot a következő hibakóddal adta vissza: %2
+Hibaüzenet: %3</translation>
     </message>
 </context>
 <context>
@@ -5678,22 +5683,22 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az alapértelmezett beillesztési szolgáltatás mclo.gs-re változott, kérjük, válassza ki, mit szeretne tenni a beállításokkal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation type="unfinished"></translation>
+        <translation>Új alapértelmezett szolgáltatás használata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>A korábbi beállítások megtartása</translation>
     </message>
 </context>
 <context>
@@ -5789,24 +5794,26 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="14"/>
         <source>Choose Minecraft name</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft neved kiválasztása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.ui" line="26"/>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>Csak még egy lépést kell megtenned, hogy ezen a fiókon tudj Minecraftot játszani.
+
+Gondosan válassza ki a nevét:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>A név túl rövid - 3 és 16 karakter közötti hosszúságúnak kell lennie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) %1 nevű Minecraft-profil már létezik.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
@@ -5816,17 +5823,17 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
         <source>Unhandled profile name status: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem kezelt profilnév állapota: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="194"/>
         <source>Failed to check name availability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült ellenőrizni a név elérhetőségét.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="271"/>
         <source>The server returned the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation>A szerver a következő hibát adta vissza:</translation>
     </message>
 </context>
 <context>
@@ -5839,7 +5846,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
         <source>Global Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Globális feladatállapot...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="50"/>
@@ -5862,7 +5869,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez csak az indítóprogramra vonatkozik. A Minecraft nem fogadja el a proxy beállításokat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -5888,13 +5895,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOC&amp;KS5</translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished">H&amp;TTP</translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
@@ -5911,18 +5918,18 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">Felhasználónév:</translation>
+        <translation>&amp;Felhasználónév:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">Jelszó:</translation>
+        <translation>&amp;Jelszó:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjegyzés: A proxy felhasználónevet és jelszót egyszerű szövegben tároljuk az indító konfigurációs fájljában!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
@@ -5970,7 +5977,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Weboldal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="73"/>
@@ -5985,7 +5992,7 @@ Choose your name carefully:</source>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Közreműködők</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="100"/>
@@ -5996,7 +6003,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="122"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (használatban)</translation>
+        <translation>%1 (használatban)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="64"/>
@@ -6022,13 +6029,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="295"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">A megadott java bináris nem indult megfelelően.&lt;br /&gt;</translation>
+        <translation>A megadott java bináris nem indult megfelelően.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="307"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">A megadott java bináris visszatért nem várt eredményekkel:&lt;br /&gt;</translation>
+        <translation>A megadott java bináris visszatért nem várt eredményekkel:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="318"/>
@@ -6067,12 +6074,12 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>A &apos;minimumLauncherVersion&apos; értéke ennél a verziónál (%1) magasabb, mint amit %3 (%2) támogat. Lehet, hogy nem működik megfelelően!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) %1 könyvtár neve megszakadt, és nem dolgozható fel.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
@@ -6146,7 +6153,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Offline&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="352"/>
@@ -6162,13 +6169,15 @@ Choose your name carefully:</source>
         <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült kicserélni a %1 fájlt. A változtatásokat visszaállítjuk.
+A részletekért lásd a %2 naplófájlt.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="368"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült eltávolítani a(z) %1 fájlt. A módosítások vissza lesznek állítva.
+A részletekért tekintse meg a(z) %2 naplófájlt.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="378"/>
@@ -6184,7 +6193,9 @@ Vissza az előző verzióra?</translation>
         <source>The rollback failed too.
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
-        <translation type="unfinished"></translation>
+        <translation>A visszaállítás is sikertelen volt.
+A %1-et manuálisan kell javítania.
+Kérjük, tájékoztasson minket, hogy miért és hogyan történt ez.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
@@ -6223,7 +6234,8 @@ Ez az üzenet addig jelenik meg, amíg nem távolítja el őket a JVM argumentum
         <location filename="src/launcher/JavaCommon.cpp" line="59"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Megpróbálta átadni a szükséges Java-verzió argumentumot a JVM-nek (a &quot;-version:xxx&quot; használatával). Ez nem biztonságos, és nem lesz megengedett.
+Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumokból.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
@@ -6245,13 +6257,13 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">A megadott java-bináris nem működött.&lt;br /&gt;Az automatikus észlelési funkciót kell használnia, vagy állítsa be a java-futtatható fájl elérési útját.&lt;br /&gt;</translation>
+        <translation>A megadott java-bináris nem működött.&lt;br /&gt;Az automatikus észlelési funkciót kell használnia, vagy állítsa be a java-futtatható fájl elérési útját.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java-ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
+        <translation>Java-ellenőrző könyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -6300,7 +6312,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs(enek) szerző(k)</translation>
     </message>
 </context>
 <context>
@@ -6354,7 +6366,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="30"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlnév: %1</translation>
     </message>
 </context>
 <context>
@@ -6569,7 +6581,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>%1 Quick Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Gyorsbeállítás</translation>
     </message>
 </context>
 <context>
@@ -6752,7 +6764,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nem sikerült megérteni a csomag manifesztet:
+        <translation>Nem sikerült megérteni a csomag manifesztet:
 </translation>
     </message>
     <message>
@@ -6773,7 +6785,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="222"/>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">A példány importálása megszakadt.</translation>
+        <translation>A példány importálása megszakadt.</translation>
     </message>
 </context>
 <context>
@@ -6781,51 +6793,53 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem lehet megnyitni a &quot;bin/modpack.jar&quot; fájlt!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="68"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem lehet megnyitni az &quot;fmlversion.properties&quot; fájlt!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="82"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="137"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem lehet megnyitni a &quot;version.json&quot; fájlt!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nem található a &quot;version.json&quot; fájl a &quot;bin/modpack.jar&quot; között, de a Minecraft verzió ismeretlen</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem lehet megnyitni a &quot;forgeversion.properties&quot; fájlt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Érvénytelen &quot;forgeversion.properties&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="146"/>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem található a &quot;version.json&quot; fájl!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="159"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült értelmetni &quot;version.json&quot; fájlt:
+inheritsFrom hiányzik</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="209"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült megérteni a &quot;version.json&quot; fájlt:
+</translation>
     </message>
 </context>
 <context>
@@ -6940,7 +6954,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished">PolyMC frissítés</translation>
+        <translation>PolyMC frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -7024,7 +7038,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod Betöltő</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
@@ -7034,22 +7048,22 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabrik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
@@ -7370,12 +7384,12 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
         <source>No intermediary mappings versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jelenleg nem érhetők el köztes leképezési verziók.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="401"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült betölteni vagy letölteni a közvetítő leképezések verziólistáit!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
@@ -7811,12 +7825,12 @@ Folytatni akarja?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
         <source>Could not parse authorization response for access to %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült elemezni a(z) %1 szolgáltatásokhoz való hozzáférés engedélyezési válaszát.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="101"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>A kiszolgáló módosította a (z) %1 engedélyezési felhasználói kivonatot a válaszban. Valami nincs rendben.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="108"/>
@@ -7826,36 +7840,40 @@ Folytatni akarja?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="124"/>
         <source>Cannot parse %1 authorization error response as JSON: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem lehet elemezni a(z) %1 engedélyezési hibaválasz json-ként: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="134"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az XErr elem hiányzik a(z) %1 engedélyezési hibaválaszból.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a Microsoft-fiók nem rendelkezik XBox Live profillal. Előbb vegye meg a játékot a %1-en.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az XBox Live nem érhető el az Ön országában. Letiltottak.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a Microsoft-fiók kiskorú, és nincs családhoz kapcsolva.
+
+Kérjük, állítsa be fiókját a %1 szerint.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="166"/>
         <source>XSTS authentication ended with unrecognized error(s):
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Az XSTS-hitelesítés ismeretlen hibával (hibákkal) végződött:
+
+%1</translation>
     </message>
 </context>
 <context>
@@ -7898,7 +7916,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>Got Xbox user token</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox felhasználói token megszerezve</translation>
     </message>
 </context>
 <context>
@@ -7906,27 +7924,27 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="188"/>
         <source>Authentication server didn&apos;t send a client token.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hitelesítési szerver nem küldött kliens tokent.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="195"/>
         <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hitelesítési kiszolgáló megpróbálta megváltoztatni az ügyfél tokent. Ez nem támogatott.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="204"/>
         <source>Authentication server didn&apos;t send an access token.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hitelesítési szerver nem küldött hozzáférési tokent.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hitelesítési kiszolgáló nem küldött kiválasztott profilt.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hitelesítési szerver nem küldött UUID-t a kiválasztott profilban.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
@@ -7941,32 +7959,32 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL Handshake sikertelen.&lt;/b&gt;&lt;br/&gt;Ennek több oka is lehet:&lt;br/&gt;&lt;ul&gt;&lt;li&gt; Ön Windows-t használ, és frissítenie kell a gyökértanúsítványait, kérjük, telepítse a még hiányzó frissítéseket.&lt;/li&gt;&lt;li&gt;Valamelyik eszköz a hálózatán zavarja az SSL-forgalmat. Ebben az esetben nagyobb gondjai is vannak, mint hogy a Minecraft nem indul el.&lt;/li&gt;&lt;li&gt;Lehetséges, hogy valami más. Nézze meg a naplófájlt a részletekért&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Mojang-fiók már nem létezik. Lehet, hogy microsoftos fiókba települt át.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>A hitelesítési művelet hálózati hiba miatt meghiúsult: %1 (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült elemezni a hitelesítési kiszolgáló válaszának JSON-válaszát: %1 eltolásnál%2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismeretlen hiba lépett fel a hitelesítési kiszolgálóval való kommunikáció során: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egy ismeretlen Yggdrasil hiba történt.</translation>
     </message>
 </context>
 <context>
