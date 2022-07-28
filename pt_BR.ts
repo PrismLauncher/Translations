@@ -1395,7 +1395,7 @@ Por favor, tente novamente.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="12"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="19"/>
         <source>Resolving mod IDs...</source>
         <translation>Resolvendo IDs do mod...</translation>
     </message>
@@ -5189,41 +5189,79 @@ Por favor atualize o %1!</translation>
 <context>
     <name>ModpacksCH::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="81"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="70"/>
+        <source>Aborted</source>
+        <translation type="unfinished">Cancelado</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="77"/>
+        <source>Getting the manifest...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
         <translation>Falha ao buscar a versão %1 do modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="122"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Não foi possível entender o manifesto do modpack:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="133"/>
+        <source>Resolving mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="144"/>
+        <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="204"/>
+        <source>Blocked files found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="220"/>
         <source>Downloading mods...</source>
         <translation>Baixando mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="134"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="222"/>
         <source>Mod download</source>
         <translation>Download do mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="185"/>
-        <source>Copying modpack files</source>
-        <translation>Copiando arquivos do modpack</translation>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="271"/>
+        <source>Copying modpack files...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="193"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="292"/>
+        <source>Installing modpack...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copying modpack files</source>
+        <translation type="vanished">Copiando arquivos do modpack</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="284"/>
         <source>Failed to copy files</source>
         <translation>Falha ao copiar arquivos</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="198"/>
         <source>Installing modpack</source>
-        <translation>Instalando modpack</translation>
+        <translation type="vanished">Instalando modpack</translation>
     </message>
 </context>
 <context>
