@@ -5022,7 +5022,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="210"/>
         <source>Cannot select invalid version :(</source>
-        <translation>Невозможно выбрать неверную версию :(</translation>
+        <translation>Неподходящую версию выбрать не получится :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="229"/>
