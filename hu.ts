@@ -233,7 +233,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Egy egyedi launcher/indítóprogram, amely megkönnyíti a Minecraft kezelését azáltal, hogy egyszerre több Minecraft példányt is létrehozhatsz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Egy egyedi launcher, amely megkönnyíti a Minecraft kezelését azáltal, hogy egyszerre több Minecraft példányt is létrehozhatsz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -744,7 +744,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Figyelem: Ez még folyamatban lévő munka. Ha problémákba ütközik az importált modpackkal, akkor az hiba lehet.</translation>
+        <translation>Figyelem: Ez még fejlesztés alatt van. Ha problémákba ütközik az importált modpack-kel kapcsolatban, akkor az egy bug lehet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -977,7 +977,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítás előtti parancs a példány indítása előtt, a kilépés utáni parancs pedig a példány becsukódása után fut le.&lt;/p&gt;&lt;p&gt;Mindkettő az indító munkamappájában fog futni extra környezeti változókkel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME – a példány neve&lt;/li&gt;&lt;li&gt;$INST_ID – a példány azonosítója (mappa neve)&lt;/li&gt;&lt;li&gt;$INST_DIR – a példány abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - a Minecraft abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_JAVA - Az indításhoz használt Java bináris fájl&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - az indításhoz használt parancssori paraméterek (figyelmeztetés: nem működik megfelelően, ha az argumentumok szóközt tartalmaznak)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A Wrapper parancs lehetővé teszi az indítást egy extra wrapper program használatával (például &quot;optirun&quot; Linuxon)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítás előtti parancs a példány indítása előtt, a kilépés utáni parancs pedig a példány becsukódása után fut le.&lt;/p&gt;&lt;p&gt;Mindkettő az launcher munkamappájában fog futni extra környezeti változókkel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME – a példány neve&lt;/li&gt;&lt;li&gt;$INST_ID – a példány azonosítója (mappa neve)&lt;/li&gt;&lt;li&gt;$INST_DIR – a példány abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - a Minecraft abszolút elérési útja&lt;/li&gt;&lt;li&gt;$INST_JAVA - Az indításhoz használt Java bináris fájl&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - az indításhoz használt parancssori paraméterek (figyelmeztetés: nem működik megfelelően, ha az argumentumok szóközt tartalmaznak)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A Wrapper parancs lehetővé teszi az indítást egy extra wrapper program használatával (például &quot;optirun&quot; Linuxon)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2084,7 +2084,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Ha engedélyezve van, az indítóprogram nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java-verzióval.</translation>
+        <translation>Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java-verzióval.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
@@ -2179,12 +2179,12 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation>Az indítóprogram bezárása a játékablak megnyitása után</translation>
+        <translation>Launcher bezárása a játékablak megnyitása után</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation>Kilépés az indítóprogramból a játékablak bezárása után</translation>
+        <translation>Kilépés a launcherből a játékablak bezárása után</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -2451,17 +2451,17 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Ha engedélyezve van, az indítóprogram nem kéri a Java-verzió kiválasztását, ha nem található.</translation>
+        <translation>Ha engedélyezve van, a launcher nem kéri a Java-verzió kiválasztását, ha nem található.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation>A Java &amp;varázsló kihagyása</translation>
+        <translation>Java &amp;varázsló kihagyása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Ha engedélyezve van, az indítóprogram nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java-verzióval.</translation>
+        <translation>Ha engedélyezve van, a launcher nem ellenőrzi, hogy egy példány kompatibilis-e a kiválasztott Java-verzióval.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
@@ -2696,7 +2696,7 @@ Szeretnél játszani a demóval?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>Az indító ügyfélazonosítója megváltozott. Kérjük, távolítsa el ezt a fiókot, és adja hozzá újra.</translation>
+        <translation>Az launcher ügyfélazonosítója megváltozott. Kérjük, távolítsa el ezt a fiókot, és adja hozzá újra.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="280"/>
@@ -2733,7 +2733,7 @@ Szeretnél játszani a demóval?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="320"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation>Nem sikerült megnyitni egy indítót.</translation>
+        <translation>Nem sikerült megnyitni a launchert.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="384"/>
@@ -3051,7 +3051,7 @@ This is known to cause problems. After a restart the launcher might break, becau
 
 Granting PolyMC access to it via Flatseal is recommended.</source>
         <translation>Egy olyan példány mappát próbálsz megadni, amelyet ideiglenesen a Flatpakon keresztül adtál meg.
-Ez köztudottan problémákat okoz. Egy újraindítás után az indítóprogram megszakadhat, mert már nem fér hozzá az adott könyvtárhoz.
+Ez köztudottan problémákat okoz. Egy újraindítás után a launcher elromolhat, mert már nem fér hozzá az adott könyvtárhoz.
 
 A PolyMC hozzáférésének biztosítása a Flatseal-on keresztül ajánlott.</translation>
     </message>
@@ -3091,7 +3091,7 @@ A PolyMC hozzáférésének biztosítása a Flatseal-on keresztül ajánlott.</t
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="101"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>Az indítókönyvtár nem található. Kérjük, ellenőrizze a telepítést.</translation>
+        <translation>A launcher könyvtára nem található. Kérjük, ellenőrizze a telepítést.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
@@ -3577,7 +3577,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="649"/>
         <source>Launch the selected instance.</source>
-        <translation>Indítsa el a kiválasztott példányt.</translation>
+        <translation>Kiválasztott példány indítása.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="421"/>
@@ -3761,7 +3761,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
         <source>&amp;Matrix Space</source>
-        <translation>&amp;Mátrix Space</translation>
+        <translation>&amp;Matrix Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
@@ -3995,7 +3995,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="688"/>
         <source>View the worlds of this instance.</source>
-        <translation>Ennek a példány világainak megnézése.</translation>
+        <translation>Kiválasztott példány világainak megtekintése.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -4004,7 +4004,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
         <source>View and upload screenshots for this instance.</source>
-        <translation>E példány képernyőképeinek megnézése és feltöltése.</translation>
+        <translation>Kiválasztott példány képernyőképeinek megtekintése és feltöltése.</translation>
     </message>
     <message>
         <source>Change Group</source>
@@ -4032,7 +4032,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="714"/>
         <source>Open the instance&apos;s config folder.</source>
-        <translation>Példány konfigurációs mappájának megnyitása.</translation>
+        <translation>Kiválasztott példány konfigurációs mappájának megnyitása.</translation>
     </message>
     <message>
         <source>Instance Folder</source>
@@ -4050,7 +4050,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation>Exportálja a kiválasztott példányt zip fájlként.</translation>
+        <translation>Kiválasztott példány exportálása zip fájlként.</translation>
     </message>
     <message>
         <source>Delete Instance</source>
@@ -4452,25 +4452,25 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítóprogram automatikusan újra megnyílik, ha a játék összeomlik vagy kilép.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A launcher automatikusan újra megnyílik, ha a játék összeomlik vagy kilép.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="218"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>Az indítóprogram bezárása a játékablak megnyitása után</translation>
+        <translation>Launcher bezárása a játékablak megnyitása után</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically quit after the game exits or crashes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically exit if the game crashes or exists.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Az indítóprogram automatikusan bezárul, ha a játékot bezárják vagy összeomlik.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A launcher automatikusan bezárul, ha a játékot bezárják vagy összeomlik.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>Kilépés az indítóprogramból a játékablak bezárása után</translation>
+        <translation>Kilépés a launcherből a játékablak bezárása után</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -5813,7 +5813,7 @@ Hibaüzenet: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>Csak ennek a példánynak használja alapértelmezettként?</translation>
+        <translation>Csak ehhez a példányhoz használja alapértelmezettként?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
@@ -5907,7 +5907,7 @@ Gondosan válassza ki a nevét:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>Ez csak az indítóprogramra vonatkozik. A Minecraft nem fogadja el a proxy beállításokat.</translation>
+        <translation>Ez csak az launcherre vonatkozik. A Minecraft nem fogadja el a proxy beállításokat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -5967,7 +5967,7 @@ Gondosan válassza ki a nevét:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Megjegyzés: A proxy felhasználónevet és jelszót egyszerű szövegben tároljuk az indító konfigurációs fájljában!</translation>
+        <translation>Megjegyzés: A proxy felhasználónevet és jelszót egyszerű szövegben tároljuk a launcher konfigurációs fájljában!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
@@ -7091,7 +7091,7 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation>Fabrik</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
