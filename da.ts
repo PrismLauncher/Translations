@@ -396,7 +396,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft brugernavn knyttet til kontoen.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -505,7 +505,7 @@ Hvis du er ny her, kan du klikke på &quot;Tilføj&quot;-knappen for at tilføje
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der blev ikke angivet noget Microsoft Authentication klient-id.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -529,7 +529,9 @@ Hvis du er ny her, kan du klikke på &quot;Tilføj&quot;-knappen for at tilføje
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-konti kan kun bruges på macOS 10.13 eller nyere med fuldt opdateret %1.
+
+Du bedes opdatere både dit operativsystem og %1.</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
