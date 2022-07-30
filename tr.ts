@@ -2043,7 +2043,7 @@ Lütfen tekrar deneyin.</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="173"/>
+        <location filename="src/launcher/InstanceList.cpp" line="170"/>
         <source>%1 Instance</source>
         <translation>%1 Profili</translation>
     </message>
@@ -2316,7 +2316,7 @@ Lütfen tekrar deneyin.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="856"/>
+        <location filename="src/launcher/InstanceList.cpp" line="817"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Birden fazla denemeye rağmen, profil gönderimi başarısız. Görünen o ki bir şey onu engelliyor.</translation>
     </message>
@@ -3601,22 +3601,22 @@ Sebep:
         <translation type="vanished">Durdur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="662"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Kill the running instance</source>
         <translation>Çalışan profili durdur</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1199"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
         <source>Launch</source>
         <translation>Çalıştır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="649"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
         <source>Launch the selected instance.</source>
         <translation>Seçili profili çalıştır.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="421"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="432"/>
         <source>Main Toolbar</source>
         <translation>Ana Araç Çubuğu</translation>
     </message>
@@ -3625,39 +3625,44 @@ Sebep:
         <translation type="vanished">Profil Ekle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="294"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
         <source>Add a new instance.</source>
         <translation>Yeni profil ekle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="304"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
         <translation>&amp;Profil Klasörünü Göster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="302"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="305"/>
         <source>Open the instance folder in a file browser.</source>
         <translation>Profil klasörünü dosya tarayıcısında aç.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="308"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="311"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
         <translation>Merkezi Mod Klasörünü Göster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>Merkezi mod klasörünü dosya tarayıcısında aç.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="857"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
+        <source>Dele&amp;te Instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
         <source>Folders</source>
         <translation>Klasörler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="321"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="324"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>Profiller arasında paylaştırılan klasörlerden birisini aç.</translation>
     </message>
@@ -3666,7 +3671,7 @@ Sebep:
         <translation type="vanished">Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>Change settings.</source>
         <translation>Ayarları değiştir.</translation>
     </message>
@@ -3675,12 +3680,12 @@ Sebep:
         <translation type="vanished">Bir Hata Bildir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="343"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>%1&apos;ye sorun bildirmek için hata izleyiciyi aç.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="352"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
         <source>Open %1 Matrix space</source>
         <translation>%1 Matrix alanı aç</translation>
     </message>
@@ -3695,7 +3700,7 @@ Sebep:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="370"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Open %1 subreddit.</source>
         <translation>%1 subreddit&apos;ini aç.</translation>
     </message>
@@ -3704,18 +3709,18 @@ Sebep:
         <translation type="vanished">%1 Hakkında</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="379"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
         <source>View information about %1.</source>
         <translation>%1 hakkındaki bilgileri görüntüle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="455"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="858"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="466"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="873"/>
         <source>Help</source>
         <translation>Yardım</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="467"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>%1 veya Minecraft hakkında yardım al.</translation>
     </message>
@@ -3724,7 +3729,7 @@ Sebep:
         <translation type="vanished">Güncelle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="388"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
         <source>Check for new updates for %1.</source>
         <translation>%1 için güncellemeleri kontrol et.</translation>
     </message>
@@ -3733,7 +3738,7 @@ Sebep:
         <translation type="vanished">Miyav</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="398"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>Ne kadar da dadlı bir kedi :3</translation>
     </message>
@@ -3742,266 +3747,275 @@ Sebep:
         <translation type="vanished">Hesapları Yönet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="616"/>
         <source>News Toolbar</source>
         <translation>Haberler Alet Çubuğu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="621"/>
         <source>More news...</source>
         <translation>Daha fazla haber...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="622"/>
         <source>Open the development blog to read more news about %1.</source>
         <translation>Geliştirme bloğunu açarak %1 hakkında daha fazla haber oku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="764"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="779"/>
         <source>Instance Toolbar</source>
         <translation>Profil Araç Çubuğu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="637"/>
         <source>Change Icon</source>
         <translation>İkonu Değiştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="661"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="675"/>
         <source>&amp;Kill</source>
         <translation>&amp;Öldür</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="648"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="662"/>
         <source>&amp;Launch</source>
         <translation>&amp;Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="296"/>
         <source>Add Instanc&amp;e...</source>
         <translation>Oturum ekl&amp;e...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="313"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="320"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="316"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="323"/>
         <source>F&amp;olders</source>
         <translation>D&amp;osyalar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="336"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation>Ayarlar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="342"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="344"/>
+        <source>&amp;Undo Last Instance Deletion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="353"/>
         <source>Report a &amp;Bug...</source>
         <translation>Bir hata &amp;raporla...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="362"/>
         <source>&amp;Matrix Space</source>
         <translation>&amp;Matrix Alanı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discord Grubu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <source>Sub&amp;reddit</source>
         <translation>&amp;Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="378"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="389"/>
         <source>&amp;About %1</source>
         <translation>&amp;%1 Hakkında</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="387"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="398"/>
         <source>&amp;Update...</source>
         <translation>&amp;Güncelle...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="397"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="408"/>
         <source>&amp;Meow</source>
         <translation>&amp;Miyav</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="405"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="416"/>
         <source>&amp;Manage Accounts...</source>
         <translation>&amp;Hesapları Yönet...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="485"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="496"/>
         <source>&amp;File</source>
         <translation>&amp;Dosya</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="511"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="522"/>
+        <source>&amp;Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="525"/>
         <source>&amp;View</source>
         <translation>&amp;Görünüm</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="532"/>
         <source>&amp;Profiles</source>
         <translation>&amp;Profiller</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="522"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="536"/>
         <source>&amp;Help</source>
         <translation>&amp;Yardım</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="547"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
         <source>Close &amp;Window</source>
         <translation>Pencereyi &amp;Kapat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="548"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
         <source>Close the current window</source>
         <translation>Şuan ki pencereyi kapa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="555"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 &amp;Yardım</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="556"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>Open the %1 wiki</source>
         <translation>%1 wikisini aç</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>%1 &amp;News</source>
         <translation>%1 &amp;Haberler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="624"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="638"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Seçili profilin ikonunu değiştir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="636"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="650"/>
         <source>Rename</source>
         <translation>Adını Değiştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="637"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Rename the selected instance.</source>
         <translation>Seçili profilin adını değiştir.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
         <source>Launch &amp;Offline</source>
         <translation>Çevrimdışı &amp;Başlat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>Edit Inst&amp;ance...</source>
         <translation>Oturumu düzenle...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="675"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
         <source>E&amp;dit Notes...</source>
         <translation>N&amp;otları düzenle...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="681"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="695"/>
         <source>View &amp;Mods</source>
         <translation>Modları &amp;Gör</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="687"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
         <source>&amp;View Worlds</source>
         <translation>&amp;Dünyalara Bak</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
         <source>Manage &amp;Screenshots</source>
         <translation>Ekran görüntülerini &amp;Yönet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="699"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>&amp;Change Group...</source>
         <translation>&amp;Grubu değiştir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="720"/>
         <source>Minec&amp;raft Folder</source>
         <translation>Minec&amp;raft Dosyası</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>Ctrl+M</source>
         <translation>Ctrl+M</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
         <source>Confi&amp;g Folder</source>
         <translation>Confi&amp;g Dosyası</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="736"/>
         <source>&amp;Instance Folder</source>
         <translation>&amp;Oturum Dosyası</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="742"/>
         <source>E&amp;xport Instance...</source>
         <translation>O&amp;turumu çıkart...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="730"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
         <source>Ctrl+E</source>
         <translation>Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="735"/>
         <source>Dele&amp;te Instance...</source>
-        <translation>Profili Si&amp;l...</translation>
+        <translation type="vanished">Profili Si&amp;l...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="751"/>
         <source>Backspace</source>
         <translation>Geridönüş</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
         <source>Cop&amp;y Instance...</source>
         <translation>Otu&amp;rumu kopyala...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="745"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="760"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1221"/>
         <source>Launch Offline</source>
         <translation>Çevrim Dışı Oyna</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="655"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Launch the selected instance in offline mode.</source>
         <translation>Seçili profili çevrim dışı modda başlat.</translation>
     </message>
@@ -4010,7 +4024,7 @@ Sebep:
         <translation type="vanished">Profili Düzenle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Profil ayarlarını, modları ve sürümleri değiştir.</translation>
     </message>
@@ -4019,7 +4033,7 @@ Sebep:
         <translation type="vanished">Notları Düzenle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="690"/>
         <source>Edit the notes for the selected instance.</source>
         <translation>Seçili profilin notlarını düzenle.</translation>
     </message>
@@ -4028,7 +4042,7 @@ Sebep:
         <translation type="vanished">Modları Görüntüle</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>View the mods of this instance.</source>
         <translation>Bu kurulumdaki modları görüntüle.</translation>
     </message>
@@ -4037,7 +4051,7 @@ Sebep:
         <translation type="vanished">Dünyaları Göster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="688"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>View the worlds of this instance.</source>
         <translation>Bu profildeki dünyaları göster.</translation>
     </message>
@@ -4046,7 +4060,7 @@ Sebep:
         <translation type="vanished">Ekran Görüntülerini Yönet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>View and upload screenshots for this instance.</source>
         <translation>Bu profil için ekran görüntülerini görüntüle ve yükle.</translation>
     </message>
@@ -4055,7 +4069,7 @@ Sebep:
         <translation type="vanished">Grubu Değiştir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="714"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>Seçili profilin grubunu değiştir.</translation>
     </message>
@@ -4064,7 +4078,7 @@ Sebep:
         <translation type="vanished">Minecraft Klasörü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
         <oldsource>Open the selected instance&apos;s minecraft folder in a file browser.</oldsource>
         <translation>Seçili profilin Minecraft klasörünü bir dosya tarayıcısında aç.</translation>
@@ -4074,7 +4088,7 @@ Sebep:
         <translation type="vanished">Yapılandırma Klasörü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
         <source>Open the instance&apos;s config folder.</source>
         <translation>Profilin yapılandırma dosyasını aç.</translation>
     </message>
@@ -4083,7 +4097,7 @@ Sebep:
         <translation type="vanished">Profil Dosyası</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>Seçili profilin kök dizinini dosya tarayıcısında aç.</translation>
     </message>
@@ -4092,7 +4106,7 @@ Sebep:
         <translation type="vanished">Profili İçe Aktar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
         <source>Export the selected instance as a zip file.</source>
         <translation>Seçili profili zip dosyası olarak çıkart.</translation>
     </message>
@@ -4102,7 +4116,7 @@ Sebep:
         <translation type="obsolete">Sil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="736"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
         <source>Delete the selected instance.</source>
         <translation>Seçilen profili sil.</translation>
     </message>
@@ -4111,7 +4125,7 @@ Sebep:
         <translation type="vanished">Profili Kopyala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="759"/>
         <source>Copy the selected instance.</source>
         <translation>Seçili profilli kopyala.</translation>
     </message>
@@ -4126,112 +4140,112 @@ Sebep:
         <translation type="vanished"> (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1092"/>
         <source>No instance selected</source>
         <translation>Hiçbir profil seçilmedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="957"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Total playtime: 0s</source>
         <translation>Toplam oynama süresi: 0s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1406"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1426"/>
         <source>Profiles</source>
         <translation>Profiller</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1130"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1145"/>
         <source>Create instance</source>
         <translation>Profil yarat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1146"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>&apos;%1&apos; grubunu sil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1202"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1222"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1220"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1240"/>
         <source>Profilers</source>
         <translation>Profilleyiciler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1232"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1252"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>Profilleyici doğru kurulmamış. Ayarlar&apos;dan &quot;Harici Araçlar&quot;a git.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1304"/>
         <source>No accounts added!</source>
         <translation>Hiç profil eklenmemiş!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1316"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1336"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1331"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1351"/>
         <source>No Default Account</source>
         <translation>Varsayılan Hesap Yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1335"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1355"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1446"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1466"/>
         <source>Loading news...</source>
         <translation>Haberleri yüklüyoruz...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1459"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1479"/>
         <source>No news available.</source>
         <translation>Şuanlık haber yok.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
         <source>Warnings</source>
         <translation>Uyarılar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1656"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1676"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1665"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1685"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>Bu başlatıcı, hesap eklemeden Minecraft dosyalarını indiremez veya güncelleyemez.
 Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1804"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1824"/>
         <source>Group name</source>
         <translation>Grup adı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1804"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1824"/>
         <source>Enter a new group name.</source>
         <translation>Yeni grup adı girin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1826"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1846"/>
         <source>Delete group</source>
         <translation>Grubu sil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1826"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1846"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>%1 adlı grubu silmek istediğine emin misin?</translation>
     </message>
@@ -4240,12 +4254,12 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
         <translation type="vanished">%1 adlı grubu silmek istediğine emin misin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1963"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1993"/>
         <source>CAREFUL!</source>
         <translation>DİKKAT!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1964"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1994"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -4256,56 +4270,56 @@ Bu kurulum kalıcı olarak silinecek.
 Emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2159"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2189"/>
         <source>Rename Instance</source>
         <translation>Kurulumu Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2172"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2202"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Kurulum klasörünüz &apos;!&apos; karakterini içeriyor ve Java bu karakter ile ilgili problemleriyle meşhurdur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2174"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2204"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>İki seçeneğiniz var: &lt;br/&gt; - ayarlardan kurulum klasörünü değiştir &lt;br/&gt; - %1 kurulumunu başka bir klasöre taşı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2183"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Bir sorun var: &lt;br/&gt; - Bu başlatıcı muhtemelen işletim sistemi tarafından hiçbir uyarı yapılmadan silinecek &lt;br/&gt; - başlatıcıyı kapatın ve geçici klasörler haricinde bir yere çıkartın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2190"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Kurulum klasörünüz &apos;Rar$&apos; içeriyor - bu başlatıcı arşivini açmadığınız anlamına geliyor!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2198"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2228"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Kurulum klasörünüz geçici bir klasörün içinde: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2211"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2241"/>
         <source>Total playtime: %1</source>
         <translation>Toplam Oynanan Süre: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1528"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1603"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1652"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1664"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1565"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1623"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1672"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1684"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>Open %1 Discord guild.</source>
         <translation>%1 Discord grubunu aç.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1528"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
         <translation>Güncelleme indirmeleri için dosya yaratılamadı:
