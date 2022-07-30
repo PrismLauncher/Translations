@@ -2190,7 +2190,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
         <source>Start Minecraft maximized?</source>
-        <translation>是否在启动时将 Minecraft 窗口最大化?</translation>
+        <translation>在启动时将 Minecraft 窗口最大化?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
@@ -4439,7 +4439,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>是否在启动时将 Minecraft 窗口最大化？（&amp;M）</translation>
+        <translation>在启动时将 Minecraft 窗口最大化？（&amp;M）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
