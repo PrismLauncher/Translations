@@ -3652,7 +3652,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
         <source>Dele&amp;te Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstra&amp;nit instanci</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
@@ -3799,7 +3799,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="344"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zrušit poslední odstranění instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="353"/>
@@ -3849,7 +3849,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="522"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Upravit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="525"/>
@@ -5169,12 +5169,12 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="70"/>
         <source>Aborted</source>
-        <translation type="unfinished">Přerušeno</translation>
+        <translation>Přerušeno</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Získávání manifestu...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
@@ -5191,22 +5191,22 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="133"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítání módů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="144"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatný manifest: Pro stažení souboru &apos;%1&apos; nejsou k dispozici žádné informace!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="204"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalezeny blokované soubory</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Následující soubory nejsou k dispozici ke stažení v launcherech třetích stran.&lt;br/&gt;Musíte je stáhnout ručně a přidat do instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="220"/>
@@ -5221,12 +5221,12 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="271"/>
         <source>Copying modpack files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírování souborů modpacku...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="292"/>
         <source>Installing modpack...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalace modpacku...</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
