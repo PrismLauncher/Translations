@@ -1771,12 +1771,12 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation>- Curseforge modcsomagok (ZIP fájl)</translation>
+        <translation>- Curseforge modpackok (ZIP fájl)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth modcsomagok (ZIP és mrpack fájlok)</translation>
+        <translation>- Modrinth modpackok (ZIP és mrpack fájlok)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -1786,7 +1786,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technic modcsomagok (ZIP fájl)</translation>
+        <translation>- Technic modpackok (ZIP fájl)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1807,7 +1807,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation>Modpack választása</translation>
+        <translation>Modpack kiválasztása</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -2089,7 +2089,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation>A Java-kompatibilitási ellenőrzések kihagyása</translation>
+        <translation>Java-kompatibilitási ellenőrzések kihagyása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -2256,7 +2256,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="537"/>
         <source>Override global game time settings</source>
-        <translation>A globális játékidő-beállítások felülírása</translation>
+        <translation>Globális játékidő-beállítások felülírása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="549"/>
@@ -2271,7 +2271,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="566"/>
         <source>Set a server to join on launch</source>
-        <translation>Állítson be egy szervert, amelyhez az indításkor csatlakozik</translation>
+        <translation>Indításkor csatlakozzon egy szerverhez</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="586"/>
@@ -2307,7 +2307,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="60"/>
         <source>Console window for </source>
-        <translation>Konzol ablak a következőhöz: </translation>
+        <translation>Konzol ablak: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
@@ -3651,7 +3651,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
         <source>Open %1 Matrix space</source>
-        <translation>Nyissa meg a %1 Matrix space-t</translation>
+        <translation>Nyissa meg a %1 Matrix Space-t</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -3666,7 +3666,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Open %1 subreddit.</source>
-        <translation>Nyissa meg a %1 subreddit-et.</translation>
+        <translation>Nyissa meg a %1 Subreddit-et.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
@@ -4099,7 +4099,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Total playtime: 0s</source>
-        <translation>Teljes játékidő: 0s</translation>
+        <translation>Teljes játékidő: 0 mp.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
@@ -4341,7 +4341,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="888"/>
         <source>, total played for %1</source>
-        <translation>, összes játékidő: %1</translation>
+        <translation>, játékidő a példányon: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="893"/>
@@ -5268,7 +5268,7 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Megjegyzés: A Modrinth modcsomagok még mindig alfa fázisban vannak. Előfordulhat, hogy egyes dolgok nem jól, vagy egyáltalán nem működnek! Óvatosan használja.</translation>
+        <translation>Megjegyzés: A Modrinth modpackok még mindig alfa fázisban vannak. Előfordulhat, hogy egyes dolgok nem jól, vagy egyáltalán nem működnek! Óvatosan használja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -6065,12 +6065,12 @@ Gondosan válassza ki a nevét:</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="75"/>
         <source>Upload finished</source>
-        <translation>A feltöltés befejeződött</translation>
+        <translation>Feltöltés befejeződött</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="76"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>A&lt;a href=&quot;%1&quot;&gt;hivatkozás a feltöltött naplóhoz &lt;/a&gt; a vágólapra került.</translation>
+        <translation>A &lt;a href=&quot;%1&quot;&gt;hivatkozás a feltöltött naplóhoz&lt;/a&gt; a vágólapra került.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="290"/>
@@ -6486,7 +6486,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="406"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="448"/>
         <source>Upload finished</source>
-        <translation>A feltöltés befejeződött</translation>
+        <translation>Feltöltés befejeződött</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="407"/>
@@ -7266,7 +7266,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Install the Fabric Loader package.</source>
-        <translation>A Fabric Loader csomag telepítése.</translation>
+        <translation>Telepítse a Fabric Loader csomagot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
@@ -7466,7 +7466,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation>Jelenleg nem áll rendelkezésre Forge verzió a Minecraft számára </translation>
+        <translation>Jelenleg nem érhető el Forge verzió a Minecraft számára </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="458"/>
