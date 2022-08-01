@@ -3618,7 +3618,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
         <source>Dele&amp;te Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány &amp;törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
@@ -3761,7 +3761,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="344"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Leg&amp;utóbbi példány törlésének visszavonása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="353"/>
@@ -3811,7 +3811,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="522"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sz&amp;erkesztés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="525"/>
