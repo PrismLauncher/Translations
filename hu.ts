@@ -446,7 +446,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>Alapértelmezett beállítása</translation>
+        <translation>Alapértelmezetté állítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
@@ -487,7 +487,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>Fríssítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -2261,12 +2261,12 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="549"/>
         <source>Show time spent playing this instance</source>
-        <translation>Az adott példány játékával töltött idő megjelenítése</translation>
+        <translation>Példánnyal eltöltött idő megjelenítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="556"/>
         <source>Record time spent playing this instance</source>
-        <translation>A játékkal eltöltött idő rögzítése</translation>
+        <translation>Példánnyal eltöltött idő mentése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="566"/>
@@ -2944,7 +2944,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
         <source>Flat</source>
-        <translation>Lapos</translation>
+        <translation>Flat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
@@ -4812,7 +4812,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>&quot;%1&quot; naprakész! :)</translation>
+        <translation>A(z) &quot;%1&quot; naprakész! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
