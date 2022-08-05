@@ -400,7 +400,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>A Minecraft felhasználónév a fiókhoz van társítva.</translation>
+        <translation>A fiókhoz társított Minecraft felhasználónév.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -434,7 +434,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation>&amp;Mojang felhasználó felvétele</translation>
+        <translation>Mojang fiók felvétele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
@@ -475,13 +475,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>&amp;Microsoft felhasználó felvétele</translation>
+        <translation>&amp;Microsoft fiók felvétele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>&amp;Offline felhasználó felvétele</translation>
+        <translation>&amp;Offline fiók felvétele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -7466,7 +7466,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation>Jelenleg nem érhető el Forge verzió a Minecraft számára </translation>
+        <translation>Jelenleg nem érhető el Forge verzió a következőhöz: Minecraft </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="458"/>
@@ -7511,7 +7511,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="558"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
-        <translation>Jelenleg nincs elérhető LiteLoader verzió a Minecraft számára </translation>
+        <translation>Jelenleg nem érhető el LiteLoader verzió a következőhöz: Minecraft </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="559"/>
