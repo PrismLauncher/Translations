@@ -5199,7 +5199,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在取得資訊清單…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
@@ -5216,22 +5216,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="133"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在解析模組…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="144"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>無效資訊清單：沒有可用的資訊去下載檔案「%1」！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="204"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>找到被封鎖的檔案</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>以下檔案無法在第三方啟動器中下載。&lt;br/&gt;你將需要手動下載這些檔案，並將他們加入到實例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="220"/>
@@ -5246,12 +5246,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="271"/>
         <source>Copying modpack files...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在複製模組包檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="292"/>
         <source>Installing modpack...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在安裝模組包…</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
@@ -7988,12 +7988,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="76"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 服務發生未知的 STS 錯誤：%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>取得 %1 服務的授權失敗：%2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
@@ -8060,7 +8060,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="71"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>恢復 Xbox 個人檔案失敗：%1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -8087,7 +8087,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox 使用者驗證失敗：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
