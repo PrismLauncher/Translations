@@ -2777,7 +2777,7 @@ Szeretnél játszani a demóval?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="451"/>
         <source>Kill Minecraft?</source>
-        <translation>Minecarft megölése?</translation>
+        <translation>Minecraft megölése?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="452"/>
@@ -3410,7 +3410,7 @@ Indok:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Töltsd fel a naplót a paste.ee-ra - online marad egy hónapig</translation>
+        <translation>Töltse fel a naplót a beállításokban konfigurált beillesztési szolgáltatásba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -3435,7 +3435,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="132"/>
         <source>Find</source>
-        <translation>Találás</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
@@ -5551,7 +5551,7 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="42"/>
         <source>Find</source>
-        <translation>Találás</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
@@ -5579,7 +5579,7 @@ Kérjük, frissítse a következőt: %1</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Töltsd fel a naplót a paste.ee-ra - online marad egy hónapig.</translation>
+        <translation>Töltse fel a naplót a beállításokban konfigurált beillesztési szolgáltatásba.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
