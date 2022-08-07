@@ -3946,13 +3946,13 @@ Powód:
         <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>&amp;1 &amp;Pomoc</translation>
+        <translation>%1 &amp;Pomoc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>Open the %1 wiki</source>
-        <translation>Otwórz wiki &amp;1</translation>
+        <translation>Otwórz wiki %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
@@ -7358,7 +7358,7 @@ Dla tej instancji przełącz się na jedną z następujących wersji Javy:</tran
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
         <source>Java version %1</source>
-        <translation>Wersja Javy &amp;1</translation>
+        <translation>Wersja Javy %1</translation>
     </message>
 </context>
 <context>
