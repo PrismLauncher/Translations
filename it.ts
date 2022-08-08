@@ -5280,7 +5280,7 @@ Aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="37"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Le mod disabilitate non verranno aggiornate, così da prevenire problemi di duplicazione delle mod!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="83"/>
@@ -5290,7 +5290,7 @@ Aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nessuna versione valida trovata per questa mod. Probabilmente non è disponibile per la versione del gioco / mod loader corrente.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="124"/>
