@@ -637,7 +637,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1262"/>
         <source>Aborted</source>
-        <translation type="unfinished">中断</translation>
+        <translation>中断</translation>
     </message>
 </context>
 <context>
@@ -2685,12 +2685,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>继续启动？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>在 %1 次尝试后，我们似乎无法启动。 你想继续尝试吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
