@@ -619,7 +619,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <translation>Cài đặt</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1262"/>
+        <location filename="src/launcher/Application.cpp" line="1263"/>
         <source>Aborted</source>
         <translation type="unfinished">Bị gián đoạn</translation>
     </message>
@@ -7836,6 +7836,16 @@ Thế giới này sẽ mất đi vĩnh viễn (MỘT THỜI GIAN DÀI)
 Bạn chắc chắn muốn tiếp tục chứ?</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
+        <source>Open World Datapacks Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
+        <source>Open World in MCEdit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
         <source>No MCEdit found or set up!</source>
         <translation>Không tìm thấy MCEdit được thiết lập!</translation>
@@ -7870,7 +7880,7 @@ Có thể cần phải cài đặt lại nó.</translation>
         <translation>Tệp nén thế giới Minecraft (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="398"/>
         <source>Copy World</source>
         <translation>Sao chép thế giới</translation>
     </message>
@@ -7891,6 +7901,11 @@ Bạn có muốn tiếp tục?</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="404"/>
         <source>Enter a new name for the copy.</source>
         <translation>Nhập tên mới cho bản sao.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
+        <source>Rename World</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>

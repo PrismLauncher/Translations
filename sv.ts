@@ -615,7 +615,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <translation>Inställningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1262"/>
+        <location filename="src/launcher/Application.cpp" line="1263"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7813,6 +7813,16 @@ Denna värld kommer att vara bort för alltid (EN MYCKET LÅNG TID).
 Vill du fortsätta?</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
+        <source>Open World Datapacks Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
+        <source>Open World in MCEdit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
         <source>No MCEdit found or set up!</source>
         <translation>Inget MCEdit hittades!</translation>
@@ -7847,7 +7857,7 @@ Det kan vara nödvändigt att installera om det.</translation>
         <translation>Minecraftvärld (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="398"/>
         <source>Copy World</source>
         <translation>Kopiera värld</translation>
     </message>
@@ -7868,6 +7878,11 @@ Vill du fortsätta?</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="404"/>
         <source>Enter a new name for the copy.</source>
         <translation>Välj ett nytt namn för kopian.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
+        <source>Rename World</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>

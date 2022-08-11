@@ -619,7 +619,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1262"/>
+        <location filename="src/launcher/Application.cpp" line="1263"/>
         <source>Aborted</source>
         <translation>Megszakítva</translation>
     </message>
@@ -7803,6 +7803,16 @@ A világ örökre eltűnik (hosszú idő).
 Akarod folytatni?</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
+        <source>Open World Datapacks Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
+        <source>Open World in MCEdit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit nem található vagy beállítva!</translation>
@@ -7837,7 +7847,7 @@ Lehet, hogy újra kell telepítenie.</translation>
         <translation>Minecraft World Zip fájl (* .zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="398"/>
         <source>Copy World</source>
         <translation>Világ másolása</translation>
     </message>
@@ -7858,6 +7868,11 @@ Folytatni akarja?</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="404"/>
         <source>Enter a new name for the copy.</source>
         <translation>Adjon meg egy új nevet a másolat számára.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
+        <source>Rename World</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>
