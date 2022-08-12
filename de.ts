@@ -146,12 +146,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="138"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationsmodus nicht unterstützt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="174"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lösche bestehende Dateien...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="323"/>
@@ -822,22 +822,22 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="58"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Derzeit sind keine Versionen für Minecraft %1 verfügbar</translation>
+        <translation>Derzeit sind keine Versionen für Minecraft %1 verfügbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Derzeit sind keine Versionen verfügbar</translation>
+        <translation>Derzeit sind keine Versionen verfügbar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Konnte die Versionsliste nicht herunterladen!</translation>
+        <translation>Konnte die Versionsliste nicht herunterladen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
         <source>Installing</source>
-        <translation type="unfinished">Installieren</translation>
+        <translation>Installieren</translation>
     </message>
 </context>
 <context>
@@ -3756,7 +3756,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
         <source>Dele&amp;te Instance</source>
-        <translation>Insta&amp;nz löschen</translation>
+        <translation>&amp;Instanz löschen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
@@ -3908,7 +3908,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="344"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>&amp;Letzte Instanz Löschung rückgängig machen</translation>
+        <translation>&amp;Letzte gelöschte Instanz wiederherstellen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="353"/>
