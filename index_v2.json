@@ -307,11 +307,11 @@
             "untranslated" : 387
         },
         "pt_BR" : {
-            "file" : "ba2c9c1c22b487cc4469b39b7e95c138fb908aef.class",
-            "sha1" : "ba2c9c1c22b487cc4469b39b7e95c138fb908aef",
-            "size" : 193105,
-            "translated" : 1354,
-            "fuzzy" : 5,
+            "file" : "74ab3d6463ae2741ce9f04f26eb57a9f0cbb8625.class",
+            "sha1" : "74ab3d6463ae2741ce9f04f26eb57a9f0cbb8625",
+            "size" : 193075,
+            "translated" : 1359,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "ro" : {
