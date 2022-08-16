@@ -913,7 +913,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Spróbuj automatycznie użyć innych dostawców modów jeśli wybrany zawiedzie</translation>
+        <translation>Spróbuj automatycznie użyć innych dostawców, jeśli wybrany dostawca nie powiedzie się</translation>
     </message>
 </context>
 <context>
