@@ -134,12 +134,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="138"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>不支援的安裝模式</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="174"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在刪除現有的檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="323"/>
@@ -635,7 +635,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1263"/>
         <source>Aborted</source>
-        <translation type="unfinished">終止</translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -654,7 +654,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -802,22 +802,22 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="58"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">目前沒有用於 Minecraft %1 的版本</translation>
+        <translation>目前沒有用於 Minecraft %1 的版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">目前沒有可用的版本</translation>
+        <translation>目前沒有可用的版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">無法載入或下載版本清單！</translation>
+        <translation>無法載入或下載版本清單！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
         <source>Installing</source>
-        <translation type="unfinished">正在安裝</translation>
+        <translation>正在安裝</translation>
     </message>
 </context>
 <context>
@@ -843,7 +843,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
-        <translation>分析器已終止</translation>
+        <translation>分析器已中止</translation>
     </message>
 </context>
 <context>
@@ -906,7 +906,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1383,7 +1383,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
         <source>Aborted</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
@@ -1458,7 +1458,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>模組有可用更新，但在 CurseForge 上不開放第三方啟動器存取</translation>
+        <translation>模組有可用的更新，但在 CurseForge 上不開放第三方啟動器存取。</translation>
     </message>
 </context>
 <context>
@@ -2303,7 +2303,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="484"/>
         <source>Enable Feral GameMode</source>
-        <translation>啟用 Freal 遊戲模式</translation>
+        <translation>啟用 Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="491"/>
@@ -2429,7 +2429,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="41"/>
         <source>Profiler aborted</source>
-        <translation>分析器已終止</translation>
+        <translation>分析器已中止</translation>
     </message>
 </context>
 <context>
@@ -2442,7 +2442,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="39"/>
         <source>Profiler aborted</source>
-        <translation>分析器已終止</translation>
+        <translation>分析器已中止</translation>
     </message>
 </context>
 <context>
@@ -2706,12 +2706,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>繼續啟動嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>在經過 %1 次嘗試後，我們似乎無法正常啟動。你還想要繼續嘗試嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
@@ -2853,7 +2853,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="445"/>
         <source>Abort</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="461"/>
@@ -3452,7 +3452,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -4278,7 +4278,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1634"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1676"/>
         <source>Abort</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1685"/>
@@ -4405,7 +4405,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -4465,7 +4465,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -4679,7 +4679,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="87"/>
         <source>Aborted by user.</source>
-        <translation>被使用者終止。</translation>
+        <translation>被使用者中止。</translation>
     </message>
 </context>
 <context>
@@ -4900,7 +4900,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>Aborted</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
@@ -4918,12 +4918,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Abort</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
         <source>The mod updater was aborted!</source>
-        <translation>模組更新器已終止！</translation>
+        <translation>模組更新器已中止！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
@@ -5137,7 +5137,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
         <source>Abort</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
@@ -5237,7 +5237,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="70"/>
         <source>Aborted</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="77"/>
@@ -5818,7 +5818,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="369"/>
         <source>Aborted</source>
-        <translation>終止</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="636"/>
@@ -6058,7 +6058,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.cpp" line="84"/>
         <source>Aborted by user</source>
-        <translation>被使用者終止</translation>
+        <translation>被使用者中止</translation>
     </message>
 </context>
 <context>
@@ -7924,7 +7924,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
         <source>Manage datapacks inside the world.</source>
-        <translation>管理此世界的資料包.</translation>
+        <translation>管理此世界的資料包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="65"/>
@@ -7955,12 +7955,12 @@ Do you want to continue?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟此世界的資料包資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>透過 MCEdit 開啟世界</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
@@ -8022,7 +8022,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>重新命名世界</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>
