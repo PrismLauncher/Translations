@@ -221,7 +221,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
         <source>Unknown loader type: </source>
-        <translation>Tundmatu laadija tüüp: </translation>
+        <translation>Tundmatu laaduritüüp: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1002"/>
