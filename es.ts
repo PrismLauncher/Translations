@@ -5068,7 +5068,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="283"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5265,7 +5265,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los siguientes archivos no están disponibles para descargar en lanzadores de terceros.&lt;br/&gt;Necesitarás descargarlos manualmente y añadirlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="220"/>
@@ -5280,12 +5280,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="271"/>
         <source>Copying modpack files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando archivos del modpack...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="292"/>
         <source>Installing modpack...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalando modpack...</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
@@ -5335,32 +5335,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="27"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando mods para Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="37"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished">¡Las mods deshabilitados no se actualizarán, para evitar problemas de duplicación de mods!</translation>
+        <translation>¡Las mods deshabilitados no se actualizarán, para prevenir problemas de duplicación de mods!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="83"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizando la respuesta del API de Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">No se encontró una versión válida para este mod. Probablemente no esté disponible para la versión actual del juego / cargador de mods.</translation>
+        <translation>No se encontró una versión válida para este mod. Probablemente no esté disponible para la versión actual del juego / cargador de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="124"/>
         <source>Mod has an empty download URL</source>
-        <translation type="unfinished"></translation>
+        <translation>El mod tiene una URL de descarga vacía</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="165"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando la respuesta del API de Modrinth...</translation>
     </message>
 </context>
 <context>
@@ -5453,32 +5453,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
         <source>Donate information: </source>
-        <translation type="unfinished">Donar información: </translation>
+        <translation>Donar información: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="263"/>
         <source>External links:</source>
-        <translation type="unfinished">Enlaces externos:</translation>
+        <translation>Enlaces externos:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problemas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Código fuente: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Código fuente: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
@@ -5491,7 +5491,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="32"/>
         <source>Making attempt #%1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizando intento #%1 de %2</translation>
     </message>
 </context>
 <context>
@@ -5577,7 +5577,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Noticias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
@@ -5588,12 +5588,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="48"/>
         <source>Hide article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar lista de artículos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="46"/>
         <source>Show article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar lista de artículos</translation>
     </message>
 </context>
 <context>
@@ -6064,7 +6064,7 @@ Elija su nombre cuidadosamente:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.cpp" line="84"/>
         <source>Aborted by user</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortado por el usuario</translation>
     </message>
 </context>
 <context>
@@ -6356,7 +6356,7 @@ Elija su nombre cuidadosamente:</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Offline&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="352"/>
@@ -6515,7 +6515,7 @@ Se mostrará este mensaje hasta que lo quites de los argumentos de la JVM.</tran
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin autor(es)</translation>
     </message>
 </context>
 <context>
@@ -6564,7 +6564,7 @@ Se mostrará este mensaje hasta que lo quites de los argumentos de la JVM.</tran
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Solo los mods marcados serán descargados!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="30"/>
@@ -6831,7 +6831,7 @@ Se mostrará este mensaje hasta que lo quites de los argumentos de la JVM.</tran
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
         <source>Leave empty to keep current skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Dejar vacío para mantener la skin actual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
@@ -7956,12 +7956,12 @@ El mundo se habrá ido para siempre (UN LARGO TIEMPO).
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Carpeta de Datapacks de Mundos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Mundo en MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
@@ -8023,7 +8023,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Renombrar Mundo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>
@@ -8047,12 +8047,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="76"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Error STS desconocido para %1 servicios: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo al obtener autorización para %1 servicios: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
@@ -8119,7 +8119,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="71"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo al recuperar el perfil de Xbox: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -8146,7 +8146,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallo de autenticación de usuario Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
