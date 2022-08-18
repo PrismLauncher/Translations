@@ -4610,7 +4610,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="86"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laadi mode alla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="99"/>
