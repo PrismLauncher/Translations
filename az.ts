@@ -7,101 +7,101 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pastebin Xidməti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mətn Paylaşma Xidməti/Növü</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Əsas &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qeyd:Böyük ehtimalla mətn paylaşma xidməti növünü dəyişdikdən sonra təməl URL&apos;ni dəyişmək və ya silmək istəyəcəksiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API Açarları</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Microsoft Kimlik Doğrulaması</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qeyd: Əgər Microsoft Kimlik Doğrulaması ilə daxil olmaq mümkündürsə, bunu ayarlamağınıza ehtiyac yoxdur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Defolt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation type="unfinished"></translation>
+        <translation>Buraya Microsoft Doğrulama üçün şəxsi client ID&apos;inizi daxil edin. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Çeşitli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>İstifadəçi Aqenti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Şəxsiləşdirilmiş bir İstifadəçi Aqneti daxil edin. Xüsusi dəyişən $LAUNCHER_VER Launcher versiyası ilə əvəz olunacaq.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta&amp;data Serveri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bunu yamaqlanmış kitabxanaları və ya digər hack&apos;ləri istifadə etmək üçün üçüncü parti metadata serverinə quraşdıra bilərsən.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta üçün bura şəxsiləşdirilmiş URL daxil edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;CurseForge Özək API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Qeyd: Əgər CurseForge hələ də işləkdirsə böyük ehtimalla bunu quraşdırmağa ehtiyac yoxdur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Bura CurseForge üçün bir şəxsi API açarı daxil edin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>API&apos;lər</translation>
     </message>
 </context>
 <context>
@@ -110,57 +110,58 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="116"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Paket manifesti anlamaq mümkün olmadı:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="336"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 üçün yerli metadata indeksi əldə oluna bilmədi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="148"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; v%2 üçün yerli metadata indeksi əldə oluna bilmədi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="138"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Dəstəklənməyən quraşdırma rejimi</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="174"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mövcud fayllar silinir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="323"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilinməyən mod növü: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="368"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 yükləyicisi üçün versiya tapılmadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="382"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod paketi üçün yükləyici versiyası seçilməyib!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="527"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilinməyən və ya dəstəklənməyən yükləmə növü: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="644"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiqurasiyalar yüklənir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="645"/>
         <source>Config download</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiqurasiya yükləmə</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="685"/>
