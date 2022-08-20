@@ -252,31 +252,37 @@
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
-        <source>Build Number:</source>
-        <translation>Versionsnummer:</translation>
+        <source>Build Date:</source>
+        <oldsource>Build Number:</oldsource>
+        <translation type="unfinished">Versionsnummer:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
+        <source>Commit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
         <source>Channel:</source>
         <translation>Kanal:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="235"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="251"/>
         <source>Credits</source>
         <translation>Lista över medverkande</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="249"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="265"/>
         <source>License</source>
         <translation>Licens</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="285"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="301"/>
         <source>About Qt</source>
         <translation>Om Qt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="305"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
@@ -284,6 +290,16 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
         <source>About %1</source>
         <translation>Om %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
+        <source>Commit: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <source>Build date: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Version</source>
@@ -295,12 +311,11 @@
         <translation>Plattform</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Build Number</source>
-        <translation>Utgåve-nummer</translation>
+        <translation type="vanished">Utgåve-nummer</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Channel</source>
         <translation>Kanal</translation>
     </message>
@@ -836,6 +851,14 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
         <translation>Prestationsverktyg avbrytet</translation>
+    </message>
+</context>
+<context>
+    <name>BlockedModsDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
+        <source>Open All</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1957,7 +1980,7 @@ Försök igen.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="704"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="707"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Kunde inte ändra namn på överskrivningsmappen:
@@ -1985,71 +2008,71 @@ Försök igen.</translation>
         <translation type="unfinished">Kunde inte hitta en rekommenderad Forge-version för Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="412"/>
         <source>Blocked mods found</source>
         <translation>Blockerade mods hittades</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="413"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
         <translation type="unfinished">De följande mods var blockerade på tredjepartslaunchers.&lt;br/&gt;Du kommer att behöva manuellt ladda ner dem och lägga till dem i modpacket.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="417"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="474"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="741"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="477"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="744"/>
         <source>Mod download</source>
         <translation>Modnedladdning</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="429"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="486"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="432"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="489"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Denna &apos;Mappen&apos; kan behöva extraheras: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="443"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="500"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="446"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="503"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Modpacks i modpacks är inte än implementerat, inget laddades ner: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="449"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="506"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="452"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="509"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Okänd/Obehandlad PackageType för: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="466"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="523"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="776"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="469"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="526"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="779"/>
         <source>Downloading mods...</source>
         <translation>Laddar ner mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="534"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Kunde inte slå upp modIDs:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="620"/>
         <source>Optional mod detected!</source>
         <translation>Valfri mod upptäcktes!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="621"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation type="unfinished">En eller fler mods från detta modpack är valfria. De kommer att laddas ner, men de kommer förinställt att vara inaktiverade.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="661"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="664"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>Nedladdnings-URL för %1 är inte en korrekt formaterad URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="713"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="716"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation type="unfinished"></translation>
@@ -2069,7 +2092,7 @@ Proceed with caution!</source>
 Var försiktig!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="695"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="698"/>
         <source>Could not understand pack index:
 </source>
         <translation>Kunde inte förstå pack index:
@@ -4360,32 +4383,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="788"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="795"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="791"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="798"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="794"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="801"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="796"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="803"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="868"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="875"/>
         <source>broken</source>
         <translation>trasig</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="880"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="887"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4394,17 +4417,17 @@ Are you sure?</source>
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="884"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="891"/>
         <source>, last played for %1</source>
         <translation>, senast spelat i %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="888"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="895"/>
         <source>, total played for %1</source>
         <translation>, totalt spelad i %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="893"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="900"/>
         <source>, has crashed.</source>
         <translation>, har kraschat.</translation>
     </message>
@@ -4681,47 +4704,47 @@ Are you sure?</source>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>Folder</source>
         <translation>Mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="453"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="457"/>
         <source>File</source>
         <translation>Fil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="547"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="551"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="549"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="553"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="551"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="555"/>
         <source>Last changed</source>
         <translation>Senast ändrad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="560"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="564"/>
         <source>Is the mod enabled?</source>
         <translation>Är modden aktiverad?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="562"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="566"/>
         <source>The name of the mod.</source>
         <translation>Namnet på modden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="564"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="568"/>
         <source>The version of the mod.</source>
         <translation>Versionen av modden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="566"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="570"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Datumet och tiden som modden senast ändrades (eller lades till).</translation>
     </message>
@@ -4817,64 +4840,64 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Error</source>
         <translation type="unfinished">Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
         <source>Please install a mod loader first!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="233"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="233"/>
         <source>Download stopped by user.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="159"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Warnings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Abort</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>The mod updater was aborted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
         <source>Update checker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="216"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation type="unfinished"></translation>
@@ -5179,32 +5202,32 @@ Please update %1!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="204"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="206"/>
         <source>Blocked files found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="207"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="223"/>
         <source>Downloading mods...</source>
         <translation>Laddar ner mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="222"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="225"/>
         <source>Mod download</source>
         <translation>Modnerladdning</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="271"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="274"/>
         <source>Copying modpack files...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="292"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="295"/>
         <source>Installing modpack...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5213,7 +5236,7 @@ Please update %1!</source>
         <translation type="vanished">Kopierar modpackfiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="284"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
         <source>Failed to copy files</source>
         <translation>Ett fel uppstod vid kopiering av filer</translation>
     </message>
@@ -5557,7 +5580,7 @@ Please update %1!</source>
 <context>
     <name>NullInstance</name>
     <message>
-        <location filename="src/launcher/NullInstance.h" line="20"/>
+        <location filename="src/launcher/NullInstance.h" line="24"/>
         <source>Unknown instance type</source>
         <translation>Okänd instanstyp</translation>
     </message>

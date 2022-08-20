@@ -256,31 +256,37 @@
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
-        <source>Build Number:</source>
-        <translation>Yapım Sayısı:</translation>
+        <source>Build Date:</source>
+        <oldsource>Build Number:</oldsource>
+        <translation type="unfinished">Yapım Sayısı:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
+        <source>Commit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
         <source>Channel:</source>
         <translation>Kanal:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="235"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="251"/>
         <source>Credits</source>
         <translation>Emeği Geçenler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="249"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="265"/>
         <source>License</source>
         <translation>Lisans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="285"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="301"/>
         <source>About Qt</source>
         <translation>Qt Hakkında</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="305"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
         <source>Close</source>
         <translation>Kapat</translation>
     </message>
@@ -296,11 +302,20 @@
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
-        <source>Build Number</source>
-        <translation>Yapım Sayısı</translation>
+        <source>Commit: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <source>Build date: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Build Number</source>
+        <translation type="vanished">Yapım Sayısı</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Channel</source>
         <translation>Kanal</translation>
     </message>
@@ -852,6 +867,14 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
         <translation>Profilleyici iptal edildi</translation>
+    </message>
+</context>
+<context>
+    <name>BlockedModsDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
+        <source>Open All</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1968,7 +1991,7 @@ Lütfen tekrar deneyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="704"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="707"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Üzerine yazılanlar (overrides) klasörü yeniden adlandırılamadı:
@@ -1996,78 +2019,78 @@ Lütfen tekrar deneyin.</translation>
         <translation>Minecraft %1 için önerilen Forge sürümü saptanamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="412"/>
         <source>Blocked mods found</source>
         <translation>Engellenmiş modlar bulundu</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="413"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
         <translation>Aşağıdaki modlar üçüncü parti başlatıcılarda engellidir.&lt;br/&gt;Bunları elle indirip, mod paketine eklemeniz gerekecek</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="417"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="474"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="741"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="477"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="744"/>
         <source>Mod download</source>
         <translation>Mod indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="429"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="486"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="432"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="489"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Bu &apos;Klasör&apos; dışa aktarılabilir: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="443"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="500"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="446"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="503"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>İç içe geçen mod paketlerinin içindeki mod paketler uygulanmadı, hiçbir şey indirilmedi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="449"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="506"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="452"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="509"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Tanınmayan/bilinmeyen PackageType: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="466"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="523"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="776"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="469"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="526"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="779"/>
         <source>Downloading mods...</source>
         <translation>Modlar indiriliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="534"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Mod ID&apos;leri çözümlenemedi:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="620"/>
         <source>Optional mod detected!</source>
         <translation>Seçmeli mod bulundu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="621"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>Bu mod paketindeki bir veya birden fazla mod seçmelidir. İndirilecektir ancak varsayılan olarak çevrim dışı olacaktır!</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="661"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="664"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1 için indirme URL&apos;si, düzgün formatlanmış bir URL değil</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="713"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="716"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>İstemci overrides klasörü yeniden isimlendirilemedi:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="695"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="698"/>
         <source>Could not understand pack index:
 </source>
         <translation>Paket dizini anlaşılamıyor
@@ -4400,32 +4423,32 @@ Emin misiniz?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="788"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="795"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="791"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="798"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="794"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="801"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="796"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="803"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="868"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="875"/>
         <source>broken</source>
         <translation>bozuk</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="880"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="887"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4434,17 +4457,17 @@ Emin misiniz?</translation>
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="884"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="891"/>
         <source>, last played for %1</source>
         <translation>, en son %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="888"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="895"/>
         <source>, total played for %1</source>
         <translation>, %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="893"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="900"/>
         <source>, has crashed.</source>
         <translation>, çöktü.</translation>
     </message>
@@ -4730,47 +4753,47 @@ Emin misiniz?</translation>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>Folder</source>
         <translation>Klasör</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="453"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="457"/>
         <source>File</source>
         <translation>Dosya</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="547"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="551"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="549"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="553"/>
         <source>Version</source>
         <translation>Sürüm</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="551"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="555"/>
         <source>Last changed</source>
         <translation>Son değişiklik</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="560"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="564"/>
         <source>Is the mod enabled?</source>
         <translation>Mod etkin mi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="562"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="566"/>
         <source>The name of the mod.</source>
         <translation>Modun ismi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="564"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="568"/>
         <source>The version of the mod.</source>
         <translation>Modun sürümü.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="566"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="570"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Bu modun en son değiştirildiği (veya eklendiği) tarih ve zaman.</translation>
     </message>
@@ -4873,64 +4896,64 @@ Emin misiniz?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
         <source>Please install a mod loader first!</source>
         <translation>Lütfen önce bir mod yükleyici kur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="233"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="233"/>
         <source>Download stopped by user.</source>
         <translation>İndirme, kullanıcı tarafından durduruldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="159"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Warnings</source>
         <translation>Uyarılar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Abort</source>
         <translation>İptal Et</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>The mod updater was aborted!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
         <source>Update checker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="216"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation type="unfinished"></translation>
@@ -5236,32 +5259,32 @@ Lütfen %1 güncelleyin!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="204"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="206"/>
         <source>Blocked files found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="207"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="223"/>
         <source>Downloading mods...</source>
         <translation>Modlar indiriliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="222"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="225"/>
         <source>Mod download</source>
         <translation>Mod indirme</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="271"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="274"/>
         <source>Copying modpack files...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="292"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="295"/>
         <source>Installing modpack...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5270,7 +5293,7 @@ Lütfen %1 güncelleyin!</translation>
         <translation type="vanished">Mod paket dosyaları kopyalanıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="284"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
         <source>Failed to copy files</source>
         <translation>Dosyalar kopyalanamadı</translation>
     </message>
@@ -5615,7 +5638,7 @@ Lütfen %1 güncelleyin!</translation>
 <context>
     <name>NullInstance</name>
     <message>
-        <location filename="src/launcher/NullInstance.h" line="20"/>
+        <location filename="src/launcher/NullInstance.h" line="24"/>
         <source>Unknown instance type</source>
         <translation>Bilinmeyen profil türü</translation>
     </message>

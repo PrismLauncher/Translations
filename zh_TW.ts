@@ -256,31 +256,37 @@
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
-        <source>Build Number:</source>
-        <translation>組建版本號：</translation>
+        <source>Build Date:</source>
+        <oldsource>Build Number:</oldsource>
+        <translation type="unfinished">組建版本號：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
+        <source>Commit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
         <source>Channel:</source>
         <translation>通道：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="235"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="251"/>
         <source>Credits</source>
         <translation>作者群</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="249"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="265"/>
         <source>License</source>
         <translation>授權條款</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="285"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="301"/>
         <source>About Qt</source>
         <translation>關於 Qt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="305"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
@@ -296,11 +302,20 @@
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
-        <source>Build Number</source>
-        <translation>組建版本號</translation>
+        <source>Commit: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <source>Build date: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Build Number</source>
+        <translation type="vanished">組建版本號</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Channel</source>
         <translation>通道</translation>
     </message>
@@ -844,6 +859,14 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
         <translation>分析器已中止</translation>
+    </message>
+</context>
+<context>
+    <name>BlockedModsDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
+        <source>Open All</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1973,7 +1996,7 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="290"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="704"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="707"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>無法重新命名覆蓋的資料夾：
@@ -2001,71 +2024,71 @@ Please try again.</source>
         <translation>無法為 Minecraft %1 提供推薦的 Forge 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="410"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="412"/>
         <source>Blocked mods found</source>
         <translation>找到被封鎖的模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="411"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="413"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
         <translation>以下模組不開放第三方啟動器下載。&lt;br/&gt;你將需要手動去下載它們並把它們加入到模組包之中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="417"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="474"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="741"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="477"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="744"/>
         <source>Mod download</source>
         <translation>模組包下載</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="429"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="486"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="432"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="489"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>這個「資料夾」可能需要解壓縮：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="443"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="500"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="446"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="503"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>巢狀模組包尚未實作，未下載任何東西：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="449"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="506"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="452"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="509"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>此為 無法辨識的/無法處理的 包裝類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="466"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="523"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="776"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="469"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="526"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="779"/>
         <source>Downloading mods...</source>
         <translation>正在下載模組包…</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="531"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="534"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>無法解析模組 IDs：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="617"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="620"/>
         <source>Optional mod detected!</source>
         <translation>檢測到可選模組！</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="618"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="621"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>這款模組包中的一或多個模組為可選的。它們將會被下載，但預設情況下為停用狀態！</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="661"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="664"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>下載網址 %1 不是正確的網址格式</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="713"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="716"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>無法重新命名用戶端覆蓋的資料夾：
@@ -2086,7 +2109,7 @@ Proceed with caution!</source>
 請自行注意！</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="695"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="698"/>
         <source>Could not understand pack index:
 </source>
         <translation>無法解析模組包索引：
@@ -4411,32 +4434,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="788"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="795"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;程序ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="791"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="798"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="794"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="801"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="796"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="803"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="868"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="875"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="880"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="887"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4445,17 +4468,17 @@ Are you sure?</source>
         <translation type="vanished">Minecraft %1（%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="884"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="891"/>
         <source>, last played for %1</source>
         <translation>，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="888"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="895"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="893"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="900"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>
@@ -4741,47 +4764,47 @@ Are you sure?</source>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="455"/>
         <source>Folder</source>
         <translation>資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="453"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="457"/>
         <source>File</source>
         <translation>檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="547"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="551"/>
         <source>Name</source>
         <translation>名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="549"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="553"/>
         <source>Version</source>
         <translation>版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="551"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="555"/>
         <source>Last changed</source>
         <translation>最後變更</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="560"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="564"/>
         <source>Is the mod enabled?</source>
         <translation>此模組是否已啟用？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="562"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="566"/>
         <source>The name of the mod.</source>
         <translation>模組的名稱.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="564"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="568"/>
         <source>The version of the mod.</source>
         <translation>模組的版本.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="566"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="570"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>此模組上次變更（或新增）的日期與時間.</translation>
     </message>
@@ -4884,64 +4907,64 @@ Are you sure?</source>
         <translation>嘗試檢查或更新所選的模組（若未選取對象將檢查所有模組）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="149"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
         <source>Please install a mod loader first!</source>
         <translation>請先安裝模組載入器！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="233"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="153"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="233"/>
         <source>Download stopped by user.</source>
         <translation>下載被使用者停止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="159"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>The mod updater was aborted!</source>
         <translation>模組更新器已中止！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>所選模組皆已更新至最新版本！:)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
         <source>Update checker</source>
         <translation>更新檢測器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>「%1」已更新至最新版本！:)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="216"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>所有模組皆已更新至最新版本！:)</translation>
@@ -5267,32 +5290,32 @@ Please update %1!</source>
         <translation>無效資訊清單：沒有可用的資訊去下載檔案「%1」！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="204"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="206"/>
         <source>Blocked files found</source>
         <translation>找到被封鎖的檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="207"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>以下檔案無法在第三方啟動器中下載。&lt;br/&gt;你將需要手動下載這些檔案，並將他們加入到實例中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="220"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="223"/>
         <source>Downloading mods...</source>
         <translation>正在下載模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="222"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="225"/>
         <source>Mod download</source>
         <translation>模組下載</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="271"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="274"/>
         <source>Copying modpack files...</source>
         <translation>正在複製模組包檔案…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="292"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="295"/>
         <source>Installing modpack...</source>
         <translation>正在安裝模組包…</translation>
     </message>
@@ -5301,7 +5324,7 @@ Please update %1!</source>
         <translation type="vanished">模組包檔案複製中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="284"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
         <source>Failed to copy files</source>
         <translation>檔案複製失敗</translation>
     </message>
@@ -5651,7 +5674,7 @@ Please update %1!</source>
 <context>
     <name>NullInstance</name>
     <message>
-        <location filename="src/launcher/NullInstance.h" line="20"/>
+        <location filename="src/launcher/NullInstance.h" line="24"/>
         <source>Unknown instance type</source>
         <translation>未知實例類型</translation>
     </message>
