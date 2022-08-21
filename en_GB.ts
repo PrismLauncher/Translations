@@ -266,12 +266,12 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Build Number:</translation>
+        <translation>Build date:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
@@ -306,12 +306,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Build date: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -878,7 +878,7 @@ Please update both your operating system and PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
         <source>Open All</source>
-        <translation type="unfinished"></translation>
+        <translation>Open all</translation>
     </message>
 </context>
 <context>
@@ -1017,7 +1017,7 @@ Please update both your operating system and PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="68"/>
         <source>Core mods</source>
-        <translation type="unfinished">Core mods</translation>
+        <translation>Core mods</translation>
     </message>
 </context>
 <context>
@@ -2968,7 +2968,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished">Check for updates on start?</translation>
+        <translation>Check for updates automatically</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
@@ -3515,7 +3515,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid metadata</translation>
     </message>
 </context>
 <context>
@@ -3651,7 +3651,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Please open %1 in a browser and enter the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -3752,7 +3752,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
         <source>Dele&amp;te Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Delete instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
@@ -3904,7 +3904,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="344"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Undo Last Instance Deletion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="353"/>
@@ -3954,7 +3954,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="522"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Edit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="525"/>
@@ -4660,7 +4660,7 @@ Are you sure?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="77"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquisition of Minecraft Java profile failed: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -4698,7 +4698,7 @@ Are you sure?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Acquisition of Minecraft Java profile failed: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -4923,7 +4923,7 @@ Are you sure?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Try to check or update all selected mods (all mods if none are selected)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
@@ -4965,28 +4965,28 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>The mod updater was aborted!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="193"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>All selected mods are up to date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="196"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Update checker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="188"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; is up to date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="191"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>All mods are up to date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
@@ -5129,129 +5129,129 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="40"/>
         <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm mods to update</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="49"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>You&apos;re about to update the following mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="50"/>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Only mods with a check will be updated!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Generation of metadata failed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not generate metadata for the following mods:&lt;br&gt;Continue without those mods?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking for updates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
         <source>Warnings</source>
-        <translation type="unfinished">Warnings</translation>
+        <translation>Warnings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking for updates...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod name: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reason: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="245"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>The mod &apos;%1&apos; does not yet have metadata. We need to generate it in order to track relevant information on how to update this mod. In order to do this, please select a mod provider which we can use to check for updates for this mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="334"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not find a valid version on the selected mod provider(s)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to check for updates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
         <source>Looking for metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Looking for metadata</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="289"/>
         <source>Generating metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Generating metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="348"/>
         <source>Provider: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Provider: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Old version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Old version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Not installed</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
         <source>New version: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>New version: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Changelog of the latest version</translation>
     </message>
 </context>
 <context>
@@ -5259,12 +5259,12 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="70"/>
         <source>Aborted</source>
-        <translation type="unfinished">Aborted</translation>
+        <translation>Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fetching the manifest...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
@@ -5281,22 +5281,22 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="133"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolving mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="144"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid manifest: there&apos;s no information available to download the file &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="206"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocked files found</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="207"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="223"/>
@@ -5311,12 +5311,12 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="274"/>
         <source>Copying modpack files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copying modpack files...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="295"/>
         <source>Installing modpack...</source>
-        <translation type="unfinished"></translation>
+        <translation>Installing modpack...</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
@@ -5372,32 +5372,32 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="27"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparing mods for Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="37"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished">Disabled mods won&apos;t be updated, to prevent mod duplication issues!</translation>
+        <translation>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="83"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Parsing the API response from Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</translation>
+        <translation>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="124"/>
         <source>Mod has an empty download URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod has an empty download URL</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="165"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Waiting for the API response from Modrinth...</translation>
     </message>
 </context>
 <context>
@@ -5552,7 +5552,7 @@ Please update %1!</translation>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="32"/>
         <source>Making attempt #%1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Making attempt #%1 out of %2</translation>
     </message>
 </context>
 <context>
@@ -6519,7 +6519,7 @@ This message will be displayed until you remove this from the JVM arguments.</tr
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java checker library could not be found. Please check your installation</translation>
+        <translation>Java checker library could not be found. Please check your installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -6568,7 +6568,7 @@ This message will be displayed until you remove this from the JVM arguments.</tr
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>No author(s)</translation>
     </message>
 </context>
 <context>
@@ -6884,7 +6884,7 @@ This message will be displayed until you remove this from the JVM arguments.</tr
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
         <source>Leave empty to keep current skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Leave empty to keep current skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
@@ -8011,12 +8011,12 @@ Do you want to continue?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Open world datapacks folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Open world in MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
@@ -8078,7 +8078,7 @@ Do you wish to proceed?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>Rename world</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>
@@ -8102,12 +8102,12 @@ Do you wish to proceed?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="76"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Unknown STS error for %1 services: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to get authorisation for %1 services: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
@@ -8174,7 +8174,7 @@ Please set up your account according to %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="71"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to retrieve the Xbox profile: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -8201,7 +8201,7 @@ Please set up your account according to %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox user authentication failed: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
