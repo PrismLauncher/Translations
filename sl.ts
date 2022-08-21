@@ -417,7 +417,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>Tip račima - Mojang ali MSA.</translation>
+        <translation>Vrsta računa - Mojang ali MSA.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
@@ -472,7 +472,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation>Odstrani trenutno aktivni izgled in ga povrni na privzeti</translation>
+        <translation>Odstrani trenutni videz in ga povrni na privzeti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
@@ -556,12 +556,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation>Izgled odstrani</translation>
+        <translation>Odstrani videz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Failed to delete current skin!</source>
-        <translation>Brisanje trenutnega izgleda ni bilo uspešno!</translation>
+        <translation>Brisanje trenutnega videza ni bilo uspešno!</translation>
     </message>
 </context>
 <context>
@@ -579,7 +579,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Kontaktiranje strežnika za ovirjanje je bilo neuspešno.</translation>
+        <translation>Klic strežnika za overjanje je bil neuspešen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
@@ -657,7 +657,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Neuspešem prenos indeksa sredstev:
+        <translation>Neuspešen prenos indeksa sredstev:
 %1</translation>
     </message>
     <message>
@@ -1270,7 +1270,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation>Napaka pri preverjanju inštalacije JProfiler:
+        <translation>Napaka pri preverjanju namestitve JProfiler:
 %1</translation>
     </message>
     <message>
@@ -1283,7 +1283,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>Namestitev JProfiler izgleda v redu</translation>
+        <translation>Namestitev JProfiler se zdi v redu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
@@ -1295,13 +1295,13 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="168"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Napaka pri preverjanju inštalacije JVisualVM:
+        <translation>Napaka pri preverjanju namestitve JVisualVM:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>Namestitev JVisualVM izgleda v redu</translation>
+        <translation>Namestitev JVisualVM se zdi v redu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
@@ -1318,13 +1318,13 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation>Napaka pri preverjanju inštalacije MCEdit:
+        <translation>Napaka pri preverjanju namestitve MCEdit:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation>Namestitev MCEdit izgleda v redu</translation>
+        <translation>Namestitev MCEdit se zdi v redu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
@@ -1339,7 +1339,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation>Izbrana datoteka ne izgleda, da bi bila zaganjalna</translation>
+        <translation>Izbrana datoteka verjetno ni zaganjalna</translation>
     </message>
 </context>
 <context>
@@ -1360,7 +1360,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation>Prenašanje FML knjižnjic...</translation>
+        <translation>Prenašanje FML knjižnic...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
@@ -1370,7 +1370,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Kopiranje FML knjižnjic v instanco...</translation>
+        <translation>Kopiranje FML knjižnic v instanco...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="102"/>
@@ -1380,7 +1380,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="107"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Kopiranje Forge/FML knjižnjice je bilo neuspešno: %1.</translation>
+        <translation>Kopiranje Forge/FML knjižnice je bilo neuspešno: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="120"/>
@@ -1393,7 +1393,7 @@ Please try again.</source>
 %1
 
 Razlog:%2
-Prosim, poskusite ponovno.</translation>
+Prosimo, poskusite znova.</translation>
     </message>
 </context>
 <context>
@@ -2081,7 +2081,7 @@ Prosim, poskusite ponovno.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation>Te nastavitve so za vsiljenje za prepis za globalne nastavitve.</translation>
+        <translation>Te nastavitve so prepisi za globalne nastavitve.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
