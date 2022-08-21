@@ -148,7 +148,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="323"/>
         <source>Unknown mod type: %1</source>
-        <translation>未知模组类型：%1</translation>
+        <translation>未知Mod类型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="368"/>
@@ -158,7 +158,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="382"/>
         <source>No loader version set for modpack!</source>
-        <translation>未在模组包中找到模组加载器版本设定！</translation>
+        <translation>未在Mod包中找到Mod加载器版本设定！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="527"/>
@@ -188,17 +188,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="726"/>
         <source>Selecting optional mods...</source>
-        <translation>选择可选模组……</translation>
+        <translation>选择可选Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Downloading mods...</source>
-        <translation>正在下载模组……</translation>
+        <translation>正在下载Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="733"/>
         <source>Mod download</source>
-        <translation>模组下载</translation>
+        <translation>Mod下载</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
@@ -213,17 +213,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="868"/>
         <source>Failed to extract mods...</source>
-        <translation>解压模组失败……</translation>
+        <translation>解压Mod失败……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Extracting mods...</source>
-        <translation>正在解压模组……</translation>
+        <translation>正在解压Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="952"/>
         <source>Installing modpack</source>
-        <translation>正在安装模组包</translation>
+        <translation>正在安装Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="964"/>
@@ -734,7 +734,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>选择模组以安装</translation>
+        <translation>选择Mod以安装</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -777,7 +777,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>你确定要启用这个模组吗？</translation>
+        <translation>你确定要启用这个Mod吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
@@ -790,7 +790,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>警告: 这是一个未完成的功能, 可能会导致你导入的模组包存在问题。</translation>
+        <translation>警告: 这是一个未完成的功能, 可能会导致你导入的Mod包存在问题。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -1017,7 +1017,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="68"/>
         <source>Core mods</source>
-        <translation type="unfinished">核心模组</translation>
+        <translation>核心 mod</translation>
     </message>
 </context>
 <context>
@@ -1113,7 +1113,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="96"/>
         <source>Checking if mods have metadata...</source>
-        <translation>正在检查模组是否有metadata...</translation>
+        <translation>正在检查Mod是否有metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
@@ -1462,7 +1462,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="19"/>
         <source>Resolving mod IDs...</source>
-        <translation>正在解析模组 ID……</translation>
+        <translation>正在解析Mod ID……</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -1474,7 +1474,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>准备从 CurseForge 获取模组...</translation>
+        <translation>准备从 CurseForge 获取Mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
@@ -1495,7 +1495,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到该mod的有效版本。可能在目前的游戏版本或模组加载器中还不可用。</translation>
+        <translation>未找到该mod的有效版本。可能在目前的游戏版本或Mod加载器中还不可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
@@ -1571,7 +1571,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>注意：CurseForge 允许作者阻止从 PloyMC 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些模组才能安装模组包。</translation>
+        <translation>注意：CurseForge 允许作者阻止从 PloyMC 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些Mod才能安装Mod包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1864,12 +1864,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation>- CurseForge 模组包 (ZIP)</translation>
+        <translation>- CurseForge Mod包 (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth 模组包（ZIP 和 mrpack）</translation>
+        <translation>- Modrinth Mod包（ZIP 和 mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -1879,7 +1879,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technic 模组包（ZIP）</translation>
+        <translation>- Technic Mod包（ZIP）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -1899,12 +1899,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>Modrinth 模组包</translation>
+        <translation>Modrinth Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation>选择模组包</translation>
+        <translation>选择Mod包</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -1964,34 +1964,34 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>正在下载模组包：
+        <translation>正在下载Mod包：
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="97"/>
         <source>Modpack download</source>
-        <translation>下载模组包</translation>
+        <translation>下载Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="127"/>
         <source>Extracting modpack</source>
-        <translation>正在解压模组包</translation>
+        <translation>正在解压Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>无法打开提供的模组包 zip 压缩文件。</translation>
+        <translation>无法打开提供的Mod包 zip 压缩文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="184"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="251"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>压缩包未包含可识别的模组包类型。</translation>
+        <translation>压缩包未包含可识别的Mod包类型。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="200"/>
         <source>Failed to extract modpack</source>
-        <translation>解压模组包时失败</translation>
+        <translation>解压Mod包时失败</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="227"/>
@@ -2021,12 +2021,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>未找到指定的覆盖目录（%1）。或许模组包之前已经使用过了？</translation>
+        <translation>未找到指定的覆盖目录（%1）。或许Mod包之前已经使用过了？</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="318"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>清单中包含未知的模组加载器： %1</translation>
+        <translation>清单中包含未知的Mod加载器： %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="329"/>
@@ -2042,19 +2042,19 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="412"/>
         <source>Blocked mods found</source>
-        <translation>发现被屏蔽的模组</translation>
+        <translation>发现被屏蔽的Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="413"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation>以下模组屏蔽了第三方启动器。&lt;br/&gt;您需要手动下载它们并将它们添加到模组包</translation>
+        <translation>以下Mod屏蔽了第三方启动器。&lt;br/&gt;您需要手动下载它们并将它们添加到Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="477"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="744"/>
         <source>Mod download</source>
-        <translation>模组下载</translation>
+        <translation>Mod下载</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="432"/>
@@ -2066,7 +2066,7 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="446"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="503"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation>不支持在模组包中嵌套模组包。未下载任何数据：%1</translation>
+        <translation>不支持在Mod包中嵌套Mod包。未下载任何数据：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="452"/>
@@ -2079,24 +2079,24 @@ Please try again.</source>
         <location filename="src/launcher/InstanceImportTask.cpp" line="526"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="779"/>
         <source>Downloading mods...</source>
-        <translation>正在下载模组……</translation>
+        <translation>正在下载Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="534"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>无法解析模组 ID：
+        <translation>无法解析Mod ID：
 </translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="620"/>
         <source>Optional mod detected!</source>
-        <translation>发现了可选的模组！</translation>
+        <translation>发现了可选的Mod！</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="621"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>这个模组包的一些模组是可选的。他们将会被下载，但会被默认禁用！</translation>
+        <translation>这个Mod包的一些Mod是可选的。他们将会被下载，但会被默认禁用！</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="664"/>
@@ -2918,7 +2918,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>已停止监视游戏日志，因为日志长度超过 %1 行。
-您可能必须修复您的模组，因为游戏仍在写入游戏日志，并且可能以惊人的速度浪费硬盘空间！</translation>
+您可能必须修复您的Mod，因为游戏仍在写入游戏日志，并且可能以惊人的速度浪费硬盘空间！</translation>
     </message>
 </context>
 <context>
@@ -2981,7 +2981,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
         <source>&amp;Mods:</source>
-        <translation>模组（&amp;M）：</translation>
+        <translation>Mod（&amp;M）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
@@ -3046,22 +3046,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>模组</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation>禁止使用由模组提供者（如 Modrinth 或 Curseforge）为模组提供的元数据。</translation>
+        <translation>禁止使用由Mod提供者（如 Modrinth 或 Curseforge）为Mod提供的元数据。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation>禁止使用模组元数据？</translation>
+        <translation>禁止使用Mod元数据？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：禁用模组元数据可能也会禁用一些即将到来的方便功能，比如模组更新！ &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：禁用Mod元数据可能也会禁用一些即将到来的方便功能，比如Mod更新！ &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
@@ -3190,7 +3190,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="184"/>
         <source>Mods Folder</source>
-        <translation>模组文件夹</translation>
+        <translation>Mod文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="494"/>
@@ -3262,17 +3262,17 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="116"/>
         <source>Public Modpack</source>
-        <translation>公开模组包</translation>
+        <translation>公开Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="118"/>
         <source>Third Party Modpack</source>
-        <translation>第三方模组包</translation>
+        <translation>第三方Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="120"/>
         <source>Private Modpack</source>
-        <translation>私有模组包</translation>
+        <translation>私有Mod包</translation>
     </message>
 </context>
 <context>
@@ -3280,7 +3280,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="113"/>
         <source>Public Packs</source>
-        <translation>公开模组包</translation>
+        <translation>公开Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="118"/>
@@ -3290,7 +3290,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="123"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>下载部分模组包列表时出错：%1</translation>
+        <translation>下载部分Mod包列表时出错：%1</translation>
     </message>
 </context>
 <context>
@@ -3308,17 +3308,17 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
         <source>Extracting modpack</source>
-        <translation>正在解压模组包</translation>
+        <translation>正在解压Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="122"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>无法打开模组包文件 %1！</translation>
+        <translation>无法打开Mod包文件 %1！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="149"/>
         <source>Installing modpack</source>
-        <translation>正在安装模组包</translation>
+        <translation>正在安装Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="156"/>
@@ -3352,12 +3352,12 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="86"/>
         <source>Add pack</source>
-        <translation>添加模组包</translation>
+        <translation>添加Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="93"/>
         <source>Remove selected pack</source>
-        <translation>删除所选模组包</translation>
+        <translation>删除所选Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="109"/>
@@ -3377,23 +3377,23 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="236"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>无法下载代码为 %1 的模组包信息。
+        <translation>无法下载代码为 %1 的Mod包信息。
 要将它移除吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="374"/>
         <source>Add FTB pack</source>
-        <translation>添加 FTB 模组包</translation>
+        <translation>添加 FTB Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="375"/>
         <source>Enter pack code:</source>
-        <translation>输入模组包代码：</translation>
+        <translation>输入Mod包代码：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="398"/>
         <source>Remove pack</source>
-        <translation>移除模组包</translation>
+        <translation>移除Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="399"/>
@@ -3509,7 +3509,7 @@ Reason:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
         <source>Updating index for mod:
 %1</source>
-        <translation>更新模组索引中：
+        <translation>更新Mod索引中：
 %1</translation>
     </message>
     <message>
@@ -3741,7 +3741,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="311"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>查看公共模组文件夹（&amp;C）</translation>
+        <translation>查看公共Mod文件夹（&amp;C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
@@ -4040,7 +4040,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="695"/>
         <source>View &amp;Mods</source>
-        <translation>查看模组（&amp;M）</translation>
+        <translation>查看Mod（&amp;M）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
@@ -4128,7 +4128,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>修改实例的设置、模组和版本。</translation>
+        <translation>修改实例的设置、Mod和版本。</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -4146,7 +4146,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>View the mods of this instance.</source>
-        <translation>查看此实例的模组。</translation>
+        <translation>查看此实例的Mod。</translation>
     </message>
     <message>
         <source>View Worlds</source>
@@ -4735,12 +4735,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="86"/>
         <source>Download mods</source>
-        <translation>下载模组</translation>
+        <translation>下载Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="99"/>
         <source>Confirm mods to download</source>
-        <translation>确认要下载的模组</translation>
+        <translation>确认要下载的Mod</translation>
     </message>
 </context>
 <context>
@@ -4749,13 +4749,13 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="36"/>
         <source>Downloading mod:
 %1</source>
-        <translation>正在下载模组：
+        <translation>正在下载Mod：
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
         <source>Mod download</source>
-        <translation>模组下载</translation>
+        <translation>Mod下载</translation>
     </message>
 </context>
 <context>
@@ -4816,22 +4816,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="564"/>
         <source>Is the mod enabled?</source>
-        <translation>模组是否启用?</translation>
+        <translation>Mod是否启用?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="566"/>
         <source>The name of the mod.</source>
-        <translation>模组的名称。</translation>
+        <translation>Mod的名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="568"/>
         <source>The version of the mod.</source>
-        <translation>模组的版本。</translation>
+        <translation>Mod的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="570"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>模组最后一次修改（或添加）的日期和时间。</translation>
+        <translation>Mod最后一次修改（或添加）的日期和时间。</translation>
     </message>
 </context>
 <context>
@@ -4891,12 +4891,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods</source>
-        <translation>下载模组</translation>
+        <translation>下载Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
         <source>Download mods from online mod platforms</source>
-        <translation>在线下载模组</translation>
+        <translation>在线下载Mod</translation>
     </message>
     <message>
         <source>Add .jar</source>
@@ -4941,7 +4941,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="136"/>
         <source>Please install a mod loader first!</source>
-        <translation>请先安装一个模组加载器！</translation>
+        <translation>请先安装一个Mod加载器！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="148"/>
@@ -5001,7 +5001,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
         <source>Mods</source>
-        <translation>模组</translation>
+        <translation>Mod</translation>
     </message>
 </context>
 <context>
@@ -5033,7 +5033,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation>搜索模组……</translation>
+        <translation>搜索Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
@@ -5044,7 +5044,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="227"/>
         <source>Select mod for download</source>
-        <translation>选择要下载的模组</translation>
+        <translation>选择要下载的Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
@@ -5079,7 +5079,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="229"/>
         <source>Deselect mod for download</source>
-        <translation>取消选择要下载的模组</translation>
+        <translation>取消选择要下载的Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="258"/>
@@ -5123,7 +5123,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="235"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation>发生网络错误。无法加载模组。</translation>
+        <translation>发生网络错误。无法加载Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="242"/>
@@ -5327,12 +5327,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="223"/>
         <source>Downloading mods...</source>
-        <translation>正在下载模组……</translation>
+        <translation>正在下载Mod……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="225"/>
         <source>Mod download</source>
-        <translation>模组下载</translation>
+        <translation>Mod下载</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="274"/>
@@ -5376,7 +5376,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="306"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>发生网络错误。无法加载模组包。</translation>
+        <translation>发生网络错误。无法加载Mod包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="313"/>
@@ -5407,7 +5407,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="98"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未获取到该Mod的可用版本。可能在目前游戏版本/模组加载器中还不可用。</translation>
+        <translation>未获取到该Mod的可用版本。可能在目前游戏版本/Mod加载器中还不可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="124"/>
@@ -5453,7 +5453,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>注意： Modrinth 模组包仍处于 alpha 阶段。有些事情可能很粗糙，或者根本不能用！谨慎使用。</translation>
+        <translation>注意： Modrinth Mod包仍处于 alpha 阶段。有些事情可能很粗糙，或者根本不能用！谨慎使用。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -6601,17 +6601,17 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="14"/>
         <source>Confirm mod selection</source>
-        <translation>确认模组选择</translation>
+        <translation>确认Mod选择</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation>您将要下载以下模组：</translation>
+        <translation>您将要下载以下Mod：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation>只有打钩的模组才会被下载！</translation>
+        <translation>只有打钩的Mod才会被下载！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="30"/>
@@ -6942,28 +6942,28 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>正在下载模组包：
+        <translation>正在下载Mod包：
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation>模组包下载</translation>
+        <translation>Mod包下载</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
         <source>Extracting modpack</source>
-        <translation>正在解压模组包</translation>
+        <translation>正在解压Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>无法打开提供的模组包 zip 压缩包文件。</translation>
+        <translation>无法打开提供的Mod包 zip 压缩包文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
         <source>Failed to extract modpack</source>
-        <translation>解压模组包时失败</translation>
+        <translation>解压Mod包时失败</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
@@ -6998,7 +6998,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>正在解析模组包文件</translation>
+        <translation>正在解析Mod包文件</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -7008,7 +7008,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="85"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation>正在下载模组包</translation>
+        <translation>正在下载Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
@@ -7020,12 +7020,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="137"/>
         <source>Extracting modpack</source>
-        <translation>正在解压模组包</translation>
+        <translation>正在解压Mod包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="178"/>
         <source>Failed to extract modpack</source>
-        <translation>解压模组包时失败</translation>
+        <translation>解压Mod包时失败</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="205"/>
@@ -7292,7 +7292,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation>模组加载器</translation>
+        <translation>Mod加载器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
@@ -7332,7 +7332,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation>未选择模组加载器。</translation>
+        <translation>未选择Mod加载器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
@@ -7505,22 +7505,22 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
         <source>Install mods</source>
-        <translation>安装模组</translation>
+        <translation>安装Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Install normal mods.</source>
-        <translation>安装普通模组。</translation>
+        <translation>安装普通Mod。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
         <source>Add to Minecraft.jar</source>
-        <translation>安装模组到 Minecraft.jar 文件中</translation>
+        <translation>安装Mod到 Minecraft.jar 文件中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>将一个模组安装到 Minecraft.jar 文件中。</translation>
+        <translation>将一个Mod安装到 Minecraft.jar 文件中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
@@ -7625,12 +7625,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Select jar mods</source>
-        <translation>选择 jar 模组</translation>
+        <translation>选择 jar Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>需要添加到 Minecraft.jar 中的模组 (*.zip *.jar)</translation>
+        <translation>需要添加到 Minecraft.jar 中的Mod (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
