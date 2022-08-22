@@ -2324,7 +2324,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">การตั้งค่า</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
