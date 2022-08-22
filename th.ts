@@ -505,7 +505,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>เพิ่ม&amp;ออฟไลน์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -638,7 +638,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="732"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่า</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1263"/>
@@ -1133,7 +1133,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>ส่งออกอินสเทินซฺนี้ได้</translation>
+        <translation>ส่งออกอินสแตนซ์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
@@ -1160,7 +1160,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
-        <translation>ไม่สามารถส่งออกอินสเทินซฺนี้ได้</translation>
+        <translation>ไม่สามารถส่งออกอินสแตนซ์นี้ได้</translation>
     </message>
 </context>
 <context>
@@ -2097,12 +2097,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="29"/>
         <source>Open Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดการตั้งค่าส่วนกลาง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าที่นี่จะแทนที่การตั้งค่าส่วนกลาง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
@@ -2687,7 +2687,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="232"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>ทดลองเล่น?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="233"/>
@@ -2876,7 +2876,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
@@ -3570,7 +3570,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="304"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ดูโฟลเดอร์อินสแตนซ์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="305"/>
@@ -3581,7 +3581,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="311"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ดู&amp;โฟลเดอร์ม็อดส่วนกลาง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
@@ -3596,12 +3596,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="872"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>โฟลเดอร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="324"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดหนึ่งในโฟลเดอร์ที่แชร์ระหว่างอินสแตนซ์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
@@ -3626,7 +3626,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูข้อมูลเกี่ยวกับ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="466"/>
@@ -3759,7 +3759,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="525"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ดู</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="532"/>
@@ -3841,12 +3841,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="695"/>
         <source>View &amp;Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ดู&amp;ม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
         <source>&amp;View Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ดูโลก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
@@ -3931,17 +3931,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>View the mods of this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูม็อดของอินสแตนซ์นี้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>View the worlds of this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูโลกของอินสแตนซ์นี้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>View and upload screenshots for this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูและอัปโหลดภาพหน้าจอสำหรับอินสแตนซ์นี้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="714"/>
@@ -4456,12 +4456,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="86"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="99"/>
         <source>Confirm mods to download</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันเพื่อดาวน์โหลดม็อด</translation>
     </message>
 </context>
 <context>
@@ -4564,12 +4564,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
         <source>Download mods from online mod platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>ดาวน์โหลดม็อดจากแพลตฟอร์มม็อดออนไลน์</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -4700,12 +4700,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="227"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกม็อดเพื่อดาวน์โหลด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>ตัวเลือกตัวกรอง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="252"/>
@@ -4735,7 +4735,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="229"/>
         <source>Deselect mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิกการเลือกม็อดสำหรับดาวน์โหลด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="258"/>
@@ -5429,7 +5429,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="172"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์ (%1) ใหญ่เกินไป คุณอาจต้องการเปิดในโปรแกรมแสดงที่ปรับให้เหมาะกับไฟล์ขนาดใหญ่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="187"/>
@@ -6183,22 +6183,22 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="14"/>
         <source>Confirm mod selection</source>
-        <translation type="unfinished"></translation>
+        <translation>ยืนยันการเลือกม็อด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณกำลังจะดาวน์โหลดม็อดต่อไปนี้:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>เฉพาะม็อดที่มีการตรวจสอบเท่านั้นที่จะดาวน์โหลด!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="30"/>
         <source>Filename: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อไฟล์: %1</translation>
     </message>
 </context>
 <context>
@@ -6226,7 +6226,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูโฟลเดอร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
@@ -6914,7 +6914,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
         <source>No versions are currently available.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีเวอร์ชันที่พร้อมใช้งานในขณะนี้</translation>
     </message>
 </context>
 <context>
@@ -7481,7 +7481,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
         <source>View Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูโฟลเดอร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
