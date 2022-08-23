@@ -917,7 +917,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1402,7 +1402,7 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
@@ -3419,7 +3419,7 @@ Anda harus memperbaiki masalah ini secara manual.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -4359,7 +4359,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -4419,7 +4419,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -4837,7 +4837,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="184"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="208"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="148"/>
@@ -5153,7 +5153,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="70"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="77"/>
@@ -5571,7 +5571,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nama pengguna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -5723,7 +5723,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="369"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="636"/>
