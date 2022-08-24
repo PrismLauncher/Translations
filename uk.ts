@@ -3054,7 +3054,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>Панель меню більш зручна для взаємодії з клавіатури.</translation>
+        <translation>Панель меню зручніша для взаємодії з клавіатури.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="359"/>
