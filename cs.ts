@@ -479,13 +479,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation>Nahrát Skin</translation>
+        <translation>&amp;Nahrát skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation>Odstranit skin</translation>
+        <translation>&amp;Odstranit skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -502,7 +502,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Přidat &amp;Offline</translation>
+        <translation>Přidat &amp;offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -525,7 +525,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Vítejte!
-Jestli jsi zde nový, můžeš kliknout na tlačítko &quot;Přidat&quot;, abys přidal Mojang, nebo Minecraft účet.</translation>
+Pokud jste zde noví, svůj Mojang nebo Microsoft účet můžete přidat kliknutím na tlačítko „Přidat“ vpravo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -671,7 +671,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Získávání souborů z Mojangu...</translation>
+        <translation>Načítání souborů od Mojangu...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
@@ -1278,7 +1278,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Externí editory (ponechej prázdné pro výchozí nastavení systému)</translation>
+        <translation>Externí editory (ponechte prázdné pro výchozí nastavení systému)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
@@ -2546,7 +2546,7 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Přeskočit Java Průvodce</translation>
+        <translation>Přeskočit &amp;nastavení Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
@@ -2974,7 +2974,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
         <source>User Interface</source>
-        <translation>Uživatelské Rozhraní</translation>
+        <translation>Uživatelské rozhraní</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
@@ -3005,22 +3005,22 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
         <source>Simple (Dark Icons)</source>
-        <translation>Jednoduché (Tmavé Ikony)</translation>
+        <translation>Jednoduché (tmavé ikony)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>Simple (Light Icons)</source>
-        <translation>Jednoduché (Světlé Ikony)</translation>
+        <translation>Jednoduché (světlé ikony)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>Simple (Blue Icons)</source>
-        <translation>Jednoduché (Modré Ikony)</translation>
+        <translation>Jednoduché (modré ikony)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="270"/>
         <source>Simple (Colored Icons)</source>
-        <translation>Jednoduché (Barevné Ikony)</translation>
+        <translation>Jednoduché (barevné ikony)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
@@ -3087,7 +3087,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>Console Settings</source>
-        <translation>Možnosti Konzole</translation>
+        <translation>Možnosti konzole</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
@@ -3438,7 +3438,7 @@ Chcete ho nyní odstranit?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Getting the library files from Mojang...</source>
-        <translation>Stahování knihoven od Mojangu…</translation>
+        <translation>Načítání knihoven od Mojangu…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -3943,7 +3943,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
         <source>Close &amp;Window</source>
-        <translation>Zavřít Okno</translation>
+        <translation>Zavřít &amp;okno</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
@@ -4232,7 +4232,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
         <source>Delete group &apos;%1&apos;</source>
-        <translation>Vymazat skupinu &apos;%1&apos;</translation>
+        <translation>Odstranit skupinu &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1222"/>
@@ -4252,7 +4252,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1304"/>
         <source>No accounts added!</source>
-        <translation>Žádný účet nebyl přidán!</translation>
+        <translation>Nebyly přidány žádné účty!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1336"/>
