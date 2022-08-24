@@ -2668,7 +2668,7 @@ Vyberte prosím jedno z následujících nebo vyberte spustitelný soubor Java.<
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Nevidíš svůj jazyk, nebo jeho kvalita je špatná?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;pomož nám s překladem!&lt;/a&gt;</translation>
+        <translation>Nevidíte svůj jazyk nebo jeho kvalita je špatná?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Pomozte nám s překladem!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3985,7 +3985,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
         <source>Launch &amp;Offline</source>
-        <translation>Spustit &amp;Offline</translation>
+        <translation>Spustit &amp;offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
@@ -4005,12 +4005,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
         <source>E&amp;dit Notes...</source>
-        <translation>Upravit Poznámky...</translation>
+        <translation>U&amp;pravit poznámky...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="695"/>
         <source>View &amp;Mods</source>
-        <translation>Zobrazit &amp;Mody</translation>
+        <translation>Zobrazit &amp;módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
@@ -4112,7 +4112,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>View the mods of this instance.</source>
-        <translation>Zobrazit mody této instance.</translation>
+        <translation>Zobrazit módy této instance.</translation>
     </message>
     <message>
         <source>View Worlds</source>
@@ -4216,7 +4216,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Total playtime: 0s</source>
-        <translation>Celkový uhraný čas: 0s</translation>
+        <translation>Celková doba hraní: 0s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
