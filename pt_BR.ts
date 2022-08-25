@@ -1017,7 +1017,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="68"/>
         <source>Core mods</source>
-        <translation type="unfinished">Mods centrais</translation>
+        <translation>Mods principais</translation>
     </message>
 </context>
 <context>
