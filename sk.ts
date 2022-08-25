@@ -3284,27 +3284,27 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <translation>Verejné</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="44"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="48"/>
         <source>3rd Party</source>
         <translation>Tretích strán</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="75"/>
         <source>Private</source>
         <translation>Súkromné</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="86"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="94"/>
         <source>Add pack</source>
         <translation>Pridať balíček</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="93"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="101"/>
         <source>Remove selected pack</source>
         <translation>Vymazať zvolený balíček</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="109"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="121"/>
         <source>Version selected:</source>
         <translation>Zvolená verzia:</translation>
     </message>
