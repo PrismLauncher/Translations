@@ -1803,12 +1803,12 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
         <source>Add Icon</source>
-        <translation>Přidej ikonu</translation>
+        <translation>Přidat ikonu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="66"/>
         <source>Remove Icon</source>
-        <translation>Smaž ikonu</translation>
+        <translation>Odstranit ikonu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
@@ -2075,7 +2075,7 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="621"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>Jeden nebo více modu v tomto modpacku jsou volitelné. Budou staženy, ale ve výchozím nastavení budou deaktivovány!</translation>
+        <translation>Jeden nebo více módů v tomto modpacku jsou volitelné. Budou staženy, ale ve výchozím nastavení budou deaktivovány!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="664"/>
@@ -3040,7 +3040,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varování&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Zakázáním metadat pro mody může dojít k zakázání některých nadcházejících funkcí, např. aktualizace modu!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varování&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Zakázáním metadat pro mody může dojít k zakázání některých nadcházejících funkcí, např. aktualizace módů!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
@@ -3484,7 +3484,7 @@ Důvod:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
         <source>Updating index for mod:
 %1</source>
-        <translation>Aktualizuji index pro mod:
+        <translation>Aktualizuji index pro mód:
 %1</translation>
     </message>
     <message>
@@ -3508,7 +3508,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Kopírovat celý log do schránky</translation>
+        <translation>Kopírovat celý protokol do schránky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
@@ -3826,12 +3826,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="621"/>
         <source>More news...</source>
-        <translation>Více novinek...</translation>
+        <translation>Další novinky...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="622"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Otevřít vývojový blog a přečíst si více novinek o %1.</translation>
+        <translation>Otevřít vývojový blog a přečíst si další novinky o %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="779"/>
@@ -3903,7 +3903,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="398"/>
         <source>&amp;Update...</source>
-        <translation>&amp;Update...</translation>
+        <translation>&amp;Aktualizace...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="408"/>
@@ -3913,7 +3913,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="416"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>Spravovat Účty...</translation>
+        <translation>&amp;Spravovat účty...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="496"/>
@@ -3995,7 +3995,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation>Upravit Inst&amp;anci...</translation>
+        <translation>Upravit inst&amp;anci...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
@@ -4015,17 +4015,17 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
         <source>&amp;View Worlds</source>
-        <translation>Zobrazit S&amp;věty</translation>
+        <translation>Zobrazit &amp;světy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
         <source>Manage &amp;Screenshots</source>
-        <translation>Spravovat &amp;Screenshoty</translation>
+        <translation>Spravovat &amp;screenshoty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>&amp;Change Group...</source>
-        <translation>Změnit Skupinu...</translation>
+        <translation>&amp;Změnit skupinu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
@@ -4035,7 +4035,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="720"/>
         <source>Minec&amp;raft Folder</source>
-        <translation>Složka Minec&amp;raft</translation>
+        <translation>Složka Minec&amp;raftu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
@@ -4045,12 +4045,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
         <source>Confi&amp;g Folder</source>
-        <translation>Složka Confi&amp;g</translation>
+        <translation>Složka konfi&amp;gurace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="736"/>
         <source>&amp;Instance Folder</source>
-        <translation>Složka &amp;Instance</translation>
+        <translation>Složka &amp;instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="742"/>
@@ -4074,7 +4074,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
         <source>Cop&amp;y Instance...</source>
-        <translation>Kopírovat Instanci...</translation>
+        <translation>Kopír&amp;ovat instanci...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="760"/>
@@ -4089,7 +4089,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Launch the selected instance in offline mode.</source>
-        <translation>Spustí vybranou instanci v offline modu.</translation>
+        <translation>Spustit vybranou instanci v offline režimu.</translation>
     </message>
     <message>
         <source>Edit Instance</source>
@@ -4310,12 +4310,12 @@ Prosít přidejte váš Mojang nebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1849"/>
         <source>Delete group</source>
-        <translation>Smazat skupinu</translation>
+        <translation>Odstranit skupinu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1849"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation>Jste si jistý, že chcete smazat skupinu %1?</translation>
+        <translation>Opravdu chcete odstranit skupinu %1?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1996"/>
@@ -4328,10 +4328,10 @@ Prosít přidejte váš Mojang nebo Minecraft účet.</translation>
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>Snažíte se smazat: %1
-Toto je permanentní a kompletně to smaže tuto instanci.
+        <translation>Snažíte se odstranit: %1
+Tato akce je nevratná a kompletně odstraní instanci.
 
-Jste si jistý?</translation>
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
@@ -4779,12 +4779,12 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="566"/>
         <source>The name of the mod.</source>
-        <translation>Název modu.</translation>
+        <translation>Název módu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="568"/>
         <source>The version of the mod.</source>
-        <translation>Verze modu.</translation>
+        <translation>Verze módu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="570"/>
@@ -5002,12 +5002,12 @@ Jste si jistý?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="227"/>
         <source>Select mod for download</source>
-        <translation>Vybrat mod ke stažení</translation>
+        <translation>Vybrat mód ke stažení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
         <source>Filter options</source>
-        <translation>Možnosti Filtru</translation>
+        <translation>Možnosti filtru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="252"/>
@@ -5037,7 +5037,7 @@ Jste si jistý?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="229"/>
         <source>Deselect mod for download</source>
-        <translation>Zrušit výběr modu ke stažení</translation>
+        <translation>Zrušit výběr módu ke stažení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="258"/>
@@ -5716,12 +5716,12 @@ Aktualizujte prosím %1!</translation>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="80"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Delete</source>
-        <translation>Smazat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>Nahrát log na službu pastebin zvolenou v nastavení.</translation>
+        <translation>Nahrát log na službu zvolenou v nastavení.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
@@ -5768,12 +5768,12 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Do you really want to delete %1?</source>
-        <translation>Opravdu chcete smazat %1?</translation>
+        <translation>Opravdu chcete odstranit %1?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <source>Unable to delete %1: %2</source>
-        <translation>Nelze smazat %1: %2</translation>
+        <translation>Nelze odstranit %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="246"/>
@@ -5783,25 +5783,25 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="249"/>
         <source>Do you really want to delete all log files?</source>
-        <translation>Opravdu chcete smazat všechny logové soubory?</translation>
+        <translation>Opravdu chcete odstranit všechny soubory protokolů?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="254"/>
         <source>Do you really want to delete these files?
 %1</source>
-        <translation>Opravdu chcete smazat?
+        <translation>Opravdu chcete odstranit tyto soubory?
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="281"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>Nelze odstranit soubor!</translation>
+        <translation>Nepodařilo se odstranit některé soubory!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="286"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>Některé soubory nebylo možno vymazat:
+        <translation>Nepodařilo se odstranit některé soubory:
 %1</translation>
     </message>
     <message>
@@ -6583,7 +6583,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
         <source>Delete</source>
-        <translation>Smazat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
@@ -6653,7 +6653,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="495"/>
         <source>This will delete all selected screenshots.</source>
-        <translation>Toto vymaže všechny vybrané screenshoty.</translation>
+        <translation>Tato akce odstraní všechny vybrané screenshoty.</translation>
     </message>
 </context>
 <context>
