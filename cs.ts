@@ -6136,7 +6136,7 @@ Vyber si dobře svoje jméno:</translation>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="10"/>
         <source>Dark</source>
-        <translation>Tmavý</translation>
+        <translation>Tmavé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="47"/>
