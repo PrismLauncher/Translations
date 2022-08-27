@@ -4186,7 +4186,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
         <source>Delete the selected instance.</source>
-        <translation>Smaže vybranou instanci.</translation>
+        <translation>Odstranit vybranou instanci.</translation>
     </message>
     <message>
         <source>Copy Instance</source>
