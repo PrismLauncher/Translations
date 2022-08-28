@@ -446,7 +446,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Tiliin yhdistetty Minecraft-profiilin nimi.</translation>
+        <translation>Voiko tämän tilin siirtää Microsoft tiliin?</translation>
     </message>
 </context>
 <context>
@@ -455,25 +455,25 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">Lisää Mojang</translation>
+        <translation>Lisää &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Poista</translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">Aseta oletukseksi</translation>
+        <translation>Aseta oletukseksi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Ei oletusta</translation>
+        <translation>Ei oletusta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
@@ -559,17 +559,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinun on lisättävä Microsoft- tai Mojang-tili, joka omistaa Minecraftin, ennen kuin voit lisätä offline-tilin.&lt;br&gt;&lt;br&gt;Jos olet hukannut tilisi, voit ottaa yhteyttä Microsoftin tukeen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoita haluamasi käyttäjätunnus lisätäksesi offline-tilisi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -640,7 +640,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1263"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskeytetty</translation>
     </message>
 </context>
 <context>
@@ -659,7 +659,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskeytetty</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -698,13 +698,13 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Järjestä nimen mukaan</translation>
+        <translation>Järjestä nimen mukaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Järjestä peliversion mukaan</translation>
+        <translation>Järjestä peliversion mukaan</translation>
     </message>
 </context>
 <context>
@@ -760,7 +760,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Varoitus</translation>
     </message>
 </context>
 <context>
@@ -779,7 +779,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Hae ja suodata ...</translation>
+        <translation>Hae ja suodata ...</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -803,7 +803,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="58"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1 versioita ei ole tällä hetkellä saatavilla</translation>
+        <translation>Minecraft %1 versioita ei ole tällä hetkellä saatavilla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
@@ -1165,12 +1165,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
         <source>Filter:</source>
-        <translation type="unfinished">Suodatin:</translation>
+        <translation>Suodatin:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished">Toiminnot</translation>
+        <translation>Toiminnot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
@@ -1583,7 +1583,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Järjestä nimen mukaan</translation>
+        <translation>Järjestä nimen mukaan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
@@ -2511,7 +2511,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="207"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished">Testi</translation>
+        <translation>&amp;Testaa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
@@ -4921,7 +4921,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Valittu versio:</translation>
+        <translation>Valittu versio:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
@@ -5338,7 +5338,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Valittu versio:</translation>
+        <translation>Valittu versio:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="64"/>
@@ -6021,13 +6021,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">Käyttäjänimi:</translation>
+        <translation>&amp;Käyttäjänimi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">Salasana:</translation>
+        <translation>&amp;Salasana:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
@@ -6080,7 +6080,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkosivusto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="73"/>
@@ -6945,7 +6945,7 @@ inheritsFrom puuttuu</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Valittu versio:</translation>
+        <translation>Valittu versio:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
@@ -7185,7 +7185,7 @@ inheritsFrom puuttuu</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1 versioita ei ole tällä hetkellä saatavilla</translation>
+        <translation>Minecraft %1 versioita ei ole tällä hetkellä saatavilla</translation>
     </message>
 </context>
 <context>
