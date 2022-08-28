@@ -982,7 +982,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
 <context>
     <name>ConcurrentTask</name>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="142"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="146"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 Aufgabe(n) werden ausgeführt (%2 von %3 sind erledigt)</translation>
     </message>
@@ -1119,29 +1119,29 @@ Bitte aktualisiere macOS und PolyMC.</translation>
 <context>
     <name>EnsureMetadataTask</name>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="96"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
         <translation>Prüfe ob Mods Metadaten haben...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1...</source>
         <translation>Metadaten werden von %1 angefragt...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="174"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>Metadaten für &apos;%2&apos; werden von %1 angefragt...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="229"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="304"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>Verarbeite Modrinth API Antwort für &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="375"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="442"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Verarbeite CurseForge API Antwort für &apos;%1&apos;...</translation>
     </message>
@@ -5219,7 +5219,7 @@ Bitte aktualisiere %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="296"/>
         <source>Abort</source>
         <translation>Abbrechen</translation>
     </message>
@@ -5250,7 +5250,7 @@ Bitte aktualisiere %1!</translation>
         <translation>Die Mod &apos;%1&apos; hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen über die Aktualisierung der Mod zu erhalten. Wähle dazu bitte einen Mod-Anbieter aus, mit dem wir nach Updates für sie suchen können.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="334"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="342"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Konnte keine gültige Version auf dem/den ausgewählten Mod-Anbieter(n) finden</translation>
     </message>
@@ -5282,7 +5282,7 @@ Bitte aktualisiere %1!</translation>
         <translation type="vanished">Diese Mod (%1) hat noch keine Metadaten. Wir müssen diese erstellen, um relevante Informationen, wie bspw. diese Mod aktualisiert werden kann, zu pflegen. Wähle dazu bitte einen Mod-Anbieter aus, bei dem wir nach Updates für %1 suchen können.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="289"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="297"/>
         <source>Generating metadata...</source>
         <translation>Erzeuge Metadaten...</translation>
     </message>
@@ -5291,27 +5291,27 @@ Bitte aktualisiere %1!</translation>
         <translation type="vanished">Es wurde keine gültige Version bei dem/den ausgewählten Mod-Anbieter(n) gefunden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="348"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="356"/>
         <source>Provider: %1</source>
         <translation>Anbieter: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="359"/>
         <source>Old version: %1</source>
         <translation>Alte Version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="359"/>
         <source>Not installed</source>
         <translation>Nicht installiert</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="362"/>
         <source>New version: %1</source>
         <translation>Neue Version: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
         <source>Changelog of the latest version</source>
         <translation>Changelog der neuesten Version</translation>
     </message>
@@ -5432,32 +5432,32 @@ Bitte aktualisiere %1!</translation>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="27"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="30"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>Bereite Mods für Modrinth vor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="37"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="42"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>Deaktivierte Mods werden nicht aktualisiert, um duplizierte Mods zu vermeiden!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="83"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Verarbeite Modrinth API Antwort...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="98"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="103"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Keine gültige Version für diese Mod gefunden. Sie ist wahrscheinlich nicht verfügbar für die aktuelle Spielversion / Mod-Loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
         <source>Mod has an empty download URL</source>
         <translation>Mod hat eine leere Download-URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="170"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Warte auf Modrinth API Antwort...</translation>
     </message>

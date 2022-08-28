@@ -954,7 +954,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
 <context>
     <name>ConcurrentTask</name>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="142"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="146"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>Vykonávání %1 úkol(ů) (dokončeno %2 z %3)</translation>
     </message>
@@ -1091,29 +1091,29 @@ Prosím aktualizujte váš operační systém a %1.</translation>
 <context>
     <name>EnsureMetadataTask</name>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="96"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
         <translation>Kontrola, zda mají módy metadata...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="172"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1...</source>
         <translation>Posílání žádosti o metadata z %1...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="174"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>Posílání žádosti o metadata z %1 pro &apos;%2&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="229"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="304"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>Zpracovávání odpovědi API z Modrinth pro &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="375"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="442"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>Zpracovávání odpovědi API z CurseForge pro &apos;%1&apos;...</translation>
     </message>
@@ -5141,7 +5141,7 @@ Aktualizujte prosím %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="288"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="296"/>
         <source>Abort</source>
         <translation>Přerušit</translation>
     </message>
@@ -5172,7 +5172,7 @@ Aktualizujte prosím %1!</translation>
         <translation>Mód &apos;%1&apos; zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mód aktualizovat. Za tímto účelem prosím vyberte poskytovatele módů, který můžeme použít ke kontrole aktualizací tohoto módu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="334"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="342"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>Nepodařilo se najít platnou verzi u vybraných poskytovatelů módů</translation>
     </message>
@@ -5204,7 +5204,7 @@ Aktualizujte prosím %1!</translation>
         <translation type="vanished">Tento mód (%1) nemá ještě stejná metadata. Musíme je nejprve vytvořit, abychom ponechali relevantní informace o tom, jak aktualizovat tento mód. Abyste tak učinili, vyberte poskytovatele módů, na kterém budeme moci vyhledat aktualizace módu %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="289"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="297"/>
         <source>Generating metadata...</source>
         <translation>Generování metadat...</translation>
     </message>
@@ -5213,27 +5213,27 @@ Aktualizujte prosím %1!</translation>
         <translation type="vanished">Nepodařilo se najít platnou verzi vybraných poskytovatelů módů</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="348"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="356"/>
         <source>Provider: %1</source>
         <translation>Poskytovatel: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="359"/>
         <source>Old version: %1</source>
         <translation>Stará verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="351"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="359"/>
         <source>Not installed</source>
         <translation>Nenainstalováno</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="354"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="362"/>
         <source>New version: %1</source>
         <translation>Nová verze: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="365"/>
         <source>Changelog of the latest version</source>
         <translation>Seznam změn nejnovější verze</translation>
     </message>
@@ -5348,32 +5348,32 @@ Aktualizujte prosím %1!</translation>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="27"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="30"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>Příprava módů pro Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="37"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="42"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>Zakázané módy nebudou aktualizovány pro zabránění problémům s duplikací módů!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="83"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>Zpracovávání odpovědi API z Modrinth...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="98"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="103"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>Nebyla nalezena žádná platná verze tohoto módu. Nejspíš není dostupný na současnou verzi hry / modloader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
         <source>Mod has an empty download URL</source>
         <translation>Mód má prázdnou URL stahování</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="165"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="170"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>Čekání na odpověď API z Modrinth...</translation>
     </message>
