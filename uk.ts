@@ -6340,7 +6340,7 @@ Roll back to previous version?</source>
         <source>The rollback failed too.
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
-        <translation>Відкат теж не вдався.
+        <translation>Відкат також не вдався.
 Вам доведеться відновити %1 вручну.
 Будь ласка, повідомте нам, чому і як це сталося.</translation>
     </message>
