@@ -1412,27 +1412,27 @@ Please update both your operating system and %1.</source>
         <translation>正在下載 FML 函式庫…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="75"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
         <source>Copying FML libraries into the instance...</source>
         <translation>複製 FML 函式庫至實例中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
         <source>Failed creating FML library folder inside the instance.</source>
         <translation>在實例中建立 FML 函式庫資料夾時失敗。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
         <source>Failed copying Forge/FML library: %1.</source>
         <translation>複製 Forge/FML 函式庫時失敗：%1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
         <source>Failed to download the following files:
 %1
 
@@ -3216,20 +3216,20 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <translation>無法找到啟動器函式庫，請檢查您的安裝。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="150"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>無法找到包裝指令 &quot;%1&quot;。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="183"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>無法啟動 Minecraft！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="211"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="225"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="192"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="206"/>
         <source>Game crashed.</source>
         <translation>遊戲崩潰了。</translation>
     </message>
@@ -4442,32 +4442,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="796"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="801"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;程序ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="799"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="804"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="802"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="807"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="804"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="809"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="876"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="881"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="888"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="893"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4476,17 +4476,17 @@ Are you sure?</source>
         <translation type="vanished">Minecraft %1（%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="892"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="897"/>
         <source>, last played for %1</source>
         <translation>，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="896"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="901"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="901"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="906"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>
