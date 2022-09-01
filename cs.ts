@@ -2021,12 +2021,12 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="412"/>
         <source>Blocked mods found</source>
-        <translation>Nalezeny zablokované mody</translation>
+        <translation>Nalezeny zablokované módy</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="413"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation>Následující mody byly zablokovány pro launchery třetích stran.&lt;br/&gt;Budete je muset stáhnout ručně a přidat je do modpacku</translation>
+        <translation>Následující módy byly zablokovány pro launchery třetích stran.&lt;br/&gt;Budete je muset stáhnout ručně a přidat je do modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="420"/>
@@ -2058,7 +2058,7 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/InstanceImportTask.cpp" line="526"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="779"/>
         <source>Downloading mods...</source>
-        <translation>Stahování módů…</translation>
+        <translation>Stahování módů...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="534"/>
@@ -2897,7 +2897,7 @@ Možná budete muset spravit své mody, jelikož hra stále generuje výpisy do 
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Sledování protokolu hry zastaveno, protože délka protokolu překročila %1 řádků.
-Možná budete muset opravit své mody, protože hra se stále zapisuje do souborů a pravděpodobně mrhá místem na pevném disku alarmující rychlostí!</translation>
+Možná budete muset opravit své módy, protože hra se stále zapisuje do souborů a pravděpodobně mrhá místem na pevném disku alarmující rychlostí!</translation>
     </message>
 </context>
 <context>
@@ -3025,7 +3025,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>Mody</translation>
+        <translation>Módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -3035,7 +3035,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation>Zakázat používání metadat pro mody?</translation>
+        <translation>Zakázat používání metadat pro módy?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
@@ -3716,12 +3716,12 @@ Důvod:
         <location filename="src/launcher/ui/MainWindow.cpp" line="311"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>Zobrazit společnou složku s módy</translation>
+        <translation>Zobrazit &amp;společnou složku s módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Otevře centrální složku s mody v souborovém prohlížeči.</translation>
+        <translation>Otevře centrální složku s módy v souborovém prohlížeči.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
@@ -4098,7 +4098,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Změní nastavení, mody a verzi instance.</translation>
+        <translation>Změní nastavení, módy a verzi instance.</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -4693,12 +4693,12 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="86"/>
         <source>Download mods</source>
-        <translation>Stáhnout mody</translation>
+        <translation>Stáhnout módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="99"/>
         <source>Confirm mods to download</source>
-        <translation>Potvrďte mody ke stažení</translation>
+        <translation>Potvrďte módy ke stažení</translation>
     </message>
 </context>
 <context>
@@ -4849,12 +4849,12 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods</source>
-        <translation>Stáhnout mody</translation>
+        <translation>Stáhnout módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
         <source>Download mods from online mod platforms</source>
-        <translation>Stáhnout mody z online mod platforem</translation>
+        <translation>Stáhnout módy z online modifikačních platforem</translation>
     </message>
     <message>
         <source>Add .jar</source>
@@ -4991,7 +4991,7 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation>Vyhledat mody...</translation>
+        <translation>Hledat módy...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
@@ -5081,7 +5081,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="235"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation>Chyba sítě. Nepodařilo se načíst mody.</translation>
+        <translation>Chyba sítě. Nepodařilo se načíst módy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="242"/>
@@ -7473,12 +7473,12 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
         <source>Install mods</source>
-        <translation>Instalovat mody</translation>
+        <translation>Instalovat módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Install normal mods.</source>
-        <translation>Instalovat normální mody.</translation>
+        <translation>Instalovat normální módy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
@@ -7593,12 +7593,12 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Select jar mods</source>
-        <translation>Vyber Jar mody</translation>
+        <translation>Vyberte Jar módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>Minecraft .jar mody (*.zip *.jar)</translation>
+        <translation>Minecraft .jar módy (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
