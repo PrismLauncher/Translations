@@ -862,7 +862,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
         <source>Open All</source>
-        <translation type="unfinished"></translation>
+        <translation>Összes megnyitása</translation>
     </message>
 </context>
 <context>
@@ -1905,7 +1905,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="24"/>
         <source>Copying instance %1</source>
-        <translation>&quot;%1&quot; példány másolása</translation>
+        <translation>%1 példány másolása</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
@@ -2091,7 +2091,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="170"/>
         <source>%1 Instance</source>
-        <translation>&quot;%1&quot; példány</translation>
+        <translation>%1 példány</translation>
     </message>
 </context>
 <context>
@@ -4189,7 +4189,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
         <source>Delete group &apos;%1&apos;</source>
-        <translation>&quot;%1&quot; csoport törlése</translation>
+        <translation>%1 csoport törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1222"/>
@@ -5944,7 +5944,7 @@ Gondosan válassza ki a nevét:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
         <source>The name %1 is not allowed.</source>
-        <translation>A &quot;%1&quot; név nem engedélyezett.</translation>
+        <translation>A(z) %1 név nem engedélyezett.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
@@ -6446,30 +6446,30 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="440"/>
         <source>Name</source>
-        <translation type="unfinished">Név</translation>
+        <translation>Név</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="442"/>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Utoljára módosítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="450"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Az erőforrás engedélyezve van?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Az erőforrás neve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="456"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Az erőforrás legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
 </context>
 <context>
@@ -7293,7 +7293,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
         <source>Make the selected package apply sooner.</source>
-        <translation>A kiválasztott csomag hamarabb érvényesüljön.</translation>
+        <translation>A kiválasztott csomagot hamarabb érvényesítése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
@@ -7303,7 +7303,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
         <source>Make the selected package apply later.</source>
-        <translation>A kiválasztott csomagot később alkalmazza.</translation>
+        <translation>A kiválasztott csomagot később érvényesítése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
