@@ -633,12 +633,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="732"/>
+        <location filename="src/launcher/Application.cpp" line="737"/>
         <source>Settings</source>
         <translation>Asetukset</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1263"/>
+        <location filename="src/launcher/Application.cpp" line="1270"/>
         <source>Aborted</source>
         <translation>Keskeytetty</translation>
     </message>
@@ -1046,20 +1046,20 @@ Please update both your operating system and %1.</source>
 <context>
     <name>DirectJavaLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Paketoijakomentoa &quot;%1&quot; ei löytynyt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
         <translation>Minecraftia ei voitu käynnistää!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="116"/>
-        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="126"/>
+        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
         <translation>Peli kaatui.</translation>
     </message>
@@ -2349,12 +2349,22 @@ Yritä uudelleen.</translation>
         <translation>Asetukset</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="357"/>
+        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="362"/>
+        <source>MangoHud could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
         <source>Select a Java version</source>
         <translation>Valitse Java-versio</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="391"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
         <source>Find Java executable</source>
         <translation>Etsi Java-ohjelma</translation>
     </message>
@@ -3165,20 +3175,20 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="150"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Paketoijakomentoa &quot;%1&quot; ei löytynyt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="202"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Minecraftia ei voitu käynnistää!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="192"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="211"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="225"/>
         <source>Game crashed.</source>
         <translation>Peli kaatui.</translation>
     </message>
@@ -4362,32 +4372,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="801"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="794"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ISTUNTOTUNNISTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="804"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="797"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;PÄÄSYTODISTUS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="807"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="800"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;ASIAKASTODISTUS&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="809"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="802"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFIILITUNNISTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="881"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="874"/>
         <source>broken</source>
         <translation>viallinen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="893"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="886"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4396,17 +4406,17 @@ Are you sure?</source>
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="897"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="890"/>
         <source>, last played for %1</source>
         <translation>, viimeksi pelattu %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="901"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="894"/>
         <source>, total played for %1</source>
         <translation>, pelattu yhteensä %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="906"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="899"/>
         <source>, has crashed.</source>
         <translation>, on kaatunut.</translation>
     </message>
@@ -4552,6 +4562,16 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
+        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
+        <source>MangoHud could not be found on your system.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

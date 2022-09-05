@@ -651,12 +651,12 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="732"/>
+        <location filename="src/launcher/Application.cpp" line="737"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1263"/>
+        <location filename="src/launcher/Application.cpp" line="1270"/>
         <source>Aborted</source>
         <translation type="unfinished">Interrotto</translation>
     </message>
@@ -1068,20 +1068,20 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
 <context>
     <name>DirectJavaLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Il comando wrapper &quot;%1&quot; non è stato trovato.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="107"/>
+        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
         <translation>Impossibile avviare Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="116"/>
-        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="126"/>
+        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
         <translation>Gioco chiuso inaspettatamente.</translation>
     </message>
@@ -2377,12 +2377,22 @@ Per favore, prova di nuovo.</translation>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="357"/>
+        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="362"/>
+        <source>MangoHud could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
         <source>Select a Java version</source>
         <translation>Seleziona una versione di Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="391"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
         <source>Find Java executable</source>
         <translation>Trova l&apos;eseguibile di Java</translation>
     </message>
@@ -3206,20 +3216,20 @@ Concedere l&apos;accesso a PolyMC tramite Flatseal è raccomandato.</translation
         <translation>Libreria del launcher non trovata. Controlla la tua installazione.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="150"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Il comando wrapper &quot;%1&quot; non è stato trovato.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="183"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="202"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Impossibile avviare Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="192"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="206"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="211"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="225"/>
         <source>Game crashed.</source>
         <translation>Gioco chiuso inaspettatamente.</translation>
     </message>
@@ -4436,32 +4446,32 @@ Sei sicuro?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="801"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="794"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESSIONE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="804"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="797"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TOKEN DI ACCESSO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="807"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="800"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;TOKEN CLIENT&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="809"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="802"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID PROFILO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="881"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="874"/>
         <source>broken</source>
         <translation>malfunzionante</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="893"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="886"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4470,17 +4480,17 @@ Sei sicuro?</translation>
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="897"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="890"/>
         <source>, last played for %1</source>
         <translation>, giocato l&apos;ultima volta per %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="901"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="894"/>
         <source>, total played for %1</source>
         <translation>, giocato per un totale di %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="906"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="899"/>
         <source>, has crashed.</source>
         <translation>, si è chiuso inaspettatamente.</translation>
     </message>
@@ -4626,6 +4636,16 @@ Sei sicuro?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
+        <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
+        <source>MangoHud could not be found on your system.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
