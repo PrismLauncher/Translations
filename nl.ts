@@ -3901,7 +3901,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="389"/>
         <source>&amp;About %1</source>
-        <translation>&amp;Ongeveer %1</translation>
+        <translation>&amp;Over %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="398"/>
