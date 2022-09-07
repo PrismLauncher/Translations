@@ -4713,22 +4713,27 @@ Biztos vagy benne?</translation>
         <translation>Minecraft verziók</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="27"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
+        <source>failed to get version index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
         <source>Strict match (= %1)</source>
         <translation>Szigorú egyezés (=%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="34"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Major version match (= %1.%2.x)</source>
         <translation>Fő verzió egyezése (=%1.%2.x)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="38"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="72"/>
         <source>Major version match (unsupported)</source>
         <translation>Fő verzió egyezése (nem támogatott)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="42"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="76"/>
         <source>Any version</source>
         <translation>Bármilyen verzió</translation>
     </message>
@@ -4982,7 +4987,7 @@ Biztos vagy benne?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="289"/>
         <source>Select mod for download</source>
         <translation>Töltsd le a modot</translation>
     </message>
@@ -4992,62 +4997,62 @@ Biztos vagy benne?</translation>
         <translation>Szűrök</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="314"/>
         <source> by </source>
         <translation> tőle: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="192"/>
         <source>Loading versions...</source>
         <translation>Verziók betöltése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="200"/>
         <source>No valid version found.</source>
         <translation>Nem található érvényes verzió.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="271"/>
         <source>No valid version found!</source>
         <translation>Nem található érvényes verzió!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="272"/>
         <source>Cannot select invalid version :(</source>
         <translation>Nem lehet érvénytelen verziót kiválasztani :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="291"/>
         <source>Deselect mod for download</source>
         <translation>Ne töltsd le a modot</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="311"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="320"/>
         <source>Donate information: </source>
         <translation>Támogatási információk: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="326"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="335"/>
         <source>External links:</source>
         <translation>Külső linkek:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="339"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Hibák: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="341"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="334"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="343"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Forráskód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="345"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>

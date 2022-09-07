@@ -4820,22 +4820,27 @@ Você tem certeza?</translation>
         <translation>Versões do Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="27"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
+        <source>failed to get version index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
         <source>Strict match (= %1)</source>
         <translation>Estritamente igual (= %1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="34"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Major version match (= %1.%2.x)</source>
         <translation>Versão maior igual (= %1.%2.x)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="38"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="72"/>
         <source>Major version match (unsupported)</source>
         <translation>Versão maior igual (não suportado)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="42"/>
+        <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="76"/>
         <source>Any version</source>
         <translation>Qualquer versão</translation>
     </message>
@@ -5092,7 +5097,7 @@ Você tem certeza?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="280"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="289"/>
         <source>Select mod for download</source>
         <translation>Selecionar mod para download</translation>
     </message>
@@ -5102,62 +5107,62 @@ Você tem certeza?</translation>
         <translation>Opções de filtro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="314"/>
         <source> by </source>
         <translation> por </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="183"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="192"/>
         <source>Loading versions...</source>
         <translation>Carregando versões...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="200"/>
         <source>No valid version found.</source>
         <translation>Versão válida não encontrada.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="262"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="271"/>
         <source>No valid version found!</source>
         <translation>Versão válida não encontrada!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="263"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="272"/>
         <source>Cannot select invalid version :(</source>
         <translation>Não pode selecionar uma versão inválida :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="282"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="291"/>
         <source>Deselect mod for download</source>
         <translation>Desselecionar mod para download</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="311"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="320"/>
         <source>Donate information: </source>
         <translation>Informações sobre doações: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="326"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="335"/>
         <source>External links:</source>
         <translation>Links externos:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="339"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Erros: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="332"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="341"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="334"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="343"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Código-fonte: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="345"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
