@@ -4808,7 +4808,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation type="unfinished"></translation>
+        <translation>获取版本索引失败</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
