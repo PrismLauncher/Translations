@@ -974,12 +974,12 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>ConcurrentTask</name>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="70"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
         <translation>未能终止所有运行中的任务。</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="148"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>正在执行 %1 个任务（已完成 %3 个任务中的 %2 个）</translation>
     </message>
