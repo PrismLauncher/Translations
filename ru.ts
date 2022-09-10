@@ -980,7 +980,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось прервать все запущенные задачи.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
@@ -2434,12 +2434,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="357"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral Interactive&apos;s GameMode не найден в системе.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="362"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHud не найден в системе.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
@@ -4704,12 +4704,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral Interactive&apos;s GameMode не найден в системе.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHud не найден в системе.</translation>
     </message>
 </context>
 <context>
@@ -4801,7 +4801,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
