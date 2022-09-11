@@ -3599,7 +3599,7 @@ Důvod:
         <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>Hra byla usmrtěna uživatelem.</translation>
+        <translation>Hra byla usmrcena uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
