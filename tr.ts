@@ -5578,7 +5578,12 @@ Lütfen %1 güncelleyin!</translation>
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="122"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="101"/>
+        <source>Failed to abort all tasks in the NetJob!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation type="unfinished">%1 işlem(ler) gerçekleştiriliyor. (%3 kadarından %2 kadarı tamamlandı.)</translation>
     </message>

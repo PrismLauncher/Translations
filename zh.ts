@@ -5635,7 +5635,12 @@ Please update %1!</source>
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="122"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="101"/>
+        <source>Failed to abort all tasks in the NetJob!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>正在执行 %1 个任务（已完成 %3 个任务中的 %2 个）</translation>
     </message>
