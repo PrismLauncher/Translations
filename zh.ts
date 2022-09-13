@@ -3891,7 +3891,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="675"/>
         <source>&amp;Kill</source>
-        <translation>杀死进程（&amp;K）</translation>
+        <translation>结束进程（&amp;K）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="662"/>
