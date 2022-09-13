@@ -5586,7 +5586,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="101"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se přerušit všechny úlohy v NetJob!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
