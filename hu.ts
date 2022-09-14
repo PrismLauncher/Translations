@@ -89,7 +89,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation></translation>
+        <translation>A &amp;CurseForge Core API-a</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -258,12 +258,12 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Build szám:</translation>
+        <translation>Build dátuma:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
@@ -298,12 +298,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Build dátuma: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -1006,7 +1006,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation type="unfinished">Mag modok</translation>
+        <translation>Alap (core) modok</translation>
     </message>
 </context>
 <context>
@@ -2356,12 +2356,12 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="357"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Feral Interactive GameMode-ja nem található meg a rendszereden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="362"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>A MangoHud nem található meg a rendszereden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
@@ -2498,7 +2498,7 @@ Kérlek próbáld újra.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="150"/>
         <source>Java Runtime</source>
-        <translation></translation>
+        <translation>A Java Runtime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
@@ -3033,7 +3033,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
         <source>Flat</source>
-        <translation>Flat</translation>
+        <translation>Lapos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
@@ -3803,7 +3803,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="621"/>
         <source>More news...</source>
-        <translation>További hírek</translation>
+        <translation>További hírek...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="622"/>
@@ -3833,7 +3833,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="296"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Példány hozzáadása</translation>
+        <translation>Példány hozzáadása...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="316"/>
@@ -3845,7 +3845,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.cpp" line="336"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Beállítások</translation>
+        <translation>Beállítások...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="344"/>
@@ -3855,12 +3855,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="353"/>
         <source>Report a &amp;Bug...</source>
-        <translation>&amp;Hiba jelentése</translation>
+        <translation>Jelentsen be egy &amp;hibát...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="362"/>
         <source>&amp;Matrix Space</source>
-        <translation>&amp;Matrix Space</translation>
+        <translation>&amp;Mátrix Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
@@ -3880,7 +3880,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="398"/>
         <source>&amp;Update...</source>
-        <translation>Frissítés</translation>
+        <translation>&amp;Frissítés...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="408"/>
@@ -3972,7 +3972,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation>Példány szerkesztése</translation>
+        <translation>Példány szerkesztése...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
@@ -4002,7 +4002,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>&amp;Change Group...</source>
-        <translation>&amp;Csoport változtatása</translation>
+        <translation>&amp;Csoportváltás...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
@@ -4032,7 +4032,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="742"/>
         <source>E&amp;xport Instance...</source>
-        <translation>Példány exportálása</translation>
+        <translation>Példány exportálása...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
@@ -4051,7 +4051,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
         <source>Cop&amp;y Instance...</source>
-        <translation>Példány másolása</translation>
+        <translation>Példány másolása...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="760"/>
@@ -4188,7 +4188,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Total playtime: 0s</source>
-        <translation>Teljes játékidő: 0 mp.</translation>
+        <translation>Teljes játékidő: 0 mp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1086"/>
@@ -4583,12 +4583,12 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Feral Interactive GameMode-ja nem található meg a rendszeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>A MangoHud nem található meg a rendszereden.</translation>
     </message>
 </context>
 <context>
@@ -4667,7 +4667,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="66"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Felülvizsgálat és megerősítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
@@ -5075,8 +5075,8 @@ Biztos vagy benne?</translation>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Az API verzió túl régi!
-Kérjük, frissítse a következőt: %1</translation>
+        <translation>Az API verzió túl régi! 
+Kérjük, frissítse a következőt: %1!</translation>
     </message>
 </context>
 <context>
@@ -5312,8 +5312,8 @@ Kérjük, frissítse a következőt: %1</translation>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Az API verzió túl régi!
-Kérjük, frissítse a következőt: %1</translation>
+        <translation>Az API verzió túl régi! 
+Kérjük, frissítse a következőt: %1!</translation>
     </message>
 </context>
 <context>
@@ -5522,7 +5522,7 @@ Kérjük, frissítse a következőt: %1</translation>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">%1 feladat végrehajtása (%2/%3 kész)</translation>
+        <translation>%1 feladat(ok) végrehajtása (%2/%3 kész)</translation>
     </message>
 </context>
 <context>
@@ -6389,7 +6389,7 @@ Kérjük, tájékoztasson minket, hogy miért és hogyan történt ez.</translat
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1m %2s</source>
-        <translation>%1 perc %2 mp.</translation>
+        <translation>%1 perc %2 mp</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
@@ -6556,7 +6556,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
         <source>Name</source>
-        <translation type="unfinished">Név</translation>
+        <translation>Név</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
@@ -6566,7 +6566,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
         <source>Last changed</source>
-        <translation type="unfinished">Utoljára változtatva</translation>
+        <translation>Utoljára módosítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
