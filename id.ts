@@ -635,12 +635,12 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="739"/>
+        <location filename="src/launcher/Application.cpp" line="743"/>
         <source>Settings</source>
         <translation>Pengaturan</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1272"/>
+        <location filename="src/launcher/Application.cpp" line="1285"/>
         <source>Aborted</source>
         <translation>Dibatalkan</translation>
     </message>

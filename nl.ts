@@ -643,12 +643,12 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="739"/>
+        <location filename="src/launcher/Application.cpp" line="743"/>
         <source>Settings</source>
         <translation>Instellingen</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1272"/>
+        <location filename="src/launcher/Application.cpp" line="1285"/>
         <source>Aborted</source>
         <translation>Geannuleerd</translation>
     </message>

@@ -647,12 +647,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="739"/>
+        <location filename="src/launcher/Application.cpp" line="743"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1272"/>
+        <location filename="src/launcher/Application.cpp" line="1285"/>
         <source>Aborted</source>
         <translation>중단됨</translation>
     </message>

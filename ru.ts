@@ -659,12 +659,12 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="739"/>
+        <location filename="src/launcher/Application.cpp" line="743"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1272"/>
+        <location filename="src/launcher/Application.cpp" line="1285"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
