@@ -4695,17 +4695,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="66"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевiрити та пiдтвердити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкриває нове вікно для перевірки та підтвердження вашого вибору. Швидкий доступ: Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="90"/>
@@ -4724,7 +4724,8 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="36"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження моду:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
@@ -4762,7 +4763,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="76"/>
         <source>Any version</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь яка версія</translation>
     </message>
 </context>
 <context>
@@ -4901,7 +4902,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Спробувати знайти оновлення для обраних модів (для всіх модів якщо обраних немає)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -4913,7 +4914,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка спершу встановіть завантажувач модів!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
@@ -4926,7 +4927,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження припинене користувачем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
@@ -4938,33 +4939,33 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="185"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Відмінити</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновлювання моду було відмінено!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Всі обрані моди оновлені! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевірка оновлень</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; актуальної версії! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Всі моди актуальних версій! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
@@ -5001,7 +5002,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Пошук модів...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
@@ -5012,12 +5013,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="289"/>
         <source>Select mod for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Оберіть мод для завантаження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування фільтрів</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="314"/>
@@ -5027,17 +5028,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="192"/>
         <source>Loading versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження версій...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="200"/>
         <source>No valid version found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знайдено жодної версії.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="271"/>
         <source>No valid version found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знайдено жодної версії!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="272"/>
