@@ -5699,7 +5699,7 @@ Bitte aktualisiere %1!</translation>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="101"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation type="unfinished"></translation>
+        <translation>Es konnten nicht alle Aufgaben im NetJob abgebrochen werden!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
