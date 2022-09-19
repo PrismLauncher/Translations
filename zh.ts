@@ -2448,7 +2448,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>启动演示</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -2785,7 +2785,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择演示模式玩家名。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="228"/>
@@ -4045,12 +4045,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>启动演示版(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>在演示模式下启动多选实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
@@ -4311,12 +4311,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1232"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>启动演示版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1233"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
