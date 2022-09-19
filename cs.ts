@@ -2427,7 +2427,7 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -2764,7 +2764,7 @@ Vyberte prosím jedno z následujících nebo vyberte spustitelný soubor Java.<
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvolte jméno hráče v demo režimu.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="228"/>
@@ -4015,12 +4015,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit &amp;demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit vybranou instanci v demo režimu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
@@ -4277,12 +4277,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1232"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1233"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
