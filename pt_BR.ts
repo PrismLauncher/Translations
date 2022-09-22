@@ -46,7 +46,8 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-<translation>Autenticação via &amp;Microsoft</translation>    </message>
+        <translation>Autenticação via &amp;Microsoft</translation>
+    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
@@ -121,7 +122,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="116"/>
         <source>Could not understand pack manifest:
 </source>
-<translation>Não foi possível entender o MANIFEST do mod:
+        <translation>Não foi possível entender o MANIFEST do mod:
 </translation>
     </message>
     <message>
@@ -648,7 +649,8 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-<translation>Estado da tarefa de contas desconhecido: %1</translation>    </message>
+        <translation>Estado da tarefa de contas desconhecido: %1</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -860,7 +862,8 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
         <source>Working...</source>
-<translation>Trabalhando...</translation>    </message>
+        <translation>Trabalhando...</translation>
+    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -875,14 +878,16 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
         <source>Open All</source>
-<translation>Abrir Tudo</translation>    </message>
+        <translation>Abrir Tudo</translation>
+    </message>
 </context>
 <context>
     <name>CapeChange</name>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-<translation>Equipando capa</translation>    </message>
+        <translation>Equipando capa</translation>
+    </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
         <source>Removing cape</source>
