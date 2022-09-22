@@ -21,8 +21,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Tipo de serviço de hospedagem de texto</translation>
-    </message>
+<translation>&amp;Tipo de Serviço para Textos</translation>    </message>
     <message>
         <source>Base URL</source>
         <translation type="vanished">URL de base</translation>
@@ -35,24 +34,20 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nota: Após alterar o tipo de serviço, é provável que você também queira alterar o URL Base.</translation>
-    </message>
+<translation>Nota: você provavelmente irá querer alterar ou limpar a URL base após alterar o tipo de serviço para textos.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>Chaves de API</translation>
-    </message>
+<translation>Chaves API</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>Autenticação &amp;Microsoft</translation>
-    </message>
+<translation>Autenticação via &amp;Microsoft</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Nota: Você provavelmente não precisa preencher este campo se o seu login via Autenticação Microsoft já funciona.</translation>
-    </message>
+<translation>Nota: você provavelmente não precisa alterar isso se sua Autenticação via Microsoft já funciona.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -62,8 +57,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Insira um ID de cliente personalizado para a Autenticação Microsoft aqui. </translation>
-    </message>
+<translation>Coloque um ID de cliente para a Autenticação via Microsoft aqui.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
@@ -72,8 +66,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation>Agente de usuário</translation>
-    </message>
+<translation>Agente de Usuário</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
@@ -87,13 +80,11 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Você pode preencher este campo com um serviço externo de metadados, para usar bibliotecas modificadas ou outros hacks.</translation>
-    </message>
+<translation>Você pode alterar isso para um servidor de Metadados de terceiros para usar bibliotecas corrigidas ou reparadas.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Insira um URL personalizado para o serviço de metadados aqui.</translation>
-    </message>
+<translation>Coloque um URL customizado para metadados aqui.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
@@ -102,14 +93,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Nota: Você provavelmente não precisa alterar este campo se o CurseForge já funciona.</translation>
-    </message>
+<translation>Nota: você provavelmente não precisa alterar isso se o CurseForge já funciona.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Insira uma chave customizada para a API do CurseForge aqui.</translation>
-    </message>
+<translation>Coloque uma chave API customizada para o CurseForge aqui.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
@@ -122,8 +111,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="116"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Não foi possível entender o manifesto do modpack:
-</translation>
+<translation>Não foi possível entender o MANIFEST do mod:</translation></translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="336"/>
@@ -153,8 +141,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="368"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>Não foi possível localizar a versão do loader %1</translation>
-    </message>
+<translation>Erro ao achar a versão para o loader %1</translation>    </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="382"/>
         <source>No loader version set for modpack!</source>
@@ -203,8 +190,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
         <source>Unsupported download type: %1</source>
-        <translation>Tipo de download incompatível: %1</translation>
-    </message>
+<translation>Tipo de download não suportado: %1</translation>    </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="753"/>
         <source>Unknown download type: %1</source>
@@ -344,8 +330,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Off-line</translation>
-    </message>
+<translation>Offline</translation>    </message>
     <message>
         <source>Online</source>
         <comment>Account status</comment>
@@ -367,8 +352,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Incorreta</translation>
-    </message>
+<translation>Falhou</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
@@ -385,14 +369,12 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation>Inacessível</translation>
-    </message>
+<translation>Não encontrado</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation>N/D</translation>
-    </message>
+<translation>N/A</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
@@ -428,13 +410,11 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation>Posso migrar?</translation>
-    </message>
+<translation>Pode migrar?</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Nome de usuário do Minecraft associado a essa conta.</translation>
-    </message>
+<translation>Nome do Minecraft associado a conta.</translation>    </message>
     <message>
         <source>Profile</source>
         <translation type="vanished">Perfil</translation>
@@ -447,13 +427,11 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>Tipo de conta — Mojang ou MSA.</translation>
-    </message>
+<translation>Tipo da conta - Mojang ou MSA.</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation>Status atual da conta.</translation>
-    </message>
+<translation>Estado atual da conta.</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
@@ -467,8 +445,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation>Conta &amp;Mojang</translation>
-    </message>
+<translation>Adicionar conta &amp;Mojang</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
@@ -479,8 +456,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>Conta &amp;padrão</translation>
-    </message>
+<translation>&amp;Definir conta padrão</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
@@ -502,8 +478,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation>Exclua a skin em uso no momento e volte para a padrão</translation>
-    </message>
+<translation>Escluir a skin ativa e voltar para a padrão</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
@@ -514,8 +489,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Adicionar conta &amp;offline</translation>
-    </message>
+<translation>Adicionar conta &amp;Offline</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
@@ -525,8 +499,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation>Atualizar tokens de contas</translation>
-    </message>
+<translation>Atualizar os tokens da conta</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
@@ -536,14 +509,12 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
-        <translation>Bem-vindo ou bem-vinda!
-Acabou de chegar? Clique em &quot;Adicionar&quot; e inicie a sessão com a sua conta Mojang ou Minecraft.</translation>
+<translation>Olá!</translation>Acabou de chegar? Clique em &quot;Adicionar&quot; e inicie a sessão com a sua conta Mojang ou Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Nenhum ID de cliente de autenticação da Microsoft foi estabelecido.</translation>
-    </message>
+<translation>Nenhum ID de Autenticação da Microsoft foi colocado.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
@@ -553,8 +524,7 @@ Acabou de chegar? Clique em &quot;Adicionar&quot; e inicie a sessão com a sua c
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Insira o seu e-mail e senha da conta Mojang.</translation>
-    </message>
+<translation>Por favor coloque o email e senha da sua Conta Microsoft para adicionar sua conta.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
@@ -586,8 +556,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Você deve adicionar uma conta da Microsoft ou da Mojang que possua Minecraft antes de poder adicionar uma conta offline.&lt;br&gt;&lt;br&gt;Se você perdeu sua conta, você pode contactar a Microsoft para receber suporte.</translation>
-    </message>
+<translation>Você deve adicionar uma contada Microsoft ou da Mojang que tenha Minecroft antes de você poder adicionar uma conta offline. &lt;br&gt;&lt;br&gt;Se você perdeu sua conta, você pode entrar em contato com a Microsoft para obter suporte.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
@@ -614,13 +583,11 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
-        <translation>Tarefa de autenticação concluída.</translation>
-    </message>
+<translation>Tarefa de autenticação sucedida.</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Falha ao contatar o servidor de autenticação.</translation>
-    </message>
+<translation>Falha ao se comunicar com o servidor de autenticação.</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
@@ -629,8 +596,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
-        <translation>Ocorreu um erro durante a autenticação.</translation>
-    </message>
+<translation>Erro encontrado durante a autenticação.</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
@@ -639,8 +605,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Falha ao autenticar-se. A conta já não existe.</translation>
-    </message>
+<translation>Falha ao autenticar. A conta não existe.</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
@@ -649,8 +614,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation>Status da tarefa desconhecido: %1</translation>
-    </message>
+<translation>Estado da tarefa de contas desconhecido: %1</translation>    </message>
 </context>
 <context>
     <name>Application</name>
@@ -691,8 +655,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Baixando recursos da Mojang...</translation>
-    </message>
+<translation>Adquirindo os arquivos de recursas da Mojang...</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
@@ -726,8 +689,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Ordenar por Versão</translation>
-    </message>
+<translation>Ordenar pela versão do Jogo</translation>    </message>
 </context>
 <context>
     <name>AtlOptionalModDialog</name>
@@ -790,8 +752,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Aviso: a integração ainda está em andamento. Caso encontre um problema com o modpack importado, pode ser um erro.</translation>
-    </message>
+<translation>Aviso: Este mod ainda está em desenvolvimento. Se você tiver problemas com o modpack importado, pode ser um bug.</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
         <source>Version selected:</source>
@@ -839,8 +800,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Não foi possível carregar ou baixar as listas de versões!</translation>
-    </message>
+<translation>Não foi possível carregar ou baixar a lista de versões!</translation>    </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
         <source>Installing</source>
@@ -862,8 +822,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
         <source>Working...</source>
-        <translation>Processando...</translation>
-    </message>
+<translation>Trabalhando...</translation>    </message>
 </context>
 <context>
     <name>BaseProfiler</name>
@@ -878,16 +837,14 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
         <source>Open All</source>
-        <translation>Abra tudo</translation>
-    </message>
+<translation>Abrir Tudo</translation>    </message>
 </context>
 <context>
     <name>CapeChange</name>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation>Aplicando capa</translation>
-    </message>
+<translation>Equipando capa</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
         <source>Removing cape</source>
@@ -932,8 +889,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>Tente utilizar automaticamente outros fornecedores se o escolhido falhar</translation>
-    </message>
+<translation>Tentar usar outros provedores se o atual falhar</translation>    </message>
 </context>
 <context>
     <name>ComponentUpdateTask</name>
@@ -946,8 +902,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Falha ao carregar tarefas de metadados do componente.</translation>
-    </message>
+<translation>Alguns metadados de componentes falharam ao carregar.</translation>    </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
