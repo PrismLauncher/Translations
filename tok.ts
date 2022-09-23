@@ -617,7 +617,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1288"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>pali li pali ala</translation>
     </message>
 </context>
 <context>
@@ -636,7 +636,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>pali li pali ala</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
