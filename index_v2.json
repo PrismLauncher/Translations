@@ -394,6 +394,14 @@
             "fuzzy" : 92,
             "untranslated" : 1044
         },
+        "tok" : {
+            "file" : "4884fd9af6890647b7af1aefa57f38cca49ad899.class",
+            "sha1" : "4884fd9af6890647b7af1aefa57f38cca49ad899",
+            "size" : 16,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 1387
+        },
         "tr" : {
             "file" : "35fd56d10906c4c0214155daddeead3de0863c0b.class",
             "sha1" : "35fd56d10906c4c0214155daddeead3de0863c0b",
