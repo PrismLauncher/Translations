@@ -525,7 +525,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Vítejte!
-Pokud jste zde noví, svůj Mojang nebo Microsoft účet můžete přidat kliknutím na tlačítko „Přidat“ vpravo.</translation>
+Pokud jste zde nový, svůj Mojang nebo Microsoft účet můžete přidat kliknutím na tlačítko „Přidat“ vpravo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
