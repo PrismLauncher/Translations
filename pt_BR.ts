@@ -62,7 +62,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Coloque um ID de cliente para a Autenticação via Microsoft aqui.</translation>
+        <translation>Coloque um ID de cliente para a Autenticação via Microsoft aqui. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -1277,7 +1277,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>&quot;Tenta encontrar ou atualizar todos os recursos selecionados (todos os recursos se nenhum for selecionado)&quot;</translation>
+        <translation>Tenta encontrar ou atualizar todos os recursos selecionados (todos os recursos se nenhum for selecionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
@@ -1484,13 +1484,13 @@ Por favor, tente novamente.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Mods desabilitados não serão atualizados, para evitar problemas de duplicação de mods!</translation>
+        <translation>Mods desativados não serão atualizados, para prevenir a duplicação de mods!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Obtendo resposta da API do CurseForge para &apos;%1&apos;...</translation>
+        <translation>Esperando a resposta da API do CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
@@ -1500,13 +1500,13 @@ Por favor, tente novamente.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nenhuma versão válida encontrada para este mod. Provavelmente não está disponível para a versão atual do jogo/mod loader.</translation>
+        <translation>Nenhuma versão válida foi encontrada para esse mod. Provavelmente não há versão disponível para a versão atual do jogo / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Mod tem uma nova atualização disponível, mas não pode ser baixado usando CurseForge.</translation>
+        <translation>O mod tem uma nova atualização disponível, mas não é possível baixá-lo utilizando o CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -3942,7 +3942,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="345"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>&amp;Desfazer exclusão da última instância</translation>
+        <translation>&amp;Reverter exclusão da última instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
@@ -3992,7 +3992,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="524"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Edita</translation>
+        <translation>&amp;Editar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="527"/>
@@ -5244,7 +5244,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
         <source>Metadata generation failed</source>
-        <translation>Falha na geração de metadados</translation>
+        <translation>A geração de metadados falhou</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
@@ -5254,7 +5254,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
         <source>Checking for updates</source>
-        <translation>Verificando atualizações</translation>
+        <translation>Procurando por atualizações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
@@ -5275,7 +5275,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
         <source>Checking for updates...</source>
-        <translation>Verificando atualizações...</translation>
+        <translation>Procurando por atualizações...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
@@ -5291,7 +5291,7 @@ Por favor atualize o %1!</translation>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Solução possível: Obter a versão mais recente manualmente:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Possível solução: Obtendo a versão mais recente manualmente:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
