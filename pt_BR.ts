@@ -1271,7 +1271,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Check for &amp;Updates</source>
-        <translation>Olhar por &amp;Atualizações</translation>
+        <translation>Procurar por &amp;Atualizações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
@@ -5391,7 +5391,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="207"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Os arquivos a seguir não estão disponíveis para download em launcher de terceiros.&lt;br/&gt;Você precisará baixá-los manualmente e adicioná-los está instância.</translation>
+        <translation>Os arquivos a seguir não estão disponíveis para download em launchers de terceiros.&lt;br/&gt;Você precisará baixá-los manualmente e adicioná-los a essa instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="223"/>
@@ -5411,7 +5411,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="295"/>
         <source>Installing modpack...</source>
-        <translation>Instalando modpack...</translation>
+        <translation>Instalando o modpack...</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
