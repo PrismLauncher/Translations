@@ -147,7 +147,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="174"/>
         <source>Deleting existing files...</source>
-        <translation>Usuwanie istniejących plików</translation>
+        <translation>Usuwanie istniejących plików...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="323"/>
@@ -266,12 +266,12 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Numer wydania:</translation>
+        <translation>Data wydania:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Działanie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
@@ -311,12 +311,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Działanie: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Data kompilacji: %1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -462,7 +462,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>Czy można zmigrować to konto na konto Microsoft?</translation>
+        <translation>Czy to konto można zmigrować do konta Microsoft?</translation>
     </message>
 </context>
 <context>
@@ -843,12 +843,12 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="63"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Nie można załadować ani pobrać list wersji!</translation>
+        <translation>Nie można załadować ani pobrać list wersji!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="94"/>
         <source>Installing</source>
-        <translation type="unfinished">Instalowanie</translation>
+        <translation>Instalowanie</translation>
     </message>
 </context>
 <context>
@@ -882,7 +882,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
         <source>Open All</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz wszystkie</translation>
     </message>
 </context>
 <context>
@@ -980,7 +980,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się zakończyć wszystkich działających zadań.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
@@ -1138,13 +1138,13 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Parsowanie odpowiedzi API z Modrinth dla &apos;%1&apos;...</translation>
+        <translation>Analizowanie odpowiedzi API z Modrinth dla &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Parsowanie odpowiedzi API z CurseForge dla &apos;%1&apos;...</translation>
+        <translation>Analizowanie odpowiedzi API z CurseForge dla &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1435,7 +1435,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished">Przerwany</translation>
+        <translation>Przerwano</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
@@ -2379,12 +2379,12 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="484"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Włącz Feral GameMode</translation>
+        <translation>Włącz Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="491"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Włącz zaawansowaną nakładkę wydajnościową MangoHuda.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Włącz zaawansowaną nakładkę wydajnościową MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="494"/>
@@ -2394,12 +2394,12 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="501"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Używaj GPU nie wbudowanego w procesor.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Użyj dedykowanej karty graficznej zamiast głównej karty graficznej.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="504"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Nie używaj zintegrowanego GPU</translation>
+        <translation>Użyj dedykowanej karty graficznej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="537"/>
@@ -2439,7 +2439,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="362"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>MangoHud nie zostało znalezione na twoim systemie</translation>
+        <translation>MangoHud nie zostało znalezione na twoim systemie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="383"/>
@@ -2480,7 +2480,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation>Uruchom tryb demonstracyjny</translation>
+        <translation>Uruchom wersję demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -2817,7 +2817,7 @@ Wybierz jedną z poniższych, lub przeglądaj za plikiem wykonywalnym Java.</tra
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>Choose your demo mode player name.</source>
-        <translation>Wybierz swoją nazwę użytkownika dla trybu demonstracyjnego.</translation>
+        <translation>Wybierz nazwę gracza dla wersji demonstracyjnej.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="228"/>
@@ -3552,7 +3552,7 @@ Musisz naprawić ten błąd manualnie.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished">Przerwany</translation>
+        <translation>Przerwano</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -4081,7 +4081,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Launch &amp;Demo</source>
-        <translation>Uruchom &amp;Demo</translation>
+        <translation>Uruchom &amp;demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
@@ -4758,7 +4758,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="77"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabycie profilu Java Minecrafta nieudane: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -4796,7 +4796,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabycie profilu Java Minecrafta nieudane: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -5381,7 +5381,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="77"/>
         <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nabywanie manifestu...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
@@ -5403,7 +5403,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="144"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Niepoprawny manifest: Brak informacji potrzebnych do pobrania pliku &apos;%1&apos;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="206"/>
@@ -8318,7 +8318,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="83"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished">Nie udało się uzskać autoryzacji  dla %1 serwisów: %2</translation>
+        <translation>Nie udało się uzskać autoryzacji dla %1 serwisów: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="93"/>
