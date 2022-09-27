@@ -1496,118 +1496,121 @@ Prosím zkus znovu.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nerozumím manifestu balíčku:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (verze %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Byl nalezen podobný modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedna nebo více vašich instancí pochází ze stejného modpacku%1. Chcete vytvořit samostatnou instanci, nebo aktualizovat stávající?
+
+POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důležitých dat instance, protože světy mohou být poškozeny a některé konfigurace mohou být ztraceny (kvůli přepsání balíčku).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat existující instanci</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit novou instanci</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný soubor indexu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se nalézt vhodný soubor indexu pro starší verzi. Může to způsobit duplikaci některých souborů. Chcete pokračovat?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Nemohl jsem přejmenovat přepisovací složku:
+        <translation>Nepodařilo se přejmenovat složku přepsání:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Daná přepisující složka (%1) chybí. Možná byl modpack již použit?</translation>
+        <translation>Zadaná složka přepsání (%1) chybí. Možná byl modpack již použit?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Neznámý mod loader v manifestu: %1</translation>
+        <translation>Neznámý mod loader v manifestu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Při importu balíčku byly z Minecraft verze odstraněny tajemné koncové tečky.</translation>
+        <translation>Při importu balíčku byly z verze Minecraftu odstraněny podivné koncové tečky.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished">Nebylo možno zmapovat doporučenou verzi Forge pro Minecraft %1</translation>
+        <translation>Nepodařilo se zmapovat doporučenou verzi Forge pro Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Nebylo možné vyřešit ID módů:
+        <translation>Nepodařilo se vyřešit ID módů:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Nalezeny zablokované módy</translation>
+        <translation>Nalezeny zablokované módy</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation type="unfinished">Následující módy byly zablokovány pro launchery třetích stran.&lt;br/&gt;Budete je muset stáhnout ručně a přidat je do modpacku</translation>
+        <translation>Následující módy byly zablokovány pro launchery třetích stran.&lt;br/&gt;Budete je muset stáhnout ručně a přidat je do modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
         <source>Mod download</source>
-        <translation type="unfinished">Stáhnout mód</translation>
+        <translation>Stáhnout mód</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished">Tato &apos;složka&apos; může vyžadovat extrahování: %1</translation>
+        <translation>Tato &apos;složka&apos; může vyžadovat extrahování: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished">Nestavování modpacků v modpaccích není implementováno, nic nebylo staženo: %1</translation>
+        <translation>Vkládání modpacků do modpacků není implementováno, nic nebylo staženo: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="439"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished">Nerozpoznaný/nepodporovaný typ balíčku: %1</translation>
+        <translation>Nerozpoznaný/nepodporovaný typ balíčku pro: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Stahování módů...</translation>
+        <translation>Stahování módů...</translation>
     </message>
 </context>
 <context>
@@ -2064,17 +2067,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba při vytváření nové instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstraňování starých konfliktních souborů...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se odstranit staré konfliktní soubory.</translation>
     </message>
 </context>
 <context>
@@ -3482,17 +3485,17 @@ Doporučuje se poskytnout PolyMC přístup k němu prostřednictvím Flatseal.</
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Úkol přerušen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Úkol byl přerušen uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -4454,12 +4457,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1661"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Úkol přerušen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1661"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Úkol byl přerušen uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1664"/>
@@ -5589,89 +5592,91 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (verze %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Byl nalezen podobný modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="54"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedna nebo více vašich instancí pochází ze stejného modpacku%1. Chcete vytvořit samostatnou instanci, nebo aktualizovat stávající?
+
+POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důležitých dat instance, protože světy mohou být poškozeny a některé konfigurace mohou být ztraceny (kvůli přepsání balíčku).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit novou instanci</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="60"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat existující instanci</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný soubor indexu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se nalézt vhodný soubor indexu pro starší verzi. Může to způsobit duplikaci některých souborů. Chcete pokračovat?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Nemohl jsem přejmenovat přepisovací složku:
+        <translation>Nepodařilo se přejmenovat složku přepsání:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="199"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished">Nepodařilo se přejmenovat složku přepisů klienta:
+        <translation>Nepodařilo se přejmenovat složku přepisů klienta:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="229"/>
         <source>Mod download</source>
-        <translation type="unfinished">Stáhnout mód</translation>
+        <translation>Stáhnout mód</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="261"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Stahování módů...</translation>
+        <translation>Stahování módů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="319"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished">Byl detekován volitelný mod!</translation>
+        <translation>Byl detekován volitelný mod!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished">Jeden nebo více módů v tomto modpacku jsou volitelné. Budou staženy, ale ve výchozím nastavení budou deaktivovány!</translation>
+        <translation>Jeden nebo více módů v tomto modpacku jsou volitelné. Budou staženy, ale ve výchozím nastavení budou deaktivovány!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="363"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished">Adresa URL pro stažení %1 není správně formátovaná</translation>
+        <translation>Adresa URL pro stažení %1 není správně formátovaná</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="392"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished">Nerozumím indexu packu:
+        <translation>Nerozumím indexu balíčku:
 </translation>
     </message>
 </context>
@@ -6830,7 +6835,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit název instance</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="9"/>
@@ -6838,7 +6843,10 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Název instance zřejmě obsahuje starou verzi. Chcete jej aktualizovat?
+
+Starý název: %1
+Nový název: %2</translation>
     </message>
 </context>
 <context>
@@ -7594,7 +7602,7 @@ chybí inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Vytváření instance z verze %1</translation>
+        <translation>Vytváření instance z verze %1</translation>
     </message>
 </context>
 <context>
