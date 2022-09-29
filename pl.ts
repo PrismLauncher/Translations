@@ -4144,7 +4144,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="527"/>
         <source>&amp;View</source>
-        <translation>&amp;Zobacz</translation>
+        <translation>&amp;Widok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
