@@ -6453,7 +6453,7 @@ Vyber si dobře svoje jméno:</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
         <translation>Tmavé</translation>
     </message>
@@ -6463,7 +6463,7 @@ Vyber si dobře svoje jméno:</translation>
         <translation>Systém</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
         <translation>Světlé</translation>
     </message>

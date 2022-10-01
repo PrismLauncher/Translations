@@ -6391,7 +6391,7 @@ Chọn tên của bạn một cách cẩn thận:</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
         <translation>Tối</translation>
     </message>
@@ -6401,7 +6401,7 @@ Chọn tên của bạn một cách cẩn thận:</translation>
         <translation>Hệ thống</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
         <translation>Sáng</translation>
     </message>

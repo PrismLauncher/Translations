@@ -6499,7 +6499,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
         <translation>Sombres</translation>
     </message>
@@ -6509,7 +6509,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
         <translation>Claires</translation>
     </message>

@@ -6558,7 +6558,7 @@ Wybierz ostrożnie swoją nazwę:</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
         <translation>Ciemny</translation>
     </message>
@@ -6568,7 +6568,7 @@ Wybierz ostrożnie swoją nazwę:</translation>
         <translation>Systemowy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
         <translation>Jasny</translation>
     </message>

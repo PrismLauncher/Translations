@@ -6566,7 +6566,7 @@ Wähle deinen Namen sorgfältig:</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
         <translation>Dunkel</translation>
     </message>
@@ -6576,7 +6576,7 @@ Wähle deinen Namen sorgfältig:</translation>
         <translation>System</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="10"/>
+        <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
         <translation>Hell</translation>
     </message>
