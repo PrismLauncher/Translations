@@ -1698,7 +1698,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>注意：CurseForge 允许作者阻止从 PloyMC 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些Mod才能安装Mod包。</translation>
+        <translation>注意：CurseForge 允许作者阻止从 PolyMC 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些Mod才能安装Mod包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
