@@ -1110,7 +1110,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation>모드에 메타데이터가 있는지 확인 중.</translation>
+        <translation>모드에 메타데이터가 있는지 확인 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
