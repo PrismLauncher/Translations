@@ -1014,7 +1014,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation type="unfinished">코어 모드(들)</translation>
+        <translation>코어 모드</translation>
     </message>
 </context>
 <context>
@@ -3877,7 +3877,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
         <source>Dele&amp;te Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 삭제 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="880"/>
@@ -5308,12 +5308,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="40"/>
         <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트할 모드 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="49"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>다음 모드를 업데이트합니다:</translation>
+        <translation>다음 모드를 업데이트하려고 합니다:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="50"/>
@@ -5323,53 +5323,53 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 이름: %1&lt;br&gt;파일명: %2&lt;br&gt;원인: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
         <source>Metadata generation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>메타데이터 생성 실패</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 모드의 메타데이터를 생성할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 확인 중</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
         <source>Error</source>
-        <translation type="unfinished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
         <source>Warnings</source>
-        <translation type="unfinished">경고</translation>
+        <translation>경고</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="295"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>중지</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 확인 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
         <source>Mod name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 이름: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>원인: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
@@ -5385,7 +5385,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 모드 제공자에서 유효한 버전을 찾을 수 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
@@ -5395,7 +5395,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>다음 모드들의 업데이트를 확인할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
+        <translation>다음 모드의 업데이트를 확인할 수 없습니다:&lt;br&gt;계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
