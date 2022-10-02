@@ -663,12 +663,12 @@ Bitte aktualisiere macOS und PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="743"/>
+        <location filename="src/launcher/Application.cpp" line="675"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1288"/>
+        <location filename="src/launcher/Application.cpp" line="1220"/>
         <source>Aborted</source>
         <translation>Abgebrochen</translation>
     </message>

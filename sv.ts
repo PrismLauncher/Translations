@@ -635,12 +635,12 @@ Uppdatera både ditt operativsystem och %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="743"/>
+        <location filename="src/launcher/Application.cpp" line="675"/>
         <source>Settings</source>
         <translation>Inställningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1288"/>
+        <location filename="src/launcher/Application.cpp" line="1220"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>

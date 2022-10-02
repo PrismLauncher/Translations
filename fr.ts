@@ -659,12 +659,12 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="743"/>
+        <location filename="src/launcher/Application.cpp" line="675"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1288"/>
+        <location filename="src/launcher/Application.cpp" line="1220"/>
         <source>Aborted</source>
         <translation>Annulé</translation>
     </message>

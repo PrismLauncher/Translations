@@ -655,12 +655,12 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="743"/>
+        <location filename="src/launcher/Application.cpp" line="675"/>
         <source>Settings</source>
         <translation>Configurações</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1288"/>
+        <location filename="src/launcher/Application.cpp" line="1220"/>
         <source>Aborted</source>
         <translation>Cancelado</translation>
     </message>
