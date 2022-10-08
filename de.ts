@@ -1575,13 +1575,13 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Konnte den Überschrieben-Ordner nicht umbenennen:
+        <translation>Konnte den Überschreibungsordner nicht umbenennen:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Der angegebene Überschriebene-Ordner (%1) fehlt. Wurde das Modpack vielleicht schon benutzt?</translation>
+        <translation>Der angegebene Überschreibungsordner (%1) fehlt. Wurde das Modpack vielleicht schon benutzt?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
@@ -3229,7 +3229,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warnung&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Das Deaktivieren von Mod-Metadaten kann auch einige kommende QoL-Features deaktivieren, wie z.B. Mod-Updates!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warnung&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Das Deaktivieren von Mod-Metadaten kann auch einige QoL-Features deaktivieren, wie z.B. Mod-Updates!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
@@ -5722,14 +5722,14 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Konnte den Überschriebenen-Ordner nicht umbenennen:
+        <translation>Konnte den Überschreibungsordner nicht umbenennen:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="199"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished">Der Client Override-Ordner konnte nicht umbenannt werden:
+        <translation>Der Client-Überschreibungsordner konnte nicht umbenannt werden:
 </translation>
     </message>
     <message>
