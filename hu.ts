@@ -1500,7 +1500,7 @@ Kérlek próbáld újra.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nem sikerült megérteni a csomag manifesztet:
+        <translation>Nem sikerült megérteni a csomag manifesztet:
 </translation>
     </message>
     <message>
@@ -1551,7 +1551,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Nem sikerült átnevezni a felülírási mappát:
+        <translation>Nem sikerült átnevezni a felülírási mappát:
 </translation>
     </message>
     <message>
@@ -1567,7 +1567,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">A Minecraft verzióból eltávolítva titokzatos végpontok a csomag importálása közben.</translation>
+        <translation>A Minecraft verzióból el lettek távolítva a titokzatos végpontok a csomag importálása közben.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
@@ -1604,7 +1604,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished">A modulcsomagokban lévő modulcsomagok nincsenek alkalmazva, semmi nem lett letöltve: %1</translation>
+        <translation>A modpackban lévő modpackok nincsenek alkalmazva, semmi nem lett letöltve: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="439"/>
@@ -2810,7 +2810,7 @@ Kérjük, válasszon egyet a következők közül, vagy keressen egy java futtat
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">A Minecraft játékhoz legalább egy Mojang- vagy Microsoft-fiókkal kell bejelentkezned. Szeretnéd megnyitni a fiókkezelőt, hogy most hozzáadj egy fiókot?</translation>
+        <translation>A Minecraft játékhoz legalább egy Mojang- vagy Microsoft-fiókkal kell bejelentkezned. Szeretnéd megnyitni a fiókkezelőt, hogy most hozzáadj egy fiókot?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
@@ -3149,7 +3149,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt; Figyelem&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: A mod metaadatok letiltása letilthatja a QoL néhány közelgő funkcióját is, például a mod frissítést! &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; &lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt; Figyelem&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: A mod metaadatok letiltása letilthatja a QoL néhány közelgő funkcióját is, például a mod frissítést! &lt;/span&gt; &lt;/p&gt; &lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
@@ -3996,7 +3996,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
         <source>&amp;Matrix Space</source>
-        <translation>&amp;Mátrix Space</translation>
+        <translation>&amp;Matrix Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
@@ -7526,7 +7526,7 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Példány létrehozása a(z) %1 verzióból</translation>
+        <translation>Példány létrehozása a(z) %1 verzióból</translation>
     </message>
 </context>
 <context>
