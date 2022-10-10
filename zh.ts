@@ -2852,9 +2852,9 @@ Please select one of the following or browse for a java executable.</oldsource>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
-        <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>要游玩 Minecraft，您必须要登录一个微软帐户或 Mojang 帐户。你想要打开帐户设置来添加一个帐户吗？</translation>
+        <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
+        <translation type="unfinished">要游玩 Minecraft，您必须要登录一个微软帐户或 Mojang 帐户。你想要打开帐户设置来添加一个帐户吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>

@@ -2833,9 +2833,9 @@ Vyberte prosím jedno z následujících nebo vyberte spustitelný soubor Java.<
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
-        <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>Abyste mohli hrát Minecraft, musíte mít přidaný alespoň jeden Mojang nebo Microsoft účet. Přejete si otevřít správce účtů a přidat účet?</translation>
+        <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
+        <translation type="unfinished">Abyste mohli hrát Minecraft, musíte mít přidaný alespoň jeden Mojang nebo Microsoft účet. Přejete si otevřít správce účtů a přidat účet?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>

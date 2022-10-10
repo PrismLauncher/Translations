@@ -2763,8 +2763,8 @@ Por favor seleciona um destes ou procura por um executável do Java.</translatio
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
-        <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
+        <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
         <translation type="unfinished">Para jogar Minecraft deves ter pelo menos uma conta Mojang ou Minecraft conectada no PolyMC. Gostarias de abrir o gestor de contas para adicionar uma agora?</translation>
     </message>
     <message>

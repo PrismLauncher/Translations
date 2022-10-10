@@ -2825,9 +2825,9 @@ Vă rugăm să selectați una dintre următoarele instalări sau căutați un ex
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
-        <source>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</source>
-        <oldsource>In order to play Minecraft, you must have at least one Mojang or Minecraft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>Pentru a juca Minecraft, trebuie să aveți cel puțin un cont Mojang sau Microsoft conectat. Doriți să deschideți managerul de conturi pentru a adăuga un cont?</translation>
+        <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
+        <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
+        <translation type="unfinished">Pentru a juca Minecraft, trebuie să aveți cel puțin un cont Mojang sau Microsoft conectat. Doriți să deschideți managerul de conturi pentru a adăuga un cont?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
