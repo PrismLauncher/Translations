@@ -1522,12 +1522,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> （版本 %1）</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>找到相似的mod整合包!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
@@ -1544,7 +1544,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>创建新实例</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
@@ -1554,7 +1554,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>无索引文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
@@ -2086,12 +2086,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>创建新实例时出现错误。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在删除旧的冲突文件...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
@@ -3510,12 +3510,12 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>任务已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>任务已被用户终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -4450,7 +4450,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
         <source>%1 Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 离线</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1263"/>
@@ -4495,12 +4495,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>任务已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1648"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>任务已被用户终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
@@ -5638,7 +5638,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> （版本 %1）</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
@@ -5655,12 +5655,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>创建新实例</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="60"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>更新现有实例</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
@@ -5670,7 +5670,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>无索引文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
@@ -6888,7 +6888,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>更改实例名称</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="9"/>
@@ -6896,7 +6896,10 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>该实例的名称似乎包含旧版本。 你想更新它吗？
+
+旧名称: %1
+新名称: %2</translation>
     </message>
 </context>
 <context>
