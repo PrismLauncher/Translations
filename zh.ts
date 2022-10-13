@@ -5638,7 +5638,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> （版本 %1）</translation>
+        <translation> (版本 %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
