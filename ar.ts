@@ -6619,8 +6619,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>إصدار الصيغة غير معروف!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
         <translation>المسار فارغ</translation>
     </message>
