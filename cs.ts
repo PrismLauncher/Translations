@@ -5216,7 +5216,7 @@ Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="292"/>
         <source>Select mod for download</source>
         <translation>Vybrat mód ke stažení</translation>
     </message>
@@ -5226,7 +5226,7 @@ Jste si jisti?</translation>
         <translation>Možnosti filtru</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="317"/>
         <source> by </source>
         <translation> od </translation>
     </message>
@@ -5241,47 +5241,47 @@ Jste si jisti?</translation>
         <translation>Nebyla nalezena platná verze.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="274"/>
         <source>No valid version found!</source>
         <translation>Nebyla nalezena platná verze!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="275"/>
         <source>Cannot select invalid version :(</source>
         <translation>Nelze vybrat neplatnou verzi :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="294"/>
         <source>Deselect mod for download</source>
         <translation>Zrušit výběr módu ke stažení</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="323"/>
         <source>Donate information: </source>
         <translation>Informace o darování: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="338"/>
         <source>External links:</source>
         <translation>Externí odkazy:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="340"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="342"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Problémy: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="344"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="346"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Zdrojový kód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="348"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>

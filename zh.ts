@@ -5256,7 +5256,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="290"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="292"/>
         <source>Select mod for download</source>
         <translation>选择要下载的Mod</translation>
     </message>
@@ -5266,7 +5266,7 @@ Are you sure?</source>
         <translation>过滤选项</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="315"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="317"/>
         <source> by </source>
         <translation> 作者 </translation>
     </message>
@@ -5281,47 +5281,47 @@ Are you sure?</source>
         <translation>未找到有效版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="274"/>
         <source>No valid version found!</source>
         <translation>未找到有效版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="275"/>
         <source>Cannot select invalid version :(</source>
         <translation>不能选择无效的版本 :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="294"/>
         <source>Deselect mod for download</source>
         <translation>取消选择要下载的Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="321"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="323"/>
         <source>Donate information: </source>
         <translation>赞助信息： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="336"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="338"/>
         <source>External links:</source>
         <translation>外部链接：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="340"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="342"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>问题：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="344"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="346"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="348"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
