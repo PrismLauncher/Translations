@@ -1,9 +1,6 @@
-PolyMC-translate
-==================
+Prism Launcher Translations
+---
+Translation files for Prism Launcher.
+If you want to contribute, please use [the Hosted Weblate instance](https://hosted.weblate.org/projects/prismlauncher/launcher/#repository). If you have any issues or questions, feel free to contact us through our community channels.
 
-Translations for PolyMC
-
-To participate in the translation effort, go to [the PolyMC weblate site](https://hosted.weblate.org/projects/polymc/polymc) and join our Discord or Matrix community which are listed at [the main repo](https://github.com/PolyMC/PolyMC).
-(If you don't have a Weblate account, you can create one using your Facebook, Google, Ubuntu One, OpenSUSE, Fedora, Bitbucket, Github, GitLab, or email.)
-
-You may want to use [POEdit](https://poedit.net/) to work on the translations. PolyMC allows putting a `.po` file in the translations folder and see changes in the application as you translate.
+Translations are licensed under the terms of the Apache 2.0 license.
