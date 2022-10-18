@@ -1732,7 +1732,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Achtung: CurseForge erlaubt Mod-Autoren den Zugirff aud ihre Inhalte für Drittanbieter-Programme wie PolyMC zu verbieten. Daher kann es sein, dass du einige Mods manuell herunterladen musst, um ein Modpack zu installieren.</translation>
+        <translation>Achtung: CurseForge erlaubt Mod-Autoren den Zugriff auf ihre Inhalte für Drittanbieter-Programme wie Prism Launcher zu verbieten. Daher kann es sein, dass du einige Mods manuell herunterladen musst, um ein Modpack zu installieren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2036,7 +2036,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- Exportierte PolyMC / MultiMC Instanzen (ZIP)</translation>
+        <translation>- Exportierte Prism Launcher, PolyMC oder MultiMC Instanzen (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -3345,10 +3345,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Sie versuchen, einen Instanzordner anzugeben, der vorübergehend über Flatpak gewährt wurde.
+        <translation>Sie versuchen, einen Instanzordner anzugeben, der vorübergehend über Flatpak gewährt wurde.
 Dies kann zu Problemen führen. Nach einem Neustart könnte der Launcher abstürzen, da er keinen Zugriff mehr auf dieses Verzeichnis hat.
 
-Es wird empfohlen, PolyMC über Flatseal Zugriff zu gewähren.</translation>
+Es wird empfohlen, über Flatseal, %1 Zugriff zu gewähren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
