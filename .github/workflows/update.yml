@@ -11,21 +11,7 @@ on:
       - '**.ts'
 
 jobs:
-  lock-weblate:
-    runs-on: ubuntu-latest
-    container:
-      image: weblate/wlc
-      options: "-u root:root"
-    steps:
-      - name: Lock Weblate
-        run: |
-          mkdir -p ~/.config
-          echo "${{ secrets.WEBLATE_CONFIG }}" > ~/.config/weblate
-          wlc commit "polymc/polymc"
-          wlc lock "polymc/polymc"
-
   update:
-    needs: lock-weblate
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -39,17 +25,9 @@ jobs:
           git config --local user.email "gitbot@scrumplex.net"
           git config --local user.name "Translations Bot"
 
-      - name: Ensure updated translations
-        run: |
-          # pull latest translations manually to avoid conflicts
-          git pull  # maybe Weblate already pushed their changes
-          git remote add weblate https://hosted.weblate.org/git/polymc/polymc
-          git remote update
-          git merge weblate/master
-
       - name: Update translations
         run: |
-          git clone https://github.com/PolyMC/PolyMC.git src
+          git clone https://github.com/PlaceholderMC/PrismLauncher.git src
 
           ./update.sh
 
@@ -62,19 +40,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-
-  unlock-weblate:
-    needs: update
-    if: ${{ always() }}  # ensure that this runs, even if something failed
-    runs-on: ubuntu-latest
-    container:
-      image: weblate/wlc
-      options: "-u root:root"
-    steps:
-      - name: Unlock Weblate
-        run: |
-          mkdir -p ~/.config
-          echo "${{ secrets.WEBLATE_CONFIG }}" > ~/.config/weblate
-          wlc pull "polymc/polymc"
-          wlc unlock "polymc/polymc"
-
