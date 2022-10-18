@@ -291,17 +291,17 @@
         <translation>Bezárás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="129"/>
         <source>About %1</source>
         <translation>%1 névjegye</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="150"/>
         <source>Commit: %1</source>
         <translation>Commit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="155"/>
         <source>Build date: %1</source>
         <translation>Build dátuma: %1</translation>
     </message>
@@ -310,7 +310,7 @@
         <translation type="vanished">Verzió</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="145"/>
         <source>Platform</source>
         <translation>Platform</translation>
     </message>
@@ -319,7 +319,7 @@
         <translation type="vanished">Build szám</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
         <source>Channel</source>
         <translation>Csatorna</translation>
     </message>
@@ -639,12 +639,12 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="675"/>
+        <location filename="src/launcher/Application.cpp" line="681"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1221"/>
+        <location filename="src/launcher/Application.cpp" line="1227"/>
         <source>Aborted</source>
         <translation>Megszakítva</translation>
     </message>
@@ -1674,9 +1674,9 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Megjegyzés: A CurseForge API nagyon megbízhatatlan. A CurseForge és néhány mod készítője letiltotta a modok letöltését harmadik féltől származó alkalmazásokban, mint például a PolyMC-ben. Ezért előfordulhat, hogy manuálisan kell letöltenie néhány modot a modpack telepítéséhez.</translation>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
+        <translation type="unfinished">Megjegyzés: A CurseForge API nagyon megbízhatatlan. A CurseForge és néhány mod készítője letiltotta a modok letöltését harmadik féltől származó alkalmazásokban, mint például a PolyMC-ben. Ezért előfordulhat, hogy manuálisan kell letöltenie néhány modot a modpack telepítéséhez.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1974,8 +1974,9 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
-        <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation>- PolyMC / MultiMC exportált példányok (ZIP fájl)</translation>
+        <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
+        <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
+        <translation type="unfinished">- PolyMC / MultiMC exportált példányok (ZIP fájl)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -3259,8 +3260,12 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
-Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation>Egy olyan példány mappát próbálsz megadni, amelyet ideiglenesen a Flatpakon keresztül adtál meg.
+Granting %1 access to it via Flatseal is recommended.</source>
+        <oldsource>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
+This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
+
+Granting PolyMC access to it via Flatseal is recommended.</oldsource>
+        <translation type="unfinished">Egy olyan példány mappát próbálsz megadni, amelyet ideiglenesen a Flatpakon keresztül adtál meg.
 Ez köztudottan problémákat okoz. Egy újraindítás után a launcher elromolhat, mert már nem fér hozzá az adott könyvtárhoz.
 
 A PolyMC hozzáférésének biztosítása a Flatseal-on keresztül ajánlott.</translation>
@@ -6432,21 +6437,21 @@ Gondosan válassza ki a nevét:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="73"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
         <translation>%1 fejlesztői</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="84"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="83"/>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
         <translation>%1 közreműködők</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="100"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="99"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>Köszönettel</translation>

@@ -307,17 +307,17 @@
         <translation>Cerrar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="129"/>
         <source>About %1</source>
         <translation>Acerca de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="150"/>
         <source>Commit: %1</source>
         <translation>Commit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="155"/>
         <source>Build date: %1</source>
         <translation>Fecha de compilación: %1</translation>
     </message>
@@ -326,7 +326,7 @@
         <translation type="vanished">Versión</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="145"/>
         <source>Platform</source>
         <translation>Plataforma</translation>
     </message>
@@ -335,7 +335,7 @@
         <translation type="vanished">Número de compilación</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
         <source>Channel</source>
         <translation>Canal</translation>
     </message>
@@ -663,12 +663,12 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="675"/>
+        <location filename="src/launcher/Application.cpp" line="681"/>
         <source>Settings</source>
         <translation>Ajustes</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1221"/>
+        <location filename="src/launcher/Application.cpp" line="1227"/>
         <source>Aborted</source>
         <translation>Abortado</translation>
     </message>
@@ -1702,9 +1702,9 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</source>
-        <oldsource>Note: CurseForge&apos;s API is very unreliable. CurseForge and some mod authors have disallowed downloading mods in third-party applications like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Nota: CurseForge permite a los creadores bloquear el acceso a herramientas de terceros como PolyMC. Por ello, puede que debas descargar manualmente algunos mods para poder instalar un pack de mods.</translation>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
+        <translation type="unfinished">Nota: CurseForge permite a los creadores bloquear el acceso a herramientas de terceros como PolyMC. Por ello, puede que debas descargar manualmente algunos mods para poder instalar un pack de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2006,8 +2006,9 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
-        <source>- PolyMC / MultiMC exported instances (ZIP)</source>
-        <translation>- Instancias exportadas de PolyMC / MultiMC (ZIP)</translation>
+        <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
+        <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
+        <translation type="unfinished">- Instancias exportadas de PolyMC / MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -3309,8 +3310,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
-Granting PolyMC access to it via Flatseal is recommended.</source>
-        <translation>Usted está intentando especificar una carpeta de instancia que fue concedida temporalmente a través de Flatpak.
+Granting %1 access to it via Flatseal is recommended.</source>
+        <oldsource>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
+This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
+
+Granting PolyMC access to it via Flatseal is recommended.</oldsource>
+        <translation type="unfinished">Usted está intentando especificar una carpeta de instancia que fue concedida temporalmente a través de Flatpak.
 Se sabe que esto causa problemas. Después de un reinicio el lanzador podría romperse, porque ya no tendrá acceso a ese directorio.
 
 Se recomienda conceder acceso a PolyMC a través de Flatseal.</translation>
@@ -6535,21 +6540,21 @@ Elija su nombre cuidadosamente:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="73"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="92"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
         <translation>%1 Desarrolladores</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="84"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="83"/>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
         <translation>%1 Contibuyentes</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="100"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="99"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>Agradecimientos</translation>
