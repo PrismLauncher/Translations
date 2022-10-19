@@ -291,17 +291,17 @@
         <translation>Bezárás</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="129"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="137"/>
         <source>About %1</source>
         <translation>%1 névjegye</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Commit: %1</source>
         <translation>Commit: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="155"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="163"/>
         <source>Build date: %1</source>
         <translation>Build dátuma: %1</translation>
     </message>
@@ -310,7 +310,7 @@
         <translation type="vanished">Verzió</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="153"/>
         <source>Platform</source>
         <translation>Platform</translation>
     </message>
@@ -319,7 +319,7 @@
         <translation type="vanished">Build szám</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="168"/>
         <source>Channel</source>
         <translation>Csatorna</translation>
     </message>
@@ -644,7 +644,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1228"/>
+        <location filename="src/launcher/Application.cpp" line="1229"/>
         <source>Aborted</source>
         <translation>Megszakítva</translation>
     </message>
@@ -1449,7 +1449,7 @@ Kérlek próbáld újra.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="19"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="20"/>
         <source>Resolving mod IDs...</source>
         <translation>Mod ID-k feloldása...</translation>
     </message>
@@ -3386,33 +3386,33 @@ A PolyMC hozzáférésének biztosítása a Flatseal-on keresztül ajánlott.</t
         <translation>%1 zip letöltése</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="111"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="105"/>
         <source>Downloading zip for %1 (%2%)</source>
         <translation>%1 zip letöltése (%2%)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="122"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="115"/>
         <source>Extracting modpack</source>
         <translation>Modpack kicsomagolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="128"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Failed to open modpack file %1!</source>
         <translation>A(z) %1 modpack fájl megnyitása sikertelen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="155"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
         <source>Installing modpack</source>
         <translation>Modpack telepítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="162"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
         <translation>Nem sikerült a kicsomagolt Minecraft mozgatása!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="229"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="225"/>
         <source>No installation method found!</source>
         <translation>Nincs telepítési módszer!</translation>
     </message>
@@ -5411,65 +5411,67 @@ Kérjük, frissítse a következőt: %1!</translation>
         <translation>Jegyzék lekérése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="83"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
         <translation>Nem sikerült megtalálni a csomag %1 verzióját</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Nem sikerült megérteni a csomag manifesztet:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
         <translation>Modok feloldása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="143"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
         <translation>Érvénytelen jegyzék: Nem áll rendelkezésre információ a(z) &quot;%1&quot; fájl letöltéséhez!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="210"/>
         <source>Blocked files found</source>
         <translation>Letiltott fájlok találhatók</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="206"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="211"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation>A következő fájlok nem tölthetők le harmadik féltől származó launcherekben.&lt;br/&gt;Manuálisan kell letöltenie őket, és hozzá kell adnia a példányhoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="222"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="229"/>
+        <source>Creating the instance...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
         <source>Downloading mods...</source>
         <translation>Modok letöltése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="290"/>
         <source>Mod download</source>
         <translation>Mod letöltés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="273"/>
         <source>Copying modpack files...</source>
-        <translation>Modpack fájlok másolása...</translation>
+        <translation type="vanished">Modpack fájlok másolása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Installing modpack...</source>
-        <translation>Modpack telepítése...</translation>
+        <translation type="vanished">Modpack telepítése...</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
         <translation type="vanished">Modpack fájlok másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="286"/>
         <source>Failed to copy files</source>
-        <translation>Fájlok másolása nem sikerült</translation>
+        <translation type="vanished">Fájlok másolása nem sikerült</translation>
     </message>
     <message>
         <source>Installing modpack</source>
@@ -5709,37 +5711,37 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>Legutóbb frissített szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="249"/>
         <source> by </source>
         <translation> tőle: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="253"/>
         <source>Donate information: </source>
         <translation>Támogatási információk: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="268"/>
         <source>External links:</source>
         <translation>Külső linkek:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="272"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Problémák: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="274"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="276"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Forráskód: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -5829,7 +5831,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
         <source>New Instance</source>
         <translation>Új példány</translation>
     </message>
@@ -5873,12 +5875,12 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
         <source>Hide article list</source>
         <translation>Cikklista elrejtése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="46"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
         <source>Show article list</source>
         <translation>Cikklista megjelenítése</translation>
     </message>
@@ -6454,14 +6456,14 @@ Gondosan válassza ki a nevét:</translation>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
-        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
         <translation>%1 fejlesztői</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="83"/>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
-        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Contributors&quot;</extracomment>
         <translation>%1 közreműködők</translation>
     </message>
     <message>

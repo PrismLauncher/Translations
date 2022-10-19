@@ -291,22 +291,22 @@
         <translation>Chiudi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="129"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="137"/>
         <source>About %1</source>
         <translation>Informazioni su %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="153"/>
         <source>Platform</source>
         <translation>Piattaforma</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Commit: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="155"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="163"/>
         <source>Build date: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -315,7 +315,7 @@
         <translation type="vanished">Numero build</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="160"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="168"/>
         <source>Channel</source>
         <translation>Canale</translation>
     </message>
@@ -656,7 +656,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1228"/>
+        <location filename="src/launcher/Application.cpp" line="1229"/>
         <source>Aborted</source>
         <translation type="unfinished">Interrotto</translation>
     </message>
@@ -1461,7 +1461,7 @@ Per favore, prova di nuovo.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="19"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="20"/>
         <source>Resolving mod IDs...</source>
         <translation>Risoluzione degli ID delle mod...</translation>
     </message>
@@ -3421,33 +3421,33 @@ Concedere l&apos;accesso a PolyMC tramite Flatseal è raccomandato.</translation
         <translation>Scaricando il pacchetto zip di %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="111"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="105"/>
         <source>Downloading zip for %1 (%2%)</source>
         <translation>Scaricando il pacchetto zip di %1 (%2%)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="122"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="115"/>
         <source>Extracting modpack</source>
         <translation>Estrazione del modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="128"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Failed to open modpack file %1!</source>
         <translation>Impossibile aprire il file modpack %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="155"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
         <source>Installing modpack</source>
         <translation>Installazione modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="162"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
         <translation>Impossibile spostare Minecraft scompattato!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="229"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="225"/>
         <source>No installation method found!</source>
         <translation>Nessun metodo di installazione trovato!</translation>
     </message>
@@ -5481,65 +5481,59 @@ Aggiorna %1!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="83"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
         <translation>Impossibile trovare la versione %1 del modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="121"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Impossibile interpretare il manifesto del modpack:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="132"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="143"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="205"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="210"/>
         <source>Blocked files found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="206"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="211"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="222"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="229"/>
+        <source>Creating the instance...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
         <source>Downloading mods...</source>
         <translation>Download delle mod in corso...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="224"/>
+        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="290"/>
         <source>Mod download</source>
         <translation>Download delle mod</translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="273"/>
-        <source>Copying modpack files...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
-        <source>Installing modpack...</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copying modpack files</source>
         <translation type="vanished">Copia dei file del modpack</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="286"/>
         <source>Failed to copy files</source>
-        <translation>Impossibile copiare i file</translation>
+        <translation type="vanished">Impossibile copiare i file</translation>
     </message>
     <message>
         <source>Installing modpack</source>
@@ -5777,37 +5771,37 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Ordina per ultimo aggiornamento</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="249"/>
         <source> by </source>
         <translation> di </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="253"/>
         <source>Donate information: </source>
         <translation>Donazioni: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="268"/>
         <source>External links:</source>
         <translation>Collegamenti esterni:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="272"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Problemi: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="274"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="276"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Codice sorgente: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="277"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -5893,7 +5887,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="173"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
         <source>New Instance</source>
         <translation>Nuova Istanza</translation>
     </message>
@@ -5937,12 +5931,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="48"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
         <source>Hide article list</source>
         <translation>Nascondi lista articoli</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="46"/>
+        <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
         <source>Show article list</source>
         <translation>Mostra lista articoli</translation>
     </message>
@@ -6522,14 +6516,14 @@ Scegli attentamente il tuo nome:</translation>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="91"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
-        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
         <translation>Sviluppatori di %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="83"/>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
-        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Contributors&quot;</extracomment>
         <translation>Collaboratori di %1</translation>
     </message>
     <message>
