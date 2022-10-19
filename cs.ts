@@ -1983,7 +1983,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- Exportované instance PolyMC / MultiMC (ZIP)</translation>
+        <translation>- Exportované instance Prism Launcheru, PolyMC nebo MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -3292,10 +3292,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Pokoušíte se zadat složku instance, která byla dočasně udělena přes Flatpak.
-Je známo, že to způsobuje problémy. Po restartu může launcher přastat fungovat, protože již nebude mít přístup k tomuto adresáři.
+        <translation>Pokoušíte se zadat složku instance, která byla dočasně udělena přes Flatpak.
+Je známo, že to způsobuje problémy. Po restartu může launcher přestat fungovat, protože již nebude mít přístup k tomuto adresáři.
 
-Doporučuje se poskytnout PolyMC přístup k němu prostřednictvím Flatseal.</translation>
+Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
@@ -4001,17 +4001,17 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xport...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstran&amp;it</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírov&amp;at...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -4058,12 +4058,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vymazat mezipaměť metadat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat mezipaměť metadat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
@@ -4309,7 +4309,7 @@ Důvod:
         <location filename="src/launcher/ui/MainWindow.cpp" line="710"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Prohlížet světy této instance.</translation>
+        <translation>Odstranit vybranou instanci.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -5519,7 +5519,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="229"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytváření instance...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
