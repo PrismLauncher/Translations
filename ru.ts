@@ -1732,7 +1732,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Примечание: CurseForge позволяет авторам блокировать доступ для сторонних приложений таких как PolyMC. В связи с этим вы может понадобиться самостоятельно загрузить некоторые моды, чтобы установить модпак.</translation>
+        <translation>Примечание: CurseForge позволяет авторам блокировать доступ для сторонних приложений таких как Prism Launcher. В связи с этим, вам может потребоваться загрузить некоторые моды вручную, чтобы установить модпак.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2036,7 +2036,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- Экспортированные сборки PolyMC / MultiMC (ZIP)</translation>
+        <translation>- Экспортированные сборки Prism Launcher, PolyMC или MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2852,7 +2852,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Нет вашего языка или недовольны качеством перевода?&lt;br /&gt;&lt;a href=&quot;%1&quot;&gt;Помогите нам с переводом PolyMC!&lt;/a&gt;</translation>
+        <translation>Нет вашего языка или недовольны качеством перевода?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Помогите нам с переводом!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3345,10 +3345,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Вы&apos;пытаетесь указать папку экземпляра, которая была временно предоставлена через Flatpak.
-Это может вызвать проблемы. После перезапуска лаунчер может сломаться, потому что у него больше не будет доступа к этой папке.
+        <translation>Вы пытаетесь указать папку сборки, которая была временно предоставлена через Flatpak.
+Это может вызвать проблемы. После перезапуска лаунчер может сломаться, так как у него больше не будет доступа к этой папке.
 
-Рекомендуется предоставить доступ PolyMC к ней через Flatseal.</translation>
+Рекомендуется предоставить доступ %1 к ней через Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
@@ -4057,27 +4057,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>П&amp;апка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -4124,7 +4124,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Очи&amp;стить кэш метаданных</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
@@ -4379,7 +4379,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="710"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Открыть список миров для этой сборки.</translation>
+        <translation>Удалить выбранную сборку.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -5597,7 +5597,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="229"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание сборки...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
