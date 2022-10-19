@@ -1679,7 +1679,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Poznámka: CurseForge umožňuje tvůrcům blokovat přístup k nástrojům třetích stran jako je PolyMC. Kvůli tomu budete muset při instalaci modpacku stáhnout některé módy manuálně.</translation>
+        <translation>Poznámka: CurseForge umožňuje tvůrcům blokovat přístup k nástrojům třetích stran jako je Prism Launcher. Kvůli tomu budete muset při instalaci modpacku stáhnout některé módy manuálně.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2799,7 +2799,7 @@ Vyberte prosím jedno z následujících nebo vyberte spustitelný soubor Java.<
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Varování: tento projekt již není bezpečný, použijte prosím MultiMC!</translation>
+        <translation>Nevidíte svůj jazyk nebo jeho kvalita je špatná?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Pomozte nám s překladem!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3991,12 +3991,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Upravit...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Složka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
