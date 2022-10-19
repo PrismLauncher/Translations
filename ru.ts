@@ -255,7 +255,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Неофициальный лаунчер, облегчающий управление Minecraft, позволяя иметь сразу несколько экземпляров Minecraft одновременно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Неофициальный лаунчер, облегчающий управление Minecraft, позволяя иметь сразу несколько сборок игры одновременно.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
