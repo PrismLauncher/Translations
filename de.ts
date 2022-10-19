@@ -4057,27 +4057,27 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;earbeiten...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;rdner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;xportieren...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>L&amp;öschen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kop&amp;ieren...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -4124,12 +4124,12 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadaten&amp;cache leeren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwischengespeicherte Metadaten löschen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
@@ -4379,7 +4379,7 @@ Grund:
         <location filename="src/launcher/ui/MainWindow.cpp" line="710"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Die Welten dieser Instanz verwalten.</translation>
+        <translation>Die ausgewählte Instanz löschen.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -5597,7 +5597,7 @@ Bitte aktualisiere %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="229"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstelle die Instanz...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
