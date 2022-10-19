@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Zaljepjviski Uslužni &amp;tip</translation>
+        <translation>Pastebin servis &amp;tip</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Napometka: najvjerovatnije želite promijeniti ili očistiti Baza URL poslije promijene zaljepjviski uslužni tip.</translation>
+        <translation>Napomena: najvjerovatnije želite promijeniti ili očistiti Bazni URL poslije promijene Pastebin servisnog tipa.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -34,12 +34,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft Authentikacija</translation>
+        <translation>&amp;Microsoft Autentikacija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Napometka: najverovatnije nemorate ovo uspostaviti ako ulogiviranje Microsoft Authentikacijom već radi.</translation>
+        <translation>Napomena: najvjerovatnije nemorate ovo raditi ako login sa Microsoft Authentikacijom već radi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -50,7 +50,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Upiši prilagođen ID clienta za Microsoft Authentikaciju ovdje. </translation>
+        <translation>Upiši prilagođen client ID za Microsoft Authentikaciju ovdje. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -65,17 +65,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Upiši prilagođen Korisnički Agent ovdje.</translation>
+        <translation>Upiši prilagođen Korisnički Agent ovdje. Specijalni string $LAUNCHER_VER biti će zamjenjen verzijom launchera.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;podatci Poslužitelj</translation>
+        <translation>Meta&amp;data Poslužitelj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Možete ovo postaviti na treći-strana metadate poslužitelja te koristiti zakrpane knjižnice ili druge hakove.</translation>
+        <translation>Možete ovo postaviti na metadata poslužitelja treće-strane te koristiti zakrpane librarije ili druge hakove.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -90,13 +90,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Napometka: najverovatnije nemorate postaviti ovo ako CurseForge već radi.</translation>
+        <translation>Napomena: najvjerovatnije nemorate postaviti ovo ako CurseForge već radi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Unesi prilagođeni API ključ za CurseForge ovdje.</translation>
+        <translation>Unesite prilagođeni API ključ za CurseForge ovdje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -110,27 +110,28 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće razumjeti manifest paketa:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dohvaćanje lokalnog indeksa metapodataka za %1 nije uspjelo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="149"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dohvaćanje lokalnog indeksa metapodataka za &apos;%1&apos; v%2 nije uspjelo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodržani instalacijski način</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši postojeće datoteke...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
