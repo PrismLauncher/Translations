@@ -4008,7 +4008,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>&amp;Edit...</source>
-        <translation>刪除（&amp;E）...</translation>
+        <translation>編輯（&amp;E）...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
