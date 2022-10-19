@@ -21,8 +21,8 @@ jobs:
         run: |
           mkdir -p ~/.config
           echo "${{ secrets.WEBLATE_CONFIG }}" > ~/.config/weblate
-          wlc commit "prismlauncher/prismlauncher"
-          wlc lock "prismlauncher/prismlauncher"
+          wlc commit "prismlauncher/launcher"
+          wlc lock "prismlauncher/launcher"
 
   update:
     needs: lock-weblate
@@ -75,6 +75,6 @@ jobs:
         run: |
           mkdir -p ~/.config
           echo "${{ secrets.WEBLATE_CONFIG }}" > ~/.config/weblate
-          wlc pull "prismlauncher/prismlauncher"
-          wlc unlock "prismlauncher/prismlauncher"
+          wlc pull "prismlauncher/launcher"
+          wlc unlock "prismlauncher/launcher"
 
