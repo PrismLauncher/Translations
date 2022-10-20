@@ -28,7 +28,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API-Ŝlosiloj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -45,7 +45,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Defaŭlta)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
@@ -55,12 +55,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Diversaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Klienta Aplikaĵo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
@@ -101,7 +101,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>API-oj</translation>
     </message>
 </context>
 <context>
@@ -126,12 +126,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesubtenata instala reĝimo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Forigante jamajn dosierojn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
