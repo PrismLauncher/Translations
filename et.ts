@@ -13,12 +13,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kleepimisteenuse &amp;tüüp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Baas-&amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -70,7 +70,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta&amp;andmete server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation>&amp;CurseForge Core rakendusliides</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -146,7 +146,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="389"/>
         <source>No loader version set for modpack!</source>
-        <translation>Modpacki jaoks pole laadija versiooni määratud!</translation>
+        <translation>Modipaki laaduri versioon pole määratud!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="534"/>
@@ -299,7 +299,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="163"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ehituskuupäev: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -737,12 +737,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali jagamiskood</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaga koodi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
@@ -1214,7 +1214,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Keela valitud üksus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
@@ -1479,7 +1479,7 @@ Palun proovi uuesti.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modil on uus uuendus saadaval, kuid seda ei saa CurseForge kaudu alla laadida.</translation>
     </message>
 </context>
 <context>
@@ -1495,7 +1495,7 @@ Palun proovi uuesti.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (versioon %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
@@ -1675,7 +1675,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Märkus: CurseForge võimaldab loojatel blokeerida ligipääs kolmanda osapoole tööriistadele nagu Prism Launcher. Sel juhul võib sul modipaki paigaldamiseks vaja olla käsitsi mõned modid alla laadida.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1962,7 +1962,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Järgnevad failitüübid on implementeeritud (nii kohalike failide kui veebiaadressite jaoks):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
@@ -2377,17 +2377,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="494"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Luba MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="501"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kasuta peamise graafikakaardi asemel lisatud graafikakaarti.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="504"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasuta lisatud graafikakaarti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="537"/>
@@ -2468,7 +2468,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Käivita prooviversioon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -2574,7 +2574,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM argumendid:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
@@ -3233,7 +3233,7 @@ Granting PolyMC access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="173"/>
         <source>Icons Folder</source>
-        <translation>Ikoonide Kaust</translation>
+        <translation>Ikoonide kaust</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="184"/>
@@ -3416,7 +3416,7 @@ Granting PolyMC access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tegevus tühistatud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -3561,7 +3561,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobimatud metaandmed</translation>
     </message>
 </context>
 <context>
@@ -3807,7 +3807,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="320"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Ava üks nendest kaustadest jagatud eksemplarie vahel.</translation>
+        <translation>Ava üks nendest kaustadest jagatud eksemplaride vahel.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -3916,22 +3916,22 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kaust</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;kspordi...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>Kust&amp;uta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kop&amp;eeri...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -4100,7 +4100,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="668"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Käivita &amp;prooviversioon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
@@ -4170,7 +4170,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="704"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="711"/>
@@ -4184,7 +4184,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="720"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
@@ -4334,12 +4334,12 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1163"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Käivita prooviversioon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1194"/>
@@ -4349,7 +4349,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1199"/>
         <source>%1 Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 võrguta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1205"/>
@@ -4394,7 +4394,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tegevus tühistatud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
@@ -4479,7 +4479,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2179"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mänguaeg kokku: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
@@ -4652,17 +4652,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="159"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Luba MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="166"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kasuta peamise graafikakaardi asemel lisatud graafikakaarti.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="169"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasuta lisatud graafikakaarti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -4808,12 +4808,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="66"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaata üle ja kinnita</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
@@ -4837,7 +4837,8 @@ Are you sure?</source>
         <location filename="src/launcher/ModDownloadTask.cpp" line="36"/>
         <source>Downloading mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modi allalaadimine:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
@@ -5370,7 +5371,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modide lahendamine...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
@@ -5385,7 +5386,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="211"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Järgnevaid faile ei saa kolmanda osapoole käivitajad allalaadida.&lt;br/&gt;Sa pead need käsitsi alla laadima ja eksemplari lisama.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="229"/>
@@ -5481,7 +5482,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (versioon %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
@@ -5546,7 +5547,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="319"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Valikuline mod tuvastatud!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
@@ -5598,7 +5599,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Märkus: Modrinthi modipakid on jätkuvalt alfafaasis. Mõned asjad võivad olla poolikud või üldse mitte töötada! Kasuta ettevaatlikult.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -5804,12 +5805,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="52"/>
         <source>Hide article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Peida artiklite loend</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.cpp" line="50"/>
         <source>Show article list</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuva artiklite loend</translation>
     </message>
 </context>
 <context>
@@ -5878,7 +5879,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>Luba pikki kasutajanimesid</translation>
     </message>
 </context>
 <context>
@@ -6046,12 +6047,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="142"/>
         <source>Uploading to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 üleslaadimine</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="159"/>
         <source>Network error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Võrgu viga: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="166"/>
@@ -6097,7 +6098,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
         <source>Keep previous settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Säilita viimased seaded</translation>
     </message>
 </context>
 <context>
@@ -6708,7 +6709,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda eksemplari nime</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="9"/>
@@ -6755,7 +6756,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuvastamata</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
@@ -6772,7 +6773,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Paki vorming</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
@@ -6808,7 +6809,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="14"/>
         <source>Confirm mod selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinnita modivalik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
@@ -6862,13 +6863,13 @@ New name: %2</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopeeri pilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopeeri fail(id)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
@@ -7287,7 +7288,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobimatu &quot;forgeversion.properties&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="146"/>
@@ -7537,7 +7538,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Hetkel pole ühtegi versiooni Minecrafti jaoks saadaval %1</translation>
+        <translation>Hetkel pole ühtegi versiooni Minecraft %1 jaoks saadaval</translation>
     </message>
 </context>
 <context>
@@ -8356,7 +8357,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="18"/>
         <source>Fetching Xbox profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xboxi profiili hankimine.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
@@ -8367,7 +8368,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="81"/>
         <source>Got Xbox profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Xboxi profiil saadud</translation>
     </message>
 </context>
 <context>
@@ -8429,7 +8430,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="251"/>
         <source>Authentication operation cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentimistegevus tühistatud.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
