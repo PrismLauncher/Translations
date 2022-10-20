@@ -28,7 +28,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API-Nycklar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -60,12 +60,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Användaragent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange en anpassad användaragent här. $LAUNCHER_VER kommer att ersättas med versionen av startprogrammet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -126,12 +126,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Installationsläget stöds inte</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Raderar befintliga filer...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
