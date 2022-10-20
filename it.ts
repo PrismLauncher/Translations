@@ -1621,12 +1621,12 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="439"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished">PackageType sconosciuto/non gestito per: %1</translation>
+        <translation>PackageType sconosciuto/non gestito per: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Download delle mod in corso...</translation>
+        <translation>Download delle mod in corso...</translation>
     </message>
 </context>
 <context>
@@ -1696,7 +1696,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Nota: CurseForge consente ai creatori di bloccare l&apos;accesso a strumenti di terze parti come PolyMC. Per questo motivo, potrebbe essere necessario scaricare manualmente alcune mod per poter installare un modpack.</translation>
+        <translation>Nota: CurseForge consente ai creatori di bloccare l&apos;accesso a strumenti di terze parti come Prism Launcher. Per questo motivo, potrebbe essere necessario scaricare manualmente alcune mod per poter installare un modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2000,7 +2000,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- Istanze esportate PolyMC / MultiMC (ZIP)</translation>
+        <translation>- Istanze esportate da Prism Launcher / PolyMC / MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2085,12 +2085,12 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Errore durante la creazione dell&apos;istanza.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimozione dei vecchi file in conflitto...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
