@@ -348,7 +348,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>Hors-Ligne</translation>
+        <translation>Hors-ligne</translation>
     </message>
     <message>
         <source>Online</source>
