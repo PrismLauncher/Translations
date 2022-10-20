@@ -6431,8 +6431,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Неизвестен формат на версията!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <source>Empty path</source>
         <translation>Празна пътека</translation>
     </message>
