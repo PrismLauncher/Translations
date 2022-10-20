@@ -3656,7 +3656,7 @@ Anledning:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Ladda upp loggen till paste.ee, den kommer att finnas där i en månad</translation>
+        <translation>Ladda upp loggen till den paste service som är konfigurerat i preferenser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
