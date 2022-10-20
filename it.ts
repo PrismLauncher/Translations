@@ -5610,29 +5610,31 @@ Aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (versione %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">È stato trovato un modpack simile!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="54"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Una o più delle tue istanze sono da questo stesso modpack%1. Vuoi creare un&apos;istanza separata, o aggiornare quella già esistente?
+
+NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza prima di aggiornare, siccome i mondi potrebbero divenire corrotti e alcune configurazioni potrebbero venire perse (per via di sovrascrizione dei pacchetti).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Crea nuova istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="60"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aggiorna istanze esistenti</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
@@ -5642,12 +5644,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">File indice mancante.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Non siamo riusciti a trovare un file indice per la versione precedente. Questo potrebbe alla duplicazione di alcuni file. Vuoi continuare?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
