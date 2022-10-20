@@ -31,7 +31,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Aandacht: je wil waarschijnlijk de basis URL veranderen of leeg maken nadat je het plakdiensttype verandert.</translation>
+        <translation>Let op: waarschijnlijk wil je de Basis URL veranderen of leeg maken nadat je de plak dienst type hebt veranderd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -8510,12 +8510,12 @@ Stel uw account in volgens %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox gebruiker authenticatie mislukt: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Respons op XBox gebruikersauthenticatie kon niet worden begrepen.</translation>
+        <translation>Antwoord van XBox gebruikers authenticatie kon niet worden begrepen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
@@ -8578,7 +8578,7 @@ Stel uw account in volgens %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation>Kon de respons van de authenticatieserver niet verwerken. JSON reactie: %1 op offset %2.</translation>
+        <translation>Kon het antwoord van de authenticatieserver niet verwerken. JSON reactie: %1 op offset %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
