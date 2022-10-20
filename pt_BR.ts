@@ -251,7 +251,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Um inicializador personalizado que facilita o gerenciamento de várias instâncias do Minecraft.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Um inicializador personalizado que facilita o gerenciamento de várias instânssias do Minecraft.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
@@ -3894,7 +3894,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="293"/>
         <source>Add a new instance.</source>
-        <translation>Adicionar uma nova instância.</translation>
+        <translation>Adicione uma nova instânssia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="300"/>
@@ -4055,7 +4055,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished">&amp;Copiar...</translation>
+        <translation>&amp;Copilar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -4080,7 +4080,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="292"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>&amp;Adicionar instância...</translation>
+        <translation>Adicionar instanssia&amp;e...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
