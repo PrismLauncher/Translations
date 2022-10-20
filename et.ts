@@ -34,7 +34,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Microsofti autentimine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -3777,7 +3777,7 @@ Põhjus:
         <location filename="src/launcher/ui/MainWindow.cpp" line="300"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished">Kuva eksemplari kaust</translation>
+        <translation>&amp;Kuva eksemplaride kaust</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
@@ -3911,7 +3911,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Muuda...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
@@ -8208,7 +8208,7 @@ Kas soovid jätkata?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava maailm MCEditis</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
