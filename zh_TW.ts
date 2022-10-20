@@ -4095,7 +4095,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="374"/>
         <source>&amp;Discord Guild</source>
-        <translation>&amp;Discord Guild</translation>
+        <translation>&amp;Discord 伺服器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
@@ -4606,7 +4606,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
         <source>Open %1 Discord guild.</source>
-        <translation>開啟 %1 Discord guild。</translation>
+        <translation>開啟 %1 Discord 伺服器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
