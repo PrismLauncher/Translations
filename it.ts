@@ -404,7 +404,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation>Nome utente</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
@@ -4906,7 +4906,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="89"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>Impossibile analizzare la risposta del profilo Minecraft Java.</translation>
+        <translation>Impossibile analizzare la risposta del profilo Minecraft Java</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="101"/>
@@ -4937,7 +4937,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished">Apre un nuovo popup per rivedere le mod selezionate e confermare la selezione. Scorciatoia: Ctrl+Invio</translation>
+        <translation>Apri un nuovo popup per rivedere le mod selezionate e confermare la selezione. Scorciatoia: Ctrl+Invio</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="90"/>
@@ -5582,7 +5582,7 @@ Aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="42"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished">Le mod disabilitate non verranno aggiornate, così da prevenire problemi di duplicazione delle mod!</translation>
+        <translation>Le mod disabilitate non verranno aggiornate, così da prevenire problemi di duplicazione delle mod!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
@@ -5592,7 +5592,7 @@ Aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="103"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Nessuna versione valida trovata per questa mod. Probabilmente non è disponibile per la versione del gioco / mod loader corrente.</translation>
+        <translation>Nessuna versione valida trovata per questa mod. Probabilmente non è disponibile per la versione del gioco / mod loader corrente.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
@@ -5610,36 +5610,36 @@ Aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (versione %1)</translation>
+        <translation> (versione %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished">È stato trovato un modpack simile!</translation>
+        <translation>È stato trovato un modpack simile!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="54"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished">Una o più delle tue istanze sono da questo stesso modpack%1. Vuoi creare un&apos;istanza separata, o aggiornare quella già esistente?
+        <translation>Una o più delle tue istanze sono da questo stesso modpack%1. Vuoi creare un&apos;istanza separata, o aggiornare quella già esistente?
 
 NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza prima di aggiornare, siccome i mondi potrebbero divenire corrotti e alcune configurazioni potrebbero venire perse (per via di sovrascrizione dei pacchetti).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
         <source>Create new instance</source>
-        <translation type="unfinished">Crea nuova istanza</translation>
+        <translation>Crea nuova istanza</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="60"/>
         <source>Update existing instance</source>
-        <translation type="unfinished">Aggiorna istanze esistenti</translation>
+        <translation>Aggiorna istanze esistenti</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
@@ -5867,7 +5867,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Esecuzione task %1 (completate %2 di %3)</translation>
+        <translation>Esecuzione operazione %1 (completate %2 di %3)</translation>
     </message>
 </context>
 <context>
@@ -6002,7 +6002,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation>Nome utente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -6800,7 +6800,7 @@ Questo messaggio verrà visualizzato finché non rimuoverai tale parametro da qu
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Libreria di controllo Java non trovata. Controlla la tua installazione</translation>
+        <translation>Libreria di controllo Java non trovata. Controlla la tua installazione.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -6873,7 +6873,7 @@ Nuovo nome: %2</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="444"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="446"/>
@@ -6920,7 +6920,7 @@ Nuovo nome: %2</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
@@ -6930,7 +6930,7 @@ Nuovo nome: %2</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
         <source>Last changed</source>
-        <translation type="unfinished">Ultima modifica</translation>
+        <translation>Ultima modifica</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
@@ -7621,7 +7621,7 @@ inheritsFrom mancante</translation>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Creando un&apos;istanza dalla versione %1</translation>
+        <translation>Creando un&apos;istanza dalla versione %1</translation>
     </message>
 </context>
 <context>
