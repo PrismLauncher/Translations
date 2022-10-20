@@ -3192,7 +3192,7 @@ Você talvez tenha que consertar os seus mods, porque o jogo ainda está logando
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation>Modes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -5246,7 +5246,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation>Modes</translation>
     </message>
 </context>
 <context>
@@ -7732,7 +7732,7 @@ total: %4</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="109"/>
         <source>Betas</source>
-        <translation>Betas</translation>
+        <translation>Betes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="119"/>
