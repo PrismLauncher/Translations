@@ -1563,13 +1563,13 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Impossibile rinominare la cartella degli override:
+        <translation type="unfinished">Impossibile rinominare la cartella delle sovrascrizioni:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">La cartella di override specificata (%1) non esiste. Forse il modpack è già stato usato?</translation>
+        <translation>La cartella delle sovrascrizioni specificata (%1) non esiste. Forse il modpack è già stato usato prima?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
