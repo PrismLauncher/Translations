@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished">Pastebin URL</translation>
+        <translation>&amp;เซอวิส Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,22 +21,22 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ชนิด เซอวิส Paste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>ต้นฉบับ &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>หมายเหตุ: คุณควรเปลี่ยนหรือเคลียร์ URL เบื้องต้นหลังจากเปลี่ยนชนิดเซอวิส Paste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>คีย์ API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
