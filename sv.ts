@@ -96,7 +96,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished">Ange en anpassad API-nyckel för CurseForge här. </translation>
+        <translation>Ange en anpassad API-nyckel för CurseForge här.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -446,7 +446,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Namn på Minecraft-profilen som är associerad med kontot.</translation>
+        <translation>Kan det här kontot migreras till ett Microsoft-konto?</translation>
     </message>
 </context>
 <context>
@@ -3056,7 +3056,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished">Sök efter uppdateringar vid start?</translation>
+        <translation>Automatiskt sök efter uppdateringar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
@@ -5558,7 +5558,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished">En eller fler mods från detta modpack är valfria. De kommer att laddas ner, men de kommer förinställt att vara inaktiverade.</translation>
+        <translation>En eller fler mods från detta modpack är valfria. De kommer att laddas ner, men de kommer förinställt att vara inaktiverade!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="363"/>
