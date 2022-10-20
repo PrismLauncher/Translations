@@ -5434,7 +5434,7 @@ Aggiorna %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Non è stato possibile controllare o scaricare le seguenti mod per l&apos;aggioramento:&lt;br&gt;Vuoi procedere senza queste mod?</translation>
+        <translation>Non è stato possibile controllare o scaricare le seguenti mod per gli aggiornamenti:&lt;br&gt;Vuoi procedere senza queste mod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
