@@ -1534,7 +1534,9 @@ Please try again.</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>你拥有一个或更多的实例说基于此整合包%1。你想创建一个单独实例，还是更新现有的实例？
+
+注：在更新实例前请确保备份了实例的重要数据，存档与配置文件可能会因整合包覆盖而被损坏或遗失。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
@@ -1559,7 +1561,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>我们无法找到适合旧版本的索引文件，这可能导致部分文件重复。是否继续？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
@@ -1698,7 +1700,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">注意：CurseForge 允许作者阻止从 PolyMC 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些Mod才能安装Mod包。</translation>
+        <translation>注意：CurseForge 允许作者阻止从 Prism Launcher 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些模组才能安装整合包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2002,7 +2004,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- PolyMC / MultiMC 导出的实例（ZIP）</translation>
+        <translation>- Prism Launcher / PolyMC / MultiMC 导出的实例（ZIP）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2097,7 +2099,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法删除旧的冲突文件。</translation>
     </message>
 </context>
 <context>
@@ -3311,10 +3313,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting PolyMC access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">你正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
-这很可能会造成问题。重启后启动器可能会损坏，因为它不再能访问到那个文件夹上。
+        <translation>你正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
+这很可能会造成问题。重启后启动器可能会损坏，因为它不再能访问到该文件夹。
 
-我们推荐通过 Flatseal 授权 PolyMC。</translation>
+我们推荐通过 Flatseal 授权 %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
@@ -4019,27 +4021,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="682"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑实例（&amp;E）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="696"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>实例文件夹（&amp;F）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>导出实例（&amp;X）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>删除实例（T）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>复制实例（Y）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
@@ -4086,12 +4088,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>清除元数据缓存（C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>清除已缓存的元数据</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
@@ -4341,7 +4343,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="710"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">查看此实例的世界文件。</translation>
+        <translation>删除所选实例。</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -5559,7 +5561,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="229"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在创建实例…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
@@ -5671,7 +5673,9 @@ Please update %1!</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>你拥有一个或更多的实例说基于此整合包%1。你想创建一个单独实例，还是更新现有的实例？
+
+注：在更新实例前请确保备份了实例的重要数据，存档与配置文件可能会因整合包覆盖而被损坏或遗失。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
@@ -5696,7 +5700,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>我们无法找到适合旧版本的索引文件，这可能导致部分文件重复。是否继续？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
@@ -6544,7 +6548,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="157"/>
         <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;您现在运行的 PolyMC 版本与来自 %1 频道的最新版本没有任何区别，请静静等待下一个更新！&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;当前版本与来自 %1 频道的最新版本没有任何区别，请静静等待下一个更新！&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="161"/>
