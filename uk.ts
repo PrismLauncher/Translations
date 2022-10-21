@@ -1541,7 +1541,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ми не знайшли відповідний файл індексу для старої версії. Це може призвести до клонування деяких файлів. Ви хочете продовжити?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
@@ -2064,12 +2064,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка при створенні нової збірки.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Видаляємо старі конфліктуючі файли.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
