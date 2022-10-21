@@ -3271,14 +3271,14 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
-        <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
+        <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</source>
         <oldsource>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
-Granting PolyMC access to it via Flatseal is recommended.</oldsource>
+Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished">U probeert een installatie-map in te stellen die slechts tijdelijk beschikbaar was via Flatpak.
 Dit kan problemen opleveren. Na een herstart kan het startprogramma namelijk crashen omdat het geen toegang meer heeft tot die map.
 

@@ -3281,14 +3281,14 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
-        <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
+        <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</source>
         <oldsource>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
-Granting PolyMC access to it via Flatseal is recommended.</oldsource>
+Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation type="unfinished">Flatpak을 통해 임시로 부여된 인스턴스 폴더를 지정하려고 합니다.
 이 행동은 다시 시작 후 런처가 해당 디렉토리에 접근할 수 없어서 런처가 중단될 수 있는 문제가 발생하는 것으로 알려져 있습니다.
 

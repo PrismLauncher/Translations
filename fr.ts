@@ -3313,15 +3313,15 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
-        <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
+        <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</source>
         <oldsource>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
-Granting PolyMC access to it via Flatseal is recommended.</oldsource>
-        <translation>Vous essayez de spécifier un dossier d&apos;instance qui a été accordé temporairement via Flatpak.
+Granting %1 access to it via Flatseal is recommended.</oldsource>
+        <translation type="unfinished">Vous essayez de spécifier un dossier d&apos;instance qui a été accordé temporairement via Flatpak.
 Ceci est connu pour causer des problèmes. Après un redémarrage, le lanceur peut avoir des problèmes, car il n&apos;aura plus accès à ce répertoire.
 
 Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatseal.</translation>

@@ -3337,15 +3337,15 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="149"/>
-        <source>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
+        <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</source>
         <oldsource>You&apos;re trying to specify an instance folder which was granted temporaily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
-Granting PolyMC access to it via Flatseal is recommended.</oldsource>
-        <translation>Sie versuchen, einen Instanzordner anzugeben, der vorübergehend über Flatpak gewährt wurde.
+Granting %1 access to it via Flatseal is recommended.</oldsource>
+        <translation type="unfinished">Sie versuchen, einen Instanzordner anzugeben, der vorübergehend über Flatpak gewährt wurde.
 Dies kann zu Problemen führen. Nach einem Neustart könnte der Launcher abstürzen, da er keinen Zugriff mehr auf dieses Verzeichnis hat.
 
 Es wird empfohlen, über Flatseal, %1 Zugriff zu gewähren.</translation>
