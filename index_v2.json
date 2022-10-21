@@ -3,12 +3,12 @@
     "version" : 2,
     "languages" : {
         "ar" : {
-            "file" : "5a0f53a02a879a08f47a5c2efff44a863581ec51.class",
-            "sha1" : "5a0f53a02a879a08f47a5c2efff44a863581ec51",
-            "size" : 91718,
+            "file" : "d3dc4793532cc98c0ce46c750f19b31c4d1d87cc.class",
+            "sha1" : "d3dc4793532cc98c0ce46c750f19b31c4d1d87cc",
+            "size" : 91801,
             "translated" : 682,
-            "fuzzy" : 120,
-            "untranslated" : 599
+            "fuzzy" : 121,
+            "untranslated" : 598
         },
         "az" : {
             "file" : "6d054ca0974ab89da9cdf14344ead2af0bc48c94.class",
@@ -379,12 +379,12 @@
             "untranslated" : 511
         },
         "sl" : {
-            "file" : "254a20955602d485a370d307ce0c19122dc9adf2.class",
-            "sha1" : "254a20955602d485a370d307ce0c19122dc9adf2",
-            "size" : 30593,
-            "translated" : 168,
-            "fuzzy" : 94,
-            "untranslated" : 1139
+            "file" : "b8eec32ffa7f6add5db4825f9731483e01f1dbf6.class",
+            "sha1" : "b8eec32ffa7f6add5db4825f9731483e01f1dbf6",
+            "size" : 31848,
+            "translated" : 175,
+            "fuzzy" : 102,
+            "untranslated" : 1124
         },
         "sr" : {
             "file" : "3676070be24018095a50505feff7f253dbf02ab3.class",
@@ -427,12 +427,12 @@
             "untranslated" : 129
         },
         "uk" : {
-            "file" : "b2086b88bc51a04c3b9e48e1cb377942ef942bd5.class",
-            "sha1" : "b2086b88bc51a04c3b9e48e1cb377942ef942bd5",
-            "size" : 175511,
+            "file" : "16b4b933d2e166768d3dd7cca3e765a4a52c494e.class",
+            "sha1" : "16b4b933d2e166768d3dd7cca3e765a4a52c494e",
+            "size" : 176018,
             "translated" : 1209,
-            "fuzzy" : 58,
-            "untranslated" : 134
+            "fuzzy" : 62,
+            "untranslated" : 130
         },
         "vi" : {
             "file" : "dbd6a83850f49661284043d045703be8cbd1a566.class",
