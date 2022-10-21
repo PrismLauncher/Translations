@@ -3345,10 +3345,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Sie versuchen, einen Instanzordner anzugeben, der vorübergehend über Flatpak gewährt wurde.
-Dies kann zu Problemen führen. Nach einem Neustart könnte der Launcher abstürzen, da er keinen Zugriff mehr auf dieses Verzeichnis hat.
+        <translation>Sie versuchen, einen Instanzordner anzugeben, der vorübergehend über Flatpak gewährt wurde.
+Dies ist dafür bekannt, dass es zu Problemen führt. Nach einem Neustart könnte der Launcher abstürzen, weil er keinen Zugriff mehr auf dieses Verzeichnis hat.
 
-Es wird empfohlen, über Flatseal, %1 Zugriff zu gewähren.</translation>
+Es wird empfohlen, den Zugriff auf %1 über Flatseal zu gewähren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
