@@ -3313,7 +3313,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">你正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
+        <translation>你正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
 这很可能会造成问题。重启后启动器可能会损坏，因为它不再能访问到该文件夹。
 
 我们推荐通过 Flatseal 授权 %1。</translation>
