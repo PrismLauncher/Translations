@@ -1507,24 +1507,26 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Схожий модпак було знайдено!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Один чи більше з Ваших модпаків створено з однакового модпаку%1. Чи ви хочете створити окрему збірку, чи оновити існуючу?
+
+ПРИМІТКА: Переконайтеся, що Ви зробили резервну копію ваших важливих даних збірки перед оновленням, бо світи можуть пошкоджуватися і деякі конфігурації можуть втратитися (через перезапис паку).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Оновити існуючу збірку</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити нову збірку</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
@@ -1534,7 +1536,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає файлу індекса.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
@@ -4435,7 +4437,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1303"/>
         <source>No Default Account</source>
-        <translation>Немає обліковий запису за замовчуванням</translation>
+        <translation>Немає облікового запису за замовчуванням</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1307"/>
