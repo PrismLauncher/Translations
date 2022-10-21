@@ -3192,7 +3192,7 @@ Você talvez tenha que consertar os seus mods, porque o jogo ainda está logando
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>Modes</translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -3323,10 +3323,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Você está tentando especificar uma pasta de instância a qual foi dada temporariamente pelo Flatpak.
+        <translation>Você está tentando especificar uma pasta de instância a qual foi dada temporariamente pelo Flatpak.
 Isso é conhecido por causar problemas. Depois de reiniciar o launcher, pode ser que ele esteja quebrado, porque ele não terá mais acesso àquele arquivo.
 
-Dar acesso ao Prism Launcher pelo Flatseal é recomendado.</translation>
+Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
@@ -4080,7 +4080,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="292"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Adicionar instanssia&amp;e...</translation>
+        <translation>&amp;Adicionar instância...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
@@ -5246,7 +5246,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
         <source>Mods</source>
-        <translation>Modes</translation>
+        <translation>Mods</translation>
     </message>
 </context>
 <context>
@@ -5324,7 +5324,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="294"/>
         <source>Deselect mod for download</source>
-        <translation>Desselecionar mod para download</translation>
+        <translation>Desselecionar o mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="323"/>
