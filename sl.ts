@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Opomba: pomoje ne rabiš nastaviti to če CurseForge že deluje.</translation>
+        <translation>Opomba: tega verjetno ni potrebno nastaviti, če CurseForge že deluje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -110,18 +110,18 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Manifesta paketa ni bilo možno razumeti:
+        <translation>Manifesta paketa ni bilo mogoče razumeti:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Ni bilo možno dobiti kazala metapodatkov za %1</translation>
+        <translation>Pridobitev lokalnega kazala metapodatkov za %1 ni bila uspešna</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="149"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Ni bilo možno dobiti kazala metapodatkov za &apos;%1&apos; v%2</translation>
+        <translation>Pridobitev lokalnega kazala metapodatkov za &apos;%1&apos; v%2 ni bila uspešna</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
@@ -131,7 +131,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation>Brišem obstoječe datoteke...</translation>
+        <translation>Brisanje obstoječih datotek...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
@@ -141,92 +141,92 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Iskanje različice za %1 nalagalnik ni bilo uspešno</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="389"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nobena različica nalagalnika ni nastavljena za paket modov!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="534"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznan ali nepodprt tip prenosa: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="651"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenašanje konfiguracij...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Config download</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenos konfiguracije</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridobivanje konfiguracij...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpiranje konfiguracij paketa %1 ni bilo uspešno!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbiram neobvezne mode...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="742"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenašanje modov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="745"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenos modov</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="759"/>
         <source>Unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodprt tip prenosa: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="765"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodprt tip prenosa: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="886"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridobivanje modov ni bilo uspešno...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="897"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridobivanje modov...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="970"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Nameščanje paketa modov</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="982"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvaritev komponente knjižnic ni bilo uspešno</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1006"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepoznan tip nalagalnika: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1020"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>Izdelava komponente paketa ni bila uspešna</translation>
     </message>
 </context>
 <context>
@@ -234,78 +234,78 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="110"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizitka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Začetni program po meri, ki olajša upravljanje Minecrafta tako, da omogoča več primerov Minecrafta hkrati.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Platforma:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Datum Builda:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="251"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Prispevki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="265"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenca</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="301"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>O Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="137"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>O %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="153"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Platforma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="163"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum Builda: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="168"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal</translation>
     </message>
 </context>
 <context>
@@ -314,61 +314,61 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nepreverjeno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brez povezave</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pripravljen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dela</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potekel</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Onemogočen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ni ga več</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Da</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
@@ -379,7 +379,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabniško ime</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
@@ -389,22 +389,22 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stanje</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation>Se lahko prenese?</translation>
+        <translation>Se lahko pretvori?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft uporabniško ime, povezano z računom.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -438,7 +438,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">Dodaj Mojang</translation>
+        <translation>Dodaj &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
