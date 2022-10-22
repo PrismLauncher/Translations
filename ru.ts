@@ -3345,7 +3345,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Вы пытаетесь указать папку сборки, которая была временно предоставлена через Flatpak.
+        <translation>Вы пытаетесь указать папку сборки, которая была временно предоставлена через Flatpak.
 Это может вызвать проблемы. После перезапуска лаунчер может сломаться, так как у него больше не будет доступа к этой папке.
 
 Рекомендуется предоставить доступ %1 к ней через Flatseal.</translation>
