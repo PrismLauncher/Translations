@@ -3164,7 +3164,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -3295,10 +3295,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Si sta cercando di specificare una cartella di istanza fornita temporaneamente via Flatpak.
+        <translation>Stai cercando di specificare una cartella di istanza che è stata fornita temporaneamente via Flatpak.
 Questo può causare problemi. Dopo un riavvio il launcher potrebbe non funzionare, poiché non avrà più accesso alla cartella.
 
-Concedere l&apos;accesso a %1 tramite Flatseal è raccomandato.</translation>
+Concedere l&apos;accesso a %1 con Flatseal è raccomandato.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
@@ -4105,7 +4105,7 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="411"/>
         <source>&amp;Meow</source>
-        <translation>&amp;Meow</translation>
+        <translation>&amp;Miao</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="419"/>
