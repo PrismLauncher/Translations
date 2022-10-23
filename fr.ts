@@ -3321,7 +3321,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Vous essayez de spécifier un dossier d&apos;instance qui a été accordé temporairement via Flatpak.
+        <translation>Vous essayez de spécifier un dossier d&apos;instance qui a été accordé temporairement via Flatpak.
 Ceci est connu pour causer des problèmes. Après un redémarrage, le lanceur peut avoir des problèmes, car il n&apos;aura plus accès à ce répertoire.
 
 Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatseal.</translation>
