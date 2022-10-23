@@ -3292,7 +3292,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Pokoušíte se zadat složku instance, která byla dočasně udělena přes Flatpak.
+        <translation>Pokoušíte se zadat složku instance, která byla dočasně udělena přes Flatpak.
 Je známo, že to způsobuje problémy. Po restartu může launcher přestat fungovat, protože již nebude mít přístup k tomuto adresáři.
 
 Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatseal.</translation>
@@ -6409,7 +6409,7 @@ Vyber si dobře svoje jméno:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>Tohle se týká pouze PolyMC. Minecraft nepřijímá nastavení proxy.</translation>
+        <translation>Tohle se týká pouze Launcheru. Minecraft nepřijímá nastavení proxy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -6469,7 +6469,7 @@ Vyber si dobře svoje jméno:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Poznámka: uživatelské jméno a helo pro proxy server jsou uložené v prostém textovém formátu uvnitř konfiguračního souboru PolyMC!</translation>
+        <translation>Poznámka: uživatelské jméno a heslo pro proxy server jsou uložené v prostém textovém formátu uvnitř konfiguračního souboru launcheru!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
@@ -7586,7 +7586,7 @@ chybí inheritsFrom</translation>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation>Aktualizace PolyMC</translation>
+        <translation>Aktualizace Launcheru</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -8401,8 +8401,8 @@ Přejete si pokračovat?</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="299"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>Nemáte PolyMC nastaveno nebo bylo přesunuto.
-Mužete ho nastavit v konzoli.</translation>
+        <translation>Nemáte nastavený MCEdit nebo byl přesunut.
+Mužete ho nastavit v globálním nastavení.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
