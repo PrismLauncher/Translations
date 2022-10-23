@@ -239,7 +239,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;En brugerdefineret launcher, der gør det nemmere at administrere Minecraft ved at give dig mulighed for at have flere forekomster af Minecraft på én gang.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;En brugerdefineret launcher, der gør det nemmere at administrere Minecraft ved at give dig mulighed for at have flere instanser af Minecraft på én gang.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -254,7 +254,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Byggedato:</translation>
+        <translation>Builddato:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -299,7 +299,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="163"/>
         <source>Build date: %1</source>
-        <translation>Byggedato: %1</translation>
+        <translation>Builddato: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -355,7 +355,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>Fejl</translation>
+        <translation>Fejlet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
@@ -401,7 +401,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation>Bruger</translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
@@ -473,13 +473,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>Ingen standard</translation>
+        <translation>&amp;Ingen standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation>Upload skin</translation>
+        <translation>&amp;Upload skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
@@ -556,7 +556,7 @@ Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
         <translation>Microsoft-konti kan kun bruges på macOS 10.13 eller nyere med fuldt opdateret %1.
 
-Du bedes opdatere både dit operativsystem og %1.</translation>
+Opdatér venligt både dit operativsystem og %1.</translation>
     </message>
     <message>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated PolyMC.
@@ -574,12 +574,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Du skal tilføje en Microsoft eller Mojang konto der ejer Minecraft før du kan tilføje en offline konto. Hvis du har mistet din konto kan du kontakte Microsoft for hjælp.</translation>
+        <translation>Du skal tilføje en Microsoft eller Mojang konto der ejer Minecraft før du kan tilføje en offline konto.&lt;br&gt;&lt;br&gt;Hvis du har mistet din konto kan du kontakte Microsoft for hjælp.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Tilføj dit ønskede brugernavn til din offline bruger.</translation>
+        <translation>Tilføj venligst dit ønskede brugernavn til din offline bruger.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -658,12 +658,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>Opdaterer dataindeks...</translation>
+        <translation type="unfinished">Opdaterer dataindeks...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="28"/>
         <source>Asset index for %1</source>
-        <translation>Dataindeks for %1</translation>
+        <translation type="unfinished">Dataindeks for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
@@ -674,7 +674,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
-        <translation>Indlæsning af dataindeks mislykkedes!</translation>
+        <translation type="unfinished">Indlæsning af dataindeks mislykkedes!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
@@ -685,14 +685,14 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Det lykkedes ikke at hente data med indeks:
+        <translation type="unfinished">Det lykkedes ikke at hente data med indeks:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Det lykkedes ikke at hente data:
+        <translation type="unfinished">Det lykkedes ikke at hente data:
 %1</translation>
     </message>
 </context>
@@ -737,7 +737,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Brug Del Kode</translation>
+        <translation type="unfinished">Brug Del Kode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -747,17 +747,17 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation>Vælg en dele kode</translation>
+        <translation type="unfinished">Vælg en dele kode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation>Dele kode:</translation>
+        <translation type="unfinished">Dele kode:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation>Ingen delt kode specificeret!</translation>
+        <translation type="unfinished">Ingen delt kode specificeret!</translation>
     </message>
 </context>
 <context>
@@ -988,7 +988,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="115"/>
         <source>Copy saves</source>
-        <translation>Kopier gemte spil</translation>
+        <translation>Kopier gemte verdener</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="122"/>
@@ -1029,13 +1029,13 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>&amp;Kommando efter stop:</translation>
+        <translation>Kommando efter stop:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Kommando før start:</translation>
+        <translation>Kommando før start:8</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
@@ -1063,7 +1063,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>Omslagskommandoen &quot;%1&quot; blev ikke fundet.</translation>
+        <translation>Wrapper-kommandoen &quot;%1&quot; blev ikke fundet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
@@ -1076,7 +1076,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
-        <translation>Spillet gik ned.</translation>
+        <translation>Spillet crashede.</translation>
     </message>
 </context>
 <context>
@@ -1102,7 +1102,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation>Tjekker om mods har metadata...</translation>
+        <translation>Kontrollerer om mods har metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
@@ -1132,7 +1132,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="14"/>
         <source>Determining game ownership.</source>
-        <translation>Bestemmelse af spil ejerskab.</translation>
+        <translation type="unfinished">Bestemmer ejerskab af spil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
@@ -1397,7 +1397,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Kunne ikke pakke lokal jar &apos;%1&apos; ud på destination &apos;%2&apos;</translation>
+        <translation>Kunne ikke pakke ud lokal jar &apos;%1&apos; på destination &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -1440,7 +1440,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
 Reason:%2
 Please try again.</source>
         <translation>Det lykkedes ikke at hente følgende filer:
-%1\
+%1
 
 Årsag:%2
 Prøv venligst igen.</translation>
@@ -1500,7 +1500,7 @@ Prøv venligst igen.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Kunne ikke forstå pakkemanifest:
+        <translation type="unfinished">Kunne ikke forstå pakkemanifest:
 </translation>
     </message>
     <message>
@@ -1518,14 +1518,14 @@ Prøv venligst igen.</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>En eller flere af dine instanser er fra samme modpack%1. Vil du skabe en separat instans eller opdatere den allerede eksisterende?
+        <translation>Én eller flere af dine instanser er fra samme modpack%1. Vil du skabe en separat instans eller opdatere den allerede eksisterende?
 
 Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inden du opdaterer, da verdener kan beskadiges og noget konfiguration kan gå tabt (på grund af overskrivelse af pakker).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation>Opdater eksisterende instans</translation>
+        <translation>Opdatér eksisterende instans</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
@@ -1646,7 +1646,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Sorter efter senest ændret</translation>
+        <translation>Sorter efter senest opdateret</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
@@ -1716,7 +1716,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>Sorter efter sidst opdateret</translation>
+        <translation>Sorter efter senest opdateret</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="66"/>
@@ -1755,7 +1755,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="253"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemer: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="255"/>
@@ -1789,7 +1789,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>Sorter efter antal installationer</translation>
+        <translation>Sorter efter samlede installationer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
@@ -1975,29 +1975,29 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Følgende filtyper er implementeret (både for lokale filer og URL&apos;er):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- CurseForge modpacks (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modrinth modpacks (ZIP og mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>- Prism Launcher, PolyMC eller MultiMC eksporterede instanser (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Technic modpacks (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -2007,13 +2007,13 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import from zip</source>
-        <translation>Importer fra zip-fil</translation>
+        <translation>Importér fra zip-fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth pakke</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
@@ -2073,17 +2073,17 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under oprettelse af ny instans.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjerner gamle modstridende filer...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke fjerne gamle modstridende filer.</translation>
     </message>
 </context>
 <context>
@@ -2245,12 +2245,12 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis aktiveret, kontrollerer launcheren ikke, om en instans er kompatibel med den valgte Java-version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Spring over Java-kompatibilitetskontroller</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -2340,12 +2340,12 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk launcheren, efter spilvinduet åbnes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Afslut launcheren efter spilvinduet lukker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
@@ -2382,37 +2382,37 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="460"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ydelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode for at muligvis forbedre spilydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="484"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="491"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelsesoverlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="494"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="501"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brug den diskrete GPU i stedet for den primære GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="504"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug diskret GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="537"/>
@@ -2447,12 +2447,12 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="360"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Feral Interactives GameMode kunne ikke findes på dit system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="365"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHud kunne ikke findes på dit system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="386"/>
@@ -2493,7 +2493,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -2508,7 +2508,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="155"/>
         <source>Kill the running instance</source>
-        <translation>Dræb den aktive process</translation>
+        <translation>Dræb den aktive proces</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
@@ -2567,7 +2567,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Den maksimale mængde hukkommelse Minecraft må benytte.</translation>
+        <translation>Den maksimale mængde hukommelse Minecraft må benytte.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="73"/>
@@ -2599,7 +2599,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>JVM-argumenter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
@@ -2627,7 +2627,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis aktiveret, vil launcheren ikke bede dig om at vælge en Java-version, hvis en ikke findes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
@@ -2676,7 +2676,7 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Du har ikke valgt en Java-version eller valgt noget, der ikke virker.
+        <translation>Du har ikke valgt en Java-version, eller valgt noget der ikke virker.
 %1 vil ikke være i stand til at starte Minecraft.
 Ønsker du at fortsætte uden Java?
 
@@ -2738,7 +2738,7 @@ Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
         <translation>Du har enten ikke indstillet en funktionel Java endnu eller den er forsvundet.
-Vælg venligst en af følgende eller gennemse filer for en eksekverbar Java-fil.</translation>
+Vælg venligst én af følgende eller gennemse filer for en eksekverbar Java-fil.</translation>
     </message>
 </context>
 <context>
@@ -3021,7 +3021,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation>Opdater indstillinger</translation>
+        <translation>Opdatér indstillinger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
@@ -3047,17 +3047,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
         <source>I&amp;nstances:</source>
-        <translation>I&amp;amp;nstancer:</translation>
+        <translation>&amp;Instancer:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;amp;Mods:</translation>
+        <translation>&amp;Mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;amp;Ikoner:</translation>
+        <translation>&amp;Ikoner:</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -3090,7 +3090,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
         <source>By &amp;name</source>
-        <translation>Af &amp;amp;navn</translation>
+        <translation>Af &amp;navn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
@@ -3100,7 +3100,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
         <source>&amp;Icons</source>
-        <translation>&amp;amp;Ikoner</translation>
+        <translation>&amp;Ikoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
@@ -3130,18 +3130,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivér brug af metadata leveret af modudbydere (som Modrinth eller Curseforge) til mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivér brug af metadata til mods?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Advarsel&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Deaktivering af mod metadata kan også deaktivere nogle QoL-funktioner, såsom mod-opdatering!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
@@ -3239,7 +3239,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="132"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Du forsøger at angive en instansmappe, hvis sti indeholder mindst ét &apos;!&apos;. Java er kendt for at forårsage problemer, hvis det er tilfældet, og dine instanser vil (sandsynligvis) ikke starte!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
@@ -3294,12 +3294,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="101"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher-biblioteket blev ikke fundet. Kontrollér venligst din installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>Omslagskommandoen &quot;%1&quot; blev ikke fundet.</translation>
+        <translation>Wrapper-kommandoen &quot;%1&quot; blev ikke fundet.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="202"/>
@@ -3907,7 +3907,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="402"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg efter nye opdateringer for %1.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -4042,7 +4042,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opdatér...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="411"/>
@@ -4258,7 +4258,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportér den valgte instans som en zip-fil.</translation>
     </message>
     <message>
         <source>Delete Instance</source>
@@ -4440,7 +4440,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2149"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har nu to muligheder: &lt;br/&gt; - ændre instansmappen i indstillingerne &lt;br/&gt; - flytte denne installation af %1 til en anden mappe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2158"/>
@@ -4718,28 +4718,28 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="16"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation type="unfinished">Henter Minecraft-profilen.</translation>
+        <translation>Henter Minecraft-profilen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="55"/>
         <source>Account has no Minecraft profile.</source>
-        <translation type="unfinished">Kontoen har ingen Minecraft-profil.</translation>
+        <translation>Kontoen har ingen Minecraft-profil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="77"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished">Minecraft Java-profilerhvervelse mislykkedes: %1</translation>
+        <translation>Minecraft Java-profilerhvervelse mislykkedes: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="86"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished">Minecraft Java-profilsvar kunne ikke fortolkes</translation>
+        <translation>Minecraft Java-profilsvar kunne ikke fortolkes</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="98"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished">Minecraft Java-profilerhvervelse lykkedes.</translation>
+        <translation>Minecraft Java-profilerhvervelse lykkedes.</translation>
     </message>
 </context>
 <context>
@@ -4763,7 +4763,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished">Minecraft Java-profilerhvervelse mislykkedes: %1</translation>
+        <translation>Minecraft Java-profilerhvervelse mislykkedes: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="89"/>
@@ -4773,7 +4773,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="101"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation type="unfinished">Minecraft Java-profilerhvervelse lykkedes.</translation>
+        <translation>Minecraft Java-profilerhvervelse lykkedes.</translation>
     </message>
 </context>
 <context>
@@ -4990,13 +4990,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj en lokalt overført fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Prøv at kontrollere eller opdatere alle valgte mods (alle mods, hvis ingen er valgt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
@@ -5008,7 +5008,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
         <source>Please install a mod loader first!</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér venligst en mod-loader først!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
@@ -5038,7 +5038,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Modopdateringen blev afbrudt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
@@ -5048,7 +5048,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdateringskontrol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="213"/>
@@ -5157,7 +5157,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="342"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemer: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="344"/>
@@ -5193,7 +5193,8 @@ Are you sure?</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>API-version er for gammel!
+Opdater venligst %1!</translation>
     </message>
 </context>
 <context>
@@ -5201,17 +5202,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="40"/>
         <source>Confirm mods to update</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræft mods, der skal opdateres</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="49"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ved at opdatere følgende mods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="50"/>
         <source>Only mods with a check will be updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun mods med et flueben vil blive opdateret!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
@@ -5231,7 +5232,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
         <source>Checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Søger efter opdateringer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
@@ -5252,7 +5253,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Søger efter opdateringer...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
@@ -5273,7 +5274,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod &apos;%1&apos; har endnu ikke metadata. Vi er nødt til at generere det for at spore relevante oplysninger om, hvordan du opdaterer denne mod. For at gøre dette skal du vælge en modudbyder, som vi kan bruge til at søge efter opdateringer til denne mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
@@ -5283,12 +5284,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
         <source>Failed to check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke søge efter opdateringer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke kontrollere eller hente følgende mods for opdateringer:&lt;br&gt;Ønsker du at fortsætte uden disse mods?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
@@ -5313,7 +5314,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
         <source>Not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke installeret</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
@@ -5414,7 +5415,8 @@ Please update %1!</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>API-version er for gammel!
+Opdater venligst %1!</translation>
     </message>
 </context>
 <context>
@@ -5467,7 +5469,7 @@ Please update %1!</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>En eller flere af dine instanser er fra samme modpack%1. Vil du skabe en separat instans eller opdatere den allerede eksisterende?
+        <translation>Én eller flere af dine instanser er fra samme modpack%1. Vil du skabe en separat instans eller opdatere den allerede eksisterende?
 
 OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inden du opdaterer, da verdener kan beskadiges og noget konfiguration kan gå tabt (på grund af overskrivelse af pakker).</translation>
     </message>
@@ -5479,7 +5481,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="60"/>
         <source>Update existing instance</source>
-        <translation>Opdater eksisterende instans</translation>
+        <translation>Opdatér eksisterende instans</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
@@ -5527,7 +5529,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>En eller flere mods fra denne modpack er valgfri. De vil blive hentet, men deaktiveret som standard!</translation>
+        <translation>Én eller flere mods fra denne modpack er valgfri. De vil blive hentet, men deaktiveret som standard!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="363"/>
@@ -5551,7 +5553,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation>Sorter efter downloads</translation>
+        <translation>Sorter efter overførsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
@@ -5626,7 +5628,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="272"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemer: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="274"/>
@@ -5652,7 +5654,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Sorter efter samlede overførsler</translation>
+        <translation>Sorter efter samlede overførsler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="249"/>
@@ -5712,7 +5714,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj tom komponent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
@@ -5894,7 +5896,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
         <source>Upload</source>
-        <translation type="unfinished">Upload</translation>
+        <translation>Upload</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="100"/>
@@ -6016,7 +6018,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/net/PasteUpload.cpp" line="214"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="243"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl: %1 svarede med en misdannet response body</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="206"/>
@@ -6146,7 +6148,9 @@ Fejlmeddelelse: %3</translation>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>Du skal blot tage endnu ét skridt for at kunne spille Minecraft på denne konto.
+
+Vælg dit navn med omhu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -6227,7 +6231,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
@@ -6300,12 +6304,12 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="161"/>
         <source>&lt;p&gt;Following commits were added since last update:&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; Følgende commits blev tilføjet siden sidste opdatering:&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="168"/>
         <source>&lt;p&gt;The update removes %1 commits and adds the following %2:&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Opdateringen fjerner %1 commits og tilføjer følgende %2:&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="171"/>
@@ -6422,7 +6426,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Invalid component file version, expected %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig komponentfilversion, forventede %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="206"/>
@@ -6492,7 +6496,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="352"/>
         <source>Update failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdateringen mislykkedes!</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="353"/>
@@ -6622,7 +6626,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="110"/>
         <source>Invalid JProfiler install</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig installation af JProfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="31"/>
@@ -6650,7 +6654,10 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Instansens navn ser ud til at indeholde den gamle version. Vil du opdatere det?
+
+Gammelt navn: %1
+Nyt navn: %2</translation>
     </message>
 </context>
 <context>
@@ -6752,7 +6759,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun mods med et flueben vil blive downloadet!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="12"/>
@@ -6775,7 +6782,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"/>
         <source>Upload</source>
-        <translation type="unfinished">Upload</translation>
+        <translation>Upload</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
@@ -6858,7 +6865,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
         <source>One of the tasks failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Én af opgaverne mislykkedes!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
@@ -7099,7 +7106,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpack-download</translation>
+        <translation>Modpack-download</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
@@ -7114,7 +7121,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Det lykkedes ikke at udpakke modpack’en</translation>
+        <translation>Det lykkedes ikke at udpakke modpacken</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
@@ -7156,7 +7163,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Det lykkedes ikke at udpakke modpack’en</translation>
+        <translation>Det lykkedes ikke at udpakke modpacken</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
@@ -7281,7 +7288,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="481"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuldstændighed er procentdelen af fuldt oversatte strenge, uden at medregne de automatisk gættede strenge.</translation>
     </message>
 </context>
 <context>
@@ -7296,7 +7303,9 @@ inheritsFrom is missing</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering af instans mislykkedes, fordi: %1
+
+</translation>
     </message>
 </context>
 <context>
@@ -7305,27 +7314,27 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Launcher-opdatering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatér nu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="74"/>
         <source>Don&apos;t update yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater ikke endnu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="52"/>
         <source>A new %1 update is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>En ny %1 opdatering er tilgængelig!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="56"/>
         <source>No %1 updates found. You are running the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen %1 opdateringer fundet. Du kører den seneste version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="58"/>
@@ -7402,7 +7411,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
@@ -7456,7 +7465,8 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne instans er ikke kompatibel med Java-version %1.
+Skift venligst til én af følgende Java-versioner for denne instans:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
@@ -7502,7 +7512,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
         <source>Make the selected package apply sooner.</source>
-        <translation type="unfinished"></translation>
+        <translation>Få den valgte pakke til at anvendes tidligere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
@@ -7557,52 +7567,52 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Install Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
         <source>Install the Minecraft Forge package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér Minecraft Forge-pakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
         <source>Install Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Install the Fabric Loader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér Fabric Loader-pakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
         <source>Install Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Install the Quilt Loader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér Quilt Loader-pakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
         <source>Install LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
         <source>Install the LiteLoader package.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér LiteLoader-pakken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
         <source>Install mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Install normal mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installér normale mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
@@ -7902,7 +7912,7 @@ Tilføj din Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="168"/>
         <source>%1 (installed)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (installeret)</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="199"/>
@@ -7945,7 +7955,8 @@ Tilføj din Mojang- eller Minecraft-konto.</translation>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>List update failed:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering af listen mislykkedes:
+%1</translation>
     </message>
 </context>
 <context>
@@ -8080,7 +8091,10 @@ Tilføj din Mojang- eller Minecraft-konto.</translation>
 The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dette vil fjerne den valgte verden permanent.
+Verden vil være væk for evigt (LANG TID).
+
+Ønsker du at fortsætte?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
@@ -8112,7 +8126,8 @@ You can set it up in the global settings.</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="309"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit kunne ikke starte.
+Det kan være nødvendigt at geninstallere det.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="358"/>
@@ -8313,7 +8328,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL-handshake mislykkedes.&lt;/b&gt;&lt;br/&gt;Der kan være et par årsager til det:&lt;br/&gt;&lt;ul&gt;&lt;li&gt; Du bruger Windows og skal opdatere dine rodcertifikater, installér venligst alle udestående opdateringer.&lt;/li&gt;&lt;li&gt;En enhed på dit netværk forstyrrer SSL-trafikken. I så fald har du større bekymringer end Minecraft, der ikke starter.&lt;/li&gt;&lt;li&gt;Muligvis er der tale om noget andet. Tjek logfilen for detaljer&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
@@ -8346,7 +8361,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="18"/>
         <source>Logging in with Mojang account.</source>
-        <translation type="unfinished">Log in med Mojang-konto.</translation>
+        <translation>Logger ind med Mojang-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="35"/>
