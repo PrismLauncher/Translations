@@ -658,12 +658,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished">Opdaterer dataindeks...</translation>
+        <translation>Opdaterer dataindeks...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="28"/>
         <source>Asset index for %1</source>
-        <translation type="unfinished">Dataindeks for %1</translation>
+        <translation>Dataindeks for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
@@ -674,7 +674,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
-        <translation type="unfinished">Indlæsning af dataindeks mislykkedes!</translation>
+        <translation>Indlæsning af dataindeks mislykkedes!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
@@ -685,14 +685,14 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished">Det lykkedes ikke at hente data med indeks:
+        <translation>Det lykkedes ikke at hente dataindeks:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
         <source>Failed to download assets:
 %1</source>
-        <translation type="unfinished">Det lykkedes ikke at hente data:
+        <translation>Det lykkedes ikke at hente data:
 %1</translation>
     </message>
 </context>
@@ -737,7 +737,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished">Brug Del Kode</translation>
+        <translation>Brug Delingskode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -747,17 +747,17 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished">Vælg en dele kode</translation>
+        <translation>Vælg en delingskode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished">Dele kode:</translation>
+        <translation>Delingskode:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished">Ingen delt kode specificeret!</translation>
+        <translation>Ingen delingskode specificeret!</translation>
     </message>
 </context>
 <context>
@@ -1035,7 +1035,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Kommando før start:8</translation>
+        <translation>Kommando før start:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
@@ -1132,7 +1132,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="14"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished">Bestemmer ejerskab af spil.</translation>
+        <translation>Bestemmer ejerskab af spil.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
@@ -1500,7 +1500,7 @@ Prøv venligst igen.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Kunne ikke forstå pakkemanifest:
+        <translation>Kunne ikke forstå pakkemanifest:
 </translation>
     </message>
     <message>
@@ -1518,7 +1518,7 @@ Prøv venligst igen.</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Én eller flere af dine instanser er fra samme modpack%1. Vil du skabe en separat instans eller opdatere den allerede eksisterende?
+        <translation>Én eller flere af dine instanser er fra samme modpack%1. Vil du oprette en separat instans eller opdatere den allerede eksisterende?
 
 Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inden du opdaterer, da verdener kan beskadiges og noget konfiguration kan gå tabt (på grund af overskrivelse af pakker).</translation>
     </message>
@@ -1530,7 +1530,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation>Skab ny instans</translation>
+        <translation>Opret ny instans</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
@@ -1589,7 +1589,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
         <source>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</source>
-        <translation>Følgende filer kan ikke hentes i tredjeparts launchers.&lt;br/&gt;Du skal hente dem manuelt og tilføje dem til instansen</translation>
+        <translation>Følgende filer kan ikke hentes i tredjeparts launchers.&lt;br/&gt;Du vil behøve hente dem manuelt og tilføje dem til instansen</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
@@ -1656,7 +1656,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation>Sorter efter skaber</translation>
+        <translation>Sorter efter forfatter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
@@ -1688,7 +1688,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Obs: CurseForge tillader skabere at blokkere adgang til tredjeparts applikationer såsom Prism Launcher. Du kan derfor behøve at manuelt hente nogle mods for at kunne installere et modpack.</translation>
+        <translation>Obs: CurseForge tillader forfattere at blokkere adgang til tredjeparts applikationer såsom Prism Launcher. Du kan derfor behøve at manuelt hente nogle mods for at kunne installere et modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1728,7 +1728,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="67"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation>Sorter efter skaber</translation>
+        <translation>Sorter efter forfattere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="68"/>
@@ -1774,7 +1774,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="52"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>Mislykkedes med at skabe en mappe for Minecraft-binære filer.</translation>
+        <translation>Mislykkedes med at oprette en mappe for Minecraft-binære filer.</translation>
     </message>
 </context>
 <context>
@@ -2285,7 +2285,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="206"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Vær opmærksom på: PermGen bliver indstillet automatisk af Java 8 og senere versioner</translation>
+        <translation>Obs: PermGen bliver indstillet automatisk af Java 8 og senere versioner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="219"/>
@@ -2305,7 +2305,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="259"/>
         <source>Start Minecraft maximized?</source>
-        <translation>Start Minecraft i fuld skærm?</translation>
+        <translation>Start Minecraft maksimeret?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="268"/>
@@ -2335,7 +2335,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="345"/>
         <source>Show console when the game crashes?</source>
-        <translation>Vis konsollen når spillet bryder sammen?</translation>
+        <translation>Vis konsollen når spillet crasher?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="367"/>
@@ -2345,12 +2345,12 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="374"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished">Afslut launcheren efter spilvinduet lukker</translation>
+        <translation>Afslut launcheren efter spilvinduet lukker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="398"/>
         <source>Custom commands</source>
-        <translation>Brugerdefinerede kommandoer</translation>
+        <translation>Egne kommandoer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="408"/>
@@ -2382,7 +2382,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="460"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="469"/>
         <source>Performance</source>
-        <translation type="unfinished">Ydelse</translation>
+        <translation>Ydelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="481"/>
@@ -2470,7 +2470,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="826"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Kunne ikke gemme ændringerne i instansen, selv efter flere forsøg - noget blokerer.</translation>
+        <translation>Kunne ikke gemme ændringerne i instansen, selv efter flere forsøg. Der er noget som blokerer.</translation>
     </message>
 </context>
 <context>
@@ -2488,7 +2488,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>Launch Offline</source>
-        <translation>Kør offline</translation>
+        <translation>Start offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
@@ -2514,13 +2514,13 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="176"/>
         <source>Launch</source>
-        <translation>Kør</translation>
+        <translation>Start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="163"/>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="178"/>
         <source>Launch the instance</source>
-        <translation>Kør instansen</translation>
+        <translation>Start instansen</translation>
     </message>
 </context>
 <context>
@@ -2637,7 +2637,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Hvis aktiveret, kontrollerer launcheren ikke, om en instans er kompatibel med den valgte Java-version.</translation>
+        <translation>Hvis aktiveret, kontrollerer launcheren ikke om en instans er kompatibel med den valgte Java-version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
@@ -2801,7 +2801,7 @@ Vælg venligst én af følgende eller gennemse filer for en eksekverbar Java-fil
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="144"/>
         <source>No account selected for launch.</source>
-        <translation>Ingen konto valgt.</translation>
+        <translation>Ingen konto valgt for start.</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -2928,14 +2928,14 @@ Vil du spille demoen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="401"/>
         <source>Couldn&apos;t start profiler: %1</source>
-        <translation>Kunne ikke starte profiler: %1</translation>
+        <translation>Kunne ikke starte profilering: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="410"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>Spilopstart er udsat indtil du trykker på knappen. Dette er det rigtige tidspunkt at indstille profileren, da profilerserveren kører nu.
+        <translation>Spilopstart er udsat indtil du trykker på knappen. Dette er det rigtige tidspunkt at indstille profileringsværktøjet, da profilerserveren kører nu.
 
 %1</translation>
     </message>
@@ -2947,12 +2947,12 @@ Vil du spille demoen?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="415"/>
         <source>Launch</source>
-        <translation>Kør</translation>
+        <translation>Start</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="423"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation>Kunne ikke starte profiler: %1</translation>
+        <translation>Kunne ikke starte profileringen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="424"/>
@@ -3008,7 +3008,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="84"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation>Minecraft-adgangstokenssvaret kunne ikke analyseres.</translation>
+        <translation>Minecraft-adgangstokenssvaret kunne ikke fortolkes.</translation>
     </message>
 </context>
 <context>
@@ -3682,12 +3682,12 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="104"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation>Processen brød sammen.</translation>
+        <translation>Processen crashede.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="106"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Processen brød sammen med slutkode %1.</translation>
+        <translation>Processen crashede med slutkode %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
@@ -3789,12 +3789,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1166"/>
         <source>Launch</source>
-        <translation>Kør</translation>
+        <translation>Start</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="658"/>
         <source>Launch the selected instance.</source>
-        <translation>Kør den valgte instans.</translation>
+        <translation>Start den valgte instans.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="435"/>
@@ -3814,7 +3814,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="300"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation>&amp;Se instansmappen</translation>
+        <translation>&amp;Åben instansmappen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
@@ -4174,12 +4174,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1168"/>
         <source>Launch Offline</source>
-        <translation>Kør offline</translation>
+        <translation>Start offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>Launch the selected instance in offline mode.</source>
-        <translation>Kør den valgte instans i offline tilstand.</translation>
+        <translation>Start den valgte instans i offline tilstand.</translation>
     </message>
     <message>
         <source>Edit Instance</source>
@@ -4314,7 +4314,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Launch Demo</source>
-        <translation type="unfinished">Start Demo</translation>
+        <translation>Start Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1171"/>
@@ -4557,7 +4557,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="911"/>
         <source>, has crashed.</source>
-        <translation>, er brudt sammen.</translation>
+        <translation>, er crashet.</translation>
     </message>
 </context>
 <context>
@@ -4613,37 +4613,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Performance</source>
-        <translation type="unfinished">Ydelse</translation>
+        <translation>Ydelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode for at muligvis forbedre spilydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode for at muligvis forbedre spilydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="149"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Aktiver Feral GameMode</translation>
+        <translation>Aktiver Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelsesoverlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelsesoverlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="159"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Aktiver MangoHud</translation>
+        <translation>Aktiver MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="166"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brug den diskrete GPU i stedet for den primære GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brug den diskrete GPU i stedet for den primære GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="169"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Brug diskret GPU</translation>
+        <translation>Brug diskret GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -4705,12 +4705,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Feral Interactives GameMode kunne ikke findes på dit system.</translation>
+        <translation>Feral Interactives GameMode kunne ikke findes på dit system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud kunne ikke findes på dit system.</translation>
+        <translation>MangoHud kunne ikke findes på dit system.</translation>
     </message>
 </context>
 <context>
@@ -4799,7 +4799,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>Åbner en ny popup for at gennemgå dine valgte mods og bekræfte dit valg. Genvej: Ctrl+Return</translation>
+        <translation>Åbner en ny pop op for at gennemgå dine valgte mods og bekræfte dit valg. Genvej: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="90"/>
@@ -5469,14 +5469,14 @@ Opdater venligst %1!</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Én eller flere af dine instanser er fra samme modpack%1. Vil du skabe en separat instans eller opdatere den allerede eksisterende?
+        <translation>Én eller flere af dine instanser er fra samme modpack%1. Vil du oprette en separat instans eller opdatere den allerede eksisterende?
 
 OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inden du opdaterer, da verdener kan beskadiges og noget konfiguration kan gå tabt (på grund af overskrivelse af pakker).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
         <source>Create new instance</source>
-        <translation>Skab en ny instans</translation>
+        <translation>Opret ny instans</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="60"/>
@@ -7401,7 +7401,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="253"/>
         <source>Refresh</source>
-        <translation>Opdater</translation>
+        <translation>Opdatér</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
@@ -8043,7 +8043,7 @@ Tilføj din Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
         <source>Refresh</source>
-        <translation>Opdater</translation>
+        <translation>Opdatér</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
