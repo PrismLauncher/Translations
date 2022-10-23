@@ -2637,7 +2637,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="246"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hvis aktiveret, kontrollerer launcheren ikke, om en instans er kompatibel med den valgte Java-version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="249"/>
@@ -4314,7 +4314,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1170"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Start Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1171"/>
@@ -4613,37 +4613,37 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ydelse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver Feral Interactives GameMode for at muligvis forbedre spilydelsen.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="149"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktiver Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktiver MangoHuds avancerede ydelsesoverlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="159"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktiver MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="166"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Brug den diskrete GPU i stedet for den primære GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="169"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brug diskret GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -4705,12 +4705,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Feral Interactives GameMode kunne ikke findes på dit system.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MangoHud kunne ikke findes på dit system.</translation>
     </message>
 </context>
 <context>
