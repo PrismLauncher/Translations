@@ -1045,7 +1045,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
-        <translation>Kommandoar</translation>
+        <translation type="unfinished">Kommandoar</translation>
     </message>
 </context>
 <context>
