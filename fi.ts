@@ -28,7 +28,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API-avaimet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -70,17 +70,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta&amp;data Palvelin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voit asettaa tämän eri metadata palvelimeksi käyttääksesi muokattuja ohjelmakirjastoja tai muita pätsejä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Syötä tähän mukautettu URL-osoite metalle.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -259,7 +259,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -361,7 +361,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vanhentunut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
@@ -554,7 +554,9 @@ Jos olet uusi täällä, voit klikata &quot;Lisää&quot;-painiketta lisätäkse
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft-tilit ovat käytettävissä vain macOS 10.13 tai uudemmassa, ja uusimmalla %1 versiolla.
+
+Päivitä sekä käyttöjärjestelmä että %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -737,17 +739,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse jakamiskoodi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jakamiskoodi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jakamiskoodia ei ole määritelty!</translation>
     </message>
 </context>
 <context>
@@ -755,7 +757,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Oletko varma, että haluat ottaa tämän modin käyttöön?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
@@ -1480,7 +1482,7 @@ Yritä uudelleen.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modiin on saatavilla uusi päivitys, mutta se ei ole ladattavissa CurseForgesta.</translation>
     </message>
 </context>
 <context>
