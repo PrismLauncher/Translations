@@ -626,12 +626,12 @@ Vennligst oppdater både operativsystemet dit og %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="682"/>
+        <location filename="src/launcher/Application.cpp" line="684"/>
         <source>Settings</source>
         <translation type="unfinished">Innstillinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1229"/>
+        <location filename="src/launcher/Application.cpp" line="1241"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>

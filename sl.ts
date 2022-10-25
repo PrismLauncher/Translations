@@ -618,12 +618,12 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="682"/>
+        <location filename="src/launcher/Application.cpp" line="684"/>
         <source>Settings</source>
         <translation>Nastavitve</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1229"/>
+        <location filename="src/launcher/Application.cpp" line="1241"/>
         <source>Aborted</source>
         <translation>Prekinjeno</translation>
     </message>
