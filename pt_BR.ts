@@ -251,7 +251,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Um inicializador personalizado que facilita o gerenciamento de várias instânssias do Minecraft.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Um inicializador personalizado que facilita o gerenciamento de várias instâncias do Minecraft.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -956,12 +956,12 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>A instânssias tem dependências conflitantes.</translation>
+        <translation>A instância tem dependências conflitantes.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>A instânssias contém dependências não resolvidas durante o carregamento/verificação de inicialização.</translation>
+        <translation>A instância contém dependências não resolvidas durante o carregamento/verificação de inicialização.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
@@ -989,7 +989,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Copiar instânssias</translation>
+        <translation>Copiar instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1063,7 +1063,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Os comandos de pré-inicialização e pós-inicialização são rodados antes da inicialização da instânssias e após a instânssias terminar de executar, respectivamente.&lt;/p&gt;&lt;p&gt;Ambos serão rodados na pasta de trabalho do launcher com variáveis adicionais de ambiente:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME — Nome da instânssias &lt;/li&gt;&lt;li&gt;$INST_ID — ID da instânssias (nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_DIR — Caminho absoluto da instânssias (o nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_MC_DIR — Caminho absoluto do Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA — Binário do Java usado na inicialização&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS — Parâmetros de linha de comando usados na inicialização (aviso: esses argumentos não funcionarão corretamente se eles contiverem espaços)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comandos de wrapper permitem o uso de um programa adicional junto da instânssias (como o &apos;optirun&apos; no Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Os comandos de pré-inicialização e pós-inicialização são rodados antes da inicialização da instância e após a instância terminar de executar, respectivamente.&lt;/p&gt;&lt;p&gt;Ambos serão rodados na pasta de trabalho do launcher com variáveis adicionais de ambiente:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME — Nome da instância&lt;/li&gt;&lt;li&gt;$INST_ID — ID da instância (nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_DIR — Caminho absoluto da instância (o nome da pasta)&lt;/li&gt;&lt;li&gt;$INST_MC_DIR — Caminho absoluto do Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA — Binário do Java usado na inicialização&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS — Parâmetros de linha de comando usados na inicialização (aviso: esses argumentos não funcionarão corretamente se eles contiverem espaços)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comandos de wrapper permitem o uso de um programa adicional junto da instância (como o &apos;optirun&apos; no Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1161,7 +1161,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>Exportar instânssias</translation>
+        <translation>Exportar instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
@@ -1188,7 +1188,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
-        <translation>Falha ao exportar instânssias</translation>
+        <translation>Falha ao exportar instância</translation>
     </message>
 </context>
 <context>
@@ -1436,12 +1436,12 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>Copiando bibliotecas do FML para a instânssias...</translation>
+        <translation>Copiando bibliotecas do FML para a instância...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>Falha ao criar a pasta da biblioteca do FML na instânssias.</translation>
+        <translation>Falha ao criar a pasta da biblioteca do FML na instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
@@ -1534,19 +1534,19 @@ Por favor, tente novamente.</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Uma ou mais de suas instânssias são deste mesmo modpack%1. Deseja criar uma instânssias separada ou atualizar a existente? 
+        <translation>Uma ou mais de suas instâncias são deste mesmo modpack%1. Deseja criar uma instância separada ou atualizar a existente? 
  
-NOTA: Certifique-se de fazer um backup dos dados importantes da instânssias antes de atualizar, pois os mundos podem ser corrompidos e algumas configurações podem ser perdidas (devido a substituições de pacotes).</translation>
+NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes de atualizar, pois os mundos podem ser corrompidos e algumas configurações podem ser perdidas (devido a substituições de pacotes).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation>Atualizar instânssias existente</translation>
+        <translation>Atualizar instância existente</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation>Criar nova instânssias</translation>
+        <translation>Criar nova instância</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
@@ -2028,7 +2028,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instânssias ant
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Instânssias exportadas do Prism Launcher, PolyMC ou MultiMC (ZIP)</translation>
+        <translation>- Instâncias exportadas do Prism Launcher, PolyMC ou MultiMC (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2091,17 +2091,17 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instânssias ant
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="24"/>
         <source>Copying instance %1</source>
-        <translation>Copiando instânssias %1</translation>
+        <translation>Copiando instância %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
         <source>Instance folder copy failed.</source>
-        <translation>Falha ao copiar instânssias .</translation>
+        <translation>Falha ao copiar instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="57"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>A cópia da pasta da instânssias foi cancelada.</translation>
+        <translation>A cópia da pasta da instância foi cancelada.</translation>
     </message>
 </context>
 <context>
@@ -3894,7 +3894,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="293"/>
         <source>Add a new instance.</source>
-        <translation>Adicione uma nova instânssia.</translation>
+        <translation>Adicionar uma nova instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="300"/>
@@ -4055,7 +4055,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
         <source>Cop&amp;y...</source>
-        <translation>&amp;Copilar...</translation>
+        <translation>&amp;Copiar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="746"/>
@@ -4844,13 +4844,13 @@ Você tem certeza?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The launcher will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PolyMC will automatically reopen when the game crashes or exits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;O PrismLauncher vai automaticamente reabrir quando você sair do jogo ou ele craxar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;O launcher vai automaticamente reabrir quando você sair do jogo ou ele crashar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="218"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Fechar o PrismLauncher quando a tela do jogo cagar</translation>
+        <translation>&amp;Fechar o launcher quando a tela do jogo abrir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
@@ -7732,7 +7732,7 @@ total: %4</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="109"/>
         <source>Betas</source>
-        <translation>Betes</translation>
+        <translation>Betas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="119"/>
