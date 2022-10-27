@@ -1330,7 +1330,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM　実行ファイル</translation>
+        <translation>JVisualVM&#x3000;実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -1620,7 +1620,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">人気順</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
@@ -1631,7 +1631,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名前順</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
@@ -5799,7 +5799,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ユーザー名</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
