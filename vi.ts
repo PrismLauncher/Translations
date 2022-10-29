@@ -2890,7 +2890,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="243"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Huỷ</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
@@ -5512,44 +5512,46 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="50"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (phiên bản %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="53"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modpack tương tự đã được tìm thấy!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="54"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Một hoặc nhiều phiên bản của bạn là từ cùng modpack%1 này. Bạn muốn tạo một phiên bản riêng biệt hay cập nhật phiên bản hiện có?
+
+GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ liệu của phiên bản quan trọng trước khi cập nhật, vì thế giới có thể bị hỏng và một số cấu hình có thể bị mất (do ghi đè gói).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tạo một phiên bản mới</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="60"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cập nhật phiên bản hiện có</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="61"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Huỷ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Không có tệp chỉ mục.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chúng tôi không thể tìm thấy tệp chỉ mục phù hợp cho phiên bản cũ. Điều này có thể khiến một số tệp bị trùng lặp. Bạn có muốn tiếp tục?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
