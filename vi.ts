@@ -1047,7 +1047,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh trước khi khởi chạy trước khi phiên bản khởi chạy và lệnh sau thoát chạy sau khi thoát.&lt;/p&gt;&lt;p&gt;Cả hai sẽ được chạy trong thư mục làm việc của PolyMC với các biến môi trường bổ sung:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID của instance (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - đường dẫn tuyệt đối của instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - đường dẫn tuyệt đối của minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java nhị phân được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - các tham số dòng lệnh được sử dụng để khởi chạy &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh Wrapper cho phép khởi chạy bằng một chương trình wrapper bổ sung (như &apos;optirun&apos; trên Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh trước khi khởi chạy trước khi phiên bản khởi chạy và lệnh sau thoát chạy sau khi thoát.&lt;/p&gt;&lt;p&gt;Cả hai sẽ được chạy trong thư mục làm việc của Prism Launcher &lt;body&gt;&lt;p&gt;&lt;html&gt;&lt;body&gt;&lt;body&gt;&lt;body&gt;&lt;body&gt;&lt;body&gt;&lt;body&gt;&lt;body&gt;&lt;body&gt;với các biến môi trường bổ sung:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID của instance (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - đường dẫn tuyệt đối của instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - đường dẫn tuyệt đối của minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java nhị phân được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - các tham số dòng lệnh được sử dụng để khởi chạy &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh Wrapper cho phép khởi chạy bằng một chương trình wrapper bổ sung (như &apos;optirun&apos; trên Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1063,14 +1063,14 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>Câu lệnh wrapper &quot;%1&quot; không thể tìm thấy.</translation>
+        <translation>Không thể tìm thấy câu lệnh wrapper &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Không thể khởi chạy Minecraft!</translation>
+        <translation>Không thể khởi chạy Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
@@ -1107,24 +1107,24 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang yêu cầu thông tin metadata từ %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang yêu cầu thông tin metadata cho &apos;%2&apos; từ %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang phân tích cú pháp API phản hồi từ Modrinth cho &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang phân tích cú pháp API phản hồi từ CurseForge cho &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1180,17 +1180,17 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
         <source>Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lọc:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Hành động</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Thêm</translation>
+        <translation>&amp;Thêm</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
@@ -1200,7 +1200,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Xoá</translation>
+        <translation>&amp;Xoá</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
@@ -1210,7 +1210,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished">&amp;Bật</translation>
+        <translation>&amp;Bật</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
@@ -1220,7 +1220,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">&amp;Tắt</translation>
+        <translation>&amp;Tắt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
@@ -1230,22 +1230,22 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">Xem &amp;Cấu Hình</translation>
+        <translation>Xem &amp;Cấu Hình</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Bật thư mục &apos;cấu hình&apos; vào tập tin quản lý hệ thống.</translation>
+        <translation>Mở thư mục &apos;cấu hình&apos; bằng trình quản lý tập tin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">Xem &amp;Thư Mục</translation>
+        <translation>Xem &amp;Thư Mục</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tải xuống</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
@@ -1272,7 +1272,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="147"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">Chọn %1</translation>
+        <translation>Chọn %1</translation>
     </message>
 </context>
 <context>
@@ -1490,7 +1490,7 @@ Vui lòng thử lại.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Mod có một bản cập nhật mới , nhưng nó được tải bằng CurseForge.</translation>
+        <translation>Mod có một bản cập nhật mới, nhưng nó không thể được tải bằng CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1500,66 +1500,69 @@ Vui lòng thử lại.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể hiểu tệp kê khai gói:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="68"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (phiên bản %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpack tương tự đã được tìm thấy!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Một hoặc nhiều phiên bản của bạn là từ cùng modpack%1 này. Bạn muốn tạo một phiên bản riêng biệt hay cập nhật phiên bản hiện có?
+
+GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ liệu của phiên bản quan trọng trước khi cập nhật, vì thế giới có thể bị hỏng và một số cấu hình có thể bị mất (do ghi đè gói).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
         <source>Update existing instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Cập nhật phiên bản hiện có</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="77"/>
         <source>Create new instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Tạo một phiên bản mới</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="78"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Huỷ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có tệp chỉ mục.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chúng tôi không thể tìm thấy tệp chỉ mục phù hợp cho phiên bản cũ. Điều này có thể khiến một số tệp bị trùng lặp. Bạn có muốn tiếp tục?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Không thể thay đổi tên thư mục ghi đè:
+        <translation>Không thể thay đổi tên thư mục ghi đè:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="254"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Thư mục ghi đè được chỉ định (%1) bị thiếu. Có thể modpack đã được sử dụng trước đó?</translation>
+        <translation>Thư mục ghi đè được chỉ định (%1) bị thiếu. Có thể modpack đã được sử dụng trước đó?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="273"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Mod loader không xác định trong tệp manifest: %1</translation>
+        <translation>Mod loader không xác định trong tệp manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="284"/>
@@ -1575,13 +1578,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Không thể giải quyết mod IDs:
+        <translation>Không thể giải quyết ID của mod:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="388"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Đã tìm thấy các mod bị chặn</translation>
+        <translation>Đã tìm thấy các mod bị chặn</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="389"/>
@@ -1591,12 +1594,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="409"/>
         <source>Mod download</source>
-        <translation type="unfinished">Tải xuống mod</translation>
+        <translation>Tải xuống mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished">&apos;Thư Mục&apos; này có thể cần giải nén: %1</translation>
+        <translation>&apos;Thư Mục&apos; này có thể cần giải nén: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
@@ -1611,7 +1614,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang tải mod...</translation>
     </message>
 </context>
 <context>
@@ -1632,28 +1635,28 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Sắp xếp theo tính năng</translation>
+        <translation>Sắp xếp theo tính năng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Sắp xếp theo mức độ phổ biến</translation>
+        <translation>Sắp xếp theo mức độ phổ biến</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Sắp xếp theo cập nhật lần cuối</translation>
+        <translation>Sắp xếp theo cập nhật lần cuối</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sắp xếp theo tên</translation>
+        <translation>Sắp xếp theo tên</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">Sắp xếp theo tác giả</translation>
+        <translation>Sắp xếp theo tác giả</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
@@ -1691,7 +1694,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Tìm kiếm và lọc...</translation>
+        <translation>Tìm kiếm và lọc...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1757,7 +1760,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="255"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="257"/>
@@ -1786,13 +1789,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Sắp xếp theo lượt cài đặt</translation>
+        <translation>Sắp xếp theo lượt cài đặt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sắp xếp theo tên</translation>
+        <translation>Sắp xếp theo tên</translation>
     </message>
 </context>
 <context>
@@ -1806,7 +1809,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Tìm kiếm và lọc...</translation>
+        <translation>Tìm kiếm và lọc...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -1972,13 +1975,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Các loại tệp sau được triển khai (cho cả tệp cục bộ và URL):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- CurseForge modpacks (ZIP)</translation>
+        <translation>- CurseForge modpacks (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
@@ -1989,7 +1992,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- Phiên bản PolyMC / MultiMC đã xuất(ZIP)</translation>
+        <translation>- Phiên bản Prism Launcher / PolyMC / MultiMC đã xuất(ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2070,17 +2073,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã có lỗi xảy ra trong lúc tạo phiên bản mới.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang xoá những tệp tin xung đột cũ...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể xóa các tệp tin xung đột cũ.</translation>
     </message>
 </context>
 <context>
