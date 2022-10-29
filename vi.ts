@@ -7,13 +7,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished">Dịch vụ Pastebin</translation>
+        <translation>Dịch vụ Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">Loại dịch vụ lưu trữ văn bản</translation>
+        <translation>Dịch vụ lưu trữ &amp; Loại</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -59,17 +59,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Khác</translation>
+        <translation>Khác</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation>Đại lý người dùng</translation>
+        <translation>Tác nhân người dùng</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhập Tác nhân người dùng tùy chỉnh tại đây. Chuỗi đặc biệt $LAUNCHER_VER sẽ được thay thế bằng phiên bản của trình khởi chạy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -114,7 +114,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Không thể hiểu gói manifest:
+        <translation>Không thể hiểu manifest của gói:
 </translation>
     </message>
     <message>
@@ -130,12 +130,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Chế độ cài đặt không được hỗ trợ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang xoá những tập tin hiện có...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
@@ -254,12 +254,12 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Bản dựng:</translation>
+        <translation>Ngày dựng:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cam kết:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -299,12 +299,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cam kết: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="163"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngày dựng: %1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -347,7 +347,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sẵn sàng</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
@@ -400,7 +400,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên người dùng</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
@@ -425,7 +425,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên người dùng Minecraft được liên kết với tài khoản.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -646,7 +646,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1241"/>
         <source>Aborted</source>
-        <translation type="unfinished">Bị gián đoạn</translation>
+        <translation>Bị gián đoạn</translation>
     </message>
 </context>
 <context>
@@ -665,7 +665,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished">Bị gián đoạn</translation>
+        <translation>Bị gián đoạn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -813,22 +813,22 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Hiện không có phiên bản nào cho Minecraft %1</translation>
+        <translation>Hiện không có phiên bản nào cho Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Không có phiên bản nào có sẵn hiện tại</translation>
+        <translation>Hiện tại không có sẵn phiên bản nào</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Không thể tải hoặc tải xuống danh sách phiên bản!</translation>
+        <translation>Không thể tải hoặc tải xuống danh sách phiên bản!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
         <source>Installing</source>
-        <translation type="unfinished">Đang cài đặt</translation>
+        <translation>Đang cài đặt</translation>
     </message>
 </context>
 <context>
@@ -862,7 +862,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="12"/>
         <source>Open All</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở tất cả</translation>
     </message>
 </context>
 <context>
@@ -883,7 +883,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể tìm thấy thư viện của trình kiểm tra Java. Vui lòng kiểm tra cài đặt của bạn.</translation>
     </message>
 </context>
 <context>
@@ -891,7 +891,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn một nhà cung cấp mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -916,7 +916,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Tự động chọn nhà cung cấp khác nếu nhà cung cấp đã chọn thất bại</translation>
     </message>
 </context>
 <context>
@@ -925,7 +925,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished">Bị gián đoạn</translation>
+        <translation>Bị gián đoạn</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -960,12 +960,12 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể hủy bỏ tất cả các tác vụ đang chạy.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang thực hiện %1 tác vụ (đã xong %2 trong tổng số %3 tác vụ)</translation>
     </message>
 </context>
 <context>
@@ -1006,7 +1006,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation type="unfinished">Mod lõi</translation>
+        <translation>Mod lõi</translation>
     </message>
 </context>
 <context>
@@ -1023,19 +1023,19 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">Lệnh &amp;tùy chỉnh</translation>
+        <translation>Lệnh &amp;tùy chỉnh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished">Lệnh sau khi thoát:</translation>
+        <translation>Lệnh sau khi thoát:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished">Lệnh trước khi khởi chạy:</translation>
+        <translation>Lệnh trước khi khởi chạy:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
@@ -1047,7 +1047,7 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh trước khởi chạy trước khi phiên bản khởi chạy và lệnh sau thoát chạy sau khi thoát.&lt;/p&gt;&lt;p&gt;Cả hai sẽ được chạy trong thư mục làm việc của PolyMC với các biến môi trường bổ sung:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID của instance (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - đường dẫn tuyệt đối của instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - đường dẫn tuyệt đối của minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java nhị phân được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - các tham số dòng lệnh được sử dụng để khởi chạy &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh Wrapper cho phép khởi chạy bằng một chương trình wrapper bổ sung (như &apos;optirun&apos; trên Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lệnh trước khi khởi chạy trước khi phiên bản khởi chạy và lệnh sau thoát chạy sau khi thoát.&lt;/p&gt;&lt;p&gt;Cả hai sẽ được chạy trong thư mục làm việc của PolyMC với các biến môi trường bổ sung:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Tên của instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID của instance (tên thư mục của nó)&lt;/li&gt;&lt;li&gt;$INST_DIR - đường dẫn tuyệt đối của instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - đường dẫn tuyệt đối của minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - java nhị phân được sử dụng để khởi chạy&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - các tham số dòng lệnh được sử dụng để khởi chạy &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Lệnh Wrapper cho phép khởi chạy bằng một chương trình wrapper bổ sung (như &apos;optirun&apos; trên Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
