@@ -2419,7 +2419,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="41"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Profiler prekinjen</translation>
     </message>
 </context>
 <context>
@@ -2432,7 +2432,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="39"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Profiler prekinjen</translation>
     </message>
 </context>
 <context>
@@ -6193,7 +6193,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Knjižnice preverjanja Jave ni bilo mogoče najti. Prosimo preverite namestitev.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -7046,7 +7046,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trenutno ni na voljo nobene različice za Minecraft %1</translation>
     </message>
 </context>
 <context>
