@@ -82,6 +82,14 @@
             "fuzzy" : 136,
             "untranslated" : 499
         },
+        "en@pirate" : {
+            "file" : "2aa2d42c51f9cf024e3777f0dde4270388fd22ae.class",
+            "sha1" : "2aa2d42c51f9cf024e3777f0dde4270388fd22ae",
+            "size" : 23,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 1402
+        },
         "en_GB" : {
             "file" : "2eaad60ca58e72c1deed4613bd537816b59d92a0.class",
             "sha1" : "2eaad60ca58e72c1deed4613bd537816b59d92a0",
