@@ -3240,7 +3240,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Flat (White)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flach (Weiß)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
