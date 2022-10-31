@@ -59,12 +59,12 @@
             "untranslated" : 514
         },
         "de" : {
-            "file" : "7a79b18c1b21f840c30104ac593a98c609cd3f4f.class",
-            "sha1" : "7a79b18c1b21f840c30104ac593a98c609cd3f4f",
-            "size" : 206535,
-            "translated" : 1400,
-            "fuzzy" : 1,
-            "untranslated" : 1
+            "file" : "e8e94465514792220b55e45173655cf7a3a7b09d.class",
+            "sha1" : "e8e94465514792220b55e45173655cf7a3a7b09d",
+            "size" : 206597,
+            "translated" : 1402,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "de_CH" : {
             "file" : "b6851ec01e75b8a925e954e27777ba02c58bd6a5.class",
@@ -99,12 +99,12 @@
             "untranslated" : 1227
         },
         "en_GB" : {
-            "file" : "89f299c99ec1393ba4e11444ee96d8fd81f81ebf.class",
-            "sha1" : "89f299c99ec1393ba4e11444ee96d8fd81f81ebf",
-            "size" : 189734,
-            "translated" : 1399,
-            "fuzzy" : 1,
-            "untranslated" : 2
+            "file" : "26a916feb585d4afa82b30f88a2467d0f71ad9fe.class",
+            "sha1" : "26a916feb585d4afa82b30f88a2467d0f71ad9fe",
+            "size" : 189877,
+            "translated" : 1402,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "eo" : {
             "file" : "a98056823b561a2b33072c5e2a6661c05eecc340.class",
@@ -163,12 +163,12 @@
             "untranslated" : 441
         },
         "fr" : {
-            "file" : "bb12133efa709ff010a3f24d21b5a651d68de5c5.class",
-            "sha1" : "bb12133efa709ff010a3f24d21b5a651d68de5c5",
-            "size" : 213534,
-            "translated" : 1399,
+            "file" : "b0b0cbef5290072df4f05b9e5b08188af75babca.class",
+            "sha1" : "b0b0cbef5290072df4f05b9e5b08188af75babca",
+            "size" : 213707,
+            "translated" : 1401,
             "fuzzy" : 1,
-            "untranslated" : 2
+            "untranslated" : 0
         },
         "gl" : {
             "file" : "11f91d66f1c556e0deae2ca78d1d0f094eacec21.class",
@@ -339,12 +339,12 @@
             "untranslated" : 437
         },
         "pl" : {
-            "file" : "9a1892240fce6add3346596df06970febd37faf7.class",
-            "sha1" : "9a1892240fce6add3346596df06970febd37faf7",
-            "size" : 199592,
-            "translated" : 1398,
-            "fuzzy" : 2,
-            "untranslated" : 2
+            "file" : "997281419444378d967447e90d8f7c323ed0ec59.class",
+            "sha1" : "997281419444378d967447e90d8f7c323ed0ec59",
+            "size" : 199753,
+            "translated" : 1402,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "pt_PT" : {
             "file" : "41cd14b23984be25180ae47a7a9cbc46c5cbea5e.class",
@@ -403,12 +403,12 @@
             "untranslated" : 512
         },
         "sl" : {
-            "file" : "db5f25556bc225f567c959cbe2919a060952620d.class",
-            "sha1" : "db5f25556bc225f567c959cbe2919a060952620d",
-            "size" : 38967,
-            "translated" : 220,
-            "fuzzy" : 105,
-            "untranslated" : 1077
+            "file" : "b1b08abb1e7ef878ef8682662d9c2be99084ecb8.class",
+            "sha1" : "b1b08abb1e7ef878ef8682662d9c2be99084ecb8",
+            "size" : 40925,
+            "translated" : 236,
+            "fuzzy" : 104,
+            "untranslated" : 1062
         },
         "sr" : {
             "file" : "1f0f499f1e61c2b21a42300e18a66eb1dd6653cd.class",
@@ -475,12 +475,12 @@
             "untranslated" : 2
         },
         "zh_TW" : {
-            "file" : "003b37292cc598bb952f57075e14148d6e62c92d.class",
-            "sha1" : "003b37292cc598bb952f57075e14148d6e62c92d",
-            "size" : 140869,
-            "translated" : 1401,
+            "file" : "df151dcd6d0b116076686165ed9d42be85a794ca.class",
+            "sha1" : "df151dcd6d0b116076686165ed9d42be85a794ca",
+            "size" : 140942,
+            "translated" : 1402,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         }
     }
 }
