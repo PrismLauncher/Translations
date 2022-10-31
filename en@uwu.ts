@@ -4079,7 +4079,7 @@ Awe you suwe?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="616"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>OwO Open the devewopment bwog to wead mowe nyews about %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
