@@ -663,12 +663,12 @@ Bitte aktualisiere macOS und PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="684"/>
+        <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1241"/>
+        <location filename="src/launcher/Application.cpp" line="1242"/>
         <source>Aborted</source>
         <translation>Abgebrochen</translation>
     </message>
@@ -7667,7 +7667,7 @@ inheritsFrom nicht gefunden</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="445"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="451"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -7678,22 +7678,22 @@ inheritsFrom nicht gefunden</translation>
 %4 insgesamt</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="463"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="469"/>
         <source>Language</source>
         <translation>Sprache</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="467"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="473"/>
         <source>Completeness</source>
         <translation>Vollständigkeit</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="477"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
         <source>The native language name.</source>
         <translation>Der native Sprachname.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="481"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="487"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Vollständigkeit ist der Anteil an vollständig übersetzten Zeichenketten, ohne automatisch generierte zu zählen.</translation>
     </message>

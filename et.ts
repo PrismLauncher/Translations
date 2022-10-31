@@ -633,12 +633,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="684"/>
+        <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Settings</source>
         <translation>Sätted</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1241"/>
+        <location filename="src/launcher/Application.cpp" line="1242"/>
         <source>Aborted</source>
         <translation>Tühistatud</translation>
     </message>
@@ -7360,7 +7360,7 @@ inheritsFrom is missing</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="445"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="451"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -7371,22 +7371,22 @@ inheritsFrom is missing</source>
 %4 kokku</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="463"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="469"/>
         <source>Language</source>
         <translation>Keel</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="467"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="473"/>
         <source>Completeness</source>
         <translation>Valmidus</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="477"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
         <source>The native language name.</source>
         <translation>Emakeele nimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="481"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="487"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Valmidus on täielikult tõlgitud stringide protsent, välja arvatud automaatselt pakutud tõlked.</translation>
     </message>

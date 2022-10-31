@@ -633,12 +633,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="684"/>
+        <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Settings</source>
         <translation type="unfinished">Configuración</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1241"/>
+        <location filename="src/launcher/Application.cpp" line="1242"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7314,7 +7314,7 @@ Non se atopou un inheritsFrom</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="445"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="451"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -7325,22 +7325,22 @@ Non se atopou un inheritsFrom</translation>
 %4 total</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="463"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="469"/>
         <source>Language</source>
         <translation>Idioma</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="467"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="473"/>
         <source>Completeness</source>
         <translation>Completado</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="477"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
         <source>The native language name.</source>
         <translation>O nome da lingua materna.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="481"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="487"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>«Completado» é o porcentaxe de cadeas completamente traducidas, sen contar as creadas automáticamente.</translation>
     </message>
