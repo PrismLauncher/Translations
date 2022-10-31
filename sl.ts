@@ -904,13 +904,14 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanca ima nerešene odvisnosti med nalaganjem/preverjanjem za zagon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opravilo posodabljanja metapodatkov komponente je med prenosom s strežnika naletelo na napako:
+%1</translation>
     </message>
 </context>
 <context>
@@ -918,12 +919,12 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekinitev vseh delujočih opravil ni uspela.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvaja se %1 opravilo(-a) (%2 od %3 je opravljenih)</translation>
     </message>
 </context>
 <context>
@@ -931,32 +932,32 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj instanco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="90"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skupina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="115"/>
         <source>Copy saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj shranjene svetove</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="122"/>
         <source>Keep play time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohrani čas igranja</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="80"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez skupine</translation>
     </message>
 </context>
 <context>
@@ -964,7 +965,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation type="unfinished">Jedrni dodatki</translation>
+        <translation>Core modi</translation>
     </message>
 </context>
 <context>
@@ -972,7 +973,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="18"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Glavne mape igre ni bilo mogoče ustvariti</translation>
     </message>
 </context>
 <context>
@@ -981,25 +982,25 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukazi po meri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ukaz po izhodu:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukaz pred zagonom:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukaz ovojnice:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
