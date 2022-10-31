@@ -4163,9 +4163,8 @@ Raison :
         <translation>&amp;Voir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
         <source>&amp;Profiles</source>
-        <translation>&amp;Profils</translation>
+        <translation type="vanished">&amp;Profils</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
@@ -4445,10 +4444,8 @@ Raison :
         <translation>Temps de jeu total : 0s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Profiles</source>
-        <translation>Profils</translation>
+        <translation type="vanished">Profils</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1114"/>
@@ -4636,6 +4633,17 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
         <source>Open %1 Discord guild.</source>
         <translation>Ouvrir le serveur Discord de %1.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
+        <source>&amp;Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
+        <source>Accounts</source>
+        <translation type="unfinished">Comptes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1523"/>

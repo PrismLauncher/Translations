@@ -3876,6 +3876,11 @@ Reden:
         <translation>Open de centrale mods-map in een bestandsbrowser.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
+        <source>&amp;Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="841"/>
         <source>Folders</source>
         <translation>Mappen</translation>
@@ -4118,9 +4123,8 @@ Reden:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
         <source>&amp;Profiles</source>
-        <translation>&amp;Profielen</translation>
+        <translation type="vanished">&amp;Profielen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
@@ -4234,6 +4238,12 @@ Reden:
         <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
         <source>Ctrl+D</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
+        <source>Accounts</source>
+        <translation type="unfinished">Accounts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
@@ -4368,10 +4378,8 @@ Reden:
         <translation>Totale speeltijd: 0s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Profiles</source>
-        <translation>Profielen</translation>
+        <translation type="vanished">Profielen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1114"/>

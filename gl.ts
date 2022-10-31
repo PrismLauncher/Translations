@@ -3797,6 +3797,11 @@ Motivo:
         <translation>Abrir o cartafol central de mods nun explorador de ficheiros.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
+        <source>&amp;Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="841"/>
         <source>Folders</source>
         <translation>Cartafoles</translation>
@@ -4034,11 +4039,6 @@ Motivo:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
-        <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Help</source>
         <translation type="unfinished"></translation>
@@ -4134,6 +4134,12 @@ Motivo:
         <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
         <source>Ctrl+D</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
+        <source>Accounts</source>
+        <translation type="unfinished">Contas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
@@ -4255,10 +4261,8 @@ Motivo:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Profiles</source>
-        <translation>Perfiles</translation>
+        <translation type="vanished">Perfiles</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1114"/>

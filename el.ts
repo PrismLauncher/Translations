@@ -3822,6 +3822,11 @@ Reason:
         <translation>Άνοιγμα του φακέλου κεντρικών mods σε περιηγητή αρχείων.</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
+        <source>&amp;Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="841"/>
         <source>Folders</source>
         <translation>Φάκελοι</translation>
@@ -4063,11 +4068,6 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
-        <source>&amp;Profiles</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
         <source>&amp;Help</source>
         <translation type="unfinished"></translation>
@@ -4163,6 +4163,12 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
         <source>Ctrl+D</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
+        <source>Accounts</source>
+        <translation type="unfinished">Λογαριασμοί</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1181"/>
@@ -4284,10 +4290,8 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Profiles</source>
-        <translation>Προφίλ</translation>
+        <translation type="vanished">Προφίλ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1114"/>
