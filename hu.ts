@@ -43,7 +43,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Megjegyzés: valószínűleg nem kell neked ezt beállítani, ha a &quot;bejelentkezés Microsoft hitelesítéssel&quot; már működik.</translation>
+        <translation>Megjegyzés: Valószínűleg nem kell ezt beállítanod, ha a Microsoft Authentication-on keresztüli bejelentkezés már működik.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -94,7 +94,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Megjegyzés: valószínűleg már nem kell ezt beállítanod ha a CurseForge már működik.</translation>
+        <translation>Megjegyzés: Valószínűleg már nem kell ezt beállítanod, ha a CurseForge már működik.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -1676,7 +1676,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Megjegyzés: A CurseForge API nagyon megbízhatatlan. A CurseForge és néhány mod készítője letiltotta a modok letöltését harmadik féltől származó alkalmazásokban, mint például a PolyMC-ben. Ezért előfordulhat, hogy manuálisan kell letöltenie néhány modot a modpack telepítéséhez.</translation>
+        <translation>Megjegyzés: A CurseForge API nagyon megbízhatatlan. A CurseForge és néhány mod készítője letiltotta a modok letöltését harmadik féltől származó alkalmazásokban, mint például a Prism Launcher-ben. Ezért előfordulhat, hogy manuálisan kell letöltenie néhány modot a modpack telepítéséhez.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1976,7 +1976,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- PolyMC / MultiMC exportált példányok (ZIP fájl)</translation>
+        <translation>- Prism Launcher, PolyMC vagy MultiMC exportált példányok (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -3160,7 +3160,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Flat (White)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lapos (fehér)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -3270,10 +3270,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Egy olyan példány mappát próbálsz megadni, amelyet ideiglenesen a Flatpakon keresztül adtál meg.
+        <translation>Egy olyan példány mappát próbálsz megadni, amelyet ideiglenesen a Flatpakon keresztül adtál meg.
 Ez köztudottan problémákat okoz. Egy újraindítás után a launcher elromolhat, mert már nem fér hozzá az adott könyvtárhoz.
 
-A PolyMC hozzáférésének biztosítása a Flatseal-on keresztül ajánlott.</translation>
+A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="156"/>
@@ -3958,27 +3958,27 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Szerkesztés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mappa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Exportálás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Törlés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Másolás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
@@ -4025,12 +4025,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Metaadat-gyorsítótár törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>A gyorsítótárazott metaadatok törlése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
@@ -4275,7 +4275,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.cpp" line="717"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Kiválasztott példány világainak megtekintése.</translation>
+        <translation>Törölje a kiválasztott példányt.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -4396,7 +4396,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1219"/>
         <source>%1 Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1225"/>
@@ -4549,13 +4549,13 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fiókok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Accounts</source>
-        <translation type="unfinished">Fiókok</translation>
+        <translation>Fiókok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1523"/>
@@ -5458,7 +5458,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="229"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány létrehozása...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
