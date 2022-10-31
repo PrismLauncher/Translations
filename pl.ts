@@ -3240,7 +3240,7 @@ Konieczne może być naprawienie twoich modów, gdyż gra wciąż zapisuje logi 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Flat (White)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flat (White)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -3350,8 +3350,8 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Próbujesz określić folder instancji, który został tymczasowo przyznany za pośrednictwem Flatpak.
-Wiadomo, że powoduje to problemy. Po ponownym uruchomieniu launcher może się zepsuć, ponieważ nie będzie już miał dostępu do tego katalogu.
+        <translation>Próbujesz określić folder instancji, który został tymczasowo przyznany za pośrednictwem Flatpak.
+To jest wiadome, że spowoduje to problemy. Po ponownym uruchomieniu launcher może się zepsuć, ponieważ nie będzie już miał dostępu do tego katalogu.
 
 Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     </message>
@@ -4666,13 +4666,13 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Accounts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Accounts</source>
-        <translation type="unfinished">Konta</translation>
+        <translation>Konta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1523"/>
