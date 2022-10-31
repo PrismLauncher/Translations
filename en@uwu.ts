@@ -531,7 +531,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
-        <translation type="unfinished">Accounts</translation>
+        <translation>Accounts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
@@ -542,7 +542,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
@@ -1115,7 +1115,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
@@ -1262,7 +1262,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1438,7 +1438,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Couwd nyot undewstand pack m-manyifest:
+        <translation>Couwd nyot undewstand pack m-manyifest:
 </translation>
     </message>
     <message>
@@ -2205,7 +2205,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="355"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="528"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Miscewwanyeous OwO</translation>
+        <translation>Miscewwanyeous OwO</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="460"/>
@@ -2312,17 +2312,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
         <source>Help</source>
-        <translation type="unfinished">Hewp</translation>
+        <translation>Hewp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>Launch Offline</source>
-        <translation type="unfinished">Waunch Offwinye</translation>
+        <translation>Waunch Offwinye</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished">Waunch Demo</translation>
+        <translation>Waunch Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -2337,13 +2337,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="155"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished">Kiww the wunnying instance</translation>
+        <translation>Kiww the wunnying instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="176"/>
         <source>Launch</source>
-        <translation type="unfinished">Waunch</translation>
+        <translation>Waunch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="163"/>
@@ -2730,7 +2730,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="415"/>
         <source>Launch</source>
-        <translation type="unfinished">Waunch</translation>
+        <translation>Waunch</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="423"/>
@@ -2740,12 +2740,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="452"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation>Abowt</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="468"/>
@@ -2843,7 +2843,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>Folders</source>
-        <translation type="unfinished">Fowdews</translation>
+        <translation>Fowdews</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
@@ -3234,17 +3234,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Task abowted</translation>
+        <translation>Task abowted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">The task has been abowted by the usew.</translation>
+        <translation>The task has been abowted by the usew.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -3873,7 +3873,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished">Cop&amp;y...</translation>
+        <translation>Cop&amp;y...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
@@ -4084,27 +4084,27 @@ Awe you suwe?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1438"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Woading nyews...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1453"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyo nyews avaiwabwe.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Expowt t-the sewected instance as a zip f-fiwe OwO.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="366"/>
         <source>Open %1 Matrix space</source>
-        <translation type="unfinished"></translation>
+        <translation>Open %1 Matwix space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open %1 D-Discowd guiwd.</translation>
     </message>
 </context>
 <context>
@@ -4307,7 +4307,7 @@ Awe you suwe?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Miscewwanyeous OwO</translation>
+        <translation>Miscewwanyeous OwO</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -4549,7 +4549,7 @@ Awe you suwe?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
@@ -4573,13 +4573,13 @@ Awe you suwe?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="179"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="239"/>
         <source>Warnings</source>
-        <translation type="unfinished">Wawnyings</translation>
+        <translation>Wawnyings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="189"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="249"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation>Abowt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
@@ -4737,7 +4737,7 @@ Awe you suwe?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="261"/>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="264"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="261"/>
@@ -4792,18 +4792,18 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
         <source>Warnings</source>
-        <translation type="unfinished">Wawnyings</translation>
+        <translation>Wawnyings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="295"/>
         <source>Abort</source>
-        <translation type="unfinished">Abowt</translation>
+        <translation>Abowt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
@@ -4898,7 +4898,7 @@ Please update %1!</source>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Couwd nyot undewstand pack m-manyifest:
+        <translation>Couwd nyot undewstand pack m-manyifest:
 </translation>
     </message>
     <message>
@@ -4943,7 +4943,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="320"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
@@ -5441,7 +5441,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="278"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
@@ -6309,7 +6309,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
         <source>Rename</source>
-        <translation type="unfinished">Wenyame</translation>
+        <translation>Wenyame</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
@@ -6668,7 +6668,7 @@ New name: %2</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Couwd nyot undewstand pack m-manyifest:
+        <translation>Couwd nyot undewstand pack m-manyifest:
 </translation>
     </message>
     <message>
@@ -7225,7 +7225,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="366"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="428"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="291"/>
@@ -7461,7 +7461,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>Error</source>
-        <translation type="unfinished">Ewwow</translation>
+        <translation>Ewwow</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
@@ -7529,7 +7529,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
         <source>Rename</source>
-        <translation type="unfinished">Wenyame</translation>
+        <translation>Wenyame</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
