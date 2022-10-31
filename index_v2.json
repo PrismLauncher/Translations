@@ -91,12 +91,12 @@
             "untranslated" : 1401
         },
         "en@uwu" : {
-            "file" : "d6d9e2996f49a3801d9f3dfa6732e5a36ca838e3.class",
-            "sha1" : "d6d9e2996f49a3801d9f3dfa6732e5a36ca838e3",
-            "size" : 16743,
-            "translated" : 134,
-            "fuzzy" : 1,
-            "untranslated" : 1267
+            "file" : "e4e05b4770909474e4a75813da60d525a5fb68d0.class",
+            "sha1" : "e4e05b4770909474e4a75813da60d525a5fb68d0",
+            "size" : 19649,
+            "translated" : 135,
+            "fuzzy" : 35,
+            "untranslated" : 1232
         },
         "en_GB" : {
             "file" : "89f299c99ec1393ba4e11444ee96d8fd81f81ebf.class",
