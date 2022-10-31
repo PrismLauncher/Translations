@@ -3220,7 +3220,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Flat (White)</source>
-        <translation type="unfinished"></translation>
+        <translation>Flat (White)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -4627,13 +4627,13 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Accounts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Accounts</source>
-        <translation type="unfinished">Accounts</translation>
+        <translation>Accounts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1523"/>
