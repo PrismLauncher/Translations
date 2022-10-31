@@ -4613,13 +4613,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>帳號（&amp;A）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1055"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1398"/>
         <source>Accounts</source>
-        <translation type="unfinished">帳號</translation>
+        <translation>帳號</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1523"/>
