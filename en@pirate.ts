@@ -18,7 +18,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation></translation>
+        <translation>Base &amp;UarrrrL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Userrr Arrrgent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
@@ -205,7 +205,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="902"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Extractin&apos; mods...</translation>
+        <translation>Extractin&apos; mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="975"/>
@@ -612,7 +612,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Settins&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1233"/>
@@ -1546,7 +1546,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Loadin&apos; up mods...</translation>
+        <translation>Loadin&apos; up mods...</translation>
     </message>
 </context>
 <context>
@@ -2042,12 +2042,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="29"/>
         <source>Open Global Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Ship Settins&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>The settins&apos; here are overrides for ship settins&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
@@ -2062,7 +2062,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="77"/>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Explore...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="84"/>
@@ -4295,7 +4295,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
@@ -4921,7 +4921,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="287"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Loadin&apos; up mods...</translation>
+        <translation>Loadin&apos; up mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="290"/>
@@ -5047,7 +5047,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="261"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Loadin&apos; up mods...</translation>
+        <translation>Loadin&apos; up mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="319"/>
@@ -6862,7 +6862,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Creatin&apos; instance from version %1</translation>
+        <translation>Creatin&apos; instance from version %1</translation>
     </message>
 </context>
 <context>
@@ -6875,7 +6875,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished">Rrreleases</translation>
+        <translation>Rrreleases</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="89"/>
@@ -7545,7 +7545,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
         <source>Refresh</source>
-        <translation type="unfinished">Ruh-fresh</translation>
+        <translation>Ruh-fresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
