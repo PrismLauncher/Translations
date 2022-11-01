@@ -53,8 +53,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
-        <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Introdueix aquí la ID de client personalitzada per la teva autenticació de Microsoft. </translation>
+        <source>Enter a custom client ID for Microsoft Authentication here.</source>
+        <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
+        <translation type="unfinished">Introdueix aquí la ID de client personalitzada per la teva autenticació de Microsoft. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -1449,7 +1450,7 @@ Per favor, intenta de nou la descàrrega.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="22"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
         <source>Resolving mod IDs...</source>
         <translation>Resolent els identificadors dels mods...</translation>
     </message>

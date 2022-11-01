@@ -49,8 +49,9 @@
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
-        <source>Enter a custom client ID for Microsoft Authentication here. </source>
-        <translation>Masukkan ID klien sendiri untuk Autentikasi Microsoft di sini. </translation>
+        <source>Enter a custom client ID for Microsoft Authentication here.</source>
+        <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
+        <translation type="unfinished">Masukkan ID klien sendiri untuk Autentikasi Microsoft di sini. </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -1441,7 +1442,7 @@ Coba ulang lagi.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="22"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
         <source>Resolving mod IDs...</source>
         <translation>Menyelesaikan ID mod...</translation>
     </message>
