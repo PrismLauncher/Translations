@@ -4666,13 +4666,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="529"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Учётные записи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1394"/>
         <source>Accounts</source>
-        <translation type="unfinished">Учётные записи</translation>
+        <translation>Учётные записи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1519"/>
