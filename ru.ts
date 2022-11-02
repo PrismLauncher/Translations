@@ -67,7 +67,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Введите здесь собственный client ID для аутентифкации Microsoft. </translation>
+        <translation>Введите здесь собственный client ID для аутентификации Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -5858,7 +5858,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Примечание: сборки Modrinth все еще находятся в альфа. Некоторые вещи могут быть криво работать или не работать вообще! Используйте с осторожностью.</translation>
+        <translation>Примечание: сборки Modrinth все еще находятся в альфа. Некоторые вещи могут криво работать или не работать вообще! Используйте с осторожностью.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -7922,7 +7922,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейдите в настройки &quot;Установка Java&quot;, чтобы изменить свою версию Java или отключить проверку совместимости, если вы знаете, что делаете.</translation>
     </message>
 </context>
 <context>
