@@ -59,7 +59,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">在這裡輸入自訂用戶端 ID 以通過 Microsoft 驗證。 </translation>
+        <translation>在這裡輸入自訂用戶端 ID 以通過 Microsoft 驗證。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
