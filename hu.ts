@@ -7681,6 +7681,11 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
         <source>Java version %1</source>
         <translation>Java verzió: %1</translation>
     </message>
+    <message>
+        <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
+        <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>VersionListView</name>
