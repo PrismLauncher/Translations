@@ -7807,7 +7807,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您知道自己在做什麼，請到實例設定頁面的 Java 設定以更改您的 Java 版本或略過 Java 相容性檢查。</translation>
     </message>
 </context>
 <context>
