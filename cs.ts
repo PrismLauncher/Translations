@@ -3209,22 +3209,22 @@ Možná budete muset opravit své módy, protože hra se stále zapisuje do soub
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="346"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;očka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="366"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kočka na pozadí (z MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (nakreslil Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="376"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (ploché, nakreslil Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="393"/>
@@ -7789,7 +7789,7 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejděte do nastavení Javy u instance a změňte její verzi nebo zakažte její kontrolu kompatibility, pokud víte, co děláte.</translation>
     </message>
 </context>
 <context>
