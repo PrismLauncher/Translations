@@ -71,7 +71,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Gib hier eine eigene Client-ID für die Microsoft Authentifizierung ein. </translation>
+        <translation>Gib hier eine eigene Client-ID für die Microsoft Authentifizierung ein.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -2349,7 +2349,7 @@ Achtung beim Fortfahren!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation>Java-Kompatiblilitätsüberprüfungen überspringen</translation>
+        <translation>Java-Kompatibilitätsüberprüfungen überspringen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
@@ -7895,7 +7895,7 @@ Bitte wechsel zu einer der folgenden Java-Versionen für diese Instanz:</transla
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändere deine Java Version in den Instanz-Einstellungen oder deaktiviere die Java-Kompatibilitätsüberprüfungen, falls du weißt, was du tust.</translation>
     </message>
 </context>
 <context>
