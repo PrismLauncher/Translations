@@ -55,7 +55,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Adjon meg egy egyedi kliens azonosítót a Microsoft Authentication-nek. </translation>
+        <translation>Adjon meg egy egyedi kliens azonosítót a Microsoft Authentication-nek.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -3182,22 +3182,22 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="346"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>Cic&amp;a</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="366"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Háttér cica (a MultiMC-ből)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (rajzolta: Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="376"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (lapos kiadás, rajzolta Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="393"/>
@@ -3906,7 +3906,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
         <source>Open %1 Matrix space</source>
-        <translation>Nyissa meg a %1 Matrix Space-t</translation>
+        <translation>Nyissa meg a %1 Matrix Space oldalát.</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -3921,7 +3921,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
         <source>Open %1 subreddit.</source>
-        <translation>Nyissa meg a %1 Subreddit-et.</translation>
+        <translation>Nyissa meg a %1 Subreddit oldalát.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="392"/>
@@ -3974,7 +3974,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Fejlesztési blog megnyitása további hírekért a %1-vel kapcsolatban.</translation>
+        <translation>Fejlesztési blog megnyitása további hírekért a %1-rel kapcsolatban.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
@@ -4051,7 +4051,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
         <source>Clear cached metadata</source>
-        <translation>A gyorsítótárazott metaadatok törlése</translation>
+        <translation>A gyorsítótárazott metaadatok törlése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="355"/>
@@ -4762,7 +4762,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="192"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>Mutassa az eltöltött időt az összes példányon</translation>
+        <translation>Mutassa az összes példányon eltöltött időt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="199"/>
@@ -7704,7 +7704,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyissa meg a példány Java beállításait a Java verzió módosításához, vagy tiltsa le a Java-kompatibilitás ellenőrzését, ha tudja, mit csinál.</translation>
     </message>
 </context>
 <context>
