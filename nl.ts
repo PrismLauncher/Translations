@@ -59,7 +59,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Voer hier een eigen Microsoft Authenticatie identiteit in. </translation>
+        <translation>Voer hier een eigen Microsoft Authenticatie identiteit in.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -195,7 +195,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
         <source>Mod download</source>
-        <translation>Mod download</translation>
+        <translation>Modificatie download</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="764"/>
