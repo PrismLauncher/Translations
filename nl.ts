@@ -3898,7 +3898,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="529"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Accounts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="840"/>
@@ -4013,7 +4013,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished">&amp;Bewerken...</translation>
+        <translation>&amp;Bewerken...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
@@ -4120,7 +4120,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="410"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miauw</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
@@ -4135,7 +4135,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="519"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bewerken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="522"/>
@@ -4196,27 +4196,27 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
         <source>Launch &amp;Offline</source>
-        <translation>Launch &amp;Offline</translation>
+        <translation>Start &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Start &amp;Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Start de geselecteerde installatie in demomodus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="678"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="686"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <source>View &amp;Mods</source>
@@ -4238,7 +4238,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <source>&amp;Instance Folder</source>
@@ -4247,7 +4247,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="717"/>
@@ -4257,13 +4257,13 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1394"/>
         <source>Accounts</source>
-        <translation type="unfinished">Accounts</translation>
+        <translation>Accounts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
@@ -4308,7 +4308,7 @@ Reden:
         <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Toon de werelden van deze instantie.</translation>
+        <translation>Verwijder de geselecteerde installatie.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -4414,17 +4414,17 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1178"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1179"/>
         <source>Launch Demo</source>
-        <translation type="unfinished">Demo starten</translation>
+        <translation>Demo starten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1180"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1210"/>
@@ -4459,7 +4459,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1323"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1434"/>
