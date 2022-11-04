@@ -2029,9 +2029,8 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Tên</translation>
+        <translation type="vanished">Tên</translation>
     </message>
 </context>
 <context>
@@ -4550,6 +4549,14 @@ Are you sure?</source>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">Mở discord %1 khu đàm thoại.</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Tên</translation>
     </message>
 </context>
 <context>

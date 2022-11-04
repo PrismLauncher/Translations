@@ -2069,9 +2069,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
 </context>
 <context>
@@ -4662,6 +4661,14 @@ Are you sure?</translation>
 %1</source>
         <translation>Couldn&apos;t create folder for update downloads:
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
     </message>
 </context>
 <context>

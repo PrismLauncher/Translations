@@ -2008,9 +2008,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation type="obsolete">Name</translation>
     </message>
 </context>
 <context>
@@ -4466,6 +4465,14 @@ Are you sure?</source>
 %1</source>
         <translation>Konnte das Verzeichnis zum Herunterladen von Updates nicht erstellen:
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
     </message>
 </context>
 <context>

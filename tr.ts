@@ -2032,9 +2032,8 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>İsim</translation>
+        <translation type="vanished">İsim</translation>
     </message>
 </context>
 <context>
@@ -4637,6 +4636,14 @@ Emin misiniz?</translation>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">%1 discord sesli konuşmasını aç.</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">İsim</translation>
     </message>
 </context>
 <context>

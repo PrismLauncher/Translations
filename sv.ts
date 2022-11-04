@@ -2021,9 +2021,8 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Namn</translation>
+        <translation type="vanished">Namn</translation>
     </message>
 </context>
 <context>
@@ -4540,6 +4539,14 @@ Are you sure?</source>
 %1</source>
         <translation>Kunde inte skapa mappen för att ladda ned uppdateringar:
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Namn</translation>
     </message>
 </context>
 <context>

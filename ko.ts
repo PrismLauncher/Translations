@@ -2035,9 +2035,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>이름</translation>
+        <translation type="vanished">이름</translation>
     </message>
 </context>
 <context>
@@ -4632,6 +4631,14 @@ Are you sure?</source>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">%1 디스코드 음성 채팅을 엽니다.</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">이름</translation>
     </message>
 </context>
 <context>

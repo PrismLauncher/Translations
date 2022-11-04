@@ -2077,9 +2077,8 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Nazwa</translation>
+        <translation type="vanished">Nazwa</translation>
     </message>
 </context>
 <context>
@@ -4705,6 +4704,14 @@ Czy chcesz kontynuować?</translation>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">Rozpocznij czat na Discordzie %1.</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Nazwa</translation>
     </message>
 </context>
 <context>

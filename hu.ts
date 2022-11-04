@@ -2013,9 +2013,8 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Név</translation>
+        <translation type="vanished">Név</translation>
     </message>
 </context>
 <context>
@@ -4584,6 +4583,14 @@ Biztos vagy benne?</translation>
 %1</source>
         <translation>Nem sikerült mappát létrehozni a frissítések letöltéséhez:
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Név</translation>
     </message>
 </context>
 <context>

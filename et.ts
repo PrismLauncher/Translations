@@ -2020,9 +2020,8 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Nimi</translation>
+        <translation type="vanished">Nimi</translation>
     </message>
 </context>
 <context>
@@ -4546,6 +4545,14 @@ Are you sure?</source>
 %1</source>
         <translation>Uuenduste allalaadimiseks vajaliku kausta loomine ebaõnnestus:
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Nimi</translation>
     </message>
 </context>
 <context>

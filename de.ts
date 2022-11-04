@@ -2077,9 +2077,8 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
 </context>
 <context>
@@ -4705,6 +4704,14 @@ Bist du dir sicher?</translation>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">Öffne %1&apos;s Discord Chat.</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
     </message>
 </context>
 <context>

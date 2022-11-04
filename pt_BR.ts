@@ -2069,9 +2069,8 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Nome</translation>
+        <translation type="vanished">Nome</translation>
     </message>
 </context>
 <context>
@@ -4683,6 +4682,14 @@ Você tem certeza?</translation>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">Acesse o servidor oficial do %1 no Discord.</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Nome</translation>
     </message>
 </context>
 <context>

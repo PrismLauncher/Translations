@@ -2014,9 +2014,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation type="vanished">Nom</translation>
     </message>
 </context>
 <context>
@@ -4575,6 +4574,14 @@ Estàs segur?</translation>
 %1</source>
         <translation>No s&apos;ha pogut crear la carpeta per a les baixades d&apos;actualitzacions:
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
     </message>
 </context>
 <context>

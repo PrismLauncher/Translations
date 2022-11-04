@@ -2021,9 +2021,8 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation type="vanished">Nombre</translation>
     </message>
 </context>
 <context>
@@ -4510,6 +4509,14 @@ Are you sure?</source>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">Abrir el chat de voz de Discord de %1.</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Nombre</translation>
     </message>
 </context>
 <context>

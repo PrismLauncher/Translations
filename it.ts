@@ -2041,9 +2041,8 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Nome</translation>
+        <translation type="vanished">Nome</translation>
     </message>
 </context>
 <context>
@@ -4646,6 +4645,14 @@ Sei sicuro?</translation>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">Apri la chat vocale discord di %1.</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Nome</translation>
     </message>
 </context>
 <context>

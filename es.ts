@@ -2052,9 +2052,8 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation type="vanished">Nombre</translation>
     </message>
 </context>
 <context>
@@ -4662,6 +4661,14 @@ Esto es permanente y borrará completamente la instancia.
 %1</source>
         <translation>No se pudo crear la carpeta para descargar actualizaciones:
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Nombre</translation>
     </message>
 </context>
 <context>

@@ -2031,9 +2031,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation>Naam</translation>
+        <translation type="vanished">Naam</translation>
     </message>
 </context>
 <context>
@@ -4595,6 +4594,14 @@ Weet u het zeker?</translation>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">Open %1 Discord spraakchat.</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Naam</translation>
     </message>
 </context>
 <context>

@@ -1977,14 +1977,6 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
 </context>
 <context>
-    <name>Index</name>
-    <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>InstanceCardWidget</name>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
@@ -4188,6 +4180,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1519"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1969,9 +1969,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Index</name>
     <message>
-        <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Navn</translation>
+        <translation type="obsolete">Navn</translation>
     </message>
 </context>
 <context>
@@ -4400,6 +4399,14 @@ Are you sure?</source>
 %1</source>
         <translation>Kunne ikke opprette mappe for nedlasting av oppdateringer:
 %1</translation>
+    </message>
+</context>
+<context>
+    <name>Meta::Index</name>
+    <message>
+        <location filename="src/launcher/meta/Index.cpp" line="71"/>
+        <source>Name</source>
+        <translation type="unfinished">Navn</translation>
     </message>
 </context>
 <context>
