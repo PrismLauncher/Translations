@@ -264,7 +264,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönderi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -304,7 +304,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="153"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönderi: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
