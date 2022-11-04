@@ -909,7 +909,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Proovi automaatselt teisi pakkujaid kasutada, kui valitud pakkuja ebaõnnestub</translation>
     </message>
 </context>
 <context>
@@ -5344,7 +5344,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modil &quot;%1&quot; puuduvad hetkel metaandmed. Et jälgida selle modi uuendamiseks vajalikku teavet, peame selle genereerima. Selleks vali modipakkuja, mida saame kasutada selle modi uuenduste hankimiseks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
