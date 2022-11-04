@@ -1476,7 +1476,7 @@ Palun proovi uuesti.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
@@ -4009,7 +4009,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="339"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Võta tagasi viimase eksemplari kustutamine</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
@@ -4039,7 +4039,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Sub&amp;reddit</source>
-        <translation>Sub&amp;reddit</translation>
+        <translation>Alam&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
@@ -5297,7 +5297,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Järgnevate modide jaoks ei saadud metaandmeid genereerida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
@@ -5349,7 +5349,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobivat versiooni valitud modipakkuja(te)st ei leitud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
@@ -5359,7 +5359,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Järgnevaid mode ei saanud kontrollida või uuendusteks hankida:&lt;br&gt;Kas soovid jätkata ilma nende modideta?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
@@ -5486,7 +5486,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esines võrguviga. Modipakkide laadimine ebaõnnestus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
@@ -5516,7 +5516,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="103"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selle modi jaoks sobivat versiooni ei leitud. Seda ilmselt pole valitud mänguversioonile/modilaadurile olemas.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
@@ -6666,7 +6666,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">Sa proovisid käsitsi JVM mäluvalikut määrata (sealhulgas &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; või &quot;-Xms&quot;).
+        <translation type="unfinished">Sa proovisid käsitsi JVM mäluvalikut määrata (sealhulgas &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; või &quot;-Xms&quot;).
 Nende tarbeks on seadetes eraldi kastid (Java vahekaart, ülemine grupp Mälu).
 Seda sõnumit kuvatakse, kuni eemaldad need parameetrid oma JVM argumentidest.</translation>
     </message>
