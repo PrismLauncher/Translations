@@ -3261,22 +3261,22 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="346"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>К&amp;от</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="366"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Фон с котом (из MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (нарисован Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="376"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (плоская версия, нарисован Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="393"/>
@@ -4711,7 +4711,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Название</translation>
     </message>
 </context>
 <context>
