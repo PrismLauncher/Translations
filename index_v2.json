@@ -91,19 +91,19 @@
             "untranslated" : 1327
         },
         "en@uwu" : {
-            "file" : "1a6af819788ef4e3b322bbf1306945db467b8569.class",
-            "sha1" : "1a6af819788ef4e3b322bbf1306945db467b8569",
-            "size" : 20829,
-            "translated" : 180,
+            "file" : "24fd13632c1b51848c8dbb3358977f0afd61a092.class",
+            "sha1" : "24fd13632c1b51848c8dbb3358977f0afd61a092",
+            "size" : 27306,
+            "translated" : 241,
             "fuzzy" : 0,
-            "untranslated" : 1226
+            "untranslated" : 1165
         },
         "en_GB" : {
             "file" : "dc42b2f26728d18166f5965aba3aadf972bab762.class",
             "sha1" : "dc42b2f26728d18166f5965aba3aadf972bab762",
             "size" : 190705,
-            "translated" : 1405,
-            "fuzzy" : 1,
+            "translated" : 1406,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "eo" : {
@@ -446,8 +446,8 @@
             "file" : "efa75cbe1b404631113189cb82805d1a9e5fef33.class",
             "sha1" : "efa75cbe1b404631113189cb82805d1a9e5fef33",
             "size" : 195448,
-            "translated" : 1405,
-            "fuzzy" : 1,
+            "translated" : 1406,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "uk" : {
