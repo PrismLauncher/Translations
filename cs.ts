@@ -985,27 +985,27 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat vše</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázáním tohoto ponecháte mod loader (např. Fabric, Quilt, atd.), ale smažete složku s módy a jejich nastavení.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat módy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zkopíruje nastavení hry - např. FOV, maximální FPS, atd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat nastavení hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
@@ -1015,17 +1015,17 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat shader packy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat servery</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat resource packy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
@@ -1035,7 +1035,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovat screenshoty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
@@ -4178,7 +4178,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzamknout panely nástrojů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="507"/>
@@ -4683,7 +4683,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Název</translation>
+        <translation>Název</translation>
     </message>
 </context>
 <context>
