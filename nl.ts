@@ -644,12 +644,12 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="683"/>
+        <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Settings</source>
         <translation>Instellingen</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1190"/>
+        <location filename="src/launcher/Application.cpp" line="1192"/>
         <source>Aborted</source>
         <translation>Geannuleerd</translation>
     </message>
@@ -986,22 +986,67 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <translation>Naam</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="90"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
         <translation>&amp;Groep</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="115"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
+        <source>Select all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
+        <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
+        <source>Copy mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
+        <source>Copy the in-game options like FOV, max framerate, etc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
+        <source>Copy game options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
         <source>Copy saves</source>
         <translation>Kopieer saves</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="122"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
+        <source>Copy shader packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
+        <source>Copy servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
+        <source>Copy resource packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
         <source>Keep play time</source>
         <translation>Speeltijd behouden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="80"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
+        <source>Copy screenshots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
         <source>No group</source>
         <translation>Geen groep</translation>
     </message>
@@ -2051,17 +2096,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceCopyTask</name>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="24"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="26"/>
         <source>Copying instance %1</source>
         <translation>Instantie %1 kopiëren</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="42"/>
         <source>Instance folder copy failed.</source>
         <translation>Kopiëren van de instantiemap is mislukt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="57"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="59"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Kopiëren van instantiemap is afgebroken.</translation>
     </message>
@@ -3845,22 +3890,22 @@ Reden:
         <translation type="vanished">Afbreken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>Kill the running instance</source>
         <translation>Breek het actieve proces af</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1175"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Launch</source>
         <translation>Starten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="657"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="665"/>
         <source>Launch the selected instance.</source>
         <translation>Start de gekozen instantie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="434"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="441"/>
         <source>Main Toolbar</source>
         <translation>Hoofdwerkbalk</translation>
     </message>
@@ -3869,44 +3914,44 @@ Reden:
         <translation type="vanished">Instantie toevoegen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="295"/>
         <source>Add a new instance.</source>
         <translation>Voeg een nieuwe instantie toe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="300"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="302"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
         <translation>Instantiemap weergeven</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="303"/>
         <source>Open the instance folder in a file browser.</source>
         <translation>Open de instantiemap in een bestandsbrowser.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="307"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
         <translation>Centrale mods- map weergeven</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="308"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="310"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>Open de centrale mods-map in een bestandsbrowser.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="529"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>&amp;Accounts</source>
         <translation>&amp;Accounts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="840"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="847"/>
         <source>Folders</source>
         <translation>Mappen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="320"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="322"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>Open één van de door alle instanties gedeelde mappen.</translation>
     </message>
@@ -3915,7 +3960,7 @@ Reden:
         <translation type="vanished">Instellingen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="335"/>
         <source>Change settings.</source>
         <translation>Instellingen wijzigen.</translation>
     </message>
@@ -3924,7 +3969,7 @@ Reden:
         <translation type="vanished">Rapporteer een fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="358"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>Open de probleemrapportage om een probleem aan %1 door te geven.</translation>
     </message>
@@ -3934,7 +3979,7 @@ Reden:
         <translation type="vanished">Matrixruimte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="367"/>
         <source>Open %1 Matrix space</source>
         <translation>%1 matrixruimte openen</translation>
     </message>
@@ -3949,7 +3994,7 @@ Reden:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="385"/>
         <source>Open %1 subreddit.</source>
         <translation>Open %1 subreddit.</translation>
     </message>
@@ -3958,18 +4003,18 @@ Reden:
         <translation type="vanished">Over %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="392"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="394"/>
         <source>View information about %1.</source>
         <translation>Toon informatie over %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="470"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="841"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="848"/>
         <source>Help</source>
         <translation>Help</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="471"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="478"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Hulp bij %1 of Minecraft zoeken.</translation>
     </message>
@@ -3978,7 +4023,7 @@ Reden:
         <translation type="vanished">Updaten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="403"/>
         <source>Check for new updates for %1.</source>
         <translation>Controleer op nieuwe %1 updates.</translation>
     </message>
@@ -3987,7 +4032,7 @@ Reden:
         <translation type="vanished">Miauw</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="411"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="413"/>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>Het is een pluizige kat :3</translation>
     </message>
@@ -3996,149 +4041,154 @@ Reden:
         <translation type="vanished">Accounts beheren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="609"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="617"/>
         <source>News Toolbar</source>
         <translation>Nieuws-taakbalk</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="614"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="622"/>
         <source>More news...</source>
         <translation>Meer nieuws...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
         <source>Open the development blog to read more news about %1.</source>
         <translation>Open de ontwikkelingsblog voor meer nieuws over %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>&amp;Edit...</source>
         <translation>&amp;Bewerken...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>&amp;Folder</source>
         <translation>&amp;Folder</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
         <source>E&amp;xport...</source>
         <translation type="unfinished">E&amp;xporteren...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
         <source>Dele&amp;te</source>
         <translation type="unfinished">Verwijder&amp;en</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="732"/>
         <source>Cop&amp;y...</source>
         <translation type="unfinished">Copie&amp;ren...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="748"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="755"/>
         <source>Instance Toolbar</source>
         <translation>Instantie werkbalk</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="630"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="638"/>
         <source>Change Icon</source>
         <translation>Pictogram wijzigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>&amp;Kill</source>
         <translation>&amp;Vermoord</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="656"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>&amp;Launch</source>
         <translation>&amp;Starten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="292"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="294"/>
         <source>Add Instanc&amp;e...</source>
         <translation type="unfinished">Installat&amp;ie toevoegen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="314"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="321"/>
         <source>F&amp;olders</source>
         <translation type="unfinished">F&amp;olders</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="332"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation type="unfinished">Instellin&amp;gen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="339"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
         <source>&amp;Undo Last Instance Deletion</source>
         <translation type="unfinished">&amp;Laatste installatie verwijdering ongedaan maken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation type="unfinished">&amp;Metadata cache leegmaken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>Clear cached metadata</source>
         <translation>Metadata cache leeggemaakt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="355"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
         <source>Report a &amp;Bug...</source>
         <translation type="unfinished">Meld een &amp;Bug...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="366"/>
         <source>&amp;Matrix Space</source>
         <translation type="unfinished">&amp;Matrix ruimte</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
         <source>&amp;Discord Guild</source>
         <translation type="unfinished">&amp;Discord gilde</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
         <source>Sub&amp;reddit</source>
         <translation type="unfinished">Sub&amp;reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="393"/>
         <source>&amp;About %1</source>
         <translation>&amp;Over %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="400"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="402"/>
         <source>&amp;Update...</source>
         <translation>&amp;Bijwerken...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="410"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="412"/>
         <source>&amp;Meow</source>
         <translation>&amp;Miauw</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="420"/>
         <source>&amp;Manage Accounts...</source>
         <translation>&amp;Accounts Beheren...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
+        <source>Lock Toolbars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="507"/>
         <source>&amp;File</source>
         <translation>&amp;Bestand</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="519"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="526"/>
         <source>&amp;Edit</source>
         <translation>&amp;Bewerken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="522"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="529"/>
         <source>&amp;View</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4147,74 +4197,74 @@ Reden:
         <translation type="vanished">&amp;Profielen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="533"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="542"/>
         <source>&amp;Help</source>
         <translation>&amp;Help</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="560"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>Close &amp;Window</source>
         <translation>Sluit &amp;Venster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
         <source>Close the current window</source>
         <translation>Sluit het huidige venster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 &amp;Help</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="578"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Open the %1 wiki</source>
         <translation>Open de %1 wiki</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
         <source>%1 &amp;News</source>
         <translation>%1 &amp;Nieuws</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="631"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Wijzig het pictogram van de geselecteerde instantie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="643"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Rename</source>
         <translation>Hernoemen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="644"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="652"/>
         <source>Rename the selected instance.</source>
         <translation>Hernoem de geselecteerde instantie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="671"/>
         <source>Launch &amp;Offline</source>
         <translation>Start &amp;Offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
         <source>Launch &amp;Demo</source>
         <translation>Start &amp;Demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="678"/>
         <source>Launch the selected instance in demo mode.</source>
         <translation>Start de geselecteerde installatie in demomodus.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="678"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="686"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="686"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
@@ -4231,12 +4281,12 @@ Reden:
         <translation type="vanished">Beheer &amp;Schermafbeeldingen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
         <source>&amp;Change Group...</source>
         <translation>&amp;Verander Groep...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
@@ -4245,33 +4295,33 @@ Reden:
         <translation type="vanished">&amp;Instantie Folder</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="717"/>
         <source>Ctrl+E</source>
         <translation>Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="717"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1394"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1420"/>
         <source>Accounts</source>
         <translation>Accounts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1203"/>
         <source>Launch Offline</source>
         <translation>Offline starten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="672"/>
         <source>Launch the selected instance in offline mode.</source>
         <translation>Start de geselecteerde instantie in offline modus.</translation>
     </message>
@@ -4280,7 +4330,7 @@ Reden:
         <translation type="vanished">Instantie bewerken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Wijzig de instantie-instellingen, mods en versies.</translation>
     </message>
@@ -4305,7 +4355,7 @@ Reden:
         <translation type="vanished">Toon werelden</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation>Verwijder de geselecteerde installatie.</translation>
@@ -4323,7 +4373,7 @@ Reden:
         <translation type="vanished">Groep wijzigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>Wijzig de groep van de geselecteerde instantie.</translation>
     </message>
@@ -4349,7 +4399,7 @@ Reden:
         <translation type="vanished">Instantiemap</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>Open de hoofdmap van de geselecteerde instantie in een bestandsbrowser.</translation>
     </message>
@@ -4358,7 +4408,7 @@ Reden:
         <translation type="vanished">Instantie exporteren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
         <source>Export the selected instance as a zip file.</source>
         <translation>Exporteer de geselecteerde instantie als een zip-bestand.</translation>
     </message>
@@ -4372,7 +4422,7 @@ Reden:
         <translation type="vanished">Instantie kopiëren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="733"/>
         <source>Copy the selected instance.</source>
         <translation>Kopieer de geselecteerde instantie.</translation>
     </message>
@@ -4387,13 +4437,13 @@ Reden:
         <translation type="vanished"> op %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="939"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1062"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="954"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>No instance selected</source>
         <translation>Geen instantie geselecteerd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="940"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
         <source>Total playtime: 0s</source>
         <translation>Totale speeltijd: 0s</translation>
     </message>
@@ -4402,130 +4452,130 @@ Reden:
         <translation type="vanished">Profielen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1115"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1141"/>
         <source>Create instance</source>
         <translation>Instantie aanmaken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1131"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1157"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Verwijder groep &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1178"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1204"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1179"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1205"/>
         <source>Launch Demo</source>
         <translation>Demo starten</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1180"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1206"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1210"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1236"/>
         <source>Profilers</source>
         <translation>Profilers</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1215"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
         <source>%1 Offline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1221"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1247"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>De profiler is niet correct ingesteld. Ga naar &quot;Externe hulpmiddelen&quot; in de instellingen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>No accounts added!</source>
         <translation>Geen accounts toegevoegd!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1304"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1330"/>
         <source>Ctrl+%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1345"/>
         <source>No Default Account</source>
         <translation>Geen standaardaccount</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1323"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1349"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1434"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1460"/>
         <source>Loading news...</source>
         <translation>Nieuws laden...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
         <source>No news available.</source>
         <translation>Geen nieuws beschikbaar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1601"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1627"/>
         <source>Warnings</source>
         <translation>Waarschuwingen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1606"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
         <source>Task aborted</source>
         <translation type="unfinished">Taak geannuleerd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1606"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
         <source>The task has been aborted by the user.</source>
         <translation type="unfinished">De taak is geannuleerd door de gebruiker.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1609"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1635"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1677"/>
         <source>Abort</source>
         <translation>Afbreken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1660"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1686"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>Het startprogramma kan Minecraft niet downloaden of instanties bijwerken totdat u ten minste één account heeft toegevoegd.
 Gelieve uw Mojang- of Microsoft-account toe te voegen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1799"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1825"/>
         <source>Group name</source>
         <translation>Groepsnaam</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1799"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1825"/>
         <source>Enter a new group name.</source>
         <translation>Vul een nieuwe groepsnaam in.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1821"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1847"/>
         <source>Delete group</source>
         <translation>Groep verwijderen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1821"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1847"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>Weet u zeker dat u de groep %1 wilt verwijderen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1946"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1972"/>
         <source>CAREFUL!</source>
         <translation>PAS OP!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1947"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1973"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -4536,56 +4586,56 @@ Dit is permanent en zal de instantie volledig verwijderen.
 Weet u het zeker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2145"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2171"/>
         <source>Rename Instance</source>
         <translation>Instantie hernoemen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2158"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2184"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Uw instantiemap bevat &apos;!&apos; en dat kan problemen met Java veroorzaken!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2160"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2186"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>U heeft twee mogelijkheden:&lt;br/&gt; - verander de instantiemap in de instellingen &lt;br/&gt; - verplaats deze installatie van %1 naar een andere map</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2169"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2195"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Dit is problematisch: &lt;br/&gt; - Het startprogramma zal waarschijnlijk zonder waarschuwing verwijderd worden door het besturingssysteem &lt;br/&gt; sluit het startprogramma nu af en pak het opnieuw uit naar een echte locatie, geen tijdelijke map</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2176"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2202"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Uw instantiemap bevat &apos;Rar$&apos; - dat betekent dat uw het archiefbestand van het startprogramma niet uitgepakt heeft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2184"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2210"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Uw instantiemap bevindt zich in een tijdelijke map: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2197"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
         <source>Total playtime: %1</source>
         <translation>Totale speeltijd: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1519"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1536"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1647"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1659"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1620"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1673"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1685"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="374"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="376"/>
         <source>Open %1 Discord guild.</source>
         <translation>%1 Discord-gilde openen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1519"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
         <translation>De map voor het downloaden van updates kon niet worden aangemaakt:

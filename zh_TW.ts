@@ -644,12 +644,12 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="683"/>
+        <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1190"/>
+        <location filename="src/launcher/Application.cpp" line="1192"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
@@ -986,22 +986,67 @@ Please update both your operating system and %1.</source>
         <translation>名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="90"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
         <translation>群組（&amp;G）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="115"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
+        <source>Select all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
+        <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
+        <source>Copy mods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
+        <source>Copy the in-game options like FOV, max framerate, etc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
+        <source>Copy game options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
         <source>Copy saves</source>
         <translation>複製存檔</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="122"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
+        <source>Copy shader packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
+        <source>Copy servers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
+        <source>Copy resource packs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
         <source>Keep play time</source>
         <translation>保留遊玩時間</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="80"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
+        <source>Copy screenshots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
         <source>No group</source>
         <translation>未分類</translation>
     </message>
@@ -2057,17 +2102,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceCopyTask</name>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="24"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="26"/>
         <source>Copying instance %1</source>
         <translation>複製實例 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="40"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="42"/>
         <source>Instance folder copy failed.</source>
         <translation>實例資料夾複製失敗。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="57"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="59"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>實例資料夾複製已被中斷。</translation>
     </message>
@@ -3871,22 +3916,22 @@ Reason:
         <translation type="vanished">強制終止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
         <source>Kill the running instance</source>
         <translation>強制終止啟動中的實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1175"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Launch</source>
         <translation>啟動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="657"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="665"/>
         <source>Launch the selected instance.</source>
         <translation>啟動選擇的實例。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="434"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="441"/>
         <source>Main Toolbar</source>
         <translation>主工具列</translation>
     </message>
@@ -3895,29 +3940,29 @@ Reason:
         <translation type="vanished">新增實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="295"/>
         <source>Add a new instance.</source>
         <translation>新增新的實例。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="300"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="302"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
         <translation>檢視實例資料夾（&amp;V）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="303"/>
         <source>Open the instance folder in a file browser.</source>
         <translation>在檔案總管裡開啟實例資料夾。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="307"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
         <translation>檢視共用模組資料夾（&amp;C）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="308"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="310"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>在檔案總管開啟共用模組資料夾。</translation>
     </message>
@@ -3926,12 +3971,12 @@ Reason:
         <translation type="vanished">刪除實例（&amp;T）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="840"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="847"/>
         <source>Folders</source>
         <translation>資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="320"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="322"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>開啟其中一個實例間共用的資料夾。</translation>
     </message>
@@ -3940,7 +3985,7 @@ Reason:
         <translation type="vanished">設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="335"/>
         <source>Change settings.</source>
         <translation>變更設定。</translation>
     </message>
@@ -3949,12 +3994,12 @@ Reason:
         <translation type="vanished">Bug 回報</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="358"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>開啟 Bug 追蹤器以回報 %1 的 Bug。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="367"/>
         <source>Open %1 Matrix space</source>
         <translation>開啟 %1 Matrix space</translation>
     </message>
@@ -3969,7 +4014,7 @@ Reason:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="385"/>
         <source>Open %1 subreddit.</source>
         <translation>開啟 %1 Subreddit。</translation>
     </message>
@@ -3978,18 +4023,18 @@ Reason:
         <translation type="vanished">關於 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="392"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="394"/>
         <source>View information about %1.</source>
         <translation>顯示 %1 的相關資訊.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="470"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="841"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="848"/>
         <source>Help</source>
         <translation>幫助</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="471"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="478"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>取得關於 %1 或 Minecraft 的幫助。</translation>
     </message>
@@ -3998,7 +4043,7 @@ Reason:
         <translation type="vanished">更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="403"/>
         <source>Check for new updates for %1.</source>
         <translation>檢查 %1 是否有更新。</translation>
     </message>
@@ -4007,7 +4052,7 @@ Reason:
         <translation type="vanished">喵</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="411"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="413"/>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>牠是一隻毛茸茸的小貓 :3</translation>
     </message>
@@ -4016,149 +4061,154 @@ Reason:
         <translation type="vanished">管理帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="609"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="617"/>
         <source>News Toolbar</source>
         <translation>最新消息工具列</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="614"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="622"/>
         <source>More news...</source>
         <translation>更多最新消息…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
         <source>Open the development blog to read more news about %1.</source>
         <translation>前往我們的開發部落格，閱讀更多有關 %1 的最新消息。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>&amp;Edit...</source>
         <translation>編輯（&amp;E）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>&amp;Folder</source>
         <translation>資料夾（&amp;F）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
         <source>E&amp;xport...</source>
         <translation>匯出（&amp;X）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
         <source>Dele&amp;te</source>
         <translation>刪除（&amp;T）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="732"/>
         <source>Cop&amp;y...</source>
         <translation>複製（&amp;Y）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="748"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="755"/>
         <source>Instance Toolbar</source>
         <translation>實例工具列</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="630"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="638"/>
         <source>Change Icon</source>
         <translation>變更圖示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>&amp;Kill</source>
         <translation>強制終止（&amp;K）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="656"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>&amp;Launch</source>
         <translation>啟動（&amp;L）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="292"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="294"/>
         <source>Add Instanc&amp;e...</source>
         <translation>新增實例（&amp;E）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="314"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="321"/>
         <source>F&amp;olders</source>
         <translation>資料夾（&amp;O）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="332"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation>設定（&amp;N）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="339"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
         <source>&amp;Undo Last Instance Deletion</source>
         <translation>復原上一個實例刪除操作（&amp;U）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>清除後設資料快取（&amp;C）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>Clear cached metadata</source>
         <translation>清除後設資料快取</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="355"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
         <source>Report a &amp;Bug...</source>
         <translation>回報 Bug（&amp;B）…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="366"/>
         <source>&amp;Matrix Space</source>
         <translation>&amp;Matrix Space</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="375"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discord 伺服器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="384"/>
         <source>Sub&amp;reddit</source>
         <translation>Sub&amp;reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="393"/>
         <source>&amp;About %1</source>
         <translation>關於 %1（&amp;A）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="400"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="402"/>
         <source>&amp;Update...</source>
         <translation>更新（&amp;U）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="410"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="412"/>
         <source>&amp;Meow</source>
         <translation>喵（&amp;M）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="420"/>
         <source>&amp;Manage Accounts...</source>
         <translation>管理帳號（&amp;M）…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
+        <source>Lock Toolbars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="507"/>
         <source>&amp;File</source>
         <translation>檔案（&amp;F）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="519"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="526"/>
         <source>&amp;Edit</source>
         <translation>編輯（&amp;E）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="522"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="529"/>
         <source>&amp;View</source>
         <translation>檢視（&amp;V）</translation>
     </message>
@@ -4167,69 +4217,69 @@ Reason:
         <translation type="vanished">設定檔（&amp;P）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="533"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="542"/>
         <source>&amp;Help</source>
         <translation>幫助（&amp;H）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="560"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>Close &amp;Window</source>
         <translation>關閉視窗（&amp;W）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
         <source>Close the current window</source>
         <translation>關閉目前視窗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 幫助（&amp;H）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="578"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Open the %1 wiki</source>
         <translation>開啟 %1 百科</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="584"/>
         <source>%1 &amp;News</source>
         <translation>%1 最新消息（&amp;N）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="631"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>變更所選實例的圖示。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="643"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="651"/>
         <source>Rename</source>
         <translation>重新命名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="644"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="652"/>
         <source>Rename the selected instance.</source>
         <translation>重新命名所選的實例。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="671"/>
         <source>Launch &amp;Offline</source>
         <translation>離線啟動（&amp;O）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="669"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="677"/>
         <source>Launch &amp;Demo</source>
         <translation>體驗版啟動（&amp;D）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="670"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="678"/>
         <source>Launch the selected instance in demo mode.</source>
         <translation>在體驗版模式下啟動所選的實例。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="678"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="686"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
@@ -4238,7 +4288,7 @@ Reason:
         <translation type="vanished">編輯實例（&amp;A）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="686"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
@@ -4259,12 +4309,12 @@ Reason:
         <translation type="vanished">管理螢幕擷圖（&amp;S）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
         <source>&amp;Change Group...</source>
         <translation>變更群組（&amp;C）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
@@ -4289,7 +4339,7 @@ Reason:
         <translation type="vanished">匯出實例（&amp;X）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="717"/>
         <source>Ctrl+E</source>
         <translation>Ctrl+E</translation>
     </message>
@@ -4298,7 +4348,7 @@ Reason:
         <translation type="vanished">刪除實例（&amp;T）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="717"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
         <source>Backspace</source>
         <translation>返回鍵</translation>
     </message>
@@ -4307,17 +4357,17 @@ Reason:
         <translation type="vanished">複製實例（&amp;Y）...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1177"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1203"/>
         <source>Launch Offline</source>
         <translation>離線啟動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="672"/>
         <source>Launch the selected instance in offline mode.</source>
         <translation>在離線模式下啟動所選的實例。</translation>
     </message>
@@ -4326,7 +4376,7 @@ Reason:
         <translation type="vanished">編輯實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="685"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>變更實例的設定、模組與版本。</translation>
     </message>
@@ -4351,7 +4401,7 @@ Reason:
         <translation type="vanished">檢視世界</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation>刪除所選的實例。</translation>
@@ -4369,7 +4419,7 @@ Reason:
         <translation type="vanished">變更群組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>變更所選實例的群組。</translation>
     </message>
@@ -4395,7 +4445,7 @@ Reason:
         <translation type="vanished">實例資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>在檔案總管開啟實例的根資料夾。</translation>
     </message>
@@ -4404,7 +4454,7 @@ Reason:
         <translation type="vanished">匯出實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="716"/>
         <source>Export the selected instance as a zip file.</source>
         <translation>將選取的實例以 zip 檔案匯出。</translation>
     </message>
@@ -4418,7 +4468,7 @@ Reason:
         <translation type="vanished">複製實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="733"/>
         <source>Copy the selected instance.</source>
         <translation>複製所選的實例。</translation>
     </message>
@@ -4433,13 +4483,13 @@ Reason:
         <translation type="vanished"> 在 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="939"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1062"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="954"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1077"/>
         <source>No instance selected</source>
         <translation>沒有選擇實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="940"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="955"/>
         <source>Total playtime: 0s</source>
         <translation>總遊戲時間：0 秒</translation>
     </message>
@@ -4448,130 +4498,130 @@ Reason:
         <translation type="vanished">設定檔</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1115"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1141"/>
         <source>Create instance</source>
         <translation>新增實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1131"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1157"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>刪除 &apos;%1&apos; 群組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1178"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1204"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1179"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1205"/>
         <source>Launch Demo</source>
         <translation>體驗版啟動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1180"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1206"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1210"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1236"/>
         <source>Profilers</source>
         <translation>分析器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1215"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
         <source>%1 Offline</source>
         <translation>%1 離線</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1221"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1247"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>分析器未正確設定。請開啟設定 &gt; 外部工具。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1272"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>No accounts added!</source>
         <translation>未新增任何帳號！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1304"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1330"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1345"/>
         <source>No Default Account</source>
         <translation>無預設帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1323"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1349"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1434"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1460"/>
         <source>Loading news...</source>
         <translation>正在載入最新消息…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
         <source>No news available.</source>
         <translation>沒有可用的最新消息。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1601"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1627"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1606"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
         <source>Task aborted</source>
         <translation>任務已終止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1606"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1632"/>
         <source>The task has been aborted by the user.</source>
         <translation>任務已被使用者終止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1609"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1651"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1635"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1677"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1660"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1686"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>除非你至少新增了一個帳號，否則啟動器將無法下載 Minecraft 或更新實例。
 請新增你的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1799"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1825"/>
         <source>Group name</source>
         <translation>群組名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1799"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1825"/>
         <source>Enter a new group name.</source>
         <translation>輸入新的群組名稱。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1821"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1847"/>
         <source>Delete group</source>
         <translation>刪除群組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1821"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1847"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>你確定想要刪除群組 %1？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1946"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1972"/>
         <source>CAREFUL!</source>
         <translation>注意！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1947"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1973"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -4582,67 +4632,67 @@ Are you sure?</source>
 你確定還要繼續嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2145"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2171"/>
         <source>Rename Instance</source>
         <translation>重新命名實例</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2158"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2184"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>你的實例資料夾名稱中包含了「!」，這會導致 Java 出現問題！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2160"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2186"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>你現在有兩個選項： &lt;br/&gt; - 在設定中變更實例資料夾 &lt;br/&gt; - 移動這個安裝檔 %1 至不同的資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2169"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2195"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>出現一個問題： &lt;br/&gt; - 啟動器很有可能在未被警告的情況下遭到作業系統刪除 &lt;br/&gt; - 現在請關閉啟動器並將其解壓縮至實際存在的位置，而不是臨時的資料夾</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2176"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2202"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>你的實例資料夾名稱中包含了「Rar」 - 這意味著你還尚未將啟動器檔案解壓縮！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2184"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2210"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>你的實例資料夾還位於臨時資料夾：「%1」中！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2197"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
         <source>Total playtime: %1</source>
         <translation>總遊戲時長：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1519"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1536"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1647"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1659"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1620"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1673"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1685"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="374"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="376"/>
         <source>Open %1 Discord guild.</source>
         <translation>開啟 %1 Discord 伺服器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="529"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>&amp;Accounts</source>
         <translation>帳號（&amp;A）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1056"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1394"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1420"/>
         <source>Accounts</source>
         <translation>帳號</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1519"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
         <translation>無法建立下載更新所需的資料夾：
