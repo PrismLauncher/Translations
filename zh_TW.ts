@@ -993,27 +993,27 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>全選</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>停用這個仍會保留模組載入器（例如：Fabric、Quilt 等），但會刪除模組資料夾及其他組態檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>複製模組</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>複製遊戲中的選項，例如視角廣度、最大 FPS 等。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>複製遊戲選項</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
@@ -1023,17 +1023,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>複製光影包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>複製伺服器</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>複製資源包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
@@ -1043,7 +1043,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>複製螢幕擷圖</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
@@ -4195,7 +4195,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>鎖定工具欄</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="507"/>
