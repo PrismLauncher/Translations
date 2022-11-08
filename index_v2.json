@@ -427,12 +427,12 @@
             "untranslated" : 405
         },
         "th" : {
-            "file" : "48251debf67aedd5299afcac85e61dc5f8c793e2.class",
-            "sha1" : "48251debf67aedd5299afcac85e61dc5f8c793e2",
-            "size" : 36111,
-            "translated" : 244,
+            "file" : "8b6351e6bfa9d8917776ca68e8b14cc70ba10f4b.class",
+            "sha1" : "8b6351e6bfa9d8917776ca68e8b14cc70ba10f4b",
+            "size" : 37181,
+            "translated" : 250,
             "fuzzy" : 100,
-            "untranslated" : 1072
+            "untranslated" : 1066
         },
         "tok" : {
             "file" : "93db8e3f666df6e9099031b144f332a381406b41.class",
@@ -443,12 +443,12 @@
             "untranslated" : 1385
         },
         "tr" : {
-            "file" : "efa75cbe1b404631113189cb82805d1a9e5fef33.class",
-            "sha1" : "efa75cbe1b404631113189cb82805d1a9e5fef33",
-            "size" : 195448,
-            "translated" : 1406,
+            "file" : "2a30dc3d757dac72105abd950862c40dd22ed4ef.class",
+            "sha1" : "2a30dc3d757dac72105abd950862c40dd22ed4ef",
+            "size" : 196933,
+            "translated" : 1416,
             "fuzzy" : 0,
-            "untranslated" : 10
+            "untranslated" : 0
         },
         "uk" : {
             "file" : "6fcea09cffcbfcdeb73bc85697d8c9af5ca3c981.class",
@@ -467,12 +467,12 @@
             "untranslated" : 298
         },
         "zh" : {
-            "file" : "4641cb9089a116d9c8adef4378b5849914590086.class",
-            "sha1" : "4641cb9089a116d9c8adef4378b5849914590086",
-            "size" : 141988,
-            "translated" : 1406,
-            "fuzzy" : 3,
-            "untranslated" : 7
+            "file" : "8f226d5dcf65e8bfe4c0b399a6f241e4685ffad3.class",
+            "sha1" : "8f226d5dcf65e8bfe4c0b399a6f241e4685ffad3",
+            "size" : 142721,
+            "translated" : 1416,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "zh_TW" : {
             "file" : "0884588f74220ae7eeecea1da2f1520c41185d7f.class",
