@@ -47,7 +47,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>หมายเหตุ: อาจไม่จำเป็นที่จะตั้งส่วนนี้ถ้าลงชื่อเข้าใช้ผ่าน Microsoft ได้อยู่แล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -59,27 +59,27 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ป้อน client ID ที่กำหนดเองสำหรับ Microsoft Authentication ที่นี่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>อื่นๆ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อน User Agent ที่กำหนดเองตรงนี้. ตัวแปร $LAUNCHER_VAR จะถูกแทนที่ด้วยเวอร์ชั่นของ launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>เซอร์เวอร์ Meta&amp;data</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
