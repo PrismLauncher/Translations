@@ -1010,7 +1010,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished">禁用此功能将仍然保留模组加载器（例如：Fabric、Quilt等），但会擦除模组文件夹及其配置。</translation>
+        <translation>禁用此功能将仍然保留模组加载器（如Fabric、Quilt等），但会删除模组文件夹及其配置。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
@@ -3253,7 +3253,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
         <source>Flat (White)</source>
-        <translation type="unfinished"></translation>
+        <translation>扁平（白色）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -3274,12 +3274,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="346"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>猫（&amp;A）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="366"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>背景猫（来自MultiMC）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
@@ -3289,7 +3289,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="376"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11（扁平化版本，由Ashtaka绘制）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="393"/>
@@ -4091,7 +4091,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>&amp;Edit...</source>
-        <translation>编辑实例（&amp;E）…</translation>
+        <translation>编辑实例（&amp;E）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
@@ -4101,7 +4101,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
         <source>E&amp;xport...</source>
-        <translation>导出实例（&amp;X）…</translation>
+        <translation>导出实例（&amp;X）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
@@ -4111,7 +4111,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="732"/>
         <source>Cop&amp;y...</source>
-        <translation>复制实例（Y）…</translation>
+        <translation>复制实例（&amp;Y）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="755"/>
@@ -4208,7 +4208,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>锁定工具栏</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="507"/>
@@ -4324,7 +4324,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="700"/>
         <source>&amp;Change Group...</source>
-        <translation>更改组（&amp;C）…</translation>
+        <translation>更改组（&amp;C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
@@ -4700,13 +4700,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="538"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>账户（&amp;A）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1071"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1420"/>
         <source>Accounts</source>
-        <translation type="unfinished">帐号</translation>
+        <translation>账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
@@ -4725,7 +4725,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
 </context>
 <context>
@@ -7901,7 +7901,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您明白自己在做什么，请前往实例设置中修改您的Java版本，或者跳过Java兼容性检查。</translation>
     </message>
 </context>
 <context>
