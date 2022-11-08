@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Et service Pastebin</translation>
+        <translation>&amp;Service pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Service de copie et de tape</translation>
+        <translation>&amp;Type de Service Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Note : vous voudriez probablement changer ou effacer l&apos;URL de base après avoir changé le type de service de copie.</translation>
+        <translation>Note : vous voulez peut-être changer ou effacer l&apos;URL de base après avoir changé le type de service de copie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Note : vous n&apos;avez probablement pas besoin de définir ceci si la connexion via l&apos;authentification Microsoft fonctionne déjà.</translation>
+        <translation>Note : vous n&apos;avez peut-être pas besoin de définir ceci si la connexion via l&apos;Authentification Microsoft marche déjà.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
