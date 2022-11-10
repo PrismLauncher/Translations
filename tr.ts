@@ -708,19 +708,19 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
 <context>
     <name>Atl::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
         <translation>Popülerliğe göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>İsme göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
+        <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
         <translation>Oyun sürümüne göre sırala</translation>
@@ -1206,29 +1206,29 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <translation>Profili Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="403"/>
         <source>Export %1</source>
         <translation>Dışa Aktar: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="412"/>
         <source>Overwrite?</source>
         <translation>Üstüne Yaz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
         <source>This file already exists. Do you want to overwrite it?</source>
         <translation>Bu dosya zaten var. Üstüne yazmak istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="428"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="433"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="428"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="433"/>
         <source>Unable to export instance</source>
         <translation>Profil dışa aktarılamıyor</translation>
     </message>
@@ -1686,33 +1686,33 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="obsolete">Ara</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="49"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Featured</source>
         <translation>Öne çıkanlara göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Popularity</source>
         <translation>Popülerliğe göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>En son güncellenenlere göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Name</source>
         <translation>İsme göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Author</source>
         <translation>Yapımcıya göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
+        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="55"/>
         <source>Sort by Downloads</source>
         <translation>İndirme sayısına göre sırala</translation>
     </message>
@@ -1829,19 +1829,19 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>Ftb::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="29"/>
+        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
         <translation>Oynanış sayısına göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
+        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
         <translation>Kurulum sayısına göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
+        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>İsme göre sırala</translation>
@@ -2636,7 +2636,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="166"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="165"/>
         <source>Detecting Java installations...</source>
         <translation>Java kurulumları tespit ediliyor…</translation>
     </message>
@@ -3068,7 +3068,7 @@ You may have to fix your mods because the game is still logging to files and lik
 Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala sistem kaydı yapmakta ve büyük ihtimalle disk alanını endişe verici derecede israf ediyor!</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/LaunchTask.cpp" line="235"/>
+        <location filename="src/launcher/launch/LaunchTask.cpp" line="234"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Oyunun kayıtlarına bakmayı durdu çünkü kayıdın uzunluğu %1&apos;in satırlarını geçti.
@@ -4606,12 +4606,12 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
         <translation type="vanished">%1 adlı grubu silmek istediğine emin misin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1972"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1973"/>
         <source>CAREFUL!</source>
         <translation>DİKKAT!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1973"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1974"/>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
@@ -4622,37 +4622,37 @@ Bu kurulum kalıcı olarak silinecek.
 Emin misiniz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2171"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2172"/>
         <source>Rename Instance</source>
         <translation>Kurulumu Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2184"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Kurulum klasörünüz &apos;!&apos; karakterini içeriyor ve Java bu karakter ile ilgili problemleriyle meşhurdur!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2186"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2187"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>İki seçeneğiniz var: &lt;br/&gt; - ayarlardan kurulum klasörünü değiştir &lt;br/&gt; - %1 kurulumunu başka bir klasöre taşı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2195"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2196"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Bir sorun var: &lt;br/&gt; - Bu başlatıcı muhtemelen işletim sistemi tarafından hiçbir uyarı yapılmadan silinecek &lt;br/&gt; - başlatıcıyı kapatın ve geçici klasörler haricinde bir yere çıkartın</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2202"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Kurulum klasörünüz &apos;Rar$&apos; içeriyor - bu başlatıcı arşivini açmadığınız anlamına geliyor!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2210"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2211"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Kurulum klasörünüz geçici bir klasörün içinde: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2224"/>
         <source>Total playtime: %1</source>
         <translation>Toplam Oynanan Süre: %1</translation>
     </message>
@@ -4723,32 +4723,32 @@ Emin misiniz?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="806"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="805"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="809"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="808"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="812"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="814"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="813"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="886"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="885"/>
         <source>broken</source>
         <translation>bozuk</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="898"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="897"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -4757,17 +4757,17 @@ Emin misiniz?</translation>
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="901"/>
         <source>, last played for %1</source>
         <translation>, en son %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="906"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="905"/>
         <source>, total played for %1</source>
         <translation>, %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="911"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="910"/>
         <source>, has crashed.</source>
         <translation>, çöktü.</translation>
     </message>
@@ -5007,27 +5007,27 @@ Emin misiniz?</translation>
 <context>
     <name>ModDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Review and confirm</source>
         <translation>İncele ve onayla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
         <source>Ctrl+Return</source>
         <translation>Ctrl+Enter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="69"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>Seçili modlarınız incelemek ve seçiminizi onaylamanız için yeni açılır pencere açar. Kısayol: Ctrl+Enter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="90"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="91"/>
         <source>Download mods</source>
         <translation>Modları indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="104"/>
+        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="105"/>
         <source>Confirm mods to download</source>
         <translation>İndirilecek modları onayla</translation>
     </message>
@@ -5332,7 +5332,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="292"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="370"/>
         <source>Select mod for download</source>
         <translation>İndirilecek modu seç</translation>
     </message>
@@ -5342,62 +5342,62 @@ Emin misiniz?</translation>
         <translation>Seçenekleri filtrele</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="317"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="395"/>
         <source> by </source>
         <translation> ile </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="193"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="198"/>
         <source>Loading versions...</source>
         <translation>Sürümler yükleniyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="201"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="206"/>
         <source>No valid version found.</source>
         <translation>Geçerli sürüm bulunamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="274"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="352"/>
         <source>No valid version found!</source>
         <translation>Geçerli sürüm bulunamadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="275"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="353"/>
         <source>Cannot select invalid version :(</source>
         <translation>Geçersiz sürüm seçilemiyor :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="294"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="372"/>
         <source>Deselect mod for download</source>
         <translation>İndirme için modun seçimini kaldır</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="400"/>
         <source>Donate information: </source>
         <translation>Bağış bilgilendirmesi: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="338"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="415"/>
         <source>External links:</source>
         <translation>Dış bağlantılar:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="342"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="419"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Hatalar: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="344"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="421"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="423"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Kaynak kodu: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="348"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="425"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
