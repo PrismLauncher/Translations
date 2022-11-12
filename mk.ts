@@ -127,32 +127,32 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Неподржам инсталирачни мод</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Бришење постоечки документи...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Незнаен мод тип: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Не успеа да најде верзиа за не %1 лоадер</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="389"/>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
+        <translation>Нема поставена верзија на подигнувач за модпак!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="534"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Непознат или неподдржан тип на преземање: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="651"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Одбери оптимал мод...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
@@ -192,12 +192,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="764"/>
         <source>Unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Неподдржан тип на преземање: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="770"/>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Непознат тип на преземање: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="891"/>
@@ -217,7 +217,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="987"/>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспеа да направе библиотеки за компонент</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1011"/>
@@ -227,7 +227,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1025"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно направи пак компонент</translation>
     </message>
 </context>
 <context>
@@ -240,7 +240,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Прилагоден стартер што го олеснува управувањето со Minecraft со тоа што ви овозможува да имате повеќе примероци на Minecraft одеднаш.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -260,7 +260,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Комит:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -290,17 +290,17 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="132"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>За %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="153"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Комит: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Број на градење: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -327,118 +327,118 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Непроверен</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Офлине</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Спремен</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Работе</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Истечен</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Оневозможено</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Нема</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не е достапно</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Не</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Корисничко име</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Сметка</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Може да Мигрира?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft кориснично име е поврзан со сметката.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Корисничко има од сметката.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип на сметката - Mojang or MSA.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Тековен статус на сметката.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Дали оваа сметка може да мигрира до Microsoft сметка?</translation>
     </message>
 </context>
 <context>
@@ -447,37 +447,37 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Додај &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Отстрани</translation>
+        <translation>Отстр&amp;ани</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">Поставете стандардно</translation>
+        <translation>&amp;Поставете стандардно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Нема стандардно</translation>
+        <translation>&amp;Нема стандардно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished">Постави скин</translation>
+        <translation>&amp;Постави скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished">Избриши скин</translation>
+        <translation>&amp;Избриши скин</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -488,24 +488,24 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Додај Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Додај &amp;Офлајн</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Освежи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>Освежиги на сметката токените</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
@@ -522,7 +522,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нема Microsoft ID на клиентот за автентикација беше испратен.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -533,12 +533,12 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Внесете ја е-поштата и лозинката на вашата сметка на Mojang за да ја додадете вашата сметка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Сметките не се достапни</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -546,22 +546,24 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Сметките на Microsoft се користат само на macOS 10.13 или понова верзија, со целосно ажуриран %1.
+
+Ажурирајте ги и вашиот оперативен систем и %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Мора да додадете сметка на Microsoft или Mojang што го поседува Minecraft пред да можете да додадете офлајн сметка.&lt;br&gt;&lt;br&gt;Ако сте ја изгубиле вашата сметка, можете да контактирате со Microsoft за поддршка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вемолиме внесете нашиот сакан корисничко име за да се додаде вашиата офлајн сметка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -579,47 +581,47 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
-        <translation type="unfinished"></translation>
+        <translation>Се испраќа барање до сервери за авторизација...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Задачата за автентикација беше успешна.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не успеа да се контактира со серверот за автентикација.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>ID на клиентот е променет. Треба да се создаде нова сесија.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Се спретна на грешка при автентикацијата.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не успеа да се автентицира. Седницата е истечена.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не успеа да се автентицира. Сметката повеќе не постои.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Непозната состојба на задача на сметката: % 1</translation>
     </message>
 </context>
 <context>
@@ -627,12 +629,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="685"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставки</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1192"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Абортирано</translation>
     </message>
 </context>
 <context>
@@ -651,7 +653,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Абортирано</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -684,19 +686,19 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Подреди по популарност</translation>
+        <translation>Подреди по популарност</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Подреди по име</translation>
+        <translation>Подреди по име</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Подреди по верзија на игра</translation>
+        <translation>Подреди по верзија на игра</translation>
     </message>
 </context>
 <context>
@@ -704,42 +706,42 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете модови за Инсталирање</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталирајте</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете Препорачано</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Користете го Кодот за Споделување</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Исчисти се</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете Код за Споделување</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Споделете го кодот:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не е наведен код за споделување!</translation>
     </message>
 </context>
 <context>
@@ -747,12 +749,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Дали сте сигурни дека сакате да го овозможите овој мод?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупредување</translation>
     </message>
 </context>
 <context>
@@ -771,7 +773,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Пребарајте и филтрирајте ...</translation>
+        <translation>Пребарајте и филтрирајте ...</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -783,22 +785,22 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Во моментов нема достапни верзии за Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished"></translation>
+        <translation>Во моментов нема достапни верзии</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се отворат или преземаат списоците со верзии!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталирање</translation>
     </message>
 </context>
 <context>
@@ -806,17 +808,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="20"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Завршени се сите чекори за автентикација</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Иницијализирање</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
         <source>Working...</source>
-        <translation type="unfinished"></translation>
+        <translation>Работи...</translation>
     </message>
 </context>
 <context>
@@ -832,33 +834,33 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="16"/>
         <source>Open All</source>
-        <translation type="unfinished"></translation>
+        <translation>Отвори ги Сите</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="30"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="68"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ве молиме преземете ги модовите што недостасуваат.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt;&amp;#x2714; Најден на %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="58"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718; Не е Најдено &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="60"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;p&gt;Хеш: %3 %4&lt;/p&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="66"/>
         <source>All mods found ✔</source>
-        <translation type="unfinished"></translation>
+        <translation>Пронајдени се сите модови ✔</translation>
     </message>
 </context>
 <context>
@@ -866,12 +868,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Опремување наметка</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Отстранување наметка</translation>
     </message>
 </context>
 <context>
@@ -879,7 +881,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не можеше да се најде библиотека за проверка на Java. Ве молиме проверете ја вашата инсталација.</translation>
     </message>
 </context>
 <context>
@@ -887,32 +889,32 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете провајдер на модови</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>Прескокнете го овој мод</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>Прескокни ги сите</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Потврди за сите</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Потврди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Обидете се автоматски да користите други провајдери ако избраниот не успее</translation>
     </message>
 </context>
 <context>
@@ -921,7 +923,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Абортирано</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -956,12 +958,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не успеа да ги прекине сите работи кои се извршуваат.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Се извршува %1 задача(и) (%2 од %3 се завршени)</translation>
     </message>
 </context>
 <context>
@@ -984,27 +986,27 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Селектирај се</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оневозможувањето на ова сè уште ќе го задржи подигнувачот на модови (на пр. Fabric, Quilt, итн.), но ќе ја избрише папката mods и нивните конфигурации.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирај модови</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирајте ги опциите во играта како FOV, max framerate, итн.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирај ги опциите за игра</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
@@ -1014,17 +1016,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирај шејдер пакети</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирај сервери</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирајте ресурсни пакети</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
@@ -1034,7 +1036,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирајте слики од екранот</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
@@ -1047,7 +1049,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Основни модови</translation>
     </message>
 </context>
 <context>
@@ -1055,7 +1057,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="18"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се создаде главната папка со играта</translation>
     </message>
 </context>
 <context>
@@ -1088,7 +1090,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Командата пред стартување се извршува пред да се стартува примерот, а командата по излегувањето ќе се извршува откако ќе излезе.&lt;/p&gt;&lt;p&gt;Двете ќе бидат извршени во работната папка на фрлачот со дополнителни средства. променливи на околината:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Име на примерокот&lt;/li&gt;&lt;li&gt;$INST_ID - ID на примерокот (името на неговата папка)&lt;/li&gt;&lt;li&gt;$INST_DIR - апсолутно патека на примерот&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - апсолутна патека на Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Јава бинарна користена за стартување&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - параметри на командната линија што се користат за стартување (предупредување: нема да работи правилно ако аргументите содржат празни места)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Командата Wrapper дозволува стартување со помош на дополнителна програма за обвивка (како „optirun“ на Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1111,13 +1113,13 @@ Please update both your operating system and %1.</source>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Не може да се лансира Minecraft!</translation>
+        <translation>Не може да се стартува Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Играта падна.</translation>
     </message>
 </context>
 <context>
@@ -1143,29 +1145,29 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Се проверува дали модовите имаат метаподатоци...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Барање информации за метаподатоци од %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Барање информации за метаподатоци од % 1 за &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Парсирање на одговорот на API од Модринт за &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Парсирање на одговорот на API од CurseForge за &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1173,12 +1175,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="14"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>Одредување на сопственоста на играта.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Доби права</translation>
     </message>
 </context>
 <context>
