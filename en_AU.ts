@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="en_AU">
 <context>
     <name>APIPage</name>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pastebin Service</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
