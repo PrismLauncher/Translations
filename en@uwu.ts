@@ -2541,7 +2541,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation type="unfinished"></translation>
+        <translation>If enyabwed, the waunchew wiww n-n-nyot p-pwompt you to choose a Java vewsion if onye isn&apos;t found OwO.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
@@ -2590,7 +2590,12 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>You didn&apos;t sewect a Java vewsion ow sewected something that doesn&apos;t wowk.
+%1 wiww nyot b-be abwe to stawt M-Minyecwaft.
+Do you wish to pwoceed without any Java?
+
+You can change the Java vewsion in t-the settings watew.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="270"/>
@@ -2646,7 +2651,8 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>You do nyot h-have a w-wowking J-Java set up yet ow it went missing.
+Pwease sewect onye of the fowwowing ow bwowse fow a Java executabwe.</translation>
     </message>
 </context>
 <context>
@@ -2736,7 +2742,10 @@ Please select one of the following or browse for a java executable.</oldsource>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">This account does nyot own Minyecwaft.
+You nyeed to puwchase the game fiwst to pway it.
+
+Do you want to pway the demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="242"/>
@@ -2771,7 +2780,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="306"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>The account nyo wongew exists o-on the sewvews. It may have been migwated, in which case pwease add the nyew account you migwated this onye to.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="309"/>
@@ -2810,7 +2819,9 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>The game waunch i-is dewayed u-untiw you pwess the button. This is the w-wight time to setup the pwofiwew, as the pwofiwew sewvew is wunnying n-nyow.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="413"/>
@@ -2845,7 +2856,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="469"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">This can cause the instance to get cowwupted and shouwd onwy be used if M-M-Minyecwaft is fwozen fow some weason</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="294"/>
@@ -2871,7 +2882,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>In owdew to p-p-pway Minyecwaft, you must have at weast onye Micwosoft ow Mojang account wogged in. Mojang accounts can onwy be used offwinye. Wouwd you w-w-wike to open the account manyagew to add an account nyow?</translation>
     </message>
 </context>
 <context>
@@ -2880,7 +2891,8 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="234"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Stawpped watching the game wog because the wog wength suwpassed %1 winyes.
+You may have to fix youw mods because the game is stiww wogging to fiwes and wikewy wasting hawddwive space a-at an awawming wate!</translation>
     </message>
 </context>
 <context>
@@ -3020,7 +3032,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; colol:#f5c211;&quot;&gt;Wawnying&lt;/span&gt;&lt;span style=&quot; colol:#f5c211;&quot;&gt;: Disabwing mod metadata may awso disabwe some QoW featuwes, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
@@ -3133,12 +3145,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="134"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Y-You&apos;we twying to specify wecify an instance fowdew which&apos;s path contains at weast onye &apos;!&apos;. J-Java is knyown to cause pwobwems if that is the case, youw instances (pwobabwy) w-won&apos;t stawt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="139"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Do y-you weawwy want to use this path? Sewecting &quot;Nyo&quot; wiww c-cwose this and nyot awtew youw instance path.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="151"/>
@@ -3150,7 +3162,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>You&apos;we twying to specify wecify an instance fowdew which was gwanted tempowawiwy wempowawiwy v-via Fwatpak.
+This is knyown to cause pwobwems. Aftew a w-westawt the w-w-waunchew might bweak, because it wiww n-nyo wongew have access to that diwectowy wiwectowy.
+
+Gwanting %1 access to it via Fwatseaw is wecommended.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
@@ -3412,7 +3427,11 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Some awtifacts mawked as &apos;wocaw&apos; awe missing theiw fiwes:
+%1
+
+You nyeed to eithew add the fiwes, o-ow wemoved the packages that wequiwe t-them.
+You&apos;ww have to cowwect this pwobwem manyuawwy wanyuawwy.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
@@ -3978,7 +3997,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Wock Toowbaws</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
@@ -4952,7 +4971,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>The m-mod &apos;%1&apos; does nyot h-have a-a metadata yet. We n-nyeed to genyewate it in owdew to twack wewevant infowmation on how to update this mod. To do this, pwease sewect a m-mod pwovidew which we can use to check fow updates fow this mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
@@ -5042,7 +5061,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>The fowwowing fiwes awe nyot avaiwabwe fow downwoad in thiwd pawty wawty waunchews.&lt;br/&gt;You wiww nyeed to m-manyuawwy wanyuawwy downwoad them and a-add t-them to the instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="235"/>
@@ -5311,7 +5330,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyote: Modwinth modpacks a-awe stiww in a-a-a-a-awpha phase. Some things may b-be wough o-on the edges, ow nyot wowking at aww! Use it with c-caution.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -5587,7 +5606,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="172"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The fiwe (%1) is too big. You may want to open it in a viewew optimized fow wawge fiwes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="187"/>
@@ -5701,7 +5720,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>The defauwt p-paste sewvice has changed to mclo.gs, p-pwease choose what you want to do with y-youw settings.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -5806,7 +5825,9 @@ Error message: %3</source>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>You j-just nyeed to take onye mowe step to be a-abwe to pway M-Minyecwaft on this a-account.
+
+Choose youw nyame cawefuwwy wawefuwwy:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -5964,14 +5985,18 @@ See the %2 log file for details.</source>
         <source>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
 
 Roll back to previous version?</source>
-        <translation type="unfinished"></translation>
+        <translation>The nyew vewsion didn&apos;t stawt ow is too owd and d-doesn&apos;t wespond to stawtup checks.
+
+Woww back to pwevious v-vewsion?</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="400"/>
         <source>The rollback failed too.
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
-        <translation type="unfinished"></translation>
+        <translation>The wowwback faiwed too.
+You wiww have to wepaiw %1 manyuawwy wanyuawwy.
+Pwease wet us knyow why and how this happenyed.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -6040,7 +6065,7 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="261"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>UWW fow the main jaw couwd nyot be detewminyed - Mojang wemoved the sewvew t-that we used as fawwback.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
@@ -6095,7 +6120,7 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>The &apos;minimumLauncherVersion&apos; vawue of this vewsion (%1) is highew than suppowted by %3 (%2). It m-might nyot wowk pwopewwy wopewwy!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
@@ -6245,7 +6270,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>You twied t-to manyuawwy wanyuawwy set a JVM memowy w-wemowy option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; ow &quot;-Xms&quot;).
+Thewe awe dedicated boxes fow these in the settings (Java tab, in the Memowy Wemowy gwoup at the t-top).
+This message wiww be dispwayed untiw you wemove t-them fwom the JVM awguments.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="52"/>
@@ -6257,7 +6284,8 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="59"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>You twied to pass wequiwed Java vewsion awgument to the JVM (using &quot;-version:xxx&quot;). T-This is nyot safe and wiww nyot be awwowed.
+This message wiww be dispwayed untiw you wemove this f-fwom the JVM awguments.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
@@ -6279,7 +6307,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>The specified Java binyawy winyawy didn&apos;t wowk.&lt;br /&gt;You shouwd use the auto-detect featuwe, ow set the path to the Java executabwe.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
@@ -6303,7 +6331,10 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>The i-instance&apos;s nyame seems to incwude the owd vewsion. W-Wouwd you wike to u-update it?
+
+Owd nyame: %1
+Nyew n-nyame: %2</translation>
     </message>
 </context>
 <context>
@@ -7108,7 +7139,8 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>This instance is nyot compatibwe with Java vewsion %1.
+Pwease switch to onye o-of the fowwowing Java vewsions fow this instance:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
@@ -7118,7 +7150,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Go to instance Java settings to change y-youw Java vewsion ow disabwe the Java compatibiwity wompatibiwity check if you knyow what you&apos;we doing.</translation>
     </message>
 </context>
 <context>
@@ -7410,7 +7442,8 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cannyot downwoad Minyecwaft ow update instances unwess you have at weast onye account added.
+Pwease add youw Mojang ow Minyecwaft account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="455"/>
@@ -7736,7 +7769,10 @@ Please add your Mojang or Minecraft account.</source>
 The world will be gone forever (A LONG TIME).
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>This wiww wemove the sewected wowwd pewmenyantwy wewmenyantwy.
+The wowwd wiww be gonye fowevew (A WONG TIME).
+
+Do you w-want to continyue?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
@@ -7757,7 +7793,8 @@ Do you want to continue?</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="299"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">You do nyot have M-MCEdit set up ow i-it was moved.
+You can set it up i-in the gwobaw s-s-settings.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
@@ -7876,7 +7913,9 @@ Do you wish to proceed?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>This Micwosoft account is undewaged a-and is n-nyot winked to a famiwy w-wamiwy.
+
+Pwease set up youw account accowding to %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="166"/>
@@ -7969,12 +8008,12 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSW H-Handshake faiwed.&lt;/b&gt;&lt;br/&gt;Thewe might be a-a few causes fow it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and nyeed to u-update youw woot cewtificates, pwease instaww a-any outstanding u-updates.&lt;/li&gt;&lt;li&gt;Some device on youw nyetwowk is intewfewing with SSW twaffic. In that case, you have biggew wowwies than Minyecwaft nyot stawting.&lt;/li&gt;&lt;li&gt;Possibwy Wossibwy something ewse. Check the wog fiwe fow d-detaiws&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The Mojang account nyo wongew exists. It m-may have been migwated to a Micwosoft account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
@@ -7984,17 +8023,17 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faiwed t-t-to pawse authentication s-sewvew wesponse JSON wesponse: %1 at offset %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A-An unknyown ewwow occuwwed when twying to communyicate with the authentication sewvew: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>An unknyown Yggdwasiw ewwow occuwwed.</translation>
     </message>
 </context>
 <context>
@@ -8007,17 +8046,17 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="35"/>
         <source>Logged in with Mojang</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wogged in with Mojang OwO</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="44"/>
         <source>Mojang user authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mojang usew authentication faiwed.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang usew authentication ended with a n-nyetwowk ewwow.</translation>
     </message>
 </context>
 </TS>
