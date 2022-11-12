@@ -551,7 +551,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>You must add a-a Micwosoft ow Mojang account that owns Minyecwaft befowe you can add an offwinye account.&lt;br&gt;&lt;br&gt;If you have wost youw a-account you can contact Micwosoft fow s-suppowt. OwO</translation>
+        <translation>You must add a-a Micwosoft ow Mojang account that owns Minyecwaft befowe you can add an offwinye account.&lt;br&gt;&lt;br&gt;If you have wost youw a-account you can contact Micwosoft fow s-suppowt OwO.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -609,7 +609,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>Cwient ID has changed. Nyew session nyeeds to be c-c-cweated. OwO</translation>
+        <translation>Cwient ID has changed. Nyew session nyeeds to be c-c-cweated OwO.</translation>
     </message>
 </context>
 <context>
@@ -750,7 +750,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>W-Wawnying: This i-is stiww a wowk in pwogwess. If you wun into issues with the impowted modpack, it may be a bug. OwO</translation>
+        <translation>W-Wawnying: This i-is stiww a wowk in pwogwess. If you wun into issues with the impowted modpack, it may be a bug OwO.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -1606,7 +1606,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="395"/>
         <source>Blocked mods found</source>
-        <translation></translation>
+        <translation type="unfinished">Blocked mods found</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
