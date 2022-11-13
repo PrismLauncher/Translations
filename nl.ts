@@ -873,7 +873,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="30"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="68"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Download alstublieft de ontbrekende mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -893,7 +893,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="66"/>
         <source>All mods found ✔</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle mods gevonden ✔</translation>
     </message>
 </context>
 <context>
@@ -1024,7 +1024,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit uitzetten zal de modloader (bvb. Fabric, Quilt, etc.) behouden, maar de mods map en zijn instellingen zal gewist worden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
@@ -1034,12 +1034,12 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer in-game instellingen, zoals FOV, max. framerate, etc.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer game-instellingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
@@ -1049,7 +1049,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer shader-packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
@@ -1059,7 +1059,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieer resource packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
@@ -1576,7 +1576,7 @@ Probeer het opnieuw.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="237"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Kon het pakketmanifest niet begrijpen:
+        <translation>Kon het pack manifest niet begrijpen:
 </translation>
     </message>
     <message>
@@ -1587,14 +1587,16 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="71"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergelijkbaar modpack gevonden!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="72"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Een of meerdere instanties zijn van dezelfde modpack%1. Wil je een aparte instantie maken, of de bestaande updaten?
+
+NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voordat je update, omdat werelden corrupt kunnen raken en sommige instellingen verloren kunnen gaan (door pack overrides).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="76"/>
@@ -1668,12 +1670,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="419"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Geblokkeerde Mods Kopiëren...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="432"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Geblokkeerde Mods Kopiëren (%1 van de %2 zijn klaar)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="449"/>
@@ -2923,12 +2925,12 @@ Kies één van de volgende, of blader naar een uitvoerbaar Java-bestand.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten voortzetten?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Het lijkt erop dat we niet konden starten na %1 keer proberen. Wil je blijven proberen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
@@ -3276,22 +3278,22 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="346"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>K%at</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="366"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtergrond-Kat (van MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="371"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (Getekend door Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="376"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (vlakke editie, getekend door Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="393"/>
@@ -4211,7 +4213,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Toolbars Vastzetten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="507"/>
@@ -4226,7 +4228,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="529"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Weergave</translation>
     </message>
     <message>
         <source>&amp;Profiles</source>
@@ -4520,7 +4522,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
         <source>%1 Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1247"/>
@@ -4744,7 +4746,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="897"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -4935,7 +4937,7 @@ Weet u het zeker?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="71"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="77"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java-profiel vastleggen mislukt: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -4962,7 +4964,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="22"/>
         <source>A UUID is required to get the profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om het profiel te op te halen is een UUID nodig.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="58"/>
@@ -4973,7 +4975,7 @@ Weet u het zeker?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="74"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="80"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft Java-profiel ophalen mislukt: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -5003,17 +5005,17 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Beoordelen en bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="69"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opent een nieuwe popup om je geselecteerde mods to beoordelen en je selectie te bevestigen. Sneltoets: Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="91"/>
@@ -5046,12 +5048,12 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft-versies</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation type="unfinished"></translation>
+        <translation>versie-index ophalen mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
