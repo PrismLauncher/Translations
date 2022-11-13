@@ -1252,87 +1252,87 @@ Please update both your operating system and %1.</source>
 <context>
     <name>ExternalResourcesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
         <translation type="unfinished">フィルター:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="71"/>
         <source>Actions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
         <source>&amp;Add</source>
         <translation type="unfinished">追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>Add</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Remove</source>
         <translation type="unfinished">削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Remove selected item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
         <source>&amp;Enable</source>
         <translation type="unfinished">有効化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>Enable selected item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
         <source>&amp;Disable</source>
         <translation type="unfinished">無効化</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>Disable selected item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
         <translation type="unfinished">Configを見る</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
         <translation type="unfinished">ファイルブラウザでconfigフォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <source>View &amp;Folder</source>
         <translation type="unfinished">フォルダーを表示</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="140"/>
         <source>&amp;Download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>Download a new resource</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
         <source>Check for &amp;Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
         <translation type="unfinished"></translation>
@@ -7683,197 +7683,197 @@ Please switch to one of the following Java versions for this instance:</source>
 <context>
     <name>VersionPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="60"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="56"/>
         <source>Filter:</source>
         <translation>フィルター:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="78"/>
         <source>Actions</source>
         <translation>アクション</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="122"/>
         <source>Change version</source>
         <translation>バージョン変更</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="125"/>
         <source>Change version of the selected package.</source>
         <translation>選択したパッケージのバージョンを変更します.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="130"/>
         <source>Move up</source>
         <translation>上へ移動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="133"/>
         <source>Make the selected package apply sooner.</source>
         <translation>選択したパッケージが先に適用されるようにします.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="138"/>
         <source>Move down</source>
         <translation>下へ移動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="141"/>
         <source>Make the selected package apply later.</source>
         <translation>選択したパッケージが後に適用されるようにします.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="146"/>
         <source>Remove</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="149"/>
         <source>Remove selected package from the instance.</source>
         <translation>選択したパッケージをインスタンスから削除します.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="154"/>
         <source>Customize</source>
         <translation>カスタマイズ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="157"/>
         <source>Customize selected package.</source>
         <translation>選択したパッケージをカスタマイズ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="162"/>
         <source>Edit</source>
         <translation>編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="165"/>
         <source>Edit selected package.</source>
         <translation>選択したパッケージを編集します.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="170"/>
         <source>Revert</source>
         <translation>元に戻す</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="173"/>
         <source>Revert the selected package to default.</source>
         <translation>選択したパッケージをデフォルトの状態に戻す.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="178"/>
         <source>Install Forge</source>
         <translation>Forgeをインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="181"/>
         <source>Install the Minecraft Forge package.</source>
         <translation>Forgeをインストール.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="186"/>
         <source>Install Fabric</source>
         <translation>Fabricをインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="189"/>
         <source>Install the Fabric Loader package.</source>
         <translation>Fabricをインストール.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="194"/>
         <source>Install Quilt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="197"/>
         <source>Install the Quilt Loader package.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="202"/>
         <source>Install LiteLoader</source>
         <translation>LiteLoaderをインストール</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="205"/>
         <source>Install the LiteLoader package.</source>
         <translation>LiteLoaderをインストール.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="210"/>
         <source>Install mods</source>
         <translation>Modを導入</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="213"/>
         <source>Install normal mods.</source>
         <translation>普通のMod (Forge Mod) を導入.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="218"/>
         <source>Add to Minecraft.jar</source>
         <translation>Jar Modを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="221"/>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>minecraft.jarにModを導入.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="226"/>
         <source>Replace Minecraft.jar</source>
         <translation>Minecraft.jarを置き換え</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="231"/>
         <source>Add Empty</source>
         <translation>空のパッケージを追加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="234"/>
         <source>Add an empty custom package.</source>
         <translation>空のカスタムパッケージを追加します.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="239"/>
         <source>Reload</source>
         <translation>リロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="242"/>
         <source>Reload all packages.</source>
         <translation>すべてのパッケージをリロードします.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="247"/>
         <source>Download All</source>
         <translation>全てダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="250"/>
         <source>Download the files needed to launch the instance now.</source>
         <translation>インスタンスの起動に必要なすべてのファイルを今ダウンロードします.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="255"/>
         <source>Open .minecraft</source>
         <translation>.minecraft を開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="258"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>インスタンスの .minecraft フォルダを開きます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="263"/>
         <source>Open libraries</source>
         <translation>libraries を開く</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="266"/>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>インスタンスのローカル libraries フォルダを開きます.</translation>
     </message>

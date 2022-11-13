@@ -1266,87 +1266,87 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
 <context>
     <name>ExternalResourcesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
         <translation>Filtrar:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="71"/>
         <source>Actions</source>
         <translation>Ações</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
         <source>&amp;Add</source>
         <translation>&amp;Adicionar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>Add</source>
         <translation>Adicionar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Remove</source>
         <translation>&amp;Remover</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Remove selected item</source>
         <translation>Remove o(s) item(s) selecionado(s)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
         <source>&amp;Enable</source>
         <translation>&amp;Habilitar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>Enable selected item</source>
         <translation>Habilita o(s) item(s) selecionado(s)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
         <source>&amp;Disable</source>
         <translation>&amp;Desabilitar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>Disable selected item</source>
         <translation>Desabilita o(s) item(s) selecionado(s)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
         <translation>Ver &amp;configurações</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
         <translation>Abrir a pasta &apos;config&apos; no explorador de arquivos.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <source>View &amp;Folder</source>
         <translation>Abrir &amp;pasta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="140"/>
         <source>&amp;Download</source>
         <translation>&amp;Download</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>Download a new resource</source>
         <translation>Baixar um novo recurso</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
         <source>Check for &amp;Updates</source>
         <translation>Procurar por &amp;Atualizações</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
         <translation>Tenta encontrar ou atualizar todos os recursos selecionados (todos os recursos se nenhum for selecionado)</translation>
@@ -7985,197 +7985,197 @@ Por favor troque para uma das seguintes versões do Java para essa instância:</
 <context>
     <name>VersionPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="60"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="56"/>
         <source>Filter:</source>
         <translation>Filtrar:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="78"/>
         <source>Actions</source>
         <translation>Ações</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="122"/>
         <source>Change version</source>
         <translation>Alterar versão</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="125"/>
         <source>Change version of the selected package.</source>
         <translation>Alterar a versão do pacote selecionado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="130"/>
         <source>Move up</source>
         <translation>Mover para cima</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="133"/>
         <source>Make the selected package apply sooner.</source>
         <translation>Aplicar o pacote selecionado antes.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="138"/>
         <source>Move down</source>
         <translation>Mover para baixo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="141"/>
         <source>Make the selected package apply later.</source>
         <translation>Aplicar o pacote selecionado mais tarde.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="146"/>
         <source>Remove</source>
         <translation>Remover</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="149"/>
         <source>Remove selected package from the instance.</source>
         <translation>Excluir o pacote selecionado da instância.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="154"/>
         <source>Customize</source>
         <translation>Personalizar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="157"/>
         <source>Customize selected package.</source>
         <translation>Personalizar pacote selecionado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="162"/>
         <source>Edit</source>
         <translation>Editar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="165"/>
         <source>Edit selected package.</source>
         <translation>Editar pacote selecionado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="170"/>
         <source>Revert</source>
         <translation>Reverter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="173"/>
         <source>Revert the selected package to default.</source>
         <translation>Reverter o pacote selecionado ao padrão.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="178"/>
         <source>Install Forge</source>
         <translation>Instalar Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="181"/>
         <source>Install the Minecraft Forge package.</source>
         <translation>Instalar o pacote do Forge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="186"/>
         <source>Install Fabric</source>
         <translation>Instalar Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="189"/>
         <source>Install the Fabric Loader package.</source>
         <translation>Instalar o pacote do Fabric Loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="194"/>
         <source>Install Quilt</source>
         <translation>Instalar Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="197"/>
         <source>Install the Quilt Loader package.</source>
         <translation>Instalar o pacote do Quilt Loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="202"/>
         <source>Install LiteLoader</source>
         <translation>Instalar LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="205"/>
         <source>Install the LiteLoader package.</source>
         <translation>Instalar o pacote do LiteLoader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="210"/>
         <source>Install mods</source>
         <translation>Instalar mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="213"/>
         <source>Install normal mods.</source>
         <translation>Instalar mods comuns.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="218"/>
         <source>Add to Minecraft.jar</source>
         <translation>Adic. ao minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="221"/>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>Adicionar um mod ao arquivo JAR do Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="226"/>
         <source>Replace Minecraft.jar</source>
         <translation>Substituir minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="231"/>
         <source>Add Empty</source>
         <translation>Adicionar vazio</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="234"/>
         <source>Add an empty custom package.</source>
         <translation>Adicionar um pacote vazio personalizado.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="239"/>
         <source>Reload</source>
         <translation>Recarregar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="242"/>
         <source>Reload all packages.</source>
         <translation>Recarregar pacotes.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="247"/>
         <source>Download All</source>
         <translation>Baixar tudo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="250"/>
         <source>Download the files needed to launch the instance now.</source>
         <translation>Baixar os arquivos necessários para iniciar a instância agora.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="255"/>
         <source>Open .minecraft</source>
         <translation>Abrir .minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="258"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>Abrir a pasta &quot;.minecraft&quot; da instância.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="263"/>
         <source>Open libraries</source>
         <translation>Abrir libraries</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="266"/>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>Abrir a pasta de bibliotecas locais da instância.</translation>
     </message>

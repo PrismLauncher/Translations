@@ -1258,87 +1258,87 @@ Please update both your operating system and %1.</source>
 <context>
     <name>ExternalResourcesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
         <translation>필터:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="71"/>
         <source>Actions</source>
         <translation>작업</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
         <source>&amp;Add</source>
         <translation>추가 (&amp;A)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>Add</source>
         <translation>추가</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Remove</source>
         <translation>제거 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Remove selected item</source>
         <translation>선택된 항목 제거</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
         <source>&amp;Enable</source>
         <translation>활성화 (&amp;E)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>Enable selected item</source>
         <translation>선택된 항목 활성화</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
         <source>&amp;Disable</source>
         <translation>비활성화 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>Disable selected item</source>
         <translation>선택된 항목 비활성화</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
         <translation>설정 보기 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
         <translation>시스템 파일 탐색기에서 설정 폴더를 엽니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <source>View &amp;Folder</source>
         <translation>폴더 보기 (&amp;F)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="140"/>
         <source>&amp;Download</source>
         <translation>다운로드 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>Download a new resource</source>
         <translation>새 리소스를 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
         <source>Check for &amp;Updates</source>
         <translation>업데이트 확인 (&amp;U)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
         <translation>선택한 모든 리소스를 확인하거나 업데이트합니다(선택되지 않은 경우 모든 리소스)</translation>
@@ -7891,197 +7891,197 @@ Please switch to one of the following Java versions for this instance:</source>
 <context>
     <name>VersionPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="60"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="56"/>
         <source>Filter:</source>
         <translation>필터:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="78"/>
         <source>Actions</source>
         <translation>작업</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="122"/>
         <source>Change version</source>
         <translation>버전 변경</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="125"/>
         <source>Change version of the selected package.</source>
         <translation>선택한 패키지의 버전을 바꿉니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="130"/>
         <source>Move up</source>
         <translation>위로 이동</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="133"/>
         <source>Make the selected package apply sooner.</source>
         <translation>선택한 패키지가 더 먼저 적용되도록 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="138"/>
         <source>Move down</source>
         <translation>아래로 이동</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="141"/>
         <source>Make the selected package apply later.</source>
         <translation>선택된 패키지가 더 나중에 적용되도록 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="146"/>
         <source>Remove</source>
         <translation>제거</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="149"/>
         <source>Remove selected package from the instance.</source>
         <translation>선택한 패키지를 인스턴스로부터 제거합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="154"/>
         <source>Customize</source>
         <translation>사용자 설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="157"/>
         <source>Customize selected package.</source>
         <translation>선택한 패키지를 세부 설정합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="162"/>
         <source>Edit</source>
         <translation>편집</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="165"/>
         <source>Edit selected package.</source>
         <translation>선택한 패키지를 편집합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="170"/>
         <source>Revert</source>
         <translation>되돌리기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="173"/>
         <source>Revert the selected package to default.</source>
         <translation>선택한 패키지를 기본값으로 되돌립니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="178"/>
         <source>Install Forge</source>
         <translation>Forge 설치</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="181"/>
         <source>Install the Minecraft Forge package.</source>
         <translation>마인크래프트 Forge 패키지를 설치합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="186"/>
         <source>Install Fabric</source>
         <translation>Fabric 설치</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="189"/>
         <source>Install the Fabric Loader package.</source>
         <translation>Fabric 패키지를 설치합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="194"/>
         <source>Install Quilt</source>
         <translation>Quilt 설치</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="197"/>
         <source>Install the Quilt Loader package.</source>
         <translation>Quilt 로더 패키지를 설치합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="202"/>
         <source>Install LiteLoader</source>
         <translation>LiteLoader 설치</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="205"/>
         <source>Install the LiteLoader package.</source>
         <translation>LiteLoader 패키지를 설치합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="210"/>
         <source>Install mods</source>
         <translation>모드 설치</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="213"/>
         <source>Install normal mods.</source>
         <translation>일반 모드를 설치합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="218"/>
         <source>Add to Minecraft.jar</source>
         <translation>마인크래프트 jar에 추가하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="221"/>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>마인크래프트 jar 파일에 모드를 추가합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="226"/>
         <source>Replace Minecraft.jar</source>
         <translation>마인크래프트 jar 대체하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="231"/>
         <source>Add Empty</source>
         <translation>빈 것 추가</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="234"/>
         <source>Add an empty custom package.</source>
         <translation>비어있는 사용자 정의 패키지를 추가합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="239"/>
         <source>Reload</source>
         <translation>새로고침</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="242"/>
         <source>Reload all packages.</source>
         <translation>모든 패키지 다시 로드하기.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="247"/>
         <source>Download All</source>
         <translation>모두 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="250"/>
         <source>Download the files needed to launch the instance now.</source>
         <translation>인스턴스 실행에 필요한 모든 파일을 지금 다운로드합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="255"/>
         <source>Open .minecraft</source>
         <translation>.minecraft 열기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="258"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>인스턴스의 .minecraft 폴더를 엽니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="263"/>
         <source>Open libraries</source>
         <translation>라이브러리 열기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="266"/>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>인스턴스의 로컬 라이브러리 폴더를 엽니다.</translation>
     </message>

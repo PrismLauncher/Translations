@@ -1266,87 +1266,87 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>ExternalResourcesPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="39"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
         <translation>过滤器：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="75"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="71"/>
         <source>Actions</source>
         <translation>动作</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="96"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
         <source>&amp;Add</source>
         <translation>添加（&amp;A）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="99"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>Add</source>
         <translation>添加</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="104"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Remove</source>
         <translation>删除（&amp;R）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Remove selected item</source>
         <translation>删除所选项目</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
         <source>&amp;Enable</source>
         <translation>启用（&amp;E）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>Enable selected item</source>
         <translation>启用所选项目</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
         <source>&amp;Disable</source>
         <translation>禁用（&amp;D）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>Disable selected item</source>
         <translation>禁用所选项目</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
         <translation>查看配置（&amp;C）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
         <translation>在文件资源管理器中打开“config“文件夹。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <source>View &amp;Folder</source>
         <translation>查看文件夹（&amp;F）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="140"/>
         <source>&amp;Download</source>
         <translation>下载（&amp;D）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>Download a new resource</source>
         <translation>下载新资源</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
         <source>Check for &amp;Updates</source>
         <translation>检查更新（&amp;U）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
         <translation>尝试检查或更新所有选定的资源（未选择任何资源将检查全部资源）</translation>
@@ -7961,197 +7961,197 @@ Please switch to one of the following Java versions for this instance:</source>
 <context>
     <name>VersionPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="60"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="56"/>
         <source>Filter:</source>
         <translation>过滤器：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="82"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="78"/>
         <source>Actions</source>
         <translation>行动</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="122"/>
         <source>Change version</source>
         <translation>修改版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="125"/>
         <source>Change version of the selected package.</source>
         <translation>修改选定包的版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="130"/>
         <source>Move up</source>
         <translation>上移</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="133"/>
         <source>Make the selected package apply sooner.</source>
         <translation>提前应用所选包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="138"/>
         <source>Move down</source>
         <translation>下移</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="141"/>
         <source>Make the selected package apply later.</source>
         <translation>延后应用所选包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="146"/>
         <source>Remove</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="149"/>
         <source>Remove selected package from the instance.</source>
         <translation>从实例删除选定包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="154"/>
         <source>Customize</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="157"/>
         <source>Customize selected package.</source>
         <translation>自定义选定包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="162"/>
         <source>Edit</source>
         <translation>编辑</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="165"/>
         <source>Edit selected package.</source>
         <translation>编辑选定的包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="170"/>
         <source>Revert</source>
         <translation>还原</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="173"/>
         <source>Revert the selected package to default.</source>
         <translation>还原选定的包到默认状态。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="178"/>
         <source>Install Forge</source>
         <translation>安装 Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="181"/>
         <source>Install the Minecraft Forge package.</source>
         <translation>安装 Minecraft Forge。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="186"/>
         <source>Install Fabric</source>
         <translation>安装 Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="189"/>
         <source>Install the Fabric Loader package.</source>
         <translation>安装 Fabric Loader。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="194"/>
         <source>Install Quilt</source>
         <translation>安装Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="197"/>
         <source>Install the Quilt Loader package.</source>
         <translation>安装 Quilt 加载器包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="202"/>
         <source>Install LiteLoader</source>
         <translation>安装 LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="205"/>
         <source>Install the LiteLoader package.</source>
         <translation>安装 LiteLoader。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="210"/>
         <source>Install mods</source>
         <translation>安装Mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="213"/>
         <source>Install normal mods.</source>
         <translation>安装普通Mod。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="218"/>
         <source>Add to Minecraft.jar</source>
         <translation>安装Mod到 Minecraft.jar 文件中</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="221"/>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>将一个Mod安装到 Minecraft.jar 文件中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="226"/>
         <source>Replace Minecraft.jar</source>
         <translation>替换 Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="231"/>
         <source>Add Empty</source>
         <translation>添加空项</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="234"/>
         <source>Add an empty custom package.</source>
         <translation>新建一个空的自定义包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="239"/>
         <source>Reload</source>
         <translation>重新加载</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="242"/>
         <source>Reload all packages.</source>
         <translation>重新加载所有包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="247"/>
         <source>Download All</source>
         <translation>下载完整文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="250"/>
         <source>Download the files needed to launch the instance now.</source>
         <translation>立刻下载运行实例需要的文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="255"/>
         <source>Open .minecraft</source>
         <translation>打开 .minecraft 文件夹</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="258"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>打开实例的 .minecraft 文件夹。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="263"/>
         <source>Open libraries</source>
         <translation>打开 libraries 目录</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="266"/>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>打开实例的本地 libraries 文件夹。</translation>
     </message>
