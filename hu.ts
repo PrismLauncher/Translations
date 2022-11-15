@@ -4136,12 +4136,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Telepítés ide: &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Telepítsen egy prismlauncher szimbolikus hivatkozást (symlink) a /usr/local/bin mappába</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
@@ -4600,7 +4600,7 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1964"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 sikeresen hozzáadva ehhez: PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1965"/>
