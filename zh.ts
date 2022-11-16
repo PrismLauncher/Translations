@@ -4127,27 +4127,27 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="711"/>
         <source>&amp;Edit...</source>
-        <translation>编辑实例（&amp;E）</translation>
+        <translation>编辑...（&amp;E）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
         <source>&amp;Folder</source>
-        <translation>实例文件夹（&amp;F）</translation>
+        <translation>实例目录（&amp;F）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
         <source>E&amp;xport...</source>
-        <translation>导出实例（&amp;X）</translation>
+        <translation>导出...（&amp;X）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="742"/>
         <source>Dele&amp;te</source>
-        <translation>删除实例（T）</translation>
+        <translation>删除...（T）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="751"/>
         <source>Cop&amp;y...</source>
-        <translation>复制实例（&amp;Y）</translation>
+        <translation>复制...（&amp;Y）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
@@ -4172,7 +4172,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="298"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>添加实例（&amp;E）...</translation>
+        <translation>添加实例...（&amp;E）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="318"/>
@@ -4184,7 +4184,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>设置（&amp;N）...</translation>
+        <translation>设置...（&amp;N）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="345"/>
@@ -4204,12 +4204,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>安装至 &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>安装一个 prismlauncher 符号链接至 /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
@@ -4370,7 +4370,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="719"/>
         <source>&amp;Change Group...</source>
-        <translation>更改组（&amp;C）</translation>
+        <translation>更改组...（&amp;C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
@@ -4677,22 +4677,22 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1964"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>成功把 %1 添加至 PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1965"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 已成功被添加至你的 PATH。你现在可以通过运行 `%2` 来启动它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1968"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>无法把 %1 添加至 PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1969"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>在把 %1 添加到 PATH 时发生了一个错误</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
