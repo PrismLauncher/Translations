@@ -4240,12 +4240,12 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu &amp;PATH hinzufügen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Einen prismlauncher Symlink in /usr/local/bin anlegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
@@ -4713,22 +4713,22 @@ Bitte füg ein Mojang- oder Minecraft-Konto hinzu.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1964"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 erfolgreich zu PATH hinzugefügt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1965"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 wurde erfolgreich zu PATH hinzugefügt. Du kannst den Launcher nun durch Ausführen von `%2` starten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1968"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte %1 nicht zu PATH hinzufügen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1969"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Hinzufügen von %1 zu PATH ist ein Fehler aufgetreten</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
