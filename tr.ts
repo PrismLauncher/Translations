@@ -881,27 +881,27 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="30"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="68"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen eksik modları indirin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; %1 modunda bulundu &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="58"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Bulunmadı &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="60"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="66"/>
         <source>All mods found ✔</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm modlar bulundu</translation>
     </message>
 </context>
 <context>
@@ -1131,7 +1131,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Başlangıç komutları profil çalıştırılmadan önce, çıkış komutları ise oyun kapatıldıktan sonra çalıştırılacaktır.&lt;/p&gt;&lt;p&gt;Her ikisi de başlatıcının kaynak dosyalarında ekstra olarak yer alacaktır.:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Profilin adı&lt;/li&gt;&lt;li&gt;$INST_ID - Profilin ID&apos;si (klasörünün ismi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Profilin mutlak konumu&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft&apos;ın konumu&lt;/li&gt;&lt;li&gt;$INST_JAVA - Çalıştırmak için kullanılan Java konumu&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Komut satırı paremetreleriBaşlangıç için kullanılan komut satırı paremetreleri(uyarı:argümanlar boşluk içerirse doğru çalışmaz)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper komutları ekstra ara programlar (Linux üzerindeki &apos;optirun&apos; gibi) kullanmanıza olanak sağlar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Başlangıç komutları profil çalıştırılmadan önce, çıkış komutları ise oyun kapatıldıktan sonra çalıştırılacaktır.&lt;/p&gt;&lt;p&gt;Her ikisi de başlatıcının kaynak dosyalarında ekstra olarak yer alacaktır:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Profilin adı&lt;/li&gt;&lt;li&gt;$INST_ID - Profilin ID&apos;si (klasörünün ismi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Profilin mutlak konumu&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft&apos;ın konumu&lt;/li&gt;&lt;li&gt;$INST_JAVA - Çalıştırmak için kullanılan Java konumu&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Komut satırı paremetreleriBaşlangıç için kullanılan komut satırı paremetreleri(uyarı:argümanlar boşluk içerirse doğru çalışmaz)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper komutları ekstra ara programlar (Linux üzerindeki &apos;optirun&apos; gibi) kullanmanıza olanak sağlar.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1678,12 +1678,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="419"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelli Modlar Kopyalanıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="432"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelli Modlar Kopyalanıyor (%2 üzerinden %1 mod tamam)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="449"/>
@@ -4177,12 +4177,12 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="360"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PATH dizinine kur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>/usr/local/bin&apos;e bir prismlauncher sembolik bağlantısı kur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
@@ -4650,22 +4650,22 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1964"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 başarıyla PATH&apos;e eklendi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1965"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 başarıyla PATH&apos;inize eklendi. Artık `%2` yazarak başlatabilirsiniz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1968"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>PATH&apos;e %1 eklemesi başarısız</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1969"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>PATH&apos;e %1 eklemeye çalışırken bir hata oluştu</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -5681,12 +5681,12 @@ Lütfen %1 programını güncelleyin!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="358"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelli Modlar Kopyalanıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="371"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelli Modlar Kopyalanıyor (%2 üzerinden %1 mod tamam)</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
