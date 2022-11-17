@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pastebin Zerbitzua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation>Erabiltzaile Agentea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
@@ -156,7 +156,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="651"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurazioak deskargatzen...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
@@ -166,7 +166,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurazioak erauzten...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
@@ -206,7 +206,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="902"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-ak erauzten...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="975"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1025"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez da sortu pakete-osagairik</translation>
     </message>
 </context>
 <context>
@@ -234,7 +234,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Honi buruz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
@@ -244,13 +244,13 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plataforma:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Eraikitze data:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -265,22 +265,22 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Kredituak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizentzia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Qt-ri buruz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Itxi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="132"/>
@@ -290,7 +290,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="148"/>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Plataforma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="153"/>
@@ -300,12 +300,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eraikitze data: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="163"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanala</translation>
     </message>
 </context>
 <context>
@@ -356,44 +356,44 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>E/E</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bai</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ez</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Erabiltzaile-izena</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontua</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Mota</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Egoera</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Migratu dezake?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -668,19 +668,19 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ospearen arabera ordenatu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenatu izenaren arabera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ordenatu jokoaren bertsioaren arabera</translation>
     </message>
 </context>
 <context>
@@ -693,12 +693,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalatu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Hautatu gomendatua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
@@ -731,12 +731,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziur zaude mod hau gaitu nahi duzula?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Oharra</translation>
     </message>
 </context>
 <context>
@@ -749,13 +749,13 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hautatutako bertsioa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Bilatu eta iragazi...</translation>
     </message>
 </context>
 <context>
@@ -763,12 +763,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaur egun ez dago Minecraft %1en bertsiorik erabilgarri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaur egun ez dago bertsio erabilgarririk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
@@ -778,7 +778,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalatzen</translation>
     </message>
 </context>
 <context>
@@ -786,12 +786,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="20"/>
         <source>Finished all authentication steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Kautotze-urrats guztiak amaitu dira</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
         <source>Initializing</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasieratzen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
@@ -812,13 +812,13 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="16"/>
         <source>Open All</source>
-        <translation type="unfinished"></translation>
+        <translation>Ireki denak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="30"/>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="68"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesedez, deskargatu falta diren mod-ak.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -887,12 +887,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Berretsi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Saiatu beste hornitzaile batzuk automatikoki erabiltzen, aukeratutakoak huts egiten badu</translation>
     </message>
 </context>
 <context>
@@ -906,7 +906,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Osagaien metadatuak kargatzeko ataza batzuek huts egin dute.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
@@ -916,7 +916,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantziak mendekotasun kontraesankorrak ditu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
@@ -953,7 +953,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
@@ -963,7 +963,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Hautatu denak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
@@ -998,7 +998,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Zerbitzariak kopiatu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
@@ -1013,12 +1013,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiatu pantaila-argazkiak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>Talderik ez</translation>
     </message>
 </context>
 <context>
@@ -1034,7 +1034,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="18"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezin da sortu jokoaren karpeta nagusia</translation>
     </message>
 </context>
 <context>
@@ -1104,17 +1104,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="14"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Saio-hasiera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="33"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Posta elektronikoa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="43"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasahitza</translation>
     </message>
 </context>
 <context>
@@ -1122,7 +1122,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modek metadaturik duten egiaztatzen...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
@@ -1175,7 +1175,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="412"/>
         <source>Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gainidatzi?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
@@ -1186,7 +1186,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="428"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="433"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="428"/>
@@ -1215,7 +1215,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehitu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
@@ -1225,7 +1225,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezabatu hautatutako elementua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
@@ -1235,7 +1235,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaitu hautatutako elementua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
@@ -1245,7 +1245,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Desgaitu hautatutako elementua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
@@ -1255,7 +1255,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ireki &apos;config&apos; karpeta sistemaren fitxategi-kudeatzailean.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
@@ -1270,7 +1270,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Baliabide berri bat deskargatu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
@@ -1302,7 +1302,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Egiaztatu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
@@ -1318,12 +1318,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanpoko tresnak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler karpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1333,7 +1333,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1352,12 +1352,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfilerren konfigurazioa ondo dagoela dirudi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM exekutagarria</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -1369,17 +1369,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVMren konfigurazioa ondo dagoela dirudi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit aplikazioa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit karpeta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
@@ -1391,22 +1391,22 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit konfigurazioa ondo dagoela dirudi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON editorea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Baliogabea</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Aukeratutako artxiboa ez dirudi exekutagarria denik</translation>
     </message>
 </context>
 <context>
@@ -1422,12 +1422,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>FML liburutegiak bilatzen...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>FML liburutegiak deskargatzen...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
