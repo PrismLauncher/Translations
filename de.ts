@@ -4295,7 +4295,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="449"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Themen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="531"/>
