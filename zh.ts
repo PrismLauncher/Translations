@@ -6839,7 +6839,7 @@ Choose your name carefully:</source>
         <translation>该版本（%1）的“最低启动器版本（minimumLauncherVersion）比 %3 支持的版本（%2）高。可能无法正常工作！</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>库 %1 的名称已损坏，不能处理。</translation>
     </message>
@@ -6854,32 +6854,32 @@ Choose your name carefully:</source>
         <translation>版本文件同时包含&quot;+libraries&quot;和&quot;libraries&quot;，这不再受到支持。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>无法确定主 Jar 的网址 - Mojang 删除了我们用作备份的服务器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="293"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>版本文件包含不支持的元素“tweakers”</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="297"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>版本文件包含不支持的元素“-libraries”</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="301"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>版本文件包含不支持的元素“-tweakers”</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="305"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>版本文件包含不支持的元素“-minecraftArguments”</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="309"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>版本文件包含不支持的元素“+minecraftArguments”</translation>
     </message>

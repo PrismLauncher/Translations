@@ -6721,7 +6721,7 @@ Choose your name carefully:</source>
         <translation>Значення «minimumLauncherVersion» цієї версії (%1) вище, ніж підтримується у %3 (%2). Це може працювати некоректно!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Ім&apos;я бібліотеки %1 пошкоджено та не може бути оброблено.</translation>
     </message>
@@ -6736,32 +6736,32 @@ Choose your name carefully:</source>
         <translation>Файл версії має одночасно &apos;+libraries&apos; і &apos;libraries&apos;. Це більше не підтримується.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>URL для основних jar не вдалося визначити - Mojang видалив сервер, який ми використовували як резервний.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="293"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>Версійний файл містить непідтримуваний елемент «tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="297"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>Версійний файл містить непідтримуваний елемент &apos;-libraries&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="301"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>Версійний файл містить непідтримуваний елемент «-tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="305"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>Версійний файл містить непідтримуваний елемент &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="309"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>Версійний файл містить непідтримуваний елемент &apos;+minecraftArguments&apos;</translation>
     </message>

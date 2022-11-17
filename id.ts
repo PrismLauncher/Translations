@@ -6582,7 +6582,7 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Nama perpustakaan %1 rusak dan tidak bisa diproses.</translation>
     </message>
@@ -6597,32 +6597,32 @@ Choose your name carefully:</source>
         <translation>File versi memiliki &apos;+libraries&apos; dan &apos;libraries&apos;. Hal ini tidak lagi didukung.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>URL untuk jar utama tidak dapat ditentukan - Mojang menghapus server yang kami gunakan untuk fallback.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="293"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>File versi berisikan elemen &apos;pengatur&apos; yang tidak didukung</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="297"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>File versi berisikan elemen &apos;-libraries&apos; yang tidak didukung</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="301"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>File versi berisikan elemen &apos;-pengatur&apos; yang tidak didukung</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="305"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>File versi berisikan elemen &apos;-minecraftArgument&apos; yang tidak didukung</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="309"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>File versi berisikan elemen &apos;+minecraftArgument&apos; yang tidak didukung</translation>
     </message>

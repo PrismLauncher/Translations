@@ -6680,7 +6680,7 @@ Elegeix un nom amb cura:</translation>
         <translation>El valor de &apos;minimumLauncherVersion&apos; d&apos;aquesta versió (%1) és superior a la suportada per %3 (%2). És probable que no funcioni correctament!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>El nom de la llibreria %1 està trencat i no pot ser processat.</translation>
     </message>
@@ -6695,32 +6695,32 @@ Elegeix un nom amb cura:</translation>
         <translation>L&apos;arxiu de versió conté tant &apos;+libraries&apos; com &apos;libraries&apos;. Això ja no és suportat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>L&apos;URL per l&apos;arxiu &apos;jar&apos; principal no pot ser determinada - Mojang ha esborrat el servidor que utilitzàvem per si de cas.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="293"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>L&apos;arxiu de versió conte l&apos;element sense suport &apos;tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="297"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>L&apos;arxiu de versió conté l&apos;element no suportat &apos;-libraries&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="301"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>L&apos;arxiu de versió conté l&apos;element no suportat &apos;-tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="305"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>L&apos;arxiu de versió conté l&apos;element no suportat &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="309"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>L&apos;arxiu de versió conté l&apos;element no suportat &apos;+minecraftArguments&apos;</translation>
     </message>

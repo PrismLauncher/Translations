@@ -6576,7 +6576,7 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6591,32 +6591,32 @@ Choose your name carefully:</source>
         <translation>نسخه فایل دارای هر دو &apos;+libraries&apos; و &apos;libraries&apos; می باشد. این مورد دیگر پشتیبانی نمی شود.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>آدرس اینترنتی فایل jar اصلی قابل تشخیص نیست - موجانگ سروری را که ما از آن برای بارخورد استفاده می کردیم را حذف کرده.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="293"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;tweakers&apos; می باشد</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="297"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;-libraries&apos; می باشد</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="301"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;-tweakers&apos; می باشد</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="305"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;&apos;-minecraftArguments&apos; می باشد</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="309"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>نسخه فایل حاوی المان های پشتیبانی نشده‌ای &apos;&apos;+minecraftArguments&apos; می باشد</translation>
     </message>

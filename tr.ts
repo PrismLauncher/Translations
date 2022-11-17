@@ -6770,7 +6770,7 @@ Choose your name carefully:</source>
         <translation>Bu sürüm için &apos;minimumLauncherVersion&apos; değeri (%1) %3&apos;nin desteklediğinden (%2) daha fazla. Sürüm düzgün çalışmayabilir!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Kitaplık %1 ismi bozuk ve işlenemiyor.</translation>
     </message>
@@ -6785,32 +6785,32 @@ Choose your name carefully:</source>
         <translation>Sürüm dosyası &apos;+libraries&apos; ve &apos;libraries&apos; elementlerini içeriyor. Bu artık desteklenmiyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>Ana jar dosyasının URL&apos;si belirlenemedi - Mojang yedek olarak kullandığımız sunucuyu kaldırdı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="293"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>Sürüm dosyası desteklenmeyen elementlar içeriyor: &apos;tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="297"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>Sürüm dosyası desteklenmeyen elementlar içeriyor: &apos;-libarires&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="301"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>Sürüm dosyası desteklenmeyen elementlar içeriyor: &apos;-tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="305"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>Sürüm dosyası desteklenmeyen elementlar içeriyor: &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="309"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>Sürüm dosyası desteklenmeyen element içeriyor: &apos;+minecraftArguments&apos;</translation>
     </message>

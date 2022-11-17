@@ -6661,7 +6661,7 @@ Chọn tên của bạn một cách cẩn thận:</translation>
         <translation>Giá trị &apos;minimumLauncherVersion&apos; của phiên bản này (%1) cao hơn giá trị được hỗ trợ bởi %3 (%2). Nó có thể không hoạt động bình thường!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="343"/>
+        <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
         <source>Library %1 name is broken and cannot be processed.</source>
         <translation>Thư viện %1 bị hỏng và không thể xử lý được.</translation>
     </message>
@@ -6676,32 +6676,32 @@ Chọn tên của bạn một cách cẩn thận:</translation>
         <translation>Tệp phiên bản có cả &apos;+libraries&apos; và &apos;libraries&apos;. Điều này không còn được hỗ trợ.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="261"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
         <translation>Không thể xác định URL cho jar chính - Mojang đã xóa máy chủ mà chúng tôi sử dụng làm dự phòng.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="293"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
         <translation>Tệp phiên bản chứa phần tử không được hỗ trợ &apos;tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="298"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="297"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
         <translation>Tệp phiên bản chứa phần tử không được hỗ trợ &apos;-libraries&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="302"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="301"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
         <translation>Tệp phiên bản chứa phần tử không được hỗ trợ &apos;-tweakers&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="306"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="305"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
         <translation>Tệp phiên bản chứa phần tử không được hỗ trợ &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="310"/>
+        <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="309"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
         <translation>Tệp phiên bản chứa phần tử không được hỗ trợ &apos;+minecraftArguments&apos;</translation>
     </message>
