@@ -3946,7 +3946,7 @@ Reason:
         <translation>Запустити вибрану збірку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="461"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="460"/>
         <source>Main Toolbar</source>
         <translation>Головна панель інструментів</translation>
     </message>
@@ -3955,29 +3955,29 @@ Reason:
         <translation type="vanished">Додати збірку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="302"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
         <source>Add a new instance.</source>
         <translation>Додати нову збірку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="308"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
         <translation>&amp;Глянути теку збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="310"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
         <source>Open the instance folder in a file browser.</source>
         <translation>Відкрити теку збірки в файловому менеджері.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="316"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="315"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
         <translation>Відкрити &amp;загальну теку модів</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="317"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="316"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>Відкрити теку основних модів в файловому менеджері.</translation>
     </message>
@@ -3991,7 +3991,7 @@ Reason:
         <translation>Теки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="328"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>Відкрийте одну із тек, спільно використовуваних збірками.</translation>
     </message>
@@ -4000,7 +4000,7 @@ Reason:
         <translation type="vanished">Налаштування</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="342"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
         <source>Change settings.</source>
         <translation>Змінити налаштування.</translation>
     </message>
@@ -4009,12 +4009,12 @@ Reason:
         <translation type="vanished">Повідомити про помилку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>Відкрити засіб відстеження помилок, щоб повідомити про помилку в %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Open %1 Matrix space</source>
         <translation>Відкрити %1 Matrix space</translation>
     </message>
@@ -4033,7 +4033,7 @@ Reason:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="400"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
         <source>Open %1 subreddit.</source>
         <translation>Відкрити %1 на Reddit.</translation>
     </message>
@@ -4042,18 +4042,18 @@ Reason:
         <translation type="vanished">Про %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="408"/>
         <source>View information about %1.</source>
         <translation>Переглянути інформацію про %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="501"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="500"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="878"/>
         <source>Help</source>
         <translation>Допомога</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="502"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="501"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Отримати допомогу з %1 або Minecraft.</translation>
     </message>
@@ -4062,7 +4062,7 @@ Reason:
         <translation type="vanished">Оновити</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
         <source>Check for new updates for %1.</source>
         <translation>Перевірити наявність нових оновлень для %1.</translation>
     </message>
@@ -4071,7 +4071,7 @@ Reason:
         <translation type="vanished">Мяу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="427"/>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>Це пухнасте кошеня :3</translation>
     </message>
@@ -4140,109 +4140,109 @@ Reason:
         <translation>За&amp;пустити</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="301"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="300"/>
         <source>Add Instanc&amp;e...</source>
         <translation>Додати з&amp;бірку...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="321"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="328"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="320"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="327"/>
         <source>F&amp;olders</source>
         <translation>&amp;Теки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="341"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="340"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation>&amp;Налаштування...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="348"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
         <source>&amp;Undo Last Instance Deletion</source>
         <translation>Скасувати останнє видалення збірки</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="355"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>&amp;Очистити кеш метаданих</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
         <source>Clear cached metadata</source>
         <translation>Очистити кешировані метадані</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="362"/>
         <source>Install to &amp;PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
         <source>Report a &amp;Bug...</source>
         <translation>Повідомити про &amp;помилку...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
         <source>&amp;Matrix Space</source>
         <translation>Простір &amp;Matrix</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="389"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discord-сервер</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="398"/>
         <source>Sub&amp;reddit</source>
         <translation>Сабреддіт</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="408"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="407"/>
         <source>&amp;About %1</source>
         <translation>Пр&amp;о %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="416"/>
         <source>&amp;Update...</source>
         <translation>&amp;Оновити…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="427"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="426"/>
         <source>&amp;Meow</source>
         <translation>&amp;Мяу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="435"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="434"/>
         <source>&amp;Manage Accounts...</source>
         <translation>&amp;Керувати обліковими записами...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="443"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="442"/>
         <source>Lock Toolbars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="448"/>
         <source>Themes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="531"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
         <source>&amp;File</source>
         <translation>&amp;Файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="550"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="547"/>
         <source>&amp;Edit</source>
         <translation>Редагувати</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="553"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="550"/>
         <source>&amp;View</source>
         <translation>&amp;Вид</translation>
     </message>
@@ -4251,34 +4251,34 @@ Reason:
         <translation type="vanished">&amp;Профілі</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="565"/>
         <source>&amp;Help</source>
         <translation>&amp;Довідка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="598"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="596"/>
         <source>Close &amp;Window</source>
         <translation>Закрити &amp;вікно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="599"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="597"/>
         <source>Close the current window</source>
         <translation>Закрити поточне вікно</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="606"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="604"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 &amp;Довідка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="614"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="605"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="613"/>
         <source>Open the %1 wiki</source>
         <translation>Відкрийте вікі %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="613"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="612"/>
         <source>%1 &amp;News</source>
         <translation>%1 &amp;Новини</translation>
     </message>
@@ -4726,12 +4726,12 @@ Are you sure?</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
         <source>Open %1 Discord guild.</source>
         <translation>Відкрити %1 Discord-сервер.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="564"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
         <source>&amp;Accounts</source>
         <translation type="unfinished"></translation>
     </message>
