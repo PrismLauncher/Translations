@@ -884,7 +884,7 @@ Please update both your operating system and PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="127"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>All mods found</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="129"/>
@@ -899,7 +899,7 @@ Please update both your operating system and PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="25"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Download Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="38"/>
