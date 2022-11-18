@@ -892,7 +892,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="127"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Mods gefunden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="129"/>
@@ -907,17 +907,17 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="25"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Download-Ordner hinzufügen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="38"/>
         <source>Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;br/&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dein konfigurierter globaler Mods-Ordner und der Standard-Download-Ordner werden automatisch auf die heruntergeladenen Mods überprüft und, falls gefunden, in die Instanz kopiert.&lt;br/&gt;Optional kannst Du die heruntergeladenen Mods per Drag &amp; Drop in dieses Fenster ziehen oder einen zu überwachenden Ordner hinzufügen, wenn Du die Mods nicht in die Standardordner heruntergeladen hast.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="92"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle das Verzeichnis, in das die Mods heruntergeladen wurden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="112"/>
@@ -936,7 +936,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="68"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Beobachtete Ordner:</translation>
     </message>
 </context>
 <context>
@@ -1709,7 +1709,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Die folgenden Mods sind für Drittanbieter-Launcher geblockt.&lt;br/&gt;Diese müssen manuell heruntergeladen werden und manuell zum Modpack hinzugefügt werden</translation>
+        <translation>Die folgenden Mods sind für Drittanbieter-Launcher geblockt.&lt;br/&gt;Diese müssen manuell heruntergeladen werden und manuell zum Modpack hinzugefügt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
