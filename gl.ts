@@ -4647,32 +4647,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="805"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="806"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID SESIÓN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="808"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="809"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TESTEMUÑA DE ACCESO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="812"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;TESTEMUÑA DO CLIENTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="813"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="814"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;IDENTIFICADOR DO PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="885"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="886"/>
         <source>broken</source>
         <translation>roto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="897"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="898"/>
         <source>Minecraft %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4681,17 +4681,17 @@ Are you sure?</source>
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="901"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
         <source>, last played for %1</source>
         <translation>, anteriormente xogárase durante %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="905"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="906"/>
         <source>, total played for %1</source>
         <translation>, en total xogado %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="910"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="911"/>
         <source>, has crashed.</source>
         <translation>, quebrou.</translation>
     </message>
@@ -7486,7 +7486,7 @@ Non se atopou un inheritsFrom</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="457"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="460"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -7497,22 +7497,22 @@ Non se atopou un inheritsFrom</translation>
 %4 total</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="475"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
         <source>Language</source>
         <translation>Idioma</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="482"/>
         <source>Completeness</source>
         <translation>Completado</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="489"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="492"/>
         <source>The native language name.</source>
         <translation>O nome da lingua materna.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="496"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>«Completado» é o porcentaxe de cadeas completamente traducidas, sen contar as creadas automáticamente.</translation>
     </message>

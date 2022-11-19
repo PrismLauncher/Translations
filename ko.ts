@@ -4809,32 +4809,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="805"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="806"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="808"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="809"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="811"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="812"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="813"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="814"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="885"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="886"/>
         <source>broken</source>
         <translation>손상됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="897"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="898"/>
         <source>Minecraft %1</source>
         <translation>마인크래프트 %1</translation>
     </message>
@@ -4843,17 +4843,17 @@ Are you sure?</source>
         <translation type="vanished">마인크래프트 %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="901"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
         <source>, last played for %1</source>
         <translation>, %1동안 지난 플레이함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="905"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="906"/>
         <source>, total played for %1</source>
         <translation>, 총 %1동안 플레이 함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="910"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="911"/>
         <source>, has crashed.</source>
         <translation>, 는 튕겼습니다.</translation>
     </message>
@@ -7704,7 +7704,7 @@ inheritsFrom 누락됨</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="457"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="460"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -7715,22 +7715,22 @@ inheritsFrom 누락됨</translation>
 전체: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="475"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
         <source>Language</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="482"/>
         <source>Completeness</source>
         <translation>완료됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="489"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="492"/>
         <source>The native language name.</source>
         <translation>언어의 이름.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="496"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>완료된 정도는 완전히 번역된 문장의 비율이며, 자동 번역 문장은 포함되지 않습니다.</translation>
     </message>
