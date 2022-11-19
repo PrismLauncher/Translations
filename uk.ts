@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Введіть тут власний ідентифікатор клієнта для автентифікації Microsoft. </translation>
+        <translation>Введіть тут власний ідентифікатор клієнта для автентифікації Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -1677,7 +1677,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Наступні моди були заблоковані в програмах запуску сторонніх розробників.&lt;br/&gt;Вам потрібно буде завантажити їх вручну та додати до пакета модів</translation>
+        <translation>Наступні моди були заблоковані в програмах запуску сторонніх розробників.&lt;br/&gt;Вам потрібно буде завантажити їх вручну та додати до пакета модів.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
