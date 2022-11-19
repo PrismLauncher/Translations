@@ -7650,7 +7650,7 @@ inheritsFrom hiányzik</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="451"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="457"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -7661,22 +7661,22 @@ inheritsFrom hiányzik</translation>
 %4 összesen</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="469"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="475"/>
         <source>Language</source>
         <translation>Nyelv</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="473"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
         <source>Completeness</source>
         <translation>Teljesség</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="489"/>
         <source>The native language name.</source>
         <translation>Az anyanyelv neve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="487"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>A teljesség a teljesen lefordított karakterláncok százalékos aránya, nem számítva az automatikusan kitaláltakat.</translation>
     </message>

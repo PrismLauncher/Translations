@@ -7554,7 +7554,7 @@ inheritsFrom is missing</source>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="451"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="457"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -7565,22 +7565,22 @@ inheritsFrom is missing</source>
 %4 kokku</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="469"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="475"/>
         <source>Language</source>
         <translation>Keel</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="473"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
         <source>Completeness</source>
         <translation>Valmidus</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="489"/>
         <source>The native language name.</source>
         <translation>Emakeele nimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="487"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Valmidus on täielikult tõlgitud stringide protsent, välja arvatud automaatselt pakutud tõlked.</translation>
     </message>

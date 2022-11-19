@@ -7727,7 +7727,7 @@ chybí inheritsFrom</translation>
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="451"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="457"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -7738,22 +7738,22 @@ chybí inheritsFrom</translation>
 %4 celkově</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="469"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="475"/>
         <source>Language</source>
         <translation>Jazyk</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="473"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
         <source>Completeness</source>
         <translation>Dokončenost</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="489"/>
         <source>The native language name.</source>
         <translation>Jméno nativního jazyku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="487"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Dokončenost je procento plně přeložených řetězců, automaticky uhodnuté řetězce nejsou připočítané k tomuto procentu.</translation>
     </message>
