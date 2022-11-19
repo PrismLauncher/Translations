@@ -868,7 +868,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="127"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Minden mod megtalálva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="129"/>
@@ -883,17 +883,17 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="25"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Letöltési mappa hozzáadása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="38"/>
         <source>Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;br/&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az ön által konfigurált globális modok mappa és az alapértelmezett letöltési mappa tartalma automatikusan ellenőrizve lesz a letöltött modok után, és ha megvannak át lesznek másolva a példány mappájába.&lt;br/&gt;Opcionálisan áthúzhatja a letöltött modokat erre a párbeszédpanelre, vagy hozzáadhat egy mappát a megtekintéshez, ha nem töltötte le a modokat egy alapértelmezett helyre.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="92"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Válassza ki a könyvtárat, ahova a modokat letöltötte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="112"/>
@@ -912,7 +912,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="68"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Figyelt mappák:</translation>
     </message>
 </context>
 <context>
@@ -1685,7 +1685,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">A következő modok le vannak tiltva a harmadik féltől származó launchereknek.&lt;br/&gt;Manuálisan kell letölteni őket, és úgy hozzáadni a modpackhoz</translation>
+        <translation>A következő modok le vannak tiltva a harmadik féltől származó launchereknek.&lt;br/&gt;Manuálisan kell letölteni őket, és úgy hozzáadni a modpackhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
@@ -4215,7 +4215,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="448"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Témák</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
@@ -4634,17 +4634,17 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2009"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 sikeresen hozzáadva a PATH-hoz. Most elindíthatja a(z) &quot;%2&quot; futtatásával.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2012"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 hozzáadása a PATH-hoz nem sikerült</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2013"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba történt, miközben megpróbálta hozzáadni a PATH-hoz a következőt: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2059"/>
