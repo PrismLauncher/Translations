@@ -875,7 +875,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
-        <translation>Профилировщик прерван</translation>
+        <translation>Профайлер остановлен</translation>
     </message>
 </context>
 <context>
@@ -898,7 +898,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="109"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Найдено в %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="25"/>
@@ -908,17 +908,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="38"/>
         <source>Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;br/&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроенная глобальная папка модов и папка загрузок по умолчанию автоматически проверяются на наличие загруженных модов, и они будут скопированы в данный экземпляр, если будут найдены.&lt;br/&gt;По желанию вы можете перетащить загруженные моды в это окно или добавить папку для проверки, если вы не загрузили моды в папку по умолчанию.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="92"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите каталог, в который вы скачали моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="112"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718; Не найдено &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="114"/>
@@ -1705,7 +1705,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Эти моды были заблокированы на сторонних лаунчерах.&lt;br/&gt;Вам нужно скачать их вручную и добавить их сборку</translation>
+        <translation>Эти файлы недоступны для сторонних лаунчерах.&lt;br/&gt;Вам нужно скачать их вручную и добавить их сборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
@@ -1715,7 +1715,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирование заблокированных модов (%1 из %2 выполнены)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="450"/>
@@ -4264,12 +4264,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="362"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить в &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Установите символическую ссылку prismlauncher в /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
@@ -4314,12 +4314,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="442"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished">Заблокировать панели инструментов</translation>
+        <translation>Заблокировать панели инструментов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="448"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Темы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
@@ -4742,22 +4742,22 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2008"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Успешно добавлен %1 в PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2009"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 был успешно добавлен в ваш PATH. Теперь вы можете запустить его, выполнив `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2012"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось добавить %1 в PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2013"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при попытке добавить %1 в PATH</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -5803,7 +5803,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="370"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирование заблокированных модов (%1 из %2 выполнены)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
