@@ -1705,7 +1705,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Poniższe mody zostały zablokowane launcherach firm trzecich.&lt;br/&gt;Będziesz musiał je ręcznie pobrać i dodać do modpacka</translation>
+        <translation>Poniższe mody zostały zablokowane launcherach firm trzecich.&lt;br/&gt;Będziesz musiał je ręcznie pobrać i dodać do modpacka.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
