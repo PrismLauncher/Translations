@@ -904,7 +904,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="38"/>
         <source>Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;br/&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.</source>
-        <translation>软件会自动检查您配置的全局模组文件夹和默认下载文件夹中是否有下载的模组，如果找到的话，它们将被复制到实例中。&lt;br/&gt;或者，您可以将下载的模组拖放到此对话框中，或者如果您没有将模组下载到默认位置，可以自定义要监视的文件夹。</translation>
+        <translation>软件会自动检查您配置的全局模组文件夹和默认下载文件夹中是否有下载的模组，如果找到的话，它们将被复制到实例中。&lt;br/&gt;您也可以将下载的模组拖放到此对话框中，或者如果没有将模组下载到默认位置，您可以自定义要监视的文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="92"/>
