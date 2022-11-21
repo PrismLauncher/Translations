@@ -1194,7 +1194,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
