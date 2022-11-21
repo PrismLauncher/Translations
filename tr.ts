@@ -661,6 +661,26 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1634"/>
+        <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1638"/>
+        <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1644"/>
+        <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/Application.cpp" line="1686"/>
+        <source>Migration failed! Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AssetUpdateTask</name>
@@ -1163,6 +1183,35 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
         <translation>Özel Komutlar</translation>
+    </message>
+</context>
+<context>
+    <name>DataMigrationTask</name>
+    <message>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
+        <source>Scanning files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
+        <source>Failed to scan source path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
+        <source>Copying %1…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
+        <source>Aborted</source>
+        <translation type="unfinished">İptal edildi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
+        <source>Some paths could not be copied!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2162,12 +2211,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>%1 profili kopyalanıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="42"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="44"/>
         <source>Instance folder copy failed.</source>
         <translation>Profil dosyası kopyalama işlemi başarısız.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="59"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="61"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Profil dosyası kopyalama işlemi iptal edildi.</translation>
     </message>
