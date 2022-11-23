@@ -491,11 +491,11 @@
             "untranslated" : 327
         },
         "zh" : {
-            "file" : "e28a0bc206454caf29b21b1620ea730637a4fd1a.class",
-            "sha1" : "e28a0bc206454caf29b21b1620ea730637a4fd1a",
-            "size" : 147039,
-            "translated" : 1447,
-            "fuzzy" : 0,
+            "file" : "3cd7ebc47671d4f2db00c732aa5b5a67b10c9877.class",
+            "sha1" : "3cd7ebc47671d4f2db00c732aa5b5a67b10c9877",
+            "size" : 147033,
+            "translated" : 1444,
+            "fuzzy" : 3,
             "untranslated" : 0
         },
         "zh_TW" : {
