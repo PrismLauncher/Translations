@@ -6892,16 +6892,16 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
         <translation>Vérification de Java réussie !&lt;br /&gt;Plateforme détectée : %1&lt;br /&gt;Version de Java détectée : %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <source>Java test success</source>
         <translation>Vérification de Java réussie</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <source>Java test failure</source>
         <translation>Vérification de Java échouée</translation>
     </message>

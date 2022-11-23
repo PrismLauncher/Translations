@@ -6606,16 +6606,16 @@ Choose your name carefully:</source>
         <translation>Javaのテストに成功しました！&lt;br /&gt;プラットフォーム: %1&lt;br /&gt;Javaバージョン: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <source>Java test success</source>
         <translation>Javaのテストに成功しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <source>Java test failure</source>
         <translation>Javaのテストに失敗しました</translation>
     </message>

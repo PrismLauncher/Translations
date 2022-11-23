@@ -6610,16 +6610,16 @@ Choose your name carefully:</source>
         <translation>Pasouse a proba de Java!&lt;br /&gt;Plataforma indicada: %1&lt;br /&gt;Versión de Java indicada: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <source>Java test success</source>
         <translation>Pasouse a proba de Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="327"/>
         <source>Java test failure</source>
         <translation>Fallou a proba de Java</translation>
     </message>
