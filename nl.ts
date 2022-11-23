@@ -1726,7 +1726,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="340"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Kon mod-ID&apos;s niet bepalen:
+        <translation>Kan mod-ID&apos;s niet ophalen:
 </translation>
     </message>
     <message>
