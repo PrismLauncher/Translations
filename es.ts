@@ -676,22 +676,22 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1634"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Información anterior de %1 fue encontrada, pero ya tienes datos para %2. Lamentablemente deberás migrarla por tu cuenta. ¿Deseas ser recordado de la migración de tus datos pendientes la próxima vez que inicies %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1638"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Parece que ya usaste %1 anteriormente. ¿Deseas migrar tus datos a la nueva ubicación de %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1644"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Parece que ya usaste %1 en %2 anteriormente. ¿Deseas migrar tus datos a la nueva ubicación de %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1686"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Migración fallida! Motivo: %1</translation>
     </message>
 </context>
 <context>
@@ -912,22 +912,22 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="127"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los mods encontrados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="129"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor descarga los mods faltantes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="109"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Encontrado en %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="25"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Añade folder de descargas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="38"/>
@@ -937,17 +937,17 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="92"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona el directorio donde descargaste los mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="112"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; No encontrado &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="114"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="68"/>
