@@ -13,17 +13,17 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Alglui Servo &amp; Tipo</translation>
+        <translation>&amp;Tipo de Algluado-Servo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Bazo &amp;URL</translation>
+        <translation>Baza &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Noto: vi verŝajnen vol ŝanĝi aŭ klara la Bazo URL post ŝanĝanta la alglui servo tipo.</translation>
+        <translation>Noto: vi verŝajne volas ŝanĝi aŭ malplenigi na la Baza URL post ŝanĝado de la tipo de la algluado-servo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -34,12 +34,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft Aŭtentikigo</translation>
+        <translation>&amp;Microsoft-Aŭtentigo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Noto: Vi probable ne bezonas agordi ĉi tio se ensaluti tra Mocrosoft Aŭtentikigo jam funkcias.</translation>
+        <translation>Noto: Vi probable ne bezonas ŝalti ĉi tion se ensaluti tra Microsoft-Aŭtentigo jam funkcias.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Enigu personigita Kliento ID por Microsoft Aŭtentikigo ĉi tie.</translation>
+        <translation>Enigu propran Kliento-ID por Microsoft-Aŭtentigo ĉi tie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -66,38 +66,38 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Enigu personecigita Klienta Aplikaĵo ĉi tie. La special ĉeno $LAUNCHER_VER estos anstataŭigita per la versio de la lanĉilo.</translation>
+        <translation>Enigu propran Klientan Aplikaĵon ĉi tie. La speciala ĉeno $LAUNCHER_VER estos anstataŭigita per la versio de la lanĉilo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Meta&amp;datumoj Servilo</translation>
+        <translation>Servilo de Meta&amp;datumoj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished">Vi povis fiksi ĉi tio al tria-partio metadatumo servilo por uzi flikitaj bibliotekoj aŭ alia enrompoj.</translation>
+        <translation>Vi povis fiksi ĉi tion al metadatuma servilo de tria-partio por uzi flikitajn bibliotekojn aŭ alia kodumojn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Enigu personecigita URL por meta ĉi tie.</translation>
+        <translation>Enigu propran URL por meta ĉi tie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge kerno API</translation>
+        <translation>Kerna API de &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Noto: Vi probable ne bezonis agordi ĉi tio se CurseForge jam funkcias.</translation>
+        <translation>Noto: Vi probable ne devas agordi ĉi tion se CurseForge jam funkcias.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Enigu personigita API-Ŝlosilo por CurseForge ĉi tie.</translation>
+        <translation>Enigu propran API-Ŝlosilon por CurseForge ĉi tie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -111,18 +111,18 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ne povus kompreni pakan manifeston:
+        <translation>Ne povis kompreni pakan manifeston:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Malsuktesis akiri lokan metadatuman indekson por %1</translation>
+        <translation>Malsukcesis akiri lokan metadatuman indekson por %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="149"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Malsuktesis akiri lokan metadatuman indekson por &apos;%1&apos; v%2</translation>
+        <translation>Malsukcesis akiri lokan metadatuman indekson por &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
@@ -255,17 +255,17 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Konstruo Dato:</translation>
+        <translation>Dato de Versio:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished">Enmeti</translation>
+        <translation>Enmeto:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation>Kanala:</translation>
+        <translation>Kanalo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
@@ -285,7 +285,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation>Fermu</translation>
+        <translation>Fermi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="132"/>
@@ -295,12 +295,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="153"/>
         <source>Commit: %1</source>
-        <translation type="unfinished">Enmeti: %1</translation>
+        <translation>Enmeto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Build date: %1</source>
-        <translation>Konstruo Dato: %1</translation>
+        <translation>Dato de Versio: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -309,7 +309,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="148"/>
         <source>Platform</source>
-        <translation>Platforma</translation>
+        <translation>Platformo</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -318,7 +318,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="163"/>
         <source>Channel</source>
-        <translation>Kanala</translation>
+        <translation>Kanalo</translation>
     </message>
 </context>
 <context>
@@ -327,7 +327,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>Nemarkita</translation>
+        <translation>Ne kontrolita</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
@@ -350,13 +350,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Funkcii</translation>
+        <translation>Funkcias</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Eraris</translation>
+        <translation>Eraris</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
@@ -422,7 +422,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft uzantnomo asociita kun la konto.</translation>
+        <translation>Minecraft-uzantnomo asociita kun la konto.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -441,13 +441,13 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished">Ĉu tiun ĉi konton migras al Microsoft konto?</translation>
+        <translation>Nuna statuso de la konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Nomo de la Minecraft profilo asociita kun la konto.</translation>
+        <translation>Ĉu ĉi tiu konto povas migri al Microsoft-konto?</translation>
     </message>
 </context>
 <context>
@@ -456,65 +456,65 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">Aldonu Mojang</translation>
+        <translation>Aldoni &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Forigu</translation>
+        <translation>Fo&amp;rigi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">Uzu kiel defaŭltan</translation>
+        <translation>&amp;Uzi kiel Defaŭltan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">Ne estas defaŭlta</translation>
+        <translation>&amp;Ne estas Defaŭlta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished">Alŝutu haŭton</translation>
+        <translation>&amp;Alŝuti haŭton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished">Forigu haŭton</translation>
+        <translation>&amp;Forigi haŭton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation>Forigu nune aktivan haŭton kaj revenu al la defaŭltan</translation>
+        <translation>Forigi nune aktivan haŭton kaj reveni al la defaŭltan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished">Aldonu Microsoft</translation>
+        <translation>Aldoni M&amp;icrosoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Aldonu &amp;Eksterrete</translation>
+        <translation>Aldoni &amp;Eksterretan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">Refreŝu</translation>
+        <translation>Refr&amp;eŝi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation>Refreŝu la ĵetonojn de la konto</translation>
+        <translation>Refreŝi la ĵetonojn de la konto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
@@ -526,12 +526,12 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Bonvenon!
-Se vi estas nova ĉi tie, vi povas alklaki &quot;Aldonu&quot; por aldoni vian Mojang aŭ Minecraft konto.</translation>
+Se vi estas nova ĉi tie, vi povas alklaki &quot;Aldoni&quot; por aldoni vian Mojang aŭ Minecraft konton.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Neniu Microsoft Aŭtentikiga kliento-ID estis agordita.</translation>
+        <translation>Neniu Microsoft-Aŭtentiga kliento-ID estis agordita.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -542,12 +542,12 @@ Se vi estas nova ĉi tie, vi povas alklaki &quot;Aldonu&quot; por aldoni vian Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Bonvolu enigi retpoŝtadreso de via Mojang konto kaj via pasvorto por aldoni vian konton.</translation>
+        <translation>Bonvolu enigi la retpoŝtadreson kaj pasvorton de via Mojang-konto por aldoni vian konton.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation>Microsoft Kontoj maldisponeblas</translation>
+        <translation>Microsoft-Kontoj ne disponeblas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -555,14 +555,14 @@ Se vi estas nova ĉi tie, vi povas alklaki &quot;Aldonu&quot; por aldoni vian Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Microsoft Konto estas nur uszebla en macOS 10.13 aŭ pli nova, kun plene ĝisdatigita % 1.
+        <translation>Microsoft Konto estas nur uzebla en macOS 10.13 aŭ pli nova, kun plene ĝisdatigita %1.
 
-Bonvolu ĝisdatigo ambaŭ via operaciumo kaj % 1.</translation>
+Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished">Eraro</translation>
+        <translation>Eraro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
@@ -572,12 +572,12 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj % 1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Bonvolu enigi vian deziratan uzantnomon por aldoni vian eksterretejan konton.</translation>
+        <translation>Bonvolu enigi vian deziratan uzantnomon por aldoni vian eksterretan konton.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation>Forigu Haŭton</translation>
+        <translation>Forigi Haŭton</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -590,17 +590,17 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj % 1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
-        <translation>Sendas peton al auth serviloj...</translation>
+        <translation>Sendas peton al auth-serviloj...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
-        <translation>Aŭtentikiga tasko sukcesis.</translation>
+        <translation>Aŭtentiga tasko sukcesis.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Malsukcesis kontakti la aŭtentikigan servilon.</translation>
+        <translation>Malsukcesis kontakti la aŭtentigan servilon.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
@@ -610,17 +610,17 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj % 1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
-        <translation>Renkontita eraron dum aŭtentikigo.</translation>
+        <translation>Renkontis eraron dum aŭtentigado.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>Malsukcesis aŭtentiki. La kunsido eksvalidiĝis.</translation>
+        <translation>Malsukcesis aŭtentigi. La kunsido eksvalidiĝis.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Malsukcesis aŭtentikigi. La konto ne plu ekzistas.</translation>
+        <translation>Malsukcesis aŭtentigi. La konto ne plu ekzistas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
@@ -630,7 +630,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj % 1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation>Nekonata konto-tasko stato: %1</translation>
+        <translation>Nekonata stato de konto-tasko: %1</translation>
     </message>
 </context>
 <context>
@@ -648,22 +648,22 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj % 1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1634"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Trovis malnovajn datumojn el %1, sed vi jam havas ekzistantajn datumojn por %2. Malfeliĉe, vi devos migri mem. Ĉu vi volas esti memorigita pri la pritraktota migrado ĉe la sekva fojo, kiam vi komencas na %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1638"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Videble, vi uzis na %1 antaŭe. Ĉu vi volas migri viajn datumojn al la nova loko de %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1644"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Videble, vi uzis na %1 en %2 antaŭe. Ĉu vi volas migri viajn datumojn al la nova loko de %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1686"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Migrado malsukcesis! Kialo: %1</translation>
     </message>
 </context>
 <context>
