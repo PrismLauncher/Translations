@@ -3821,7 +3821,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
         <source>Bottom</source>
-        <translation>All</translation>
+        <translation>Allserv</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
