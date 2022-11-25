@@ -673,12 +673,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1638"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished">似乎曾经使用过 %1，是否需要将你的数据迁移到 %2 的新位置？</translation>
+        <translation>你似乎曾经使用过 %1。是否需要将你的数据迁移到 %2 的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1644"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished">似乎曾经在 %2 使用过 %1，是否需要将你的数据迁移到 %3 的新位置？</translation>
+        <translation>似乎曾经在 %2 使用过 %1。是否需要将你的数据迁移到 %3 的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1686"/>
