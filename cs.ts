@@ -4205,12 +4205,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit zástupce</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoří na ploše zástupce pro spuštění vybrané instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="796"/>
@@ -4790,36 +4790,36 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit zástupce instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se nalézt plochu?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spouštěč je ve složce, ze které byl rozbalen, a proto nemůže vytvářet zástupce.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2199"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2247"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2289"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Na ploše byl vytvořen zástupce této instance!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2252"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytvořit zástupce instance!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2212"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Spouštěč je spuštěn jako špatně nakonfigurovaný AppImage? (chybí proměnná prostředí $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
@@ -4827,12 +4827,12 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2270"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2282"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytvořit ikonu zástupce.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Není podporováno na vaší platformě!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2396"/>
