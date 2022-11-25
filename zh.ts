@@ -668,7 +668,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1634"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished">发现了来自于 %1 的旧数据，但是你已经拥有属于 %2 的新数据，因此你需要自己进行迁移。是否需要在下次启动 %2 时提醒待处理的数据迁移？</translation>
+        <translation>找到了来自于 %1 的旧数据，但你已经有了属于 %2 的现存数据，因此你需要自己进行迁移。是否需要在下次启动 %2 时提醒有待处理的数据迁移？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1638"/>
