@@ -676,22 +676,22 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1634"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Es wurden alte Daten von %1 gefunden, jedoch bestehen bereits Daten für %2. Leider muss die Migration selbst durchgeführt werden. Möchtest du beim nächsten Start von %2 an die anstehende Datenmigration erinnert werden?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1638"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Es sieht so aus, als hättest du zuvor %1 verwendet. Möchtest du die Daten zum neuen Speicherort von %2 migrieren?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1644"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Es sieht so aus, als hättest du zuvor %1 am %2 verwendet. Möchtest du die Daten zum neuen Speicherort von %3 migrieren?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1686"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Migration fehlgeschlagen! Grund: %1</translation>
     </message>
 </context>
 <context>
@@ -932,7 +932,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="38"/>
         <source>Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;br/&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.</source>
-        <translation type="unfinished">Dein konfigurierter globaler Mods-Ordner und der Standard-Download-Ordner werden automatisch auf die heruntergeladenen Mods überprüft und, falls gefunden, in die Instanz kopiert.&lt;br/&gt;Optional kannst Du die heruntergeladenen Mods per Drag &amp; Drop in dieses Fenster ziehen oder einen zu überwachenden Ordner hinzufügen, wenn Du die Mods nicht in die Standardordner heruntergeladen hast.</translation>
+        <translation>Dein konfigurierter globaler Mods-Ordner und der Standard-Download-Ordner werden automatisch auf die heruntergeladenen Mods überprüft, welche, falls gefunden, in die Instanz kopiert werden.&lt;br/&gt;Optional kannst Du die heruntergeladenen Mods per Drag &amp; Drop in dieses Fenster ziehen oder einen zu überwachenden Ordner hinzufügen, wenn Du die Mods nicht in die Standardordner heruntergeladen hast.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="92"/>
@@ -1202,28 +1202,28 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanne Dateien...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Quellpfad konnte nicht gescannt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abgebrochen</translation>
+        <translation>Abgebrochen</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Einige Pfade konnten nicht kopiert werden!</translation>
     </message>
 </context>
 <context>
@@ -3389,12 +3389,12 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Breeze Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Breeze Hell</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Breeze Dunkel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -4271,12 +4271,12 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Verknüpfung erstellen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellt eine Verknüpfung auf dem Desktop, um die ausgewählte Instanz zu starten.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="796"/>
@@ -4864,36 +4864,36 @@ Bist du dir sicher?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanz-Verknüpfung erstellen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop nicht gefunden?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Launcher befindet sich in dem Ordner, aus dem er extrahiert wurde, weshalb keine Verknüpfungen erstellt werden kann.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2199"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2247"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2289"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Verknüpfung zu dieser Instanz wurde auf dem Desktop erstellt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2252"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanz-Verknüpfung konnte nicht erstellt werden!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2212"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Launcher wird als falsch konfiguriertes AppImage ausgeführt? (die Umgebungsvariable $APPIMAGE fehlt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
@@ -4901,12 +4901,12 @@ Bist du dir sicher?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2270"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2282"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbol für Verknüpfung konnte nicht erstellt werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf Deiner Plattform nicht unterstützt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2396"/>
