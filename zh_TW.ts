@@ -7439,7 +7439,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="495"/>
         <source>This will delete all selected screenshots.</source>
-        <translation>這將會刪除全部的螢幕擷圖。</translation>
+        <translation>這將會刪除全部選中的螢幕擷圖。</translation>
     </message>
 </context>
 <context>
