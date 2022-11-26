@@ -4235,12 +4235,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>创建快捷方式</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>在你的桌面上创建启动此Minecraft实例的快捷方式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="796"/>
@@ -4833,7 +4833,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>你连桌面都找不到？！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
@@ -4845,14 +4845,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2247"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2289"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>在你的桌面上创建一个启动这个实例的快捷方式！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2252"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建失败：(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2212"/>
