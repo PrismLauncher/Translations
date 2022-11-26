@@ -1684,7 +1684,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="396"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">The fowwowing mods wewe bwocked on thiwd pawty wawty waunchews.&lt;br/&gt;You wiww nyeed to manyuawwy wanyuawwy downwoad them and add them to the m-modpack</translation>
+        <translation type="unfinished">The fowwowing mods wewe bwocked on thiwd pawty wawty waunchews.&lt;br/&gt;You wiww nyeed to manyuawwy wanyuawwy downwoad them and add them to the m-modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
