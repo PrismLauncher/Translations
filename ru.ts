@@ -908,7 +908,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="127"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Все моды найдены</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="129"/>
@@ -923,7 +923,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="25"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить папку загрузки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="38"/>
@@ -943,7 +943,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="114"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Хэш: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <source>All mods found ✔</source>
@@ -952,7 +952,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="68"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотренные папки:</translation>
     </message>
 </context>
 <context>
@@ -4864,12 +4864,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать ярлык сборки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось найти рабочий стол?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
@@ -4881,14 +4881,14 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2247"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2289"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ярлык сборки создан на вашем рабочем столе!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2252"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось создать ярлык сборки!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2212"/>
@@ -4901,12 +4901,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2270"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2282"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось создать иконку для ярлыка.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не поддерживается на вашей платформе!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2396"/>
