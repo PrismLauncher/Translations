@@ -802,7 +802,7 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Serĉu kaj filtru...</translation>
     </message>
     <message>
         <source>ATLauncher</source>
