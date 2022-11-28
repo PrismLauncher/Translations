@@ -657,7 +657,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1638"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Úgy tűnik, korábban használta a(z) %1. Szeretné áttelepíteni adatait a(z) %2 új helyre?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1644"/>
@@ -667,7 +667,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1686"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Áttelepítés nem sikerült! Ok: %1</translation>
     </message>
 </context>
 <context>
@@ -1178,17 +1178,17 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlok beolvasása...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült beolvasni a forrás elérési útját.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 másolása…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
@@ -1199,7 +1199,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyes útvonalakat nem sikerült átmásolni!</translation>
     </message>
 </context>
 <context>
@@ -4167,12 +4167,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Parancsikon létrehozása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parancsikont hoz létre az asztalon a kiválasztott példány elindításához.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="796"/>
@@ -4747,36 +4747,36 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Példány parancsikon létrehozása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem találtad az asztalt?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az launcher abban a mappában található, amelyből kicsomagolta, ezért nem tud parancsikonokat létrehozni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2199"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2247"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2289"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Létrehozott egy parancsikont ehhez a példányhoz az asztalon!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2203"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2252"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült létrehozni a példány parancsikonját!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2212"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>A launcher rosszul konfigurált AppImage-ként fut? (A $APPIMAGE környezeti változó hiányzik)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
@@ -4784,12 +4784,12 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2270"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2282"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült létrehozni a parancsikon ikonját.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem támogatott az ön platformján!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2396"/>
