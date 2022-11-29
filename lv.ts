@@ -13,17 +13,17 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ielīmēt pakalpojumu &amp;Type</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Bāze &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piezīme: iespējams, vēlaties mainīt vai notīrīt pamata URL pēc ielīmēšanas pakalpojumu veida maiņas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -51,12 +51,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Ievadi pielāgotu klienta ID priekš Microsoft Autentifikācijas šeit. </translation>
+        <translation>Ievadi pielāgotu klienta ID priekš Microsoft Autentifikācijas šeit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Citi</translation>
+        <translation>Citi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta&amp;data Serveris</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -255,7 +255,7 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Būvējuma numurs:</translation>
+        <translation>Būvējuma numurs:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
@@ -300,7 +300,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Būvēšanas datums: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -344,7 +344,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gatavs</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
@@ -368,7 +368,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Atspējots</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
@@ -397,7 +397,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotājvārds</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
@@ -422,7 +422,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft lietotājvārds, kas saistīts ar kontu.</translation>
     </message>
     <message>
         <source>Profile</source>
