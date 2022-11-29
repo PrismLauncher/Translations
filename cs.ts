@@ -28,7 +28,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>API klíče</translation>
+        <translation>Klíče API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -235,7 +235,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation>O Programu</translation>
+        <translation>O programu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
@@ -286,7 +286,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="132"/>
         <source>About %1</source>
-        <translation>O aplikaci %1</translation>
+        <translation>O programu %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="148"/>
@@ -503,7 +503,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>Přidat &amp;offline</translation>
+        <translation>Přidat &amp;offline účet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -542,7 +542,7 @@ Pokud jste zde nový, svůj Mojang nebo Microsoft účet můžete přidat kliknu
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Zadejte prosím email a heslo Mojang účtu.</translation>
+        <translation>Zadejte prosím e-mail a heslo k vašemu Mojang účtu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -1084,7 +1084,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
         <source>Copy shader packs</source>
-        <translation>Kopírovat shader packy</translation>
+        <translation>Kopírovat balíčky shaderů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
@@ -1094,7 +1094,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
         <source>Copy resource packs</source>
-        <translation>Kopírovat resource packy</translation>
+        <translation>Kopírovat balíčky zdrojů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
@@ -1104,7 +1104,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
         <source>Copy screenshots</source>
-        <translation>Kopírovat screenshoty</translation>
+        <translation>Kopírovat snímky obrazovky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
@@ -1229,7 +1229,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="33"/>
         <source>Email</source>
-        <translation>E-mailová adresa</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="43"/>
@@ -2798,13 +2798,13 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="175"/>
         <source>JVM arguments:</source>
-        <translation>JVM argumenty:</translation>
+        <translation>Argumenty JVM:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="191"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Cesta &amp;Javy:</translation>
+        <translation>Cesta k &amp;Java:</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -3947,7 +3947,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="39"/>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
@@ -4103,7 +4103,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
         <source>Open %1 Matrix space</source>
-        <translation>Otevřít %1 Matrix space</translation>
+        <translation>Otevřít prostor Matrix %1</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -4156,7 +4156,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="429"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>Jedna načechraná kočička :3</translation>
+        <translation>Chlupatá kočička :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -4277,7 +4277,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
         <source>Report a &amp;Bug...</source>
-        <translation>Nahlásit &amp;bug...</translation>
+        <translation>Nahlásit &amp;chybu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
@@ -4287,7 +4287,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
         <source>&amp;Discord Guild</source>
-        <translation>&amp;Discord Server</translation>
+        <translation>&amp;Discord server</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="400"/>
@@ -4297,7 +4297,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
         <source>&amp;About %1</source>
-        <translation>O %1</translation>
+        <translation>&amp;O programu %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
@@ -4673,7 +4673,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1421"/>
         <source>No Default Account</source>
-        <translation>Žádný výchozí učet</translation>
+        <translation>Žádný výchozí účet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1425"/>
@@ -4726,7 +4726,7 @@ Prosít přidejte váš Mojang nebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1901"/>
         <source>Enter a new group name.</source>
-        <translation>Zadejte jméno nové skupiny.</translation>
+        <translation>Zadejte nový název skupiny.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1923"/>
@@ -4881,7 +4881,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="392"/>
         <source>Open %1 Discord guild.</source>
-        <translation>Otevřít %1 Discord server.</translation>
+        <translation>Otevřít Discord server %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="563"/>
@@ -5109,7 +5109,7 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="218"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>Zavřít okno launcheru po zapnutí hry</translation>
+        <translation>&amp;Zavřít okno launcheru po zapnutí hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
@@ -5121,7 +5121,7 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>&amp;Quit the launcher after game window closes</source>
         <oldsource>Quit the launcher after game window closes</oldsource>
-        <translation>Ukončit launcher po vypnutí hry</translation>
+        <translation>&amp;Ukončit launcher po vypnutí hry</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
@@ -6371,7 +6371,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Kopírovat celý log do schránky</translation>
+        <translation>Kopírovat celý protokol do schránky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="70"/>
@@ -6479,7 +6479,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="65"/>
         <source>Other logs</source>
-        <translation>Další logy</translation>
+        <translation>Další protokoly</translation>
     </message>
 </context>
 <context>
@@ -6707,7 +6707,7 @@ Vyber si dobře svoje jméno:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="18"/>
         <source>Please wait...</source>
-        <translation>Prosím čekejte...</translation>
+        <translation>Čekejte prosím...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
@@ -7351,18 +7351,18 @@ Nový název: %2</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation>Kopírovat Obrázek</translation>
+        <translation>Kopírovat obrázek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation>Kopírovat Soubor(y)</translation>
+        <translation>Kopírovat soubor(y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
         <source>Screenshots</source>
-        <translation>Screenshoty</translation>
+        <translation>Snímky obrazovky</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="322"/>
@@ -7373,7 +7373,7 @@ Nový název: %2</translation>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="396"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="436"/>
         <source>Failed to upload screenshots!</source>
-        <translation>Nepodařilo se nahrát screenshoty!</translation>
+        <translation>Nepodařilo se nahrát snímky obrazovky!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="397"/>
@@ -7390,22 +7390,22 @@ Nový název: %2</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="407"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;odkaz na nahraný snímek&lt;/a&gt; byl vložen do vaší schránky.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Odkaz na nahraný snímek&lt;/a&gt; byl zkopírován do vaší schránky.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;odkaz na nahrané album&lt;/a&gt; byl vložen do vaší schránky.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Odkaz na nahrané album&lt;/a&gt; byl zkopírován do vaší schránky.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="495"/>
         <source>Are you sure?</source>
-        <translation>Jste si jistí?</translation>
+        <translation>Opravdu?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="495"/>
         <source>This will delete all selected screenshots.</source>
-        <translation>Tato akce odstraní všechny vybrané screenshoty.</translation>
+        <translation>Tato akce odstraní všechny vybrané snímky obrazovky.</translation>
     </message>
 </context>
 <context>
@@ -8758,7 +8758,7 @@ Možná je nutné ho přeinstalovat.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="398"/>
         <source>Copy World</source>
-        <translation>Kopírovat Svět</translation>
+        <translation>Kopírovat svět</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="380"/>
