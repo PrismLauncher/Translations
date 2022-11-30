@@ -1400,12 +1400,12 @@ Please update both your operating system and %1.</source>
         <translation>Спробувати знайти або оновити всі обрані ресурси (всі ресурси якщо жоден не обраний)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="62"/>
         <source>Context menu</source>
         <translation>Контекстне меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="136"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Обрати %1</translation>

@@ -1400,12 +1400,12 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <translation>Försök att kontrollera eller uppdatera alla utvalda resurser (alla resurser om ingen är vald)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="62"/>
         <source>Context menu</source>
         <translation type="unfinished">Kontextmeny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="136"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation type="unfinished">Välj %1</translation>

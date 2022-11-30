@@ -1428,12 +1428,12 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
         <translation>Intente verificar o actualizar todos los recursos seleccionados (todos los recursos si no se selecciona ninguno)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="62"/>
         <source>Context menu</source>
         <translation>Menú contextual</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="136"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Seleccionar %1</translation>

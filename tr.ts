@@ -1420,12 +1420,12 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <translation>Tüm seçili kaynakları kontrol etmeyi veya güncellemeyi dene (hiçbiri seçilmediyse tüm kaynaklar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="62"/>
         <source>Context menu</source>
         <translation>İçerik menüsü</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="136"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Seç %1</translation>

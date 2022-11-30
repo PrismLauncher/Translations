@@ -1404,12 +1404,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
         <translation>Forsøg at kontrollere eller opdatere alle valgte resurser (alle resurser om ingen er valgt)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="62"/>
         <source>Context menu</source>
         <translation>Kontekstmenu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="136"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Vælg %1</translation>
