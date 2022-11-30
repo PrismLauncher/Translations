@@ -1688,12 +1688,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="201"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>인덱스 파일이 없음.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="202"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 버전에 적합한 인덱스 파일을 찾을 수 없습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 진행하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="249"/>
@@ -1743,12 +1743,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>차단된 모드 복사중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>차단된 모드 복사 중 (%1 / %2)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="450"/>
@@ -2231,17 +2231,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>설치 설정을 만드는 동안 오류가 발생했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="39"/>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished"></translation>
+        <translation>오래된 충돌 파일 제거중...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="48"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished"></translation>
+        <translation>오래된 충돌 파일을 제거하지 못했습니다.</translation>
     </message>
 </context>
 <context>
@@ -2641,12 +2641,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="360"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템에서 Feral Interactive의 게임모드를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="365"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템에서 MangoHud를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="386"/>
@@ -2687,7 +2687,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>데모 실행</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -3004,12 +3004,12 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Continue launch?</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 하는데 실패하였습니다. 계속 시도하시겠습니까? / 실행 시도 횟수 : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
@@ -3024,7 +3024,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="191"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>데모 모드 플레이어의 이름을 정하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="228"/>
@@ -3372,12 +3372,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="376"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished"></translation>
+        <translation>고양이 배경화면 (MultiMC에서 가져옴)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (Ashtaka가 그림)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
@@ -3680,12 +3680,12 @@ Flatseal을 통해 PolyMC에 접근 권한을 부여하는 것이 좋습니다.<
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>작업이 중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -3834,7 +3834,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>잘못된 meta 데이터</translation>
     </message>
 </context>
 <context>
@@ -4179,37 +4179,37 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;편집...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="740"/>
         <source>&amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;폴더</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="747"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished"></translation>
+        <translation>내보네기... (&amp;X)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="755"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished"></translation>
+        <translation>삭제 (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="764"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished"></translation>
+        <translation>복사... (&amp;Y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>바로가기 만들기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>바탕 화면에 바로 가기를 생성하여 선택한 설치 설정을 시작합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="796"/>
@@ -4251,22 +4251,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>마지막 설치 설정 삭제 되돌리기 (&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta 데이터 캐시 삭제 (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="358"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>캐시된 Meta 데이터 지우기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>경로에 설치하기 (&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
