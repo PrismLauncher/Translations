@@ -4637,7 +4637,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1249"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">데모 실행</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1250"/>
@@ -4697,12 +4697,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1708"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">작업이 중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1708"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
@@ -5134,12 +5134,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">시스템에서 Feral Interactive의 게임모드를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">시스템에서 MangoHud를 찾을 수 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -5828,12 +5828,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="357"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">차단된 모드 복사중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="370"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">차단된 모드 복사 중 (%1 / %2)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -5957,12 +5957,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="141"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">인덱스 파일이 없음.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이전 버전에 적합한 인덱스 파일을 찾을 수 없습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 진행하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
