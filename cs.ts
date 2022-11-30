@@ -2666,12 +2666,12 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="465"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximální přidělení paměti přesahuje kapacitu systémové paměti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="468"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
     </message>
 </context>
 <context>
@@ -2872,12 +2872,12 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximální přidělení paměti přesahuje kapacitu systémové paměti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
     </message>
 </context>
 <context>
@@ -2945,12 +2945,12 @@ Verzi Javy můžete později změnit v nastavení.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximální přidělení paměti přesahuje kapacitu systémové paměti.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaše maximální přidělení paměti se blíží kapacitě systémové paměti.</translation>
     </message>
 </context>
 <context>
@@ -7150,7 +7150,7 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>Zadaný binární soubor Java nefungoval s argumenty, které jste uvedl:&lt;br /&gt;</translation>
+        <translation>Zadaný binární soubor Java nefungoval s argumenty, které jste uvedli:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
