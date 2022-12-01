@@ -2697,7 +2697,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="465"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Your maximum memory allocation exceeds your system memory capacity.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="468"/>
