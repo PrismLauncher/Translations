@@ -2185,12 +2185,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="14"/>
         <source>Choose instance to import</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvolte instanci pro import</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte instanci, do které chcete tento balíček modifikací importovat.</translation>
     </message>
 </context>
 <context>
@@ -8296,12 +8296,12 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat agenty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat agenty Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
@@ -8421,12 +8421,12 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte agenty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Agenti Java (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
