@@ -4812,113 +4812,120 @@ Mojang 또는 마인크래프트 계정을 추가하세요.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2104"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
         <source>CAREFUL!</source>
         <translation>주의!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2105"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2099"/>
+        <source>About to delete: %1
+This may be permanent and will completely delete the instance.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>삭제 예정: %1
+        <translation type="vanished">삭제 예정: %1
 인스턴스를 완전히 제거합니다.
 
 정말 삭제하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2230"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2234"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2243"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2262"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2271"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2278"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2283"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2301"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2320"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2328"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2214"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2228"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2232"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2241"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2260"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2269"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2276"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2299"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2311"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2318"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2323"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2326"/>
         <source>Create instance shortcut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2214"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2230"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2278"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2320"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2228"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2276"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2318"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2234"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2283"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2232"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2323"/>
         <source>Failed to create instance shortcut!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2243"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2241"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2262"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2271"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2301"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2260"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2269"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2299"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2311"/>
         <source>Failed to create icon for shortcut.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2328"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2326"/>
         <source>Not supported on your platform!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2427"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2425"/>
         <source>Rename Instance</source>
         <translation>인스턴스 이름 바꾸기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2440"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2438"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>인스턴스 폴더에 &apos;!&apos;이 포함되어 있습니다. 이 경우 자바에 문제가 생길 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2440"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>두 가지 옵션이 있습니다: &lt;br/&gt; - 설정에서 인스턴스 폴더를 변경 &lt;br/&gt; - %1 설치를 다른 폴더로 이동</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2451"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2449"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>문제가 있습니다: &lt;br/&gt; - 운영체제에 의해 경고 없이 런처가 삭제될 수 있습니다 &lt;br/&gt; - 지금 런처를 종료하고 임시 폴더가 아닌 실제 위치로 추출을 합니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2458"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2456"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>인스턴스 폴더에 &apos;Rar$&apos;가 포함되어 있습니다 - 런처 아카이브를 추출하지 않았음을 의미합니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2466"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2464"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>인스턴스 폴더는 임시 폴더 &apos;%1&apos;에 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2479"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2477"/>
         <source>Total playtime: %1</source>
         <translation>총 플레이시간: %1</translation>
     </message>

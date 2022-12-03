@@ -4770,113 +4770,120 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
         <translation>Hiba történt, miközben megpróbálta hozzáadni a PATH-hoz a következőt: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2104"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
         <source>CAREFUL!</source>
         <translation>ÓVATOSAN!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2105"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2099"/>
+        <source>About to delete: %1
+This may be permanent and will completely delete the instance.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>About to delete: %1
 This is permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>A(z) &quot;%1&quot; példány törlésére készülsz.
+        <translation type="vanished">A(z) &quot;%1&quot; példány törlésére készülsz.
 Ez végleges és törli a példány minden adatát.
 
 Biztos vagy benne?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2230"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2234"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2243"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2262"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2271"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2278"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2283"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2301"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2320"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2328"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2214"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2228"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2232"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2241"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2260"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2269"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2276"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2299"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2311"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2318"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2323"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2326"/>
         <source>Create instance shortcut</source>
         <translation>Példány parancsikon létrehozása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2214"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Nem találtad az asztalt?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Az launcher abban a mappában található, amelyből kicsomagolta, ezért nem tud parancsikonokat létrehozni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2230"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2278"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2320"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2228"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2276"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2318"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Létrehozott egy parancsikont ehhez a példányhoz az asztalon!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2234"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2283"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2232"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2323"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Nem sikerült létrehozni a példány parancsikonját!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2243"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2241"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>A launcher rosszul konfigurált AppImage-ként fut? (A $APPIMAGE környezeti változó hiányzik)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2262"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2271"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2301"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2260"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2269"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2299"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2311"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Nem sikerült létrehozni a parancsikon ikonját.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2328"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2326"/>
         <source>Not supported on your platform!</source>
         <translation>Nem támogatott az ön platformján!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2427"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2425"/>
         <source>Rename Instance</source>
         <translation>Példány átnevezése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2440"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2438"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>A példánymappája a következőt tartalmazza: &quot;!&quot; és ez köztudottan Java problémákat okoz!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2440"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Most két lehetősége van: 1&lt;br/&gt; - módosítsa a példány mappáját a beállításokban &lt;br/&gt; - áthelyezi a(z) %1 telepítését egy másik mappába</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2451"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2449"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Ez a baj: &lt;br/&gt; - Az launcher valószínűleg figyelmeztetés nélkül törölve lesz az operációs rendszer által &lt;br/&gt; - zárja be a launchert, és csomagolja ki egy valós helyre, ne egy ideiglenes mappába</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2458"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2456"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>A példánymappája a „Rar$” elemet tartalmazza – ez azt jelenti, hogy nem bontotta ki az indítóarchívumot!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2466"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2464"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Példánymappája egy ideiglenes mappában található: &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2479"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2477"/>
         <source>Total playtime: %1</source>
         <translation>Teljes játékidő: %1</translation>
     </message>
