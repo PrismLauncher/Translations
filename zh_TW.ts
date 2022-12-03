@@ -6096,7 +6096,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="320"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>這款模組包中的一或多個模組為可選的。它們將會被下載，但預設情況下為停用狀態！</translation>
+        <translation>此模組包有選用模組。這些模組會下載，但預設為不啟用！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="363"/>
@@ -7056,27 +7056,27 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="293"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>版本檔案包含了不被支援的元素 &quot;tweakers&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &quot;tweakers&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="297"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>版本檔案包含了不被支援的元素 &quot;-libraries&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &quot;-libraries&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="301"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>版本檔案包含了不被支援的元素 &quot;-tweakers&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &quot;-tweakers&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="305"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>版本檔案包含了不被支援的元素 &quot;-minecraftArguments&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &quot;-minecraftArguments&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="309"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>版本檔案包含了不被支援的元素 &quot;+minecraftArguments&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &quot;+minecraftArguments&quot;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="343"/>
@@ -7126,14 +7126,14 @@ Choose your name carefully:</source>
         <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>無法取代檔案 %1。變更將會被復原。
+        <translation>無法取代檔案 %1。將復原變更。
 檢視 %2 log 檔案以取得詳細資訊。</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="368"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>無法移除檔案 %1。變更將會被復原。
+        <translation>無法移除檔案 %1。將復原變更。
 檢視 %2 log 檔案以取得詳細資訊。</translation>
     </message>
     <message>
@@ -7395,7 +7395,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation>只有帶有檢查的模組才會被下載！</translation>
+        <translation>只會下載勾選的模組！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="12"/>
@@ -8957,7 +8957,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live 無法在您的國家使用。您被阻擋了。</translation>
+        <translation>XBox Live 無法在您的國家使用。您被封鎖了。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
