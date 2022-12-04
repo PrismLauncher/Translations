@@ -2206,12 +2206,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="14"/>
         <source>Choose instance to import</source>
-        <translation type="unfinished"></translation>
+        <translation>选择实例来导入</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择你想要导入此资源包的实例。</translation>
     </message>
 </context>
 <context>
@@ -4853,7 +4853,10 @@ Please add your Mojang or Minecraft account.</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>将要删除：%1
+这可能是不可逆的，而且会完全删除此实例。
+
+你确定吗？</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
