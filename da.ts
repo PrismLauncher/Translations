@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Indtast et brugerdefineret klient-id til Microsoft Authentication her. </translation>
+        <translation>Indtast et brugerdefineret klient-id til Microsoft Authentication her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -656,7 +656,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1634"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gammel data fundet fra %1, hvor du har eksisterende data for %2. Dette kræver du migrerer på egen hånd. Vil du blive husket på om den pågående data migration næste gang du starter %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1638"/>
@@ -671,7 +671,7 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1686"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Migration mislykket! Årsag: %1</translation>
     </message>
 </context>
 <context>
@@ -888,12 +888,12 @@ Venligst opdater både dit operativsystem og PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="127"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle mods fundet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="129"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hent venligst de manglende værktøj.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="109"/>
