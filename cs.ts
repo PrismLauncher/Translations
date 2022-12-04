@@ -4824,7 +4824,10 @@ Prosít přidejte váš Mojang nebo Minecraft účet.</translation>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Snažíte se odstranit: %1
+Tato akce může být nevratná a kompletně odstraní instanci.
+
+Jste si jisti?</translation>
     </message>
     <message>
         <source>About to delete: %1
