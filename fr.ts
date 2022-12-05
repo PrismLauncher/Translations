@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note&#x202f;: uniquement les entrées qui commencent par &lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;http&#x202f;://&lt;/span&gt; ou &lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;https&#x202f;://&lt;/span&gt; seront acceptées.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note : uniquement les entrées qui commencent par &lt;span style=&quot; font-weight :600 ;&quot;&gt;http ://&lt;/span&gt; ou &lt;span style=&quot; font-weight :600 ;&quot;&gt;https ://&lt;/span&gt; seront acceptées.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>https://0x0.st</source>
@@ -188,7 +188,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Échec d&apos;ouverture des configurations du pack %1&#x202f;!</translation>
+        <translation>Échec d&apos;ouverture des configurations du pack %1 !</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
@@ -317,7 +317,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Build date: %1</source>
-        <translation>Date du build&#x202f;: %1</translation>
+        <translation>Date du build : %1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -682,7 +682,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/Application.cpp" line="1644"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished">Il semblerait que vous utilisez %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement %3 ?</translation>
+        <translation>Il semblerait que vous utilisez %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3 ?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1686"/>
@@ -838,7 +838,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     </message>
     <message>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="vanished">Impossible de charger ou télécharger les listes de versions&#x202f;!</translation>
+        <translation type="vanished">Impossible de charger ou télécharger les listes de versions !</translation>
     </message>
     <message>
         <source>Installing</source>
@@ -864,7 +864,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Impossible de charger ou télécharger les listes de versions&#x202f;!</translation>
+        <translation>Impossible de charger ou télécharger les listes de versions !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
@@ -1764,7 +1764,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie des mods bloqués en cours...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
@@ -2219,7 +2219,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez l&apos;instance vers laquelle vous voulez importez ce pack de ressources.</translation>
     </message>
 </context>
 <context>
@@ -2270,7 +2270,8 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la création d&apos;une nouvelle instance: 
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="32"/>
@@ -2383,7 +2384,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     </message>
     <message>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="vanished">Type de paquet inconnu ou pas pris en charge pour&#x202f;: %1</translation>
+        <translation type="vanished">Type de paquet inconnu ou pas pris en charge pour : %1</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -2415,7 +2416,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     </message>
     <message>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation type="vanished">Chemin du fichier&#x202f;: %1&lt;/br&gt;URL&#x202f;: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Chemin du fichier : %1&lt;/br&gt;URL : &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Non-whitelisted mods found</source>
@@ -3003,7 +3004,7 @@ Vous pourrez ultérieurement changer la version de Java dans les paramètres.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>La quantité de mémoire que vous avez allouée est approche la quantité de mémoire que votre ordinateur possède.</translation>
     </message>
 </context>
 <context>
@@ -3270,7 +3271,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de jou
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Arrêt de la surveillance des logs du jeu car la longueur du journal dépassait %1 lignes.
-Vous devrez peut-être réparer vos mods car le jeu est toujours en train de générer des logs dans des fichiers et gaspille probablement de l’espace sur le disque dur à un rythme alarmant&#x202f;!</translation>
+Vous devrez peut-être réparer vos mods car le jeu est toujours en train de générer des logs dans des fichiers et gaspille probablement de l’espace sur le disque dur à un rythme alarmant !</translation>
     </message>
 </context>
 <context>
@@ -3408,13 +3409,13 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation>Désactiver l&apos;utilisation des métadonnées pour les mods&#x202f;?</translation>
+        <translation>Désactiver l&apos;utilisation des métadonnées pour les mods ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;; color&#x202f;:#f5c211&#x202f;;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color&#x202f;:#f5c211&#x202f;;&quot;&gt;&#x202f;: Désactiver les métadonnées de mods peut également désactiver certaines fonctionnalités pratiques à venir, comme la mise à jour de mod&#x202f;!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ; color :#f5c211 ;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color :#f5c211 ;&quot;&gt; : Désactiver les métadonnées de mods peut également désactiver certaines fonctionnalités pratiques à venir, comme la mise à jour de mod !&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
@@ -4831,17 +4832,17 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1954"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation>Voulez-vous vraiment supprimer le groupe %1&#x202f;?</translation>
+        <translation>Voulez-vous vraiment supprimer le groupe %1 ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2053"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Le rajout de %1 à PATH s&apos;est correctement passé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2054"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 a été correctement ajouté à votre PATH. Vous pouvez maintenant le démarrer avec &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2057"/>
@@ -4859,7 +4860,10 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point de supprimer %1.
+Ceci est probablement permanent et va complètement supprimer l&apos;instance.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -4896,17 +4900,17 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2323"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2326"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un raccourci vers l&apos;instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2214"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de trouver le bureau?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le launcher est dans le dossier depuis lequel il a été extrait, donc il ne peut pas créer des raccourci.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2228"/>
@@ -4920,7 +4924,7 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2281"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2323"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la création du raccourci vers l&apos;instance !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2241"/>
@@ -4938,7 +4942,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2326"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Non supporté sur votre plateforme !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2425"/>
@@ -5939,12 +5943,12 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="357"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie des mods bloqués en cours...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="370"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie des mods bloqués en cours... (%1 de %2 terminés)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -6046,9 +6050,9 @@ Veuillez mettre à jour %1 !</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Une ou plusieurs instances proviennent de ce même modpack%1. Souhaitez-vous créer une instance séparée, ou mettre à jour une instance existante&#x202f;?
+        <translation>Une ou plusieurs instances proviennent de ce même modpack%1. Souhaitez-vous créer une instance séparée, ou mettre à jour une instance existante ?
 
-NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de votre instance avant de mettre à jour, car vos mondes peuvent être corrompus et certaines configurations perdues (à cause des configurations propres au modpack).</translation>
+NOTE : Assurez-vous de faire une sauvegarde des données importantes de votre instance avant de mettre à jour, car vos mondes peuvent être corrompus et certaines configurations perdues (à cause des configurations propres au modpack).</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="59"/>
@@ -6073,7 +6077,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="142"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Nous n&apos;avons pas pu trouver un fichier d&apos;index adéquat pour l&apos;ancienne version. Cela peut entraîner une duplication de certains fichiers. Souhaitez-vous continuer&#x202f;?</translation>
+        <translation>Nous n&apos;avons pas pu trouver un fichier d&apos;index adéquat pour l&apos;ancienne version. Cela peut entraîner une duplication de certains fichiers. Souhaitez-vous continuer ?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="186"/>
@@ -6259,7 +6263,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="15"/>
         <source>All attempts have failed!</source>
-        <translation>Toutes les tentatives ont échoué&#x202f;!</translation>
+        <translation>Toutes les tentatives ont échoué !</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="26"/>
@@ -6640,19 +6644,19 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <location filename="src/launcher/net/PasteUpload.cpp" line="214"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="243"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Erreur&#x202f;: %1 a renvoyé un corps de réponse malformé</translation>
+        <translation>Erreur : %1 a renvoyé un corps de réponse malformé</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="206"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Erreur&#x202f;: %1 a renvoyé une erreur&#x202f;: %2</translation>
+        <translation>Erreur : %1 a renvoyé une erreur : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="234"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Erreur&#x202f;: %1 a renvoyé un code d&apos;erreur&#x202f;: %2
-Message d&apos;erreur&#x202f;: %3</translation>
+        <translation>Erreur : %1 a renvoyé un code d&apos;erreur : %2
+Message d&apos;erreur : %3</translation>
     </message>
 </context>
 <context>
@@ -6905,7 +6909,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Remarque&#x202f;: le nom d&apos;utilisateur et le mot de passe du proxy sont stockés en texte brut à l&apos;intérieur du fichier de configuration du launcher&#x202f;!</translation>
+        <translation>Remarque : le nom d&apos;utilisateur et le mot de passe du proxy sont stockés en texte brut à l&apos;intérieur du fichier de configuration du launcher !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
@@ -7305,10 +7309,10 @@ Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de la
 
 Old name: %1
 New name: %2</source>
-        <translation>Le nom de l&apos;instance semble contenir l&apos;ancienne version. Voulez-vous le mettre à jour&#x202f;?
+        <translation>Le nom de l&apos;instance semble contenir l&apos;ancienne version. Voulez-vous le mettre à jour ?
 
-Ancien nom&#x202f;: %1
-Nouveau nom&#x202f;: %2</translation>
+Ancien nom : %1
+Nouveau nom : %2</translation>
     </message>
 </context>
 <context>
@@ -7808,7 +7812,7 @@ Nouveau nom&#x202f;: %2</translation>
     <message>
         <source>Resolving modpack files:
 %1</source>
-        <translation type="vanished">Résolution des fichiers du pack de mods&#x202f;:
+        <translation type="vanished">Résolution des fichiers du pack de mods :
 %1</translation>
     </message>
     <message>
@@ -8356,12 +8360,12 @@ Veuillez passer à l&apos;une des versions Java suivantes pour cette instance :<
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter agents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter agents Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
@@ -8481,12 +8485,12 @@ Veuillez passer à l&apos;une des versions Java suivantes pour cette instance :<
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner agents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Agents Java (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
