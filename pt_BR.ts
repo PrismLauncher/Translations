@@ -1765,7 +1765,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Copiando mods bloqueados (%1 de %2 estão completos)</translation>
+        <translation>Copiando mods bloqueados (%1 de %2 completados)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="451"/>
@@ -2235,7 +2235,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha a instância que você gostaria de importar este pacote de recursos.</translation>
     </message>
 </context>
 <context>
@@ -4917,7 +4917,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">O launcher está na pasta onde foi extraído, portanto não pode criar atalhos.</translation>
+        <translation>O launcher está na pasta de onde foi extraído, portanto não pode criar atalhos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2228"/>
@@ -4931,12 +4931,12 @@ Você tem certeza?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2281"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2323"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished">Falha ao criar atalho para a instância!</translation>
+        <translation>Falha ao criar atalho para a instância!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2241"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Launcher está rodando como uma AppImage mal configurada? (A variável ambiental $APPIMAGE está faltando)</translation>
+        <translation>Launcher está rodando como uma AppImage mal configurada? (A variável ambiental $APPIMAGE está faltando)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2260"/>
@@ -8390,7 +8390,7 @@ Por favor troque para uma das seguintes versões do Java para essa instância:</
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished">Adicionar Agentes Java</translation>
+        <translation>Adicionar Agentes Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
@@ -8515,7 +8515,7 @@ Por favor troque para uma das seguintes versões do Java para essa instância:</
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished">Agentes Java (*.jar)</translation>
+        <translation>Agentes Java (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
