@@ -1194,28 +1194,28 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Escaneando arquivos...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao escanear o caminho de origem.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Cancelado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Alguns caminhos não puderam ser copiados!</translation>
     </message>
 </context>
 <context>
@@ -1616,7 +1616,7 @@ Por favor, tente novamente.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dados inválidos retornados pela API.</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -1755,7 +1755,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="397"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Os seguintes mods foram bloqueados em launchers de terceiros.&lt;br/&gt;Você precisará baixá-los e adicioná-los ao modpack manualmente</translation>
+        <translation>Os arquivos seguintes não são disponíveis para download em launchers de terceiros.&lt;br/&gt;Você deverá manualmente baixá-los e adicioná-los para a instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
@@ -2230,7 +2230,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="14"/>
         <source>Choose instance to import</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha a instância para importar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
@@ -2286,7 +2286,8 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao criar nova instância:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="32"/>
@@ -2721,12 +2722,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="465"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua alocação máxima de memória excede a capacidade de memória do seu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="468"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua alocação máxima de memória se aproxima da capacidade de memória do seu sistema.</translation>
     </message>
 </context>
 <context>
@@ -2927,12 +2928,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua alocação máxima de memória excede a capacidade de memória do seu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua alocação máxima de memória se aproxima a capacidade de memória do seu sistema.</translation>
     </message>
 </context>
 <context>
@@ -3000,12 +3001,12 @@ Você pode mudar a versão do Java depois nas configurações.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua alocação máxima de memória excede a capacidade de memória do seu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua alocação máxima de memória se aproxima a capacidade de memória do seu sistema.</translation>
     </message>
 </context>
 <context>
@@ -3421,12 +3422,12 @@ Você talvez tenha que consertar os seus mods, porque o jogo ainda está logando
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Breeze Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Breeze Light</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Breeze Dark</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -4303,12 +4304,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="779"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar atalho</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cria um atalho na sua área de trabalho para iniciar a instância selecionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="803"/>
@@ -4420,7 +4421,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="457"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Temas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="539"/>
