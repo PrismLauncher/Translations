@@ -668,7 +668,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1634"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dados antigos de %1 foram encontrados, mas você já tem dados existentes para %2. Infelizmente você precisará migrar. Gostaria de ser lembrado de dados pendentes da migração toda vez que você iniciar %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1638"/>
@@ -4849,7 +4849,7 @@ Por favor, adicione a sua conta da Mojang ou do Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2054"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 foi adicionado com sucesso para PATH. Você pode abrir ele agora rodando `%2`.</translation>
+        <translation>%1 foi adicionado com sucesso para PATH. Você pode abri-lo agora rodando `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2057"/>
@@ -4867,7 +4867,10 @@ Por favor, adicione a sua conta da Mojang ou do Minecraft.</translation>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Prestes a deletar: %1
+Isso pode ser permanente e irá completamente deletar a instância.
+
+Tem certeza?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -4904,36 +4907,36 @@ Você tem certeza?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2323"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2326"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar atalho a instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2214"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível encontrar o desktop?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O launcher está na pasta onde foi extraído, portanto não pode criar atalhos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2228"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2276"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2318"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Foi criado um atalho para esta instância no seu desktop!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2232"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2281"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2323"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Falha ao criar atalho para a instância!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2241"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Launcher está rodando como uma AppImage mal configurada? (A variável ambiental $APPIMAGE está faltando)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2260"/>
@@ -4941,12 +4944,12 @@ Você tem certeza?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2299"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2311"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao criar ícone para atalho.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2326"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Não suportado em sua plataforma!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2425"/>
@@ -5952,7 +5955,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="370"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiando Mods Bloqueados (%1 de %2 completados)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -8382,12 +8385,12 @@ Por favor troque para uma das seguintes versões do Java para essa instância:</
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar Agentes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adicionar Agentes Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
@@ -8507,12 +8510,12 @@ Por favor troque para uma das seguintes versões do Java para essa instância:</
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar Agentes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Agentes Java (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
