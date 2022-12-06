@@ -7111,18 +7111,21 @@ Lütfen bunun neden ve nasıl olduğunu bize anlatın.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
-        <source>%1m %2s</source>
-        <translation>%1d %2sn</translation>
+        <source>%1min %2s</source>
+        <oldsource>%1m %2s</oldsource>
+        <translation type="unfinished">%1d %2sn</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
-        <source>%1h %2m</source>
-        <translation>%1s %2d</translation>
+        <source>%1h %2min</source>
+        <oldsource>%1h %2m</oldsource>
+        <translation type="unfinished">%1s %2d</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
-        <source>%1d %2h %3m</source>
-        <translation>%1g %2s %3d</translation>
+        <source>%1d %2h %3min</source>
+        <oldsource>%1d %2h %3m</oldsource>
+        <translation type="unfinished">%1g %2s %3d</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>

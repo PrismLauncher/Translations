@@ -7113,18 +7113,21 @@ Please let us know why and how this happened.</source>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
-        <source>%1m %2s</source>
-        <translation>%1분 %2초</translation>
+        <source>%1min %2s</source>
+        <oldsource>%1m %2s</oldsource>
+        <translation type="unfinished">%1분 %2초</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
-        <source>%1h %2m</source>
-        <translation>%1시 %2분</translation>
+        <source>%1h %2min</source>
+        <oldsource>%1h %2m</oldsource>
+        <translation type="unfinished">%1시 %2분</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
-        <source>%1d %2h %3m</source>
-        <translation>%1일 %2시 %3분</translation>
+        <source>%1d %2h %3min</source>
+        <oldsource>%1d %2h %3m</oldsource>
+        <translation type="unfinished">%1일 %2시 %3분</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>

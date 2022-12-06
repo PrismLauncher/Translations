@@ -6422,17 +6422,20 @@ Please let us know why and how this happened.</source>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
-        <source>%1m %2s</source>
+        <source>%1min %2s</source>
+        <oldsource>%1m %2s</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
-        <source>%1h %2m</source>
+        <source>%1h %2min</source>
+        <oldsource>%1h %2m</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
-        <source>%1d %2h %3m</source>
+        <source>%1d %2h %3min</source>
+        <oldsource>%1d %2h %3m</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

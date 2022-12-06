@@ -6991,18 +6991,21 @@ Vui lòng cho chúng tôi biết tại sao và làm thế nào mà điều này 
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
-        <source>%1m %2s</source>
-        <translation>%1 Phút %2 giây</translation>
+        <source>%1min %2s</source>
+        <oldsource>%1m %2s</oldsource>
+        <translation type="unfinished">%1 Phút %2 giây</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
-        <source>%1h %2m</source>
-        <translation>%1 giờ %2 phút</translation>
+        <source>%1h %2min</source>
+        <oldsource>%1h %2m</oldsource>
+        <translation type="unfinished">%1 giờ %2 phút</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
-        <source>%1d %2h %3m</source>
-        <translation>%1 ngày %2 giờ %3 phút</translation>
+        <source>%1d %2h %3min</source>
+        <oldsource>%1d %2h %3m</oldsource>
+        <translation type="unfinished">%1 ngày %2 giờ %3 phút</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
