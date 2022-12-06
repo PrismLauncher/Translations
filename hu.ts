@@ -4144,7 +4144,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
         <source>View information about %1.</source>
-        <translation>Információk megtekintése a %1-ről.</translation>
+        <translation>Információk megtekintése a következőről: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="509"/>
@@ -8612,7 +8612,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Date and time the world was last played.</source>
-        <translation>A világ legutóbbi lejátszásának dátuma és ideje.</translation>
+        <translation>A világ legutóbbi játszásának dátuma és ideje.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
