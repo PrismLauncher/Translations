@@ -4082,7 +4082,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.cpp" line="324"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>Közép Modok mappájának megnézése</translation>
+        <translation>Közép modok mappájának megnézése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
@@ -4626,7 +4626,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
         <source>Total playtime: 0s</source>
-        <translation>Teljes játékidő: 0 mp</translation>
+        <translation>Teljes játékidő: 0 mp.</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -7062,19 +7062,19 @@ Kérjük, tájékoztasson minket, hogy miért és hogyan történt ez.</translat
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1 perc %2 mp</translation>
+        <translation>%1 perc %2 mp.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1 óra %2 perc</translation>
+        <translation>%1 óra %2 perc</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1 nap %2 óra %3 perc</translation>
+        <translation>%1 nap %2 óra %3 perc</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
