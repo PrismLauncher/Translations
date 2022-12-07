@@ -8364,12 +8364,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>添加 Agents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>添加 Java agents。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
@@ -8489,12 +8489,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 agents</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Java agents (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
