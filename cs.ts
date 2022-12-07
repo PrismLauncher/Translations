@@ -7135,19 +7135,19 @@ Dejte nám prosím vědět jak a proč se toto stalo.</translation>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1m %2s</translation>
+        <translation>%1min %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1h %2m</translation>
+        <translation>%1h %2min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1d %2h %3m</translation>
+        <translation>%1d %2h %3min</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
