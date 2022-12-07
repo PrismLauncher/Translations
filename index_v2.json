@@ -131,12 +131,12 @@
             "untranslated" : 1471
         },
         "eo" : {
-            "file" : "7ed0d4c5fe55f70edc5ecdc8929bbc6bfb806471.class",
-            "sha1" : "7ed0d4c5fe55f70edc5ecdc8929bbc6bfb806471",
-            "size" : 36785,
-            "translated" : 271,
+            "file" : "7ea001468d5bdd39a04a57f0c277ea816410281b.class",
+            "sha1" : "7ea001468d5bdd39a04a57f0c277ea816410281b",
+            "size" : 37368,
+            "translated" : 275,
             "fuzzy" : 92,
-            "untranslated" : 1108
+            "untranslated" : 1104
         },
         "es" : {
             "file" : "ad6e5d97f8d697b9521cdf090c5c804eb2a6fce3.class",
@@ -451,12 +451,12 @@
             "untranslated" : 458
         },
         "th" : {
-            "file" : "20e664c1d84aad12416a63d8c102e862c7d205e4.class",
-            "sha1" : "20e664c1d84aad12416a63d8c102e862c7d205e4",
-            "size" : 37328,
-            "translated" : 250,
+            "file" : "cdb58591769984be7b4f43c53f8432be3e519b21.class",
+            "sha1" : "cdb58591769984be7b4f43c53f8432be3e519b21",
+            "size" : 39572,
+            "translated" : 276,
             "fuzzy" : 102,
-            "untranslated" : 1119
+            "untranslated" : 1093
         },
         "tok" : {
             "file" : "8a0f74d43ec65915039cd81804b7f488eb64a024.class",
@@ -491,12 +491,12 @@
             "untranslated" : 351
         },
         "zh" : {
-            "file" : "51e5108200409feadb1e72e6966809b23791ef7e.class",
-            "sha1" : "51e5108200409feadb1e72e6966809b23791ef7e",
-            "size" : 149566,
-            "translated" : 1467,
+            "file" : "507b7afc6bbcbe5b65264e7b69f551b7c497fa4a.class",
+            "sha1" : "507b7afc6bbcbe5b65264e7b69f551b7c497fa4a",
+            "size" : 149888,
+            "translated" : 1471,
             "fuzzy" : 0,
-            "untranslated" : 4
+            "untranslated" : 0
         },
         "zh_TW" : {
             "file" : "c36893373343aea18882bc470ce456378ca4ebd7.class",
