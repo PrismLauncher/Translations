@@ -505,7 +505,7 @@ I-I-If you&apos;w new hewe, y-y-you can cwick the &quot;Add&quot; wutton two add
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>P-P-Pwease entwew youw Mojang acwount emaiw and passwowd two add youw acwount.</translation>
+        <translation>P-P-Pwease entwew youw Mojang acwount emaiw and passwowd two adds youw acwount.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -569,7 +569,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
-        <translation>Sending wequest to auth sewvews...</translation>
+        <translation>Sending wequest to auf sewvews...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
@@ -775,7 +775,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
         <source>Version selected:</source>
-        <translation>Vewsion sewected:</translation>
+        <translation>Vewson sewected:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
@@ -2533,12 +2533,12 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="153"/>
         <source>Kill</source>
-        <translation>Kiww</translation>
+        <translation>muwdew :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="155"/>
         <source>Kill the running instance</source>
-        <translation>Kiww the wunnying instance</translation>
+        <translation>muwduw the wunnying instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
@@ -2982,7 +2982,7 @@ Do you want to pway the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Kill Minecraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>kiww mincecwaf?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="469"/>
@@ -3611,12 +3611,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>whap wines</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>cwopy da whowe wog intwo da cwipboawd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
