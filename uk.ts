@@ -260,7 +260,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation> </translation>
+        <translation>Commit:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -883,12 +883,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Усі моди знайдено</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка, завантажте відсутні моди.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
@@ -903,12 +903,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати теку для завантаження</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="120"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть теку, в яку ви завантажили моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
@@ -1054,27 +1054,27 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вибрати все</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнення цієї опції збереже завантажувач модів (наприклад, Fabric, Quilt і т.д.), але видалить теку модів та їх конфігурації.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопіювати моди</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопіювати ігрові параметри, такі як FOV, максимальна частота кадрів, тощо.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скопіювати ігрові параметри</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
@@ -1089,7 +1089,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопіювати сервери</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
@@ -4776,22 +4776,22 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2054"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Успішно додано %1 до PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2055"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 було успішно додано до вашого PATH. Тепер ви можете запустити його, виконавши `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2058"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося додати %1 до PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2059"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Виникла помилка при спробі додати %1 до PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2099"/>
@@ -4832,7 +4832,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2339"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2342"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити ярлик збірки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2215"/>
@@ -4869,7 +4869,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2315"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2327"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося створити іконку для ярлика.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2282"/>
@@ -4879,7 +4879,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2342"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не підтримується на вашій платформі!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2441"/>
@@ -4939,7 +4939,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1123"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
         <source>Accounts</source>
-        <translation type="unfinished">Акаунти</translation>
+        <translation>Облікові записи</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1629"/>
