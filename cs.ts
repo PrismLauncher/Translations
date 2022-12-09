@@ -4906,7 +4906,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2282"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Záznamy na ploše (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2342"/>
