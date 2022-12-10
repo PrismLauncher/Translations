@@ -881,17 +881,17 @@ Prosím aktualizujte váš operační systém a %1.</translation>
         <translation type="vanished">Otevřít vše</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="163"/>
         <source>All mods found</source>
         <translation>Nalezeny všechny módy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="166"/>
         <source>Please download the missing mods.</source>
         <translation>Stáhněte si prosím chybějící mody.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="145"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Nalezeno v %1 &lt;/span&gt;</translation>
     </message>
@@ -910,17 +910,17 @@ Prosím aktualizujte váš operační systém a %1.</translation>
         <translation type="vanished">Nakonfigurovaná globální složka módů a výchozí složka pro stahování jsou automaticky kontrolovány, zda neobsahují stažené módy, a pokud jsou nalezeny, zkopírují se do instance.&lt;br/&gt;Volitelně můžete stažené módy přetáhnout na toto dialogové okno nebo přidat složku ke sledování, pokud jste módy nestáhli do výchozího umístění.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="128"/>
         <source>Select directory where you downloaded the mods</source>
         <translation>Vyberte adresář, do kterého jste stáhli své módy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Nenalezeno &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="150"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>

@@ -893,17 +893,17 @@ Please update both your operating system and %1.</source>
         <translation type="vanished">모두 열기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="155"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="163"/>
         <source>All mods found</source>
         <translation>모든 모드 발견</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="158"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="166"/>
         <source>Please download the missing mods.</source>
         <translation>누락된 모드를 다운로드하십시오.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="137"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="145"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation type="unfinished">&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714;%1에서 찾았습니다&lt;/span&gt;</translation>
     </message>
@@ -922,17 +922,17 @@ Please update both your operating system and %1.</source>
         <translation type="obsolete">구성된 전역 모드 폴더와 기본 다운로드 폴더는 다운로드된 모드에 대해 자동으로 확인되며 발견되면 인스턴스에 복사됩니다.&lt;br/&gt;선택적으로 다운로드한 모드를 이 대화 상자로 끌어다 놓거나 폴더를 추가하여 볼 수 있습니다. 모드를 기본 위치에 다운로드하지 않은 경우.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="120"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="128"/>
         <source>Select directory where you downloaded the mods</source>
         <translation>모드를 다운로드한 디렉토리 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="140"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718;찾을 수 없음 &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="150"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation type="unfinished"></translation>
     </message>
