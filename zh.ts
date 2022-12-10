@@ -5086,22 +5086,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="127"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
         <source>Warnings</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
         <source>Task aborted</source>
-        <translation type="unfinished">任务已终止</translation>
+        <translation>任务已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">任务已被用户终止。</translation>
+        <translation>任务已被用户终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="139"/>
@@ -7456,24 +7456,24 @@ New name: %2</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished">你拥有一个或更多的实例说基于此整合包%1。你想创建一个单独实例，还是更新现有的实例？
+        <translation>你拥有一个或更多的实例来自此整合包%1。你想创建一个单独实例，还是更新现有的实例？
 
-注：在更新实例前请确保备份了实例的重要数据，存档与配置文件可能会因整合包覆盖而被损坏或遗失。</translation>
+注：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会因整合包覆盖而被损坏或遗失。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
         <source>Update existing instance</source>
-        <translation type="unfinished">更新现有实例</translation>
+        <translation>更新现有实例</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Create new instance</source>
-        <translation type="unfinished">创建新实例</translation>
+        <translation>创建新实例</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
