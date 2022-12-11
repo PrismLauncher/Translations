@@ -2210,12 +2210,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="14"/>
         <source>Choose instance to import</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇要導入的實例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇你想要導入此資源包的實例。</translation>
     </message>
 </context>
 <context>
@@ -2716,12 +2716,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="465"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>你分配的最大記憶體超過系統記憶體容量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="468"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>你分配的最大記憶體接近系統記憶體容量。</translation>
     </message>
 </context>
 <context>
@@ -2922,12 +2922,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>你分配的最大記憶體超過系統記憶體容量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>你分配的最大記憶體接近系統記憶體容量。</translation>
     </message>
 </context>
 <context>
@@ -2995,12 +2995,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>你分配的最大記憶體超過系統記憶體容量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>你分配的最大記憶體接近系統記憶體容量。</translation>
     </message>
 </context>
 <context>
