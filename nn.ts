@@ -634,32 +634,32 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="685"/>
+        <location filename="src/launcher/Application.cpp" line="688"/>
         <source>Settings</source>
         <translation>Innstillinger</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1192"/>
+        <location filename="src/launcher/Application.cpp" line="1198"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1634"/>
+        <location filename="src/launcher/Application.cpp" line="1640"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1638"/>
+        <location filename="src/launcher/Application.cpp" line="1644"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1644"/>
+        <location filename="src/launcher/Application.cpp" line="1650"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1686"/>
+        <location filename="src/launcher/Application.cpp" line="1692"/>
         <source>Migration failed! Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1399,7 +1399,7 @@ Please update both your operating system and %1.</source>
         <translation type="unfinished">Kontekstmeny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation type="unfinished">Vel %1</translation>
@@ -7332,7 +7332,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="75"/>
         <source>Screenshots</source>
         <translation>Skjermbilete</translation>
     </message>
@@ -7474,7 +7474,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Kopla til</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="67"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="69"/>
         <source>Servers</source>
         <translation>Tenarar</translation>
     </message>
@@ -8273,97 +8273,97 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>Opna mappa med lokale bibliotek til førekomsten.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="197"/>
         <source>Context menu</source>
         <translation>Kontekstmeny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="215"/>
         <source>%1 possibly has issues.</source>
         <translation>%1 kan ha problem.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
         <source>%1 has issues!</source>
         <translation>%1 har problem!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="232"/>
         <source>Error: </source>
         <translation>Feil: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="236"/>
         <source>Warning: </source>
         <translation>Åtvaring: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="286"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="292"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="311"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="367"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="380"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="301"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="326"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="457"/>
         <source>Error</source>
         <translation>Feil</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="293"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>Klarte ikkje lasta inn førekomst-profilen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="311"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="326"/>
         <source>Couldn&apos;t remove file</source>
         <translation>Klarte ikkje fjerna fila</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="344"/>
         <source>Select jar mods</source>
         <translation>Vel JAR-moddar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="344"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>Minecraft.jar-moddar (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="354"/>
         <source>Select jar</source>
         <translation>Vel JAR</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="354"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>Minecraft.jar-erstatning (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="365"/>
         <source>Select agents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="350"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="365"/>
         <source>Java agents (*.jar)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>Change %1 version</source>
         <translation>Endra versjon på %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>Ingen tilgjengelege mellombindingsversjonar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="430"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>Klarte ikkje laste inn eller laste ned lista med mellombindingsversjonar!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="443"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="458"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation type="unfinished"></translation>
@@ -8375,67 +8375,67 @@ Please add your Mojang or Minecraft account.</source>
 Legg til Minecraft- eller Mojang-kontoen din.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="469"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="484"/>
         <source>Select Forge version</source>
         <translation>Vel Forge-versjon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="471"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
         <source>No Forge versions are currently available for Minecraft </source>
         <translation>Ingen tilgjengelege «Forge»-versjonar for Minecraft </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="472"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="487"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
         <translation>Klarte ikkje laste inn eller laste ned versjonslista til Forge!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="498"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="513"/>
         <source>Select Fabric Loader version</source>
         <translation>Vel Fabric Loader-versjon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="499"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="514"/>
         <source>No Fabric Loader versions are currently available.</source>
         <translation>Ingen tilgjengelege «Fabric Loader»-versjonar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="500"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="515"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
         <translation>Klarte ikkje laste inn eller laste ned versjonslista til Fabric Loader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="525"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="540"/>
         <source>Select Quilt Loader version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="526"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="541"/>
         <source>No Quilt Loader versions are currently available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="527"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="542"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="570"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="585"/>
         <source>Select LiteLoader version</source>
         <translation>Vel LiteLoader-versjon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="572"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="587"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
         <translation>Ingen tilgjengelege LiteLoader-versjonar for Minecraft </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="573"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="588"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
         <translation>Klarte ikkje laste inn eller laste ned versjonslista til LiteLoader!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="629"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="644"/>
         <source>Error updating instance</source>
         <translation>Klarte ikkje oppdatera førekomstar</translation>
     </message>
@@ -8679,22 +8679,22 @@ Legg til Minecraft- eller Mojang-kontoen din.</translation>
         <translation>Handter datapakkene til verda.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="65"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.h" line="67"/>
         <source>Worlds</source>
         <translation>Verder</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="141"/>
         <source>Context menu</source>
         <translation>Kontekstmeny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="186"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="196"/>
         <source>Are you sure?</source>
         <translation>Er du sikker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>This will remove the selected world permenantly.
 The world will be gone forever (A LONG TIME).
 
@@ -8705,79 +8705,79 @@ Dette vil sletta den valde verda for alltid (EI VELDEG LANG TID).
 Vil du fortsetta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="224"/>
         <source>Open World Datapacks Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="282"/>
         <source>Open World in MCEdit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit vart ikkje funne!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="299"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="309"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit er ikkje installert eller har vorte flytta.
 Du kan leggja den til i dei globale innstillingane.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="318"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit klarte ikkje starta!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="309"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="319"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit klarte ikkje starta.
 Du må kanskje installera den på nytt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="358"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="368"/>
         <source>Select a Minecraft world zip</source>
         <translation>Legg til ei Minecraft-verd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="359"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="369"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>Minecraft-verd (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="398"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="408"/>
         <source>Copy World</source>
         <translation>Kopier verd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="380"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="390"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Å endra på ei verd mens Minecraft køyrar er utrygt.
 Vil du fortsetta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="404"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="437"/>
         <source>World name</source>
         <translation>Verdsnamn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
         <source>Enter a new name for the copy.</source>
         <translation>Skriv inn eit nytt namn til kopien.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="430"/>
         <source>Rename World</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="427"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="437"/>
         <source>Enter a new world name.</source>
         <translation>Skriv inn eit nytt namn til verda.</translation>
     </message>
