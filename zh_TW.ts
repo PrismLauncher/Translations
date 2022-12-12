@@ -656,17 +656,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1632"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished">已找到來自 %1 的舊數據，但您已有 %2 的現有數據。 遺憾的是，您將需要自己遷移。 下次啟動 %2 時是否要提醒數據遷移？</translation>
+        <translation>已找到來自 %1 的舊資料，但你已有 %2 的現有資料。遺憾的是，你將需要自己遷移。下次啟動 %2 時是否要提醒資料遷移？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1636"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished">看起來你以前使用過 %1。 是否要將數據遷移到 %2 的新位置？</translation>
+        <translation>看起來你以前使用過 %1。是否要將資料遷移到 %2 的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1642"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished">看起來你以前在 %2 上使用過 %1。 是否要將數據遷移到 %3 的新位置？</translation>
+        <translation>看起來你以前在 %2 上使用過 %1。 是否要將資料遷移到 %3 的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1684"/>
@@ -906,7 +906,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="49"/>
         <source>Open Missing</source>
-        <translation type="unfinished">打開失踪</translation>
+        <translation>打開缺少</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
@@ -935,7 +935,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;你配置的全局 模組文件夾和默認下載文件夾會自動檢查下載的模組，如果找到它們將被複製到實例。&lt;/p&gt;&lt;p&gt;你可以選擇 如果你沒有將模組下載到默認位置，可以將下載的模組拖放到此對話框或添加一個文件夾以查看。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;你設定的全域模組資料夾和預設下載資料夾會自動檢查下載的模組，如果找到它們將被複製到實例。&lt;/p&gt;&lt;p&gt;你可以選擇如果你沒有將模組下載到預設位置，可以將下載的模組拖移到此對話框或新增一個資料夾查看。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1191,7 +1191,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished">無法掃描來源路徑。</translation>
+        <translation>無法掃描來源路徑。</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
@@ -1207,7 +1207,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished">某些路徑無法複製！</translation>
+        <translation>部分路徑無法複製！</translation>
     </message>
 </context>
 <context>
@@ -1608,7 +1608,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished">從 API 返回的數據無效。</translation>
+        <translation>從 API 返回的數據資料無效。</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -1785,7 +1785,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="314"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished">&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。 這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常工作， 您需要從內置下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會丟失此實例！&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常工作， 您需要從內置下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會丟失此實例！&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="378"/>
@@ -3416,12 +3416,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Breeze Light</source>
-        <translation type="unfinished">微風燈</translation>
+        <translation>Breeze 淺色</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished">微風暗</translation>
+        <translation>Breeze 深色</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -3868,7 +3868,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">正在從 Mojang 取得函式庫檔案…</translation>
+        <translation>正在下載函式庫檔案…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4296,7 +4296,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished">在您的桌面上創建一個捷徑以啟動選定的實例。</translation>
+        <translation>在你的桌面上建立一個捷徑以啟動選擇的實例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="802"/>
@@ -4859,7 +4859,7 @@ Please add your Mojang or Minecraft account.</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished">即將刪除：%1
+        <translation>即將刪除：%1
 這可能是永久性的，並且會完全刪除該實例。
 
 你確定嗎？</translation>
@@ -4900,14 +4900,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">啟動器位於其提取的文件夾中，因此無法創建快捷方式。</translation>
+        <translation>啟動器位於其提取的資料夾中，因此無法建立快捷方式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2227"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2290"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2332"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished">已在您的桌面上創建了此實例的捷徑！</translation>
+        <translation>已在你的桌面上建立了此實例的捷徑！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
@@ -4927,7 +4927,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">無法為捷徑創建圖標。</translation>
+        <translation>無法為捷徑建立圖示。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2280"/>
@@ -5016,7 +5016,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished">包裝信息</translation>
+        <translation>模組包資訊</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
@@ -5031,12 +5031,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished">提供者信息：</translation>
+        <translation>託管平台資訊：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished">版本更新：</translation>
+        <translation>版本更新：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
