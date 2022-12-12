@@ -1781,12 +1781,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="314"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Čauky Mňauky!🐈&lt;/h1&gt;&lt;h4&gt; Vypadá to že Pack ID je null. Toto je kvůli chybě ve starší verzi launcheru.&lt;br/&gt;Bohužel, nedokážeme udělat správné API dotazy bez této informace.&lt;br/&gt;&lt;br/&gt;Takže, pokud budete chtít aby tato funkce fungovala, budete muset znovu stáhnout tento modpack přes vestavěné stahování modpacků.&lt;br/&gt;&lt;br/&gt;Nebojte se, launcher se vás zeptá jestli chcete aktualizovat tuto instanci, abyste ji neztratili!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="378"/>
         <source> (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Aktuální)</translation>
     </message>
 </context>
 <context>
@@ -2753,12 +2753,12 @@ Postupujte obezřetně!</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="159"/>
         <source>Kill</source>
-        <translation>Zabít</translation>
+        <translation>Ukončit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
         <source>Kill the running instance</source>
-        <translation>Zabít spuštěnou instanci</translation>
+        <translation>Ukončit spuštěnou instanci</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="167"/>
@@ -3855,7 +3855,7 @@ Chcete ho nyní odstranit?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Načítání knihoven od Mojangu…</translation>
+        <translation>Načítání potřebných knihoven…</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4995,97 +4995,97 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Info o modpacku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Název modpacku:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuální verze:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informace o poskytovateli:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat na verzi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Získávání verzí...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="167"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Changelog</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro tuto verzi není dostupný changelog!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnovit stránku</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="84"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Web: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="127"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
         <source>Warnings</source>
-        <translation type="unfinished">Varování</translation>
+        <translation>Varování</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Úkol přerušen</translation>
+        <translation>Úkol přerušen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Úkol byl přerušen uživatelem.</translation>
+        <translation>Úkol byl přerušen uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="139"/>
         <source>Abort</source>
-        <translation type="unfinished">Přerušit</translation>
+        <translation>Přerušit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se získat dostupné verze.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vyžádat data changelogu pro tento modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze aktualizovat!</translation>
     </message>
 </context>
 <context>
@@ -6218,12 +6218,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="236"/>
         <source> (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Aktuální)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="248"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Získávání changelogů...</translation>
     </message>
 </context>
 <context>
@@ -7399,31 +7399,31 @@ Nový název: %2</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished">Byl nalezen podobný modpack!</translation>
+        <translation>Byl nalezen podobný modpack!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished">Jedna nebo více vašich instancí pochází ze stejného modpacku%1. Chcete vytvořit samostatnou instanci, nebo aktualizovat stávající?
+        <translation>Jedna nebo více vašich instancí pochází ze stejného modpacku%1. Chcete vytvořit samostatnou instanci, nebo aktualizovat stávající?
 
-POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důležitých dat instance, protože světy mohou být poškozeny a některé konfigurace mohou být ztraceny (kvůli přepsání balíčku).</translation>
+POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důležitých dat instance, protože světy mohou být poškozeny a některé konfigurace mohou být ztraceny (kvůli přepsání modpacku).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
         <source>Update existing instance</source>
-        <translation type="unfinished">Aktualizovat existující instanci</translation>
+        <translation>Aktualizovat existující instanci</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Create new instance</source>
-        <translation type="unfinished">Vytvořit novou instanci</translation>
+        <translation>Vytvořit novou instanci</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
