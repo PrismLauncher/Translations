@@ -3544,7 +3544,8 @@ Should it be removed now?</source>
     <name>LibrariesTask</name>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
-        <source>Getting the library files from Mojang...</source>
+        <source>Downloading required library files...</source>
+        <oldsource>Getting the library files from Mojang...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3778,7 +3779,7 @@ Reason:
         <translation>Kiww the wunnying instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1251"/>
         <source>Launch</source>
         <translation>Waunch</translation>
     </message>
@@ -3845,7 +3846,7 @@ Reason:
         <translation>Dewe&amp;te</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="899"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="897"/>
         <source>Folders</source>
         <translation>Fowdews</translation>
     </message>
@@ -3876,7 +3877,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="509"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="900"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="898"/>
         <source>Help</source>
         <translation>Hewp</translation>
     </message>
@@ -3896,7 +3897,7 @@ Reason:
         <translation>It&apos;s a fwuffy wuffy k-kitty witty :3</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="804"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="802"/>
         <source>Instance Toolbar</source>
         <translation>Instance Toowbaw</translation>
     </message>
@@ -4080,13 +4081,13 @@ Reason:
         <translation>Ctww+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1123"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1121"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
         <source>Accounts</source>
         <translation>Accounts</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Launch Offline</source>
         <translation>Waunch Offwinye</translation>
     </message>
@@ -4168,7 +4169,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2281"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2279"/>
         <source>Create Shortcut</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4178,167 +4179,167 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1129"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1004"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1127"/>
         <source>No instance selected</source>
         <translation>Nyo instance sewected</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1005"/>
         <source>Total playtime: 0s</source>
         <translation>Totaw pwaytime: 0s</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1193"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1191"/>
         <source>Create instance</source>
         <translation>Cweate instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1209"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1207"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Dewete gwoup &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1256"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctww+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
         <source>Launch Demo</source>
         <translation>Waunch Demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1256"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctww+Awt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1286"/>
         <source>Profilers</source>
         <translation>Pwofiwews</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1291"/>
         <source>%1 Offline</source>
         <translation>%1 Offwinye</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1299"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1297"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>Pwofiwew nyot setup cowwectwy wowwectwy. Go into settings, &quot;Extewnyaw Toows&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1380"/>
         <source>No accounts added!</source>
         <translation>*giggles* Nyo accounts added!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1412"/>
         <source>Ctrl+%1</source>
         <translation>Ctww+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1429"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>No Default Account</source>
         <translation>Nyo Defauwt Account</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
         <source>Ctrl+0</source>
         <translation>Ctww+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1629"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1646"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1757"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1769"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1627"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1644"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1755"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1767"/>
         <source>Error</source>
         <translation>Ewwow</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1629"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1627"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
         <translation>C-C-Couwdn&apos;t cweate fowdew fow update d-downwoads:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1711"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1709"/>
         <source>Warnings</source>
         <translation>Wawnyings</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>Task aborted</source>
         <translation>Task abowted</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>The task has been aborted by the user.</source>
         <translation>The task has been abowted by the usew.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1761"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1759"/>
         <source>Abort</source>
         <translation>Abowt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1770"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1768"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>The waunchew cannyot downwoad Minyecwaft ow update instances unwess you have at weast onye account added.
 Pwease add y-youw M-Mojang o-ow Minyecwaft account OwO.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1933"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1931"/>
         <source>Group name</source>
         <translation>Gwoup nyame</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1933"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1931"/>
         <source>Enter a new group name.</source>
         <translation>Entew a nyew gwoup nyame.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1955"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1953"/>
         <source>Delete group</source>
         <translation>Dewete gwoup</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1955"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1953"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>Awe you suwe you want to dewete the gwoup %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2052"/>
         <source>Successfully added %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2053"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2058"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2056"/>
         <source>Failed to add %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2059"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2057"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2099"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
         <source>CAREFUL!</source>
         <translation>CAWEFUW!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2100"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
         <source>About to delete: %1
 This may be permanent and will completely delete the instance.
 
@@ -4356,102 +4357,102 @@ This is pewmanyent and wiww c-compwetewy wompwetewy dewete the instance.
 Awe you suwe?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2215"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2222"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2229"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2233"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2242"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2261"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2270"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2292"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2315"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2327"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2334"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2339"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2342"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2227"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2240"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2259"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2268"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2290"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2295"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2332"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
         <source>Create instance shortcut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2215"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2222"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2229"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2292"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2334"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2227"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2290"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2332"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2233"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2297"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2339"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2295"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <source>Failed to create instance shortcut!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2242"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2240"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2261"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2270"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2315"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2327"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2259"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2268"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
         <source>Failed to create icon for shortcut.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2282"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2280"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2342"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
         <source>Not supported on your platform!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2441"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2439"/>
         <source>Rename Instance</source>
         <translation>Wenyame Instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2454"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2452"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Youw instance fowdew c-contains &apos;!&apos; and this is knyown to cause Java p-pwobwems!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2454"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>You have nyow two options: &lt;br/&gt; - c-change the instance fowdew in the settings &lt;br/&gt; - move this instawwation of %1 to a diffewent fowdew</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2465"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2463"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>This is a pwobwem: &lt;br/&gt; - The waunchew w-wiww wikewy be deweted without wawnying by the opewating system &lt;br/&gt; - cwose the waunchew nyow and extwact it to a weaw wocation, nyot a tempowawy wempowawy fowdew</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2472"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2470"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Youw instance f-fowdew contains &apos;Rar$&apos; - that means you haven&apos;t extwacted the waunchew awchive!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2480"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2478"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Youw instance fowdew is in a tempowawy wempowawy fowdew: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2493"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2491"/>
         <source>Total playtime: %1</source>
         <translation>Totaw pwaytime: %1</translation>
     </message>
@@ -4471,12 +4472,12 @@ Awe you suwe?</translation>
         <translation>OwO Open the devewopment bwog to wead mowe nyews about %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1544"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1542"/>
         <source>Loading news...</source>
         <translation>Woading nyews...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
         <source>No news available.</source>
         <translation>Nyo nyews avaiwabwe.</translation>
     </message>
