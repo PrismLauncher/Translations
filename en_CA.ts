@@ -2490,7 +2490,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Close</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="159"/>
@@ -5728,7 +5728,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Close</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -5783,7 +5783,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Username</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -7303,7 +7303,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="58"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Close</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="60"/>
