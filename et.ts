@@ -91,7 +91,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Märkus: sa ilmselt ei pea seda määrama, kui CurseForge juba töötab.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -1153,7 +1153,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enne-käivitust käsklus käivitub enne eksemplari käivitumist ning väljumise-järgne käsklus käivitub pärast selle sulgemist.&lt;/p&gt;&lt;p&gt;Mõlemad käitatakse käivitaja töötamiskaustas koos täiendavate keskkonnamuutujatega:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - eksemplari nimi&lt;/li&gt;&lt;li&gt;$INST_ID - eksemplari ID (selle kausta nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - eksemplari täielik failitee&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - kausta &quot;minecraft&quot; täielik failitee&lt;/li&gt;&lt;li&gt;$INST_JAVA - käivituseks kasutatav Java täitmisfail&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - käivituseks kasutatavad käsurea parameetrid&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ümbriskäsklus võimaldab täiendava ümbrisprogrammi käivitamist (näiteks Linuxil &quot;optirun&quot;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enne-käivitust käsklus käivitub enne eksemplari käivitumist ning väljumise-järgne käsklus käivitub pärast selle sulgemist.&lt;/p&gt;&lt;p&gt;Mõlemad käitatakse käivitaja töötamiskaustas koos täiendavate keskkonnamuutujatega:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - eksemplari nimi&lt;/li&gt;&lt;li&gt;$INST_ID - eksemplari ID (selle kausta nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - eksemplari täielik failitee&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - kausta &quot;minecraft&quot; täielik failitee&lt;/li&gt;&lt;li&gt;$INST_JAVA - käivituseks kasutatav Java täitmisfail&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - käivituseks kasutatavad käsurea parameetrid (hoiatus: ei tööta korralikult, kui argumendid sisaldavad tühikuid)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Ümbriskäsklus võimaldab täiendava ümbrisprogrammi käivitamist (näiteks Linuxil &quot;optirun&quot;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1237,7 +1237,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modide metaandmete kontrollimine...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
@@ -4200,12 +4200,12 @@ Põhjus:
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2279"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Loo otsetee</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Loob töölauale otsetee, mis käivitab valitud eksemplari.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="802"/>
@@ -4755,7 +4755,10 @@ Please add your Mojang or Minecraft account.</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad kustutama: %1
+See võib olla püsiv ning kustutab eksemplari täielikult.
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
@@ -4773,7 +4776,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Loo eksemplari otsetee</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
@@ -4783,21 +4786,21 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Käivitaja on kaustas, kust see ekstraktiti, seega see ei saa otseteid luua.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2227"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2290"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2332"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selle eksemplari otsetee on loodud sinu töölauale!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2295"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksemplari otsetee loomine ebaõnnestus!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2240"/>
@@ -4810,7 +4813,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otseteele ikooni loomine ebaõnnestus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2280"/>
@@ -4895,7 +4898,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Paki teave</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
@@ -4905,17 +4908,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Praegune versioon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakkuja teave:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uuenda versioonile:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
@@ -4925,12 +4928,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="167"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Muudatuste logi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selle versiooni jaoks muudatuste logi puudub!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
@@ -4970,7 +4973,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Uuenda pakki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
@@ -4980,12 +4983,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selle modipaki muudatuste logi andmete hankimine ebaõnnestus.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei saa uuendada!</translation>
     </message>
 </context>
 <context>
@@ -5108,7 +5111,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Native library workarounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohalike teekide alternatiivid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
@@ -5705,7 +5708,8 @@ Are you sure?</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rakendusliidese versioon on liiga vana!
+Palun uuenda %1!</translation>
     </message>
 </context>
 <context>
@@ -5869,7 +5873,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobimatu manifest: faili &quot;%1&quot; allalaadimiseks puudub teave!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
@@ -5944,7 +5948,8 @@ Please update %1!</source>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rakendusliidese versioon on liiga vana!
+Palun uuenda %1!</translation>
     </message>
 </context>
 <context>
@@ -6076,7 +6081,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="248"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muudatuste logide hankimine...</translation>
     </message>
 </context>
 <context>
@@ -6775,7 +6780,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>See kehtib ainult PolyMC puhul. Minecraft ei aktsepteeri proksisätteid.</translation>
+        <translation>See kehtib ainult käivitaja puhul. Minecraft ei aktsepteeri proksisätteid.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -7247,7 +7252,7 @@ Uus nimi: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished">Üks või rohkem sinu eksemplari on samast modipakist%1. Kas soovid luua eraldiseisva eksemplari või uuendada olemasolevat?
+        <translation>Üks või rohkem olemasolevat eksemplari on samast modipakist%1. Kas soovid luua eraldiseisva eksemplari või uuendada olemasolevat?
 
 MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, sest maailmad võivad korrumpeeruda ning teatud seadistused võivad kaduma minna (paki ülekirjutuste tõttu).</translation>
     </message>
