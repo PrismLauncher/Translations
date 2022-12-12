@@ -696,7 +696,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>A forrás fájlok beszerzése a Mojangtól...</translation>
+        <translation>Forrásfájlok beszerzése a Mojangtól...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
@@ -1785,7 +1785,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="314"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Szia!&lt;/h1&gt;&lt;h4&gt;Úgy tűnik, a csomagazonosítója null. Ennek oka az indító régebbi verzióiban található hiba.&lt;br/&gt;Sajnos ezen információk nélkül nem tudjuk végrehajtani a megfelelő API-kéréseket.&lt;br/&gt;&lt;br/&gt;Tehát, hogy ez a funkció működjön, újra le kell töltenie a modpack-et a beépített letöltőből.&lt;br/&gt;&lt;br/&gt;Ne aggódjon, inkább ezt a példányt fogja frissíteni, így nem veszíti el ezt a példányt!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Szia!&lt;/h1&gt;&lt;h4&gt;Úgy tűnik, a csomagazonosítója null. Ennek oka a launcher régebbi verzióiban található hiba.&lt;br/&gt;Sajnos ezen információk nélkül nem tudjuk végrehajtani a megfelelő API-kéréseket.&lt;br/&gt;&lt;br/&gt;Tehát ahhoz, hogy ez a funkció működjön, újra le kell töltenie a modpack-et a beépített letöltőből.&lt;br/&gt;&lt;br/&gt;Ne aggódjon, a rendszer kérni fogja, hogy frissítse ezt a példányt, így nem veszíti el a példány adatait!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="378"/>
@@ -3820,7 +3820,7 @@ El legyen most távolítva?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">A könyvtárfájlok beszerzése a Mojangtól...</translation>
+        <translation>A könyvtárfájlok beszerzése a Mojangtól...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4799,7 +4799,7 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>Törölni készül: %1
+        <translation>%1 példány törlésére készülsz.
 Ez végleges lehet, és teljesen törli a példányt.
 
 Biztos vagy ebben?</translation>
@@ -5027,7 +5027,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
         <source>Update pack</source>
-        <translation>Frissítési csomag</translation>
+        <translation>Csomag frissítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
