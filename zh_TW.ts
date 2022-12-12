@@ -1191,7 +1191,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">無法掃描來源路徑。</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
@@ -1207,7 +1207,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">某些路徑無法複製！</translation>
     </message>
 </context>
 <context>
@@ -1608,7 +1608,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">從 API 返回的數據無效。</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -1785,7 +1785,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="314"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。 這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常工作， 您需要從內置下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會丟失此實例！&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="378"/>
@@ -3416,12 +3416,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Breeze Light</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">微風燈</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">微風暗</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -4296,7 +4296,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在您的桌面上創建一個捷徑以啟動選定的實例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="802"/>
@@ -4859,7 +4859,10 @@ Please add your Mojang or Minecraft account.</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">即將刪除：%1
+這可能是永久性的，並且會完全刪除該實例。
+
+你確定嗎？</translation>
     </message>
     <message>
         <source>About to delete: %1
@@ -4897,14 +4900,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">啟動器位於其提取的文件夾中，因此無法創建快捷方式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2227"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2290"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2332"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">已在您的桌面上創建了此實例的捷徑！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
@@ -4924,7 +4927,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">無法為捷徑創建圖標。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2280"/>
@@ -5013,7 +5016,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">包裝信息</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
@@ -5028,12 +5031,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">提供者信息：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">版本更新：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
