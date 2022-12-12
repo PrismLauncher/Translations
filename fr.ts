@@ -29,12 +29,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Type de Service Pastebin</translation>
+        <translation>&amp;Service Pastebin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>base et URL</translation>
+        <translation>URL de Base</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Serveur de Méta et données</translation>
+        <translation>Serveur de Métadonnées</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -3478,12 +3478,12 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation>Rory ID 11 (dessiner par Ashtaka)</translation>
+        <translation>Rory ID 11 (dessiné par Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation>Rory ID 11 (éditon plate, dessiner par Ashtaka)</translation>
+        <translation>Rory ID 11 (éditon plate, dessiné par Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="403"/>
