@@ -1783,12 +1783,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常工作， 您需要從內置下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會丟失此實例！&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="382"/>
         <source> (Current)</source>
         <translation> （目前）</translation>
     </message>
@@ -5059,52 +5059,52 @@ Are you sure?</source>
         <translation>重新整理頁面</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="88"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation>網站：&lt;a href=%1&gt;%2&lt;/a&gt;    |    模組包 ID：%3    |    版本 ID：%4</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="135"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>Task aborted</source>
         <translation>任務已終止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>The task has been aborted by the user.</source>
         <translation>任務已被使用者終止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="143"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="151"/>
         <source>Update pack</source>
         <translation>更新模組包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="162"/>
         <source>Failed to search for available versions.</source>
         <translation>無法搜尋可用的版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="165"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>無法請求此模組包的更新日誌資料。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Cannot update!</source>
         <translation>無法更新！</translation>
     </message>
@@ -6237,12 +6237,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="240"/>
         <source> (Current)</source>
         <translation> （目前）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="252"/>
         <source>Fetching changelogs...</source>
         <translation>取得更新日誌...</translation>
     </message>

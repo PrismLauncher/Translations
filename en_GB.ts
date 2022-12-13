@@ -1799,12 +1799,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="314"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="378"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="382"/>
         <source> (Current)</source>
         <translation> (Current)</translation>
     </message>
@@ -5073,52 +5073,52 @@ Are you sure?</translation>
         <translation>Reload page</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="88"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="135"/>
         <source>Warnings</source>
         <translation>Warnings</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>Task aborted</source>
         <translation>Task aborted</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>The task has been aborted by the user.</source>
         <translation>The task has been aborted by the user.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="139"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="143"/>
         <source>Abort</source>
         <translation>Abort</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="151"/>
         <source>Update pack</source>
         <translation>Update pack</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="162"/>
         <source>Failed to search for available versions.</source>
         <translation>Failed to search for available versions.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="165"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>Failed to request changelog data for this modpack.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Cannot update!</source>
         <translation>Cannot update!</translation>
     </message>
@@ -6238,12 +6238,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="240"/>
         <source> (Current)</source>
         <translation> (Current)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="252"/>
         <source>Fetching changelogs...</source>
         <translation>Fetching changelogs...</translation>
     </message>
