@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Servicio Pastebin</translation>
+        <translation>&amp;Servicio Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Introduce un Agente de usuario personalizado aquí. La cadena especial $LAUNCHER_VER será remplazada por la versión del lanzador.</translation>
+        <translation>Introduce un Agente de usuario personalizado aquí. La cadena especial $LAUNCHER_VER será remplazada por la versión del launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -106,7 +106,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation>&amp;API de CurseForge Core</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -260,7 +260,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Un lanzador personalizado que hace la gestión de Minecraft más fácil, permitiendo tener varias instancias de Minecraft a la vez.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Un launcher personalizado que hace la gestión de Minecraft más fácil, permitiendo tener varias instancias de Minecraft a la vez.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -1186,7 +1186,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;El comando de pre-lanzamiento se ejecuta antes de que la instancia se lance y el de post-salida se ejecuta después de que se detenga.&lt;/p&gt;&lt;p&gt;Ambos se ejecutarán en la carpeta de trabajo del lanzador con variables de entorno adicionales:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nombre de la instancia&lt;/li&gt;&lt;li&gt;$INST_ID - ID de la instancia (su nombre de carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - ruta absoluta de la instancia&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - ruta absoluta de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binario java utilizado para el lanzamiento&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parámetros de línea de comandos utilizados para el lanzamiento (Advertencia: No funcionará correctamente si los argumentos contienen espacios)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;El comando de envoltura permite el lanzamiento utilizando un programa envolvente adicional (como &apos;optirun&apos; en Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;El comando de pre-lanzamiento se ejecuta antes de que la instancia se lance y el de post-salida se ejecuta después de que se detenga.&lt;/p&gt;&lt;p&gt;Ambos se ejecutarán en la carpeta de trabajo del launcher con variables de entorno adicionales:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nombre de la instancia&lt;/li&gt;&lt;li&gt;$INST_ID - ID de la instancia (su nombre de carpeta)&lt;/li&gt;&lt;li&gt;$INST_DIR - ruta absoluta de la instancia&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - ruta absoluta de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binario java utilizado para el lanzamiento&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parámetros de línea de comandos utilizados para el lanzamiento (Advertencia: No funcionará correctamente si los argumentos contienen espacios)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;El comando de envoltura permite el lanzamiento utilizando un programa envolvente adicional (como &apos;optirun&apos; en Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1223,7 +1223,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished">¡Algunas rutas no se pudieron copiar!</translation>
+        <translation>¡Algunas rutas no se pudieron copiar!</translation>
     </message>
 </context>
 <context>
@@ -1758,7 +1758,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Los siguientes mods no pueden ser descargados en lanzadores de terceros.&lt;br/&gt;Tendrás que descargarlos manualmente y añadirlos al pack de mods.</translation>
+        <translation>Los siguientes mods no pueden ser descargados en launchers de terceros.&lt;br/&gt;Tendrás que descargarlos manualmente y añadirlos al pack de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="444"/>
@@ -1788,7 +1788,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="504"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation>PackageType no reconocido/no manejado para: %1</translation>
+        <translation>Tipo de paquete no reconocido/manejado para: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
@@ -1875,7 +1875,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Nota: CurseForge permite a los creadores bloquear el acceso a herramientas de terceros como Prism Launcher. Por ello, puede que debas descargar manualmente algunos mods para poder instalar un pack de mods.</translation>
+        <translation>Nota: CurseForge permite a los creadores bloquear el acceso a herramientas de terceros como Prism Launcher. Por ello, puede que debas descargar manualmente algunos mods para poder instalar un modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2168,12 +2168,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation>- Packs de mods de CurseForge (ZIP)</translation>
+        <translation>- Modpacks de CurseForge (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Packs de mods de Modrinth (ZIP y mrpack)</translation>
+        <translation>- Modpacks de Modrinth (ZIP y mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -2184,7 +2184,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Packs de mods de Technic (ZIP)</translation>
+        <translation>- Modpacks de Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -2209,7 +2209,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation>Seleccione pack de mods</translation>
+        <translation>Seleccione un modpack</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -2302,34 +2302,34 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/InstanceImportTask.cpp" line="82"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Descargando pack de mods: 
+        <translation>Descargando modpack: 
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Modpack download</source>
-        <translation>Descarga de pack de mods</translation>
+        <translation>Descarga de modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="128"/>
         <source>Extracting modpack</source>
-        <translation>Extrayendo pack de mods</translation>
+        <translation>Extrayendo modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="136"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>No se puede abrir el archivo zip del pack de mods.</translation>
+        <translation>No se puede abrir el archivo zip del modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>El archivo no contiene un tipo de pack de mods reconocido.</translation>
+        <translation>El archivo no contiene un tipo de modpacks reconocido.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="197"/>
         <source>Failed to extract modpack</source>
-        <translation>Error al extraer pack de mods</translation>
+        <translation>Error al extraer el modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="224"/>
@@ -2491,7 +2491,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Si está activado, el lanzador no comprobará si una instancia es compatible con la versión de Java seleccionada.</translation>
+        <translation>Si está activado, el launcher no comprobará si una instancia es compatible con la versión de Java seleccionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
@@ -2586,12 +2586,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
         <source>Close the launcher after game window opens</source>
-        <translation>Cierra el lanzador después de que la ventana del juego se abra</translation>
+        <translation>Cierra el launcher después de que la ventana del juego se abra</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="387"/>
         <source>Quit the launcher after game window closes</source>
-        <translation>Sal del lanzador después de que la ventana del juego se cierre</translation>
+        <translation>Sal del launcher después de que la ventana del juego se cierre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="411"/>
@@ -2883,7 +2883,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="266"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>Si está activado, el lanzador no te preguntará por una versión de Java si no se encuentra ninguna.</translation>
+        <translation>Si está activado, el launcher no te preguntará por una versión de Java si no se encuentra ninguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="269"/>
@@ -2893,7 +2893,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Si se activa, el lanzador no comprobará si una instancia es compatible con la versión de Java seleccionada.</translation>
+        <translation>Si se activa, el launcher no comprobará si una instancia es compatible con la versión de Java seleccionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
@@ -3067,7 +3067,7 @@ Por favor, seleccione uno de los siguientes o busque un ejecutable de Java.</tra
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>Para poder jugar a Minecraft, debes tener al menos una cuenta de Mojang o Microsoft conectada. Las cuentas de Mojang solo pueden ser usadas offline. ¿Quieres abrir el gestor de cuentas para añadir una cuenta ahora?</translation>
+        <translation>Para poder jugar a Minecraft, debes tener al menos una cuenta de Mojang o Microsoft conectada. Las cuentas de Mojang solo pueden ser jugadas sin conexión. ¿Quieres abrir el gestor de cuentas para añadir una cuenta ahora?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
@@ -3162,7 +3162,7 @@ Necesitas comprar el juego primero para jugarlo.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>La identificación del cliente del lanzador ha cambiado. Elimine esta cuenta y agréguela de nuevo.</translation>
+        <translation>La identificación del cliente del launcher ha cambiado. Elimine esta cuenta y agréguela de nuevo.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="297"/>
@@ -3199,7 +3199,7 @@ Necesitas comprar el juego primero para jugarlo.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation>No se puede iniciar el lanzador.</translation>
+        <translation>No se puede iniciar el launcher .</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="401"/>
@@ -3421,12 +3421,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Breeze Light</source>
-        <translation>Breeze Light</translation>
+        <translation>Brisa iluminada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Breeze Dark</source>
-        <translation>Breeze Dark</translation>
+        <translation>Brisa oscura</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -3571,7 +3571,7 @@ This is known to cause problems. After a restart the launcher might break, becau
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation>Usted está intentando especificar una carpeta de instancias que fue concedida temporalmente a través de Flatpak.
-Se sabe que esto causa problemas. Después de un reinicio el lanzador podría romperse, porque ya no tendrá acceso a ese directorio.
+Se sabe que esto causa problemas. Después de un reinicio el launcher podría romperse, porque ya no tendrá acceso a ese directorio.
 
 Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translation>
     </message>
@@ -3611,7 +3611,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="101"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>La librería del lanzador no ha sido encontrada. Por favor comprueba la instalación.</translation>
+        <translation>La librería del launcher no ha sido encontrada. Por favor comprueba la instalación.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
@@ -3742,7 +3742,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="94"/>
         <source>Add pack</source>
-        <translation>Añadir Pack de mods</translation>
+        <translation>Añadir Pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="101"/>
@@ -3788,7 +3788,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="380"/>
         <source>Add FTB pack</source>
-        <translation>Añadir Pack de mods de FTB</translation>
+        <translation>Añadir FTB Pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="381"/>
@@ -3870,7 +3870,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Obteniendo los archivos de librería desde Mojang....</translation>
+        <translation>Descargando archivos de biblioteca requeridos...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4291,7 +4291,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Cop&amp;y...</source>
-        <translation>Copiar... (&amp;Y)</translation>
+        <translation>Cop&amp;iar...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
@@ -4327,7 +4327,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>Añadir instancia... (&amp;E)</translation>
+        <translation>Añadir instanc&amp;ia...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
@@ -4364,7 +4364,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="unfinished">Instalar un prismlauncher symlink a /urs/local/bin</translation>
+        <translation>Instalar prismlauncher symlink en /urs/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
@@ -4769,7 +4769,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>No Default Account</source>
-        <translation>No hay cuenta por defecto</translation>
+        <translation>Sin cuenta por defecto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
@@ -4837,17 +4837,17 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2052"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished">Se ha añadido exitosamente %1 a %PATH</translation>
+        <translation>Añadido exitosamente %1 a %PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2053"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished">Se ha añadido exitosamente %1 a %PATH . Ahora puedes iniciarlo ejecutando `%2`.</translation>
+        <translation>%1 fue añadido exitosamente a %PATH . Ahora puedes iniciarlo ejecutando `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2056"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished">No se ha podido añadir %1 a PATH</translation>
+        <translation>Fallo al añadir %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2057"/>
@@ -4900,7 +4900,7 @@ Esto es permanente y borrará completamente la instancia.
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished">Crear un atajo de la instancia</translation>
+        <translation>Crear acceso directo de la instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
@@ -4910,21 +4910,21 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation>El launcher esta en la carpeta donde fue extraído, por lo tanto no puede crear atajos.</translation>
+        <translation>El launcher esta en la carpeta donde fue extraído, por lo tanto no puede crear accesos directos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2227"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2290"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2332"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>¡Se ha creado un atajo de esta instancia en tu escritorio!</translation>
+        <translation>¡Se ha creado un acceso directo de esta instancia en tu escritorio!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2295"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <source>Failed to create instance shortcut!</source>
-        <translation>¡No se ha podido crear el atajo de la instancia!</translation>
+        <translation>¡No se ha podido crear el acceso directo de la instancia!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2240"/>
@@ -4937,7 +4937,7 @@ Esto es permanente y borrará completamente la instancia.
         <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation>No se pudo crear el icono para el atajo.</translation>
+        <translation>No se pudo crear el icono para el acceso directo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2280"/>
@@ -4967,12 +4967,12 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2463"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Este es un problema: &lt;br/&gt; - Es probable que el sistema operativo borre el lanzador sin previo aviso &lt;br/&gt; - cierra el lanzador ahora y extráelo a una carpeta real, no a una carpeta temporal</translation>
+        <translation>Este es un problema: &lt;br/&gt; - Es probable que el sistema operativo borre el launcher sin previo aviso &lt;br/&gt; - cierra el launcher ahora y extráelo a una carpeta real, no a una carpeta temporal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2470"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>Su carpeta de instancia contiene &apos;Rar$&apos; - ¡eso significa que no ha extraído el archivo del lanzador!</translation>
+        <translation>Su carpeta de instancia contiene &apos;Rar$&apos; - ¡eso significa que no ha extraído el archivo del launcher!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2478"/>
@@ -5052,7 +5052,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="167"/>
         <source>Changelog</source>
-        <translation>Registro de los cambios</translation>
+        <translation>Registro de cambios</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
@@ -5062,57 +5062,57 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>Recargar página</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="84"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="127"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tarea abortada</translation>
+        <translation>Tarea abortada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">La tarea ha sido abortada por el usuario.</translation>
+        <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="139"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="147"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="158"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al buscar versiones disponibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al solicitar los datos del registro de cambios para este modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="163"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡No se puedo actualizar!</translation>
     </message>
 </context>
 <context>
@@ -6023,7 +6023,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Los siguientes archivos no están disponibles para descargar en lanzadores de terceros.&lt;br/&gt;Necesitarás descargarlos manualmente y añadirlos a la instancia.</translation>
+        <translation>Los siguientes archivos no están disponibles para descargar en launchers de terceros.&lt;br/&gt;Necesitarás descargarlos manualmente y añadirlos a la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
@@ -6226,12 +6226,12 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="236"/>
         <source> (Current)</source>
-        <translation type="unfinished"> (Actual)</translation>
+        <translation> (Actual)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="248"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Obteniendo registros de cambios...</translation>
     </message>
 </context>
 <context>
@@ -6960,7 +6960,7 @@ Elija su nombre cuidadosamente:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="42"/>
         <source>This only applies to the launcher. Minecraft does not accept proxy settings.</source>
-        <translation>Esto solo se aplica al lanzador. Minecraft no acepta la configuración del proxy.</translation>
+        <translation>Esto solo se aplica al launcher. Minecraft no acepta la configuración del proxy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
@@ -7020,7 +7020,7 @@ Elija su nombre cuidadosamente:</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Nota: ¡El nombre de usuario y la contraseña del proxy se almacenan en texto plano dentro del archivo de configuración del lanzador!</translation>
+        <translation>Nota: ¡El nombre de usuario y la contraseña del proxy se almacenan en texto plano dentro del archivo de configuración del launcher!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
@@ -7164,7 +7164,7 @@ Elija su nombre cuidadosamente:</translation>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation>El valor de &apos;minimumLauncherVersion&apos; (versión mínima del lanzador) de esta versión (%1) es superior al soportado por %3 (%2). ¡Puede que no funcione correctamente!</translation>
+        <translation>El valor de &apos;minimumLauncherVersion&apos; (versión mínima del launcher) de esta versión (%1) es superior al soportado por %3 (%2). ¡Puede que no funcione correctamente!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
@@ -7291,19 +7291,19 @@ Por favor, dejanos saber por qué y cómo sucedió esto.</translation>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1m %2s</translation>
+        <translation>%1min %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1h %2m</translation>
+        <translation>%1h %2min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1d %2h %3m</translation>
+        <translation>%1d %2h %3min</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -7426,29 +7426,31 @@ Nombre nuevo: %2</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished">¡Se encontró un pack de mods similar!</translation>
+        <translation>¡Se encontró un modpack similar!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Una o más de tus instancias son de este mismo modpack%1. ¿Desea crear una instancia separada o actualizar la existente?
+
+NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su instancia antes de actualizar, ya que los mundos pueden corromperse y algunas configuraciones pueden perderse (debido a anulaciones del pack).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
         <source>Update existing instance</source>
-        <translation type="unfinished">Actualizar instancia existente</translation>
+        <translation>Actualizar instancia existente</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Create new instance</source>
-        <translation type="unfinished">Crear nueva instancia</translation>
+        <translation>Crear nueva instancia</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -8161,7 +8163,7 @@ falta inheritsFrom</translation>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation>Actualización del lanzador</translation>
+        <translation>Actualización del launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -8496,12 +8498,12 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar agentes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar agentes de Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
@@ -8621,12 +8623,12 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="365"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione agentes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="365"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Agentes Java (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
@@ -8689,17 +8691,17 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="540"/>
         <source>Select Quilt Loader version</source>
-        <translation>Elegir versión del Quilt Loader</translation>
+        <translation>Elegir versión de Quilt Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="541"/>
         <source>No Quilt Loader versions are currently available.</source>
-        <translation>No hay versiones del Quilt Loader disponibles.</translation>
+        <translation>No hay versiones de Quilt Loader disponibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="542"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation>¡No se ha podido cargar o descargar la lista de versiones del Quilt Loader!</translation>
+        <translation>¡No se ha podido cargar o descargar la lista de versiones de Quilt Loader!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="585"/>
@@ -9146,7 +9148,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="18"/>
         <source>Fetching Xbox profile.</source>
-        <translation>Obteniendo el perfil de XBox.</translation>
+        <translation>Obteniendo el perfil de Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="65"/>
