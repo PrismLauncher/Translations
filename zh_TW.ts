@@ -906,7 +906,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="49"/>
         <source>Open Missing</source>
-        <translation>打開缺少</translation>
+        <translation>開啟下載網頁</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
