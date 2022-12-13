@@ -672,22 +672,22 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1632"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stare dane z %1 zostały znalezione, ale masz już dane z %2. Niestety będziesz musiał wykonać migracje samemu. Czy chcesz zostać powiadomiony o oczekujących migracjach następnym razem gdy uruchomisz %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1636"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wygląda na to że wcześniej używałeś&#xa0;%1. Czy chcesz migrować swoje dane do nowej lokalizacji %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1642"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wygląda na to że wcześniej używałeś&#xa0;%1 na %2. Czy chcesz migrować swoje dane do nowej lokalicacji %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Migracja nieudana! Powód: %1</translation>
     </message>
 </context>
 <context>
@@ -922,7 +922,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="49"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz brakujące</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
@@ -1212,7 +1212,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiowanie %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
@@ -1223,7 +1223,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre ścieżki nie mogły zostać skopiowane!</translation>
     </message>
 </context>
 <context>
@@ -1624,7 +1624,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>API zwróciło nieprawidłowe dane.</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2255,7 +2255,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz instancję do której chcesz zaimportować tą paczkę zasobów.</translation>
     </message>
 </context>
 <context>
