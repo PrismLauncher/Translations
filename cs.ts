@@ -1779,14 +1779,18 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="318"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;Čauky Mňauky!🐈&lt;/h1&gt;&lt;h4&gt; Vypadá to že Pack ID je null. Toto je kvůli chybě ve starší verzi launcheru.&lt;br/&gt;Bohužel, nedokážeme udělat správné API dotazy bez této informace.&lt;br/&gt;&lt;br/&gt;Takže, pokud budete chtít aby tato funkce fungovala, budete muset znovu stáhnout tento modpack přes vestavěné stahování modpacků.&lt;br/&gt;&lt;br/&gt;Nebojte se, launcher se vás zeptá jestli chcete aktualizovat tuto instanci, abyste ji neztratili!&lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="382"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
+        <source>%1 (Current)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source> (Current)</source>
-        <translation> (Aktuální)</translation>
+        <translation type="vanished"> (Aktuální)</translation>
     </message>
 </context>
 <context>
@@ -6216,12 +6220,16 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="240"/>
         <source> (Current)</source>
-        <translation> (Aktuální)</translation>
+        <translation type="vanished"> (Aktuální)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="252"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
+        <source>%1 (Current)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
         <source>Fetching changelogs...</source>
         <translation>Získávání changelogů...</translation>
     </message>
