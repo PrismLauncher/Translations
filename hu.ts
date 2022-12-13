@@ -1790,7 +1790,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (jelenlegi)</translation>
     </message>
     <message>
         <source> (Current)</source>
@@ -3384,17 +3384,17 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Breeze Light</source>
-        <translation>Szellő fénye</translation>
+        <translation>Breeze Light</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Breeze Dark</source>
-        <translation>Szellő sötét</translation>
+        <translation>Breeze Dark</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Flat</source>
-        <translation>Lapos</translation>
+        <translation>Flat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
@@ -4976,7 +4976,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation>Frissítés a verzióra:</translation>
+        <translation>Frissítés erre a verzióra:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
@@ -6152,7 +6152,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (jelenlegi)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
