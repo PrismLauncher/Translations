@@ -131,7 +131,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>No se pudo entender el manifiesto del paquete:
+        <translation>No se pudo entender el manifiesto del pack:
 </translation>
     </message>
     <message>
@@ -192,7 +192,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>¡No se pudo abrir las configuraciones del paquete %1!</translation>
+        <translation>¡No se pudo abrir las configuraciones del pack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
@@ -247,7 +247,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1025"/>
         <source>Failed to create pack component</source>
-        <translation>Error al crear el componente del paquete</translation>
+        <translation>Error al crear el componente del pack</translation>
     </message>
 </context>
 <context>
@@ -1112,7 +1112,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
         <source>Copy shader packs</source>
-        <translation>Copiar packs de shaders</translation>
+        <translation>Copiar Shader Packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
@@ -1122,7 +1122,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
         <source>Copy resource packs</source>
-        <translation>Copiar packs de recursos</translation>
+        <translation>Copiar Resource Packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
@@ -1673,7 +1673,7 @@ Por favor, inténtelo de nuevo.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>No se pudo entender el manifiesto del paquete:
+        <translation>No se pudo entender el manifiesto del pack:
 </translation>
     </message>
     <message>
@@ -1735,7 +1735,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="315"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Misteriosos puntos finales eliminados de la versión de Minecraft al importar el paquete.</translation>
+        <translation>Misteriosos puntos finales eliminados de la versión de Minecraft al importar el pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
@@ -1783,12 +1783,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="499"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation>Anidar pack de mods dentro de pack de mods no está implementado, no se descargó nada: %1</translation>
+        <translation>Anidar modpacks dentro de modpacks no está implementado, no se descargó nada: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="504"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation>Tipo de paquete no reconocido/manejado para: %1</translation>
+        <translation>Tipo de pack no reconocido/manejado para: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
@@ -1806,7 +1806,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Actual)</translation>
     </message>
     <message>
         <source> (Current)</source>
@@ -2230,7 +2230,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Elija la instancia a la que le gustaría importar este paquete de recursos.</translation>
+        <translation>Elija la instancia a la que le gustaría importar este resource pack.</translation>
     </message>
 </context>
 <context>
@@ -3656,17 +3656,17 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="116"/>
         <source>Public Modpack</source>
-        <translation>Pack de mods público</translation>
+        <translation>Modpacks público</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="118"/>
         <source>Third Party Modpack</source>
-        <translation>Pack de mods de terceros</translation>
+        <translation>Modpacks de terceros</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="120"/>
         <source>Private Modpack</source>
-        <translation>Pack de mods privado</translation>
+        <translation>Modpacks privado</translation>
     </message>
 </context>
 <context>
@@ -3679,12 +3679,12 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Third Party Packs</source>
-        <translation>Pack de mods de terceros</translation>
+        <translation>Modpacks de terceros</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="132"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>Error al descargar algunas listas de paquetes: %1</translation>
+        <translation>Error al descargar algunas listas de packs: %1</translation>
     </message>
 </context>
 <context>
@@ -3702,17 +3702,17 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="115"/>
         <source>Extracting modpack</source>
-        <translation>Extrayendo Pack de mods</translation>
+        <translation>Extrayendo modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>¡Error al abrir el archivo de Pack de mods %1!</translation>
+        <translation>¡Error al abrir el archivo del modpack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
         <source>Installing modpack</source>
-        <translation>Instalando Pack de mods</translation>
+        <translation>Instalando modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
@@ -3751,7 +3751,7 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="101"/>
         <source>Remove selected pack</source>
-        <translation>Eliminar Pack de mods seleccionado</translation>
+        <translation>Eliminar pack seleccionado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="121"/>
@@ -3780,13 +3780,13 @@ Se recomienda conceder acceso a Prism Launcher a través de Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
         <source>FTB private packs</source>
-        <translation>Pack de mods privados de FTB</translation>
+        <translation>Modpacks privados de FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="242"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>No se pudo descargar la información del paquete para el código %1. 
+        <translation>No se pudo descargar la información del pack para el código %1. 
 ¿Debería eliminarse ahora?</translation>
     </message>
     <message>
@@ -3797,12 +3797,12 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="381"/>
         <source>Enter pack code:</source>
-        <translation>Introducir código de Pack de mods:</translation>
+        <translation>Introducir código del pack:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="404"/>
         <source>Remove pack</source>
-        <translation>Eliminar Pack de mods</translation>
+        <translation>Eliminar pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="405"/>
@@ -4141,7 +4141,7 @@ Motivo:
         <location filename="src/launcher/ui/MainWindow.cpp" line="317"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation>&amp;Ver la carpeta de la instancia</translation>
+        <translation>&amp;Ver la carpeta de las instancias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="318"/>
@@ -4152,12 +4152,12 @@ Motivo:
         <location filename="src/launcher/ui/MainWindow.cpp" line="324"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>Ver la &amp;carpeta central de mods</translation>
+        <translation>&amp;Ver la carpeta central de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Abrir la carpeta central de mods en un explorador de archivos.</translation>
+        <translation>Abrir la carpeta central de mods en el explorador de archivos.</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -4413,7 +4413,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="451"/>
         <source>Lock Toolbars</source>
-        <translation>Bloquear Barra de Herramientas</translation>
+        <translation>Bloquear barra de herramientas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="457"/>
@@ -5026,7 +5026,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation>Información del paquete</translation>
+        <translation>Información del pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
@@ -5723,7 +5723,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
         <source>Mods</source>
-        <translation>Modificaciones</translation>
+        <translation>Pestaña de Mods</translation>
     </message>
 </context>
 <context>
@@ -6000,13 +6000,13 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
-        <translation>No se ha podido encontrar la versión del paquete %1</translation>
+        <translation>No se ha podido encontrar la versión del pack %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>No se puede entender el manifiesto del paquete:
+        <translation>No se puede entender el manifiesto del pack:
 </translation>
     </message>
     <message>
@@ -6093,7 +6093,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>Ha ocurrido un error en la red. No se han podido cargar los packs de mods.</translation>
+        <translation>Ha ocurrido un error en la red. No se han podido cargar los modpacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
@@ -6234,7 +6234,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Actual)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
@@ -6275,7 +6275,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Nota: Los packs de mods de Modrinth están en fase alfa. ¡Algunas cosas pueden dar problemas o no funcionar totalmente! Usar con cuidado.</translation>
+        <translation>Nota: Los modpacks de Modrinth están en fase alfa. ¡Algunas cosas pueden dar problemas o no funcionar totalmente! Usar con cuidado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -7533,7 +7533,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
         <source>The name of the resource pack.</source>
-        <translation>El nombre del paquete de recursos.</translation>
+        <translation>El nombre del resource pack.</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -7542,7 +7542,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="128"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>La fecha y la hora en la que este paquete de recursos se modificó por última vez (o se creó).</translation>
+        <translation>La fecha y la hora en la que este resource pack se modificó por última vez (o se creó).</translation>
     </message>
 </context>
 <context>
@@ -7550,7 +7550,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="54"/>
         <source>Resource packs</source>
-        <translation>Paquetes de recursos</translation>
+        <translation>Resource Packs</translation>
     </message>
 </context>
 <context>
@@ -7806,7 +7806,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="54"/>
         <source>Shader packs</source>
-        <translation>Shaders</translation>
+        <translation>Shader Packs</translation>
     </message>
 </context>
 <context>
@@ -8111,7 +8111,7 @@ falta inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="55"/>
         <source>Texture packs</source>
-        <translation>Paquetes de textura</translation>
+        <translation>Texture Packs</translation>
     </message>
 </context>
 <context>
@@ -8376,7 +8376,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
         <source>Change version of the selected package.</source>
-        <translation>Cambiar la versión del paquete seleccionado.</translation>
+        <translation>Cambiar la versión del pack seleccionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
@@ -8386,7 +8386,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
         <source>Make the selected package apply sooner.</source>
-        <translation>Hacer que el paquete seleccionado se aplique antes.</translation>
+        <translation>Hacer que el pack seleccionado se aplique antes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
@@ -8396,7 +8396,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
         <source>Make the selected package apply later.</source>
-        <translation>Hacer que el paquete seleccionado se aplique después.</translation>
+        <translation>Hacer que el pack seleccionado se aplique después.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
@@ -8406,7 +8406,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
         <source>Remove selected package from the instance.</source>
-        <translation>Eliminar el paquete seleccionado de la instancia.</translation>
+        <translation>Eliminar el pack seleccionado de la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
@@ -8416,7 +8416,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
         <source>Customize selected package.</source>
-        <translation>Personalizar el paquete seleccionado.</translation>
+        <translation>Personalizar el pack seleccionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
@@ -8426,7 +8426,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
         <source>Edit selected package.</source>
-        <translation>Editar el paquete seleccionado.</translation>
+        <translation>Editar el pack seleccionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
@@ -8436,7 +8436,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
         <source>Revert the selected package to default.</source>
-        <translation>Revertir el paquete seleccionado a los valores predeterminados.</translation>
+        <translation>Revertir el pack seleccionado a los valores predeterminados.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
@@ -8446,7 +8446,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
         <source>Install the Minecraft Forge package.</source>
-        <translation>Instalar el paquete Minecraft Forge.</translation>
+        <translation>Instalar el Minecraft Forge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
@@ -8456,7 +8456,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
         <source>Install the Fabric Loader package.</source>
-        <translation>Instalar el paquete Fabric Loader.</translation>
+        <translation>Instalar el Fabric Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
@@ -8466,7 +8466,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
         <source>Install the Quilt Loader package.</source>
-        <translation>Instalar el paquete de Quilt Loader.</translation>
+        <translation>Instalar el Quilt Loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
@@ -8476,7 +8476,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
         <source>Install the LiteLoader package.</source>
-        <translation>Instalar el paquete LiteLoader.</translation>
+        <translation>Instalar el LiteLoader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
@@ -8521,7 +8521,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
         <source>Add an empty custom package.</source>
-        <translation>Añadir paquete personalizado vacío.</translation>
+        <translation>Añadir pack personalizado vacío.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
@@ -8531,7 +8531,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="251"/>
         <source>Reload all packages.</source>
-        <translation>Recargar todos los paquetes.</translation>
+        <translation>Recargar todos los packs.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="256"/>
