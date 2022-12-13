@@ -2967,7 +2967,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalny przydział pamięci zbliża się do pojemność pamięci twojego systemu.</translation>
     </message>
 </context>
 <context>
