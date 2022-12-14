@@ -1207,7 +1207,7 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Requesting metadata information from %1 for &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
@@ -1300,74 +1300,74 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove selected item</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Enable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable selected item</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Disable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Disable selected item</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>View &amp;Configs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the &apos;config&apos; folder in the system file manager.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>View &amp;Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="140"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Download a new resource</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for &amp;Updates</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Try to check or update all selected resources (all resources if none are selected)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="62"/>
         <source>Context menu</source>
-        <translation type="unfinished">Context menu</translation>
+        <translation>Context menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Select %1</translation>
     </message>
 </context>
 <context>
@@ -1377,28 +1377,28 @@ Please update both your operating system and %1.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Check</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>External Editors (leave empty for system default)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Text Editor:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>External Tools</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1408,80 +1408,83 @@ Please update both your operating system and %1.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error while checking JProfiler install:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler setup seems to be OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM Executable</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="168"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error while checking JVisualVM install:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM setup seems to be OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit Application</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error while checking MCEdit install:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit setup seems to be OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON Editor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>The file chosen does not seem to be an executable</translation>
     </message>
 </context>
 <context>
@@ -1489,7 +1492,7 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -1497,32 +1500,32 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking for FML libraries...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloading FML libraries...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished">Aborted</translation>
+        <translation>Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copying FML libraries into the instance...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed creating FML library folder inside the instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed copying Forge/FML library: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
@@ -1531,7 +1534,11 @@ Please update both your operating system and %1.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to download the following files:
+%1
+
+Reason:%2
+Please try again.</translation>
     </message>
 </context>
 <context>
@@ -1539,12 +1546,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolving mod IDs...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalid data returned from the API.</translation>
     </message>
 </context>
 <context>
@@ -1552,34 +1559,34 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparing mods for CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Getting API response from CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Parsing the API response from CurseForge for &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod has a new update available, but is not downloadable using CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1595,60 +1602,62 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="109"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="231"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>No index file.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="232"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="280"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Could not rename the overrides folder:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="285"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished"></translation>
+        <translation>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unknown mod loader in manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="315"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mysterious trailing dots removed from Minecraft version while importing pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t map recommended Forge version for Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="371"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to resolve mod IDs:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="419"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocked mods found</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="444"/>
