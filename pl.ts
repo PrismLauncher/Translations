@@ -2761,7 +2761,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="468"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Maksymalny przydział pamięci zbliża się do pojemność pamięci twojego systemu.</translation>
+        <translation>Maksymalny przydział pamięci zbliża się do pojemności pamięci twojego systemu.</translation>
     </message>
 </context>
 <context>
@@ -3456,12 +3456,12 @@ Konieczne może być naprawienie twoich modów, gdyż gra wciąż zapisuje logi 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Breeze Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasna Bryza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemna Bryza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -3912,7 +3912,7 @@ Czy powinna zostać usunięta?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Pobieranie plików bibliotek od Mojangu...</translation>
+        <translation>Pobieranie wymaganych plików bibliotek...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4340,12 +4340,12 @@ Powód:
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2279"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz skrót</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tworzy skrót na pulpicie uruchamiający wybraną instancję.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="802"/>
@@ -4903,7 +4903,10 @@ Proszę dodaj swoje konto Mojang lub Minecraft.</translation>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamierzasz usunąć: %1
+Może to być trwałe działanie które całkowicie usunie tą instancję.
+
+Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -4940,12 +4943,12 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz skrót do instancji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć pulpitu?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
@@ -4957,14 +4960,14 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2290"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2332"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Utworzono skrót do instancji na pulpicie!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2295"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się stworzyć skrótu do instancji!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2240"/>
@@ -4977,7 +4980,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się utworzyć ikony dla skrótu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2280"/>
@@ -5096,7 +5099,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="167"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista zmian</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
@@ -5151,12 +5154,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="165"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się uzyskać listy zmian dla tej paczki modów.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zaktualizować!</translation>
     </message>
 </context>
 <context>
@@ -6280,7 +6283,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie listy zmian...</translation>
     </message>
 </context>
 <context>
