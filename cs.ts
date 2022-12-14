@@ -137,7 +137,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation>Neznámý typ módu: %1</translation>
+        <translation>Neznámý typ modu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
@@ -182,12 +182,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
         <source>Downloading mods...</source>
-        <translation>Stahování módů...</translation>
+        <translation>Stahování modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
         <source>Mod download</source>
-        <translation>Stáhnout mód</translation>
+        <translation>Stáhnout mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="764"/>
@@ -202,12 +202,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="891"/>
         <source>Failed to extract mods...</source>
-        <translation>Nepodařilo se rozbalit módy...</translation>
+        <translation>Nepodařilo se rozbalit mody...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="902"/>
         <source>Extracting mods...</source>
-        <translation>Rozbalování módů...</translation>
+        <translation>Rozbalování modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="975"/>
@@ -735,7 +735,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Vyberte módy k instalaci</translation>
+        <translation>Vyberte mody k instalaci</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -883,7 +883,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="163"/>
         <source>All mods found</source>
-        <translation>Nalezeny všechny módy</translation>
+        <translation>Nalezeny všechny mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="166"/>
@@ -912,7 +912,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="128"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Vyberte adresář, do kterého jste stáhli své módy</translation>
+        <translation>Vyberte adresář, do kterého jste stáhli své mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
@@ -965,12 +965,12 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Vyberte poskytovatele módů</translation>
+        <translation>Vyberte poskytovatele modů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>Přeskočit tento mód</translation>
+        <translation>Přeskočit tento mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
@@ -1067,12 +1067,12 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Zakázáním tohoto ponecháte mod loader (např. Fabric, Quilt, atd.), ale smažete složku s módy a jejich nastavení.</translation>
+        <translation>Zakázáním tohoto ponecháte mod loader (např. Fabric, Quilt, atd.), ale smažete složku s mody a jejich nastavení.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
         <source>Copy mods</source>
-        <translation>Kopírovat módy</translation>
+        <translation>Kopírovat mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
@@ -1125,7 +1125,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="76"/>
         <source>Core mods</source>
-        <translation>Vnitřní módy</translation>
+        <translation>Vnitřní mody</translation>
     </message>
 </context>
 <context>
@@ -1250,7 +1250,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation>Kontrola, zda mají módy metadata...</translation>
+        <translation>Kontrola, zda mají mody metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
@@ -1616,12 +1616,12 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Příprava módů pro CurseForge...</translation>
+        <translation>Příprava modů pro CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Zakázané módy nebudou aktualizovány pro zabránění problémům s duplikací módů!</translation>
+        <translation>Zakázané mody nebudou aktualizovány pro zabránění problémům s jejich duplikací!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
@@ -1637,13 +1637,13 @@ Prosím zkus znovu.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nebyla nalezena žádná platná verze tohoto módu. Nejspíš je nedostupný na současnou verzi hry nebo modloader.</translation>
+        <translation>Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>Je dostupná nová aktualizace módu, ale je vypnutá na CurseForge.</translation>
+        <translation>Je dostupná nová aktualizace modu, ale nelze ji stáhnout přes CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1726,13 +1726,13 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="371"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Nepodařilo se vyřešit ID módů:
+        <translation>Nepodařilo se vyřešit ID modů:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="419"/>
         <source>Blocked mods found</source>
-        <translation>Nalezeny zablokované módy</translation>
+        <translation>Nalezeny zablokované mody</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="420"/>
@@ -1743,17 +1743,17 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="444"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Kopírování blokovaných módů...</translation>
+        <translation>Kopírování blokovaných modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Kopírování blokovaných módů (hotovo %1 z %2)</translation>
+        <translation>Kopírování blokovaných modů (hotovo %1 z %2)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="474"/>
         <source>Mod download</source>
-        <translation>Stáhnout mód</translation>
+        <translation>Stáhnout mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="486"/>
@@ -1773,7 +1773,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="518"/>
         <source>Downloading mods...</source>
-        <translation>Stahování módů...</translation>
+        <translation>Stahování modů...</translation>
     </message>
 </context>
 <context>
@@ -1859,7 +1859,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Poznámka: CurseForge umožňuje tvůrcům blokovat přístup k nástrojům třetích stran jako je Prism Launcher. Kvůli tomu budete muset při instalaci modpacku stáhnout některé módy manuálně.</translation>
+        <translation>Poznámka: CurseForge umožňuje tvůrcům blokovat přístup k nástrojům třetích stran jako je Prism Launcher. Kvůli tomu budete možná muset při instalaci modpacku stáhnout některé mody manuálně.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3262,7 +3262,7 @@ Možná budete muset spravit své mody, jelikož hra stále generuje výpisy do 
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Sledování protokolu hry zastaveno, protože délka protokolu překročila %1 řádků.
-Možná budete muset opravit své módy, protože hra se stále zapisuje do souborů a pravděpodobně mrhá místem na pevném disku alarmující rychlostí!</translation>
+Možná budete muset opravit své mody, protože hra se stále zapisuje do souborů a pravděpodobně plýtvá místem na pevném disku alarmující rychlostí!</translation>
     </message>
 </context>
 <context>
@@ -3325,7 +3325,7 @@ Možná budete muset opravit své módy, protože hra se stále zapisuje do soub
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;Módy:</translation>
+        <translation>&amp;Mody:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
@@ -3390,7 +3390,7 @@ Možná budete muset opravit své módy, protože hra se stále zapisuje do soub
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>Módy</translation>
+        <translation>Mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -3400,13 +3400,13 @@ Možná budete muset opravit své módy, protože hra se stále zapisuje do soub
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation>Zakázat používání metadat pro módy?</translation>
+        <translation>Zakázat používání metadat pro mody?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varování&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Zakázáním metadat módů může dojít k zakázání některých dodatečných funkcí, jako jsou aktualizace módů!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varování&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Zakázáním metadat modů může dojít k zakázání některých dodatečných funkcí, jako jsou jejich aktualizace!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
@@ -3574,7 +3574,7 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="186"/>
         <source>Mods Folder</source>
-        <translation>Složka s módy</translation>
+        <translation>Složka s mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="503"/>
@@ -3905,7 +3905,7 @@ Důvod:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
         <source>Updating index for mod:
 %1</source>
-        <translation>Aktualizuji index pro mód:
+        <translation>Aktualizuji index pro mod:
 %1</translation>
     </message>
     <message>
@@ -4137,12 +4137,12 @@ Důvod:
         <location filename="src/launcher/ui/MainWindow.cpp" line="324"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>Zobrazit &amp;společnou složku s módy</translation>
+        <translation>Zobrazit &amp;společnou složku s mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Otevře centrální složku s módy v souborovém prohlížeči.</translation>
+        <translation>Otevře centrální složku s mody v souborovém prohlížeči.</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -4582,7 +4582,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="733"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Změní nastavení, módy a verzi instance.</translation>
+        <translation>Změní nastavení, mody a verzi instance.</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -5428,12 +5428,12 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="91"/>
         <source>Download mods</source>
-        <translation>Stáhnout módy</translation>
+        <translation>Stáhnout mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="105"/>
         <source>Confirm mods to download</source>
-        <translation>Potvrďte módy ke stažení</translation>
+        <translation>Potvrďte mody ke stažení</translation>
     </message>
 </context>
 <context>
@@ -5448,7 +5448,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
         <source>Mod download</source>
-        <translation>Stáhnout mód</translation>
+        <translation>Stáhnout mod</translation>
     </message>
 </context>
 <context>
@@ -5519,12 +5519,12 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
         <source>The name of the mod.</source>
-        <translation>Název módu.</translation>
+        <translation>Název modu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="133"/>
         <source>The version of the mod.</source>
-        <translation>Verze módu.</translation>
+        <translation>Verze modu.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="135"/>
@@ -5589,12 +5589,12 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="73"/>
         <source>Download mods</source>
-        <translation>Stáhnout módy</translation>
+        <translation>Stáhnout mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
         <source>Download mods from online mod platforms</source>
-        <translation>Stáhnout módy z online modifikačních platforem</translation>
+        <translation>Stáhnout mody z online modifikačních platforem</translation>
     </message>
     <message>
         <source>Add .jar</source>
@@ -5627,7 +5627,7 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="83"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation>Pokusit se najít / aktualizovat všechny vybrané módy (všechny módy, pokud není žádný vybraný)</translation>
+        <translation>Pokusit se najít / aktualizovat všechny vybrané mody (všechny mody, pokud není žádný vybraný)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
@@ -5669,12 +5669,12 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>The mod updater was aborted!</source>
-        <translation>Aktualizace módu byla přerušena!</translation>
+        <translation>Aktualizace modu byla přerušena!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>Všechny vybrané módy jsou již aktuální! :)</translation>
+        <translation>Všechny vybrané mody jsou již aktuální! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="221"/>
@@ -5690,7 +5690,7 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="216"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation>Všechny módy jsou aktuální! :)</translation>
+        <translation>Všechny mody jsou aktuální! :)</translation>
     </message>
     <message>
         <source>selected</source>
@@ -5699,7 +5699,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
         <source>Mods</source>
-        <translation>Módy</translation>
+        <translation>Mody</translation>
     </message>
 </context>
 <context>
@@ -5731,7 +5731,7 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation>Hledat módy...</translation>
+        <translation>Hledat mody...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
@@ -5742,7 +5742,7 @@ Jste si jisti?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="370"/>
         <source>Select mod for download</source>
-        <translation>Vybrat mód ke stažení</translation>
+        <translation>Vybrat mod ke stažení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
@@ -5777,7 +5777,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="372"/>
         <source>Deselect mod for download</source>
-        <translation>Zrušit výběr módu ke stažení</translation>
+        <translation>Zrušit výběr modu ke stažení</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="400"/>
@@ -5821,7 +5821,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="261"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation>Chyba sítě. Nepodařilo se načíst módy.</translation>
+        <translation>Chyba sítě. Nepodařilo se načíst mody.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="268"/>
@@ -5837,22 +5837,22 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="40"/>
         <source>Confirm mods to update</source>
-        <translation>Potvrdit módy k aktualizaci</translation>
+        <translation>Potvrdit mody k aktualizaci</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="49"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Chystáte se aktualizovat následující módy:</translation>
+        <translation>Chystáte se aktualizovat následující mody:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="50"/>
         <source>Only mods with a check will be updated!</source>
-        <translation>Budou aktualizovány pouze zaškrtnuté módy!</translation>
+        <translation>Budou aktualizovány pouze zaškrtnuté mody!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Název módu: %1&lt;br&gt;Název souboru: %2&lt;br&gt;Důvod: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Název modu: %1&lt;br&gt;Název souboru: %2&lt;br&gt;Důvod: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
@@ -5862,7 +5862,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nepodařilo se vygenerovat metadata následujících módů:&lt;br&gt;Přejete si pokračovat bez těchto módů?</translation>
+        <translation>Nepodařilo se vygenerovat metadata následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
@@ -5893,7 +5893,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
         <source>Mod name: %1</source>
-        <translation>Název módu: %1</translation>
+        <translation>Název modu: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
@@ -5909,12 +5909,12 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>Mód &apos;%1&apos; zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mód aktualizovat. Za tímto účelem prosím vyberte poskytovatele módů, který můžeme použít ke kontrole aktualizací tohoto módu.</translation>
+        <translation>Mod &apos;%1&apos; zatím nemá metadata. Musíme je vygenerovat, abychom mohli sledovat relevantní informace o tom, jak tento mod aktualizovat. Za tímto účelem prosím vyberte poskytovatele modů, kterého můžeme použít ke kontrole aktualizací tohoto modu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation>Nepodařilo se najít platnou verzi u vybraných poskytovatelů módů</translation>
+        <translation>Nepodařilo se najít platnou verzi u vybraných poskytovatelů modů</translation>
     </message>
     <message>
         <source>Possible solution: </source>
@@ -5932,7 +5932,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nepodařilo se zkontrolovat nebo získat aktualizace následujících módů:&lt;br&gt;Přejete si pokračovat bez těchto módů?</translation>
+        <translation>Nepodařilo se zkontrolovat nebo získat aktualizace následujících modů:&lt;br&gt;Přejete si pokračovat bez těchto modů?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
@@ -6004,7 +6004,7 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation>Načítání módů...</translation>
+        <translation>Načítání modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
@@ -6029,22 +6029,22 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>Stahování módů...</translation>
+        <translation>Stahování modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>Stáhnout mód</translation>
+        <translation>Stáhnout mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Kopírování blokovaných módů...</translation>
+        <translation>Kopírování blokovaných modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Kopírování blokovaných módů (hotovo %1 z %2)</translation>
+        <translation>Kopírování blokovaných modů (hotovo %1 z %2)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -6101,12 +6101,12 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="30"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation>Příprava módů pro Modrinth...</translation>
+        <translation>Příprava modů pro Modrinth...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="42"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Zakázané módy nebudou aktualizovány pro zabránění problémům s duplikací módů!</translation>
+        <translation>Zakázané mody nebudou aktualizovány pro zabránění problémům s jejich duplikací!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
@@ -6116,12 +6116,12 @@ Aktualizujte prosím %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="103"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nebyla nalezena žádná platná verze tohoto módu. Nejspíš není dostupný na současnou verzi hry / modloader.</translation>
+        <translation>Nebyla nalezena žádná platná verze tohoto modu. Nejspíš není dostupný na současné verzi hry / mod loaderu.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
         <source>Mod has an empty download URL</source>
-        <translation>Mód má prázdnou URL stahování</translation>
+        <translation>Mod má prázdnou URL stahování</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="170"/>
@@ -6187,12 +6187,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="224"/>
         <source>Mod download</source>
-        <translation>Stáhnout mód</translation>
+        <translation>Stáhnout mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="256"/>
         <source>Downloading mods...</source>
-        <translation>Stahování módů...</translation>
+        <translation>Stahování modů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="315"/>
@@ -6202,7 +6202,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="316"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>Jeden nebo více módů v tomto modpacku jsou volitelné. Budou staženy, ale ve výchozím nastavení budou deaktivovány!</translation>
+        <translation>Jeden nebo více modů v tomto modpacku jsou volitelné. Budou staženy, ale ve výchozím nastavení budou deaktivovány!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="359"/>
@@ -6542,7 +6542,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>Jména delší než 16 znaků nelze použít pro LAN hry a pro servery v offline módu.</translation>
+        <translation>Jména delší než 16 znaků nelze použít pro LAN hry a pro servery v režimu offline.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
@@ -7536,12 +7536,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation>Chystáte se stáhnout následující módy:</translation>
+        <translation>Chystáte se stáhnout následující mody:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation>Budou staženy pouze zaškrtnuté módy!</translation>
+        <translation>Budou staženy pouze zaškrtnuté mody!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="12"/>
@@ -8450,12 +8450,12 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Install mods</source>
-        <translation>Instalovat módy</translation>
+        <translation>Instalovat mody</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
         <source>Install normal mods.</source>
-        <translation>Instalovat normální módy.</translation>
+        <translation>Instalovat normální mody.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
@@ -8465,7 +8465,7 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>Přidat mód do Minecraft jar souboru.</translation>
+        <translation>Přidat mod do Minecraft jar souboru.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
@@ -8580,12 +8580,12 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="344"/>
         <source>Select jar mods</source>
-        <translation>Vyberte Jar módy</translation>
+        <translation>Vyberte jar soubory modů</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="344"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>Minecraft .jar módy (*.zip *.jar)</translation>
+        <translation>Minecraft .jar mody (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="354"/>
