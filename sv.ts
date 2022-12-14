@@ -1026,7 +1026,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished">Misslyckades att avbryta alla uppgifter.</translation>
+        <translation>Misslyckades att avbryta alla aktiva uppgifter.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
