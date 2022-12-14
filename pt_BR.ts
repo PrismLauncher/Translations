@@ -1806,7 +1806,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>1% (atualmente)</translation>
     </message>
     <message>
         <source> (Current)</source>
@@ -5210,7 +5210,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="915"/>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation>Minecraft 1%</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -6268,7 +6268,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>1% (atualmente)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
