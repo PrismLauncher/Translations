@@ -6833,16 +6833,16 @@ Choose your name carefully:</source>
         <translation>Εξέταση Java πέτυχε!&lt;br /&gt;Αναφέρθηκε η πλατφόρμα: %1&lt;br /&gt;Αναφέρθηκε η έκδοση Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <source>Java test success</source>
         <translation>Δοκιμή Java επιτυχής</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>Σφάλμα δοκιμής Java</translation>
     </message>
@@ -7066,8 +7066,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Άγνωστη έκδοση μορφής!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
         <translation>Κενή διαδρομή</translation>
     </message>
