@@ -4165,7 +4165,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
         <source>View information about %1.</source>
-        <translation>Információk megtekintése a következőről: %1.</translation>
+        <translation>%1 névjegyének megtekintése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="509"/>
@@ -4213,7 +4213,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Fejlesztési blog megnyitása további hírekért a %1-rel kapcsolatban.</translation>
+        <translation>%1 fejlesztési blog megnyitása további hírekért.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="732"/>
