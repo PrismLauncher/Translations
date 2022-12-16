@@ -1814,7 +1814,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Aktuell)</translation>
     </message>
     <message>
         <source> (Current)</source>
@@ -6310,7 +6310,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Aktuell)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
