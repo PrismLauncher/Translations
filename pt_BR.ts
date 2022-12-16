@@ -3293,7 +3293,7 @@ Você talvez devesse checar seus mods, pois o jogo continua fazendo registros em
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Paramos de monitorar o log do jogo pois ele ultrapassou %1 linhas.
-Você talvez tenha que consertar os seus mods, porque o jogo ainda está logando em arquivos e consumindo espaço de HD a uma taxa alarmante!</translation>
+Você talvez tenha que consertar os seus mods, porque o jogo ainda está registrando arquivos e consumindo espaço de HD a uma taxa alarmante!</translation>
     </message>
 </context>
 <context>
