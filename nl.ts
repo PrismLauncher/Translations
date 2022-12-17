@@ -9089,7 +9089,7 @@ Stel uw account in volgens %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>Got Xbox user token</source>
-        <translation>Xbox gebruikerstoken verkregen</translation>
+        <translation>Xbox gebruikerstoken ontvangen</translation>
     </message>
 </context>
 <context>
