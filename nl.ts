@@ -4270,7 +4270,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="772"/>
         <source>Cop&amp;y...</source>
-        <translation type="unfinished">Copie&amp;ren...</translation>
+        <translation>Kopiër&amp;en</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
@@ -4323,7 +4323,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="356"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation type="unfinished">&amp;Laatste installatie verwijdering ongedaan maken</translation>
+        <translation>&amp;Verwijderen laatste installatie ongedaan maken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
