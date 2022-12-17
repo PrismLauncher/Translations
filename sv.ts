@@ -491,7 +491,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation>Radera det nuvarande aktiva skin:et och gå tillbaka till standardskinet</translation>
+        <translation>Radera det skin som är aktivt nu och gå tillbaka till det skin som är standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
@@ -547,7 +547,7 @@ Om du är ny här kan du lägga till ditt Mojang- eller Minecraftkonto med någo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation>Microsoft-konton ej tillgängliga</translation>
+        <translation>Microsoft-konton är ej tillgängliga</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -577,7 +577,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation>Skin-radering</translation>
+        <translation>Radering av skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -615,22 +615,22 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>Det gick inte att autentisera. Sessionen har gått ut.</translation>
+        <translation>Kunde inte autentisera. Sessionen har gått ut.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>Ett fel uppstod vid autentiseringen. Kontot finns inte längre.</translation>
+        <translation>Kunde inte autentisera. Kontot finns inte längre.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
-        <translation>…</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation>Okänd konto status: %1</translation>
+        <translation>Okänd kontostatus: %1</translation>
     </message>
 </context>
 <context>
@@ -653,7 +653,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1636"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Det verkar som att du använt %1 tidigare. Vill du flytta över din data till nya platsen %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1642"/>
@@ -692,20 +692,20 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Skaffar filer från Mojang...</translation>
+        <translation>Hämtar resursfiler från Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Ett fel uppstod vid nedladdning av filindex:
+        <translation>Misslyckades med att ladda ner resursindex:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Ett fel uppstod vid nedladdning av filer:
+        <translation>Misslyckades med att ladda ner resurser:
 %1</translation>
     </message>
 </context>
@@ -750,7 +750,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>Använd delad kod</translation>
+        <translation>Använd delningskod (share code)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -802,7 +802,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Sök och filtrera…</translation>
+        <translation>Sök och filtrera...</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -871,7 +871,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
-        <translation>Prestationsverktyg avbrytet</translation>
+        <translation>Prestationsverktyget avbröts</translation>
     </message>
 </context>
 <context>
@@ -898,7 +898,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="49"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna saknade</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
@@ -913,7 +913,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Hittades Inte &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Hittades inte &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="150"/>
@@ -936,12 +936,12 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation>Sätter på cape</translation>
+        <translation>Sätter på manteln</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
         <source>Removing cape</source>
-        <translation>Tar av cape</translation>
+        <translation>Tar av manteln</translation>
     </message>
 </context>
 <context>
@@ -962,7 +962,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>Hoppa över den här modden</translation>
+        <translation>Hoppa över detta mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
@@ -1001,23 +1001,23 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Olika krav upptäcktes vid kravgenomgång!</translation>
+        <translation>Motstridiga krav upptäcktes vid kontroll av filberoenden!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>Instansen har motstridiga komponenter (dependencies).</translation>
+        <translation>Instansen har motstridiga filberoenden (dependencies).</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>Instansen har olösta komponenter (dependencies) vid inläsning/kontroll för start.</translation>
+        <translation>Instansen har olösta filberoenden vid inläsning/kontroll för start.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>Komponent metadatauppdateringsarbete misslyckades vid nedladdning från en annan server:
+        <translation>Arbetet att uppdatera komponentmetadata misslyckades vid nedladdning från en extern server:
 %1</translation>
     </message>
 </context>
@@ -1026,7 +1026,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation>Misslyckades att avbryta alla aktiva uppgifter.</translation>
+        <translation>Misslyckades med att avbryta alla aktiva uppgifter.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
@@ -1039,7 +1039,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>Kopiera Instans</translation>
+        <translation>Kopiera instans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1069,7 +1069,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>Kopiera spelets inställningar som synfällt(FOV), maximal bildfrekvens, mm.</translation>
+        <translation>Kopiera spelets inställningar som synfält (FOV), maximal bildfrekvens, mm.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
@@ -1140,13 +1140,13 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>&amp;Efter-avslutskommando:</translation>
+        <translation>Kommando efter &amp;avslutande:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>&amp;Före-startskommando:</translation>
+        <translation>Kommando innan &amp;uppstart:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
@@ -1158,7 +1158,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt;Före-startskommandot körs innan instansen startas och efter-avslutskommandot körs när det har avslutats. &lt;/p&gt; &lt;p&gt;Båda kommer att köras i startprogrammets arbetsmapp med extra miljövariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Instansens namn&lt;/li&gt;&lt;li&gt;$INST_ID - ID för instansen (dess mappnamn)&lt;/li&gt;&lt;li&gt;$INST_DIR - instansens absoluta sökväg&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolut sökväg till Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java-binär som används för start&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - kommandoradsparametrar som används för start (varning: fungerar inte korrekt om argumenten innehåller blanksteg)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper-kommandot tillåter start med ett extra omslutningsprogram (som &apos;optirun&apos; på Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt;&quot;Kommando innan uppstart&quot; körs innan instansen startas och &quot;Kommando efter avslut&quot; körs efter att den avslutats. &lt;/p&gt; &lt;p&gt;Båda kommer köras från launcherns arbetsmapp med extra systemvariabler:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - instansens namn&lt;/li&gt;&lt;li&gt;$INST_ID - instansens ID (dess mappnamn)&lt;/li&gt;&lt;li&gt;$INST_DIR - instansens absoluta sökväg&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecrafts absoluta sökväg&lt;/li&gt;&lt;li&gt;$INST_JAVA - Javafil som används för start&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - kommandoradsparametrar som används för start (varning: kommer inte fungera som det ska om argumenten innehåller blanksteg)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&quot;Wrapper-kommando&quot; tillåter start genom ett extra wrapper-program (t.ex. &apos;optirun&apos; på Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1345,7 +1345,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Remove selected item</source>
-        <translation>Ta bort vald objekt</translation>
+        <translation>Ta bort valt objekt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
@@ -1355,17 +1355,17 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>Enable selected item</source>
-        <translation>Aktivera vald objekt</translation>
+        <translation>Aktivera valt objekt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
         <source>&amp;Disable</source>
-        <translation>&amp;Avaktivera</translation>
+        <translation>&amp;Inaktivera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>Disable selected item</source>
-        <translation>Inaktivera vald artikel</translation>
+        <translation>Inaktivera valt objekt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
@@ -1395,13 +1395,13 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
         <source>Check for &amp;Updates</source>
-        <translation>Sök efter &amp;Uppdateringar</translation>
+        <translation>Sök efter &amp;uppdateringar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Försök att kontrollera eller uppdatera alla utvalda resurser (alla resurser om ingen är vald)</translation>
+        <translation>Försök att kontrollera eller uppdatera alla valda resurser (alla resurser om ingen är vald)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="62"/>
@@ -1422,12 +1422,12 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation>Undersök</translation>
+        <translation>Kontrollera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation>Externa redigerare (lämna tomt för att använda systemets standardprogram)</translation>
+        <translation>Externa textredigerare (lämna tomt för att använda systemvalet)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
@@ -1460,7 +1460,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation>Ett fel uppträde vid kontroll av JProfiler installationen:
+        <translation>Fel vid kontroll av JProfiler-installationen:
 %1</translation>
     </message>
     <message>
@@ -1473,25 +1473,25 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>JProfiler inställningarna verkar vara okej</translation>
+        <translation>JProfiler-inställningarna verkar vara okej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM-applikationen</translation>
+        <translation>Körbar fil för JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="168"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Ett fel uppträde vid kontroll av JVisualVM:
+        <translation>Fel vid kontroll av JVisualVM-installationen:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>JVisualVM inställningarna verkar vara okej</translation>
+        <translation>JVisualVM-inställningarna verkar vara okej</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
@@ -1508,7 +1508,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation>Ett fel uppträde vid kontroll av MCEdit:
+        <translation>Fel vid kontroll av MCEdit-installationen:
 %1</translation>
     </message>
     <message>
@@ -1529,7 +1529,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation>Den valda filen verkar inte vara ett program</translation>
+        <translation>Den valda filen verkar inte vara en körbar fil</translation>
     </message>
 </context>
 <context>
@@ -1537,7 +1537,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Kunde inte extrahera nativ jar &apos;%1&apos; till destinationen &apos;%2&apos;</translation>
+        <translation>Kunde inte extrahera lokal jar &apos;%1&apos; till destinationen &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -1545,12 +1545,12 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation>Kollar efter FML-filer...</translation>
+        <translation>Kollar efter FML-bibliotek...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation>Laddar ner FML filer...</translation>
+        <translation>Laddar ner FML-bibliotek...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
@@ -1591,7 +1591,7 @@ Försök igen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
         <source>Resolving mod IDs...</source>
-        <translation>Löser mod-IDn...</translation>
+        <translation>Slår upp mod-IDn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
@@ -1608,7 +1608,7 @@ Försök igen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Förbereder moddar för CurseForge...</translation>
+        <translation>Förbereder mods för CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
@@ -1619,17 +1619,17 @@ Försök igen.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>Hämtar API -svar från CurseForge för &apos;%1&apos;...</translation>
+        <translation>Hämtar API-svar från CurseForge för &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Analyserar API -svaret från CurseForge för &apos;%1&apos; ...</translation>
+        <translation>Analyserar API-svaret från CurseForge för &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen / mod-loadern.</translation>
+        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-loadern.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
@@ -1707,7 +1707,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="315"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Underliga efterföljande punkter har tagits bort från Minecraft-versionen vid importering av paketet.</translation>
+        <translation>Märkliga efterföljande punkter har tagits bort från Minecraft-versionen vid importering av paketet.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
@@ -1718,7 +1718,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Kunde inte slå upp modIDs:
+        <translation>Kunde inte slå upp modIDn:
 </translation>
     </message>
     <message>
@@ -1773,7 +1773,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Hej!&lt;/h1&gt;&lt;h4&gt;Det verkar som att ditt Paket-ID är null. Detta är på grund av en bugg i tidigare versioner av launchern.&lt;br/&gt;Tyvärr kan vi inte göra de ordentliga API-anropen utan denna information.&lt;br/&gt;&lt;br/&gt;För att få denna funktion att fungera så kommer du behöva på nytt ladda ner modpacket från den inbyggda nedladdaren.&lt;br/&gt;&lt;br/&gt;Men oroa dig inte, den kommer fråga dig om att uppdatera denna instans istället, så du kommer inte förlora instansen!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Hej!&lt;/h1&gt;&lt;h4&gt;Det verkar som att ditt paket-ID är null. Detta är på grund av en bugg i tidigare versioner av launchern.&lt;br/&gt;Tyvärr kan vi inte göra de rätta API-anropen utan denna information.&lt;br/&gt;&lt;br/&gt;För att få denna funktion att fungera så kommer du behöva på nytt ladda ner modpaketet från den inbyggda nedladdaren.&lt;br/&gt;&lt;br/&gt;Men oroa dig inte, den kommer fråga dig om att uppdatera denna instans istället, så du kommer inte förlora instansen!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
@@ -1854,7 +1854,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Sök och filtrera…</translation>
+        <translation>Sök och filtrera...</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -1934,7 +1934,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="52"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation>Misslyckades med att skapa en mapp för Minecraft-binärer.</translation>
+        <translation>Misslyckades med att skapa en mapp för Minecraft-binärfiler.</translation>
     </message>
 </context>
 <context>
@@ -1969,7 +1969,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Sök och filtrera…</translation>
+        <translation>Sök och filtrera...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -2027,7 +2027,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="103"/>
         <source>Undefined</source>
-        <translation>Odefinerad</translation>
+        <translation>Odefinerat</translation>
     </message>
 </context>
 <context>
@@ -2040,7 +2040,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
         <source>Got skin</source>
-        <translation>Fick skinn</translation>
+        <translation>Fick skin</translation>
     </message>
 </context>
 <context>
@@ -2053,7 +2053,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="85"/>
         <source>Failed to download version info files.</source>
-        <translation>Ett fel uppstod vid nedladdning av versionsinformation.</translation>
+        <translation>Kunde inte ladda ner versionsinformation.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="93"/>
@@ -2073,7 +2073,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="129"/>
         <source>Failed to process update lists...</source>
-        <translation>Ett fel uppstod vid bearbetningen av uppdateringslistor...</translation>
+        <translation>Kunde inte processa uppdateringslistorna...</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="140"/>
@@ -2088,7 +2088,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/updater/DownloadTask.cpp" line="159"/>
         <source>Failed to download update files: %1</source>
-        <translation>Ett fel uppstod vid nedladdning av uppdateringsfiler: %1</translation>
+        <translation>Kunde inte ladda ner uppdateringsfiler: %1</translation>
     </message>
 </context>
 <context>
@@ -2111,7 +2111,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Open Folder</source>
-        <translation>Öppna Mapp</translation>
+        <translation>Öppna mapp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
@@ -2262,7 +2262,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="52"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>Kunde inte ta bort gamla motstridiga filer.</translation>
+        <translation>Misslyckades med att ta bort gamla motstridiga filer.</translation>
     </message>
 </context>
 <context>
@@ -5868,7 +5868,7 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation type="unfinished">Löser mods...</translation>
+        <translation>Slår upp mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
@@ -5972,7 +5972,7 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="103"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen / mod-loadern.</translation>
+        <translation>Ingen giltig version hittades för detta mod. Det är förmodligen inte tillgängligt för den aktuella spelversionen/mod-loadern.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
@@ -7777,7 +7777,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>Löser modpaketfiler</translation>
+        <translation>Slår upp modpaketfiler</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -8120,7 +8120,7 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>Inga versioner är för tillfället tillgängliga för Minecraft %1</translation>
+        <translation>Inga versioner för Minecraft %1 är tillgängliga just nu</translation>
     </message>
 </context>
 <context>
