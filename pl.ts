@@ -2155,28 +2155,28 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <translation>Wybierz ikonę</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="64"/>
         <source>Add Icon</source>
         <translation>Dodaj ikonę</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
         <source>Remove Icon</source>
         <translation>Usuń ikonę</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Open Folder</source>
         <translation>Otwórz folder</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
         <translation>Wybierz ikony</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Icons %1</source>
         <translation>Ikony %1</translation>
     </message>
@@ -6266,7 +6266,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <translation>Adres URL pobierania dla %1 nie jest poprawnie sformatowanym URL</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="390"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="392"/>
         <source>Could not understand pack index:
 </source>
         <translation>Nie udało się zrozumieć indeksu pakietu:
@@ -6652,49 +6652,49 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <translation>Szukaj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
         <translation>Skopiuj cały log do schowka</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="70"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>&amp;Copy</source>
         <translation>&amp;Kopiuj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="94"/>
         <source>Clear the log</source>
         <translation>Wyczyść log</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Delete</source>
         <translation>Usuń</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <translation>Wyślij log na serwis typu pastebin skonfigurowany w preferencjach.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload</source>
         <translation>Prześlij</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
         <source>Clean</source>
         <translation>Wyczyść</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>Reload</source>
         <translation>Odśwież</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
         <source>Search:</source>
         <translation>Szukaj:</translation>
     </message>
@@ -8430,207 +8430,207 @@ Dla tej instancji przełącz się na jedną z następujących wersji Javy:</tran
 <context>
     <name>VersionPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="56"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
         <source>Filter:</source>
         <translation>Filtr:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
         <source>Actions</source>
         <translation>Akcje</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="120"/>
         <source>Change version</source>
         <translation>Zmień wersję</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Change version of the selected package.</source>
         <translation>Zmień wersję wybranego pakietu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
         <source>Move up</source>
         <translation>Przesuń w górę</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Make the selected package apply sooner.</source>
         <translation>Zastosuj wybrany pakiet wcześniej.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="136"/>
         <source>Move down</source>
         <translation>Przeuń w dół</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
         <source>Make the selected package apply later.</source>
         <translation>Zastosuj wybrany pakiet później.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="144"/>
         <source>Remove</source>
         <translation>Usuń</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
         <source>Remove selected package from the instance.</source>
         <translation>Usuń wybrany pakiet z instancji.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="152"/>
         <source>Customize</source>
         <translation>Dostosuj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
         <source>Customize selected package.</source>
         <translation>Dostosuj wybrany pakiet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="160"/>
         <source>Edit</source>
         <translation>Edytuj</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
         <source>Edit selected package.</source>
         <translation>Edytuj wybrany pakiet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="168"/>
         <source>Revert</source>
         <translation>Przywróć</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Revert the selected package to default.</source>
         <translation>Przywróć wybrany pakiet do domyślnego.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="176"/>
         <source>Install Forge</source>
         <translation>Instaluj Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Install the Minecraft Forge package.</source>
         <translation>Zainstaluj pakiet Minecraft Forge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="184"/>
         <source>Install Fabric</source>
         <translation>Instaluj Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Install the Fabric Loader package.</source>
         <translation>Zainstaluj pakiet Fabric Loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Install Quilt</source>
         <translation>Zainstaluj Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
         <source>Install the Quilt Loader package.</source>
         <translation>Zainstaluj paczkę Quilt Loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <source>Install LiteLoader</source>
         <translation>Instaluj LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
         <source>Install the LiteLoader package.</source>
         <translation>Zainstaluj pakiet LiteLoader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Install mods</source>
         <translation>Instaluj mody</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Install normal mods.</source>
         <translation>Zainstaluj normalne mody.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Add to Minecraft.jar</source>
         <translation>Dodaj do Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>Dodaj mod do pliku Minecraft.jar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Replace Minecraft.jar</source>
         <translation>Zastąp Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
         <source>Add Agents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Java agents.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
         <source>Add Empty</source>
         <translation>Dodaj pusty</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <source>Add an empty custom package.</source>
         <translation>Dodaj pusty, niestandardowy pakiet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="245"/>
         <source>Reload</source>
         <translation>Odśwież</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
         <source>Reload all packages.</source>
         <translation>Odśwież wszystkie pakiety.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="253"/>
         <source>Download All</source>
         <translation>Pobierz wszystko</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="256"/>
         <source>Download the files needed to launch the instance now.</source>
         <translation>Pobierz wszystkie pliki potrzebne, by teraz uruchomić instancję.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="264"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="261"/>
         <source>Open .minecraft</source>
         <translation>Otwórz .minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="264"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>Otwórz folder .minecraft instancji.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="269"/>
         <source>Open libraries</source>
         <translation>Otwórz biblioteki</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="272"/>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>Otwórz lokalny folder bibliotek dla instancji.</translation>
     </message>

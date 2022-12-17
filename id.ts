@@ -2078,28 +2078,28 @@ Coba ulang lagi.</translation>
         <translation>Pilih Ikon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="64"/>
         <source>Add Icon</source>
         <translation>Tambah Ikon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
         <source>Remove Icon</source>
         <translation>Hapus Ikon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Open Folder</source>
         <translation>Buka Folder</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
         <translation>Pilih Ikon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Icons %1</source>
         <translation>Ikon %1</translation>
     </message>
@@ -5980,7 +5980,7 @@ Please update %1!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="390"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="392"/>
         <source>Could not understand pack index:
 </source>
         <translation type="unfinished"></translation>
@@ -6331,49 +6331,49 @@ Please update %1!</source>
         <translation>Cari</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
         <translation>Salin seluruh riwayat ke papan klip</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="70"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>&amp;Copy</source>
         <translation>&amp;Salin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="94"/>
         <source>Clear the log</source>
         <translation>Bersihkan riwayat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Delete</source>
         <translation>Hapus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <translation type="unfinished">Unggah daftar riwayat ke paste.ee - file tersebut akan bertahan selama satu bulan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload</source>
         <translation>Unggah</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
         <source>Clean</source>
         <translation>Bersihkan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>Reload</source>
         <translation>Muat ulang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
         <source>Search:</source>
         <translation>Cari:</translation>
     </message>
@@ -8064,207 +8064,207 @@ Please switch to one of the following Java versions for this instance:</source>
 <context>
     <name>VersionPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="56"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
         <source>Filter:</source>
         <translation>Filter:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
         <source>Actions</source>
         <translation>Tindakan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="120"/>
         <source>Change version</source>
         <translation>Ganti versi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Change version of the selected package.</source>
         <translation>Ganti versi dari paket yang dipilih.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
         <source>Move up</source>
         <translation>Pindahkan keatas</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Make the selected package apply sooner.</source>
         <translation>Jadikan paket yang dipilih berlaku lebih cepat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="136"/>
         <source>Move down</source>
         <translation>Pindahkan kebawah</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
         <source>Make the selected package apply later.</source>
         <translation>Jadikan paket yang dipilih berlaku nanti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="144"/>
         <source>Remove</source>
         <translation>Hapus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
         <source>Remove selected package from the instance.</source>
         <translation>Hapus paket yang dipilih dari instansi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="152"/>
         <source>Customize</source>
         <translation>Ubah</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
         <source>Customize selected package.</source>
         <translation>Ubah paket yang dipilih.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="160"/>
         <source>Edit</source>
         <translation>Ubah</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
         <source>Edit selected package.</source>
         <translation>Ubah paket terpilih.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="168"/>
         <source>Revert</source>
         <translation>Kembalikan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Revert the selected package to default.</source>
         <translation>Kembalikan paket terpilih ke bawaan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="176"/>
         <source>Install Forge</source>
         <translation>Instal Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Install the Minecraft Forge package.</source>
         <translation>Instal paket Forge Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="184"/>
         <source>Install Fabric</source>
         <translation>Install Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Install the Fabric Loader package.</source>
         <translation>Instal paket pemuat Fabric.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Install Quilt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
         <source>Install the Quilt Loader package.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <source>Install LiteLoader</source>
         <translation>Instal LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
         <source>Install the LiteLoader package.</source>
         <translation>Instal paket LiteLoader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Install mods</source>
         <translation>Instal mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Install normal mods.</source>
         <translation>Instal mod normal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Add to Minecraft.jar</source>
         <translation>Tambahkan ke Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>Tambahkan mod kedalam file jar Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Replace Minecraft.jar</source>
         <translation>Menggantikan Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
         <source>Add Agents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Java agents.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
         <source>Add Empty</source>
         <translation>Tambahkan Template</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <source>Add an empty custom package.</source>
         <translation>Tambahkan paket template kustom.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="245"/>
         <source>Reload</source>
         <translation>Muat ulang</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
         <source>Reload all packages.</source>
         <translation>Muat ulang semua paket.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="253"/>
         <source>Download All</source>
         <translation>Unduh Semua</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="256"/>
         <source>Download the files needed to launch the instance now.</source>
         <translation>Unduh semua file yang dibutuhkan untuk menjalankan instansi sekarang.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="264"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="261"/>
         <source>Open .minecraft</source>
         <translation>Buka .minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="264"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>Buka folder .minecraft milik instansi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="269"/>
         <source>Open libraries</source>
         <translation>Buka libraries</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="272"/>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>Buka folder libraries lokal milik instansi.</translation>
     </message>

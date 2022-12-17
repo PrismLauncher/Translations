@@ -2110,28 +2110,28 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Vyber ikonu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="64"/>
         <source>Add Icon</source>
         <translation>Přidat ikonu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="66"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
         <source>Remove Icon</source>
         <translation>Odstranit ikonu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="75"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Open Folder</source>
         <translation>Otevřít složku</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
         <translation>Vyber ikony</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="108"/>
+        <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Icons %1</source>
         <translation>Ikony %1</translation>
     </message>
@@ -6210,7 +6210,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Adresa URL pro stažení %1 není správně formátovaná</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="390"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="392"/>
         <source>Could not understand pack index:
 </source>
         <translation>Nerozumím indexu balíčku:
@@ -6571,49 +6571,49 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Najít</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
         <translation>Kopírovat celý protokol do schránky</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="70"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>&amp;Copy</source>
         <translation>&amp;Kopírovat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="94"/>
         <source>Clear the log</source>
         <translation>Smazat log</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="80"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="222"/>
         <source>Delete</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <translation>Nahrát log na službu zvolenou v nastavení.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="90"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
         <source>Upload</source>
         <translation>Nahrát</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="100"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="97"/>
         <source>Clean</source>
         <translation>Vyčistit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="107"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="104"/>
         <source>Reload</source>
         <translation>Obnovit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
         <source>Search:</source>
         <translation>Hledat:</translation>
     </message>
@@ -8328,207 +8328,207 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
 <context>
     <name>VersionPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="56"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
         <source>Filter:</source>
         <translation>Filtr:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
         <source>Actions</source>
         <translation>Akce</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="120"/>
         <source>Change version</source>
         <translation>Změnit vydání</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Change version of the selected package.</source>
         <translation>Změna verze vybraného balíčku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
         <source>Move up</source>
         <translation>Posunout nahoru</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="134"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Make the selected package apply sooner.</source>
         <translation>Udělat aby byl vybraný balíček aplikován dříve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="136"/>
         <source>Move down</source>
         <translation>Posunout dolu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="142"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
         <source>Make the selected package apply later.</source>
         <translation>Udělat aby byl vybraný balíček aplikován později.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="144"/>
         <source>Remove</source>
         <translation>Smazat</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
         <source>Remove selected package from the instance.</source>
         <translation>Vymazat vybraný balík z instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="152"/>
         <source>Customize</source>
         <translation>Upravit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
         <source>Customize selected package.</source>
         <translation>Upravit vybraný balík.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="160"/>
         <source>Edit</source>
         <translation>Upravit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
         <source>Edit selected package.</source>
         <translation>Upravit vybraný balík.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="168"/>
         <source>Revert</source>
         <translation>Vrátit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Revert the selected package to default.</source>
         <translation>Vrátit vybraný balík zpátky do výchozích nastavení.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="176"/>
         <source>Install Forge</source>
         <translation>Nainstalovat Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="182"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
         <source>Install the Minecraft Forge package.</source>
         <translation>Instalovat Balík Minecraft Forge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="184"/>
         <source>Install Fabric</source>
         <translation>Nainstalovat Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="190"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Install the Fabric Loader package.</source>
         <translation>Instalovat Balík Fabric Loaderu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Install Quilt</source>
         <translation>Nainstalovat Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
         <source>Install the Quilt Loader package.</source>
         <translation>Nainstalovat balíček Quilt Loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
         <source>Install LiteLoader</source>
         <translation>Nainstalovat LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
         <source>Install the LiteLoader package.</source>
         <translation>Instalovat Balík LiteLoaderu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Install mods</source>
         <translation>Instalovat mody</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Install normal mods.</source>
         <translation>Instalovat normální mody.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Add to Minecraft.jar</source>
         <translation>Přidat k Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="222"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>Přidat mod do Minecraft jar souboru.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="227"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Replace Minecraft.jar</source>
         <translation>Vyměnit Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
         <source>Add Agents</source>
         <translation>Přidat agenty</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Java agents.</source>
         <translation>Přidat agenty Java.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
         <source>Add Empty</source>
         <translation>Přidat prázdno</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="243"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
         <source>Add an empty custom package.</source>
         <translation>Přidat prázdný upravitelný balík.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="245"/>
         <source>Reload</source>
         <translation>Obnovit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
         <source>Reload all packages.</source>
         <translation>Znovu načíst všechny balíčky.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="253"/>
         <source>Download All</source>
         <translation>Stáhnout vše</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="259"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="256"/>
         <source>Download the files needed to launch the instance now.</source>
         <translation>Teď stáhnout všechny potřebné soubory aby se instance spustila.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="264"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="261"/>
         <source>Open .minecraft</source>
         <translation>Otevřít .minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="267"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="264"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>Otevře složku .minecraft instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="269"/>
         <source>Open libraries</source>
         <translation>Otevřít knihovny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="275"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="272"/>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>Otevřít složku lokálních knihoven instance.</translation>
     </message>
