@@ -3068,12 +3068,12 @@ Kies één van de volgende, of blader naar een uitvoerbaar Java-bestand.</transl
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="157"/>
         <source>Continue launch?</source>
-        <translation>Starten voortzetten?</translation>
+        <translation>Lancering voortzetten?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Het lijkt erop dat we niet konden starten na %1 keer proberen. Wil je blijven proberen?</translation>
+        <translation>Het ziet er naar uit dat we het spel na %1 pogingen niet konden lanceren, wilt u blijven proberen?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
@@ -3415,7 +3415,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
         <source>Legacy</source>
-        <translation type="unfinished">Oude variant</translation>
+        <translation>Oude variant (Legacy)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
@@ -3927,7 +3927,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Upload het logbestand naar paste.ee - het zal een maand lang online blijven staan</translation>
+        <translation>Upload het logbestand naar de paste service ingesteld in instellingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
