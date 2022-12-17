@@ -3253,7 +3253,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="65"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="71"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>Misslyckades med att få tillgång till Minecraft-token: %1</translation>
+        <translation>Misslyckades med att få åtkomstnyckeln för Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="84"/>
@@ -9001,7 +9001,7 @@ Vänligen ställ in ditt konto enligt %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>Got Xbox user token</source>
-        <translation>Fick Xbox-användartoken</translation>
+        <translation>Fick Xbox-användarnyckeln</translation>
     </message>
 </context>
 <context>
