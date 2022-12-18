@@ -663,7 +663,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Migrering misslyckad! Anledning: %1</translation>
+        <translation>Migrering misslyckades! Anledning: %1</translation>
     </message>
 </context>
 <context>
@@ -1718,7 +1718,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Kunde inte slå upp modIDn:
+        <translation>Kunde inte slå upp mod-IDn:
 </translation>
     </message>
     <message>
@@ -4286,7 +4286,7 @@ Anledning:
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="336"/>
         <source>F&amp;olders</source>
-        <translation>Ma&amp;ppar</translation>
+        <translation>&amp;Mappar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="349"/>
