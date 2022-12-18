@@ -526,7 +526,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Välkommen!
-Om du är ny här kan du lägga till ditt Mojang- eller Minecraftkonto med någon av &quot;Lägg till&quot;-knapparna.</translation>
+Om du är ny här så kan du lägga till ditt Mojang- eller Minecraft-konto med någon av &quot;Lägg till&quot;-knapparna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -542,7 +542,7 @@ Om du är ny här kan du lägga till ditt Mojang- eller Minecraftkonto med någo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Vänligen skriv in ditt Mojangkontos e-postadress och lösenord för att lägga till ditt konto.</translation>
+        <translation>Vänligen skriv in ditt Mojang-kontos e-postadress och lösenord för att lägga till ditt konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -2479,7 +2479,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
         <source>Minimum memory allocation:</source>
-        <translation>Minimala mängden minne:</translation>
+        <translation>Minimala mängden allokerat minne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="169"/>
@@ -2494,22 +2494,22 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="191"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Mängden minne som är tillgängligt för att spara laddade Java-klasser.</translation>
+        <translation>Mängden tillgängligt minne för att lagra laddade Java-klasser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="133"/>
         <source>Maximum memory allocation:</source>
-        <translation>Maximala mängden minne:</translation>
+        <translation>Maximala mängden allokerat minne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Notera: Permgen sätts automatiskt av Java 8 eller senare</translation>
+        <translation>OBS! Permgen sätts automatiskt av Java 8 eller senare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
         <source>Java argumen&amp;ts</source>
-        <translation>Java argumen&amp;t</translation>
+        <translation>Java-argumen&amp;t</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="251"/>
@@ -2524,7 +2524,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
         <source>Start Minecraft maximized?</source>
-        <translation>Start Minecraft i stort fönster?</translation>
+        <translation>Start Minecraft i helskärmsläge?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2539,12 +2539,12 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="332"/>
         <source>Conso&amp;le Settings</source>
-        <translation>Konsol-Inställningar</translation>
+        <translation>Konsol-inställningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
         <source>Show console while the game is running?</source>
-        <translation>Visa konsolen under tiden spelet körs?</translation>
+        <translation>Visa konsolen medan spelet körs?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
@@ -2554,12 +2554,12 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
         <source>Show console when the game crashes?</source>
-        <translation>Visa konsol när spelet kraschar?</translation>
+        <translation>Visa konsolen när spelet kraschar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
         <source>Close the launcher after game window opens</source>
-        <translation>Stäng Prism Launcher efter spelfönstret har öppnats</translation>
+        <translation>Stäng launchern efter att spelfönstret har öppnats</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="387"/>
@@ -2574,7 +2574,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="421"/>
         <source>Workarounds</source>
-        <translation>Kringgåenden</translation>
+        <translation>Lösningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="430"/>
@@ -2606,7 +2606,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="494"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktivera Feral Interactives GameMode, för att potentiellt förbättra spelprestandan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Aktivera Feral Interactives GameMode för att potentiellt förbättra spelprestandan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="497"/>
@@ -2646,7 +2646,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="569"/>
         <source>Record time spent playing this instance</source>
-        <translation>Spara tid tillbringad på att spela denna instans</translation>
+        <translation>Håll koll på tid tillbringad på att spela denna instans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="579"/>
@@ -2681,7 +2681,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="404"/>
         <source>Find Java executable</source>
-        <translation>Hitta Java</translation>
+        <translation>Hitta körbar Java-fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="465"/>
@@ -2699,7 +2699,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="826"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>Kunde inte spara instans, även efter flera försök. Den blockeras av något annat.</translation>
+        <translation>Kunde inte spara instansen, även efter flera försök. Den blockeras av något.</translation>
     </message>
 </context>
 <context>
@@ -2707,7 +2707,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="60"/>
         <source>Console window for </source>
-        <translation>Konsol för </translation>
+        <translation>Konsolfönster för </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
@@ -2802,13 +2802,13 @@ Var försiktig!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>&amp;Minsta minnesallokering:</translation>
+        <translation>&amp;Minimala mängden allokerat minne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Maximal minnestilldelning:</translation>
+        <translation>Ma&amp;ximala mängden allokerat minne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -2818,7 +2818,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Mängden minne som finns tillgänglig för att spara lästa Java-klasser.</translation>
+        <translation>Mängden tillgängligt minne för att lagra laddade Java-klasser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
@@ -2845,7 +2845,7 @@ Var försiktig!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>&amp;Hitta automatiskt…</translation>
+        <translation>&amp;Upptäck automatiskt...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="217"/>
@@ -2861,7 +2861,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="269"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Hoppa över Java &amp;Wizard</translation>
+        <translation>Hoppa över Java-&amp;wizard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
@@ -2872,7 +2872,7 @@ Var försiktig!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>&amp;Hoppa över Java-kompatibilitetskontroller</translation>
+        <translation>&amp;Hoppa över kompatibilitetskontroller för Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -2887,7 +2887,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="149"/>
         <source>Find Java executable</source>
-        <translation>Hitta Java</translation>
+        <translation>Hitta körbar Java-fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
@@ -2925,7 +2925,7 @@ Du kan ändra Java-versionen i inställningarna senare.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
         <source>Find Java executable</source>
-        <translation>Hitta Java-fil</translation>
+        <translation>Hitta körbar Java-fil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="437"/>
@@ -2940,12 +2940,12 @@ Du kan ändra Java-versionen i inställningarna senare.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="439"/>
         <source>Minimum memory allocation:</source>
-        <translation>Minimala mängden minne:</translation>
+        <translation>Minimala mängden allokerat minne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="440"/>
         <source>Maximum memory allocation:</source>
-        <translation>Maximala mängden minne:</translation>
+        <translation>Maximala mängden allokerat minne:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="441"/>
@@ -2955,7 +2955,7 @@ Du kan ändra Java-versionen i inställningarna senare.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="442"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Mängden minne som finns tillgänglig för att spara lästa Java-klasser.</translation>
+        <translation>Mängden tillgängligt minne för att lagra laddade Java-klasser.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="443"/>
@@ -2987,7 +2987,7 @@ Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
         <translation>Du har inte en fungerande Java-installation än, eller så har den försvunnit.
-Vänligen välj en av följande eller sök efter en Java-fil.</translation>
+Vänligen välj en av följande eller sök efter en körbar Java-fil.</translation>
     </message>
 </context>
 <context>
@@ -3040,7 +3040,7 @@ Vänligen välj en av följande eller sök efter en Java-fil.</translation>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>För att kunna spela Minecraft så måste du vara inloggad på minst ett Microsoft- eller Mojangkonto. Mojangkonton kan endast användas offline. Vill du öppna kontohanteraren och lägga till ett konto nu?</translation>
+        <translation>För att kunna spela Minecraft så måste du vara inloggad på minst ett Microsoft- eller Mojang-konto. Mojang-konton kan endast användas offline. Vill du öppna kontohanteraren och lägga till ett konto nu?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="120"/>
@@ -5115,7 +5115,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
         <source>Native library workarounds</source>
-        <translation>Standardbibliotekskringgåenden</translation>
+        <translation>Lösningar för standardbiblioteken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="123"/>
@@ -9049,7 +9049,7 @@ Vänligen ställ in ditt konto enligt %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation>Mojangkontot finns inte längre. Det kan ha migrerats till ett Microsoft-konto.</translation>
+        <translation>Mojang-kontot finns inte längre. Det kan ha migrerats till ett Microsoft-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
