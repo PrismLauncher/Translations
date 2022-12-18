@@ -8491,17 +8491,17 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
         <source>Add to Minecraft.jar</source>
-        <translation>Agregar un mod al archivo jar de Minecraft</translation>
+        <translation>Añadir a Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
         <source>Add a mod into the Minecraft jar file.</source>
-        <translation>Agregar un mod al archivo jar de Minecraft.</translation>
+        <translation>Añadir un mod al archivo jar de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Replace Minecraft.jar</source>
-        <translation>Sustituir el archivo Jar de Minecraft</translation>
+        <translation>Remplazar Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
@@ -8556,12 +8556,12 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="269"/>
         <source>Open libraries</source>
-        <translation>Abrir libraries</translation>
+        <translation>Abrir librerias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="272"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>Abrir la carpeta de bibliotecas locales de la instancia.</translation>
+        <translation>Abrir carpeta de las librerias locales en la instancia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="197"/>
