@@ -663,7 +663,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Överföring misslyckad! Orsak: %1</translation>
+        <translation>Migrering misslyckad! Anledning: %1</translation>
     </message>
 </context>
 <context>
