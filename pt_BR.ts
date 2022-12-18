@@ -9333,7 +9333,7 @@ Configure a sua conta conforme o %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="44"/>
         <source>Mojang user authentication failed.</source>
-        <translation>Falha ao autenticar o usuário Mojang.</translation>
+        <translation>Erro ao autenticar o usuário Mojang.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
