@@ -923,7 +923,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Din valda globala modsmapp och vanliga nerladdningsmapp kommer automatiskt genomsökas efter nedladdade mod som kommer bli kopierade till instansen om några hittas.&lt;/p&gt;&lt;p&gt;Alternativt så kan du dra och släppa de nedladdade modden till denna dialogruta eller lägga till en mapp att bevaka om du inte laddade ner modden till en standardplats.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Din valda globala modmapp och vanliga nerladdningsmapp kommer automatiskt genomsökas efter nedladdade mod som kommer bli kopierade till instansen om några hittas.&lt;/p&gt;&lt;p&gt;Alternativt så kan du dra och släppa de nedladdade modden till denna dialogruta eller lägga till en mapp att bevaka om du inte laddade ner modden till en standardplats.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1059,7 +1059,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Att avaktivera detta kommer behålla mod-loadern (t.ex. Fabric, Quilt, etc.) men radera mod-mappen och deras konfigurationer.</translation>
+        <translation>Att avaktivera detta kommer behålla mod-loadern (t.ex. Fabric, Quilt, etc.), men radera modmappen och deras konfigurationer.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
@@ -1370,7 +1370,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
-        <translation>Visa &amp;konfigurationer</translation>
+        <translation>Visa &apos;&amp;config&apos;-filer</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
@@ -1848,7 +1848,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>OBS! CurseForge tillåter skapare att blockera tillgången för tredjepartsverktyg som Prism Launcher. Därför kan du behöva ladda ner vissa mods manuellt för att kunna installera modpaketet.</translation>
+        <translation>OBS! CurseForge tillåter skapare att blockera tillgången för tredjepartsverktyg som Prism Launcher. Därför kan du behöva ladda ner vissa mods manuellt för att kunna installera modpaket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -3125,7 +3125,7 @@ Vill du spela i demoläget?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="282"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Kontot har löpt ut och måste loggas in manuellt igen.</translation>
+        <translation>Kontots inloggning har löpt ut och måste manuellt loggas in på igen.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="285"/>
@@ -3145,7 +3145,7 @@ Vill du spela i demoläget?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="306"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Kontot finns inte längre på servrarna. Det kan ha migrerats, i så fall bör du lägga till kontot du migrerade detta till.</translation>
+        <translation>Kontot finns inte längre på servrarna. Det kan ha migrerats. I så fall bör du lägga till kontot du migrerade detta till.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="309"/>
@@ -3172,7 +3172,7 @@ Vill du spela i demoläget?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation>Kunde inte initiera en programstartare.</translation>
+        <translation>Kunde inte instansiera launchern.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="401"/>
@@ -3184,7 +3184,7 @@ Vill du spela i demoläget?</translation>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>Uppstarten av Minecraft väntar tills du trycker på knappen. Det är nu du bör ställa in prestationsverktyget, eftersom dess server körs nu.
+        <translation>Uppstarten av spelet fördröjs tills du trycker på knappen. Detta är rätt tillfälle att ställa in prestationsverktyget, eftersom dess server körs nu.
 
 %1</translation>
     </message>
@@ -3277,7 +3277,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation>Automatiskt sök efter uppdateringar</translation>
+        <translation>Sök efter uppdateringar automatiskt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
@@ -3355,27 +3355,27 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
         <source>Simple (Dark Icons)</source>
-        <translation>Simple (mörka ikoner)</translation>
+        <translation>Enkla (mörka ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="275"/>
         <source>Simple (Light Icons)</source>
-        <translation>Simple (ljusa ikoner)</translation>
+        <translation>Enkla (ljusa ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="285"/>
         <source>Simple (Blue Icons)</source>
-        <translation>Simple (blå ikoner)</translation>
+        <translation>Enkla (blå ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="270"/>
         <source>Simple (Colored Icons)</source>
-        <translation>Simple (färgade ikoner)</translation>
+        <translation>Enkla (färgade ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished">Mods</translation>
+        <translation>Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -3406,12 +3406,12 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Flat</source>
-        <translation>Platt</translation>
+        <translation>Platta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Flat (White)</source>
-        <translation>Platt (vit)</translation>
+        <translation>Platta (vita)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
@@ -3421,7 +3421,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="325"/>
         <source>Custom</source>
-        <translation>Anpassat</translation>
+        <translation>Egna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="333"/>
@@ -3524,7 +3524,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="134"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Du försöker välja en instansmapp vars sökväg innehåller minst ett &apos;!&apos;. Java är känt för att orsaka problem om så är fallet, dina instanser kommer (förmodligen) inte starta!</translation>
+        <translation>Du försöker välja en instansmapp vars sökväg innehåller minst ett &apos;!&apos;. Java är känt för att orsaka problem om så är fallet, så dina instanser kommer (förmodligen) inte starta!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="139"/>
@@ -3685,7 +3685,7 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">Kunde inte flytta uppackade Minecraft!</translation>
+        <translation>Misslyckades med att flytta uppackat Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="225"/>
@@ -3846,7 +3846,7 @@ Ska den tas bort nu?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>Null jar är specificerad i metadata, avbryter.</translation>
+        <translation>Null jar är specificerad i metadatan. Avbryter.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="65"/>
@@ -3871,7 +3871,7 @@ Du måste rätta till detta problem manuellt.</translation>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>Speluppdatering misslyckades: Det gick inte att kombinera filerna.
+        <translation>Speluppdatering misslyckades: Det gick inte att hämta de nödvändiga biblioteken.
 Anledning:
 %1</translation>
     </message>
@@ -3901,12 +3901,12 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation>Radbryt rader</translation>
+        <translation>Bryt rader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>Kopiera hela loggen</translation>
+        <translation>Kopiera hela loggen till urklipp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
@@ -3917,7 +3917,7 @@ Anledning:
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Ladda upp loggen till den paste service som är konfigurerat i preferenser</translation>
+        <translation>Ladda upp loggen till den inklistringstjänst som är vald i inställningarna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -3932,7 +3932,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
         <source>Clear</source>
-        <translation>Töm</translation>
+        <translation>Rensa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
@@ -3947,12 +3947,12 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="142"/>
         <source>Scroll all the way to bottom</source>
-        <translation>Skrolla till botten</translation>
+        <translation>Skrolla hela vägen till slutet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="145"/>
         <source>Bottom</source>
-        <translation>Botten</translation>
+        <translation>Till slutet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
@@ -4032,7 +4032,7 @@ Anledning:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="67"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>Loggar in med Microsoftkonto.</translation>
+        <translation>Loggar in med Microsoft-konto.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="89"/>
@@ -4084,12 +4084,12 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="705"/>
         <source>Launch the selected instance.</source>
-        <translation>Starta den utvalda instansen.</translation>
+        <translation>Starta den valda instansen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="469"/>
         <source>Main Toolbar</source>
-        <translation>Verktygsfält</translation>
+        <translation>Huvudverktygsfält</translation>
     </message>
     <message>
         <source>Add Instance</source>
@@ -4098,7 +4098,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="310"/>
         <source>Add a new instance.</source>
-        <translation>Skapa en ny instans.</translation>
+        <translation>Lägg till en ny instans.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="317"/>
@@ -4109,18 +4109,18 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="318"/>
         <source>Open the instance folder in a file browser.</source>
-        <translation>Öppna instansmapp i en filbläddrare.</translation>
+        <translation>Öppna instansmappen i filhanteraren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="324"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>Öppna den &amp;centrala mod-mappen</translation>
+        <translation>Öppna den &amp;centrala modmappen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Öppna den centrala mod-mappen i din fil-läsare.</translation>
+        <translation>Öppna den centrala modmappen i filhanteraren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
@@ -4260,7 +4260,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="802"/>
         <source>Instance Toolbar</source>
-        <translation>Instansens Verktygsrad</translation>
+        <translation>Instansfält</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="678"/>
@@ -4302,7 +4302,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>Rensa meta&amp;data-cache</translation>
+        <translation>Rensa metadata-&amp;cache</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
@@ -4517,7 +4517,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="712"/>
         <source>Launch the selected instance in offline mode.</source>
-        <translation>Starta den utvalda instansen i offline-läge.</translation>
+        <translation>Starta den valda instansen i offline-läge.</translation>
     </message>
     <message>
         <source>Edit Instance</source>
@@ -4561,7 +4561,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="741"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>Ändra den utvalda instansens grupp.</translation>
+        <translation>Ändra den valda instansens grupp.</translation>
     </message>
     <message>
         <source>Minecraft Folder</source>
@@ -4587,7 +4587,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>Öppna den utvalda instansens mapp i en filhanterare.</translation>
+        <translation>Öppna den valda instansens mapp filhanteraren.</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -4610,7 +4610,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Copy the selected instance.</source>
-        <translation>Kopiera den utvalda Instansen.</translation>
+        <translation>Kopiera den valda instansen.</translation>
     </message>
     <message>
         <source> on %1</source>
@@ -4670,7 +4670,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1297"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
-        <translation>Prestationsverktyget är inte korrekt inställt. Gå till inställningar, &quot;Externa Verktyg&quot;.</translation>
+        <translation>Prestationsverktyget är inte rätt inställt. Gå till inställningarna för &quot;Externa verktyg&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1380"/>
@@ -4685,7 +4685,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>No Default Account</source>
-        <translation>Inget Konto valt som standard</translation>
+        <translation>Inget konto valt som standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
@@ -4763,12 +4763,12 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2056"/>
         <source>Failed to add %1 to PATH</source>
-        <translation>Det gick inte att lägga till %1 i PATH</translation>
+        <translation>Misslyckades med att lägga till %1 i PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2057"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation>Ett fel uppstod vid försök att lägga till %1 i PATH</translation>
+        <translation>Ett fel inträffade vid försök att lägga till %1 i PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
@@ -5071,7 +5071,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="923"/>
         <source>, total played for %1</source>
-        <translation>, totalt spelad i %1</translation>
+        <translation>, sammanlagt spelat i %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
@@ -5798,7 +5798,7 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Kunde inte hitta någon giltig version på de(n) valda modleverantöre(n/rna)</translation>
+        <translation>Kunde inte hitta någon giltig version på vald(a) modleverantör(er)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
@@ -6902,7 +6902,7 @@ Välj ditt namn noggrant:</translation>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 Utvecklare</translation>
+        <translation>%1-utvecklare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"/>
@@ -7194,12 +7194,12 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
-        <translation>Tom sökväg</translation>
+        <translation>Sökvägen är tom</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="98"/>
         <source>Invalid path to JVisualVM</source>
-        <translation>Ogiltig sökväg till JVisualVM</translation>
+        <translation>Ingen giltig installation av JVisualVM hittades på sökvägen</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
@@ -7210,7 +7210,7 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="110"/>
         <source>Invalid JProfiler install</source>
-        <translation>Ogiltig JProfiler-installation</translation>
+        <translation>Ingen giltig installation av JProfiler hittades på sökvägen</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="31"/>
@@ -7220,7 +7220,7 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="42"/>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation>Sökvägen verkar inte vara en MCEdit-sökväg</translation>
+        <translation>Ingen giltig installation av MCEdit hittades på sökvägen</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
@@ -7562,12 +7562,12 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Move Up</source>
-        <translation>Gå upp</translation>
+        <translation>Flytta upp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Down</source>
-        <translation>Gå ner</translation>
+        <translation>Flytta ner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
@@ -8049,7 +8049,7 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation>Gamla Snapshots</translation>
+        <translation>Gamla snapshots</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="109"/>
@@ -8728,7 +8728,7 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
         <source>Rename</source>
-        <translation>Byt Namn</translation>
+        <translation>Byt namn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="107"/>
@@ -8758,7 +8758,7 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
         <source>View Folder</source>
-        <translation>Visa Mapp</translation>
+        <translation>Visa mapp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
