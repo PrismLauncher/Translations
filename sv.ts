@@ -1537,7 +1537,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Kunde inte extrahera lokal jar &apos;%1&apos; till destinationen &apos;%2&apos;</translation>
+        <translation>Kunde inte extrahera lokal JAR &apos;%1&apos; till destinationen &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -1702,7 +1702,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Okänd mod-laddare i manifest: %1</translation>
+        <translation>Okänd mod-loader i manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="315"/>
@@ -2641,12 +2641,12 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Show time spent playing this instance</source>
-        <translation>Visa tid tillbringad på att spela denna instans</translation>
+        <translation>Visa spelad tid för denna instans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="569"/>
         <source>Record time spent playing this instance</source>
-        <translation>Håll koll på tid tillbringad på att spela denna instans</translation>
+        <translation>Håll koll på spelad tid för denna instans</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="579"/>
@@ -3846,7 +3846,7 @@ Ska den tas bort nu?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>Null jar är specificerad i metadatan. Avbryter.</translation>
+        <translation>Null JAR är specificerad i metadatan. Avbryter.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="65"/>
@@ -4893,7 +4893,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1627"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
-        <translation>Kunde inte skapa mappen för att ladda ned uppdateringar:
+        <translation>Kunde inte skapa en mapp för nedladdningar av uppdateringar:
 %1</translation>
     </message>
 </context>
@@ -5173,7 +5173,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="185"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>Visa s&amp;pelad tid på instanser</translation>
+        <translation>Visa &amp;spelad tid för instanser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="192"/>
@@ -5185,7 +5185,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="199"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>Spara tid tillbringad på att spela instanser</translation>
+        <translation>&amp;Håll koll på spelad tid för instanser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
@@ -5202,7 +5202,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="218"/>
         <source>&amp;Close the launcher after game window opens</source>
         <oldsource>Close the launcher after game window opens</oldsource>
-        <translation>&amp;Stäng Prism Launcher efter spelfönstret har öppnats</translation>
+        <translation>&amp;Stäng Prism Launcher efter att spelfönstret har öppnats</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
@@ -5591,17 +5591,17 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="55"/>
         <source>Couldn&apos;t create the bin folder for Minecraft.jar</source>
-        <translation>Kunde inte skapa en bin-mapp åt minecraft.jar</translation>
+        <translation>Kunde inte skapa en bin-mapp åt Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="61"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>Kunde inte ta bort en stel jar fil: %1</translation>
+        <translation>Kunde inte ta bort inaktuell JAR-fil: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="76"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>Misslyckades att skapa en egen minecraft-jarfil.</translation>
+        <translation>Misslyckades med att skapa den anpassade Minecraft JAR-filen.</translation>
     </message>
 </context>
 <context>
@@ -5736,7 +5736,7 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Mod-namn: %1&lt;br&gt;Filnamn: %2&lt;br&gt;Orsak: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modnamn: %1&lt;br&gt;Filnamn: %2&lt;br&gt;Anledning: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
@@ -5746,7 +5746,7 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Det gick inte att generera metadata för följande mods:&lt;br&gt;Vill du fortsätta utan dessa mods?</translation>
+        <translation>Kunde inte generera metadata för följande mods:&lt;br&gt;Vill du fortsätta utan de modden?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
@@ -5777,12 +5777,12 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
         <source>Mod name: %1</source>
-        <translation>Mod-namn: %1</translation>
+        <translation>Modnamn: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Reason: %1</source>
-        <translation>Orsak: %1</translation>
+        <translation>Anledning: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
@@ -5977,7 +5977,7 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
         <source>Mod has an empty download URL</source>
-        <translation>Mod har en tom URL</translation>
+        <translation>Mod har en tom nedladdnings-URL</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="170"/>
@@ -6449,7 +6449,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Ladda upp loggen till Pastebin-tjänsten som valts i inställningarna.</translation>
+        <translation>Ladda upp loggen till inklistringstjänsten som valts i inställningarna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
@@ -6523,13 +6523,13 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="281"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>Kunde inte ta bort några filer!</translation>
+        <translation>Kunde inte ta bort vissa filer!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="286"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>Kunde inte ta bort några filer:
+        <translation>Kunde inte ta bort vissa filer:
 %1</translation>
     </message>
     <message>
@@ -6610,7 +6610,7 @@ Felmeddelande: %3</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>Standard-paste-tjänsten har ändrats till mclo.gs, vänligen välj vad du vill göra med dina inställningar.</translation>
+        <translation>Standardvalda inklistringstjänsten har ändrats till mclo.gs. Vänligen välj vad du vill göra med dina inställningar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -6629,14 +6629,14 @@ Felmeddelande: %3</translation>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
         <source>Running Post-Launch command: %1</source>
-        <translation>Kör &quot;Kommando efter stängning&quot;: %1</translation>
+        <translation>Kör kommando efter uppstart: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="70"/>
         <source>Post-Launch command failed with code %1.
 
 </source>
-        <translation>&quot;Kommando efter stängning&quot; misslyckades med koden %1.
+        <translation>Kommando efter uppstart misslyckades med koden %1.
 
 </translation>
     </message>
@@ -6645,7 +6645,7 @@ Felmeddelande: %3</translation>
         <source>Post-Launch command ran successfully.
 
 </source>
-        <translation>&quot;Kommando efter stängning&quot; kördes felfritt.
+        <translation>Kommando efter uppstart kördes felfritt.
 
 </translation>
     </message>
@@ -6656,14 +6656,14 @@ Felmeddelande: %3</translation>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation>Kör &quot;Kommando före start&quot;: %1</translation>
+        <translation>Kör &quot;Kommando innan uppstart&quot;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="70"/>
         <source>Pre-Launch command failed with code %1.
 
 </source>
-        <translation>&quot;Kommando före start&quot; misslyckades med koden %1.
+        <translation>&quot;Kommando innan uppstart&quot; misslyckades med koden %1.
 
 </translation>
     </message>
@@ -6672,7 +6672,7 @@ Felmeddelande: %3</translation>
         <source>Pre-Launch command ran successfully.
 
 </source>
-        <translation>&quot;Kommando före start&quot; kördes felfritt.
+        <translation>&quot;Kommando innan uppstart&quot; kördes felfritt.
 
 </translation>
     </message>
@@ -6928,7 +6928,7 @@ Välj ditt namn noggrant:</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="76"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>Länken &lt;a href=&quot;%1&quot;&gt; till den uppladdade loggen&lt;/a&gt; har kopierats till urklipp.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Länken till den uppladdade loggen&lt;/a&gt; har kopierats till urklipp.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
@@ -6964,7 +6964,7 @@ Välj ditt namn noggrant:</translation>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
         <source>Java test failure</source>
-        <translation>Javatest-fel</translation>
+        <translation>Javatest misslyckades</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="67"/>
@@ -7004,7 +7004,7 @@ Välj ditt namn noggrant:</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>URL för huvud-jarfilen kunde inte bestämmas - Mojang tog bort servern som vi använde som reserv.</translation>
+        <translation>URL för JAR-huvudfilen kunde inte bestämmas - Mojang tog bort servern som vi använde som reserv.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="293"/>
@@ -7039,7 +7039,7 @@ Välj ditt namn noggrant:</translation>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="86"/>
         <source>Invalid order file version, expected %1</source>
-        <translation>Ogiltig ordningsfilsversion, förväntade %1</translation>
+        <translation>Ogiltig version på ordningsfilen, förväntade %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="131"/>
@@ -7238,7 +7238,7 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
 
 Old name: %1
 New name: %2</source>
-        <translation>Instansnamnet verkar inkludera den gamla versionen Vill du uppdatera det?
+        <translation>Instansnamnet verkar inkludera den gamla versionen. Vill du uppdatera det?
 
 Gammalt namn: %1
 Nytt namn: %2</translation>
@@ -7320,7 +7320,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>Resurspaketets format-ID, samt Minecraftversionen det designades för.</translation>
+        <translation>Resurspaketets format-ID, samt Minecraft-versionen det designades för.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
@@ -7380,7 +7380,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation>Endast mods med en check kommer att laddas ner!</translation>
+        <translation>Endast mods med en markering kommer att laddas ner!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="12"/>
@@ -7463,12 +7463,12 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="407"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt; länken till den uppladdade skärmdumpen&lt;/a&gt; placerades i din clipboard.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Länken till den uppladdade skärmdumpen&lt;/a&gt; kopierades till urklipp.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="449"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt; länken till det uppladdade albumet&lt;/a&gt; placerades i din clipboard.</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;Länken till det uppladdade albumet&lt;/a&gt; kopierades till urklipp.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="495"/>
@@ -7697,7 +7697,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <source>Failed to upload skin!</source>
-        <translation>Misslyckades att ladda upp skin!</translation>
+        <translation>Misslyckades med att ladda upp skin!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
@@ -7707,12 +7707,12 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="143"/>
         <source>Select Skin Texture</source>
-        <translation>Välj skintextur</translation>
+        <translation>Välj skin-textur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="160"/>
         <source>No Cape</source>
-        <translation>Ingen Cape</translation>
+        <translation>Ingen mantel</translation>
     </message>
 </context>
 <context>
@@ -7952,7 +7952,7 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="492"/>
         <source>The native language name.</source>
-        <translation>Modersmålspråkets namn.</translation>
+        <translation>Språkets lokala namn.</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="496"/>
@@ -8003,7 +8003,7 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="56"/>
         <source>No %1 updates found. You are running the latest version.</source>
-        <translation>Inga %1 uppdateringar hittade. Du använder den senaste versionen.</translation>
+        <translation>Inga %1-uppdateringar hittade. Du använder den senaste versionen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="58"/>
@@ -8013,12 +8013,12 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="60"/>
         <source>&lt;center&gt;&lt;h1&gt;Loading changelog...&lt;/h1&gt;&lt;/center&gt;</source>
-        <translation>&lt;center&gt;&lt;h1&gt;Laddar ändringsloggen...&lt;/h1&gt;&lt;/center&gt;</translation>
+        <translation>&lt;center&gt;&lt;h1&gt;Laddar in ändringslogg...&lt;/h1&gt;&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="200"/>
         <source>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Failed to fetch changelog... Error: %1&lt;/span&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Hämtning av ändringslogg misslyckades... Felmeddelande: %1&lt;/span&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Hämtning av ändringslogg misslyckades... Fel: %1&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -8142,7 +8142,7 @@ inheritsFrom saknas</translation>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation>Denna instans är inte kompatibel med Java-versionen %1.
+        <translation>Denna instans är inte kompatibel med Java-version %1.
 Vänligen byt till en av följande Java-versioner för denna instans:</translation>
     </message>
     <message>
@@ -8184,7 +8184,7 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
         <source>Change version of the selected package.</source>
-        <translation>Byt det utvalda paketets version.</translation>
+        <translation>Byt det valda paketets version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
@@ -8244,7 +8244,7 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Revert the selected package to default.</source>
-        <translation>Återställ det utvalda paketet till sitt ursprungstillstånd.</translation>
+        <translation>Återställ det valda paketet till sitt ursprungstillstånd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="176"/>
@@ -8309,7 +8309,7 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
         <source>Replace Minecraft.jar</source>
-        <translation>Byt Minecraft.jar</translation>
+        <translation>Ersätt Minecraft.jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
@@ -8419,7 +8419,7 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="344"/>
         <source>Select jar mods</source>
-        <translation>Välj jar-mods</translation>
+        <translation>Välj JAR-mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="344"/>
@@ -8429,7 +8429,7 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="354"/>
         <source>Select jar</source>
-        <translation>Välj jar</translation>
+        <translation>Välj JAR</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="354"/>
@@ -8484,7 +8484,7 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="486"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation>Inga Forge-versioner till Minecraft är tillgängliga för tillfället </translation>
+        <translation>Inga Forge-versioner för Minecraft är tillgängliga för tillfället </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="487"/>
@@ -8935,12 +8935,12 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="142"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>Detta Microsoft-konto har inte någon XBox Live-profil. Köp spelet på %1 först.</translation>
+        <translation>Detta Microsoft-konto har inte någon Xbox Live-profil. Köp spelet på %1 först.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="151"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation>XBox Live är inte tillgängligt i ditt land. Du har blockerats.</translation>
+        <translation>Xbox Live är inte tillgängligt i ditt land. Du har blockerats.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="158"/>
@@ -9064,12 +9064,12 @@ Vänligen ställ in ditt konto enligt %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation>Ett okänt fel uppstod vid kommunikationen med autentiseringsservern: %1</translation>
+        <translation>Ett okänt fel inträffade vid försök att kommunicera med autentiseringsservern: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation>Ett okänt Yggdrasil-fel uppstod.</translation>
+        <translation>Ett okänt Yggdrasil-fel inträffade.</translation>
     </message>
 </context>
 <context>
