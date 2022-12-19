@@ -664,22 +664,22 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1632"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&apos;deki eski veri bulundu, ama hâlihazırda %2 için veriye sahipsin. Kendi başına aktarma yapmak zorundasın. %2&apos;yi sıradaki başlatışında bekleyen veri hakkında hatırlatılmak istiyor musun ?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1636"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüşe bakılırsa %1&apos;i daha önce kullanmışsın. Verilerini %2&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1642"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünüşe bakılırsa daha önceden %1&apos;i %2 de kullanmışsın. Yeni verileri %3&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktarım başarısız! Hatanın sebebi: %1</translation>
     </message>
 </context>
 <context>
@@ -1198,7 +1198,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyalar taranıyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
@@ -1208,18 +1208,18 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Kopyalanıyor…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">İptal edildi</translation>
+        <translation>İptal edildi</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazı dosya yolları kopyalanamıyor!</translation>
     </message>
 </context>
 <context>
@@ -1620,7 +1620,7 @@ Lütfen tekrar deneyin.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz veri API&apos;den geri döndü.</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -2209,12 +2209,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="14"/>
         <source>Choose instance to import</source>
-        <translation type="unfinished"></translation>
+        <translation>İçe aktarmak için profil seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu kaynak paketini içe aktarmak istediğiniz profili seçin.</translation>
     </message>
 </context>
 <context>
@@ -2265,7 +2265,8 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni bir profil oluşturulurken hatayla karşılaşıldı:
+ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="32"/>
@@ -2700,12 +2701,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="465"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesini aşıyor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="468"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçtiğiniz maksimum bellek sınırı, sisteminizin maksimum bellek kapasitesine yaklaşıyor.</translation>
     </message>
 </context>
 <context>
@@ -3856,7 +3857,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Kütüphane dosyaları Mojang&apos;dan alınıyor...</translation>
+        <translation>Gerekli kütüphane doyaları indiriliyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4280,12 +4281,12 @@ Sebep:
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2279"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Kısayol oluştur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilmiş profili başlatmak için masaüstüne kısayol oluştur.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="802"/>
@@ -4843,7 +4844,10 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&apos;i silmek üzeresin
+Büyük ihtimalle seçtiğin profili sonsuza kadar sileceksin.
+
+Emin misin ?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -4880,12 +4884,12 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil için kısayol oluştur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Masaüstü bulunamadı?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
@@ -4897,14 +4901,14 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2290"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2332"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu profil için masaüstünede bir kısayol oluştur!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2295"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil kısayolu oluşturma başarısız oldu!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2240"/>
