@@ -902,7 +902,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="49"/>
         <source>Open Missing</source>
-        <translation>Nyissa meg a Hiányzó(kat)</translation>
+        <translation>Nyissa meg a hiányzó(ka)t</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
@@ -935,7 +935,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A konfigurált globális modok mappájában és az alapértelmezett letöltési mappában automatikusan ellenőrzik a letöltött modokat, és ha megtalálják, a rendszer a példányba másolja őket.&lt;/p&gt;&lt;p&gt;Opcionálisan áthúzhatja a letöltött modokat erre a párbeszédpanelre, vagy hozzáadhat egy mappát a figyeléshez, ha nem az alapértelmezett helyre töltötte le a modokat.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A konfigurált globális modmappa és az alapértelmezett letöltési mappa automatikusan ellenőrzésre kerül a letöltött modok után, és ha megtaláljuk őket, átmásoljuk a példányba.&lt;/p&gt;&lt;p&gt;Opcionálisan áthúzhatja a letöltött modokat erre a párbeszédpanelre, vagy hozzáadhat egy mappát a figyeléshez, ha nem az alapértelmezett helyre töltötte le a modokat.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -4803,7 +4803,7 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation>%1 példány törlésére készülsz.
+        <translation>A(z) %1 példány törlésére készülsz.
 Ez végleges lehet, és teljesen törli a példányt.
 
 Biztos vagy ebben?</translation>
