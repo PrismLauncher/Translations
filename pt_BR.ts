@@ -239,7 +239,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1025"/>
         <source>Failed to create pack component</source>
-        <translation>Erro ao criar o componente do modpack</translation>
+        <translation>Erro ao criar o componente do pacote</translation>
     </message>
 </context>
 <context>
@@ -860,7 +860,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Não foi possível carregar ou baixar a lista de versões!</translation>
+        <translation>Não se pôde carregar ou baixar a lista de versões!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
@@ -977,7 +977,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Não foi possível encontrar o verificador de Java. Verifique a sua instalação.</translation>
+        <translation>Não se pôde achar o verificador de Java. Verifique a sua instalação.</translation>
     </message>
 </context>
 <context>
@@ -1153,7 +1153,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="18"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>Não foi possível criar a pasta principal do jogo</translation>
+        <translation>Não se pôde criar a pasta principal do jogo</translation>
     </message>
 </context>
 <context>
@@ -1231,14 +1231,14 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>Não foi possível encontrar o comando de wrapper &quot;%1&quot;.</translation>
+        <translation>Não se pôde achar o comando de wrapper &quot;%1&quot;.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation>Não foi possível iniciar o Minecraft!</translation>
+        <translation>Não se pôde iniciar o Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
@@ -1440,7 +1440,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation>Selecionar %1</translation>
+        <translation>Escolher %1</translation>
     </message>
 </context>
 <context>
@@ -1565,7 +1565,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Não foi possível extrair o .jar nativo &quot;%1&quot; para &quot;%2&quot;</translation>
+        <translation>Não se pôde extrair o .jar nativo &quot;%1&quot; para &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
@@ -1657,13 +1657,13 @@ Por favor, tente de novo.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nenhuma versão válida foi encontrada para esse mod. Provavelmente não há versão disponível para a versão atual do jogo / mod loader.</translation>
+        <translation>Sem versão válida achada para este mod. Provavelmente está indisponível para a versão atual do jogo/carregador de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation>O mod tem uma nova atualização disponível, mas não é possível baixá-lo utilizando o CurseForge.</translation>
+        <translation>O mod tem uma nova atualização disponível, mas não se pode o baixar usando o CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1673,7 +1673,7 @@ Por favor, tente de novo.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="268"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Não foi possível entender o manifesto do pacote:
+        <translation>Não se pôde entender o manifesto do pacote:
 </translation>
     </message>
     <message>
@@ -1713,13 +1713,13 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="232"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Não foi possível encontrar um arquivo de índice adequado para a versão mais antiga. Isso pode fazer com que alguns dos arquivos sejam duplicados. Você quer continuar?</translation>
+        <translation>Não se pôde achar um arquivo de índice adequado para a versão mais antiga. Isto pode fazer com que alguns dos arquivos sejam duplicados. Quer continuar?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="280"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Não foi possível renomear a pasta de substituições:
+        <translation>Não se pôde renomear a pasta de substituições:
 </translation>
     </message>
     <message>
@@ -1730,23 +1730,23 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="304"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Mod loader desconhecido no manifesto: %1</translation>
+        <translation>Carregador de mods desconhecido no manifesto: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="315"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>Pontos misteriosos foram removidos da versão do Minecraft ao importar o modpack.</translation>
+        <translation>Pontos misteriosos foram removidos da versão do Minecraft ao importar o pacote.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation>Não foi possível mapear a versão recomendada do Forge para o Minecraft %1</translation>
+        <translation>Não se pôde mapear a versão recomendada do Forge para o Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Não foi possível resolver os IDs de mods:
+        <translation>Não se pôde resolver os IDs de mods:
 </translation>
     </message>
     <message>
@@ -2233,12 +2233,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>Modpack da Modrinth</translation>
+        <translation>Pacote do Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation>Selecionar modpack</translation>
+        <translation>Escolher modpack</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -2347,7 +2347,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="136"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Não foi possível abrir o .zip do modpack fornecido.</translation>
+        <translation>Não se pôde abrir o .zip do modpack fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
@@ -2358,12 +2358,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="197"/>
         <source>Failed to extract modpack</source>
-        <translation>Falha ao extrair modpack</translation>
+        <translation>Erro ao extrair modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="224"/>
         <source>Could not fix permissions for %1</source>
-        <translation>Não foi possível corrigir as permissões para: %1</translation>
+        <translation>Não se pôde corrigir as permissões para: %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -2722,12 +2722,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="360"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Não foi possível achar o GameMode da Feral Interactive no seu sistema.</translation>
+        <translation>Não se pôde achar o GameMode da Feral Interactive no seu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="365"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>Não foi possível achar o MangoHud no seu sistema.</translation>
+        <translation>Não se pôde achar o MangoHud no seu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="386"/>
@@ -3120,7 +3120,7 @@ Por favor, selecione um dos seguintes ou busque um executável do Java no seu si
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="158"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Parece que não foi possível iniciar após %1 tentativas. Quer continuar tentando?</translation>
+        <translation>Parece que não se pôde iniciar após %1 tentativas. Quer continuar tentando?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="198"/>
@@ -3223,7 +3223,7 @@ Você gostaria de jogar o demo?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="329"/>
         <location filename="src/launcher/LaunchController.cpp" line="330"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>Não foi possível carregar o perfil da instância.</translation>
+        <translation>Não se pôde carregar o perfil da instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -3233,7 +3233,7 @@ Você gostaria de jogar o demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="401"/>
         <source>Couldn&apos;t start profiler: %1</source>
-        <translation>Não foi possível iniciar o profiler: %1</translation>
+        <translation>Não se pôde iniciar o profiler: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="410"/>
@@ -3257,7 +3257,7 @@ Você gostaria de jogar o demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="423"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation>Não foi possível iniciar o profiler: %1</translation>
+        <translation>Não se pôde iniciar o profiler: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="424"/>
@@ -3292,8 +3292,8 @@ Você talvez devesse checar seus mods, pois o jogo continua fazendo registros em
         <location filename="src/launcher/launch/LaunchTask.cpp" line="234"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>Paramos de monitorar o log do jogo pois ele ultrapassou %1 linhas.
-Você talvez tenha que consertar os seus mods, porque o jogo ainda está registrando arquivos e consumindo espaço de HD a uma taxa alarmante!</translation>
+        <translation>Paramos de monitorar o registro do jogo pois ele ultrapassou %1 linhas.
+Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrando arquivos e consumindo espaço do HD a uma taxa alarmante!</translation>
     </message>
 </context>
 <context>
@@ -3699,17 +3699,17 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="122"/>
         <source>Public Packs</source>
-        <translation>Modpacks públicos</translation>
+        <translation>Pacotes públicos</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Third Party Packs</source>
-        <translation>Modpacks de terceiros</translation>
+        <translation>Pacotes de terceiros</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="132"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>Falha ao baixar algumas listas de modpacks: %1</translation>
+        <translation>Erro ao baixar algumas listas de pacotes: %1</translation>
     </message>
 </context>
 <context>
@@ -3732,7 +3732,7 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>Falha ao abrir o arquivo do modpack %1!</translation>
+        <translation>Erro ao abrir o arquivo do modpack %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
@@ -3771,12 +3771,12 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="94"/>
         <source>Add pack</source>
-        <translation>Adicionar modpack</translation>
+        <translation>Adicionar pacote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="101"/>
         <source>Remove selected pack</source>
-        <translation>Remover modpack selecionado</translation>
+        <translation>Excluir pacote escolhido</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="121"/>
@@ -3805,29 +3805,29 @@ Dar acesso ao %1 pelo Flatseal é recomendado.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
         <source>FTB private packs</source>
-        <translation>Modpacks FTB privados</translation>
+        <translation>Pacotes FTB privados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="242"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>Erro ao baixar informações do modpack para o código %1.
+        <translation>Erro ao baixar informações do pacote para o código %1.
 Quer os remover agora?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="380"/>
         <source>Add FTB pack</source>
-        <translation>Adicionar modpack FTB</translation>
+        <translation>Adicionar pacote FTB</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="381"/>
         <source>Enter pack code:</source>
-        <translation>Insira o código do modpack:</translation>
+        <translation>Insira o código do pacote:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="404"/>
         <source>Remove pack</source>
-        <translation>Remover modpack</translation>
+        <translation>Remover pacote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="405"/>
@@ -4341,7 +4341,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="678"/>
         <source>Change Icon</source>
-        <translation>Alterar ícone</translation>
+        <translation>mudar ícone</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
@@ -4499,7 +4499,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="679"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>Alterar o ícone da instância selecionada.</translation>
+        <translation>Mudar o ícone da instância escolhida.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="691"/>
@@ -4626,7 +4626,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="733"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Alterar configurações, mods e versões da instância.</translation>
+        <translation>Mudar ajustes, mods e versões da instância.</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -4890,7 +4890,7 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
         <translation>Prestes a deletar: %1
-Isso pode ser permanente e irá completamente deletar a instância.
+Isto pode ser permanente e deletará totalmente a instância.
 
 Tem certeza?</translation>
     </message>
@@ -4934,7 +4934,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Não foi possível encontrar o desktop?!</translation>
+        <translation>Não se pôde achar o desktop?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
@@ -5042,7 +5042,7 @@ Você tem certeza?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1627"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
-        <translation>Não foi possível criar uma pasta para baixar atualizações:
+        <translation>Não se pôde criar uma pasta para baixar atualizações:
 %1</translation>
     </message>
     <message>
@@ -5055,12 +5055,12 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation>Informações do modpack</translation>
+        <translation>Informações do pacote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation>Nome do modpack:</translation>
+        <translation>Nome do pacote:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -5130,7 +5130,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="151"/>
         <source>Update pack</source>
-        <translation>Atualizar modpack</translation>
+        <translation>Atualizar pacote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="162"/>
@@ -5145,7 +5145,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Cannot update!</source>
-        <translation>Não é possível atualizar!</translation>
+        <translation>Não se pode atualizar!</translation>
     </message>
 </context>
 <context>
@@ -5377,12 +5377,12 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>Não foi possível achar o GameMode da Feral Interactive no seu sistema.</translation>
+        <translation>Não se pôde achar o GameMode da Feral Interactive no seu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>Não foi possível achar o MangoHud no seu sistema.</translation>
+        <translation>Não se pôde achar o MangoHud no seu sistema.</translation>
     </message>
 </context>
 <context>
@@ -5410,7 +5410,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="86"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>Não foi possível analisar a resposta de perfil do Minecraft: Java Edition</translation>
+        <translation>Não se pôde analisar a resposta de perfil do Minecraft: Java Edition</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="98"/>
@@ -5695,7 +5695,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="161"/>
         <source>Please install a mod loader first!</source>
-        <translation>Por favor, instale um &quot;mod loader&quot; antes!</translation>
+        <translation>Por favor, instale um carregador de mods antes!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="173"/>
@@ -6011,7 +6011,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
         <source>Changelog of the latest version</source>
-        <translation>Registro de alterações da versão mais recente</translation>
+        <translation>Registro de mudanças da versão mais recente</translation>
     </message>
 </context>
 <context>
@@ -6028,13 +6028,13 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
-        <translation>Falha ao buscar a versão %1 do modpack</translation>
+        <translation>Erro ao buscar a versão %1 do pacote</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Não foi possível entender o manifesto do modpack:
+        <translation>Não se pôde entender o manifesto do pacote:
 </translation>
     </message>
     <message>
@@ -6050,12 +6050,12 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation>Arquivos bloqueados encontrados</translation>
+        <translation>Arquivos bloqueados achados</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Os arquivos a seguir não são baixáveis em iniciador de terceiros.&lt;br/&gt;Você terá de os baixar manualmente e os adicionr à instância.</translation>
+        <translation>Os arquivos a seguir não são baixáveis em iniciador de terceiros.&lt;br/&gt;Você terá de os baixar manualmente e os adicionar à instância.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
@@ -6070,7 +6070,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>Download do mod</translation>
+        <translation>Transferência do mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
@@ -6080,7 +6080,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Copiando Mods Bloqueados (%1 de %2 completados)</translation>
+        <translation>Copiando mods bloqueados (%1 de %2 completados)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -6127,7 +6127,7 @@ Por favor, atualize o PolyMC!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>Um erro de rede aconteceu. Não foi possível carregar os modpacks.</translation>
+        <translation>Houve um erro de rede. Não se pôde carregar os modpacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
@@ -6135,7 +6135,7 @@ Por favor, atualize o PolyMC!</translation>
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
         <translation>A versão da API é muito antiga!
-Por favor atualize o %1!</translation>
+Por favor, atualize o %1!</translation>
     </message>
 </context>
 <context>
@@ -6158,7 +6158,7 @@ Por favor atualize o %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="103"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Nenhuma versão válida encontrada para este mod. Provavelmente não está disponível para a versão atual do jogo/mod loader.</translation>
+        <translation>Sem versão válida achada para este mod. Provavelmente está indisponível para a versão atual do jogo/carregador de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
@@ -6244,7 +6244,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="318"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>Um ou mais mods desse modpack são opcionais. Eles serão baixados, mas desabilitados por padrão!</translation>
+        <translation>Um ou mais mods deste modpack são opcionais. Eles serão baixados, mas desativados por padrão!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="361"/>
@@ -6309,7 +6309,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Nota: Modpacks no Modrinth ainda estão em fase alfa. Algumas coisas podem estar meio inacabadas, ou mesmo não funcionando! Use com precaução.</translation>
+        <translation>Nota: Modpacks no Modrinth ainda estão em fase alfa. Algumas coisas podem estar meio inacabadas, ou mesmo não funcionando! Use com cautela.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -6826,7 +6826,7 @@ Mensagem de erro: %3</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation>O serviço de paste padrão foi alterado para mclo.gs, por favor escolha o que fazer com as suas configurações.</translation>
+        <translation>O serviço para textos padrão foi mudado para mclo.gs, por favor, escolha o que fazer com os seus ajustes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -7094,7 +7094,7 @@ Escolha o seu nome com cuidado:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="157"/>
         <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Nenhuma alteração detectada entre a versão atual e a %1 mais recente.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Sem mudança detectada entre a versão atual e a %1 mais recente.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="161"/>
@@ -7235,7 +7235,7 @@ Escolha o seu nome com cuidado:</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="206"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation>O arquivo de versão contém ambos os &quot;+libraries&quot; e &quot;libraries&quot;. Não é mais possível fazer isso.</translation>
+        <translation>O arquivo de versão contém ambos os &quot;+libraries&quot; e &quot;libraries&quot;. Não se pode mais fazer isso.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="260"/>
@@ -7315,14 +7315,14 @@ Escolha o seu nome com cuidado:</translation>
         <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>Não foi possível substituir o arquivo %1. As alterações serão revertidas.
+        <translation>Não se pôde substituir o arquivo %1. As mudanças serão revertidas.
 Veja o arquivo de registro do %2 para saber mais.</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="368"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>Não foi possível remover o arquivo %1. As alterações serão revertidas.
+        <translation>Não se pôde excluir o arquivo %1. As mudanças serão revertidas.
 Veja o arquivo de registro do %2 para saber mais.</translation>
     </message>
     <message>
@@ -7406,7 +7406,7 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>O binário de Java especificado não funcionou.&lt;br /&gt;Utilize a detecção automática ou selecione o caminho do executável do Java.&lt;br /&gt;</translation>
+        <translation>O binário de Java especificado não funcionou.&lt;br /&gt;Use a detecção automática ou escolha o caminho do executável do Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
@@ -7466,7 +7466,7 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
         <source>Change instance name</source>
-        <translation>Alterar nome da instância</translation>
+        <translation>Mudar nome da instância</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="9"/>
@@ -7489,9 +7489,9 @@ Novo nome: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Uma ou mais das suas instâncias são desse mesmo modpack%1. Você quer criar uma instância separada, ou atualizar a instância existente?
+        <translation>Uma ou mais das suas instâncias são deste mesmo modpack%1. Quer criar uma instância separada ou atualizar a instância existente?
 
-NOTA: Lembre-se de fazer um backup dos seus arquivos importantes da instância antes de atualizar, já que mundos podem ficar corrompidos e algumas configurações podem ser perdidas (por conta de overrides do modpack).</translation>
+NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes da instância antes de atualizar, pois mundos podem ficar corrompidos e alguns ajustes podem ser perdidos (devido a substituições do modpack).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
@@ -7537,7 +7537,7 @@ NOTA: Lembre-se de fazer um backup dos seus arquivos importantes da instância a
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>A data e hora em que este recurso foi alterado (ou adicionado) pela última vez.</translation>
+        <translation>A data e hora em que este recurso foi mudado (ou adicionado) por último.</translation>
     </message>
 </context>
 <context>
@@ -7883,7 +7883,7 @@ NOTA: Lembre-se de fazer um backup dos seus arquivos importantes da instância a
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
         <source>Skin Upload</source>
-        <translation>Alterar skin</translation>
+        <translation>Mudar skin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="20"/>
@@ -7923,7 +7923,7 @@ NOTA: Lembre-se de fazer um backup dos seus arquivos importantes da instância a
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="95"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
-        <translation>Não é possível usar uma URL inválida para carregar skins.</translation>
+        <translation>Não se pode usar uma URL inválida para carregar skins.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
@@ -7963,7 +7963,7 @@ NOTA: Lembre-se de fazer um backup dos seus arquivos importantes da instância a
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation>Download do modpack</translation>
+        <translation>Transferência do modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
@@ -7973,12 +7973,12 @@ NOTA: Lembre-se de fazer um backup dos seus arquivos importantes da instância a
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Não foi possível abrir o arquivo .zip do modpack fornecido.</translation>
+        <translation>Não se pôde abrir o arquivo .zip do modpack fornecido.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
         <source>Failed to extract modpack</source>
-        <translation>Falha ao extrair modpack</translation>
+        <translation>Erro ao extrair modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
@@ -8040,7 +8040,7 @@ NOTA: Lembre-se de fazer um backup dos seus arquivos importantes da instância a
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
         <source>Failed to extract modpack</source>
-        <translation>Falha ao extrair modpack</translation>
+        <translation>Erro ao extrair modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
@@ -8058,7 +8058,7 @@ NOTA: Lembre-se de fazer um backup dos seus arquivos importantes da instância a
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation>Não foi possível abrir o &quot;bin/modpack.jar&quot;!</translation>
+        <translation>Não se pôde abrir o arquivo &quot;bin/modpack.jar&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="68"/>
@@ -8075,7 +8075,7 @@ NOTA: Lembre-se de fazer um backup dos seus arquivos importantes da instância a
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>Não foi possível encontrar o &quot;version.json&quot; no &quot;bin/modpack.jar&quot;, mas a versão do Minecraft é desconhecida</translation>
+        <translation>Não se pôde achar o &quot;version.json&quot; no &quot;bin/modpack.jar&quot;, mas a versão do Minecraft é desconhecida</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -8249,12 +8249,12 @@ total: %4</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="60"/>
         <source>&lt;center&gt;&lt;h1&gt;Loading changelog...&lt;/h1&gt;&lt;/center&gt;</source>
-        <translation>&lt;center&gt;&lt;h1&gt;Carregando registro de alterações...&lt;/h1&gt;&lt;/center&gt;</translation>
+        <translation>&lt;center&gt;&lt;h1&gt;Carregando registro de mudanças...&lt;/h1&gt;&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="200"/>
         <source>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Failed to fetch changelog... Error: %1&lt;/span&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Erro ao buscar o registro de alterações... Erro: %1&lt;/span&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Erro ao buscar o registro de mudanças... Erro: %1&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -8689,7 +8689,7 @@ Por favor, troque para uma das seguintes versões do Java para esta instância:<
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="426"/>
         <source>Change %1 version</source>
-        <translation>Alterar versão %1</translation>
+        <translation>Mudar versão %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
