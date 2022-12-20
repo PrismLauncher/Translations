@@ -28,7 +28,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>API-Nycklar</translation>
+        <translation>API-nycklar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -3350,7 +3350,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="250"/>
         <source>&amp;Icons</source>
-        <translation>Ikoner</translation>
+        <translation>&amp;Ikoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
@@ -4685,7 +4685,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
         <source>No Default Account</source>
-        <translation>Inget konto valt som standard</translation>
+        <translation>Inget standardkonto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
