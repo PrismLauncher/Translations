@@ -907,12 +907,12 @@ Bonvolu ĝisdatigo ambaŭ via operaciumo kaj %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Via agordita ĝenerala modifo-dosierujo kaj defaŭlta elŝuto-dosierujo estas aŭtomate kontrolata por la elŝutitaj modifoj kaj ilin kopios al la apero se trovita.&lt;/p&gt;&lt;p&gt;Nedevige, vi povas ŝovmeti la elŝutitajn modifojn sur ĉi tiun dialogon aŭ aldoni dosierujon por atentado se vi ne elŝutis la modifojn al defaŭlta loko.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atentataj Dosierujoj:</translation>
     </message>
 </context>
 <context>
