@@ -4260,69 +4260,70 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Task aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>The task has been aborted by the user.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1759"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1768"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>The launcher cannot download Minecraft or update instances unless you have at least one account added.
+Please add your Mojang or Minecraft account.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1931"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Group name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1931"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter a new group name.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1953"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>Delete group</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1953"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Are you sure you want to delete the group %1?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2052"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Successfully added %1 to PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2053"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 was successfully added to your PATH. You can now start it by running `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2056"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to add %1 to PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2057"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>An error occurred while trying to add %1 to PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
         <source>CAREFUL!</source>
-        <translation type="unfinished"></translation>
+        <translation>CAREFUL!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
@@ -4330,7 +4331,10 @@ Please add your Mojang or Minecraft account.</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>About to delete: %1
+This may be permanent and will completely delete the instance.
+
+Are you sure?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
@@ -4348,12 +4352,12 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Create instance shortcut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t find desktop!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
