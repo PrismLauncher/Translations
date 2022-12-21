@@ -3916,7 +3916,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Получение библиотек Mojang...</translation>
+        <translation>Загрузка необходимых библиотек...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -5123,12 +5123,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="135"/>
         <source>Warnings</source>
-        <translation type="unfinished">Предупреждения</translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
@@ -7386,19 +7386,19 @@ Please let us know why and how this happened.</source>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1мин %2сек</translation>
+        <translation>%1мин %2сек</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1ч %2мин</translation>
+        <translation>%1ч %2мин</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1д %2ч %3мин</translation>
+        <translation>%1д %2ч %3мин</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -7521,7 +7521,7 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished">Похожий модпак найден!</translation>
+        <translation>Похожий модпак найден!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
@@ -7545,7 +7545,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
