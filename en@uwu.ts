@@ -3148,7 +3148,7 @@ You may have to fix youw mods because the game is stiww wogging to fiwes and wik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation>Disabwe uwsing metadata pwovided by mod pwovidews (wike Modwinth ow Cuwwsefowge) fow mods.</translation>
+        <translation>Disabwe uwsing metadata pwovided by mowd pwovidews (wike Modwinth ow Cuwwsefowge) fow mowds.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
