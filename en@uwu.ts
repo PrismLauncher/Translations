@@ -891,7 +891,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation>Watched Fowdews:</translation>
+        <translation>Watched Fowders:</translation>
     </message>
 </context>
 <context>
