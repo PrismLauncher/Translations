@@ -1805,7 +1805,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Привет!&lt;/h1&gt;&lt;h4&gt;Похоже, ваш Pack ID недействителен. Это связано с ошибкой в старых версиях программы запуска.&lt;br/&gt;К сожалению, без этой информации мы не можем выполнять правильные запросы к API.&lt;br/&gt;&lt;br/&gt;Итак, чтобы эта функция работала, вам нужно будет повторно загрузить сборку модов из встроенного загрузчика.&lt;br/&gt;&lt;br/&gt;Не волнуйтесь, вместо этого вам будет предложено обновить эту сборку, чтобы вы не потеряли эту сборку!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
@@ -4989,7 +4989,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2280"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Записи рабочего стола (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
