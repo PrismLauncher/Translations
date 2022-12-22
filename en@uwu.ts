@@ -862,7 +862,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Downwoad Fowdew</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="128"/>
