@@ -1789,7 +1789,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h1&gt;Hey&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof je Pack ID null is. Dit komt door een bug in oudere mincraftlauncherversies.&lt;br/&gt;Jammer genoeg, kunnen wij niet de juiste API opvragingen doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken, zal je de modpack moeten herdownloaden, je kan dit doen via de ingebouwde downloader.&lt;br/&gt;Maar maak je geen zorgen, het zal je vragen om in plaats van een nieuwe instantie te maken, deze te updaten. Je zal dus geen data uit deze instantie verliezen!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
@@ -2210,12 +2210,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="14"/>
         <source>Choose instance to import</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies instanties om te importeren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies de instantie waaraan je dit resource pack wilt toevoegen.</translation>
     </message>
 </context>
 <context>
@@ -2695,12 +2695,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="465"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je maximale geheugentoewijzing is meer dan het systeemgeheugen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="468"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je maximale geheugentoewijzing komt dicht in de buurt van je systeemgeheugencapaciteit.</translation>
     </message>
 </context>
 <context>
@@ -2901,12 +2901,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je maximale geheugentoewijzing is meer dan je systeemgeheugencapaciteit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je maximale geheugentoewijzing komt dicht in de buurt van de systeemgeheugencapaciteit.</translation>
     </message>
 </context>
 <context>
@@ -2974,12 +2974,12 @@ U kunt later de Java-versie wijzigen in de instellingen.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je maximale geheugentoewijzing is meer dan je systeemgeheugencapaciteit.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je maximale geheugentoewijzing komt dicht in de buurt van de systeemgeheugencapaciteit.</translation>
     </message>
 </context>
 <context>
@@ -3390,17 +3390,17 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Waarschuwing&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Mod metadata uitzetten kan misschien ook sommige QoL functies zoals mod updating uitzetten!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Waarschuwing&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Mod metadata uitzetten kan misschien ook sommige QoL functies, zoals mod updaten, onbruikbaar maken!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
         <source>Breeze Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Breeze Licht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Breeze Donker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
@@ -3426,7 +3426,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="333"/>
         <source>&amp;Colors</source>
         <oldsource>Colors</oldsource>
-        <translation type="unfinished">&amp;Kleuren</translation>
+        <translation>&amp;Kleuren</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="356"/>
@@ -3484,25 +3484,25 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="455"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Console automatisch sluiten als het spel wordt gestopt?</translation>
+        <translation>&amp;Console automatisch sluiten als het spel wordt gestopt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="462"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Console weergeven wanneer het spel &amp;crasht?</translation>
+        <translation>Console weergeven wanneer het spel &amp;crasht?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="472"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished">&amp;Geschiedenis-limiet</translation>
+        <translation>&amp;Geschiedenislimiet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="478"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished">&amp;Stop met logboek bijhouden wanneer logboek vol is</translation>
+        <translation>&amp;Stop met het bijhouden van een logboek, wanneer het logboek vol is</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="491"/>
@@ -3540,10 +3540,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">U probeert een installatie-map in te stellen die slechts tijdelijk beschikbaar was via Flatpak.
+        <translation>U probeert een installatiemap in te stellen die slechts tijdelijk beschikbaar was via Flatpak.
 Dit kan problemen opleveren. Na een herstart kan het startprogramma namelijk crashen omdat het geen toegang meer heeft tot die map.
 
-Het is aangeraden om Prism Launcher toegang te verlenen met Flatseal.</translation>
+Het is aangeraden om Prism Launcher %1 toegang te verlenen met Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="158"/>
@@ -3692,7 +3692,7 @@ Het is aangeraden om Prism Launcher toegang te verlenen met Flatseal.</translati
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">Kon het uitgepakte Minecraft niet verplaatsen!</translation>
+        <translation>Kon de uitgepakte Minecraft niet verplaatsen!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="225"/>
@@ -3739,7 +3739,7 @@ Het is aangeraden om Prism Launcher toegang te verlenen met Flatseal.</translati
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished">Fout</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -3847,7 +3847,7 @@ Wilt u deze nu verwijderen?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">De bibliotheekbestanden ophalen van Mojang...</translation>
+        <translation>De bibliotheekbestanden ophalen...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -3899,7 +3899,7 @@ Reden:
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Ongeldige metadata</translation>
+        <translation>Ongeldige metadata</translation>
     </message>
 </context>
 <context>
@@ -4260,7 +4260,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="755"/>
         <source>E&amp;xport...</source>
-        <translation type="unfinished">E&amp;xporteren...</translation>
+        <translation>E&amp;xporteren...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="763"/>
@@ -4276,12 +4276,12 @@ Reden:
         <location filename="src/launcher/ui/MainWindow.cpp" line="780"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2279"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelkoppeling maken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maakt een snelkoppeling op je bureaublad om de geselecteerde instantie te openen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="802"/>
@@ -4306,7 +4306,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="309"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished">Installat&amp;ie toevoegen...</translation>
+        <translation>Instant&amp;ie toevoegen...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="329"/>
@@ -4328,7 +4328,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="364"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished">&amp;Metadata cache leegmaken</translation>
+        <translation>&amp;Metadata cache leegmaken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
@@ -4338,12 +4338,12 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Installeren op &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Installeer een Prismlauncher symlink op /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
@@ -4358,12 +4358,12 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="398"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished">&amp;Discord gilde</translation>
+        <translation>&amp;Discord gilde</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="407"/>
         <source>Sub&amp;reddit</source>
-        <translation type="unfinished">Sub&amp;reddit</translation>
+        <translation>Sub&amp;reddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="416"/>
@@ -4393,7 +4393,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="457"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Thema&apos;s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="539"/>
@@ -4717,7 +4717,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1412"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1427"/>
@@ -4747,12 +4747,12 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Taak geannuleerd</translation>
+        <translation>Taak afgebroken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">De taak is geannuleerd door de gebruiker.</translation>
+        <translation>De taak is afgebroken door de gebruiker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1717"/>
@@ -4790,22 +4790,22 @@ Gelieve uw Mojang- of Microsoft-account toe te voegen.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2052"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Succesvol %1 toegevoegd aan PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2053"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Het toevoegen van %1 aan PATH is gelukt. Je kan het nu starten door %2 uit te voeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2056"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Het toevoegen van %1 aan PATH is mislukt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2057"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een fout opgetreden terwijl %1 aan PATH werd toegevoegd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
@@ -4818,7 +4818,10 @@ Gelieve uw Mojang- of Microsoft-account toe te voegen.</translation>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 wordt verwijdert
+Dit kan niet ongedaan worden is zal de instantie volledig verwijderen.
+
+Ben je zeker?</translation>
     </message>
     <message>
         <source>About to delete: %1
@@ -4846,12 +4849,12 @@ Weet u het zeker?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelkoppeling voor deze instantie maken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2213"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bureaublad is niet gevonden?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2220"/>
@@ -4863,19 +4866,19 @@ Weet u het zeker?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2290"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2332"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>De snelkoppeling van deze instantie staat nu op je bureaublad!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2295"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2337"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>Het maken van de instantiesnelkoppeling is mislukt!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2240"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wordt dit programma uitgevoerd als een niet juist ingestelde AppImage? ($APPIMAGE omgevingsvariabele is niet aanwezig)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2259"/>
@@ -4883,17 +4886,17 @@ Weet u het zeker?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2313"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2325"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het maken van een icoon voor de snelkoppeling is mislukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2280"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bureaublad Bestanden (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet ondersteund op jouw platform!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2439"/>
@@ -4961,97 +4964,97 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Pack-informatie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pack-naam:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige versie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informatie over de aanbieder:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Updaten naar versie:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Versies aan het ophalen...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="167"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzigingslijst</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is geen wijzigingslijst gevonden voor deze versie!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina herladen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="88"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack-nummer: %3    |    Versienummer: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
         <source>Error</source>
-        <translation type="unfinished">Fout</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="135"/>
         <source>Warnings</source>
-        <translation type="unfinished">Waarschuwingen</translation>
+        <translation>Waarschuwingen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Taak geannuleerd</translation>
+        <translation>Taak afgebroken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">De taak is geannuleerd door de gebruiker.</translation>
+        <translation>De taak is afgebroken door de gebruiker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="143"/>
         <source>Abort</source>
-        <translation type="unfinished">Afbreken</translation>
+        <translation>Afbreken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="151"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pack updaten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="162"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het zoeken naar beschikbare versies is mislukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="165"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het aanvragen van een wijzigingslijst voor dit modpack is mislukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan niet updaten!</translation>
     </message>
 </context>
 <context>
@@ -5191,37 +5194,37 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Performance</source>
-        <translation type="unfinished">Prestaties</translation>
+        <translation>Prestaties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet Feral Interactive&apos;s GameMode aan om wellicht gaming prestatie te verbeteren.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet Feral Interactive&apos;s GameMode aan om misschien spelprestaties te verbeteren.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="149"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Zet Feral GameMode aan</translation>
+        <translation>Zet Feral GameMode aan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet MangoHud&apos;s geavanceerde prestatie-overlay aan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zet MangoHud&apos;s geavanceerde prestatie-overlay aan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="159"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Zet MangoHud aan</translation>
+        <translation>Zet MangoHud aan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="166"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebruik de discrete GPU in plaats van de primaire GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gebruik de discrete GPU in plaats van de primaire GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="169"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Gebruik discrete GPU</translation>
+        <translation>Gebruik de discrete GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -5283,12 +5286,12 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">GameMode van Feral Interactive kon niet gevonden worden op uw systeem.</translation>
+        <translation>GameMode van Feral Interactive kon niet gevonden worden op uw systeem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud kon niet gevonden worden op uw systemm.</translation>
+        <translation>MangoHud kon niet gevonden worden op uw systeem.</translation>
     </message>
 </context>
 <context>
