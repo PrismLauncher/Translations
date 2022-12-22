@@ -1789,12 +1789,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished">&lt;h1&gt;Hey&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof je Pack ID null is. Dit komt door een bug in oudere mincraftlauncherversies.&lt;br/&gt;Jammer genoeg, kunnen wij niet de juiste API opvragingen doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken, zal je de modpack moeten herdownloaden, je kan dit doen via de ingebouwde downloader.&lt;br/&gt;Maar maak je geen zorgen, het zal je vragen om in plaats van een nieuwe instantie te maken, deze te updaten. Je zal dus geen data uit deze instantie verliezen!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Hey&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof je Pack ID null is. Dit komt door een bug in oudere versies van de Minecraft-launcher.&lt;br/&gt;Jammer genoeg, kunnen wij niet de juiste API opvragingen doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken, zal je de modpack moeten herdownloaden, je kan dit doen via de ingebouwde downloader.&lt;br/&gt;Maar maak je geen zorgen, het zal je vragen om in plaats van een nieuwe instantie te maken, deze te updaten. Je zal dus geen data uit deze instantie verliezen!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (huidig)</translation>
     </message>
 </context>
 <context>
@@ -2266,7 +2266,8 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout tijdens het maken van de nieuwe instantie
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="32"/>
