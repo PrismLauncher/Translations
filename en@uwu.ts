@@ -2988,7 +2988,7 @@ Do you want to pway the demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="294"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>The wauwnchew&apos;s cwient identification has changed. Pwease wemove this accouwnt and add it again.</translation>
+        <translation>The wauwnchew&apos;s cwient identification has changed. Pwease wemove this accouwnt and wadd it again.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="157"/>
