@@ -867,7 +867,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="128"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Sewect diwectowy whewe u downwoaded the mods</translation>
+        <translation>Sewect diwectowy whewe u downwoaded the mowds</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
