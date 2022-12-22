@@ -914,7 +914,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="49"/>
         <source>Open Missing</source>
-        <translation type="unfinished">Açık Eksik</translation>
+        <translation>Eksiği Aç</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
@@ -5050,7 +5050,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="88"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished">Site: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</translation>
+        <translation>Site: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Paket ID: %3    |    Sürüm ID: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
@@ -6200,7 +6200,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Anlık)</translation>
+        <translation>%1 (Anlık)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
@@ -7388,7 +7388,7 @@ Yeni isim: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished">Bir ya da birden fazla oturumunuz bu aynı mod paketinden%1. Ayrı bir oturum yaratmak mı, yoksa zaten var olan bir tanesini güncellemek mi istersiniz?
+        <translation>Bir ya da birden fazla oturumunuz bu aynı mod paketinden %1. Ayrı bir oturum yaratmak mı, yoksa zaten var olan bir tanesini güncellemek mi istersiniz?
 
 NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emin olun, çünkü dünyalar bozulabilir ve bazı yapılandırmalar kaybolabilir (paketlerin birbirinin üzerine yazılma sebebiyle).</translation>
     </message>
@@ -7753,7 +7753,7 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="54"/>
         <source>Shader packs</source>
-        <translation>Shader paketleri</translation>
+        <translation>Gölgelendirme (Shader) Paketleri</translation>
     </message>
 </context>
 <context>
@@ -8453,12 +8453,12 @@ Lütfen bu profil için burdaki Java sürümlerinden birini seçin:</translation
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
         <source>Add Agents</source>
-        <translation type="unfinished">Aracı ekle</translation>
+        <translation>Araçlar Ekle</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished">Java aracısı ekle.</translation>
+        <translation>Java araçları ekle.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
@@ -8578,7 +8578,7 @@ Lütfen bu profil için burdaki Java sürümlerinden birini seçin:</translation
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="365"/>
         <source>Select agents</source>
-        <translation type="unfinished">Aracı seçin</translation>
+        <translation>Araçları seçin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="365"/>
