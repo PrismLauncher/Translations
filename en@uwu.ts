@@ -4321,7 +4321,7 @@ Pwease add y-youw M-Mojang o-ow Minyecwaft account OwO.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2053"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 was suwccessfuwwwy added to uw PATH. Youw can now stawt it by wuwnning `%2`.</translation>
+        <translation>%1 waws suwccessfuwwwy added to ur PAWTH. Youw can now stawt it by wuwnning `%2`.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2056"/>
