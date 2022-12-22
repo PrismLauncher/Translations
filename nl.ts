@@ -6159,7 +6159,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (huidig)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
