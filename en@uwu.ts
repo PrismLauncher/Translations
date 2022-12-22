@@ -899,7 +899,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Equwipping cape</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
@@ -2795,7 +2795,7 @@ Pwease sewect onye of the fowwowing ow bwowse fow a Java executabwe.</translatio
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Don&apos;t see uw wanguwage ow the quwawity is poow?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Hewp uws with twanswations!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
