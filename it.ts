@@ -1190,7 +1190,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation>Controllando files...</translation>
+        <translation>Controllando i file...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
@@ -3854,7 +3854,7 @@ Rimuoverlo?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Download delle librerie richieste...</translation>
+        <translation>Download delle librerie richieste...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4339,12 +4339,12 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="371"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished">Installa su &amp;PATH</translation>
+        <translation>Installa su &amp;PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="unfinished">Installa un symlink di prismlauncher in /usr/local/bin</translation>
+        <translation>Installa un symlink di prismlauncher in /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="380"/>
@@ -4817,7 +4817,7 @@ Per favore aggiungi il tuo account Mojang/Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2052"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished">Aggiunto %1 a PATH correttamente</translation>
+        <translation>Aggiunto %1 a PATH correttamente</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2053"/>
@@ -4827,12 +4827,12 @@ Per favore aggiungi il tuo account Mojang/Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2056"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished">Impossibile %1 a PATH</translation>
+        <translation>Impossibile %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2057"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished">Un errore si è verificato durante l&apos;aggiunta di %1 a PATH</translation>
+        <translation>Un errore si è verificato durante l&apos;aggiunta di %1 a PATH</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
@@ -4909,7 +4909,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2240"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Il launcher sta avviando una AppImage mal configurata? (La variabile di sistema $APPIMAGE è mancante)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2259"/>
@@ -4922,7 +4922,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2280"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elementi Desktop (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2340"/>
@@ -5051,7 +5051,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="88"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished">Sito web: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID del pack: %3    |    ID della versione: %4</translation>
+        <translation>Sito web: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID del modpack: %3    |    ID della versione: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
@@ -8455,7 +8455,7 @@ Si prega di selezionare per questa istanza una versione fra le seguenti:</transl
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi Agenti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
