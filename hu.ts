@@ -3824,7 +3824,7 @@ El legyen most távolítva?</translation>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>A könyvtárfájlok beszerzése a Mojangtól...</translation>
+        <translation>Könyvtárfájlok beszerzése a Mojangtól...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -8270,7 +8270,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
         <source>Make the selected package apply sooner.</source>
-        <translation>A kiválasztott csomagot hamarabb érvényesítése.</translation>
+        <translation>A kiválasztott csomagot hamarabb érvényesítse.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="136"/>
@@ -8280,7 +8280,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
         <source>Make the selected package apply later.</source>
-        <translation>A kiválasztott csomagot később érvényesítése.</translation>
+        <translation>A kiválasztott csomagot később érvényesítse.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="144"/>
@@ -8320,7 +8320,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
         <source>Revert the selected package to default.</source>
-        <translation>Állítsa vissza a kiválasztott csomagot alapértelmezésre.</translation>
+        <translation>Állítsa vissza a kiválasztott csomagot az alapértelmezettre.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="176"/>
