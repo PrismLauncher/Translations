@@ -219,8 +219,8 @@
             "untranslated" : 1442
         },
         "hu" : {
-            "file" : "0564c2f6228c5facdb9406693ec526b106ebc13c.class",
-            "sha1" : "0564c2f6228c5facdb9406693ec526b106ebc13c",
+            "file" : "750675cb85a54af50b84a528d7f44b9037530e09.class",
+            "sha1" : "750675cb85a54af50b84a528d7f44b9037530e09",
             "size" : 217898,
             "translated" : 1485,
             "fuzzy" : 0,
@@ -251,12 +251,12 @@
             "untranslated" : 1314
         },
         "it" : {
-            "file" : "e2948e1c0928d5a6cec7cca1180825a8ba496884.class",
-            "sha1" : "e2948e1c0928d5a6cec7cca1180825a8ba496884",
-            "size" : 221004,
-            "translated" : 1480,
-            "fuzzy" : 7,
-            "untranslated" : 3
+            "file" : "ced919fb4c0dead9a8188869b0956b8edf24bf81.class",
+            "sha1" : "ced919fb4c0dead9a8188869b0956b8edf24bf81",
+            "size" : 221545,
+            "translated" : 1490,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "ja" : {
             "file" : "41a4b9cba9b3fc2864e59c6432b2ed7c0d943f29.class",
@@ -379,9 +379,9 @@
             "untranslated" : 521
         },
         "pt_BR" : {
-            "file" : "19124e705a7b39aa7129abc3bbbd038dc13af9e0.class",
-            "sha1" : "19124e705a7b39aa7129abc3bbbd038dc13af9e0",
-            "size" : 215535,
+            "file" : "4303a044dc434ae639916b7804bfc444dafb958f.class",
+            "sha1" : "4303a044dc434ae639916b7804bfc444dafb958f",
+            "size" : 215533,
             "translated" : 1490,
             "fuzzy" : 0,
             "untranslated" : 0
@@ -451,9 +451,9 @@
             "untranslated" : 1416
         },
         "sv" : {
-            "file" : "623869dbb1dbb5e015b1e7b60749bc7c6b4db362.class",
-            "sha1" : "623869dbb1dbb5e015b1e7b60749bc7c6b4db362",
-            "size" : 212307,
+            "file" : "28bd0347a7f2531579440d6c7a069568add62dfc.class",
+            "sha1" : "28bd0347a7f2531579440d6c7a069568add62dfc",
+            "size" : 212319,
             "translated" : 1490,
             "fuzzy" : 0,
             "untranslated" : 0
