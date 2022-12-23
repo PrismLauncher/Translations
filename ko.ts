@@ -4260,7 +4260,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="755"/>
         <source>E&amp;xport...</source>
-        <translation>내보네기... (&amp;X)</translation>
+        <translation>내보내기... (&amp;X)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="763"/>
