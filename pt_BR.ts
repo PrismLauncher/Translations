@@ -7476,7 +7476,7 @@ Old name: %1
 New name: %2</source>
         <translation>O nome da instância parece incluir a versão antiga. Você gostaria de atualizá-lo? 
  
-Nome antigo: % 1 
+Nome antigo: %1 
 Novo nome: %2</translation>
     </message>
     <message>
