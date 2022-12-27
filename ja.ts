@@ -240,7 +240,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;複数のインスタンスを同時に使用できるようにすることで、Minecraft の管理を容易にするカスタムランチャー。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;複数のインスタンスを同時に使用できるようにすることで、マインクラフト の管理を容易にするカスタムランチャー。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -417,12 +417,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation>移行可能</translation>
+        <translation>移行するですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>アカウントに関連付けられたMinecraft のユーザー名が表示されます。</translation>
+        <translation>アカウントに関連付けられたマインクラフト のユーザー名が表示されます。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -526,7 +526,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>ようこそ！
-初めて使う場合は、「追加」ボタンを押してあなたのMojangアカウントかMinecraftアカウントを追加して下さい。</translation>
+初めて使う場合は、「追加」ボタンを押してあなたのMojangアカウントかマインクラフトのアカウントを追加して下さい。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -1150,7 +1150,7 @@ OSと%1をアップデートしてください。</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドはインスタンスの起動前に実行され、終了後コマンドはインスタンスの終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - インスタンスの名前&lt;/li&gt;&lt;li&gt;$INST_ID - インスタンスの ID (フォルダー名)&lt;/li&gt;&lt;li&gt;$INST_DIR - インスタンスの絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftfフォルダーのの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ (警告: 引数にスペースが含まれていると正しく機能しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム (Linux の「optirun」など) を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドはインスタンスの起動前に実行され、終了後コマンドはインスタンスの終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - インスタンスの名前&lt;/li&gt;&lt;li&gt;$INST_ID - インスタンスの ID (フォルダー名)&lt;/li&gt;&lt;li&gt;$INST_DIR - インスタンスの絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - マインクラフトのフォルダーのの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ (警告: 引数にスペースが含まれていると正しく機能しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム (Linux の「optirun」など) を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2430,12 +2430,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="169"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraftが使用する最大メモリの値です。</translation>
+        <translation>マインクラフトが使用する最大メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="147"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
+        <translation>マインクラフトが開始するときに使用される最少メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="191"/>
@@ -2470,7 +2470,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
         <source>Start Minecraft maximized?</source>
-        <translation>ゲームウィンドウを起動時に最大化</translation>
+        <translation>マインクラフトのウィンドウを起動時に最大化</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2742,7 +2742,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraftが使用する最大メモリの値です。</translation>
+        <translation>マインクラフトが使用する最大メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
@@ -2759,7 +2759,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
+        <translation>マインクラフトが開始するときに使用される最少メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
@@ -2876,7 +2876,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="438"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraftが使用する最大メモリの値です。</translation>
+        <translation>マインクラフトが使用する最大メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="439"/>
@@ -2891,7 +2891,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="441"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
+        <translation>マインクラフトが開始するときに使用される最少メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="442"/>
@@ -3053,7 +3053,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="253"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>起動が中止されました - アカウントがMinecraftを所有していません。</translation>
+        <translation>起動が中止されました - アカウントがマインクラフトを所有していません。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="269"/>
@@ -3154,12 +3154,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Kill Minecraft?</source>
-        <translation>Minecraftを強制終了しますか?</translation>
+        <translation>マインクラフトを強制終了しますか?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="469"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>これはインスタンスの破損を引き起こす可能性があるので、Minecraftがフリーズした場合にのみ使用してください</translation>
+        <translation>これはインスタンスの破損を引き起こす可能性があるので、マインクラフトがフリーズした場合にのみ使用してください</translation>
     </message>
 </context>
 <context>
@@ -3879,7 +3879,7 @@ Reason:
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
-        <translation>Minecraftのログ</translation>
+        <translation>マインクラフトのログ</translation>
     </message>
 </context>
 <context>
@@ -3888,7 +3888,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="97"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>Minecraftは終了コード %1 で終了しました。</translation>
+        <translation>マインクラフトは終了コード %1 で終了しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="104"/>
@@ -3899,13 +3899,13 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="106"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Minecraftは終了コード %1 でクラッシュしました。</translation>
+        <translation>マインクラフトは終了コード %1 でクラッシュしました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>Minecraftはユーザーによって強制終了されました。</translation>
+        <translation>マインクラフトはユーザーによって強制終了されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
@@ -5089,7 +5089,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
         <source>Game time</source>
-        <translation>ゲーム内時間</translation>
+        <translation>ゲーム中の時間</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="185"/>
@@ -5141,7 +5141,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
-        <translation>Minecraft</translation>
+        <translation>マインクラフト</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
