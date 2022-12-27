@@ -1448,7 +1448,10 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estas a punto de eliminar %1 elementos.
+Esta acción es permanente y los elementos desaparecerán de la carpeta.
+
+¿Estas seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1456,12 +1459,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estas a punto de eliminar la capeta &quot;%1&quot;.
+Esta acción es permanente y los elementos desaparecerán de la carpeta raíz.
+
+¿Estas seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
 </context>
 <context>
@@ -4883,7 +4889,7 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
@@ -4895,8 +4901,8 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished">A punto de eliminar: %1
-Esto puede ser permanente y eliminará completamente la instancia.
+        <translation>Estas a punto de eliminar &quot;%1&quot;.
+Esta acción es permanente y eliminará completamente la instancia.
 
 ¿Estas seguro?</translation>
     </message>
@@ -6683,7 +6689,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -6696,18 +6702,19 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirmar Limpieza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Estas seguro de eliminar todos los archivos de registro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Estas seguro de eliminar todos estos archivos?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -7160,7 +7167,7 @@ Elija su nombre cuidadosamente:</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar Subida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
@@ -7168,7 +7175,10 @@ Elija su nombre cuidadosamente:</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estas a punto de subir &quot;%1&quot; a &quot;%2&quot;.
+Deberías revisarlo de nuevo en caso de contener datos personales.
+
+¿Estas seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="88"/>
@@ -7702,14 +7712,18 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estas a punto de subir %1 capturas de pantalla.
+
+¿Estas seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estas a punto de subir las capturas de pantalla seleccionadas.
+
+¿Estas seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
@@ -7745,7 +7759,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estas a punto de eliminar %1 capturas de pantalla.
+Esta acción es permanente y los elementos desaparecerán de la carpeta.
+
+¿Estas seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
