@@ -34,13 +34,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft 認証</translation>
-        <translation>&amp;マイクロソフト認証</translation>
+        <translation>&amp;マイクロソフトの認証</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注意: Microsoft認証によるログインがすでに機能している場合は、おそらくこれを設定する必要はありません。</translation>
+        <translation>注意:マイクロソフトの認証によるログインがすでに機能している場合は、おそらくこれを設定する必要はありません。</translation>
+
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -52,7 +52,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>マイクロソフト認証用のカスタムクライアントIDをここに入力してください。</translation>
+        <translation>マイクロソフトの認証用のカスタムクライアントIDをここに入力してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -498,7 +498,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>マイクロソフトアカウントを追加(&amp;A)</translation>
+        <translation>マイクロソフトのアカウントを追加(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
@@ -527,7 +527,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>ようこそ！
-初めて使う場合は、「追加」ボタンを押してあなたのMojangアカウントかマインクラフトアカウントを追加して下さい。</translation>
+初めて使う場合は、「追加」ボタンを押してあなたのMojangアカウントかマインクラフトのアカウントを追加して下さい。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
