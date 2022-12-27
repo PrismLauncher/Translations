@@ -1436,7 +1436,10 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>U staat op het punt %1 items te verwijderen
+Dit kan misschien niet meer ongedaan worden, en ze zullen verwijderd zijn uit de folder.
+
+Ben je zeker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1444,12 +1447,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>U staat op het punt de folder %1 te verwijderen.
+Dit kan misschien niet ongedaan worden.
+
+Ben je zeker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijdering Bevestigen</translation>
     </message>
 </context>
 <context>
@@ -1749,7 +1755,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="327"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished">Kan de aanbevolen Forge-versie voor Minecraft %1 niet toewijzen</translation>
+        <translation>Kan de aanbevolen Forge-versie voor Minecraft %1 niet toewijzen</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
@@ -3535,7 +3541,7 @@ Misschien moet u uw mods eens fixen. Het spel is nog steeds naar bestanden aan h
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="519"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished">Console &amp;lettertype</translation>
+        <translation>Console &amp;lettertype</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="125"/>
@@ -4288,7 +4294,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="764"/>
         <source>Dele&amp;te</source>
-        <translation type="unfinished">Verwijder&amp;en</translation>
+        <translation>Verwijder&amp;en</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
@@ -4335,13 +4341,13 @@ Reden:
         <location filename="src/launcher/ui/MainWindow.cpp" line="330"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished">F&amp;olders</translation>
+        <translation>F&amp;olders</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished">Instellin&amp;gen...</translation>
+        <translation>Instellin&amp;gen...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
@@ -4371,12 +4377,12 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Report a &amp;Bug...</source>
-        <translation type="unfinished">Meld een &amp;Bug...</translation>
+        <translation>Meld een &amp;Bug...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished">&amp;Matrix ruimte</translation>
+        <translation>&amp;Matrix ruimte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
@@ -4818,7 +4824,7 @@ Gelieve uw Mojang- of Microsoft-account toe te voegen.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2054"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished">Het toevoegen van %1 aan PATH is gelukt. Je kan het nu starten door %2 uit te voeren.</translation>
+        <translation>Het toevoegen van %1 aan PATH is gelukt. Je kan het nu starten door &apos;%2&apos; uit te voeren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2057"/>
@@ -4833,7 +4839,7 @@ Gelieve uw Mojang- of Microsoft-account toe te voegen.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijdering Bevestigen</translation>
     </message>
     <message>
         <source>CAREFUL!</source>
@@ -4849,8 +4855,8 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished">%1 wordt verwijdert
-Dit kan niet ongedaan worden is zal de instantie volledig verwijderen.
+        <translation>%1 wordt verwijderd.
+Dit kan misschien niet ongedaan worden en zal de instantie volledig verwijderen.
 
 Ben je zeker?</translation>
     </message>
@@ -4890,7 +4896,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>De launcher staat in de map waaruit hij is uitgepakt, daarom kan hij geen snelkoppelingen maken.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2230"/>
@@ -5040,7 +5046,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="88"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished">Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack-nummer: %3    |    Versienummer: %4</translation>
+        <translation>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Identificatiecode: %3    |    Versie-identificatiecode: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
@@ -5093,7 +5099,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
 </context>
 <context>
@@ -5388,7 +5394,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="89"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation type="unfinished">Minecraft Java-profiel respons kon niet worden verwerkt</translation>
+        <translation>Minecraft Java profiel antwoord kon niet worden verwerkt</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="101"/>
@@ -5419,7 +5425,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="69"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished">Opent een nieuwe popup om je geselecteerde mods to beoordelen en je selectie te bevestigen. Sneltoets: Ctrl+Enter</translation>
+        <translation>Opent een nieuwe pop-up om je geselecteerde mods to beoordelen en je selectie te bevestigen. Sneltoets: Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="91"/>
@@ -5462,22 +5468,22 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
         <source>Strict match (= %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Strikte overeenkomst (=%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="68"/>
         <source>Major version match (= %1.%2.x)</source>
-        <translation type="unfinished"></translation>
+        <translation>Belangrijke versie komt overeen (=%1.%2.x)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="72"/>
         <source>Major version match (unsupported)</source>
-        <translation type="unfinished"></translation>
+        <translation>Belangrijke versie komt niet overeen (niet ondersteund)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="76"/>
         <source>Any version</source>
-        <translation type="unfinished"></translation>
+        <translation>Eender welke versie</translation>
     </message>
 </context>
 <context>
@@ -5612,18 +5618,18 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
         <source>Add file</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Add a locally downloaded file</source>
-        <translation type="unfinished"></translation>
+        <translation>Een lokaal bestand toevoegen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Probeer alle geselecteerde mods te controleren of bij te werken (alle mods als er geen zijn geselecteerd)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -5648,7 +5654,7 @@ Weet u het zeker?</translation>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloaden gestopt door gebruiker.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
@@ -5665,28 +5671,28 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>De mod-updater is afgebroken!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle geselecteerde mods zijn up-to-date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Update checker</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; is up-to-date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Alle mods zijn up-to-date! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="51"/>
@@ -5739,12 +5745,12 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filteropties</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="395"/>
         <source> by </source>
-        <translation type="unfinished"> door </translation>
+        <translation> door </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="198"/>
@@ -5774,7 +5780,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="400"/>
         <source>Donate information: </source>
-        <translation type="unfinished"></translation>
+        <translation>Donatie-informatie: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="415"/>
@@ -5799,7 +5805,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="425"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
