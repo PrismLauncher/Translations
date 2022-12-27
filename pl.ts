@@ -2989,7 +2989,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Maksymalny przydział pamięci przekracza pojemność pamięci twojego systemu.</translation>
+        <translation>Maksymalny przydział pamięci przekracza pojemność pamięci twojego systemu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
@@ -3062,12 +3062,12 @@ Możesz później zmienić wersję Java&apos;y w ustawieniach.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Maksymalny przydział pamięci przekracza pojemność pamięci twojego systemu.</translation>
+        <translation>Maksymalny przydział pamięci przekracza pojemność pamięci twojego systemu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Maksymalny przydział pamięci zbliża się do pojemność pamięci twojego systemu.</translation>
+        <translation>Maksymalny przydział pamięci zbliża się do pojemność pamięci twojego systemu.</translation>
     </message>
 </context>
 <context>
@@ -4940,7 +4940,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished">Zamierzasz usunąć: %1
+        <translation>Zamierzasz usunąć: %1
 Może to być trwałe działanie które całkowicie usunie tą instancję.
 
 Czy chcesz kontynuować?</translation>
@@ -5150,27 +5150,27 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="88"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID Paczki: %3    |    ID Wersji: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="135"/>
         <source>Warnings</source>
-        <translation type="unfinished">Uwagi</translation>
+        <translation>Ostrzeżenia</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Działanie przerwane</translation>
+        <translation>Działanie przerwane</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Działanie zostało przerwane przez użytkownika.</translation>
+        <translation>Działanie zostało przerwane przez użytkownika.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="143"/>
@@ -7450,19 +7450,19 @@ Daj nam znać, dlaczego i jak to się stało.</translation>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1m %2s</translation>
+        <translation>%1m %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1g %2m</translation>
+        <translation>%1g %2m</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1d %2g %3m</translation>
+        <translation>%1d %2g %3m</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -7585,31 +7585,31 @@ Nowa nazwa: %2</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished">Podobny modpack został znaleziony!</translation>
+        <translation>Podobna paczka modyfikacji została znaleziona!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished">Jedna lub więcej z twoich instacji pochodzą z tej samej paczki modów%1. Chcesz utworzyć osobną instancję, czy zaktualizować już istniejącą?
+        <translation>Jedna lub więcej z twoich instacji pochodzą z tej samej paczki modyfickacji%1. Chcesz utworzyć osobną instancję, czy zaktualizować już istniejącą?
 
 Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktualizowaniem, światy mogą zostać uszkodzone oraz niektóre pliki konfiguracyjne mogą zaginąć (nadpisane przez paczkę).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
         <source>Update existing instance</source>
-        <translation type="unfinished">Zaktualizuj istniejące instancje</translation>
+        <translation>Zaktualizuj istniejące już instancje</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Create new instance</source>
-        <translation type="unfinished">Utwórz nową instancję</translation>
+        <translation>Utwórz nową instancję</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -7833,7 +7833,10 @@ Jesteś tego pewien?</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w procesie usuwania screenshotów (%1).
+Jest to działanie permamentne i zrzuty ekranu zostaną usunięte.
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -7841,12 +7844,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w procesie usuwania zrzutu ekranu.
+Jest to działanie permanentne i zrzut ekranu zostanie usunięty.
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -7963,7 +7969,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potwierdź usunięcie</translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7971,7 +7977,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w procesie usuwania &quot;%1&quot;.
+Jest to działanie permanentne i serwer zostanie usunięty z listy serwerów już na zawsze (DOŚĆ DŁUGO).
+
+Jesteś tego pewien?</translation>
     </message>
 </context>
 <context>
@@ -8807,7 +8816,7 @@ Dla tej instancji przełącz się na jedną z następujących wersji Javy:</tran
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potwierdź usunięcie</translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -8815,7 +8824,10 @@ Dla tej instancji przełącz się na jedną z następujących wersji Javy:</tran
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w procesie usuwania &quot;%1&quot;.
+Jest to działanie permanentne, które usunie ten niestandardowy komponent.
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
@@ -8877,7 +8889,7 @@ Proszę dodać twoje konto Mojang lub Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź przywrócenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
@@ -9159,7 +9171,7 @@ Dodaj swoje konto Mojang lub konto Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished">Usuń</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
@@ -9284,7 +9296,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -9292,7 +9304,10 @@ Czy chcesz kontynuować?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w trakcie usuwania &quot;%1&quot;.
+Ten świat zostanie usunięty na zawsze (DOŚĆ DŁUGO).
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
