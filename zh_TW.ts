@@ -2792,7 +2792,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
         <source>Kill the running instance</source>
-        <translation>強制終止啟動中的實例</translation>
+        <translation>強制中止啟動中的實例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="167"/>
@@ -3790,12 +3790,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation>任務已終止</translation>
+        <translation>任務已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation>任務已被使用者終止。</translation>
+        <translation>任務已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -4104,7 +4104,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="134"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation>Microsoft 使用者驗證程序因網路問題而終止。</translation>
+        <translation>Microsoft 使用者驗證程序因網路問題而中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="139"/>
@@ -4131,7 +4131,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
         <source>Kill the running instance</source>
-        <translation>強制終止啟動中的實例</translation>
+        <translation>強制中止啟動中的實例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1252"/>
@@ -4337,7 +4337,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
         <source>&amp;Kill</source>
-        <translation>強制終止（&amp;K）</translation>
+        <translation>強制中止（&amp;K）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="705"/>
@@ -4814,12 +4814,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
         <source>Task aborted</source>
-        <translation>任務已終止</translation>
+        <translation>任務已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1715"/>
         <source>The task has been aborted by the user.</source>
-        <translation>任務已被使用者終止。</translation>
+        <translation>任務已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1718"/>
@@ -5110,12 +5110,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>Task aborted</source>
-        <translation>任務已終止</translation>
+        <translation>任務已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
         <source>The task has been aborted by the user.</source>
-        <translation>任務已被使用者終止。</translation>
+        <translation>任務已被使用者中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="143"/>
@@ -9447,7 +9447,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation>Mojang 使用者驗證程序因網路問題而終止。</translation>
+        <translation>Mojang 使用者驗證程序因網路問題而中止。</translation>
     </message>
 </context>
 </TS>
