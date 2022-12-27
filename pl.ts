@@ -877,7 +877,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="20"/>
         <source>Finished all authentication steps</source>
-        <translation>Ukończono wszystkie kroki uwierzytelniania</translation>
+        <translation>Ukończono wszystkie kroki związane z uwierzytelnianiem</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
@@ -1448,7 +1448,10 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w procesie usuwania przedmiotów (%1).
+Jest to działanie permamentne i pliki nie będą już w folderze .
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1456,12 +1459,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcesz usunąć folder &quot;%1&quot;.
+Jest to działanie permamentne i folder, który chcesz usunąć będzie usunięty z folderu nadrzędnego.
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
 </context>
 <context>
@@ -1822,7 +1828,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Hej!&lt;/h1&gt;&lt;h4&gt;Wygląda na to, że ID twojej paczki jest równe 0. Jest to spowodowane błędem występującym w starszych wersjach programu.&lt;br/&gt;Niestety nie możemy wykonać poprawnych żądań API bez tej informacji.&lt;br/&gt;&lt;br/&gt;Żeby ta funkcja działała, będziesz musiał pobrać od nowa paczkę modyfikacji przy pomocy wbudowanego downloadera.&lt;br/&gt;&lt;br/&gt;Nie martw się! Będziesz spytany o wyłącznie zaktualizowanie instancji, więc jej nie stracisz!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
@@ -4922,7 +4928,7 @@ Proszę dodaj swoje konto Mojang lub Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
@@ -4983,7 +4989,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2223"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Program uruchamiający jest w folderze z którego został rozpakowany, z tego powodu nie można stworzyć skrótów.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2230"/>
@@ -5002,7 +5008,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2243"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy program uruchamiający jest uruchamiany jako źle skonfigurowany AppImage? (brakuje zmiennej środowiskowej $APPIMAGE)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2262"/>
@@ -5015,12 +5021,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2283"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis pulpitu (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2343"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jest niewspierany przez twoją platformę!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2442"/>
@@ -5099,32 +5105,32 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje paczki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa paczki:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualna wersja:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje o dostawcy:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizuj do wersji:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie wersji...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="167"/>
@@ -5134,7 +5140,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>Changelogi nie są dostępne dla tej wersji!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
@@ -5174,7 +5180,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="151"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizuj paczkę</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="162"/>
@@ -6752,7 +6758,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwij usunięcie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -6760,23 +6766,27 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś w trakcie usuwania &quot;%1&quot;.
+Jest to działanie permamentne i plik zostanie usunięty z folderuz logami.
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź wyczyszczenie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteś pewien usunięcia wszystkich plików logów?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz usunąć te wszystkie pliki?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -7231,7 +7241,7 @@ Wybierz ostrożnie swoją nazwę:</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdź wysłanie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
@@ -7239,7 +7249,10 @@ Wybierz ostrożnie swoją nazwę:</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Będziesz wysyłać &quot;%1&quot; do %2.
+Powinieneś sprawdzić czy nie ma w plikach danych wrażliwych.
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="88"/>
@@ -7773,14 +7786,18 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Będziesz wysyłać zrzuty ekranu (%1).
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zostanie wysłany zaznaczony zrzut ekranu.
+
+Jesteś tego pewien?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
