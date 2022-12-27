@@ -7737,7 +7737,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrdit odstranění</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -7854,7 +7854,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrdit odstranění</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -8694,7 +8694,7 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrdit odstranění</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -9171,7 +9171,7 @@ Přejete si pokračovat?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrdit odstranění</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>

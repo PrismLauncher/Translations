@@ -6298,7 +6298,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="253"/>
         <source>Donate information: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Donatie-informatie: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="268"/>
@@ -6323,7 +6323,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
@@ -6615,7 +6615,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verwijdering Bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -7660,7 +7660,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verwijdering Bevestigen</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -7777,7 +7777,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verwijdering Bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -8620,7 +8620,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verwijdering Bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -9096,7 +9096,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verwijdering Bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
