@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Pasteサービスの種類(&amp;T)</translation>
+        <translation>ペーストビスの種類(&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>注意: Pasteサービスの種類を変更した後、ベース URLを変更またはクリアすることをお勧めします。</translation>
+        <translation>注意: ペーストサービスの種類を変更した後、ベース URLを変更またはクリアすることをお勧めします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -34,12 +34,13 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Microsoft 認証</translation>
+        <translation>&amp;マイクロソフトの認証</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>注意: Microsoft認証によるログインがすでに機能している場合は、おそらくこれを設定する必要はありません。</translation>
+        <translation>注意:マイクロソフトの認証によるログインがすでに機能している場合は、おそらくこれを設定する必要はありません。</translation>
+
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,7 +52,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Microsoft認証用のカスタムクライアントIDをここに入力してください。</translation>
+        <translation>マイクロソフトの認証用のカスタムクライアントIDをここに入力してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -497,7 +498,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>Microsoftアカウントを追加(&amp;A)</translation>
+        <translation>マイクロソフトのアカウントを追加(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
@@ -526,7 +527,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>ようこそ！
-初めて使う場合は、「追加」ボタンを押してあなたのMojangアカウントかMinecraftアカウントを追加して下さい。</translation>
+初めて使う場合は、「追加」ボタンを押してあなたのMojangアカウントかマインクラフトのアカウントを追加して下さい。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -1150,7 +1151,7 @@ OSと%1をアップデートしてください。</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドはインスタンスの起動前に実行され、終了後コマンドはインスタンスの終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - インスタンスの名前&lt;/li&gt;&lt;li&gt;$INST_ID - インスタンスの ID (フォルダー名)&lt;/li&gt;&lt;li&gt;$INST_DIR - インスタンスの絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftfフォルダーのの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ (警告: 引数にスペースが含まれていると正しく機能しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム (Linux の「optirun」など) を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドはインスタンスの起動前に実行され、終了後コマンドはインスタンスの終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - インスタンスの名前&lt;/li&gt;&lt;li&gt;$INST_ID - インスタンスの ID (フォルダー名)&lt;/li&gt;&lt;li&gt;$INST_DIR - インスタンスの絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - マインクラフトフォルダーのの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ (警告: 引数にスペースが含まれていると正しく機能しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム (Linux の「optirun」など) を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1202,7 +1203,7 @@ OSと%1をアップデートしてください。</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Minecraftを起動できませんでした!</translation>
+        <translation>マインクラフトを起動できませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
@@ -1921,7 +1922,7 @@ Please try again.</source>
         <location filename="src/launcher/minecraft/update/FoldersTask.cpp" line="52"/>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Minecraftのバイナリのフォルダの作成に失敗しました。</translation>
+        <translation>マインクラフトのバイナリのフォルダの作成に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -2169,7 +2170,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Zip (*.zip)</source>
-        <translation type="vanished">Zip (*.zip)</translation>
+        <translation type="vanished">ジップ (*.zip)</translation>
     </message>
 </context>
 <context>
@@ -2430,12 +2431,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="169"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraftが使用する最大メモリの値です。</translation>
+        <translation>マインクラフトが使用する最大メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="147"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
+        <translation>マインクラフトが開始するときに使用される最少メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="191"/>
@@ -2742,7 +2743,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraftが使用する最大メモリの値です。</translation>
+        <translation>マインクラフトが使用する最大メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
@@ -2759,7 +2760,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
+        <translation>マインクラフトが開始するときに使用される最少メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
@@ -2876,7 +2877,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="438"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Minecraftが使用する最大メモリの値です。</translation>
+        <translation>マインクラフトが使用する最大メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="439"/>
@@ -2891,7 +2892,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="441"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
+        <translation>マインクラフトが開始するときに使用される最少メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="442"/>
@@ -3154,7 +3155,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Kill Minecraft?</source>
-        <translation>Minecraftを強制終了しますか?</translation>
+        <translation>マインクラフトを強制終了しますか?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="469"/>
@@ -3336,7 +3337,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="315"/>
         <source>Flat (White)</source>
-        <translation type="unfinished"></translation>
+        <translation>平らな（白）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="320"/>
@@ -3377,7 +3378,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="403"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>ツール</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="409"/>
@@ -3581,12 +3582,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="67"/>
         <source>Downloading zip for %1</source>
-        <translation>%1 のzipをダウンロードしています</translation>
+        <translation>%1 のジップをダウンロードしています</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="105"/>
         <source>Downloading zip for %1 (%2%)</source>
-        <translation>%1 のzipをダウンロードしています (%2%)</translation>
+        <translation>%1 のジップをダウンロードしています (%2%)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="115"/>
@@ -3607,7 +3608,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">解凍した Minecraft を移動できませんでした!</translation>
+        <translation>解凍したマインクラフトを移動できませんでした!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="225"/>
@@ -3745,7 +3746,7 @@ Should it be removed now?</source>
     </message>
     <message>
         <source>Could not decide Minecraft version.</source>
-        <translation type="vanished">Minecraftのバージョンを決定できませんでした。</translation>
+        <translation type="vanished">マインクラフトのバージョンを決定できませんでした。</translation>
     </message>
     <message>
         <source>Instance folder copy has been aborted.</source>
@@ -3888,7 +3889,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="97"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>Minecraftは終了コード %1 で終了しました。</translation>
+        <translation>マインクラフトは終了コード %1 で終了しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="104"/>
@@ -3899,13 +3900,13 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="106"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Minecraftは終了コード %1 でクラッシュしました。</translation>
+        <translation>マインクラフトは終了コード %1 でクラッシュしました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>Minecraftはユーザーによって強制終了されました。</translation>
+        <translation>マインクラフトはユーザーによって強制終了されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
@@ -3936,7 +3937,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="20"/>
         <source>Add Microsoft Account</source>
-        <translation>Microsoft アカウントを追加</translation>
+        <translation>マイクロソフトのアカウントを追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
@@ -4493,7 +4494,7 @@ Are you sure?</oldsource>
     </message>
     <message>
         <source>Minecraft Folder</source>
-        <translation type="vanished">Minecraft フォルダー</translation>
+        <translation type="vanished">マインクラフトのフォルダー</translation>
     </message>
     <message>
         <source>Open the selected instance&apos;s Minecraft folder in a file browser.</source>
@@ -4979,11 +4980,11 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="915"/>
         <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>マインクラフト%1</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
-        <translation type="vanished">Minecraft %1 (%2)</translation>
+        <translation type="vanished">マインクラフト%1 (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
@@ -5141,7 +5142,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
-        <translation>Minecraft</translation>
+        <translation>マインクラフト</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
@@ -5522,7 +5523,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="76"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>カスタム Minecraft jar ファイルの作成に失敗しました。</translation>
+        <translation>カスタムマインクラフトのjarファイルの作成に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -6894,7 +6895,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="69"/>
         <source>Minecraft Server</source>
-        <translation>Minecraft サーバー</translation>
+        <translation>マインクラフトのセーバー</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/Component.cpp" line="284"/>
@@ -7145,7 +7146,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>著者がありません</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
@@ -8087,11 +8088,12 @@ inheritsFrom is missing</source>
     <name>VerifyJavaInstall</name>
     <message>
         <source>Minecraft 21w19a and above require the use of Java 16</source>
-        <translation type="vanished">Minecraft 21w19a 以降では、Java 16 を使用する必要があります</translation>
+        <translation type="vanished">マインクラフトの21w19a以降では、Java 16 を使用する必要があります</translation>
+
     </message>
     <message>
         <source>Minecraft 17w13a and above require the use of Java 8</source>
-        <translation type="vanished">Minecraft 17w13a以降では、Java 8 を使用する必要があります</translation>
+        <translation type="vanished">マインクラフトの17w13a以降では、Java 8 を使用する必要があります</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
@@ -8228,7 +8230,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
         <source>Install Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>キルトををインストール</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
@@ -8457,8 +8459,8 @@ Are you sure?</source>
 Please add your Mojang or Minecraft account.</source>
         <oldsource>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</oldsource>
-        <translation type="obsolete">あなたが少なくとも1つのアカウントを追加しない限り、PolyMCはMinecraftのダウンロードまたはインスタンスの更新をすることができません。
-あなたのMojangまたはMinecraftのアカウントを追加してください。</translation>
+        <translation type="obsolete">あなたが少なくとも1つのアカウントを追加しない限り、PolyMCはマインクラフトのダウンロードまたはインスタンスの更新をすることができません。
+あなたのMojangまたはマインクラフトのアカウントを追加してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="500"/>
@@ -8468,7 +8470,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="502"/>
         <source>No Forge versions are currently available for Minecraft </source>
-        <translation>このバージョンのMinecraftのForgeは現在利用できません </translation>
+        <translation>このバージョンのマインクラフトのForgeは現在利用できません </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="503"/>
@@ -8541,7 +8543,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="113"/>
         <source>Minecraft</source>
-        <translation>Minecraft</translation>
+        <translation>マインクラフト</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="115"/>
@@ -8834,7 +8836,7 @@ MCEditの再インストールが必要なようです。</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>Minecraft World Zip File (*.zip)</source>
-        <translation>Minecraftのワールド (*.zip)</translation>
+        <translation>マインクラフトのワールド (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="412"/>
@@ -8845,7 +8847,7 @@ MCEditの再インストールが必要なようです。</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation>Minecraftの動作中にワールドに変更を加えるのは安全ではありません。
+        <translation>マインクラフトの動作中にワールドに変更を加えるのは安全ではありません。
 本当に続けてよろしいですか?</translation>
     </message>
     <message>
@@ -9044,7 +9046,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation>この Mojang アカウントはもう存在しません。Microsoft アカウントに移行されている可能性があります。</translation>
+        <translation>この Mojang アカウントはもう存在しません。マイクロソフトのアカウントに移行されている可能性があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
