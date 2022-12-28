@@ -922,7 +922,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="49"/>
         <source>Open Missing</source>
-        <translation>Открыть недостающее</translation>
+        <translation>Открыть недостающие</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
