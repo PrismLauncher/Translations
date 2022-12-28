@@ -4958,7 +4958,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2293"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2335"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>已在桌面上创建了启动此实例的快捷方式！</translation>
+        <translation>快捷方式已创建！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2234"/>
