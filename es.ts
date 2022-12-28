@@ -6697,7 +6697,10 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Está a punto de borrar &quot;%1&quot;.
+Esto puede ser permanente y desaparecerá de la carpeta de registros.
+
+¿Está seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
