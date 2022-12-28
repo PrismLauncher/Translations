@@ -2210,12 +2210,12 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="14"/>
         <source>Choose instance to import</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali eksemplar, mida importida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali eksemplar, kuhu soovid selle ressursipaki importida.</translation>
     </message>
 </context>
 <context>
