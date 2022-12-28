@@ -1452,7 +1452,7 @@ Please update both your operating system and PolyMC.</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">Вы собираетесь удалить %1 элемент.
+        <translation>Вы собираетесь удалить %1 элементов.
 Это действие необратимо, и они исчезнут из папки.
 
 Вы уверены?</translation>
@@ -1463,7 +1463,7 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished">Вы собираетесь удалить папку &quot;%1&quot;.
+        <translation>Вы собираетесь удалить папку &quot;%1&quot;.
 Это действие необратимо, и она исчезнет из родительской папки.
 
 Вы уверены?</translation>
@@ -8836,7 +8836,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Подтвердить удаление</translation>
+        <translation>Подтвердить удаление</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -8906,7 +8906,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтвердить восстановление</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
@@ -8914,7 +8914,10 @@ Please add your Mojang or Minecraft account.</source>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь восстановить &quot;%1&quot;.
+Это необратимо и полностью отменит ваши настройки.
+
+Вы уверены?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -9313,7 +9316,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Подтвердить удаление</translation>
+        <translation>Подтвердить удаление</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
