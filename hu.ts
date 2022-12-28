@@ -7806,7 +7806,10 @@ Biztos vagy ebben?</translation>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; eltávolítására készül.
+Ez végleges, és a szerver örökre eltűnik a listáról (AMI HOSSZÚ IDŐ).
+
+Biztos vagy ebben?</translation>
     </message>
 </context>
 <context>
@@ -8626,7 +8629,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Eltávolítás megerősítése</translation>
+        <translation>Eltávolítás megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -8634,7 +8637,10 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; eltávolítására készül.
+Ez végleges, és teljesen eltávolítja az egyéni összetevőt.
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
@@ -8696,7 +8702,7 @@ Adja hozzá Mojang- vagy Minecraft-fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Visszaállítás megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
@@ -8704,7 +8710,10 @@ Adja hozzá Mojang- vagy Minecraft-fiókját.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; visszaállítására készül.
+Ez végleges, és teljesen visszaállítja a beállításait.
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -9105,7 +9114,7 @@ Folytatni akarja?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Törlés megerősítése</translation>
+        <translation>Törlés megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -9113,7 +9122,10 @@ Folytatni akarja?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; törlésére készül.
+Lehet, hogy a világ örökre eltűnik (AMI HOSSZÚ IDŐ).
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
