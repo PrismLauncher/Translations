@@ -1429,7 +1429,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>Chystáte se odstranit %1 položek.
-Může to být trvalé a tyto položky ze složky zmizí.
+Tato akce může být trvalá a tyto položky ze složky zmizí.
 
 Jste si jisti?</translation>
     </message>
@@ -1439,8 +1439,8 @@ Jste si jisti?</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Chystáte se odstranit složku &quot;%1&quot;.
-Může to být trvalé a z nadřazené složky zmizí.
+        <translation>Chystáte se odstranit složku „%1“.
+Tato akce může být trvalá a složka z nadřazené složky zmizí.
 
 Jste si jisti?</translation>
     </message>
@@ -4882,8 +4882,8 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Chystáte se odstranit: %1
-Tato akce může být nevratná a kompletně odstraní instanci.
+        <translation>Chystáte se odstranit „%1“.
+Tato akce může být trvalá a kompletně odstraní instanci.
 
 Jste si jisti?</translation>
     </message>
@@ -6685,23 +6685,27 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se odstranit „%1“.
+Tato akce může být trvalá a záznam zmizí ze složky protokolů.
+
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdit vymazání</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Opravdu chcete odstranit všechny soubory protokolů?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opravdu chcete odstranit všechny tyto soubory?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -7139,7 +7143,7 @@ Vyber si dobře svoje jméno:</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdit nahrání</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
@@ -7147,7 +7151,10 @@ Vyber si dobře svoje jméno:</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se nahrát „%1“ na %2.
+Měli byste překontrolovat, zda soubor neobsahuje osobní údaje.
+
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="88"/>
@@ -7681,14 +7688,18 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se nahrát %1 snímků obrazovky.
+
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se nahrát vybraný snímek obrazovky.
+
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
@@ -7724,7 +7735,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se odstranit %1 snímků obrazovky.
+Tato akce může být trvalá a snímky ze složky zmizí.
+
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -7732,12 +7746,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se odstranit vybraný snímek obrazovky.
+Tato akce může být trvalá a snímek ze složky zmizí.
+
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potvrdit odstranění</translation>
+        <translation>Potvrdit odstranění</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -7854,7 +7871,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potvrdit odstranění</translation>
+        <translation>Potvrdit odebrání</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7862,7 +7879,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se odebrat „%1“.
+Tato akce je nevratná a server navždy zmizí z vašeho seznamu serverů (FAKT NA DLOUHO).
+
+Jste si jisti?</translation>
     </message>
 </context>
 <context>
@@ -8694,7 +8714,7 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potvrdit odstranění</translation>
+        <translation>Potvrdit odebrání</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -8702,7 +8722,10 @@ Prosím vyberte jednu z následujících verzí Javy pro tuto instanci:</transla
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se odstranit „%1“.
+Tato akce je nevratná a zcela odstraní vlastní komponentu.
+
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
@@ -8764,7 +8787,7 @@ Přidejte prosím svůj účet Mojang nebo Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdit návrat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
@@ -8772,7 +8795,10 @@ Přidejte prosím svůj účet Mojang nebo Minecraft.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se navrátit „%1“.
+Tato akce je trvalá a zcela navrátí vaše úpravy.
+
+Jste si jisti?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -9046,7 +9072,7 @@ Prosím, přidejte svůj Mojang nebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished">Odstranit</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
@@ -9171,7 +9197,7 @@ Přejete si pokračovat?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potvrdit odstranění</translation>
+        <translation>Potvrdit odstranění</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -9179,7 +9205,10 @@ Přejete si pokračovat?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chystáte se odstranit „%1“.
+Svět může být navždy ztracen (FAKT NA DLOUHO).
+
+Jste si jisti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
