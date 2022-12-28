@@ -1420,7 +1420,10 @@ Uppdatera både ditt operativsystem och %1.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ta bort %1 objekt.
+Detta kan vara permanent och de kommer att försvinna från mappen.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1428,12 +1431,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ta bort mappen &quot;%1&quot;.
+Detta kan vara permanent och den kommer att försvinna från den mapp den är i.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta borttagning</translation>
     </message>
 </context>
 <context>
@@ -4528,7 +4534,7 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta radering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
@@ -4540,7 +4546,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished">Kommer ta bort: %1
+        <translation>Du håller på att radera &quot;%1&quot;.
 Detta kan vara permanent och kommer att helt radera instansen.
 
 Är du säker?</translation>
@@ -6525,7 +6531,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta radering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
