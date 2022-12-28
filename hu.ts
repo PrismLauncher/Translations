@@ -8626,7 +8626,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eltávolítás megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -9105,7 +9105,7 @@ Folytatni akarja?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Törlés megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
