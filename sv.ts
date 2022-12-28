@@ -6539,23 +6539,27 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att radera &quot;%1&quot;.
+Detta kan vara permanent och den kommer att försvinna från loggmappen.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta rensning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill radera alla loggfiler?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill radera alla dessa filer?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -6978,7 +6982,7 @@ Välj ditt namn noggrant:</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta uppladdning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
@@ -6986,7 +6990,10 @@ Välj ditt namn noggrant:</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ladda upp &quot;%1&quot; till %2.
+Du bör dubbelkolla att det inte innehåller personlig information.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="88"/>
@@ -7520,14 +7527,18 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ladda upp %1 skärmdumpar.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ladda upp den valda skärmdumpen.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
@@ -7563,7 +7574,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att radera %1 skärmdumpar.
+Detta kan vara permanent och de kommer att försvinna från mappen.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
