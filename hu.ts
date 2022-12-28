@@ -1432,7 +1432,10 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 elem eltávolítására készül.
+Ez végleges lehet, és az elemek el fognak tűnni a mappából.
+
+biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1440,12 +1443,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; mappa eltávolítására készül.
+Ez végleges lehet, és a mappa el fog tűnni a szülőmappából.
+
+biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás megerősítése</translation>
     </message>
 </context>
 <context>
@@ -4817,7 +4823,7 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Törlés megerősítése</translation>
     </message>
     <message>
         <source>CAREFUL!</source>
@@ -4833,7 +4839,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished">A(z) %1 példány törlésére készülsz.
+        <translation>A(z) &quot;%1&quot; példány törlésére készülsz.
 Ez végleges lehet, és teljesen törli a példányt.
 
 Biztos vagy ebben?</translation>
@@ -6603,7 +6609,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Törlés megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -6611,23 +6617,27 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; törlésére készül.
+Ez végleges lehet, és el fog tűnni a naplók mappájából.
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Tisztitás megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan törli az összes naplófájlt?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan törli ezeket a fájlokat?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -7060,7 +7070,7 @@ Gondosan válassza ki a nevét:</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Feltöltés megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
@@ -7068,7 +7078,10 @@ Gondosan válassza ki a nevét:</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A(z) &quot;%1&quot; fájl feltöltésére készül ide: %2.
+Érdemes még egyszer ellenőriznie a személyes adatokat.
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="88"/>
@@ -7602,14 +7615,18 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 képernyőkép feltöltésére készül.
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A kiválasztott képernyőkép feltöltésére készül.
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
@@ -7645,7 +7662,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 képernyőkép törlésére készül.
+Ez végleges lehet, és a képernyőképek el fognak tűnni a mappából.
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -7653,12 +7673,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>A kiválasztott képernyőkép törlésére készül.
+Ez lehet végleges, és a képernyőkép el fog tűnni a mappából.
+
+Biztos vagy ebben?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Törlés megerősítése</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -7775,7 +7798,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás megerősítése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -8957,7 +8980,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished">Törlés</translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
