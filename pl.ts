@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>Usługa Pastebin</translation>
+        <translation>&amp;Usługa Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -29,7 +29,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Typ usługi</translation>
+        <translation>Usługa wklejania i jej &amp;rodzaj</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Uwaga: zmień lub wyczyść Podstawowy URL po zmianie typu usługi.</translation>
+        <translation>Uwaga: zmień lub wyczyść Podstawowy URL po zmianie typu usługi wklejania.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -77,12 +77,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation>User Agent</translation>
+        <translation>Agent użytkownika</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Możesz tutaj wprowadzić własny User Agent. Ciąg znaków $LAUNCHER_VER zostanie zastąpiony wersją launchera.</translation>
+        <translation>Wprowadź tutaj niestandardowego agenta użytkownika. Specjalny ciąg znaków $LAUNCHER_VER zostanie zastąpiony wersją launchera.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -118,7 +118,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation>Zewnętrzne Interfejsy</translation>
+        <translation>API&apos;e</translation>
     </message>
 </context>
 <context>
@@ -127,7 +127,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nie można zrozumieć manifestu paczki:
+        <translation>Nie można było zrozumieć manifestu paczki:
 </translation>
     </message>
     <message>
@@ -153,7 +153,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
         <source>Unknown mod type: %1</source>
-        <translation>Nieznany rodzaj moda: %1</translation>
+        <translation>Nieznany rodzaj modyfikacji: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="375"/>
@@ -188,17 +188,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Nie udało się otworzyć archiwum plików konfiguracyjnych paczki %1!</translation>
+        <translation>Nie udało się otworzyć plików konfiguracyjnych paczki %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
         <source>Selecting optional mods...</source>
-        <translation>Wybieranie opcjonalnych modów...</translation>
+        <translation>Wybieranie opcjonalnych modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
         <source>Downloading mods...</source>
-        <translation>Pobieranie modów...</translation>
+        <translation>Pobieranie modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
@@ -218,12 +218,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="891"/>
         <source>Failed to extract mods...</source>
-        <translation>Nie udało się rozpakować modów...</translation>
+        <translation>Nie udało się rozpakować modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="902"/>
         <source>Extracting mods...</source>
-        <translation>Rozpakowywanie modów...</translation>
+        <translation>Rozpakowywanie modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="975"/>
@@ -759,7 +759,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="14"/>
         <source>Select Mods To Install</source>
-        <translation>Wybierz Mody Do Zainstalowania</translation>
+        <translation>Wybierz Modyfikacje Do Zainstalowania</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="20"/>
@@ -951,7 +951,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Skonfigurowana przez ciebie ścieżka do folderu z modyfikacjami i domyślny folder z pobranymi są zawsze sprawdzane czy są w nich modyfikacje, jeżeli będą znalezione to zostaną skopiowane do folderu instancji&lt;/p&gt;&lt;p&gt;Opcjonalnie możesz przerzucić modyfikacje na to okno dialogowe albo dodać folder jeżeli nie pobrałeś modyfikacji do domyślnej lokalizacji.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Skonfigurowana przez ciebie ścieżka do folderu z modyfikacjami i domyślny folder z pobranymi są zawsze sprawdzane czy są w nich modyfikacje, jeżeli będą znalezione to zostaną skopiowane do folderu instancji.&lt;/p&gt;&lt;p&gt;Opcjonalnie możesz przerzucić modyfikacje na to okno dialogowe albo dodać folder jeżeli nie pobrałeś modyfikacji do domyślnej lokalizacji.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1087,7 +1087,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Wyłączenie tej opcji spowoduje zachowanie programu ładującego modyfikacje (np. Fabric, Quilt itp.), ale usunie folder mods i ich konfiguracje.</translation>
+        <translation>Wyłączenie tej opcji spowoduje zachowanie programu ładującego modyfikacje (np. Fabric, Quilt itp.), ale usunie folder z modyfikacjami i ich konfiguracje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
@@ -1145,7 +1145,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="77"/>
         <source>Core mods</source>
-        <translation>Mody Bazowe</translation>
+        <translation>Modyfikacje bazowe</translation>
     </message>
 </context>
 <context>
@@ -1270,7 +1270,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation>Sprawdzanie, czy mody mają metadane...</translation>
+        <translation>Sprawdzanie, czy modyfikacje mają metadane...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
@@ -1668,7 +1668,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Wyłączone mody nie będą zaktualizowane, aby zapobiec problemom związanym z duplikacją!</translation>
+        <translation>Wyłączone modyfikacje nie będą zaktualizowane, aby zapobiec problemom związanym z duplikacją!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
@@ -1779,13 +1779,13 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="421"/>
         <source>Blocked mods found</source>
-        <translation>Znaleziono zablokowane mody</translation>
+        <translation>Znaleziono zablokowane modyfikacje</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="422"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Poniższe mody zostały zablokowane launcherach firm trzecich.&lt;br/&gt;Będziesz musiał je ręcznie pobrać i dodać do modpacka.</translation>
+        <translation>Poniższe mody zostały zablokowane do pobrania w programach uruchamiających firm trzecich.&lt;br/&gt;Będziesz musiał je ręcznie pobrać i dodać do paczki modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="446"/>
@@ -1828,7 +1828,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Hej!&lt;/h1&gt;&lt;h4&gt;Wygląda na to, że ID twojej paczki jest równe 0. Jest to spowodowane błędem występującym w starszych wersjach programu.&lt;br/&gt;Niestety nie możemy wykonać poprawnych żądań API bez tej informacji.&lt;br/&gt;&lt;br/&gt;Żeby ta funkcja działała, będziesz musiał pobrać od nowa paczkę modyfikacji przy pomocy wbudowanego downloadera.&lt;br/&gt;&lt;br/&gt;Nie martw się! Będziesz spytany o wyłącznie zaktualizowanie instancji, więc jej nie stracisz!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Hej!&lt;/h1&gt;&lt;h4&gt;Wygląda na to, że ID twojej paczki jest równe 0. Jest to spowodowane błędem występującym w starszych wersjach programu.&lt;br/&gt;Niestety nie możemy wykonać poprawnych żądań API bez tej informacji.&lt;br/&gt;&lt;br/&gt;Żeby ta funkcja działała, będziesz musiał pobrać od nowa paczkę modyfikacji przy pomocy wbudowanego programu pobierającego.&lt;br/&gt;&lt;br/&gt;Nie martw się! Będziesz spytany o wyłącznie zaktualizowanie instancji, więc jej nie stracisz!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
@@ -3397,7 +3397,7 @@ Konieczne może być naprawienie twoich modów, gdyż gra wciąż zapisuje logi 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;Mody:</translation>
+        <translation>&amp;Modyfikacje:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
@@ -3462,7 +3462,7 @@ Konieczne może być naprawienie twoich modów, gdyż gra wciąż zapisuje logi 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>Mody</translation>
+        <translation>Modyfikacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -5534,12 +5534,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="91"/>
         <source>Download mods</source>
-        <translation>Pobierz mody</translation>
+        <translation>Pobierz modyfikacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="105"/>
         <source>Confirm mods to download</source>
-        <translation>Potwierdź mody do pobrania</translation>
+        <translation>Potwierdź modyfikacje do pobrania</translation>
     </message>
 </context>
 <context>
@@ -5695,12 +5695,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
         <source>Download mods</source>
-        <translation>Pobierz mody</translation>
+        <translation>Pobierz modyfikacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
         <source>Download mods from online mod platforms</source>
-        <translation>Pobierz mody z platform moderskich online</translation>
+        <translation>Pobierz modyfikacje z platform online</translation>
     </message>
     <message>
         <source>Add .jar</source>
@@ -5780,7 +5780,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>Wszystkie wybrane mody są w najnowszej wersji! :)</translation>
+        <translation>Wszystkie wybrane modyfikacje są w najnowszej wersji! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -5819,7 +5819,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="76"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>Nie udało się utworzyć zmodyfikowanego pliku Minecraft jar.</translation>
+        <translation>Nie udało się utworzyć zmodyfikowanego pliku jar Minecrafta.</translation>
     </message>
 </context>
 <context>
@@ -5833,7 +5833,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation>Szukaj i filtruj mody...</translation>
+        <translation>Szukaj i filtruj modyfikacje...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
@@ -6130,7 +6130,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Kopiowanie zablokowanych modyfikacji(wykonano %1 z %2)</translation>
+        <translation>Kopiowanie zablokowanych modyfikacji (wykonano %1 z %2)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -6198,7 +6198,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="42"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Wyłączone mody nie będą zaktualizowane, aby zapobiec problemom związanym z duplikacją!</translation>
+        <translation>Wyłączone modyfikacje nie będą zaktualizowane, aby zapobiec problemom związanym z duplikacją!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
@@ -7592,7 +7592,7 @@ Nowa nazwa: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Jedna lub więcej z twoich instacji pochodzą z tej samej paczki modyfickacji%1. Chcesz utworzyć osobną instancję, czy zaktualizować już istniejącą?
+        <translation>Jedna lub więcej z twoich instancji pochodzą z tej samej paczki modyfikacji%1. Chcesz utworzyć osobną instancję, czy zaktualizować już istniejącą?
 
 Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktualizowaniem, światy mogą zostać uszkodzone oraz niektóre pliki konfiguracyjne mogą zaginąć (nadpisane przez paczkę).</translation>
     </message>
@@ -7714,12 +7714,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation>Masz zamiar pobrać następujące mody:</translation>
+        <translation>Masz zamiar pobrać następujące modyfikacje:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation>Tylko zaznaczone mody będą pobierane!</translation>
+        <translation>Tylko zaznaczone modyfikacje będą pobierane!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="12"/>
@@ -8473,7 +8473,7 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation>Mechanizm ładujący Mody</translation>
+        <translation>Loader Modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
@@ -8513,7 +8513,7 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation>Nie wybrano mechanizmu ładującego mody.</translation>
+        <translation>Nie wybrano mechanizmu ładującego modyfikacje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
@@ -8691,12 +8691,12 @@ Dla tej instancji przełącz się na jedną z następujących wersji Javy:</tran
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
         <source>Install mods</source>
-        <translation>Instaluj mody</translation>
+        <translation>Instaluj modyfikacje</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
         <source>Install normal mods.</source>
-        <translation>Zainstaluj normalne mody.</translation>
+        <translation>Zainstaluj normalne modyfikacje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
@@ -8837,12 +8837,12 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="360"/>
         <source>Select jar mods</source>
-        <translation>Wybierz mody jar</translation>
+        <translation>Wybierz modyfikacje w formacie jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="360"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>Mody minecraft.jar (*.zip *.jar)</translation>
+        <translation>Modyfikacje minecraft.jar (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="370"/>
@@ -9293,7 +9293,7 @@ Może być konieczna jego reinstalacja.</translation>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
-        <translation>Modyfikowanie świata w trakcie działania Minecraft może być potencjalnie niebezpieczne.
+        <translation>Modyfikowanie świata w trakcie działania Minecrafta może być potencjalnie niebezpieczne.
 Czy chcesz kontynuować?</translation>
     </message>
     <message>
@@ -9307,7 +9307,7 @@ Czy chcesz kontynuować?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Jesteś w trakcie usuwania &quot;%1&quot;.
+        <translation>Zamierzasz usunąć &quot;%1&quot;.
 Ten świat zostanie usunięty na zawsze (DOŚĆ DŁUGO).
 
 Jesteś tego pewien?</translation>
@@ -9540,7 +9540,7 @@ Skonfiguruj swoje konto zgodnie z %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="35"/>
         <source>Logged in with Mojang</source>
-        <translation>Zalogowano przez Mojang</translation>
+        <translation>Zalogowano za pomocą Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="44"/>
