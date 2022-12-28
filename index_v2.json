@@ -139,12 +139,12 @@
             "untranslated" : 1132
         },
         "es" : {
-            "file" : "ad02ba70ff8b4bef9957962d1f6f12401f94b4ab.class",
-            "sha1" : "ad02ba70ff8b4bef9957962d1f6f12401f94b4ab",
-            "size" : 221051,
-            "translated" : 1479,
+            "file" : "6826304a8d8c02feed0aff93da7efbf1bcda9b63.class",
+            "sha1" : "6826304a8d8c02feed0aff93da7efbf1bcda9b63",
+            "size" : 224453,
+            "translated" : 1493,
             "fuzzy" : 1,
-            "untranslated" : 25
+            "untranslated" : 11
         },
         "es_UY" : {
             "file" : "2287bd30b6b2fb8f20132700228828631f5b3420.class",
@@ -267,12 +267,12 @@
             "untranslated" : 24
         },
         "ja" : {
-            "file" : "03388f2b785a7dc1ab45fd893c55976e0a6a911e.class",
-            "sha1" : "03388f2b785a7dc1ab45fd893c55976e0a6a911e",
-            "size" : 97112,
-            "translated" : 856,
+            "file" : "90955ad296cabd96c32d5fae8f8986b6cb5399b0.class",
+            "sha1" : "90955ad296cabd96c32d5fae8f8986b6cb5399b0",
+            "size" : 97185,
+            "translated" : 857,
             "fuzzy" : 92,
-            "untranslated" : 557
+            "untranslated" : 556
         },
         "ja_KANJI" : {
             "file" : "e30be077e631e9681acd6716dc99b61afb360cb2.class",
@@ -371,12 +371,12 @@
             "untranslated" : 546
         },
         "pl" : {
-            "file" : "b0ea34c252fa40e7cf4a2fcea86d06bd5cd14257.class",
-            "sha1" : "b0ea34c252fa40e7cf4a2fcea86d06bd5cd14257",
-            "size" : 218352,
-            "translated" : 1501,
+            "file" : "b57810cb4eceab141b997c66ef0ade4f9b2310a2.class",
+            "sha1" : "b57810cb4eceab141b997c66ef0ade4f9b2310a2",
+            "size" : 220090,
+            "translated" : 1505,
             "fuzzy" : 0,
-            "untranslated" : 4
+            "untranslated" : 0
         },
         "pt_PT" : {
             "file" : "b58fee34ca500e56d1e9500de748f4cd6ad8e51e.class",
