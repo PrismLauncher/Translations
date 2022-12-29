@@ -1810,7 +1810,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="501"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation>Zagnieżdżanie modpacków w modpackach nie zostało jeszcze zaimplementowane, nic nie zostało pobrane: %1</translation>
+        <translation>Zagnieżdżanie paczki modyfikacji w paczkach modyfikacji nie zostało jeszcze zaimplementowane, nic nie zostało pobrane: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="506"/>
@@ -2358,34 +2358,34 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/InstanceImportTask.cpp" line="82"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Pobieranie modpacka:
+        <translation>Pobieranie paczki modyfikacji:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Modpack download</source>
-        <translation>Pobieranie modpacka</translation>
+        <translation>Pobieranie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="128"/>
         <source>Extracting modpack</source>
-        <translation>Rozpakowywanie modpacka</translation>
+        <translation>Rozpakowywanie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="136"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Nie można rozpakować dostarczonego pliku zip modpacka.</translation>
+        <translation>Nie można rozpakować dostarczonego pliku zip paczki modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Archiwum nie zawiera obsługiwanego typu modpacka.</translation>
+        <translation>Archiwum nie zawiera obsługiwanego typu paczki modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="197"/>
         <source>Failed to extract modpack</source>
-        <translation>Nie udało się rozpakować modpacka</translation>
+        <translation>Nie udało się rozpakować paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="224"/>
@@ -3773,7 +3773,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>Nie udało się otworzyć plików modpacka %1!</translation>
+        <translation>Nie udało się otworzyć plików paczki modyfikacji %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
@@ -8119,28 +8119,28 @@ Jesteś tego pewien?</translation>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Pobieranie modpacka:
+        <translation>Pobieranie paczki modyfikacji:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation>Pobieranie modpacka</translation>
+        <translation>Pobieranie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
         <source>Extracting modpack</source>
-        <translation>Rozpakowywanie modpacka</translation>
+        <translation>Rozpakowywanie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>Nie można otworzyć dostarczonego pliku zip modpacka.</translation>
+        <translation>Nie można otworzyć dostarczonego pliku zip paczki modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
         <source>Failed to extract modpack</source>
-        <translation>Nie udało się rozpakować modpacka</translation>
+        <translation>Nie udało się rozpakować paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
@@ -8185,7 +8185,7 @@ Jesteś tego pewien?</translation>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="86"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="110"/>
         <source>Downloading modpack</source>
-        <translation>Pobieranie modpacka</translation>
+        <translation>Pobieranie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
@@ -8197,12 +8197,12 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation>Rozpakowywanie modpacka</translation>
+        <translation>Rozpakowywanie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
         <source>Failed to extract modpack</source>
-        <translation>Nie udało się rozpakować modpacka</translation>
+        <translation>Nie udało się rozpakować paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
