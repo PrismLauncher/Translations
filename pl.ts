@@ -563,7 +563,7 @@ Jeśli jesteś tu nowy, możesz kliknąć przycisk &quot;Dodaj&quot;, aby dodać
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation>Konta Microsoft niedostępne</translation>
+        <translation>Konta Microsoft jest niedostępne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -571,7 +571,7 @@ Jeśli jesteś tu nowy, możesz kliknąć przycisk &quot;Dodaj&quot;, aby dodać
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Konta Microsoft działają tylko na macOS 10.13 lub nowszym, z w pełni zaktualizowanym %1.
+        <translation>Konta Microsoft działają tylko na macOS 10.13 lub nowszym i w pełni zaktualizowanym %1.
 
 Proszę zaktualizować zarówno system operacyjny i %1.</translation>
     </message>
@@ -591,7 +591,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Musisz dodać konto Microsoft lub Mojang, które jest w posiadaniu Minecraft, zanim będziesz mógł dodać konto offline.&lt;br&gt;&lt;br&gt;Jeśli straciłeś dostęp do swojego konta, możesz skontaktować się z Microsoft w celu uzyskania wsparcia.</translation>
+        <translation>Musisz dodać konto Microsoft lub Mojang, które jest w posiadaniu kopii Minecrafta, zanim będziesz mógł dodać konto offline.&lt;br&gt;&lt;br&gt;Jeśli straciłeś dostęp do swojego konta, możesz skontaktować się z Microsoft w celu uzyskania wsparcia.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -667,7 +667,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1200"/>
         <source>Aborted</source>
-        <translation>Zatrzymano działanie</translation>
+        <translation>Przerwano działanie</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1633"/>
@@ -682,7 +682,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1643"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Wygląda na to że wcześniej używałeś&#xa0;%1 na %2. Czy chcesz migrować swoje dane do nowej lokalicacji %3?</translation>
+        <translation>Wygląda na to że wcześniej używałeś %1 na %2. Czy chcesz migrować swoje dane do nowej lokalizacji %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1685"/>
@@ -706,7 +706,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation>Anulowane</translation>
+        <translation>Anulowano</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -716,7 +716,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Pobieranie plików zasobów od Mojang...</translation>
+        <translation>Pobieranie plików zasobów od Mojangu...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
@@ -815,7 +815,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Ostrzeżenie: Ta funkcja jest wciąż w trakcie rozwoju. Jeśli napotkasz problemy z zaimportowanym modpackiem, jest to prawdopodobnie błąd.</translation>
+        <translation>Ostrzeżenie: Ta funkcja jest wciąż w trakcie rozwoju. Jeśli napotkasz problemy z zaimportowaną paczką modyfikacji, jest to prawdopodobnie błąd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -5140,7 +5140,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
         <source>No changelog available for this version!</source>
-        <translation>Changelogi nie są dostępne dla tej wersji!</translation>
+        <translation>Listy zmian nie są dostępne dla tej wersji!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
