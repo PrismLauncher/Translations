@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>&amp;Usługa Pastebin</translation>
+        <translation>Usługa &amp;Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -34,7 +34,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Podstawowy URL</translation>
+        <translation>Podstawowy &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
@@ -67,7 +67,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Tutaj wprowadź własny ID klienta do uwierzytelniania Microsoft.</translation>
+        <translation>Tutaj wprowadź ID własnego klienta do uwierzytelniania Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -118,7 +118,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation>API&apos;e</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -143,7 +143,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation>Niewspierany tryb instalacji</translation>
+        <translation>Nieobsługiwany tryb instalacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
@@ -163,7 +163,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="389"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nie ustawiono wersji loadera dla paczki modów!</translation>
+        <translation>Nie ustawiono wersji loadera dla paczki modyfikacji!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="534"/>
@@ -178,17 +178,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
         <source>Config download</source>
-        <translation>Pobieranie plików konfiguracyjnych</translation>
+        <translation>Pobieranie konfiguracji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="697"/>
         <source>Extracting configs...</source>
-        <translation>Rozpakowywanie plików konfiguracyjnych...</translation>
+        <translation>Rozpakowywanie konfiguracji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Nie udało się otworzyć plików konfiguracyjnych paczki %1!</translation>
+        <translation>Nie udało się otworzyć konfiguracji paczki %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
@@ -203,7 +203,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
         <source>Mod download</source>
-        <translation>Pobieranie moda</translation>
+        <translation>Pobieranie modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="764"/>
@@ -228,7 +228,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="975"/>
         <source>Installing modpack</source>
-        <translation>Instalowanie modpacka</translation>
+        <translation>Instalowanie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="987"/>
@@ -256,7 +256,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niestandardowy Launcher, który ułatwia zarządzanie Minecraft, poprzez możliwość posiadania wielu instancji Minecraft na raz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Niestandardowy program uruchamiający, który ułatwia zarządzanie Minecraftem poprzez możliwość posiadania wielu instancji Minecrafta na raz.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -433,7 +433,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation>Można zmigrować?</translation>
+        <translation>Czy migracja jest możliwa?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -985,7 +985,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Wybierz dostawcę modów</translation>
+        <translation>Wybierz dostawcę modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
@@ -1646,7 +1646,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
         <source>Resolving mod IDs...</source>
-        <translation>Odczytywanie ID modów...</translation>
+        <translation>Odczytywanie ID modyfikacji..</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
@@ -1663,7 +1663,7 @@ Spróbuj ponownie.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Przygotowywanie modów dla CurseForge...</translation>
+        <translation>Przygotowywanie modyfikacji dla CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
@@ -1773,7 +1773,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Nie udało się odczytać następujących ID modów:
+        <translation>Nie udało się odczytać następujących ID modyfikacji:
 </translation>
     </message>
     <message>
@@ -1820,7 +1820,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
         <source>Downloading mods...</source>
-        <translation>Pobieranie modów...</translation>
+        <translation>Pobieranie modyfikacji...</translation>
     </message>
 </context>
 <context>
@@ -1931,7 +1931,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Uwaga: CurseForge pozwala autorom modów zablokować pobieranie modów w aplikacjach firm trzecich, takich jak Prism Launcher. W związku z tym, aby móc zainstalować modpack, może być wymagane ręczne pobranie niektórych modów.</translation>
+        <translation>Uwaga: CurseForge pozwala autorom modyfikacji zablokować pobieranie modyfikacji w aplikacjach firm trzecich, takich jak Prism Launcher. W związku z tym, aby móc zainstalować paczkę modyfikacji, może być wymagane ręczne pobranie niektórych modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2224,12 +2224,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation>- Paczki modów CurseForge (ZIP)</translation>
+        <translation>- Paczki modyfikacji CurseForge (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Paczki modów Modrinth (ZIP lub mrpack)</translation>
+        <translation>- Paczki modyfikacji Modrinth (ZIP lub mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -2240,7 +2240,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Paczki modów Technic (ZIP)</translation>
+        <translation>- Paczki modyfikacji Technic (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -3333,8 +3333,8 @@ Konieczne może być naprawienie modów, gdyż gra wciąż zapisuje logi do plik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="234"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>Przestano obserwować log gry, ponieważ długość logu przekroczyła %1 wierszy.
-Konieczne może być naprawienie twoich modów, gdyż gra wciąż zapisuje logi do plików i prawdopodobnie marnuje przestrzeń dyskową w alarmującym tempie!</translation>
+        <translation>Przestano obserwować log gry, ponieważ długość logu przekroczyła %1 linii.
+Konieczne może być naprawienie twoich modyfikacji, gdyż gra wciąż zapisuje logi do plików i prawdopodobnie marnuje przestrzeń dyskową w alarmującym tempie!</translation>
     </message>
 </context>
 <context>
@@ -3467,18 +3467,18 @@ Konieczne może być naprawienie twoich modów, gdyż gra wciąż zapisuje logi 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation>Wyłącz używanie metadanych podanych przez dostawców modów (takich jak Modrinth czy Curseforge) dla modów.</translation>
+        <translation>Wyłącz używanie metadanych dostarczanych przez dostawców (takich jak Modrinth czy Curseforge) dla modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation>Wyłączyć używanie metadanych dla modów?</translation>
+        <translation>Wyłączyć używanie metadanych dla modyfikacji?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Ostrzeżenie&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Wyłączanie metadanych może wyłączyć niektóre przyszłe małe funkcje jak aktualizowanie modów!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Ostrzeżenie&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Wyłączanie metadanych może wyłączyć niektóre małe funkcje, takie jak aktualizowanie modyfikacji!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="290"/>
@@ -3646,7 +3646,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="186"/>
         <source>Mods Folder</source>
-        <translation>Folder modów</translation>
+        <translation>Folder z modyfikacjami</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="503"/>
@@ -3722,17 +3722,17 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="116"/>
         <source>Public Modpack</source>
-        <translation>Publiczna paczka modów</translation>
+        <translation>Publiczna paczka modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="118"/>
         <source>Third Party Modpack</source>
-        <translation>Zewnętrzna paczka modów</translation>
+        <translation>Zewnętrzna paczka modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="120"/>
         <source>Private Modpack</source>
-        <translation>Prywatna paczka modów</translation>
+        <translation>Prywatna paczka modyfikacji</translation>
     </message>
 </context>
 <context>
@@ -3768,7 +3768,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="115"/>
         <source>Extracting modpack</source>
-        <translation>Rozpakowywanie paczki modów</translation>
+        <translation>Rozpakowywanie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -3778,7 +3778,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
         <source>Installing modpack</source>
-        <translation>Instalowanie paczki modów</translation>
+        <translation>Instalowanie paczki modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
@@ -4218,12 +4218,12 @@ Powód:
         <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>Zobacz &amp;centralny katalog modów</translation>
+        <translation>Zobacz &amp;centralny katalog modyfikacji</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="326"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Otwórz centralny folder modów w eksploratorze plików.</translation>
+        <translation>Otwórz centralny folder modyfikacji w eksploratorze plików.</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -4668,7 +4668,7 @@ Powód:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>Zmień ustawienia instancji, modów oraz wersji.</translation>
+        <translation>Zmień ustawienia instancji, modyfikacji oraz wersji.</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -5190,7 +5190,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="165"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>Nie udało się uzyskać listy zmian dla tej paczki modów.</translation>
+        <translation>Nie udało się uzyskać listy zmian dla tej paczki modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
@@ -5529,7 +5529,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="69"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>Otwiera nowe okno do przejrzenia zaznaczonych modów oraz potwierdzenia wybrania: Skrót: Ctrl+Enter</translation>
+        <translation>Otwiera nowe okno do przejrzenia zaznaczonych modyfikacji oraz potwierdzenia wybrania: Skrót: Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="91"/>
@@ -5775,7 +5775,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <source>The mod updater was aborted!</source>
-        <translation>Aktualizacja modów została anulowana!</translation>
+        <translation>Aktualizacja modyfikacji została anulowana!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
@@ -5923,7 +5923,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="261"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation>Wystąpił błąd sieci. Nie udało się załadować modów.</translation>
+        <translation>Wystąpił błąd sieci. Nie udało się załadować modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="268"/>
@@ -6026,7 +6026,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Nie można było sprawdzić aktualizacji dla następujących modów:&lt;br&gt;Chcesz kontynuować bez ich aktualizacji?</translation>
+        <translation>Nie można było sprawdzić aktualizacji dla następujących modyfikacji:&lt;br&gt;Chcesz kontynuować bez ich aktualizacji?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
@@ -6115,7 +6115,7 @@ Proszę zaktualizować %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>Pobieranie modów...</translation>
+        <translation>Pobieranie modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
@@ -6177,7 +6177,7 @@ Proszę zaktualizować PolyMC!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>Wystąpił błąd sieci. Nie udało się załadować paczek modów.</translation>
+        <translation>Wystąpił błąd sieci. Nie udało się załadować paczek modyfikacji.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
@@ -6284,7 +6284,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="258"/>
         <source>Downloading mods...</source>
-        <translation>Pobieranie modów...</translation>
+        <translation>Pobieranie modyfikacji...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="317"/>
@@ -6294,7 +6294,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="318"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>Jeden lub więcej modów z tej paczki są opcjonalne. Zostaną one pobrane, lecz domyślnie będą wyłączone!</translation>
+        <translation>Jeden lub więcej modyfikacji z tej paczki są opcjonalne. Zostaną one pobrane, lecz domyślnie będą wyłączone!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="361"/>
@@ -6355,7 +6355,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Uwaga: Paczki modów Modrinth są nadal w fazie alfa. Niektóre rzeczy mogą działać tak sobie lub w ogóle nie działać! Używaj ich z rozwagą.</translation>
+        <translation>Uwaga: Paczki modyfikacji Modrinth są nadal w fazie alfa. Niektóre rzeczy mogą działać tak sobie lub w ogóle nie działać! Używaj ich z rozwagą.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
