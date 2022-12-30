@@ -5418,49 +5418,65 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="75"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="76"/>
         <source>Folder</source>
         <translation>Mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="77"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="78"/>
         <source>File</source>
         <translation>Fil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="116"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
+        <source>Unknown</source>
+        <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="118"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="120"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
         <source>Last changed</source>
         <translation>Senast ändrad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
+        <source>Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
         <source>Is the mod enabled?</source>
         <translation>Är moddet aktiverad?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="142"/>
         <source>The name of the mod.</source>
         <translation>Namnet på moddet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="133"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="144"/>
         <source>The version of the mod.</source>
         <translation>Versionen av moddet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="135"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Datumet och tiden som moddet senast ändrades (eller lades till).</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
+        <source>Where the mod was downloaded from.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
