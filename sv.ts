@@ -600,7 +600,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>Ett fel uppstod vid kontakt med autentiseringsservern.</translation>
+        <translation>Misslyckades med att kontakta autentiseringsservern.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
@@ -687,7 +687,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
-        <translation>Ett fel uppstod vid läsning av filindex!</translation>
+        <translation>Misslyckades med att läsa filindexet!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
@@ -1618,7 +1618,7 @@ Försök igen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
         <source>Resolving mod IDs...</source>
-        <translation>Slår upp mod-IDn...</translation>
+        <translation>Söker upp mod-IDn...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
@@ -1745,7 +1745,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="373"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Kunde inte slå upp mod-IDn:
+        <translation>Kunde inte söka upp mod-IDn:
 </translation>
     </message>
     <message>
@@ -4581,7 +4581,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation>Ta bort den valda instansen.</translation>
+        <translation>Radera den valda instansen.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -4677,7 +4677,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Delete group &apos;%1&apos;</source>
-        <translation>Ta bort grupp &apos;%1&apos;</translation>
+        <translation>Radera grupp &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
@@ -4780,12 +4780,12 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1954"/>
         <source>Delete group</source>
-        <translation>Ta bort grupp</translation>
+        <translation>Radera grupp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1954"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation>Är du säker på att du vill ta bort gruppen %1?</translation>
+        <translation>Är du säker på att du vill radera gruppen %1?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2053"/>
@@ -4894,7 +4894,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2466"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>Detta är ett problem: &lt;br/&gt; - Launchern kommer sannolikt tas bort utan varning av operativsystemet &lt;br/&gt; - stäng launchern nu och extrahera den till en riktig plats, inte en tillfällig mapp</translation>
+        <translation>Detta är ett problem: &lt;br/&gt; - Launchern kommer sannolikt raderas utan varning av operativsystemet &lt;br/&gt; - stäng launchern nu och extrahera den till en riktig plats, inte en tillfällig mapp</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2473"/>
@@ -5904,7 +5904,7 @@ Vänligen uppdatera %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation>Slår upp mods...</translation>
+        <translation>Söker upp mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
@@ -6478,7 +6478,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
         <source>Delete</source>
-        <translation>Ta bort</translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
@@ -6568,7 +6568,7 @@ Detta kan vara permanent och den kommer att försvinna från loggmappen.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="240"/>
         <source>Unable to delete %1: %2</source>
-        <translation>Kunde inte ta bort %1: %2</translation>
+        <translation>Kunde inte radera %1: %2</translation>
     </message>
     <message>
         <source>Clean up</source>
@@ -6587,13 +6587,13 @@ Detta kan vara permanent och den kommer att försvinna från loggmappen.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="294"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>Kunde inte ta bort vissa filer!</translation>
+        <translation>Kunde inte radera vissa filer!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>Kunde inte ta bort vissa filer:
+        <translation>Kunde inte radera vissa filer:
 %1</translation>
     </message>
     <message>
@@ -7143,7 +7143,7 @@ Du bör dubbelkolla att det inte innehåller personlig information.
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
         <source>&lt;Offline&gt;</source>
-        <translation>&lt;Frånkopplad&gt;</translation>
+        <translation>&lt;Offline&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/UpdateController.cpp" line="352"/>
@@ -7166,7 +7166,7 @@ Se loggfilen %2 för mer information.</translation>
         <location filename="src/launcher/UpdateController.cpp" line="368"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>Kunde inte radera filen %1. Ändringarna kommer att återställas.
+        <translation>Kunde inte ta bort filen %1. Ändringarna kommer att återställas.
 Se loggfilen %2 för mer information.</translation>
     </message>
     <message>
@@ -7488,7 +7488,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="66"/>
         <source>Delete</source>
-        <translation>Ta bort</translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
@@ -7585,12 +7585,15 @@ Detta kan vara permanent och de kommer att försvinna från mappen.
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att radera den valda skärmdumpen.
+Detta kan vara permanent och den kommer att försvinna från mappen.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Bekräfta radering</translation>
+        <translation>Bekräfta radering</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -7707,7 +7710,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekräfta borttagning</translation>
+        <translation>Bekräfta borttagning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7715,7 +7718,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ta bort &quot;%1&quot;.
+Detta är permanent och servern kommer att försvinna från din lista för alltid (VÄLDIGT LÄNGE).
+
+Är du säker?</translation>
     </message>
 </context>
 <context>
@@ -7910,7 +7916,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="71"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="73"/>
         <source>Resolving modpack files</source>
-        <translation>Slår upp modpaketfiler</translation>
+        <translation>Söker upp modpaketfiler</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -8547,7 +8553,7 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Bekräfta borttagning</translation>
+        <translation>Bekräfta borttagning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -8555,7 +8561,10 @@ Vänligen byt till en av följande Java-versioner för denna instans:</translati
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att ta bort &quot;%1&quot;.
+Detta är permanent och kommer att helt ta bort den anpassade komponenten.
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
@@ -8617,7 +8626,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta återställning</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
@@ -8625,7 +8634,10 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att återställa &quot;%1&quot;.
+Detta är permanent och kommer att helt återställa dina anpassningar.
+
+Är du säker?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -8901,7 +8913,7 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
@@ -9026,7 +9038,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Bekräfta radering</translation>
+        <translation>Bekräfta radering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -9034,7 +9046,10 @@ Vill du fortsätta?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du håller på att radera &quot;%1&quot;.
+Världen kan försvinna för alltid (VÄLDIGT LÄNGE).
+
+Är du säker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
