@@ -3802,7 +3802,7 @@ Przyznanie %1 dostępu do niego za pomocą Flatseal jest zalecane.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="48"/>
         <source>3rd Party</source>
-        <translation>3rd Party</translation>
+        <translation>Osób trzecich</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="75"/>
@@ -5930,7 +5930,7 @@ Czy chcesz kontynuować?</translation>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Wersja API zbyt stara!
+        <translation>Wersja API jest zbyt stara!
 Proszę zaktualizować %1!</translation>
     </message>
 </context>
@@ -6184,7 +6184,7 @@ Proszę zaktualizować PolyMC!</translation>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Wersja API zbyt stara!
+        <translation>Wersja API jest zbyt stara!
 Proszę zaktualizować %1!</translation>
     </message>
 </context>
@@ -8462,7 +8462,7 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation>Eksperymenty</translation>
+        <translation>Eksperymentalne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="152"/>
