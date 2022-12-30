@@ -5610,7 +5610,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
@@ -5630,7 +5630,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Проводник</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
@@ -5655,7 +5655,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>Откуда мод был скачан.</translation>
     </message>
 </context>
 <context>
@@ -6810,8 +6810,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished">Вы собираетесь удалить &quot;%1&quot;.
-Это действие необратимо, и он исчезнет из папки журналов.
+        <translation>Вы собираетесь удалить &quot;%1&quot;.
+Это действие необратимо, &quot;%1&quot; навсегда исчезнет из папки с журналами.
 
 Вы уверены?</translation>
     </message>
@@ -7818,7 +7818,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished">Вы собираетесь загрузить %1 скриншотов.
+        <translation>Вы собираетесь загрузить %1 скриншотов.
 
 Вы уверены?</translation>
     </message>
@@ -7865,7 +7865,7 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">Вы собираетесь удалить %1 скриншотов.
+        <translation>Вы собираетесь удалить %1 скриншотов(а).
 Это действие необратимо, и они исчезнут из папки.
 
 Вы уверены?</translation>
@@ -8016,7 +8016,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь удалить &quot;%1&quot;
+Это действие необратимо, и сервер будет навсегда удален из списка (ОЧЕНЬ НАДОЛГО).
+
+Вы уверены?</translation>
     </message>
 </context>
 <context>
@@ -8860,7 +8863,10 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь удалить &quot;%1&quot;.
+Это действие необратимо, и пользовательский компонент будет навсегда удален.
+
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
@@ -9340,7 +9346,10 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь удалить &quot;%1&quot;.
+Это действие необратимо, и мир будет удален навсегда (ОЧЕНЬ НАДОЛГО).
+
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
