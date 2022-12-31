@@ -3402,7 +3402,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation>Moddar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -5431,7 +5431,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Okänd</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
@@ -5476,7 +5476,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>Från vart moddet laddades ner från.</translation>
     </message>
 </context>
 <context>
