@@ -1436,7 +1436,10 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per rimuovere %1 oggetti
+Questo potrebbe essere permanente e saranno persi dalla cartella.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1444,12 +1447,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per rimuovere la cartella &quot;%1&quot;.
+Questo potrebbe essere permanente e sarà persa dalla cartella soprastante.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Rimozione</translation>
     </message>
 </context>
 <context>
@@ -4859,7 +4865,7 @@ Per favore aggiungi il tuo account Mojang/Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Eliminazione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
@@ -4871,7 +4877,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished">Stai per eliminare: %1
+        <translation>Stai per eliminare: %1
 Questo eliminerà permanentemente la tua istanza.
 
 Sei sicuro?</translation>
@@ -5537,7 +5543,7 @@ Sei sicuro?</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sconosciuto</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
@@ -5557,7 +5563,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Fornitore</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
@@ -5582,7 +5588,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>Da dove la mod è stata scaricata.</translation>
     </message>
 </context>
 <context>
@@ -6663,7 +6669,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Eliminazione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -6671,23 +6677,27 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per eliminare &quot;%1&quot;.
+Questo potrebbe essere permanente e sarà perso dalla cartella dei logs.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Pulitura</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler eliminare tutti i file di log?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler eliminare tutti questi file?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -7125,7 +7135,7 @@ Scegli attentamente il tuo nome:</translation>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Caricamento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
@@ -7133,7 +7143,10 @@ Scegli attentamente il tuo nome:</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per caricare &quot;%1&quot; su %2
+Dovresti ricontrollare se ci sono delle informazioni personali.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="88"/>
@@ -7667,14 +7680,18 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per caricare %1 screenshot.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per caricare lo screenshot selezionato.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
@@ -7710,7 +7727,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per eliminare %1 screenshot.
+Questo potrebbe essere permanente e saranno persi dalla cartella.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -7718,12 +7738,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per eliminare lo screenshot selezionato.
+Questo potrebbe essesre permanente e sarà perso dalla cartella.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Eliminazione</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -7840,7 +7863,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Rimozione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7848,7 +7871,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per rimuovere &quot;%1&quot;.
+Questo è permanente e sarà perso dalla tua lista per sempre (UN SACCO DI TEMPO).
+
+Sei sicuro?</translation>
     </message>
 </context>
 <context>
@@ -8684,7 +8710,7 @@ Si prega di selezionare per questa istanza una versione fra le seguenti:</transl
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Rimozione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -8692,7 +8718,10 @@ Si prega di selezionare per questa istanza una versione fra le seguenti:</transl
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per rimuovere &quot;%1&quot;.
+Questo è permanente e rimuoverà completamente il componente personalizzato.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
@@ -8754,7 +8783,7 @@ Aggiungi il tuo account Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Inversione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
@@ -8762,7 +8791,10 @@ Aggiungi il tuo account Mojang o Minecraft.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per invertire &quot;%1&quot;.
+Questo è permanente e invertirà tutta la tua personalizzazione.
+
+Sei sicuro?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -9036,7 +9068,7 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished">Elimina</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
@@ -9161,7 +9193,7 @@ Sei sicuro di voler procedere?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma Eliminazione</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -9169,7 +9201,10 @@ Sei sicuro di voler procedere?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Stai per eliminare &quot;%1&quot;.
+Il mondo potrebbe essere eliminato per sempre (UN SACCO DI TEMPO).
+
+Sei sicuro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
