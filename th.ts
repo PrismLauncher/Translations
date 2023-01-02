@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>บริการ &amp;Pastebin</translation>
+        <translation>&amp;บริการ Pastebin</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -21,33 +21,33 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>บริการ Paste &amp;ชนิด</translation>
+        <translation>ชนิดบริการการ&amp;วาง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>ต้นฉบับ &amp;URL</translation>
+        <translation>&amp;URL ตั้งต้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>หมายเหตุ: คุณควรเปลี่ยนหรือเคลียร์ URL เบื้องต้นหลังจากเปลี่ยนชนิดเซอวิส Paste</translation>
+        <translation>หมายเหตุ: ควรเปลี่ยนหรือเคลียร์ URL ตั้งต้นเมื่อได้ก็ตามที่เปลี่ยนชนิดบริการการวาง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>คีย์ API</translation>
+        <translation>รหัส API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">ลงชื่อเข้าใช้ด้วย Microsoft</translation>
+        <translation>&amp;Microsoft Authentication</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>หมายเหตุ: อาจไม่จำเป็นที่จะตั้งส่วนนี้ถ้าลงชื่อเข้าใช้ผ่าน Microsoft ได้อยู่แล้ว</translation>
+        <translation>หมายเหตุ: ไม่จำเป็นต้องตั้งค่าส่วนนี้หาก Microsoft Authentication ที่ใช้สำหรับการเข้าสู่ระบบใช้งานได้อยู่แล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -59,58 +59,58 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>ป้อน client ID ที่กำหนดเองสำหรับ Microsoft Authentication ที่นี่</translation>
+        <translation>ป้อน ID ไคลเอนต์ที่กำหนดเองสำหรับ Microsoft Authentication ที่นี่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
         <source>Miscellaneous</source>
-        <translation>อื่นๆ</translation>
+        <translation>เบ็ดเตล็ด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="272"/>
         <source>User Agent</source>
-        <translation>User Agent</translation>
+        <translation>ตัวแทนผู้ใช้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>ป้อน User Agent ที่กำหนดเองตรงนี้. ตัวแปร $LAUNCHER_VAR จะถูกแทนที่ด้วยเวอร์ชั่นของ launcher</translation>
+        <translation>ป้อนตัวแทนผู้ใช้ที่กำหนดเองที่นี่ สตริงพิเศษ $LAUNCHER_VAR จะถูกแทนที่ด้วยเวอร์ชันของ launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>เซอร์เวอร์ Meta&amp;data</translation>
+        <translation>ข้อมูล&amp;เมตาของเซิร์ฟเวอร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>สามารถตั้งค่าเป็นข้อมูลเมตาของเซิร์ฟเวอร์ภายนอกเพื่อใช้ไลบรารีที่ถูกแก้ไขหรือแฮ็คต่าง ๆ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>ป้อน URL ข้อมูลเมตาที่นี่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>API หลักของ &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>หมายเหตุ: อาจไม่จำเป็นต้องตั้งค่าส่วนนี้หาก CurseForge ใช้งานได้อยู่แล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>ป้อนรหัส API สำหรับ CurseForge ที่นี่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -125,7 +125,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="343"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation>ไม่สามารถรับข้อมูลเมตาในเครื่องสำหรับ %1</translation>
+        <translation>ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="149"/>
@@ -135,12 +135,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="139"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>โหมดการติดตั้งที่ไม่รองรับ</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="181"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังลบไฟล์ที่มีอยู่...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="330"/>
