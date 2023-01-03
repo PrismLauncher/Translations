@@ -663,7 +663,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1685"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося перенести! Причина: %1</translation>
     </message>
 </context>
 <context>
