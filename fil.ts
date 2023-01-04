@@ -2473,7 +2473,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pagsasaayos</translation>
     </message>
 </context>
 <context>
@@ -2782,7 +2782,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="46"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wika</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/LanguageWizardPage.cpp" line="47"/>
@@ -3846,7 +3846,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="510"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="899"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tulong</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="511"/>
@@ -7335,7 +7335,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wika</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="482"/>
