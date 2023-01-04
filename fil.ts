@@ -613,7 +613,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="690"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsasaayos</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1200"/>
@@ -2494,7 +2494,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="84"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulong</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
@@ -2766,7 +2766,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LanguagePage.h" line="56"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Wika</translation>
     </message>
 </context>
 <context>
