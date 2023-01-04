@@ -5592,7 +5592,7 @@ Você tem certeza?</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desconhecido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
@@ -5612,7 +5612,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Provedor</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
@@ -5637,7 +5637,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>De onde o mod foi baixado.</translation>
     </message>
 </context>
 <context>
