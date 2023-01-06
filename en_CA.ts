@@ -5137,7 +5137,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Search</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
@@ -5164,7 +5164,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="395"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="198"/>
@@ -5199,17 +5199,17 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="415"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">External links:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="419"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="421"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="423"/>
@@ -5430,12 +5430,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copying Blocked Mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copying Blocked Mods (%1 out of %2 are done)</translation>
     </message>
 </context>
 <context>
@@ -5559,7 +5559,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (Current)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
@@ -5577,7 +5577,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sort by Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
@@ -5587,7 +5587,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sort by Last Updated</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
@@ -5606,7 +5606,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sort by Total Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
@@ -5617,12 +5617,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="70"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sort by Last Updated</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="249"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="253"/>
@@ -5632,17 +5632,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="268"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">External links:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="272"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="274"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="276"/>
@@ -5673,7 +5673,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Search</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
@@ -7039,7 +7039,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirm Removal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7329,12 +7329,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Search</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> by </translation>
     </message>
 </context>
 <context>
@@ -7819,7 +7819,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Confirm Removal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
