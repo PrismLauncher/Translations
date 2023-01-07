@@ -1444,7 +1444,10 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 öğeyi kaldırmak üzeresiniz.
+Bu kalıcı olabilir ve klasörden silineceklerdir.
+
+Emin misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1452,12 +1455,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 öğeyi kaldırmak üzeresiniz.
+Bu kalıcı olabilir ve klasörden silineceklerdir.
+
+Emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaldırma İşlemini Onayla</translation>
     </message>
 </context>
 <context>
@@ -4863,7 +4869,7 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2097"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Silme İşlemini Onayla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
@@ -4875,10 +4881,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished">%1&apos;i silmek üzeresin
+        <translation>%1&apos;i silmek üzeresin.
 Büyük ihtimalle seçtiğin profili sonsuza kadar sileceksin.
 
-Emin misin ?</translation>
+Emin misin?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -5536,7 +5542,7 @@ Emin misiniz?</translation>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
@@ -5556,7 +5562,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Sağlayıcı</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
@@ -5581,7 +5587,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modun indirildiği yer.</translation>
     </message>
 </context>
 <context>
@@ -6661,7 +6667,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Silme İşlemini Onayla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -6669,23 +6675,27 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; dosyasını silmek üzeresiniz.
+Bu kalıcı olabilir ve günlükler klasöründen silinecektir.
+
+Emin misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Temizlemeyi Onaylayın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm günlük dosyalarını silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm bu dosyaları silmek istediğinizden emin misiniz?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -7123,7 +7133,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüklemeyi Onayla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
@@ -7131,7 +7141,10 @@ Choose your name carefully:</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;i %2&apos;ye yüklemek üzeresiniz.
+Kişisel bilgileri tekrar kontrol etmelisiniz.
+
+Emin misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="88"/>
@@ -7665,14 +7678,18 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ekran görüntüsü yüklemek üzeresiniz.
+
+Emin misiniz?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen ekran görüntüsünü yüklemek üzeresiniz.
+
+Emin misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
@@ -7708,7 +7725,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ekran görüntüsünü silmek üzeresiniz.
+Bu kalıcı olabilir ve klasörden silineceklerdir.
+
+Emin misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -7716,12 +7736,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen ekran görüntüsünü silmek üzeresiniz.
+Bu kalıcı olabilir ve klasörden silinecektir.
+
+Emin misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Silme İşlemini Onayla</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -7838,7 +7861,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaldırma İşlemini Onayla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7846,7 +7869,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;i kaldırmak üzeresiniz.
+Bu kalıcıdır ve sunucu listenizden sonsuza kadar silinecektir (UZUN BİR SÜRE).
+
+Emin misin?</translation>
     </message>
 </context>
 <context>
@@ -8682,7 +8708,7 @@ Lütfen bu profil için burdaki Java sürümlerinden birini seçin:</translation
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaldırma İşlemini Onayla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -8690,7 +8716,10 @@ Lütfen bu profil için burdaki Java sürümlerinden birini seçin:</translation
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1 &quot;i kaldırmak üzeresiniz.
+Bu kalıcıdır ve özel bileşeni tamamen kaldıracaktır.
+
+Emin misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
@@ -8752,7 +8781,7 @@ Lütfen Mojang veya Minecraft hesabı ekleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Geri Dönüşümü Onaylayın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
@@ -8760,7 +8789,10 @@ Lütfen Mojang veya Minecraft hesabı ekleyin.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;i geri almak üzeresiniz.
+Bu kalıcıdır ve özelleştirmelerinizi tamamen geri alır.
+
+Emin misin?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -9034,7 +9066,7 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished">Sil</translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
@@ -9159,7 +9191,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Silme İşlemini Onayla</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -9167,7 +9199,10 @@ Devam etmek istiyor musunuz?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1 &quot;i silmek üzeresiniz.
+Dünya sonsuza dek yok olabilir (UZUN BİR SÜRE).
+
+Emin misin?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
