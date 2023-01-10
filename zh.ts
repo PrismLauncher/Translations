@@ -3501,17 +3501,17 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation>Rory ID 11 (绘者：Ashtaka)</translation>
+        <translation>Rory ID 11（绘者：Ashtaka）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="386"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation>Rory ID 11（扁平化版本，由Ashtaka绘制）</translation>
+        <translation>Rory ID 11（扁平化版本，绘者：Ashtaka）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teawie（绘者：SympathyTea）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="408"/>
