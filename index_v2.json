@@ -387,12 +387,12 @@
             "untranslated" : 527
         },
         "pt_BR" : {
-            "file" : "49e7c43507dc21375fe486d0393dd2c88d465338.class",
-            "sha1" : "49e7c43507dc21375fe486d0393dd2c88d465338",
-            "size" : 220040,
-            "translated" : 1508,
+            "file" : "cc78e336b33f0704642f3406fbd92cb84668adce.class",
+            "sha1" : "cc78e336b33f0704642f3406fbd92cb84668adce",
+            "size" : 220178,
+            "translated" : 1509,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         },
         "qu" : {
             "file" : "373982fa808dcd9778f6c5ea7c1c1c946df7a0ef.class",
@@ -403,12 +403,12 @@
             "untranslated" : 1509
         },
         "ro" : {
-            "file" : "6ccab2960608a71a2081004f7b298270d3408803.class",
-            "sha1" : "6ccab2960608a71a2081004f7b298270d3408803",
-            "size" : 84587,
-            "translated" : 478,
+            "file" : "f8db3bdcbda9c84ff77a8d6b227aac08473b5164.class",
+            "sha1" : "f8db3bdcbda9c84ff77a8d6b227aac08473b5164",
+            "size" : 84878,
+            "translated" : 479,
             "fuzzy" : 182,
-            "untranslated" : 849
+            "untranslated" : 848
         },
         "ru" : {
             "file" : "140fd97ea4633b02164245ca8301096bf00ad5e9.class",
@@ -459,12 +459,12 @@
             "untranslated" : 1420
         },
         "sv" : {
-            "file" : "d54626b3dc0fd76a1f5e154c3b96abe8033638aa.class",
-            "sha1" : "d54626b3dc0fd76a1f5e154c3b96abe8033638aa",
-            "size" : 216918,
-            "translated" : 1508,
+            "file" : "5e6f907f2ee77910cc6353d37f334187d5083e4a.class",
+            "sha1" : "5e6f907f2ee77910cc6353d37f334187d5083e4a",
+            "size" : 217046,
+            "translated" : 1509,
             "fuzzy" : 0,
-            "untranslated" : 1
+            "untranslated" : 0
         },
         "th" : {
             "file" : "9c40df2c36ea4f0a3632ca58c5ba28eb0ac02589.class",
