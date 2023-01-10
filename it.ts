@@ -3485,7 +3485,7 @@ Potresti dover correggere le mod perché il gioco sta continuando a registrare s
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teawie (disegnato da SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="408"/>
@@ -5022,13 +5022,13 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Accounts</source>
-        <translation>&amp;Accounts</translation>
+        <translation>&amp;Account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1122"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
         <source>Accounts</source>
-        <translation>Accounts</translation>
+        <translation>Account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1628"/>
