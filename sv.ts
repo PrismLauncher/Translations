@@ -3479,7 +3479,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="391"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teawie (ritad av SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="408"/>
