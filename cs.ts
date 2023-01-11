@@ -7560,7 +7560,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat</source>
-        <translation>Flat</translation>
+        <translation>Plochý</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
