@@ -8584,7 +8584,7 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
-        <translation>Vanilla</translation>
+        <translation>Vanille</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
