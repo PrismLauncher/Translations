@@ -1477,7 +1477,7 @@ Ceci pourrait être permanent et il disparaîtra du fichier parent.
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation>Vérifier</translation>
+        <translation>Vérifiez</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
@@ -4814,7 +4814,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1559"/>
         <source>No news available.</source>
-        <translation>Aucune actualité de disponible.</translation>
+        <translation>Aucunes actualités disponibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1686"/>
