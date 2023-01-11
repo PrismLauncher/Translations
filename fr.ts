@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note&#x202f;: uniquement les entrées qui commencent par &lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;http&#x202f;://&lt;/span&gt; ou &lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;https&#x202f;://&lt;/span&gt; seront acceptées.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note : uniquement les entrées qui commencent par &lt;span style=&quot; font-weight :600 ;&quot;&gt;http ://&lt;/span&gt; ou &lt;span style=&quot; font-weight :600 ;&quot;&gt;https ://&lt;/span&gt; seront acceptées.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>https://0x0.st</source>
@@ -188,7 +188,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="704"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Échec d&apos;ouverture des configurations du pack %1&#x202f;!</translation>
+        <translation>Échec d&apos;ouverture des configurations du pack %1 !</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="738"/>
@@ -317,7 +317,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
         <source>Build date: %1</source>
-        <translation>Date du build&#x202f;: %1</translation>
+        <translation>Date du build : %1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -838,7 +838,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     </message>
     <message>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="vanished">Impossible de charger ou télécharger les listes de versions&#x202f;!</translation>
+        <translation type="vanished">Impossible de charger ou télécharger les listes de versions !</translation>
     </message>
     <message>
         <source>Installing</source>
@@ -864,7 +864,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Impossible de charger ou télécharger les listes de versions&#x202f;!</translation>
+        <translation>Impossible de charger ou télécharger les listes de versions !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
@@ -956,7 +956,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation>Dossiers Scannés&#x202f;:</translation>
+        <translation>Dossiers Scannés :</translation>
     </message>
 </context>
 <context>
@@ -1186,7 +1186,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Les commandes de pré-lancement s&apos;exécutent avant le lancement de l&apos;instance, et les commandes de post-arrêt s&apos;exécutent après qu&apos;il ferme.&lt;/p&gt;&lt;p&gt;Les deux vont être exécuté dans le fichier de travail de PolyMC avec des variables environnementales supplémentaires :&lt;/p&gt; &lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (Nom du fichier)&lt;/li&gt;&lt;li&gt;$INST_DIR - Chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Le binaire de Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Paramètres de la ligne de commande utilisés pour le lancement&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande wrapper permet de démarrer en utilisant un programme externe (exemple : &apos;optirun&apos; sur Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Les commandes de pré-lancement s&apos;exécutent avant le lancement de l&apos;instance, et les commandes de post-arrêt s&apos;exécutent après qu&apos;il ferme.&lt;/p&gt;&lt;p&gt;Les deux vont être exécutés dans le fichier principal du launcher avec des variables environnementales supplémentaires :&lt;/p&gt; &lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (Nom du fichier)&lt;/li&gt;&lt;li&gt;$INST_DIR - Chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Le binaire de Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Paramètres de la ligne de commande utilisés pour le lancement (attention : ne fonctionnera pas correctement si les arguments contiennent des espaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande wrapper permet de lancer en utilisant un programme externe (par exemple &apos;optirun&apos; sur Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1448,7 +1448,10 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;effacer %1 élément.
+Ceci pourrait être permanent et ils disparaitront du fichier.
+
+Êtes-vous sur ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1456,12 +1459,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;effacer le fichier &quot;%1&quot;.
+Ceci pourrait être permanent et il disparaîtra du fichier parent.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer le retrait</translation>
     </message>
 </context>
 <context>
@@ -2307,7 +2313,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation>Erreur lors de la création d&apos;une nouvelle instance&#x202f;: 
+        <translation>Erreur lors de la création d&apos;une nouvelle instance : 
 %1</translation>
     </message>
     <message>
@@ -2421,7 +2427,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     </message>
     <message>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="vanished">Type de paquet inconnu ou pas pris en charge pour&#x202f;: %1</translation>
+        <translation type="vanished">Type de paquet inconnu ou pas pris en charge pour : %1</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -2453,7 +2459,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     </message>
     <message>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation type="vanished">Chemin du fichier&#x202f;: %1&lt;/br&gt;URL&#x202f;: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Chemin du fichier : %1&lt;/br&gt;URL : &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Non-whitelisted mods found</source>
@@ -3308,7 +3314,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de jou
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Arrêt de la surveillance des logs du jeu car la longueur du journal dépassait %1 lignes.
-Vous devrez peut-être réparer vos mods car le jeu est toujours en train de générer des logs dans des fichiers et gaspille probablement de l’espace sur le disque dur à un rythme alarmant&#x202f;!</translation>
+Vous devrez peut-être réparer vos mods car le jeu est toujours en train de générer des logs dans des fichiers et gaspille probablement de l’espace sur le disque dur à un rythme alarmant !</translation>
     </message>
 </context>
 <context>
@@ -3441,13 +3447,13 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation>Désactiver l&apos;utilisation des métadonnées pour les mods&#x202f;?</translation>
+        <translation>Désactiver l&apos;utilisation des métadonnées pour les mods ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;; color&#x202f;:#f5c211&#x202f;;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color&#x202f;:#f5c211&#x202f;;&quot;&gt;&#x202f;: Désactiver les métadonnées de mods peut également désactiver certaines fonctionnalités pratiques à venir, comme la mise à jour de mod&#x202f;!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ; color :#f5c211 ;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color :#f5c211 ;&quot;&gt; : Désactiver les métadonnées de mods peut également désactiver certaines fonctionnalités pratiques à venir, comme la mise à jour de mod !&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Breeze Light</source>
@@ -4856,7 +4862,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1930"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation>Voulez-vous vraiment supprimer le groupe %1&#x202f;?</translation>
+        <translation>Voulez-vous vraiment supprimer le groupe %1 ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2029"/>
@@ -4881,7 +4887,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2073"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la Suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2074"/>
@@ -4893,8 +4899,8 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished">Vous êtes sur le point de supprimer %1.
-Ceci est probablement permanent et va complètement supprimer l&apos;instance.
+        <translation>Vous êtes sur le point de supprimer &quot;%1&quot;.
+Ceci pourrait être permanent et va complètement supprimer l&apos;instance.
 
 Êtes-vous sûr ?</translation>
     </message>
@@ -4949,7 +4955,7 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2269"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2311"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Créé un raccourci vers cette instance sur votre bureau&#x202f;!</translation>
+        <translation>Créé un raccourci vers cette instance sur votre bureau !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2210"/>
@@ -4961,7 +4967,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2219"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Le lanceur est exécuté en tant qu&apos;Appimage mal configurée&#x202f;? (Variable d&apos;environnement $APPIMAGE manquante)</translation>
+        <translation>Le lanceur est exécuté en tant qu&apos;Appimage mal configurée ? (Variable d&apos;environnement $APPIMAGE manquante)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2238"/>
@@ -5063,22 +5069,22 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation>Nom du pack&#x202f;:</translation>
+        <translation>Nom du pack :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation>Version actuelle&#x202f;:</translation>
+        <translation>Version actuelle :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation>Informations de Fournisseur&#x202f;:</translation>
+        <translation>Informations de Fournisseur :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation>Mettre à jour vers version&#x202f;:</translation>
+        <translation>Mettre à jour vers version :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
@@ -5093,7 +5099,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
         <source>No changelog available for this version!</source>
-        <translation>Aucun journal des modifications disponible pour cette version&#x202f;!</translation>
+        <translation>Aucun journal des modifications disponible pour cette version !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
@@ -5103,7 +5109,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="88"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>Site web&#x202f;: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID de Pack&#x202f;: %3    |    ID de Version&#x202f;: %4</translation>
+        <translation>Site web : &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID de Pack : %3    |    ID de Version : %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
@@ -5148,7 +5154,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
         <source>Cannot update!</source>
-        <translation>Impossible de mettre à jour&#x202f;!</translation>
+        <translation>Impossible de mettre à jour !</translation>
     </message>
 </context>
 <context>
@@ -5579,7 +5585,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
         <source>Provider</source>
-        <translation type="unfinished">Fournisseur</translation>
+        <translation>Fournisseur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
@@ -6199,9 +6205,9 @@ Veuillez mettre à jour %1 !</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="vanished">Une ou plusieurs instances proviennent de ce même modpack%1. Souhaitez-vous créer une instance séparée, ou mettre à jour une instance existante&#x202f;?
+        <translation type="vanished">Une ou plusieurs instances proviennent de ce même modpack%1. Souhaitez-vous créer une instance séparée, ou mettre à jour une instance existante ?
 
-NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de votre instance avant de mettre à jour, car vos mondes peuvent être corrompus et certaines configurations perdues (à cause des configurations propres au modpack).</translation>
+NOTE : Assurez-vous de faire une sauvegarde des données importantes de votre instance avant de mettre à jour, car vos mondes peuvent être corrompus et certaines configurations perdues (à cause des configurations propres au modpack).</translation>
     </message>
     <message>
         <source>Create new instance</source>
@@ -6223,7 +6229,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Nous n&apos;avons pas pu trouver un fichier d&apos;index adéquat pour l&apos;ancienne version. Cela peut entraîner une duplication de certains fichiers. Souhaitez-vous continuer&#x202f;?</translation>
+        <translation>Nous n&apos;avons pas pu trouver un fichier d&apos;index adéquat pour l&apos;ancienne version. Cela peut entraîner une duplication de certains fichiers. Souhaitez-vous continuer ?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
@@ -6426,7 +6432,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="15"/>
         <source>All attempts have failed!</source>
-        <translation>Toutes les tentatives ont échoué&#x202f;!</translation>
+        <translation>Toutes les tentatives ont échoué !</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="26"/>
@@ -6705,7 +6711,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la Suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -6713,12 +6719,15 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtres sur le point d&apos;effacer &quot;%1&quot;.
+Ceci pourrait être permanent et il va disparaitre du fichier des logs.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer le Nettoyage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
@@ -6832,19 +6841,19 @@ Are you sure?</source>
         <location filename="src/launcher/net/PasteUpload.cpp" line="214"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="243"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Erreur&#x202f;: %1 a renvoyé un corps de réponse malformé</translation>
+        <translation>Erreur : %1 a renvoyé un corps de réponse malformé</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="206"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Erreur&#x202f;: %1 a renvoyé une erreur&#x202f;: %2</translation>
+        <translation>Erreur : %1 a renvoyé une erreur : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="234"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Erreur&#x202f;: %1 a renvoyé un code d&apos;erreur&#x202f;: %2
-Message d&apos;erreur&#x202f;: %3</translation>
+        <translation>Erreur : %1 a renvoyé un code d&apos;erreur : %2
+Message d&apos;erreur : %3</translation>
     </message>
 </context>
 <context>
@@ -7097,7 +7106,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Remarque&#x202f;: le nom d&apos;utilisateur et le mot de passe du proxy sont stockés en texte brut à l&apos;intérieur du fichier de configuration du launcher&#x202f;!</translation>
+        <translation>Remarque : le nom d&apos;utilisateur et le mot de passe du proxy sont stockés en texte brut à l&apos;intérieur du fichier de configuration du launcher !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
@@ -7188,7 +7197,10 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;upload &quot;%1&quot; sur %2.
+Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnelle.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="88"/>
@@ -7513,10 +7525,10 @@ Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de la
 
 Old name: %1
 New name: %2</source>
-        <translation>Le nom de l&apos;instance semble contenir l&apos;ancienne version. Voulez-vous le mettre à jour&#x202f;?
+        <translation>Le nom de l&apos;instance semble contenir l&apos;ancienne version. Voulez-vous le mettre à jour ?
 
-Ancien nom&#x202f;: %1
-Nouveau nom&#x202f;: %2</translation>
+Ancien nom : %1
+Nouveau nom : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
@@ -7528,9 +7540,9 @@ Nouveau nom&#x202f;: %2</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Au moins une de vos instances viennent du même modpack%1. Voulez-vous créer une instance séparée, ou mettre à jour l&apos;existante&#x202f;?
+        <translation>Au moins une de vos instances viennent du même modpack%1. Voulez-vous créer une instance séparée, ou mettre à jour l&apos;existante ?
 
-NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données importantes de l&apos;instance avant de mettre à jour, étant donné que les mondes peuvent se corrompre et certaines configurations peuvent se perdre (en raison de contournements du pack).</translation>
+NOTE : Assurez-vous d&apos;avoir fait une sauvegarde de vos données importantes de l&apos;instance avant de mettre à jour, étant donné que les mondes peuvent se corrompre et certaines configurations peuvent se perdre (en raison de contournements du pack).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
@@ -7550,52 +7562,52 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Colored Icons)</source>
-        <translation type="unfinished">Simple (îcônes colorées)</translation>
+        <translation>Simple (Icônes Colorés)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Light Icons)</source>
-        <translation type="unfinished">Simple (icônes claires)</translation>
+        <translation>Simple (Icônes Clairs)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Dark Icons)</source>
-        <translation type="unfinished">Simple (icônes sombres)</translation>
+        <translation>Simple (Icônes Sombres)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Simple (Blue Icons)</source>
-        <translation type="unfinished">Simple (îcônes bleutées)</translation>
+        <translation>Simple (Icônes Bleutés)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Light</source>
-        <translation type="unfinished">Brise Claire</translation>
+        <translation>Brise Claire</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished">Brise Sombre</translation>
+        <translation>Brise Sombre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>OSX</source>
-        <translation type="unfinished"></translation>
+        <translation>OSX</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat</source>
-        <translation type="unfinished">Plat</translation>
+        <translation>Plat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Flat (White)</source>
-        <translation type="unfinished">Plat (Blanc)</translation>
+        <translation>Plat (Blanc)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
@@ -7605,27 +7617,27 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
         <source>Custom</source>
-        <translation type="unfinished">Personnalisé</translation>
+        <translation>Personnalisé</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished">Chat en arrière-plan (de MultiMC)</translation>
+        <translation>Chat D&apos;arrière-Plan (de MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished">Rory ID 11 (dessiné par Ashtaka)</translation>
+        <translation>Rory ID 11 (dessiné par Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="74"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished">Rory ID 11 (édition plate, dessiné par Ashtaka)</translation>
+        <translation>Rory ID 11 (édition plate, dessiné par Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teawie (dessiné par SympathyTea</translation>
     </message>
 </context>
 <context>
@@ -7802,14 +7814,16 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;envoyer &amp;1 captures d&apos;écran.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation>Vous allez envoyer la capture d&apos;écran sélectionnée.
+        <translation>Vous êtes sur le point d&apos;envoyer la capture d&apos;écran sélectionnée.
 
 Êtes-vous sûr ?</translation>
     </message>
@@ -7847,7 +7861,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;effacer %1 captures d&apos;écran.
+Ceci pourrait être permanent et ils disparaîtront du fichier.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -7855,12 +7872,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;effacer la capture d&apos;écran sélectionnée.
+Ceci pourrait être permanent et ils disparaîtront du fichier.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la Suppression</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -7977,7 +7997,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la Suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7985,7 +8005,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;effacer &quot;%1&quot;.
+Cette action est permanente et ce serveur disparaîtra de votre liste pour toujours (C&apos;EST TRÈS LONG).
+
+Êtes-vous sûr ?</translation>
     </message>
 </context>
 <context>
@@ -8013,7 +8036,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
         <source>%1 Quick Setup</source>
-        <translation>Configuration rapide de %1</translation>
+        <translation>Configuration Rapide de %1</translation>
     </message>
 </context>
 <context>
@@ -8065,7 +8088,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
         <source>Player Model</source>
-        <translation>Modèle du joueur</translation>
+        <translation>Modèle du Joueur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="61"/>
@@ -8173,7 +8196,7 @@ Are you sure?</source>
     <message>
         <source>Resolving modpack files:
 %1</source>
-        <translation type="vanished">Résolution des fichiers du pack de mods&#x202f;:
+        <translation type="vanished">Résolution des fichiers du pack de mods :
 %1</translation>
     </message>
     <message>
@@ -8334,24 +8357,24 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished">&amp;Icônes</translation>
+        <translation>&amp;Icônes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation type="unfinished">&amp;Couleurs</translation>
+        <translation>&amp;Couleurs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le chat apparaît en arrière-plan et n&apos;est pas visible par défault. Il n&apos;est rendu visible qu&apos;en appuyant sur le bouton Chat dans la Barre d&apos;Outils.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation type="unfinished">Ch&amp;at</translation>
+        <translation>Ch&amp;at</translation>
     </message>
 </context>
 <context>
@@ -8359,27 +8382,27 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Page d&apos;Assistance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez le Thème que vous souhaitez utiliser</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conseil : Le chat apparaît en arrière-plan et n&apos;est pas visible par défault. Il n&apos;est rendu visible qu&apos;en appuyant sur le bouton Chat dans la Barre d&apos;Outils.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Aperçu :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le chat qui apparaît en arrière-plan n&apos;a pas d&apos;utilité, il est purement visuel.</translation>
     </message>
 </context>
 <context>
@@ -8874,7 +8897,7 @@ Veuillez passer à l&apos;une des versions Java suivantes pour cette instance :<
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la Suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -8882,7 +8905,10 @@ Veuillez passer à l&apos;une des versions Java suivantes pour cette instance :<
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point de retirer &quot;%1&quot;.
+Ceci est permanent et va complètement effacer le composant personnalisé.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
@@ -8944,7 +8970,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la Réversion</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
@@ -8952,7 +8978,10 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous allez rétablir &quot;%1&quot;.
+Ceci est permanent et va complètement rétablir vous personnalisations.
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -9351,7 +9380,7 @@ Voulez-vous vraiment continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la Suppression</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -9359,7 +9388,10 @@ Voulez-vous vraiment continuer ?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;effacer &quot;%1&quot;.
+Ce monde pourrait disparaître pour toujours (C&apos;EST TRÈS LONG).
+
+Êtes-vous sûr ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
