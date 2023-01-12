@@ -5535,7 +5535,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
@@ -5555,7 +5555,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>託管平台</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
@@ -5580,7 +5580,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>從哪裡下載的模組。</translation>
     </message>
 </context>
 <context>
@@ -8341,7 +8341,7 @@ inheritsFrom 引數缺失</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>嚮導頁面</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
