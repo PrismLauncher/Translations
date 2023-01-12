@@ -7359,82 +7359,82 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Colored Icons)</source>
-        <translation type="unfinished">Enkla (färgade ikoner)</translation>
+        <translation>Enkla (färgade ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Light Icons)</source>
-        <translation type="unfinished">Enkla (ljusa ikoner)</translation>
+        <translation>Enkla (ljusa ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Dark Icons)</source>
-        <translation type="unfinished">Enkla (mörka ikoner)</translation>
+        <translation>Enkla (mörka ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Simple (Blue Icons)</source>
-        <translation type="unfinished">Enkla (blå ikoner)</translation>
+        <translation>Enkla (blå ikoner)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Light</source>
-        <translation type="unfinished">Breeze ljus</translation>
+        <translation>Breeze ljus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished">Breeze mörk</translation>
+        <translation>Breeze mörk</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>OSX</source>
-        <translation type="unfinished"></translation>
+        <translation>OSX</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat</source>
-        <translation type="unfinished">Platta</translation>
+        <translation>Platta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Flat (White)</source>
-        <translation type="unfinished">Platta (vita)</translation>
+        <translation>Platta (vita)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Legacy</source>
-        <translation type="unfinished">Legacy</translation>
+        <translation>Legacy</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
         <source>Custom</source>
-        <translation type="unfinished">Egna</translation>
+        <translation>Egna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished">Bakgrundskatt (från MultiMC)</translation>
+        <translation>Bakgrundskatt (från MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished">Rory ID 11 (ritad av Ashtaka)</translation>
+        <translation>Rory ID 11 (ritad av Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="74"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished">Rory ID 11 (platt version, ritad av Ashtaka)</translation>
+        <translation>Rory ID 11 (platt version, ritad av Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished">Teawie (ritad av SympathyTea)</translation>
+        <translation>Teawie (ritad av SympathyTea)</translation>
     </message>
 </context>
 <context>
@@ -8154,24 +8154,24 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished">&amp;Ikoner</translation>
+        <translation>&amp;Ikoner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation type="unfinished">&amp;Färger</translation>
+        <translation>&amp;Färger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katten visas i bakgrunden och är inte synlig från början. Den görs endast synlig när du klickar på Katt-knappen i verktygsfältet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation type="unfinished">&amp;Katt</translation>
+        <translation>&amp;Katt</translation>
     </message>
 </context>
 <context>
@@ -8179,27 +8179,27 @@ inheritsFrom saknas</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Startguide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj det tema du vill använda</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tips: Katten visas i bakgrunden och är inte synlig från början. Den görs endast synlig när du klickar på Katt-knappen i verktygsfältet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Förhandsvisning:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katten visas i bakgrunden och har inget syfte, den är rent visuell.</translation>
     </message>
 </context>
 <context>
