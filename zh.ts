@@ -8370,7 +8370,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>猫会出现在背景且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
+        <translation>猫出现在背景中且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
@@ -8393,7 +8393,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>提示：猫会出现在背景且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
+        <translation>提示：猫出现在背景中且默认不会显示。它可以通过点击工具栏上的猫按钮来显示。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
@@ -8403,7 +8403,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>猫出现在背景中且没有任何目的，它只提供一个视觉效果。</translation>
     </message>
 </context>
 <context>
