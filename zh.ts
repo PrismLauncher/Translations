@@ -296,22 +296,22 @@
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="132"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
         <source>About %1</source>
         <translation>关于 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="148"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
         <source>Platform</source>
         <translation>平台</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="153"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
         <translation>提交：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="158"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
         <translation>构建日期：%1</translation>
     </message>
@@ -320,7 +320,7 @@
         <translation type="vanished">内部版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Channel</source>
         <translation>频道</translation>
     </message>
@@ -1826,12 +1826,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>FlameManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="317"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="315"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
         <translation>&lt;h1&gt;您好！ &lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎为空。这是因为旧版本启动器中存在错误。 &lt;br/&gt;如果没有此信息，我们将无法执行正确的 API 请求。 &lt;br/&gt;&lt;br/&gt;所以为了使此功能正常工作， 您需要从内置下载器重新下载模组包。 &lt;br/&gt;&lt;br/&gt;下载器会要求您更新此实例，所以您不必担心会丢失此实例！ &lt;/h4&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="379"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>%1 (Current)</source>
         <translation>%1（当前）</translation>
     </message>
@@ -2661,6 +2661,16 @@ Proceed with caution!</source>
         <translation>使用系统中的 OpenAL</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="614"/>
+        <source>Override default account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="368"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="541"/>
         <source>Miscellaneous</source>
@@ -2728,37 +2738,42 @@ Proceed with caution!</source>
         <translation>服务器地址：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="63"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="360"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="372"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>你的系统上找不到 Feral Interactive 的 GameMode。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="365"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>你的系统上找不到 MangoHud。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="386"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
         <source>Select a Java version</source>
         <translation>选择一个 Java 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="404"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="419"/>
         <source>Find Java executable</source>
         <translation>寻找 Java 可执行文件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="465"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
+        <source>No default account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="539"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>分配的最大内存超过系统内存容量。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="468"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="542"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>分配的最大内存接近系统内存容量。</translation>
     </message>
@@ -3112,12 +3127,12 @@ Please select one of the following or browse for a java executable.</oldsource>
         <translation>要玩 Minecraft，你必须至少登录一个微软或 Mojang 账户。Mojang 账号只能离线使用。您想现在打开账号管理添加一个账户吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="120"/>
+        <location filename="src/launcher/LaunchController.cpp" line="128"/>
         <source>Which account would you like to use?</source>
         <translation>你想使用哪个帐户？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="144"/>
+        <location filename="src/launcher/LaunchController.cpp" line="152"/>
         <source>No account selected for launch.</source>
         <translation>没有选中用于启动游戏的账户。</translation>
     </message>
@@ -3126,42 +3141,42 @@ Please select one of the following or browse for a java executable.</oldsource>
         <translation type="vanished">您的账户已登出。请再次输入密码并重新登录。&lt;br /&gt; &lt;br /&gt; 这可能是因为您更改了密码。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="157"/>
+        <location filename="src/launcher/LaunchController.cpp" line="165"/>
         <source>Continue launch?</source>
         <translation>继续启动？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="158"/>
+        <location filename="src/launcher/LaunchController.cpp" line="166"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
         <translation>在 %1 次尝试后，我们似乎无法启动。 你想继续尝试吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="198"/>
+        <location filename="src/launcher/LaunchController.cpp" line="206"/>
         <source>Player name</source>
         <translation>玩家名称</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="189"/>
+        <location filename="src/launcher/LaunchController.cpp" line="197"/>
         <source>Choose your offline mode player name.</source>
         <translation>选择离线游戏时的玩家名称。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="191"/>
+        <location filename="src/launcher/LaunchController.cpp" line="199"/>
         <source>Choose your demo mode player name.</source>
         <translation>选择体验版玩家名。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="228"/>
+        <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Received undetermined session status during login.</source>
         <translation>登录时收到了不确定的会话状态。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="239"/>
+        <location filename="src/launcher/LaunchController.cpp" line="247"/>
         <source>Play demo?</source>
         <translation>是否游玩演示模式？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="240"/>
+        <location filename="src/launcher/LaunchController.cpp" line="248"/>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play it.
 
@@ -3172,84 +3187,84 @@ Do you want to play the demo?</source>
 是否游玩演示模式？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="242"/>
+        <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Play Demo</source>
         <translation>游玩演示</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="243"/>
+        <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="253"/>
+        <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
         <translation>启动已取消 - 账户未持有 Minecraft。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="269"/>
+        <location filename="src/launcher/LaunchController.cpp" line="277"/>
         <source>Play Offline</source>
         <translation>离线游戏</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="282"/>
+        <location filename="src/launcher/LaunchController.cpp" line="290"/>
         <source>The account has expired and needs to be logged into manually again.</source>
         <translation>帐户已过期，需要手动重新登录。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="285"/>
+        <location filename="src/launcher/LaunchController.cpp" line="293"/>
         <source>Account refresh failed</source>
         <translation>账户刷新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="294"/>
+        <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
         <translation>启动器的客户端标识已更改。请删除此帐户，然后重新添加。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="297"/>
+        <location filename="src/launcher/LaunchController.cpp" line="305"/>
         <source>Client identification changed</source>
         <translation>客户端标识已更改</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="306"/>
+        <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
         <translation>服务器上不再存在该帐户。它可能已迁移，在这种情况下，请添加您迁移到的新账户。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="309"/>
+        <location filename="src/launcher/LaunchController.cpp" line="317"/>
         <source>Account gone</source>
         <translation>账户遗失了</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="319"/>
+        <location filename="src/launcher/LaunchController.cpp" line="327"/>
         <source>Failed to launch.</source>
         <translation>启动失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
-        <location filename="src/launcher/LaunchController.cpp" line="401"/>
+        <location filename="src/launcher/LaunchController.cpp" line="337"/>
+        <location filename="src/launcher/LaunchController.cpp" line="409"/>
         <source>Error!</source>
         <translation>错误！</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="329"/>
-        <location filename="src/launcher/LaunchController.cpp" line="330"/>
+        <location filename="src/launcher/LaunchController.cpp" line="337"/>
+        <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>无法加载实例配置文件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="337"/>
+        <location filename="src/launcher/LaunchController.cpp" line="345"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
         <translation>无法实例化一个启动器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="401"/>
+        <location filename="src/launcher/LaunchController.cpp" line="409"/>
         <source>Couldn&apos;t start profiler: %1</source>
         <translation>无法启动 Profiler：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="410"/>
+        <location filename="src/launcher/LaunchController.cpp" line="418"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
@@ -3258,37 +3273,37 @@ Do you want to play the demo?</source>
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="413"/>
+        <location filename="src/launcher/LaunchController.cpp" line="421"/>
         <source>Waiting.</source>
         <translation>等待中.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="415"/>
+        <location filename="src/launcher/LaunchController.cpp" line="423"/>
         <source>Launch</source>
         <translation>运行</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="423"/>
+        <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation>无法启动 Profiler：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="424"/>
+        <location filename="src/launcher/LaunchController.cpp" line="432"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="452"/>
+        <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="468"/>
+        <location filename="src/launcher/LaunchController.cpp" line="476"/>
         <source>Kill Minecraft?</source>
         <translation>强行退出 Minecraft？</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="469"/>
+        <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>这可能导致实例出现错误，这应该只在 Minecraft 由于一些原因冻结的时候使用</translation>
     </message>
@@ -5104,52 +5119,52 @@ Are you sure?</source>
         <translation>重新加载页面</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="88"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="87"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
         <translation>网站：&lt;a href=%1&gt;%2&lt;/a&gt;    |    模组包 ID：%3    |    版本 ID：%4</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="130"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="135"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="137"/>
         <source>Task aborted</source>
         <translation>任务已终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="138"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="137"/>
         <source>The task has been aborted by the user.</source>
         <translation>任务已被用户终止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="142"/>
         <source>Abort</source>
         <translation>终止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="151"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
         <source>Update pack</source>
         <translation>更新模组包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
         <source>Failed to search for available versions.</source>
         <translation>搜索可用版本失败。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="165"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="164"/>
         <source>Failed to request changelog data for this modpack.</source>
         <translation>无法获取此模组包的更新日志数据。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="167"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="166"/>
         <source>Cannot update!</source>
         <translation>无法更新！</translation>
     </message>
@@ -5189,32 +5204,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="823"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="826"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="830"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="829"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="833"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="831"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="903"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
         <source>broken</source>
         <translation>损坏</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="915"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -5223,17 +5238,17 @@ Are you sure?</source>
         <translation type="vanished">Minecraft %1 （%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="923"/>
         <source>, last played for %1</source>
         <translation>，最后一次游玩时长: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="923"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="927"/>
         <source>, total played for %1</source>
         <translation>，此实例总游玩时长：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
         <source>, has crashed.</source>
         <translation>，最后一次运行发生崩溃。</translation>
     </message>
@@ -5818,7 +5833,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="368"/>
         <source>Select mod for download</source>
         <translation>选择要下载的模组</translation>
     </message>
@@ -5828,62 +5843,62 @@ Are you sure?</source>
         <translation>过滤选项</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="393"/>
         <source> by </source>
         <translation> 作者 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="196"/>
         <source>Loading versions...</source>
         <translation>正在加载版本……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="204"/>
         <source>No valid version found.</source>
         <translation>未找到有效版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="352"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="350"/>
         <source>No valid version found!</source>
         <translation>未找到有效版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="353"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="351"/>
         <source>Cannot select invalid version :(</source>
         <translation>不能选择无效的版本 :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="370"/>
         <source>Deselect mod for download</source>
         <translation>取消选择要下载的模组</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="398"/>
         <source>Donate information: </source>
         <translation>赞助信息： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="413"/>
         <source>External links:</source>
         <translation>外部链接：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="417"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>问题：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="421"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="419"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="423"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="421"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="425"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="423"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -6298,12 +6313,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
         <source>%1 (Current)</source>
         <translation>%1（当前）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="251"/>
+        <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
         <source>Fetching changelogs...</source>
         <translation>正在获取变更日志...</translation>
     </message>
@@ -6364,7 +6379,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="obsolete">搜索和过滤……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Relevance</source>
         <oldsource>Sort by Relevence</oldsource>
         <translation>按相关度排序</translation>
@@ -6374,59 +6389,59 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">按下载量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Follows</source>
         <translation>按关注数排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="70"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
         <translation>按最后更新时间排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
         <translation>按最新排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Total Downloads</source>
         <translation>按总下载量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="249"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
         <source> by </source>
         <translation> 作者 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="253"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="252"/>
         <source>Donate information: </source>
         <translation>赞助信息： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="268"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>External links:</source>
         <translation>外部链接：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="272"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>问题： &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="274"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="276"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="275"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="278"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="277"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
@@ -7133,22 +7148,22 @@ Choose your name carefully:</source>
         <translation>明亮</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="156"/>
         <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;当前版本与来自 %1 频道的最新版本没有任何区别，请静静等待下一个更新！&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="160"/>
         <source>&lt;p&gt;Following commits were added since last update:&lt;/p&gt;</source>
         <translation>&lt;p&gt;这些提交在最后一次更新之前被添加：&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="168"/>
+        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="167"/>
         <source>&lt;p&gt;The update removes %1 commits and adds the following %2:&lt;/p&gt;</source>
         <translation>&lt;p&gt;此次更新移除了 %1 个提交并添加了以下 %2：&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="171"/>
+        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="170"/>
         <source>&lt;p&gt;You can &lt;a href=&quot;%1&quot;&gt;look at the changes on github&lt;/a&gt;.&lt;/p&gt;</source>
         <translation>&lt;p&gt;你可以&lt;a href=&quot;%1&quot;&gt;在 GitHub 查看这些更新&lt;/a&gt;。&lt;/p&gt;</translation>
     </message>
@@ -7158,13 +7173,13 @@ Choose your name carefully:</source>
         <translation type="obsolete">开发人员</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="53"/>
         <source>Website</source>
         <translation>网站</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="73"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="86"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="85"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
@@ -7177,7 +7192,7 @@ Choose your name carefully:</source>
         <translation type="vanished">%1 贡献者</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="93"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation>感谢</translation>
@@ -8496,7 +8511,7 @@ inheritsFrom is missing</source>
         <translation>&lt;center&gt;&lt;h1&gt;正在加载更新日志……&lt;/h1&gt;&lt;/center&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="200"/>
+        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="199"/>
         <source>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Failed to fetch changelog... Error: %1&lt;/span&gt;&lt;/p&gt;</source>
         <translation>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;版本更新修改日志获取失败…… 错误：%1&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
