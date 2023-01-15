@@ -1182,7 +1182,7 @@ OSと%1をアップデートしてください。</translation>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中止</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1491,7 +1491,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM　実行ファイル</translation>
+        <translation>JVisualVM&#x3000;実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -1568,7 +1568,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
@@ -3732,7 +3732,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -4892,7 +4892,7 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中止</translation>
     </message>
 </context>
 <context>
@@ -4952,7 +4952,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中止</translation>
     </message>
 </context>
 <context>
@@ -5417,7 +5417,7 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
@@ -6420,7 +6420,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="373"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="640"/>
