@@ -18,17 +18,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>Baza &amp; URL</translation>
+        <translation>Baza &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Notă: probabil doriți să modificați sau șterge baza URL-ului dupa ce schimbați tipul serviciului de lipire.</translation>
+        <translation>Notă: probabil doriți să modificați sau șterge baza URL-ului după ce schimbați tipul serviciului de lipire.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation>API Chei</translation>
+        <translation>Chei API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Notă: probabil nu este nevoie să setați aceasta daca logarea prin Autentificare Microsoft merge deja.</translation>
+        <translation>Notă: probabil nu este nevoie să setați aceasta dacă logarea prin Autentificare Microsoft merge deja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Adaugati un ID personalizat pentru Autentificare cu Microsoft aici.</translation>
+        <translation>Adăugați un ID personalizat pentru Autentificare cu Microsoft aici.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -658,12 +658,12 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/Application.cpp" line="1639"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pare că ați folosit deja %1 pe %2 înainte. Doriți să vă migrați datele în noua locație a lui %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1681"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Migrarea a eșuat! Motiv: %1</translation>
     </message>
 </context>
 <context>
@@ -727,7 +727,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Sortează după versiune</translation>
+        <translation>Sortează după versiunea jocului</translation>
     </message>
 </context>
 <context>
@@ -760,7 +760,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished">Selectați un cod de partajare</translation>
+        <translation>Selectați un cod de partajare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
@@ -830,22 +830,22 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nici o versiune momentan disponibilă pentru Minecraft %1</translation>
+        <translation>Nici o versiune este momentan disponibilă pentru Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Nu este disponibil nicio versiune</translation>
+        <translation>Momentan nu este disponibilă nicio versiune</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Nu s-a putut încărca sau descărca listele de versiuni!</translation>
+        <translation>Nu s-au putut încărca sau descărca listele cu versiuni!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
         <source>Installing</source>
-        <translation type="unfinished">Se instalează</translation>
+        <translation>Se instalează</translation>
     </message>
 </context>
 <context>
@@ -883,42 +883,42 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="163"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate modurile au fost găsite</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="166"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Te rog descarcă modurile lipsă.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="145"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Găsit la %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="49"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide Lipsă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă Folder de Descărcări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="128"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează directorul unde ați descărcat modurile</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Nu a fost Găsit &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="150"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Funcție hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
@@ -936,7 +936,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished">Echiparea pelerinei</translation>
+        <translation>Echipează pelerina</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
@@ -949,7 +949,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>Biblioteca de verificare Java nu a putut fi gasita. Va rugam verificati instalatia.</translation>
+        <translation>Biblioteca de verificare Java nu a putut fi găsita. Va rugam verificați instalația.</translation>
     </message>
 </context>
 <context>
@@ -957,32 +957,32 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation>Alegeti un furnizor de moduri</translation>
+        <translation>Alegeți un furnizor de moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation>Sariti peste acest mod</translation>
+        <translation>Treceți peste acest mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation>Treceti peste tot</translation>
+        <translation>Săriți tot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation>Confirmati tot</translation>
+        <translation>Confirmați tot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation>Confirmati</translation>
+        <translation>Confirmați</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished">Incercati sa alegeti un alt furnizor automat daca cel ales nu functioneaza</translation>
+        <translation>Încercați sa alegeți un alt furnizor automat dacă cel ales nu funcționează</translation>
     </message>
 </context>
 <context>
@@ -1054,27 +1054,27 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectați tot</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezactivarea acestuia nu va șterge încărcătorul de moduri (ex: Fabric, Quilt, etc.) dar va șterge folderul de moduri și configurările lor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Copie moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiați opțiunile din joc precum FOV, frecvenţa cadrelor maximă, etc.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiați opțiunile din joc</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
@@ -1084,27 +1084,27 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiați pachetele de shadere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiați serverele</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiați pachetele de resurse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
         <source>Keep play time</source>
-        <translation>Pastrează timpul jucat</translation>
+        <translation>Păstrează timpul jucat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiați capturile de ecran</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
@@ -1134,7 +1134,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">&amp;Comenzi personalizate</translation>
+        <translation>&amp;Comenzi personalizate</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
@@ -1146,13 +1146,13 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Comandă pre-lansare:</translation>
+        <translation>&amp;Comandă pre-lansare:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished">Comandă wrapper:</translation>
+        <translation>&amp;Comandă wrapper:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1166,7 +1166,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
-        <translation>Comenzi Custom</translation>
+        <translation>Comenzi personalizate</translation>
     </message>
 </context>
 <context>
@@ -1174,17 +1174,17 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanez fișiere...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eșec la scanarea calei sursă.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiez %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
@@ -1195,7 +1195,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Unele căi nu au putut fi copiate!</translation>
     </message>
 </context>
 <context>
@@ -1216,7 +1216,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
-        <translation>Jocul s-a blocat.</translation>
+        <translation>Jocul s-a defectat.</translation>
     </message>
 </context>
 <context>
@@ -1242,29 +1242,29 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation>Se verifica daca modurile au date atasate...</translation>
+        <translation>Se verifica dacă modurile au metadate atașate...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>Cerem data atasate de la %1...</translation>
+        <translation>Cerem metadate atașate de la %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>Cerem data atasate de la %1 pentru &apos;%2&apos;...</translation>
+        <translation>Cerem metadata atașată de la %1 pentru &apos;%2&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>Analizam raspunsul API de la Modrinth pentru &apos;%1&apos;...</translation>
+        <translation>Analizăm răspunsul API de la Modrinth pentru &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Analizam raspunsul API de la CurseForge pentru &apos;%1&apos;...</translation>
+        <translation>Analizăm răspunsul API de la CurseForge pentru &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -1295,12 +1295,12 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="412"/>
         <source>Overwrite?</source>
-        <translation>Inlocuiesti ce este existent?</translation>
+        <translation>Înlocuiești ce este existent?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
         <source>This file already exists. Do you want to overwrite it?</source>
-        <translation>Acest fișier există deja. Doresti să-l inlocuiesti?</translation>
+        <translation>Acest fișier există deja. Dorești să-l înlocuiești?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="428"/>
