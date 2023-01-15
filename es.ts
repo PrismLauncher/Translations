@@ -2657,7 +2657,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuenta:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="368"/>
@@ -2754,7 +2754,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
         <source>No default account</source>
-        <translation type="unfinished"></translation>
+        <translation>No cuenta por defecto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="539"/>
@@ -3441,7 +3441,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation>Modificaciones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -4374,7 +4374,7 @@ Motivo:
         <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Ajustes... (&amp;N)</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="358"/>
@@ -4419,7 +4419,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
         <source>Sub&amp;reddit</source>
-        <translation>Sub&amp;reddit</translation>
+        <translation>Subreddit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
@@ -4779,7 +4779,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
         <source>Profilers</source>
-        <translation>Profilers</translation>
+        <translation>Perfiladores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
