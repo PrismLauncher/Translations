@@ -531,7 +531,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft認証のクライアントIDが設定されていません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -567,12 +567,12 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>オフラインのアカウントを追加する前に、Minecraftを所有しているMicrosoftまたはMojangのアカウントを追加する必要があります。&lt;br&gt;&lt;br&gt;アカウントを紛失した場合は、Microsoftに連絡してサポートを受けることができます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>オフラインのアカウントを追加するには、ご希望のユーザー名を入力してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -605,7 +605,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>クライアントIDが変更されました。新しいセッションを作成する必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -643,7 +643,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1205"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1629"/>
