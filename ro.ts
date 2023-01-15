@@ -66,7 +66,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Adaugati un Agent de Uitilizator personalizat aici. Codul special $LAUNCHER_VER va fi înlocuit cu versiunea launcher -ului.</translation>
+        <translation>Adăugați un Agent de Utilizator personalizat aici. Codul special $LAUNCHER_VER va fi înlocuit cu versiunea lansatorului.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -81,23 +81,23 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Introduceți un URL personalizat pentru meta aici.</translation>
+        <translation>Introduceți un URL personalizat pentru metadate aici.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>API-ul de Baza &amp;CurseForge</translation>
+        <translation>API-ul de Bază &amp;CurseForge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Notă: probabil nu trebuie sa modificați acest câmp daca CurseForge merge deja.</translation>
+        <translation>Notă: probabil nu trebuie sa modificați acest câmp dacă CurseForge merge deja.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Introduceți o cheie de API pentru CurseForge aici.</translation>
+        <translation>Introduceți o cheie API pentru CurseForge aici.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -491,7 +491,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation>Sterge skinul activ și revino la cel implicit</translation>
+        <translation>Șterge skinul activ și revino la cel implicit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
@@ -923,12 +923,12 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folderele globale de moduri și implicite pentru descărcări sunt verificate automat pentru modurile descărcate și ele vor fi copiate în instanță dacă sunt găsite.&lt;/p&gt;&lt;p&gt;Opțional, puteți da &quot;drag and drop&quot; modurilor descărcate în acest dialog sau adăuga un folder pentru a-l urmări dacă nu ați descărcat modurile într-o locație prestabilită.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Foldere urmărite:</translation>
     </message>
 </context>
 <context>
@@ -1158,7 +1158,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Comanda pre-lansate rulează înainte de lansarea instanței și comanda post-ieșire rulează după ce instanța a ieșit.&lt;/p&gt;&lt;p&gt;Amândouă vor fii rulate în folderul lucrător al lansatorului cu variabile de mediu extra:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Numele instanței&lt;/li&gt;&lt;li&gt;$INST_ID - ID-ul instanței (numele folderului său)&lt;/li&gt;&lt;li&gt;$INST_DIR - calea absolută a instanței&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - calea absolută a Minecraft-ului&lt;/li&gt;&lt;li&gt;$INST_JAVA - Fișierul Java binar folosit pentru lansare&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parametri liniei de comandă folosiți pentru lansare (atenție: nu va funcționa corect dacă argumentele conțin spații)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comanda &quot;Wrapper&quot; permite lansare unui program extra wrapper (cum ar fi &apos;optirun&apos; pe Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1190,7 +1190,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Anulat</translation>
+        <translation>Anulat</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1340,79 +1340,79 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Elimină</translation>
+        <translation>&amp;Elimină</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină elementul selectat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Activează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Activează elementul selectat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished">&amp;Dezactivează</translation>
+        <translation>&amp;Dezactivează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezactivează elementul selectat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizează &amp;Configurări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide folderul &apos;config&apos; în managerul de fișiere al sistemului.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizează &amp;folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="140"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Descarcă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarcă o resursă nouă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifică &amp;Actualizări</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Încearcă să verifici sau să actualizezi toate resursele selectate (toate resursele dacă nimic nu a fost selectat)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
         <source>Context menu</source>
-        <translation type="unfinished">Meniu contextual</translation>
+        <translation>Meniu contextual</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selectează %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="179"/>
@@ -1420,7 +1420,10 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești pe cale de a șterge %i elementele.
+Asta ar putea fi permanent și ele for dispărea din folder.
+
+Sunteți sigur?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1428,12 +1431,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunteți pe cale de a șterge folderul &quot;%1&quot;.
+Asta ar putea fi permanent și aceasta va dispărea din folderul părinte.
+
+Sunteți sigur?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmați Ștergerea</translation>
     </message>
 </context>
 <context>
@@ -1454,7 +1460,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">&amp;Editor de text:</translation>
+        <translation>&amp;Editor de text:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -1550,7 +1556,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation>Fișierul ales nu pare să fie o executabila</translation>
+        <translation>Fișierul ales nu pare să fie executabil</translation>
     </message>
 </context>
 <context>
@@ -1558,7 +1564,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Nu s-a putut extrage jar-ul nativ &apos;%1&apos; la destinatia &apos;%2&apos;</translation>
+        <translation>Nu s-a putut extrage jar-ul nativ &apos;%1&apos; la destinația &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -1576,7 +1582,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished">Anulat</translation>
+        <translation>Anulat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
@@ -1617,7 +1623,7 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>API-ul a returnat date invalide.</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -1629,34 +1635,34 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparând modurile pentru CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>Modurile dezactivate nu for fii actualizate, pentru a prevenii problemele cu duplicarea modurilor!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Primind un răspund API de la CurseForge de la &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizez răspunsul API primit de la CurseForge pentru &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu a fost găsită nicio versiune validă pentru acest mod. Probabil nu este disponibil pentru versiunea curentă de joc / încărcător de mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modul are o versiune nouă disponibilă, dar nu poate fi descărcată folosind CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1666,13 +1672,13 @@ Vă rugăm să încercați din nou.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="275"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Nu s-a putut înțelege manifestul pachetului:
+        <translation>Nu s-a putut înțelege manifestul pachetului:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="116"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1681,77 +1687,77 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="238"/>
         <source>No index file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu există fișier index.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut găsi un fișier index pentru vechea versiunea veche. Asta ar putea face ca unele fișiere să fie duplicate. Dorești să continui?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Nu s-a putut redenumi folderul pentru overrides:
+        <translation>Nu s-a putut redenumi folderul pentru suprascrieri:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Folderul de overrides specificat (%1) lipseste. Poate modpackul a fost folost deja?</translation>
+        <translation>Folderul de suprascrieri specificat (%1) lipsește. Poate pachetul de moduri a fost folosit deja?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Mod loader necunoscut în manifest: %1</translation>
+        <translation>Încărcător de moduri necunoscut în manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="322"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Punctele misterioase lasate in urma au fost sterse din versiunea Minecraftului in timpul importarii pachetului.</translation>
+        <translation>Punctele misterioase lăsate în urma au fost șterse din versiunea Minecraft-ului în timpul importării pachetului.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished">Nu s-a putut asocia versiunea de Forge recomandată pentru Minecraft %1</translation>
+        <translation>Nu s-a putut asocia versiunea de Forge recomandată pentru Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Nu s-au putut rezolva ID-urile modurilor:
+        <translation>Nu s-au putut rezolva ID-urile modurilor:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="432"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">S-au găsit mod-uri blocate</translation>
+        <translation>S-au găsit mod-uri blocate</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Următoarele mod-uri au fost blocate pe launchere oferite de părți terțe.&lt;br/&gt; Va trebui să le descărcați manual și să le adăugați la pachetul de mod-uri</translation>
+        <translation>Următoarele fișiere nu pot fi descărcate în lansatoare oferite de părți terțe.&lt;br/&gt;Va trebui să le descărcați manual și să le adăugați la instanță.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="510"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiez moduri blocate...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiez moduri blocate(%1 din %2 au fost copiate)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mod download</source>
-        <translation type="unfinished">Descărcare mod</translation>
+        <translation>Descărcare mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished">Acest &apos;Fisier&apos; poate sa aiba nevoie sa fie extras: %1</translation>
+        <translation>Acest &apos;Folder&apos; s-ar putea să aibă nevoie sa fie extras: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="480"/>
@@ -1761,12 +1767,12 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished">Pachet nerecunoscut/nemanipulat pentru: %1</translation>
+        <translation>Pachet nerecunoscut/nemanipulat pentru: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Se descarcă modurile...</translation>
+        <translation>Se descarcă modurile...</translation>
     </message>
 </context>
 <context>
