@@ -203,12 +203,12 @@
             "untranslated" : 3
         },
         "gl" : {
-            "file" : "e0d2b83745f25d389396b79f0a07d0f24b68aedc.class",
-            "sha1" : "e0d2b83745f25d389396b79f0a07d0f24b68aedc",
-            "size" : 111640,
+            "file" : "10f2bdc5b51ef2dd1963617f1a50a70c942baa39.class",
+            "sha1" : "10f2bdc5b51ef2dd1963617f1a50a70c942baa39",
+            "size" : 111725,
             "translated" : 733,
-            "fuzzy" : 134,
-            "untranslated" : 653
+            "fuzzy" : 135,
+            "untranslated" : 652
         },
         "he" : {
             "file" : "2c35a923ca6a801c2233ef1117e47a6aedf6bad3.class",
@@ -267,12 +267,12 @@
             "untranslated" : 3
         },
         "ja" : {
-            "file" : "15846aab8950fd113bb60cfd4d968c68c2bbcc3d.class",
-            "sha1" : "15846aab8950fd113bb60cfd4d968c68c2bbcc3d",
-            "size" : 104409,
+            "file" : "1bcc6e128beda6b881945c6dee8168dcfd1c3d3a.class",
+            "sha1" : "1bcc6e128beda6b881945c6dee8168dcfd1c3d3a",
+            "size" : 104796,
             "translated" : 898,
-            "fuzzy" : 94,
-            "untranslated" : 528
+            "fuzzy" : 101,
+            "untranslated" : 521
         },
         "ja_KANJI" : {
             "file" : "912d1805d0f2942347ad991effbef902db4b5dcc.class",
@@ -403,12 +403,12 @@
             "untranslated" : 1520
         },
         "ro" : {
-            "file" : "d676249aac392e5f2c685fd9defdcf6a753d8c8a.class",
-            "sha1" : "d676249aac392e5f2c685fd9defdcf6a753d8c8a",
-            "size" : 84865,
-            "translated" : 478,
-            "fuzzy" : 183,
-            "untranslated" : 859
+            "file" : "00605a78d85137e7a682d07effc4392b17b8649c.class",
+            "sha1" : "00605a78d85137e7a682d07effc4392b17b8649c",
+            "size" : 88541,
+            "translated" : 511,
+            "fuzzy" : 173,
+            "untranslated" : 836
         },
         "ru" : {
             "file" : "9afb5d824f8c63c228a973c23e1ccda5382d51ea.class",
