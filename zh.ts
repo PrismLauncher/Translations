@@ -5293,7 +5293,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>启动时最大化 Minecrat 窗口（&amp;M）？</translation>
+        <translation>启动时最大化 Minecraft 窗口（&amp;M）？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
