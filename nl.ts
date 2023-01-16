@@ -1816,7 +1816,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="315"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Hey&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof je Pack ID null is. Dit komt door een bug in oudere versies van de Minecraft-launcher.&lt;br/&gt;Jammer genoeg, kunnen wij niet de juiste API opvragingen doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken, zal je de modpack moeten herdownloaden, je kan dit doen via de ingebouwde downloader.&lt;br/&gt;Maar maak je geen zorgen, het zal je vragen om in plaats van een nieuwe instantie te maken, deze te updaten. Je zal dus geen data uit deze instantie verliezen!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Hey&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof je Pack ID null is. Dit komt door een bug in oudere versies van de Minecraft-launcher.&lt;br/&gt;Helaas, kunnen wij niet de juiste API aanroep doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken zal je de modpack opnieuw moeten downloaden vanuit de ingebouwde downloader.&lt;br/&gt;&lt;br/&gt;Maar maak je geen zorgen, er zal gevraagd worden om deze instantie te updaten zodat je deze instantie niet zult verliezen!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
@@ -2252,7 +2252,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand: %1</translation>
     </message>
 </context>
 <context>
@@ -4345,7 +4345,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Vermoord</translation>
+        <translation>&amp;Afbreken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="705"/>
