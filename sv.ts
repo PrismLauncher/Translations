@@ -300,7 +300,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation>Versionnummer: %1</translation>
+        <translation>Datum kompilerat: %1</translation>
     </message>
     <message>
         <source>Version</source>
