@@ -8568,12 +8568,12 @@ inheritsFrom nicht gefunden</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="52"/>
         <source>A new %1 update is available!</source>
-        <translation>Eine neue %1 Version von PolyMC ist verfügbar!</translation>
+        <translation>Eine neue %1 Version ist verfügbar!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="56"/>
         <source>No %1 updates found. You are running the latest version.</source>
-        <translation>Es konnten keine %1 Aktualisierungen für PolyMC gefunden werden! Du verwendest bereits die neueste Version.</translation>
+        <translation>Es konnten keine %1 Aktualisierungen gefunden werden! Du verwendest bereits die neueste Version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="58"/>
@@ -9674,7 +9674,7 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;SSL-Handshake fehlgeschlagen.&lt;/b&gt;&lt;br/&gt;Es kann mehrere Erklärungen geben:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Du benutzt Windows und musst deine Stammzertifikate aktualisieren. Bitte installiere alle ausstehenden Updates.&lt;/li&gt;&lt;li&gt;Ein Gerät in deinem Netzwerk mischt sich in den SSL-Verkehr ein. In diesem Fall hast du größere Probleme, als dass Minecraft nicht gestartet werden kann.&lt;/li&gt;&lt;li&gt;Möglicherweise etwas anderes. Prüfe die PolyMC Log-Datei für Details&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>&lt;b&gt;SSL-Handshake fehlgeschlagen.&lt;/b&gt;&lt;br/&gt;Es kann mehrere Erklärungen geben:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Du benutzt Windows und musst Deine Stammzertifikate aktualisieren. Bitte installiere alle ausstehenden Updates.&lt;/li&gt;&lt;li&gt;Ein Gerät in Deinem Netzwerk mischt sich in den SSL-Verkehr ein. In diesem Fall hast du größere Probleme, als dass Minecraft nicht gestartet werden kann.&lt;/li&gt;&lt;li&gt;Möglicherweise etwas anderes. Prüfe die Log-Datei für Details&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
