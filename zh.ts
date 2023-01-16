@@ -434,7 +434,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft用户名关联账号。</translation>
+        <translation>Minecraft 用户名关联的账户。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -2663,12 +2663,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="614"/>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation>覆盖默认账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>账户：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="368"/>
@@ -2765,7 +2765,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
         <source>No default account</source>
-        <translation type="unfinished"></translation>
+        <translation>没有默认账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="539"/>
@@ -3124,7 +3124,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>要玩 Minecraft，你必须至少登录一个微软或 Mojang 账户。Mojang 账号只能离线使用。您想现在打开账号管理添加一个账户吗？</translation>
+        <translation>要玩 Minecraft，你必须至少登录一个微软或 Mojang 账户。Mojang 账号只能离线使用。您想现在打开账户管理添加一个账户吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
@@ -4441,12 +4441,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="437"/>
         <source>&amp;Meow</source>
-        <translation>喵（&amp;M）</translation>
+        <translation>猫（&amp;M）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="445"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>账号管理 (&amp;M)…</translation>
+        <translation>账户管理 (&amp;M)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="453"/>
@@ -7145,7 +7145,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
-        <translation>明亮</translation>
+        <translation>浅色</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="156"/>
