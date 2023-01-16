@@ -34,7 +34,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished">Microsoft autentisering</translation>
+        <translation>Microsoft-autentisering</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -51,7 +51,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Skriv in egendefinert klient-ID for Microsoft-identitetsbekreftelse her. </translation>
+        <translation>Skriv inn en egendefinert klient-ID for Microsoft-autentisering her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="260"/>
@@ -97,7 +97,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished">Skriv inn en egendefinert API-nøkkel for CurseForge her. </translation>
+        <translation>Skriv inn en egendefinert API-nøkkel for CurseForge her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -111,7 +111,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="117"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Kunne ikke forstå pakkemanifestet:
+        <translation>Kunne ikke forstå pakkemanifestet:
 </translation>
     </message>
     <message>
@@ -187,7 +187,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
         <source>Mod download</source>
-        <translation type="unfinished">Nedlasting av modpakke</translation>
+        <translation>Nedlasting av mod</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="764"/>
@@ -212,7 +212,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="975"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installerer modpakke</translation>
+        <translation>Installerer modpakke</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="987"/>
