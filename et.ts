@@ -636,32 +636,32 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="686"/>
+        <location filename="src/launcher/Application.cpp" line="698"/>
         <source>Settings</source>
         <translation>Sätted</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1205"/>
+        <location filename="src/launcher/Application.cpp" line="1217"/>
         <source>Aborted</source>
         <translation>Tühistatud</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1629"/>
+        <location filename="src/launcher/Application.cpp" line="1641"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Leiti vanad %1 andmed, kuid sul on %2 jaoks juba uued andmed. Kahjuks pead käsitsi migreerima. Kas soovid, et migreerimist tuletataks järgmisel %2 käivitusel taas meelde?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1633"/>
+        <location filename="src/launcher/Application.cpp" line="1645"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Tundub, et kasutasid varem %1. Kas soovid oma andmed migreerida %2 uude asukohta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1639"/>
+        <location filename="src/launcher/Application.cpp" line="1651"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Tundub, et kasutasid varem %1 platvormil %2. Kas soovid oma andmed migreerida %3 uude asukohta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1681"/>
+        <location filename="src/launcher/Application.cpp" line="1693"/>
         <source>Migration failed! Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2206,16 +2206,37 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
 </context>
 <context>
-    <name>ImportResourcePackDialog</name>
+    <name>ImportResourceDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="14"/>
-        <source>Choose instance to import</source>
-        <translation>Vali eksemplar, mida importida</translation>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
+        <source>Choose instance to import to</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ImportResourcePackDialog.ui" line="20"/>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>Vali eksemplar, kuhu soovid selle ressursipaki importida.</translation>
+        <translation type="unfinished">Vali eksemplar, kuhu soovid selle ressursipaki importida.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
+        <source>Choose the instance you would like to import this %1 to.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
+        <source>File: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ImportResourcePackDialog</name>
+    <message>
+        <source>Choose instance to import</source>
+        <translation type="vanished">Vali eksemplar, mida importida</translation>
+    </message>
+    <message>
+        <source>Choose the instance you would like to import this resource pack to.</source>
+        <translation type="vanished">Vali eksemplar, kuhu soovid selle ressursipaki importida.</translation>
     </message>
 </context>
 <context>
@@ -4005,22 +4026,22 @@ Põhjus:
         <translation type="vanished">Tapa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
         <source>Kill the running instance</source>
         <translation>Tapa töötav eksemplar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1252"/>
         <source>Launch</source>
         <translation>Käivita</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="707"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
         <source>Launch the selected instance.</source>
         <translation>Käivita valitud eksemplar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="471"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="470"/>
         <source>Main Toolbar</source>
         <translation>Peamine tööriistariba</translation>
     </message>
@@ -4029,29 +4050,29 @@ Põhjus:
         <translation type="vanished">Lisa eksemplar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="311"/>
         <source>Add a new instance.</source>
         <translation>Lisa uus eksemplar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="318"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
         <translation>&amp;Kuva eksemplaride kaust</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="320"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="319"/>
         <source>Open the instance folder in a file browser.</source>
         <translation>Ava failihalduris eksemplaride kaust.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="326"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
         <translation>Kuva &amp;keskne modide kaust</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="327"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="326"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>Ava failihalduris keskne modide kaust.</translation>
     </message>
@@ -4060,12 +4081,12 @@ Põhjus:
         <translation type="vanished">Kus&amp;tuta eksemplar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="899"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="898"/>
         <source>Folders</source>
         <translation>Kaustad</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="339"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>Ava üks nendest kaustadest jagatud eksemplaride vahel.</translation>
     </message>
@@ -4074,7 +4095,7 @@ Põhjus:
         <translation type="vanished">Sätted</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="352"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
         <source>Change settings.</source>
         <translation>Muuda sätteid.</translation>
     </message>
@@ -4083,12 +4104,12 @@ Põhjus:
         <translation type="vanished">Teata veast</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>Ava vigade loetelu, et teatada %1 veast.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="392"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
         <source>Open %1 Matrix space</source>
         <translation>Ava %1 Matrixi ruum</translation>
     </message>
@@ -4107,7 +4128,7 @@ Põhjus:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="410"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
         <source>Open %1 subreddit.</source>
         <translation>Ava %1 subreddit.</translation>
     </message>
@@ -4116,18 +4137,18 @@ Põhjus:
         <translation type="vanished">%1 teave</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="419"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
         <source>View information about %1.</source>
         <translation>Kuva informatsioon %1 kohta.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="511"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="900"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="510"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="899"/>
         <source>Help</source>
         <translation>Abi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="512"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="511"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Saa abi %1 või Minecraftiga.</translation>
     </message>
@@ -4136,7 +4157,7 @@ Põhjus:
         <translation type="vanished">Uuenda</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="428"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="427"/>
         <source>Check for new updates for %1.</source>
         <translation>Kontrolli %1 uusi uuendusi.</translation>
     </message>
@@ -4145,7 +4166,7 @@ Põhjus:
         <translation type="vanished">Mjäu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="438"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="437"/>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>See on kohev kiisu :3</translation>
     </message>
@@ -4154,180 +4175,180 @@ Põhjus:
         <translation type="vanished">Halda kontosid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="659"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="658"/>
         <source>News Toolbar</source>
         <translation>Uudiste tööriistariba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
         <source>More news...</source>
         <translation>Rohkem uudiseid...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="665"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
         <source>Open the development blog to read more news about %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="733"/>
         <source>&amp;Edit...</source>
         <translation>&amp;Muuda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
         <source>&amp;Folder</source>
         <translation>&amp;Kaust</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="756"/>
         <source>E&amp;xport...</source>
         <translation>E&amp;kspordi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="764"/>
         <source>Dele&amp;te</source>
         <translation>Kust&amp;uta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Cop&amp;y...</source>
         <translation>Kop&amp;eeri...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="782"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2278"/>
         <source>Create Shortcut</source>
         <translation>Loo otsetee</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="783"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="782"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
         <translation>Loob töölauale otsetee, mis käivitab valitud eksemplari.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="804"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="803"/>
         <source>Instance Toolbar</source>
         <translation>Eksemplari tööriistariba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="680"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="679"/>
         <source>Change Icon</source>
         <translation>Muuda ikooni</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
         <source>&amp;Kill</source>
         <translation>&amp;Sundsulge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="705"/>
         <source>&amp;Launch</source>
         <translation>&amp;Käivita</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="311"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="310"/>
         <source>Add Instanc&amp;e...</source>
         <translation>Lisa &amp;eksemplar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="331"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="330"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>F&amp;olders</source>
         <translation>Ka&amp;ustad</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation>Sea&amp;ded...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="358"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
         <source>&amp;Undo Last Instance Deletion</source>
         <translation>&amp;Võta tagasi viimase eksemplari kustutamine</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="366"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>&amp;Tühjenda metaandmete vahemälu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="367"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="366"/>
         <source>Clear cached metadata</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>Install to &amp;PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="374"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
         <source>Report a &amp;Bug...</source>
         <translation>Teata &amp;veast...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
         <source>&amp;Matrix Space</source>
         <translation>&amp;Matrixi ruum</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="400"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discordi server</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="408"/>
         <source>Sub&amp;reddit</source>
         <translation>Alam&amp;reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
         <source>&amp;About %1</source>
         <translation>%1 &amp;teave</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="427"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="426"/>
         <source>&amp;Update...</source>
         <translation>&amp;Uuenda...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="436"/>
         <source>&amp;Meow</source>
         <translation>&amp;Mjäu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="445"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="444"/>
         <source>&amp;Manage Accounts...</source>
         <translation>&amp;Halda kontosid...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="453"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="452"/>
         <source>Lock Toolbars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="459"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="458"/>
         <source>Themes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="540"/>
         <source>&amp;File</source>
         <translation>&amp;Fail</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="558"/>
         <source>&amp;Edit</source>
         <translation>&amp;Redigeeri</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="562"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
         <source>&amp;View</source>
         <translation>&amp;Vaade</translation>
     </message>
@@ -4336,69 +4357,69 @@ Põhjus:
         <translation type="vanished">&amp;Profiilid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="577"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
         <source>&amp;Help</source>
         <translation>&amp;Abi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
         <source>Close &amp;Window</source>
         <translation>Sulge &amp;aken</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="609"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
         <source>Close the current window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="616"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>%1 &amp;abi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="617"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="625"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="616"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="624"/>
         <source>Open the %1 wiki</source>
         <translation>Ava %1 viki</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="624"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
         <source>%1 &amp;News</source>
         <translation>%1 &amp;uudised</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="681"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="680"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Muuda valitud eksemplari ikooni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
         <source>Rename</source>
         <translation>Nimeta ümber</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="694"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
         <source>Rename the selected instance.</source>
         <translation>Nimeta valitud eksemplar ümber.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="712"/>
         <source>Launch &amp;Offline</source>
         <translation>Käivita &amp;võrguta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="719"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
         <source>Launch &amp;Demo</source>
         <translation>Käivita &amp;prooviversioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="720"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="719"/>
         <source>Launch the selected instance in demo mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="728"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
@@ -4407,7 +4428,7 @@ Põhjus:
         <translation type="vanished">Muuda eksempl&amp;ari...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="736"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="735"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
@@ -4428,12 +4449,12 @@ Põhjus:
         <translation type="vanished">Halda &amp;kuvatõmmiseid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="742"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="741"/>
         <source>&amp;Change Group...</source>
         <translation>Muuda gruppi...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
@@ -4458,12 +4479,12 @@ Põhjus:
         <translation type="vanished">E&amp;kspordi eksemplar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="759"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
         <source>Ctrl+E</source>
         <translation>Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="767"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="766"/>
         <source>Backspace</source>
         <translation>Tagasilüke</translation>
     </message>
@@ -4472,17 +4493,17 @@ Põhjus:
         <translation type="vanished">Kopeer&amp;i eksemplar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="776"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="775"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1254"/>
         <source>Launch Offline</source>
         <translation>Käivita võrguta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
         <source>Launch the selected instance in offline mode.</source>
         <translation>Käivita valitud eksemplar võrguta režiimis.</translation>
     </message>
@@ -4491,7 +4512,7 @@ Põhjus:
         <translation type="vanished">Muuda eksemplari</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Muuda eksemplari sätteid, mode ja versioone.</translation>
     </message>
@@ -4508,7 +4529,7 @@ Põhjus:
         <translation type="vanished">Kuva maailmad</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="766"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation type="unfinished">Kuva selle eksemplari maailmad.</translation>
@@ -4526,7 +4547,7 @@ Põhjus:
         <translation type="vanished">Muuda gruppi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="742"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>Muuda valitud eksemplari gruppi.</translation>
     </message>
@@ -4552,7 +4573,7 @@ Põhjus:
         <translation type="vanished">Eksemplari kaust</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="751"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>Ava failihalduris valitud eksemplari juurkaust.</translation>
     </message>
@@ -4561,7 +4582,7 @@ Põhjus:
         <translation type="vanished">Ekspordi eksemplar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
         <source>Export the selected instance as a zip file.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4575,7 +4596,7 @@ Põhjus:
         <translation type="vanished">Kopeeri eksemplar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="775"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
         <source>Copy the selected instance.</source>
         <translation>Kopeeri valitud eksemplar.</translation>
     </message>
@@ -4590,13 +4611,13 @@ Põhjus:
         <translation type="vanished"> (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1129"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1005"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1128"/>
         <source>No instance selected</source>
         <translation>Ühtegi eksemplari pole valitud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
         <source>Total playtime: 0s</source>
         <translation>Mänguaeg kokku: 0s</translation>
     </message>
@@ -4605,144 +4626,144 @@ Põhjus:
         <translation type="vanished">Profiilid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1193"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1192"/>
         <source>Create instance</source>
         <translation>Loo eksemplar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1209"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1208"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Kustuta grupp &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1256"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1256"/>
         <source>Launch Demo</source>
         <translation>Käivita prooviversioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1287"/>
         <source>Profilers</source>
         <translation>Profiilerid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1292"/>
         <source>%1 Offline</source>
         <translation>%1 võrguta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1299"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1298"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>Profiiler ei ole korrektselt seadistatud. Mine sätetesse ja vali &quot;välised tööriistad&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1381"/>
         <source>No accounts added!</source>
         <translation>Kontosid pole lisatud!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1413"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1429"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1428"/>
         <source>No Default Account</source>
         <translation>Vaikimisi konto puudub</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1432"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1544"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1543"/>
         <source>Loading news...</source>
         <translation>Uudiste laadimine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1558"/>
         <source>No news available.</source>
         <translation>Uudiseid pole saadaval.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1686"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1685"/>
         <source>Warnings</source>
         <translation>Hoiatused</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1691"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1690"/>
         <source>Task aborted</source>
         <translation>Tegevus tühistatud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1691"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1690"/>
         <source>The task has been aborted by the user.</source>
         <translation type="unfinished">Tegevus on kasutaja poolt tühistatud.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1694"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1736"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
         <source>Abort</source>
         <translation>Katkesta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1745"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1908"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1928"/>
         <source>Group name</source>
         <translation>Grupi nimi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1908"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1928"/>
         <source>Enter a new group name.</source>
         <translation>Sisesta uus grupi nimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1930"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1950"/>
         <source>Delete group</source>
         <translation>Kustuta grupp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1930"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1950"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2029"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2049"/>
         <source>Successfully added %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2030"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2050"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2033"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2053"/>
         <source>Failed to add %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2034"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2054"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2073"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2093"/>
         <source>Confirm Deletion</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4751,7 +4772,7 @@ Please add your Mojang or Minecraft account.</source>
         <translation type="vanished">ETTEVAATUST!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2074"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2094"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -4766,132 +4787,132 @@ See võib olla püsiv ning kustutab eksemplari täielikult.
 Kas oled kindel?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2199"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2206"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2210"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2212"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2219"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2238"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2247"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2269"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2274"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2292"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2304"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2311"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2316"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2226"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2230"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2239"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2267"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2312"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2324"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2331"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2336"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2339"/>
         <source>Create instance shortcut</source>
         <translation>Loo eksemplari otsetee</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2192"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2212"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2199"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2219"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Käivitaja on kaustas, kust see ekstraktiti, seega see ei saa otseteid luua.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2206"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2269"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2311"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2226"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2331"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Selle eksemplari otsetee on loodud sinu töölauale!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2210"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2274"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2316"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2230"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2336"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Eksemplari otsetee loomine ebaõnnestus!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2219"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2239"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2238"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2247"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2292"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2304"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2267"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2312"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2324"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Otseteele ikooni loomine ebaõnnestus.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2259"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2279"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2339"/>
         <source>Not supported on your platform!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2418"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2438"/>
         <source>Rename Instance</source>
         <translation>Nimeta eksemplar ümber</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2431"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2451"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2453"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2442"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2462"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2469"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2457"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2477"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2470"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2490"/>
         <source>Total playtime: %1</source>
         <translation>Mänguaeg kokku: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1629"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1646"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1679"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1628"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1678"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1731"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="401"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="400"/>
         <source>Open %1 Discord guild.</source>
         <translation>Ava %1 Discordi server.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Accounts</source>
         <translation>&amp;Kontod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1123"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1122"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1503"/>
         <source>Accounts</source>
         <translation type="unfinished">Kontod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1629"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1628"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
         <translation>Uuenduste allalaadimiseks vajaliku kausta loomine ebaõnnestus:
@@ -6962,7 +6983,7 @@ Choose your name carefully:</source>
         <translation>Erilised tänud</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="134"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="133"/>
         <source>%1 (in use)</source>
         <translation>%1 (kasutuses)</translation>
     </message>
@@ -7407,6 +7428,41 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
         <source>Teawie (drawn by SympathyTea)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
+        <source>resource pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
+        <source>texture pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
+        <source>data pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
+        <source>shader pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
+        <source>world save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="40"/>
+        <source>mod</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="41"/>
+        <source>unknown</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
