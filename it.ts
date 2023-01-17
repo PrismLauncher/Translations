@@ -924,7 +924,7 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="128"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>Seleziona percorso dove hai scaricato le mods</translation>
+        <translation>Seleziona la cartella dove hai scaricato le mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
