@@ -459,7 +459,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>与该账户关联的 Minecraft 个人资料名称？</translation>
+        <translation>该账户是否可迁移到微软账户？</translation>
     </message>
 </context>
 <context>
@@ -678,7 +678,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1651"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>似乎曾经在 %2 使用过 %1。是否需要将你的数据迁移到 %3 的新位置？</translation>
+        <translation>你似乎曾经在 %2 使用过 %1。是否需要将你的数据迁移到 %3 的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1693"/>
@@ -1448,8 +1448,8 @@ Please update both your operating system and PolyMC.</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>删除：%1项。
-这可能将其从文件夹中永久删除。
+        <translation>你即将删除 %1 项项目。
+这可能是永久性的且它们将从文件夹被永久删除。
 
 你确定吗？</translation>
     </message>
@@ -1459,8 +1459,8 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>删除：“%1”文件夹。
-这可能将其从父文件夹中永久删除。
+        <translation>你即将删除文件夹“%1”。
+这可能是永久性的且它将从父文件夹被永久删除。
 
 你确定吗？</translation>
     </message>
@@ -1740,7 +1740,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我们无法找到适合旧版本的索引文件，这可能导致部分文件重复。是否继续？</translation>
+        <translation>我们无法找到适合旧版本的索引文件。这可能导致部分文件重复。是否继续？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
@@ -2249,22 +2249,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>选择需要导入的实例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished">选择你想要导入此资源包的实例。</translation>
+        <translation>选择你想要导入此资源包的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>选择你想导入这个%1的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>文件：%1</translation>
     </message>
 </context>
 <context>
@@ -3020,11 +3020,11 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>你没有选择 Java 版本或选择了无效的版本。
+        <translation>你没有选择 Java 或选择了无效的 Java。
 %1 将无法启动 Minecraft。
-你想在没有任何 Java 的情况下继续吗？
+你想在没有 Java 的情况下继续吗？
 
-你可以在设置里面修改 Java 版本。
+你可以稍后在设置中修改 Java 版本。
 </translation>
     </message>
     <message>
@@ -3169,7 +3169,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="166"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>在 %1 次尝试后，我们似乎无法启动。 你想继续尝试吗？</translation>
+        <translation>在 %1 次尝试后，我们似乎仍无法启动。 你想继续尝试吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -3202,7 +3202,7 @@ Please select one of the following or browse for a java executable.</oldsource>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>此账户并未拥有 Minecraft。
+        <translation>此账户并不拥有 Minecraft。
 你需要先购买该游戏才能正常游玩。
 
 是否游玩演示模式？</translation>
@@ -7679,37 +7679,37 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>资源包</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>材质包</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>数据包</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>光影包</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>世界存档</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="40"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>模组</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="41"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
 </context>
 <context>
