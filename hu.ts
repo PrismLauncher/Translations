@@ -2226,17 +2226,17 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished">Válassza ki azt a példányt, amelybe importálni szeretné ezt az erőforráscsomagot.</translation>
+        <translation>Válassza ki azt a példányt, amelybe importálni szeretné ezt az erőforráscsomagot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Válassza ki azt a példányt, amelybe importálni szeretné ezt: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl: %1</translation>
     </message>
 </context>
 <context>
@@ -7559,37 +7559,37 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>erőforrás csomag</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>textúra csomag</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>adatcsomag</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>shader csomag</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>világ mentés</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="40"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="41"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ismeretlen</translation>
     </message>
 </context>
 <context>
