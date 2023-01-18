@@ -8461,12 +8461,12 @@ inheritsFrom está ausente</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished">&amp;Ícones</translation>
+        <translation>&amp;Ícones</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation type="unfinished">&amp;Cores</translation>
+        <translation>&amp;Cores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
@@ -8478,7 +8478,7 @@ inheritsFrom está ausente</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation type="unfinished">G&amp;ato</translation>
+        <translation>G&amp;ato</translation>
     </message>
 </context>
 <context>
