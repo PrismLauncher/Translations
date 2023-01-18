@@ -2837,7 +2837,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">有効にすると、ランチャーはインスタンスが選択したJavaバージョンと互換性があるかどうかを確認しません。</translation>
+        <translation>有効にすると、インスタンスで選択したJavaバージョンと互換性があるかどうかをランチャーが確認しなくなります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
