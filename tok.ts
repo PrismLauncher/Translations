@@ -2268,7 +2268,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>o alasa e ilo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="62"/>
@@ -2459,12 +2459,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="150"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>o alasa e ilo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
         <source>Java</source>
-        <translation type="unfinished"></translation>
+        <translation>ilo Java</translation>
     </message>
 </context>
 <context>
@@ -2472,7 +2472,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="156"/>
         <source>No Java version selected</source>
-        <translation>nanpa Jawa wile li weka</translation>
+        <translation>nanpa wile pi ilo Jawa li weka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="157"/>
@@ -2487,7 +2487,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="270"/>
         <source>Find Java executable</source>
-        <translation type="unfinished"></translation>
+        <translation>o alasa e ilo Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="430"/>
