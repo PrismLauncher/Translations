@@ -2673,7 +2673,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="614"/>
         <source>Override default account</source>
-        <translation>Sobreponer cuenta por defecto</translation>
+        <translation>Sobrescribir cuenta por defecto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
@@ -4395,7 +4395,7 @@ Motivo:
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Ajustes</translation>
+        <translation>Ajustes...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
@@ -8594,7 +8594,7 @@ falta inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation>Alphas</translation>
+        <translation>Alfas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="129"/>
