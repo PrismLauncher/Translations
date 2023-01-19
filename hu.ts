@@ -90,7 +90,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>A &amp;CurseForge Core API-a</translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -2221,7 +2221,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Válassza ki az importálni kívánt példányt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
@@ -3097,13 +3097,13 @@ Kérjük, válasszon egyet a következők közül, vagy keressen egy java futtat
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
         <source>No Accounts</source>
-        <translation>Nincsnek fiókok</translation>
+        <translation>Nincsenek fiókok</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>A Minecraft játékhoz legalább egy Mojang- vagy Microsoft-fiókkal kell bejelentkezned. Szeretnéd megnyitni a fiókkezelőt, hogy most hozzáadj egy fiókot?</translation>
+        <translation>A Minecraft-hoz legalább egy Microsoft- vagy Mojang-fiókkal be kell jelentkezned. A Mojang-fiókok csak offline módban használhatók. Szeretné megnyitni a fiókkezelőt, hogy most hozzáadjon egy fiókot?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
