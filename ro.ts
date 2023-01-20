@@ -2200,22 +2200,22 @@ Vă rugăm să încercați din nou.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Alege instanța în care doriți să importați</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished">Selectează instanța în care dorești să imporți acest pachet de resurse.</translation>
+        <translation>Selectează instanța în care dorești să imporți acest pachet de resurse.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează instanța în care dorești să imporți acest %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier: %1</translation>
     </message>
 </context>
 <context>
@@ -3090,12 +3090,12 @@ Vă rugăm să selectați una dintre următoarele instalări sau căutați un ex
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">Pentru a juca Minecraft, trebuie să aveți cel puțin un cont Mojang sau Microsoft conectat. Doriți să deschideți managerul de conturi pentru a adăuga un cont?</translation>
+        <translation>Pentru a juca Minecraft, trebuie să aveți cel puțin un cont Mojang sau Microsoft conectat. Conturile Mojang pot fi folosite numai offline. Doriți să deschideți managerul de conturi pentru a adăuga un cont?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
         <source>Which account would you like to use?</source>
-        <translation type="unfinished">Ce cont doriți să utilizați?</translation>
+        <translation>Ce cont doriți să utilizați?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="152"/>
@@ -3114,7 +3114,7 @@ Vă rugăm să selectați una dintre următoarele instalări sau căutați un ex
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="166"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se pare că nu s-a putut lansa după %1 încercări. Doriți să continuați încercările?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -3129,7 +3129,7 @@ Vă rugăm să selectați una dintre următoarele instalări sau căutați un ex
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="199"/>
         <source>Choose your demo mode player name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alegeți numele jucătorului pentru modul demo.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="236"/>
@@ -3160,12 +3160,12 @@ Doriți să jucați demo-ul?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation type="unfinished">Lansare anulată - contul nu deține Minecraft.</translation>
+        <translation>Lansare anulată - contul nu deține Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
@@ -3180,7 +3180,7 @@ Doriți să jucați demo-ul?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="293"/>
         <source>Account refresh failed</source>
-        <translation type="unfinished">Reîmprospătarea contului nu a reușit</translation>
+        <translation>Reîmprospătarea contului nu a reușit</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="302"/>
@@ -3200,7 +3200,7 @@ Doriți să jucați demo-ul?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="317"/>
         <source>Account gone</source>
-        <translation type="unfinished">Contul a dispărut</translation>
+        <translation>Contul a dispărut</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="327"/>
@@ -3217,7 +3217,7 @@ Doriți să jucați demo-ul?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished">Nu s-a putut încărca profilul instanței.</translation>
+        <translation>Nu s-a putut încărca profilul instanței.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="345"/>
@@ -3227,7 +3227,7 @@ Doriți să jucați demo-ul?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="409"/>
         <source>Couldn&apos;t start profiler: %1</source>
-        <translation type="unfinished">Nu s-a putut porni profilerul: %1</translation>
+        <translation>Nu s-a putut porni profiler-ul: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="418"/>
@@ -3308,18 +3308,18 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished">Caracteristici</translation>
+        <translation>Caracteristici</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation type="unfinished">Actualizați setările</translation>
+        <translation>Actualizați Setările</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished">Verificați dacă există actualizări la pornire?</translation>
+        <translation>Verificați dacă există actualizări automat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
@@ -3329,17 +3329,17 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="81"/>
         <source>No channel selected.</source>
-        <translation type="unfinished">Niciun canal selectat.</translation>
+        <translation>Niciun canal selectat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>Folders</source>
-        <translation type="unfinished">Foldere</translation>
+        <translation>Foldere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished">I&amp;nstanțe:</translation>
+        <translation>I&amp;nstanțe:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
@@ -3400,23 +3400,23 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished">Mod-uri</translation>
+        <translation>Mod-uri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezactivează folosirea metadatelor provenite de la furnizori de moduri (cum ar fi Modrinth sau Curseforge) pentru moduri.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata for mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezactivează utilizarea metadatelor pentru moduri?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Dezactivate metadatelor modurilor ar putea duce la dezactivarea unor funcții QoL, cum ar fi actualizarea modurilor!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -3425,23 +3425,23 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Unelte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bara de meniu este mai prietenoasă cu navigarea din tastatură.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="271"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Schimbă bare de unelte cu bara de meniu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Consolă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="301"/>
