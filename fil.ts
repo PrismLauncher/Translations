@@ -1696,7 +1696,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nagda-dawnload ng mga mod...</translation>
     </message>
 </context>
 <context>
@@ -2598,7 +2598,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="45"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Memorya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
@@ -3623,7 +3623,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrasenya</translation>
     </message>
 </context>
 <context>
@@ -3687,7 +3687,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
         <source>Kill the running instance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Patayin ang tumatakbong instansiya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
@@ -4661,7 +4661,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="169"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gamitin ang discrete GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -5343,7 +5343,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nagda-dawnload ng mga mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
@@ -5452,7 +5452,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="258"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nagda-dawnload ng mga mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="317"/>
