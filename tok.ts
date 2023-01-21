@@ -233,7 +233,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="110"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>sona</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
@@ -249,32 +249,32 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="192"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>tenpo pali:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="208"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>nanpa pali:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="224"/>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>nasin:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="251"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>mama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="265"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu ken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="301"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>sona pi ilo Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="321"/>
@@ -284,7 +284,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>sona pi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
@@ -294,17 +294,17 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>nanpa pali: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>tenpo pali: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>nasin</translation>
     </message>
 </context>
 <context>
@@ -439,7 +439,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o weka (&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
@@ -463,7 +463,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o weka e selo (&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -520,7 +520,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>selo weka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -1037,7 +1037,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="33"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>nimi toki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/EditAccountDialog.ui" line="43"/>
@@ -1241,7 +1241,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nasin pi an&amp;te sitelen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -1302,12 +1302,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>ilo MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>poki pi ilo MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
@@ -1324,7 +1324,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>nasin pi ante sitelen JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
@@ -2018,7 +2018,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="59"/>
         <source>Edit Instance (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e ijo musi (%1)</translation>
     </message>
 </context>
 <context>
@@ -2314,12 +2314,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="153"/>
         <source>Kill</source>
-        <translation>o pini</translation>
+        <translation>o moli</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="155"/>
         <source>Kill the running instance</source>
-        <translation>o pini e ijo musi lon</translation>
+        <translation>o milo e ijo musi lon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
@@ -2732,7 +2732,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="468"/>
         <source>Kill Minecraft?</source>
-        <translation>sina wile ala wile e musi Manka?</translation>
+        <translation>sina wile ala wile moli e musi Manka?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="469"/>
@@ -2815,7 +2815,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
         <source>Up&amp;date Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>nasin ante (&amp;D):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="81"/>
@@ -2916,7 +2916,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Custom</source>
-        <translation>nasin ante</translation>
+        <translation>nasin sina</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="318"/>
@@ -3379,7 +3379,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>sina moli e musi.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
@@ -3466,7 +3466,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="684"/>
         <source>Kill the running instance</source>
-        <translation>o pini e ijo musi lon</translation>
+        <translation>o moli e ijo musi lon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1228"/>
@@ -3538,7 +3538,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>o lukin e sona pi %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="467"/>
@@ -3574,7 +3574,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>o moli (&amp;K)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
@@ -3621,7 +3621,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>son&amp;a pi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
@@ -3661,7 +3661,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="563"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>o pini e lipu (&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="564"/>
@@ -3713,7 +3713,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="690"/>
         <source>Edit Inst&amp;ance...</source>
-        <translation type="unfinished"></translation>
+        <translation>o &amp;ante e ijo musi...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
@@ -3813,7 +3813,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="524"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>o ant&amp;e</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
@@ -3879,7 +3879,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
         <source>Delete the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>o weka e ijo musi wile.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="767"/>
@@ -3911,7 +3911,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1169"/>
         <source>Delete group &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>o weka e kulupu &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1231"/>
@@ -4003,12 +4003,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1872"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>o weka e kulupu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1872"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>sina wile ala wile weka e kulupu &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2019"/>
@@ -4066,12 +4066,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu mute...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="624"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>o open e lipu pi sona pali tawa ni: sina lukin e lipu mute pi %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
@@ -5214,7 +5214,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
@@ -5253,7 +5253,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="58"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu</translation>
     </message>
 </context>
 <context>
@@ -5352,7 +5352,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="126"/>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>o alasa:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="151"/>
@@ -5379,12 +5379,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Do you really want to delete %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>sina wile ala wile weka e %1?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="231"/>
         <source>Unable to delete %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>mi ken ala weka e %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="246"/>
@@ -5400,7 +5400,8 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="254"/>
         <source>Do you really want to delete these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>sina wile ala wile weka e lipu ni?
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="281"/>
@@ -5786,7 +5787,7 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="42"/>
         <source>Path does not seem to be a MCEdit path</source>
-        <translation type="unfinished"></translation>
+        <translation>nasin li nasin ala pi ilo MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
@@ -5966,20 +5967,20 @@ Please let us know why and how this happened.</source>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Developers&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mama pi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="84"/>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;PolyMC Contributors&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mama pi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="100"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
-        <translation type="unfinished"></translation>
+        <translation>kepeken toki pona tawa ni</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="122"/>
@@ -6267,7 +6268,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="495"/>
         <source>This will delete all selected screenshots.</source>
-        <translation type="unfinished"></translation>
+        <translation>ni li weka e sitelen wile.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="72"/>
@@ -6432,7 +6433,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/minecraft/services/SkinDelete.cpp" line="55"/>
         <source>Deleting skin</source>
-        <translation type="unfinished"></translation>
+        <translation>mi awen weka e selo</translation>
     </message>
 </context>
 <context>
@@ -6961,12 +6962,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="166"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
         <source>Edit selected package.</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e ijo wile.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="174"/>
@@ -7445,7 +7446,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>ilo MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
@@ -7513,12 +7514,12 @@ Do you want to continue?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="272"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>o open e ma kepeken ilo MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="298"/>
         <source>No MCEdit found or set up!</source>
-        <translation type="unfinished"></translation>
+        <translation>ilo MCEdit li lon ala!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="299"/>
@@ -7529,7 +7530,7 @@ You can set it up in the global settings.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="308"/>
         <source>MCEdit failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>ilo MCEdit li ken ala open!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="309"/>
