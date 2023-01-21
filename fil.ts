@@ -4000,7 +4000,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
         <source>Launch Offline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Buksan Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
