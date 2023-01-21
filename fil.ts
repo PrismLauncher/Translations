@@ -2893,7 +2893,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
         <source>Play Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Maglaro Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
