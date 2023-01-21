@@ -338,6 +338,14 @@
             "fuzzy" : 95,
             "untranslated" : 1245
         },
+        "mn" : {
+            "file" : "29efe0b82a88ea881369b8d14b49a0afdc7e768d.class",
+            "sha1" : "29efe0b82a88ea881369b8d14b49a0afdc7e768d",
+            "size" : 30,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 1529
+        },
         "nan" : {
             "file" : "857732089df80f1c97f66edd7c074e6e98623692.class",
             "sha1" : "857732089df80f1c97f66edd7c074e6e98623692",
