@@ -181,7 +181,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
         <source>Downloading mods...</source>
-        <translation>Nagda-dawnload ng mga mod...</translation>
+        <translation>Dina-download ang mga mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
@@ -326,7 +326,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nakahanda</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
@@ -362,13 +362,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
@@ -388,12 +388,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalagayan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pwedeng I-migrate?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -413,7 +413,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasalukuyang kalagayan ng account.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
@@ -2321,12 +2321,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Haba ng window:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="288"/>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lapad ng window:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="332"/>
@@ -2529,7 +2529,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan sa Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -2865,7 +2865,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="247"/>
         <source>Play demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Laruin ang demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
@@ -3044,7 +3044,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Katangian</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
@@ -3070,12 +3070,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga I&amp;nstansya:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
@@ -3085,7 +3085,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
         <source>&amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga &amp;Icon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
@@ -3111,12 +3111,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -3137,7 +3137,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Kagamitan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
@@ -3158,7 +3158,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="301"/>
         <source>Console Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagsasaayos ng Console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="307"/>
@@ -3193,18 +3193,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
         <source> lines</source>
-        <translation type="unfinished"></translation>
+        <translation> mga linya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="378"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Font ng Console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="127"/>
         <source>Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder ng Instansya</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
@@ -3692,7 +3692,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
         <source>Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
@@ -3825,7 +3825,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="705"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Buksan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="310"/>
@@ -3912,12 +3912,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Isara ang &amp;Window</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>Isara ang kasalukuyang window</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
@@ -3954,7 +3954,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="712"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan &amp;Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
@@ -3969,7 +3969,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="741"/>
         <source>&amp;Change Group...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Palitan ang Grupo...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
@@ -4020,7 +4020,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan sa &amp;Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="719"/>
@@ -4061,7 +4061,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="458"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Tema</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
@@ -4118,7 +4118,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
         <source>Launch Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Buksan sa Demo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
@@ -4128,7 +4128,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
         <source>Profilers</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga Profiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
@@ -4357,7 +4357,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2495"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kabuuang oras ng paglalaro: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="658"/>
@@ -4367,7 +4367,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iba pang balita...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
@@ -4415,7 +4415,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasalukuyang bersyon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
@@ -4603,13 +4603,13 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Haba ng window:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lapad ng window:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -5745,7 +5745,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="58"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Talaan</translation>
     </message>
 </context>
 <context>
@@ -6163,7 +6163,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Karaniwan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
@@ -7051,12 +7051,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="165"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pataas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="170"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pababa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="175"/>
@@ -7386,12 +7386,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Mga &amp;Icon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kulay</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
@@ -7403,7 +7403,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>Pus&amp;a</translation>
     </message>
 </context>
 <context>
@@ -7486,7 +7486,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Update sa Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
@@ -7673,7 +7673,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="120"/>
         <source>Change version</source>
-        <translation type="unfinished"></translation>
+        <translation>Palitan ang bersyon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
@@ -7683,7 +7683,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pataas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
@@ -7693,7 +7693,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="136"/>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>I-pababa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
