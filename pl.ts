@@ -2814,7 +2814,7 @@ Postępuj ostrożnie!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
         <source>No default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak konta domyślnego</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="539"/>
@@ -7654,117 +7654,117 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Colored Icons)</source>
-        <translation type="unfinished">Proste (kolorowe ikony)</translation>
+        <translation>Proste (Kolorowe Ikony)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Light Icons)</source>
-        <translation type="unfinished">Proste (jasne ikony)</translation>
+        <translation>Proste (Jasne Ikony)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Dark Icons)</source>
-        <translation type="unfinished">Proste (ciemne ikony)</translation>
+        <translation>Proste (Ciemne Ikony)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Simple (Blue Icons)</source>
-        <translation type="unfinished">Proste (niebieskie ikony)</translation>
+        <translation>Proste (Niebieskie Ikony)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Light</source>
-        <translation type="unfinished">Jasna Bryza</translation>
+        <translation>Jasna Bryza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished">Ciemna Bryza</translation>
+        <translation>Ciemna Bryza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>OSX</source>
-        <translation type="unfinished"></translation>
+        <translation>OSX</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat</source>
-        <translation type="unfinished">Płaski</translation>
+        <translation>Flat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Flat (White)</source>
-        <translation type="unfinished">Płaski (biały)</translation>
+        <translation>Flat (Białe)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Legacy</source>
-        <translation type="unfinished">Klasyczny</translation>
+        <translation>Klasyczne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
         <source>Custom</source>
-        <translation type="unfinished">Niestandardowe</translation>
+        <translation>Niestandardowe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished">Kot w Tle (z MultiMC)</translation>
+        <translation>Kot w tle (z MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished">Rory ID 11 (narysowany przez Ashtakę)</translation>
+        <translation>Rory ID 11 (narysowany przez Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="74"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished">Rory ID 11 (wydanie płaskie, narysowane przez Ashtakę)</translation>
+        <translation>Rory ID 11 (flat edition, narysowane przez Ashtaka)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished">Teawie (narysowane przez SympathyTea)</translation>
+        <translation>Teawie (narysowane przez SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>paczka zasobów</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>paczka tekstur</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>paczka danch</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>paczka cieni</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>zapis świata</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="40"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>modyfikacja</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="41"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>nieznane</translation>
     </message>
 </context>
 <context>
@@ -8484,24 +8484,24 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished">&amp;Ikony</translation>
+        <translation>&amp;Ikony</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation type="unfinished">&amp;Kolory</translation>
+        <translation>&amp;Kolory</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot pojawia się w tle i nie jest widoczny domyślnie. Jest widoczny tylko po naciśnięciu przycisku Kot na pasku narzędzi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation type="unfinished">C&amp;na</translation>
+        <translation>C%at</translation>
     </message>
 </context>
 <context>
@@ -8509,27 +8509,27 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreator</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz motyw, którego chesz użyć</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wskazówka: Kot pojawia się w tle i nie jest widoczny domyślnie. Jest widoczny tylko po naciśnięciu przycisku Kot na pasku narzędzi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Podgląd:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kot pojawia się w tle tylko w celu wizualnym, nie ma żadnej funkcji.</translation>
     </message>
 </context>
 <context>
