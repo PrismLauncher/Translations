@@ -2886,7 +2886,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
         <source>Java Runtime</source>
-        <translation>A Java Runtime</translation>
+        <translation>Java Runtime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="185"/>
