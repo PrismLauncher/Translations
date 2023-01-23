@@ -522,7 +522,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished">Не е зададен клиентски ID за автентикация.</translation>
+        <translation>Не е зададен клиентски ID за удостоверяване.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -601,7 +601,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Попаднахме на грешка по време на удостоверението.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
@@ -634,7 +634,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1217"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Аборт</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1641"/>
