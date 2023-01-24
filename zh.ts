@@ -1268,29 +1268,29 @@ Please update both your operating system and PolyMC.</source>
 <context>
     <name>EnsureMetadataTask</name>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="86"/>
         <source>Checking if mods have metadata...</source>
         <translation>正在检查模组是否有 metadata……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="160"/>
         <source>Requesting metadata information from %1...</source>
         <translation>正在向 %1 获取metadata信息…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
         <translation>正在向 %1 获取“ %2 ”的metadata信息…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="241"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="330"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
         <translation>这在处理&quot; %1 &quot;Modrinth API的回传数据...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
-        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="397"/>
+        <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="464"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在分析“ %1 ”的 CurseForge API 返回数据…</translation>
     </message>
@@ -1661,33 +1661,33 @@ Please try again.</source>
 <context>
     <name>FlameCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Preparing mods for CurseForge...</source>
         <translation>准备从 CurseForge 获取模组...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="125"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>为避免出现模组问题，被停用的模组将不会被更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="129"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
         <translation>正从 CurseForge 获取 &apos;%1&apos; 的 API 响应…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="141"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
         <translation>正在为“ %1 ”处理CurseForge API的回传数据...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="140"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>未找到该模组的有效版本。可能在目前的游戏版本或模组加载器中还不可用。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="148"/>
+        <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
         <translation>模组有可用的更新，但无法使用 CurseForge 进行下载。</translation>
@@ -1848,35 +1848,29 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="obsolete">搜索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="50"/>
         <source>Sort by Featured</source>
-        <translation>按精选内容排序</translation>
+        <translation type="vanished">按精选内容排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Popularity</source>
-        <translation>按人气排序</translation>
+        <translation type="vanished">按人气排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation>按最后更新时间排序</translation>
+        <translation type="vanished">按最后更新时间排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Name</source>
-        <translation>按名称排序</translation>
+        <translation type="vanished">按名称排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
         <source>Sort by Author</source>
-        <translation>按作者排序</translation>
+        <translation type="vanished">按作者排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="55"/>
         <source>Sort by Downloads</source>
-        <translation>按下载量排序</translation>
+        <translation type="vanished">按下载量排序</translation>
     </message>
     <message>
         <source> by </source>
@@ -5509,44 +5503,37 @@ Are you sure?</source>
 <context>
     <name>ModDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="67"/>
         <source>Review and confirm</source>
-        <translation>检查并确认</translation>
+        <translation type="vanished">检查并确认</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="68"/>
         <source>Ctrl+Return</source>
-        <translation>Ctrl+Return</translation>
+        <translation type="vanished">Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="69"/>
         <source>Opens a new popup to review your selected mods and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>打开一个新的弹出窗口来检查你选择的模组并确认你的选择。快捷方式：Ctrl+Return</translation>
+        <translation type="vanished">打开一个新的弹出窗口来检查你选择的模组并确认你的选择。快捷方式：Ctrl+Return</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="91"/>
         <source>Download mods</source>
-        <translation>下载模组</translation>
+        <translation type="vanished">下载模组</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModDownloadDialog.cpp" line="105"/>
         <source>Confirm mods to download</source>
-        <translation>确认要下载的模组</translation>
+        <translation type="vanished">确认要下载的模组</translation>
     </message>
 </context>
 <context>
     <name>ModDownloadTask</name>
     <message>
-        <location filename="src/launcher/ModDownloadTask.cpp" line="36"/>
         <source>Downloading mod:
 %1</source>
-        <translation>正在下载模组：
+        <translation type="vanished">正在下载模组：
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ModDownloadTask.cpp" line="35"/>
         <source>Mod download</source>
-        <translation>模组下载</translation>
+        <translation type="vanished">模组下载</translation>
     </message>
 </context>
 <context>
@@ -5837,196 +5824,174 @@ Are you sure?</source>
 <context>
     <name>ModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="47"/>
         <source>Search</source>
-        <translation>搜索</translation>
+        <translation type="vanished">搜索</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation>搜索模组……</translation>
+        <translation type="vanished">搜索模组……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
         <source>Version selected:</source>
-        <translation>所选版本：</translation>
+        <translation type="vanished">所选版本：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="79"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="368"/>
         <source>Select mod for download</source>
-        <translation>选择要下载的模组</translation>
+        <translation type="vanished">选择要下载的模组</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="88"/>
         <source>Filter options</source>
-        <translation>过滤选项</translation>
+        <translation type="vanished">过滤选项</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="393"/>
         <source> by </source>
-        <translation> 作者 </translation>
+        <translation type="vanished"> 作者 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="196"/>
         <source>Loading versions...</source>
-        <translation>正在加载版本……</translation>
+        <translation type="vanished">正在加载版本……</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="204"/>
         <source>No valid version found.</source>
-        <translation>未找到有效版本。</translation>
+        <translation type="vanished">未找到有效版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="350"/>
         <source>No valid version found!</source>
-        <translation>未找到有效版本！</translation>
+        <translation type="vanished">未找到有效版本！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="351"/>
         <source>Cannot select invalid version :(</source>
-        <translation>不能选择无效的版本 :(</translation>
+        <translation type="vanished">不能选择无效的版本 :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="370"/>
         <source>Deselect mod for download</source>
-        <translation>取消选择要下载的模组</translation>
+        <translation type="vanished">取消选择要下载的模组</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="398"/>
         <source>Donate information: </source>
-        <translation>赞助信息： </translation>
+        <translation type="vanished">赞助信息： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="413"/>
         <source>External links:</source>
-        <translation>外部链接：</translation>
+        <translation type="vanished">外部链接：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="417"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>问题：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation type="vanished">问题：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="419"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation type="vanished">Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="421"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation type="vanished">源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="423"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation type="vanished">Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>ModPlatform::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="261"/>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="264"/>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation type="vanished">错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="261"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation>发生网络错误。无法加载模组。</translation>
+        <translation type="vanished">发生网络错误。无法加载模组。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModModel.cpp" line="268"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>API 版本太旧！
+        <translation type="vanished">API 版本太旧！
 请更新 %1！</translation>
     </message>
 </context>
 <context>
     <name>ModUpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="40"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="42"/>
         <source>Confirm mods to update</source>
         <translation>确认所要更新的模组</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="51"/>
         <source>You&apos;re about to update the following mods:</source>
         <translation>您即将更新以下模组：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="50"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="52"/>
         <source>Only mods with a check will be updated!</source>
         <translation>只有检查更新的模组会被更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="68"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="70"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
         <translation>模组名称：%1&lt;br&gt;文件名：%2&lt;br&gt;原因：%3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="71"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="73"/>
         <source>Metadata generation failed</source>
         <translation>Metadata 生成失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="72"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="74"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>无法为以下模组生成Metadata：&lt;br&gt;你想在不包含这些模组的情況下继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="86"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="88"/>
         <source>Checking for updates</source>
         <translation>正在检查更新</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="103"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="105"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="108"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="114"/>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="295"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="116"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="297"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="115"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
         <source>Checking for updates...</source>
         <translation>检查更新...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="157"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Mod name: %1</source>
         <translation>模组名称：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
         <source>Reason: %1</source>
         <translation>原因：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="162"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="164"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
         <translation>可能的解决方案：手动获取最新版本：&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="244"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
         <translation>模组 “%1” 还没有元数据。我们需要生成它用于检索模组更新的相关信息。为此，请选择一个模组托管平台，我们可以使用它来检查此模组的更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="341"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
         <translation>在所选模组托管平台上找不到有效版本</translation>
     </message>
@@ -6039,17 +6004,17 @@ Please update %1!</source>
         <translation type="vanished">手动获取最新版本：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="167"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="169"/>
         <source>Failed to check for updates</source>
         <translation>检查更新失败</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="168"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
         <translation>无法获取以下模组更新：&lt;br&gt;你想在不包含这些模组的情況下继续吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="205"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
         <source>Looking for metadata</source>
         <translation>正在查找 Metadata</translation>
     </message>
@@ -6058,7 +6023,7 @@ Please update %1!</source>
         <translation type="vanished">Mod（%1）还没有Metadata。我们需要创建一份Metadata，以保留如何更新此Mod的相关信息。请先选择一个Mod托管平台，我们将通过此平台查询 %1 是否有可用更新。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="296"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="298"/>
         <source>Generating metadata...</source>
         <translation>生成 Metadata 中...</translation>
     </message>
@@ -6067,27 +6032,27 @@ Please update %1!</source>
         <translation type="vanished">无法在所选择的Mod托管平台上找到可用的版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="355"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
         <source>Provider: %1</source>
         <translation>模组托管平台：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
         <source>Old version: %1</source>
         <translation>旧版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="358"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="361"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>New version: %1</source>
         <translation>新版本：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="364"/>
+        <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
         <source>Changelog of the latest version</source>
         <translation>最新版本的更新日志</translation>
     </message>
@@ -6191,18 +6156,18 @@ Please update %1!</source>
 <context>
     <name>Modrinth::ModpackListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="320"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="316"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="319"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="317"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="316"/>
         <source>A network error occurred. Could not load modpacks.</source>
         <translation>发生网络错误。无法加载模组包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="323"/>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
@@ -6213,32 +6178,32 @@ Please update %1!</source>
 <context>
     <name>ModrinthCheckUpdate</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="30"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="33"/>
         <source>Preparing mods for Modrinth...</source>
         <translation>正在为 Modrinth 准备模组...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="42"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="45"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
         <translation>为避免出现模组问题，被停用的模组将不会被更新！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="88"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="91"/>
         <source>Parsing the API response from Modrinth...</source>
         <translation>正在解析来自 Modrinth 的 API 响应……</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="103"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="106"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
         <translation>未获取到该模组的可用版本。可能在目前游戏版本/模组加载器中还不可用。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="129"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
         <source>Mod has an empty download URL</source>
         <translation>模组的下载链接为空</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="170"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="175"/>
         <source>Waiting for the API response from Modrinth...</source>
         <translation>正在等待 Modrinth API 回应……</translation>
     </message>
@@ -6347,29 +6312,24 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ModrinthModPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="50"/>
         <source>Sort by Relevance</source>
-        <translation>按相关度排序</translation>
+        <translation type="vanished">按相关度排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="51"/>
         <source>Sort by Downloads</source>
-        <translation>按下载量排序</translation>
+        <translation type="vanished">按下载量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="52"/>
         <source>Sort by Follows</source>
-        <translation>按关注数排序</translation>
+        <translation type="vanished">按关注数排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
-        <translation>按最后更新时间排序</translation>
+        <translation type="vanished">按最后更新时间排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
         <source>Sort by Newest</source>
-        <translation>按时间排序</translation>
+        <translation type="vanished">按时间排序</translation>
     </message>
 </context>
 <context>
@@ -6514,12 +6474,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="101"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="100"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>未能中止 NetJob 中的所有任务！</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="127"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="126"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>正在执行 %1 个任务（已完成 %3 个任务中的 %2 个）</translation>
     </message>
@@ -6834,17 +6794,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="373"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="374"/>
         <source>Aborted</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="640"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="641"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="642"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="643"/>
         <source>Version</source>
         <translation>版本</translation>
     </message>
@@ -7316,7 +7276,7 @@ Are you sure?</source>
         <translation>库 %1 的名称已损坏，不能处理。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="217"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
         <source>Invalid component file version, expected %1</source>
         <translation>无效组件版本，应为 %1</translation>
     </message>
@@ -7547,7 +7507,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>这个路径似乎不是 MCEdit 的路径</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="51"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="52"/>
         <source>No author(s)</source>
         <translation>无作者</translation>
     </message>
@@ -7711,6 +7671,248 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>unknown</source>
         <translation>未知</translation>
     </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
+        <source>Sort by Featured</source>
+        <translation type="unfinished">按精选内容排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
+        <source>Sort by Popularity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
+        <source>Sort by Last Updated</source>
+        <translation type="unfinished">按最后更新时间排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
+        <source>Sort by Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="225"/>
+        <source>Sort by Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
+        <source>Sort by Downloads</source>
+        <translation type="unfinished">按下载量排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="227"/>
+        <source>Sort by Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="228"/>
+        <source>Sort by Game Version</source>
+        <translation type="unfinished">按游戏版本排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="124"/>
+        <source>Sort by Relevance</source>
+        <translation type="unfinished">按相关度排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="126"/>
+        <source>Sort by Follows</source>
+        <translation type="unfinished">按关注数排序</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="128"/>
+        <source>Sort by Newest</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ResourceDownload::ModDownloadDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="102"/>
+        <source>mods</source>
+        <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ResourceDownload::ModPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
+        <source>mods</source>
+        <extracomment>The plural version of &apos;mod&apos;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="49"/>
+        <source>mod</source>
+        <extracomment>The singular version of &apos;mods&apos;</extracomment>
+        <translation type="unfinished">模组</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="144"/>
+        <source>No valid version found!</source>
+        <translation type="unfinished">未找到有效版本！</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="145"/>
+        <source>Cannot select invalid version :(</source>
+        <translation type="unfinished">不能选择无效的版本 :(</translation>
+    </message>
+</context>
+<context>
+    <name>ResourceDownload::ResourceDownloadDialog</name>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="55"/>
+        <source>Review and confirm</source>
+        <translation type="unfinished">检查并确认</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="56"/>
+        <source>Ctrl+Return</source>
+        <translation type="unfinished">Ctrl+Return</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="102"/>
+        <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="117"/>
+        <source>Confirm %1 to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="55"/>
+        <source>resources</source>
+        <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="57"/>
+        <source>Download %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ResourceDownload::ResourceModel</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="370"/>
+        <source>Error</source>
+        <translation type="unfinished">错误</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
+        <source>A network error occurred. Could not load mods.</source>
+        <translation type="unfinished">发生网络错误。无法加载模组。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="371"/>
+        <source>API version too old!
+Please update %1!</source>
+        <translation type="unfinished">API 版本太旧！
+请更新 %1！</translation>
+    </message>
+</context>
+<context>
+    <name>ResourceDownload::ResourcePage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="99"/>
+        <source>Search for %1...</source>
+        <extracomment>String in the search bar of the mod downloading dialog</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
+        <source>Select %1 for download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="194"/>
+        <source> by </source>
+        <translation type="unfinished"> 作者 </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
+        <source>Donate information: </source>
+        <translation type="unfinished">赞助信息： </translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
+        <source>External links:</source>
+        <translation type="unfinished">外部链接：</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="216"/>
+        <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
+        <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
+        <translation type="unfinished">Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="220"/>
+        <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
+        <translation type="unfinished">源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
+        <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
+        <translation type="unfinished">Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
+        <source>Deselect %1 for download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="264"/>
+        <source>No valid version found.</source>
+        <translation type="unfinished">未找到有效版本。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
+        <source>Cannot select invalid version :(</source>
+        <translation type="unfinished">不能选择无效的版本 :(</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="281"/>
+        <source>Loading versions...</source>
+        <translation type="unfinished">正在加载版本……</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="44"/>
+        <source>resources</source>
+        <extracomment>The plural version of &apos;resource&apos;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
+        <source>resource</source>
+        <extracomment>The singular version of &apos;resources&apos;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ResourceDownloadTask</name>
+    <message>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="40"/>
+        <source>Resource download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ResourceDownloadTask.cpp" line="41"/>
+        <source>Downloading resource:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourceFolderModel</name>
@@ -7805,31 +8007,71 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
 </context>
 <context>
+    <name>ResourcePage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
+        <source>Search</source>
+        <translation type="unfinished">搜索</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
+        <source>Version selected:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
+        <source>Filter options</source>
+        <translation type="unfinished">过滤选项</translation>
+    </message>
+</context>
+<context>
     <name>ReviewMessageBox</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="14"/>
         <source>Confirm mod selection</source>
-        <translation>确认所选</translation>
+        <translation type="vanished">确认所选</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="47"/>
         <source>You&apos;re about to download the following mods:</source>
-        <translation>您将要下载以下模组：</translation>
+        <translation type="vanished">您将要下载以下模组：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.ui" line="56"/>
         <source>Only mods with a check will be downloaded!</source>
-        <translation>只有勾选的模组才会被下载！</translation>
+        <translation type="vanished">只有勾选的模组才会被下载！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="12"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
         <translation>返回</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="35"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Filename: %1</source>
         <translation>文件名：%1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
+        <source>This download will be placed in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
+        <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
+        <source>Confirm %1 selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
+        <source>You&apos;re about to download the following %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
+        <source>Only %1 with a check will be downloaded!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
