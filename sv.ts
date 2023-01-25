@@ -636,32 +636,32 @@ Uppdatera både ditt operativsystem och %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="698"/>
+        <location filename="src/launcher/Application.cpp" line="659"/>
         <source>Settings</source>
         <translation>Inställningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1217"/>
+        <location filename="src/launcher/Application.cpp" line="1178"/>
         <source>Aborted</source>
         <translation>Avbruten</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1642"/>
+        <location filename="src/launcher/Application.cpp" line="1603"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Gammal data från %1 hittades, men det finns redan befintlig data från %2. Tyvärr måste du överföra den själv. Vill du bli påmind om den väntande överföringen nästa gång du startar %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1646"/>
+        <location filename="src/launcher/Application.cpp" line="1607"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Det verkar som att du använt %1 tidigare. Vill du flytta över din data till nya platsen %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1652"/>
+        <location filename="src/launcher/Application.cpp" line="1613"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Det verkar som att du tidigare använt %1 vid %2. Vill du flytta över din data till nya platsen %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1694"/>
+        <location filename="src/launcher/Application.cpp" line="1655"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrering misslyckades! Anledning: %1</translation>
     </message>
@@ -881,42 +881,42 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <translation type="vanished">Öppna Alla</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="163"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="167"/>
         <source>All mods found</source>
         <translation>Alla mods hittade</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="166"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
         <translation>Vänligen ladda ner de mods som saknas.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Hittades på %1 &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="49"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="53"/>
         <source>Open Missing</source>
         <translation>Öppna saknade</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
         <source>Add Download Folder</source>
         <translation>Lägg till nedladdningsmapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="128"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="132"/>
         <source>Select directory where you downloaded the mods</source>
         <translation>Välj sökvägen där dina mods är nedladdade</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="152"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
         <translation>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Hittades inte &lt;/span&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="150"/>
+        <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="154"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
         <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
@@ -1288,29 +1288,29 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <translation>Exportera instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="403"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
         <source>Export %1</source>
         <translation>Exportera %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="412"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
         <source>Overwrite?</source>
         <translation>Skriv över?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
         <source>This file already exists. Do you want to overwrite it?</source>
         <translation>Det existerar redan en fil med samma namn. Vill du skriva över den?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="428"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="428"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="433"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
         <translation>Kunde inte exportera instansen</translation>
     </message>
@@ -2067,49 +2067,40 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
 <context>
     <name>GoUpdate::DownloadTask</name>
     <message>
-        <location filename="src/launcher/updater/DownloadTask.cpp" line="48"/>
         <source>Loading version information...</source>
-        <translation>Laddar versionsinformation...</translation>
+        <translation type="vanished">Laddar versionsinformation...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/DownloadTask.cpp" line="85"/>
         <source>Failed to download version info files.</source>
-        <translation>Kunde inte ladda ner versionsinformation.</translation>
+        <translation type="vanished">Kunde inte ladda ner versionsinformation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/DownloadTask.cpp" line="93"/>
         <source>Reading file list for new version...</source>
-        <translation>Läser listan över filer för den nya versionen...</translation>
+        <translation type="vanished">Läser listan över filer för den nya versionen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/DownloadTask.cpp" line="106"/>
         <source>Reading file list for current version...</source>
-        <translation>Läser listan över filer för den nuvarande versionen...</translation>
+        <translation type="vanished">Läser listan över filer för den nuvarande versionen...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/DownloadTask.cpp" line="121"/>
         <source>Processing file lists - figuring out how to install the update...</source>
-        <translation>Bearbetar listor över filer - undersöker hur uppdateringen ska installeras...</translation>
+        <translation type="vanished">Bearbetar listor över filer - undersöker hur uppdateringen ska installeras...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/DownloadTask.cpp" line="129"/>
         <source>Failed to process update lists...</source>
-        <translation>Kunde inte processa uppdateringslistorna...</translation>
+        <translation type="vanished">Kunde inte processa uppdateringslistorna...</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/DownloadTask.cpp" line="140"/>
         <source>Downloading one update file.</source>
-        <translation>Laddar ner en uppdateringsfil.</translation>
+        <translation type="vanished">Laddar ner en uppdateringsfil.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/DownloadTask.cpp" line="144"/>
         <source>Downloading %1 update files.</source>
-        <translation>Laddar ned %1 uppdateringsfiler.</translation>
+        <translation type="vanished">Laddar ned %1 uppdateringsfiler.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/DownloadTask.cpp" line="159"/>
         <source>Failed to download update files: %1</source>
-        <translation>Kunde inte ladda ner uppdateringsfiler: %1</translation>
+        <translation type="vanished">Kunde inte ladda ner uppdateringsfiler: %1</translation>
     </message>
 </context>
 <context>
@@ -3337,32 +3328,30 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
         <translation>Sök efter uppdateringar automatiskt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="64"/>
         <source>Up&amp;date Channel:</source>
-        <translation>Uppdateringskanal:</translation>
+        <translation type="vanished">Uppdateringskanal:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="81"/>
         <source>No channel selected.</source>
-        <translation>Ingen kanal vald.</translation>
+        <translation type="vanished">Ingen kanal vald.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="67"/>
         <source>Folders</source>
         <translation>Mappar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="110"/>
         <source>I&amp;nstances:</source>
         <translation>Instanser:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="123"/>
         <source>&amp;Mods:</source>
         <translation>Mods:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="97"/>
         <source>&amp;Icons:</source>
         <translation>Ikoner:</translation>
     </message>
@@ -3371,7 +3360,7 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
         <translation type="vanished">Flytta PolyMC-data till en ny plats (kommer starta om PolyMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="206"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
         <source>User Interface</source>
         <translation>Användargränssnitt</translation>
     </message>
@@ -3384,23 +3373,23 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
         <translation type="vanished">Återställ dolda aviseringar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="215"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="188"/>
         <source>Instance view sorting mode</source>
         <translation>Sortering i instanslistan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="194"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
         <translation>Efter &amp;senast startade</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="204"/>
         <source>By &amp;name</source>
         <translation>Efter &amp;namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="217"/>
         <source>Theme</source>
         <translation>Tema</translation>
     </message>
@@ -3425,22 +3414,22 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
         <translation type="vanished">Enkla (färgade ikoner)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="136"/>
         <source>Mods</source>
         <translation>Mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="142"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
         <translation>Inaktivera användning av metadata som tillhandahålls av modleverantörer (som Modrinth eller Curseforge) för mods.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="145"/>
         <source>Disable using metadata for mods?</source>
         <translation>Inaktivera användning av metadata för mods?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="152"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Varning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Att inaktivera mod-metadata kan också inaktivera vissa trevnadsfunktioner, såsom uppdateringar av mod!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
@@ -3495,89 +3484,89 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
         <translation type="vanished">Teawie (ritad av SympathyTea)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="235"/>
         <source>Tools</source>
         <translation>Verktyg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="241"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
         <translation>Menyraden är mer användarvänlig för tangentbordsdriven interaktion.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="271"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
         <translation>&amp;Ersätt verktygsfältet med en menyrad</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="295"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="268"/>
         <source>Console</source>
         <translation>Konsol</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="301"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="274"/>
         <source>Console Settings</source>
         <translation>Konsolinställningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="307"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
         <translation>Visa konsolen medan spelet körs?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="314"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
         <translation>Stäng konsolen automatiskt när spelet avslutas?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="321"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
         <translation>Visa konsolen när spelet kraschar?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="331"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="304"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
         <translation>Begränsning av historik</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="337"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
         <translation>Stoppa loggning om den blir för stor</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="350"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="323"/>
         <source> lines</source>
         <translation> rader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="378"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="351"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
         <translation>Konsolens typsnitt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="127"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
         <source>Instance Folder</source>
         <translation>Instansmapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="136"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
         <translation>Du försöker välja en instansmapp vars sökväg innehåller minst ett &apos;!&apos;. Java är känt för att orsaka problem om så är fallet, så dina instanser kommer (förmodligen) inte starta!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
         <translation>Vill du verkligen använda denna sökväg? Om du väljer &quot;nej&quot; så stängs detta utan att påverka instansens sökväg.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="153"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
         <source>You&apos;re trying to specify an instance folder which was granted temporarily via Flatpak.
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
@@ -3592,32 +3581,32 @@ Detta är känt för att orsaka problem. Efter en omstart kan launchern få prob
 Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="160"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
         <source>Do you want to proceed anyway?</source>
         <translation>Vill du fortsätta ändå?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="154"/>
         <source>Icons Folder</source>
         <translation>Ikonmapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="188"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="165"/>
         <source>Mods Folder</source>
         <translation>Modmapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="400"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="292"/>
         <source>[Something/ERROR] A spooky error!</source>
         <translation>[Något/FEL] Ett kusligt fel!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="409"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="301"/>
         <source>[Test/INFO] A harmless message...</source>
         <translation>[Test/INFO] Ett ofarligt meddelande...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="418"/>
+        <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="310"/>
         <source>[Something/WARN] A not so spooky warning.</source>
         <translation>[Någon/VARN] En inte så kuslig varning.</translation>
     </message>
@@ -3625,25 +3614,25 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
 <context>
     <name>LauncherPartLaunch</name>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="101"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="102"/>
         <source>Launcher library could not be found. Please check your installation.</source>
         <translation>Launcher-biblioteket kunde inte hittas. Vänligen kontrollera din installation.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="169"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="170"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
         <translation>Wrapper-kommando &quot;%1&quot; hittades inte.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="202"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="203"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
         <translation>Kunde inte starta Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="211"/>
-        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="225"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="212"/>
+        <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="226"/>
         <source>Game crashed.</source>
         <translation>Spelet kraschade.</translation>
     </message>
@@ -3651,13 +3640,13 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
 <context>
     <name>LegacyFTB::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="54"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="56"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
         <translation>Sortera efter namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="55"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="57"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
         <translation>Sortera efter spelversion</translation>
@@ -3666,17 +3655,17 @@ Att ge %1 tillgång till den genom Flatseal rekommenderas.</translation>
 <context>
     <name>LegacyFTB::ListModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="116"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="118"/>
         <source>Public Modpack</source>
         <translation>Offentligt modpaket</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="118"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="120"/>
         <source>Third Party Modpack</source>
         <translation>Tredjepartsmodpaket</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="120"/>
+        <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="122"/>
         <source>Private Modpack</source>
         <translation>Privat modpaket</translation>
     </message>
@@ -4118,22 +4107,22 @@ Anledning:
         <translation type="vanished">Stäng av</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="726"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="722"/>
         <source>Kill the running instance</source>
         <translation>Stäng av pågående instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1253"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1236"/>
         <source>Launch</source>
         <translation>Starta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="706"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="702"/>
         <source>Launch the selected instance.</source>
         <translation>Starta den valda instansen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="470"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="466"/>
         <source>Main Toolbar</source>
         <translation>Huvudverktygsfält</translation>
     </message>
@@ -4142,44 +4131,44 @@ Anledning:
         <translation type="vanished">Lägg till instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="311"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="307"/>
         <source>Add a new instance.</source>
         <translation>Lägg till en ny instans.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="318"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="314"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
         <translation>&amp;Visa instansmapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="319"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="315"/>
         <source>Open the instance folder in a file browser.</source>
         <translation>Öppna instansmappen i filhanteraren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="321"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
         <translation>Öppna den &amp;centrala modmappen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="326"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="322"/>
         <source>Open the central mods folder in a file browser.</source>
         <translation>Öppna den centrala modmappen i filhanteraren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
         <source>&amp;Accounts</source>
         <translation>&amp;Konton</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="898"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="894"/>
         <source>Folders</source>
         <translation>Mappar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
         <source>Open one of the folders shared between instances.</source>
         <translation>Öppna en av mapparna som delas mellan instanser.</translation>
     </message>
@@ -4188,7 +4177,7 @@ Anledning:
         <translation type="vanished">Inställningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="351"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="347"/>
         <source>Change settings.</source>
         <translation>Ändra inställningar.</translation>
     </message>
@@ -4197,12 +4186,12 @@ Anledning:
         <translation type="vanished">Rapportera en bugg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="378"/>
         <source>Open the bug tracker to report a bug with %1.</source>
         <translation>Öppna bugg-trackern för att rapportera en bugg med %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="387"/>
         <source>Open %1 Matrix space</source>
         <translation>Öppna Matrix-rummet %1</translation>
     </message>
@@ -4217,7 +4206,7 @@ Anledning:
         <translation type="obsolete">Reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="409"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="405"/>
         <source>Open %1 subreddit.</source>
         <translation>Öppna subredditen %1.</translation>
     </message>
@@ -4226,18 +4215,18 @@ Anledning:
         <translation type="obsolete">Om %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="418"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="414"/>
         <source>View information about %1.</source>
         <translation>Visa information om %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="510"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="899"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="506"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="895"/>
         <source>Help</source>
         <translation>Hjälp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="511"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="507"/>
         <source>Get help with %1 or Minecraft.</source>
         <translation>Få hjälp med %1 eller Minecraft.</translation>
     </message>
@@ -4246,7 +4235,7 @@ Anledning:
         <translation type="vanished">Uppdatera</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="427"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="423"/>
         <source>Check for new updates for %1.</source>
         <translation>Leta efter nya uppdateringar för %1.</translation>
     </message>
@@ -4255,7 +4244,7 @@ Anledning:
         <translation type="vanished">Mjau</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="437"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="433"/>
         <source>It&apos;s a fluffy kitty :3</source>
         <translation>Det är en fluffig katt :3</translation>
     </message>
@@ -4264,298 +4253,298 @@ Anledning:
         <translation type="vanished">Hantera Konton</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="658"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="654"/>
         <source>News Toolbar</source>
         <translation>Nyhetsfält</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="663"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="659"/>
         <source>More news...</source>
         <translation>Fler nyheter...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="664"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="660"/>
         <source>Open the development blog to read more news about %1.</source>
         <translation>Öppna utvecklarbloggen för att läsa fler nyheter om %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="733"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
         <source>&amp;Edit...</source>
         <translation>&amp;Redigera...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="749"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="745"/>
         <source>&amp;Folder</source>
         <translation>&amp;Mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="756"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="752"/>
         <source>E&amp;xport...</source>
         <translation>E&amp;xportera...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="764"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="760"/>
         <source>Dele&amp;te</source>
         <translation>&amp;Ta bort</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="769"/>
         <source>Cop&amp;y...</source>
         <translation>&amp;Kopiera...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="803"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="799"/>
         <source>Instance Toolbar</source>
         <translation>Instansfält</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="679"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="675"/>
         <source>Change Icon</source>
         <translation>Ändra ikon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
         <source>&amp;Kill</source>
         <translation>&amp;Tvångsavsluta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="705"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="701"/>
         <source>&amp;Launch</source>
         <translation>&amp;Starta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="310"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="306"/>
         <source>Add Instanc&amp;e...</source>
         <translation>&amp;Lägg till instans...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="330"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="326"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
         <source>F&amp;olders</source>
         <translation>&amp;Mappar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="346"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
         <translation>&amp;Inställningar...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="357"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="353"/>
         <source>&amp;Undo Last Instance Deletion</source>
         <translation>Ångra &amp;borttagning av senaste instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="365"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>&amp;Clear Metadata Cache</source>
         <translation>Rensa metadata-&amp;cache</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="366"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="362"/>
         <source>Clear cached metadata</source>
         <translation>Rensa cachelagrade metadata</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="368"/>
         <source>Install to &amp;PATH</source>
         <translation>Installera till &amp;PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
         <translation>Installera en symbolisk länk för prismlauncher till /usr/local/bin</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="377"/>
         <source>Report a &amp;Bug...</source>
         <translation>Rapportera en &amp;bugg...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="390"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="386"/>
         <source>&amp;Matrix Space</source>
         <translation>&amp;Matrix-rum</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="399"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="395"/>
         <source>&amp;Discord Guild</source>
         <translation>&amp;Discord-server</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="408"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="404"/>
         <source>Sub&amp;reddit</source>
         <translation>Sub&amp;reddit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="417"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="413"/>
         <source>&amp;About %1</source>
         <translation>&amp;Om %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="426"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="422"/>
         <source>&amp;Update...</source>
         <translation>&amp;Uppdatera...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="436"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="432"/>
         <source>&amp;Meow</source>
         <translation>&amp;Mjau</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="444"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="440"/>
         <source>&amp;Manage Accounts...</source>
         <translation>&amp;Hantera konton...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="452"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="448"/>
         <source>Lock Toolbars</source>
         <translation>Lås verktygsfält</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="458"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
         <source>Themes</source>
         <translation>Teman</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="536"/>
         <source>&amp;File</source>
         <translation>&amp;Arkiv</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="558"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="554"/>
         <source>&amp;Edit</source>
         <translation>&amp;Redigera</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="557"/>
         <source>&amp;View</source>
         <translation>&amp;Visa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Help</source>
         <translation>&amp;Hjälp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="607"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="603"/>
         <source>Close &amp;Window</source>
         <translation>Stäng &amp;fönster</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="608"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="604"/>
         <source>Close the current window</source>
         <translation>Stäng det aktuella fönstret</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="615"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="611"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
         <translation>&amp;Hjälp med %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="616"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="624"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="612"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="620"/>
         <source>Open the %1 wiki</source>
         <translation>Öppna wikin för %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="623"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="619"/>
         <source>%1 &amp;News</source>
         <translation>&amp;Nyheter om %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="680"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
         <source>Change the selected instance&apos;s icon.</source>
         <translation>Ändra den valda instansens ikon.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="692"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="688"/>
         <source>Rename</source>
         <translation>Byt namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="693"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
         <source>Rename the selected instance.</source>
         <translation>Byt instansens namn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="712"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>Launch &amp;Offline</source>
         <translation>Starta &amp;offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="718"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="714"/>
         <source>Launch &amp;Demo</source>
         <translation>Starta &amp;demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="719"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
         <source>Launch the selected instance in demo mode.</source>
         <translation>Starta den valda instansen i demo-läge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="727"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
         <source>Ctrl+K</source>
         <translation>Ctrl+K</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="735"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="731"/>
         <source>Ctrl+I</source>
         <translation>Ctrl+I</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="741"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="737"/>
         <source>&amp;Change Group...</source>
         <translation>Byt &amp;grupp...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="743"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="739"/>
         <source>Ctrl+G</source>
         <translation>Ctrl+G</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="754"/>
         <source>Ctrl+E</source>
         <translation>Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="766"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="762"/>
         <source>Backspace</source>
         <translation>Backsteg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="775"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="771"/>
         <source>Ctrl+D</source>
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2283"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="777"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2205"/>
         <source>Create Shortcut</source>
         <translation>Skapa genväg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="782"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="778"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
         <translation>Skapar en genväg på ditt skrivbord för att starta den valda instansen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1123"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
         <source>Accounts</source>
         <translation>Konton</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1255"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1238"/>
         <source>Launch Offline</source>
         <translation>Starta offline</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2098"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2020"/>
         <source>Confirm Deletion</source>
         <translation>Bekräfta radering</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2099"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2021"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -4570,7 +4559,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
 Är du säker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="713"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>Launch the selected instance in offline mode.</source>
         <translation>Starta den valda instansen i offline-läge.</translation>
     </message>
@@ -4579,7 +4568,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <translation type="vanished">Ändra instansen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="734"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="730"/>
         <source>Change the instance settings, mods and versions.</source>
         <translation>Ändra instansens inställningar, mods och versioner.</translation>
     </message>
@@ -4596,7 +4585,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <translation type="vanished">Visa världar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="765"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="761"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
         <translation>Radera den valda instansen.</translation>
@@ -4614,7 +4603,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <translation type="vanished">Ändra grupp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="742"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="738"/>
         <source>Change the selected instance&apos;s group.</source>
         <translation>Ändra den valda instansens grupp.</translation>
     </message>
@@ -4640,7 +4629,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <translation type="vanished">Instansmapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="750"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="746"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
         <translation>Öppna den valda instansens mapp filhanteraren.</translation>
     </message>
@@ -4649,7 +4638,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <translation type="vanished">Exportera instansen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="753"/>
         <source>Export the selected instance as a zip file.</source>
         <translation>Exportera den valda instansen som en zip-fil.</translation>
     </message>
@@ -4663,7 +4652,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <translation type="vanished">Kopiera Instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="774"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="770"/>
         <source>Copy the selected instance.</source>
         <translation>Kopiera den valda instansen.</translation>
     </message>
@@ -4673,13 +4662,13 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <translation type="vanished"> på %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1006"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1129"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1002"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1112"/>
         <source>No instance selected</source>
         <translation>Ingen instans vald</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1007"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1003"/>
         <source>Total playtime: 0s</source>
         <translation>Sammanlagd speltid: 0s</translation>
     </message>
@@ -4688,140 +4677,140 @@ Detta kan vara permanent och kommer att helt radera instansen.
         <translation type="vanished">Profiler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1193"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1176"/>
         <source>Create instance</source>
         <translation>Skapa instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1209"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1192"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Radera grupp &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1256"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1239"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Skift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1257"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1240"/>
         <source>Launch Demo</source>
         <translation>Starta demo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1258"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1271"/>
         <source>Profilers</source>
         <translation>Prestationsverktyg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1276"/>
         <source>%1 Offline</source>
         <translation>%1 frånkopplad</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1299"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1282"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>Prestationsverktyget är inte rätt inställt. Gå till inställningarna för &quot;Externa verktyg&quot;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1365"/>
         <source>No accounts added!</source>
         <translation>Inga konton tillagda!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1414"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1397"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1429"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1412"/>
         <source>No Default Account</source>
         <translation>Inget standardkonto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1416"/>
         <source>Ctrl+0</source>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1544"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1527"/>
         <source>Loading news...</source>
         <translation>Laddar nyheter...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1559"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1542"/>
         <source>No news available.</source>
         <translation>Inga nyheter tillgängliga.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1686"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1609"/>
         <source>Warnings</source>
         <translation>Varningar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1691"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <source>Task aborted</source>
         <translation>Arbetet avbrutet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1691"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <source>The task has been aborted by the user.</source>
         <translation>Arbetet har avbrutits av användaren.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1694"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1736"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1617"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1659"/>
         <source>Abort</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1745"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1668"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>Launchern kan inte ladda ner Minecraft eller uppdatera instansen om du inte har lagt till minst ett konto.
 Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1929"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1852"/>
         <source>Group name</source>
         <translation>Gruppnamn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1929"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1852"/>
         <source>Enter a new group name.</source>
         <translation>Ange ett nytt gruppnamn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1951"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1874"/>
         <source>Delete group</source>
         <translation>Radera grupp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1951"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1874"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>Är du säker på att du vill radera gruppen %1?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2050"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1972"/>
         <source>Successfully added %1 to PATH</source>
         <translation>%1 har lagts till i PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2051"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1973"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 har lagts till i din PATH. Du kan nu starta den genom att köra `%2`.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2054"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1976"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Misslyckades med att lägga till %1 i PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2055"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1977"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Ett fel inträffade vid försök att lägga till %1 i PATH</translation>
     </message>
@@ -4830,124 +4819,121 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
         <translation type="vanished">VARNING!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2217"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2224"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2235"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2244"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2139"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2146"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2153"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2157"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2166"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2194"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2239"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2251"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2258"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2263"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2272"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2299"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2317"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2329"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2336"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2341"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2344"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2266"/>
         <source>Create instance shortcut</source>
         <translation>Skapa instansgenväg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2217"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2139"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Kunde inte hitta skrivbordet?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2224"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2146"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Launchern är i mappen som den extraherades från och kan därför inte skapa genvägar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2231"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2294"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2336"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2153"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2258"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Skapade en genväg till denna instans på skrivbordet!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2235"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2299"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2341"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2157"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2263"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Kunde inte skapa en genväg för instansen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2244"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2166"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>Launchern kör som felkonfigurerad AppImage? (systemvariabeln $APPIMAGE saknas)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2263"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2272"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2317"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2329"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2185"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2194"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2239"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2251"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Kunde inte skapa ikon för genvägen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2206"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>Skrivbordsobjekt (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2344"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2266"/>
         <source>Not supported on your platform!</source>
         <translation>Stöds inte på din plattform!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2443"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2365"/>
         <source>Rename Instance</source>
         <translation>Byt namn på instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2378"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Din instansmapp innehåller &apos;!&apos; vilket kan orsaka problem för Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2458"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2380"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Du har nu två alternativ: &lt;br/&gt; - ändra instansmappen i inställningarna &lt;br/&gt; - flytta denna installation i %1 till en annan mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2467"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2389"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Detta är ett problem: &lt;br/&gt; - Launchern kommer sannolikt raderas utan varning av operativsystemet &lt;br/&gt; - stäng launchern nu och extrahera den till en riktig plats, inte en tillfällig mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2474"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2396"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Din instansmapp innehåller &apos;Rar$&apos; - vilket betyder att du inte har extraherat arkivet för launchern!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2482"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2404"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Din instansmapp befinner sig i en temporär mapp: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="2495"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="2417"/>
         <source>Total playtime: %1</source>
         <translation>Sammanlagd speltid: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1629"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1646"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1679"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1655"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1667"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="400"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="396"/>
         <source>Open %1 Discord guild.</source>
         <translation>Öppna Discord-servern för %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1629"/>
         <source>Couldn&apos;t create folder for update downloads:
 %1</source>
-        <translation>Kunde inte skapa en mapp för nedladdningar av uppdateringar:
+        <translation type="vanished">Kunde inte skapa en mapp för nedladdningar av uppdateringar:
 %1</translation>
     </message>
 </context>
@@ -6630,34 +6616,34 @@ Detta kan vara permanent och den kommer att försvinna från loggmappen.
 <context>
     <name>PasteUpload</name>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="142"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="144"/>
         <source>Uploading to %1</source>
         <translation>Laddar upp till %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="159"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="161"/>
         <source>Network error: %1</source>
         <translation>Nätverksfel: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="166"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>Fel: %1 returnerade oväntad statuskod %2 %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="187"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="214"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="243"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="189"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="216"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="245"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>Fel: %1 returnerade felaktig svarstext</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="206"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>Fel: %1 returnerade ett fel: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="234"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="236"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>Fel: %1 returnerade en felkod: %2
@@ -6936,24 +6922,20 @@ Välj ditt namn noggrant:</translation>
         <translation>Ljust</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="156"/>
         <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Det finns inga ändringar mellan den version du använder och senaste %1.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Det finns inga ändringar mellan den version du använder och senaste %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="160"/>
         <source>&lt;p&gt;Following commits were added since last update:&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Följande ändringar har lagts till sedan den senaste uppdateringen:&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Följande ändringar har lagts till sedan den senaste uppdateringen:&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="167"/>
         <source>&lt;p&gt;The update removes %1 commits and adds the following %2:&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Uppdateringen tar bort %1 ändringar och lägger till följande %2:&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Uppdateringen tar bort %1 ändringar och lägger till följande %2:&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="170"/>
         <source>&lt;p&gt;You can &lt;a href=&quot;%1&quot;&gt;look at the changes on github&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Du kan &lt;a href=&quot;%1&quot;&gt;se dessa ändringar på GitHub&lt;/a&gt;.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Du kan &lt;a href=&quot;%1&quot;&gt;se dessa ändringar på GitHub&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="53"/>
@@ -6975,17 +6957,17 @@ Välj ditt namn noggrant:</translation>
         <translation>Tack till</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="133"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="129"/>
         <source>%1 (in use)</source>
         <translation>%1 (används)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="68"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
         <source>Confirm Upload</source>
         <translation>Bekräfta uppladdning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="70"/>
         <source>You are about to upload &quot;%1&quot; to %2.
 You should double-check for personal information.
 
@@ -6996,17 +6978,17 @@ Du bör dubbelkolla att det inte innehåller personlig information.
 Är du säker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="88"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="89"/>
         <source>Upload failed</source>
         <translation>Uppladdning misslyckades</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="99"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="100"/>
         <source>Upload finished</source>
         <translation>Uppladdning avslutad</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/GuiUtil.cpp" line="100"/>
+        <location filename="src/launcher/ui/GuiUtil.cpp" line="101"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;Länken till den uppladdade loggen&lt;/a&gt; har kopierats till urklipp.</translation>
     </message>
@@ -7047,7 +7029,7 @@ Du bör dubbelkolla att det inte innehåller personlig information.
         <translation>Javatest misslyckades</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="69"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="70"/>
         <source>Minecraft Server</source>
         <translation>Minecraftserver</translation>
     </message>
@@ -7146,44 +7128,38 @@ Du bör dubbelkolla att det inte innehåller personlig information.
         <translation>&lt;Offline&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="352"/>
         <source>Update failed!</source>
-        <translation>Uppdatering misslyckades!</translation>
+        <translation type="vanished">Uppdatering misslyckades!</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="353"/>
         <source>Rollback failed!</source>
-        <translation>Tillbakarullning misslyckades!</translation>
+        <translation type="vanished">Tillbakarullning misslyckades!</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="358"/>
         <source>Couldn&apos;t replace file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>Kunde inte ersätta filen %1. Ändringarna kommer att återställas.
+        <translation type="vanished">Kunde inte ersätta filen %1. Ändringarna kommer att återställas.
 Se loggfilen %2 för mer information.</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="368"/>
         <source>Couldn&apos;t remove file %1. Changes will be reverted.
 See the %2 log file for details.</source>
-        <translation>Kunde inte ta bort filen %1. Ändringarna kommer att återställas.
+        <translation type="vanished">Kunde inte ta bort filen %1. Ändringarna kommer att återställas.
 Se loggfilen %2 för mer information.</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="378"/>
         <source>The new version didn&apos;t start or is too old and doesn&apos;t respond to startup checks.
 
 Roll back to previous version?</source>
-        <translation>Den nya versionen startade inte eller är för gammal och svarar inte till startkontroll.
+        <translation type="vanished">Den nya versionen startade inte eller är för gammal och svarar inte till startkontroll.
 
 Rulla tillbaka till en föregående version?</translation>
     </message>
     <message>
-        <location filename="src/launcher/UpdateController.cpp" line="400"/>
         <source>The rollback failed too.
 You will have to repair %1 manually.
 Please let us know why and how this happened.</source>
-        <translation>Tillbakarullningen misslyckades också.
+        <translation type="vanished">Tillbakarullningen misslyckades också.
 Du måste reparera %1 manuellt.
 Vänligen låt oss veta varför och hur detta hände.</translation>
     </message>
@@ -7479,7 +7455,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="128"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Sortera efter senast uppdaterad</translation>
     </message>
@@ -7495,7 +7471,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="126"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished">Sortera efter nedladdningar</translation>
     </message>
@@ -7510,17 +7486,17 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <translation type="unfinished">Sortera efter spelversion</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <source>Sort by Relevance</source>
         <translation type="unfinished">Sortera efter relevans</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="126"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <source>Sort by Follows</source>
         <translation type="unfinished">Sortera efter följare</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="128"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="129"/>
         <source>Sort by Newest</source>
         <translation type="unfinished">Sortera efter nyaste</translation>
     </message>
@@ -7910,7 +7886,7 @@ Vänligen uppdatera %1!</translation>
         <translation>Kopiera fil(er)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="75"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="76"/>
         <source>Screenshots</source>
         <translation>Skärmdumpar</translation>
     </message>
@@ -8017,17 +7993,17 @@ Detta kan vara permanent och den kommer att försvinna från mappen.
 <context>
     <name>ServersModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="335"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="336"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="337"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="338"/>
         <source>Address</source>
         <translation>Adress</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="339"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="340"/>
         <source>Latency</source>
         <translation>Fördröjning</translation>
     </message>
@@ -8100,17 +8076,17 @@ Detta kan vara permanent och den kommer att försvinna från mappen.
         <translation>Servrar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="656"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="657"/>
         <source>Context menu</source>
         <translation>Kontextmeny</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="804"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
         <source>Confirm Removal</source>
         <translation>Bekräfta borttagning</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
+        <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="806"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
@@ -8569,45 +8545,37 @@ inheritsFrom saknas</translation>
 <context>
     <name>UpdateDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="14"/>
         <source>Launcher Update</source>
         <oldsource>PolyMC Update</oldsource>
-        <translation>Uppdatering av launchern</translation>
+        <translation type="vanished">Uppdatering av launchern</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="61"/>
         <source>Update now</source>
-        <translation>Uppdatera nu</translation>
+        <translation type="vanished">Uppdatera nu</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.ui" line="74"/>
         <source>Don&apos;t update yet</source>
-        <translation>Vänta med uppdateringen</translation>
+        <translation type="vanished">Vänta med uppdateringen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="52"/>
         <source>A new %1 update is available!</source>
-        <translation>En ny %1 uppdatering är tillgänglig!</translation>
+        <translation type="vanished">En ny %1 uppdatering är tillgänglig!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="56"/>
         <source>No %1 updates found. You are running the latest version.</source>
-        <translation>Inga %1-uppdateringar hittade. Du använder den senaste versionen.</translation>
+        <translation type="vanished">Inga %1-uppdateringar hittade. Du använder den senaste versionen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="58"/>
         <source>Close</source>
-        <translation>Stäng</translation>
+        <translation type="vanished">Stäng</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="60"/>
         <source>&lt;center&gt;&lt;h1&gt;Loading changelog...&lt;/h1&gt;&lt;/center&gt;</source>
-        <translation>&lt;center&gt;&lt;h1&gt;Laddar in ändringslogg...&lt;/h1&gt;&lt;/center&gt;</translation>
+        <translation type="vanished">&lt;center&gt;&lt;h1&gt;Laddar in ändringslogg...&lt;/h1&gt;&lt;/center&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/UpdateDialog.cpp" line="199"/>
         <source>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Failed to fetch changelog... Error: %1&lt;/span&gt;&lt;/p&gt;</source>
-        <translation>&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Hämtning av ändringslogg misslyckades... Fel: %1&lt;/span&gt;&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p align=&quot;center&quot; &lt;span style=&quot;font-size:22pt;&quot;&gt;Hämtning av ändringslogg misslyckades... Fel: %1&lt;/span&gt;&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
