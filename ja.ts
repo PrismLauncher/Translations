@@ -1836,7 +1836,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>CurseForgeのmod製作者はPrism Launcherのようなサードパーティツールからのダウンロードをブロックできます。そのような場合は、modpackを正常にインストールするため、それらを個別に手動でダウンロードする必要がある可能性があります。</translation>
+        <translation>CurseForgeのmod製作者はPrism Launcherのようなサードパーティツールからのダウンロードをブロックできます。その場合、modpackを正常にインストールするため、それらを個別に手動でダウンロードする必要がある場合があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
