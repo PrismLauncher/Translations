@@ -1788,7 +1788,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mod download</source>
-        <translation>Mod download</translation>
+        <translation>Mod downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
@@ -2339,7 +2339,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
         <source>Modpack download</source>
-        <translation>Modpack download</translation>
+        <translation>Modpack downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="128"/>
@@ -4313,7 +4313,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="773"/>
         <source>Cop&amp;y...</source>
-        <translation>Kopiër&amp;en</translation>
+        <translation>Kopiër&amp;en...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="781"/>
@@ -6002,7 +6002,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">De volgende mods zijn geblokkeerd op launchers van derde partijen.&lt;br/&gt;Je zal ze handmatig moeten downloaden en toevoegen aan de modpack</translation>
+        <translation>De volgende mods zijn geblokkeerd op launchers van derde partijen.&lt;br/&gt;Je zal ze handmatig moeten downloaden en toevoegen aan de modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
@@ -6017,7 +6017,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>Mod download</translation>
+        <translation>Mod downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
@@ -6161,7 +6161,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="226"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod download</translation>
+        <translation>Mod downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="258"/>
@@ -8339,7 +8339,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation>Modpack download</translation>
+        <translation>Modpack downloaden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
@@ -9468,7 +9468,7 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
         <source>Datapacks</source>
-        <translation>Datapacks</translation>
+        <translation>Datapakketten</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="148"/>
