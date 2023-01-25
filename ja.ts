@@ -646,22 +646,22 @@ OSと%1をアップデートしてください。</translation>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1641"/>
+        <location filename="src/launcher/Application.cpp" line="1642"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 からの古いデータが見つかりましたが、%2 用のデータが既に存在しています。手動で移行する必要があります。次回 %2 を起動する際に保留中のデータ移行について通知しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1645"/>
+        <location filename="src/launcher/Application.cpp" line="1646"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>あなたは以前%1を利用していたようです。データを%2の新しい場所に移行しますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1651"/>
+        <location filename="src/launcher/Application.cpp" line="1652"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>あなたは%2以前に%1を利用していたようです。データを%3の新しい場所に移行しますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1693"/>
+        <location filename="src/launcher/Application.cpp" line="1694"/>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました: %1</translation>
     </message>
