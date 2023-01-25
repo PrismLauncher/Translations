@@ -7843,7 +7843,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="55"/>
         <source>Review and confirm</source>
-        <translation type="unfinished">Überprüfen und bestätigen</translation>
+        <translation>Überprüfen und bestätigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="56"/>
@@ -7905,7 +7905,7 @@ Bitte aktualisiere %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
         <source>Select %1 for download</source>
-        <translation>%1 ausgewählt zum herunterladen</translation>
+        <translation>%1 zum Herunterladen auswählen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="194"/>
@@ -7945,7 +7945,7 @@ Bitte aktualisiere %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished">Entferne %1 zum herunterladen</translation>
+        <translation>Abwählen von %1 zum Herunterladen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="264"/>
@@ -7966,7 +7966,7 @@ Bitte aktualisiere %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="44"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation>Ressources</translation>
+        <translation>Ressourcen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
@@ -7980,13 +7980,13 @@ Bitte aktualisiere %1!</translation>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="40"/>
         <source>Resource download</source>
-        <translation>Ressource herunterladen</translation>
+        <translation>Ressourcen-Download</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="41"/>
         <source>Downloading resource:
 %1</source>
-        <translation>Resource herunterladen
+        <translation>Ressource wird heruntergeladen:
 %1</translation>
     </message>
 </context>
@@ -8087,17 +8087,17 @@ Bitte aktualisiere %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">Suchen</translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Ausgewählte Version:</translation>
+        <translation>Ausgewählte Version:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
         <source>Filter options</source>
-        <translation type="unfinished">Filter-Optionen</translation>
+        <translation>Filter-Optionen</translation>
     </message>
 </context>
 <context>
@@ -8127,27 +8127,27 @@ Bitte aktualisiere %1!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>This download will be placed in: %1</source>
-        <translation>Diese heruntergeladene Datei wird gespeichert in: %1</translation>
+        <translation>Die heruntergeladene Datei wird gespeichert in: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Datei wird in einen anderen Ordner als den Standardordner heruntergeladen, möglicherweise, weil der Mod-Loader dies verlangt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-Auswahl bestätigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Du bist dabei, die folgenden %1 herunterzuladen:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur %1 welche angehakt sind, werden heruntergeladen!</translation>
     </message>
 </context>
 <context>
