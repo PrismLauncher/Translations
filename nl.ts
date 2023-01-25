@@ -31,7 +31,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Let op: waarschijnlijk wil je de Basis URL veranderen of leeg maken nadat je de plak dienst type hebt veranderd.</translation>
+        <translation>Let op: waarschijnlijk wilt u de Basis URL veranderen of leeg maken nadat u de plak dienst type hebt veranderd.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -94,12 +94,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation>&amp;CurseForge Kern-API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Aandacht: je moet dit waarschijnlijk niet aanpassen als CurseForge al werkt.</translation>
+        <translation>Aandacht: u moet dit waarschijnlijk niet aanpassen als CurseForge al werkt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -563,7 +563,7 @@ Als u hier nieuw bent, kunt u op de knop &quot;Toevoegen&quot; klikken om uw Moj
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Microsoft-accounts kunnen alleen gebruikt worden op macOS 10.13 of nieuwer, met %1 volledig bijgewerkt.
+        <translation>Microsoftaccounts kunnen alleen gebruikt worden op macOS 10.13 of nieuwer, met %1 volledig bijgewerkt.
 
 Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     </message>
@@ -786,7 +786,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Weet je zeker dat je deze mod aan wil zetten?</translation>
+        <translation>Weet u zeker dat u deze mod aan wilt zetten?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
@@ -799,7 +799,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Waarschuwing: Dit is werk in uitvoering. Als je problemen ondervindt met het geïmporteerde modpack, kan het een bug zijn.</translation>
+        <translation>Waarschuwing: Dit is werk in uitvoering. Als u problemen ondervindt met het geïmporteerde modpack, kan het een bug zijn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -1017,12 +1017,12 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Conflicterende vereisten gedetecteerd tijdens het controleren van afhankelijkheden!</translation>
+        <translation>Botsende vereisten gedetecteerd tijdens het controleren van afhankelijkheden!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>De instance heeft conflicterende afhankelijkheden.</translation>
+        <translation>De instantie heeft botsende afhankelijkheden.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
@@ -1417,7 +1417,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>Probeer de geselecteerde hulpbronnen te controleren of te updaten (allemaal wanneer er geen geselecteerd zijn)</translation>
+        <translation>Probeer de geselecteerde hulpbronnen te controleren of te bijwerken (allemaal wanneer er geen geselecteerd zijn)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
@@ -1656,7 +1656,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="125"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Uitgeschakelde mods worden niet geüpdatet, ter voorkoming van duplicatieproblemen!</translation>
+        <translation>Uitgeschakelde mods worden niet bijgewerkt, ter voorkoming van duplicatieproblemen!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="129"/>
@@ -1672,7 +1672,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze onbeschikbaar is voor de huidige versie van het spel / mod loader.</translation>
+        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -1734,13 +1734,13 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Kon de naam van de overrides-map niet wijzigen:
+        <translation>Kon de naam van de overschrijvingsmap niet wijzigen:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>De opgegeven overrides-map (%1) kon niet worden gevonden. Misschien is de modpack al eens eerder gebruikt?</translation>
+        <translation>De opgegeven overschrijvingsmap (%1) kon niet worden gevonden. Misschien is de modpack al eens eerder gebruikt?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
@@ -1816,7 +1816,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="315"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Hey&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof je Pack ID null is. Dit komt door een bug in oudere versies van de Minecraft-launcher.&lt;br/&gt;Helaas, kunnen wij niet de juiste API aanroep doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken zal je de modpack opnieuw moeten downloaden vanuit de ingebouwde downloader.&lt;br/&gt;&lt;br/&gt;Maar maak je geen zorgen, er zal gevraagd worden om deze instantie te updaten zodat je deze instantie niet zult verliezen!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Hey!&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof het Pack ID null is. Dit komt door een bug in oudere versies van de Minecraft-launcher.&lt;br/&gt;Helaas kunnen wij niet de juiste API-verzoek doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken zal u de modpack opnieuw moeten downloaden vanuit de ingebouwde downloader.&lt;br/&gt;&lt;br/&gt;Maar maakt u zich geen zorgen, er zal gevraagd worden om deze instantie bij te werken zodat je deze instantie niet zult verliezen!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
@@ -4355,7 +4355,7 @@ Reden:
         <location filename="src/launcher/ui/MainWindow.cpp" line="330"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>F&amp;olders</source>
-        <translation>F&amp;olders</translation>
+        <translation>Mappen (&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="350"/>
@@ -6022,12 +6022,12 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Geblokkeerde Mods Kopiëren...</translation>
+        <translation>Geblokkeerde Mods Kopiëren...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Geblokkeerde Mods Kopiëren (%1 van de %2 zijn klaar)</translation>
+        <translation>Geblokkeerde Mods Kopiëren (%1 van de %2 zijn klaar)</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
@@ -6091,7 +6091,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="106"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze onbeschikbaar is voor de huidige versie van het spel / mod loader.</translation>
+        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
@@ -6109,7 +6109,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="56"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (versie %1)</translation>
+        <translation> (versie %1)</translation>
     </message>
     <message>
         <source>Similar modpack was found!</source>
@@ -6138,18 +6138,18 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
         <source>No index file.</source>
-        <translation type="unfinished">Geen indexbestand.</translation>
+        <translation>Geen indexbestand.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">We konden geen bruikbare index vinden voor de oude versie. Dit kan ervoor zorgen dat sommige bestanden gedupliceerd worden. Wilt u doorgaan?</translation>
+        <translation>We konden geen bruikbaar indexbestand vinden voor de oude versie. Dit kan ervoor zorgen dat sommige bestanden gedupliceerd worden. Wilt u doorgaan?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">De overrides-map kon niet worden hernoemd:
+        <translation>De overschrijvingsmap kon niet worden hernoemd:
 </translation>
     </message>
     <message>
@@ -6166,28 +6166,28 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="258"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Mods downloaden...</translation>
+        <translation>Mods downloaden...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="317"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished">Optionele mod gedetecteerd!</translation>
+        <translation>Optionele mod gedetecteerd!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="318"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished">Een of meer mods uit deze modpack zijn optioneel. Ze zullen worden gedownload, maar zullen standaard uit staan!</translation>
+        <translation>Een of meer mods uit deze modpack zijn optioneel. Ze zullen worden gedownload, maar zullen standaard uit staan!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="361"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished">Download URL voor %1 is niet een correct geformatteerd URL</translation>
+        <translation>Download URL voor %1 is niet een correct geformatteerde URL</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="392"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished">Kan pakket index niet begrijpen.
+        <translation>Kan pakket index niet begrijpen.
 </translation>
     </message>
 </context>
@@ -6196,7 +6196,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (huidig)</translation>
+        <translation>%1 (Huidig)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
@@ -6289,12 +6289,12 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
         <source> by </source>
-        <translation type="unfinished"> door </translation>
+        <translation> door </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="252"/>
         <source>Donate information: </source>
-        <translation type="unfinished">Donatie-informatie: </translation>
+        <translation>Donatie-informatie: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
@@ -6319,7 +6319,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="277"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
@@ -6372,7 +6372,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="126"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">%1 taken uitvoeren (%2 van %3 taken voltooid)</translation>
+        <translation>%1 taken uitvoeren (%2 van %3 taken voltooid)</translation>
     </message>
 </context>
 <context>
@@ -6564,7 +6564,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation type="unfinished">Upload het logbestand naar paste.ee - het zal een maand lang online blijven staan.</translation>
+        <translation>Upload het logbestand naar de tekstupload service geconfigureerd in de instellingen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
@@ -6611,7 +6611,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Verwijdering Bevestigen</translation>
+        <translation>Verwijdering Bevestigen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -6956,7 +6956,7 @@ Kies uw naam zorgvuldig:</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOC&amp;KS5</translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
@@ -7276,19 +7276,19 @@ Laat ons weten hoe en waarom dit is gebeurd.</translation>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1m %2s</translation>
+        <translation>%1min %2s</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1u %2m</translation>
+        <translation>%1u %2min</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1d %2u %3m</translation>
+        <translation>%1d %2u %3min</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -7340,7 +7340,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java checker library kon niet gevonden worden. Check je installatie.</translation>
+        <translation>Java controle bibliotheek kon niet gevonden worden. Controleer je installatie.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -7410,7 +7410,7 @@ Nieuwe naam: %2</translation>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished">Vergelijkbaar modpack gevonden!</translation>
+        <translation>Vergelijkbaar modpack gevonden!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
@@ -7745,7 +7745,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
