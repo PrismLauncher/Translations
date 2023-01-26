@@ -1075,7 +1075,7 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Dit uitzetten zal de modloader (bvb. Fabric, Quilt, etc.) behouden, maar de mods map en zijn instellingen zal gewist worden.</translation>
+        <translation>Dit uitzetten zal de modlader (bijv. Fabric, Quilt, etc.) behouden, maar de mods map en diens instellingen zullen gewist worden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
@@ -1672,7 +1672,7 @@ Probeer het opnieuw.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel / mod loader.</translation>
+        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -1745,7 +1745,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Onbekende mod-lader in manifest: %1</translation>
+        <translation>Onbekende modlader in manifest: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="322"/>
@@ -1816,7 +1816,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="315"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Hé!&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof het Pakket-ID null is. Dit komt door een bug in oudere versies van de Minecraft-launcher.&lt;br/&gt;Helaas kunnen wij niet het juiste API-verzoek doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken zult u de modpack opnieuw moeten downloaden vanuit de ingebouwde downloader.&lt;br/&gt;&lt;br/&gt;Maar maakt u zich geen zorgen, er zal gevraagd worden om deze instantie bij te werken zodat u deze instantie niet zult verliezen!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Hé!&lt;/h1&gt;&lt;h4&gt;Het lijkt alsof het Pakket-ID null is. Dit komt door een bug in oudere versies van de Minecraft launcher.&lt;br/&gt;Helaas kunnen wij niet het juiste API-verzoek doen zonder deze informatie.&lt;br/&gt;&lt;br/&gt;Om dit onderdeel te laten werken zult u de modpack opnieuw moeten downloaden vanuit de ingebouwde downloader.&lt;br/&gt;&lt;br/&gt;Maar maakt u zich geen zorgen, er zal gevraagd worden om deze instantie bij te werken zodat u deze instantie niet zult verliezen!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
@@ -2184,7 +2184,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher, PolyMC / MultiMC geëxporteerde instanties (ZIP)</translation>
+        <translation>- Prism Launcher, PolyMC of MultiMC geëxporteerde instanties (zipbestand)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -5650,7 +5650,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
         <source>Please install a mod loader first!</source>
-        <translation>Gelieve eerst een mod-lader te installeren!</translation>
+        <translation>Gelieve eerst een modlader te installeren!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
@@ -6077,7 +6077,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="106"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel / mod loader.</translation>
+        <translation>Er is geen geldige versie van deze mod gevonden. Waarschijnlijk omdat deze niet beschikbaar is voor de huidige versie van het spel/modlader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
@@ -7840,7 +7840,7 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Is het resourcepakket ingeschakeld? (Geld alleen voor zipbestanden)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
@@ -7910,27 +7910,27 @@ Gelieve %1 bij te werken!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>De download zal geplaatst worden in: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit bestand zal in een andere map gedownload worden dan standaard is ingesteld, mogelijk omdat de lader dit vereist.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestig selectie %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>U staat op het punt de volgende %1 downloaden:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen %1 met een vinkje zullen worden gedownload!</translation>
     </message>
 </context>
 <context>
@@ -7987,7 +7987,9 @@ Gelieve %1 bij te werken!</translation>
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>U staat op het punt %1 screenshots up te loaden.
+
+Weet u het zeker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
@@ -8043,7 +8045,10 @@ Weet u het zeker?</translation>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>U staat op het punt het geselecteerde screenshot te verwijderen.
+Dit bestand zal waarschijnlijk permanent uit de map verdwijnen.
+
+Weet u het zeker?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
@@ -8173,7 +8178,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>U staat op het punt &quot;%1&quot; te verwijderen.
+Dit is niet terugdraaibaar en de server zal permanent uit uw lijst verdwijnen (EEN LANGE TIJD).
+
+Weet u het zeker?</translation>
     </message>
 </context>
 <context>
@@ -8248,7 +8256,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
         <source>Leave empty to keep current skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Laat leeg om de huidige skin te behouden</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
@@ -8534,7 +8542,7 @@ inheritsFrom ontbreekt</translation>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>De kat verschijnt op de achtergrond en is standaard niet te zien. De kat is alleen zichtbaar wanneer de katknop is ingedrukt in de menubalk.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
@@ -8547,27 +8555,27 @@ inheritsFrom ontbreekt</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>WizardPage</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecteer het thema dat u wenst te gebruiken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip: De kat verschijnt op de achtergrond en is standaard niet zichtbaar. De kat is alleen zichtbaar wanneer de katknop in de menubalk is ingedrukt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Voorbeeld:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>De kat verschijnt op de achtergrond en heeft geen nut, het is enkel visueel.</translation>
     </message>
 </context>
 <context>
@@ -8903,7 +8911,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
         <source>Install the Fabric Loader package.</source>
-        <translation>Installeer het Fabric Loader pakket.</translation>
+        <translation>Installeer het Fabric Lader pakket.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
@@ -9156,17 +9164,17 @@ Voeg uw Mojang of Minecraft-account toe.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="529"/>
         <source>Select Fabric Loader version</source>
-        <translation>Kies Fabric Loader-versie</translation>
+        <translation>Kies Fabric Laderversie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="530"/>
         <source>No Fabric Loader versions are currently available.</source>
-        <translation>Er zijn momenteel geen Fabric Loader versies beschikbaar.</translation>
+        <translation>Er zijn momenteel geen Fabric Lader versies beschikbaar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="531"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
-        <translation>Kon de Fabric Loader versielijsten niet laden of downloaden!</translation>
+        <translation>Kon de Fabric Lader versielijsten niet inladen of downloaden!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
