@@ -1126,7 +1126,7 @@ OSと%1をアップデートしてください。</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">カスタムコマンド</translation>
+        <translation>カスタムコマンド(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
@@ -1452,7 +1452,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished">テキストエディタ:</translation>
+        <translation>テキストエディタ(&amp;T):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
@@ -3338,7 +3338,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="241"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>メニューバーによりキーボード操作がしやすくなります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
@@ -3986,7 +3986,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="314"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation>&amp;インスタンスフォルダを開く</translation>
+        <translation>インスタンスフォルダを開く(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="315"/>
@@ -3997,7 +3997,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="321"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="unfinished">Central Modsフォルダを開く</translation>
+        <translation>Central Modsフォルダを開く(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="322"/>
@@ -4007,7 +4007,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
         <source>&amp;Accounts</source>
-        <translation>&amp;アカウント</translation>
+        <translation>アカウント(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="894"/>
@@ -4184,7 +4184,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="361"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータキャッシュを削除(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="362"/>
@@ -4224,12 +4224,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="413"/>
         <source>&amp;About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1について(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="422"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation>更新(&amp;U)…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="432"/>
@@ -4274,7 +4274,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="603"/>
         <source>Close &amp;Window</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウを閉じる(&amp;W)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="604"/>
