@@ -4112,7 +4112,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="660"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>開発ブログを開いて%1に関するニュースをチェックする。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="729"/>
@@ -4189,12 +4189,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="362"/>
         <source>Clear cached metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>キャッシュされたメタデータの削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="368"/>
         <source>Install to &amp;PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>PATHに追加</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="369"/>
@@ -4234,7 +4234,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="432"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;にゃーん</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="440"/>
@@ -4244,32 +4244,32 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="448"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールバーをロック</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="454"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>テーマ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="536"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="554"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;編集</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="557"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;表示</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ヘルプ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="603"/>
@@ -4279,7 +4279,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="604"/>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>このウィンドウを閉じる</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="611"/>
@@ -4306,7 +4306,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="688"/>
         <source>Rename</source>
-        <translation>リネーム</translation>
+        <translation>名前を編集</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="689"/>
@@ -4316,17 +4316,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="708"/>
         <source>Launch &amp;Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;オフラインで起動</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="714"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;デモ版を起動</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>このインスタンスをデモ版で起動します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="723"/>
@@ -4367,18 +4367,18 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="777"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2205"/>
         <source>Create Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>ショートカット作成</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="778"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたインスタンスのショートカットをデスクトップに作成します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1106"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1487"/>
         <source>Accounts</source>
-        <translation type="unfinished">アカウント</translation>
+        <translation>アカウント</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1238"/>
@@ -4388,7 +4388,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2020"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>削除を決定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2021"/>
@@ -4400,7 +4400,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;を削除しようとしています。
+このインスタンスは完全に削除され、元に戻りません。
+
+よろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
@@ -4432,7 +4435,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="761"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">選択したインスタンスのワールドを表示します。</translation>
+        <translation>選択したインスタンスを削除します。</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -4484,7 +4487,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="753"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>このインスタンスをzip形式でエクスポートします。</translation>
     </message>
     <message>
         <source>Delete Instance</source>
@@ -4538,7 +4541,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1240"/>
         <source>Launch Demo</source>
-        <translation type="unfinished">デモを起動</translation>
+        <translation>デモを起動</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1241"/>
@@ -4583,39 +4586,40 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1527"/>
         <source>Loading news...</source>
-        <translation type="unfinished"></translation>
+        <translation>ニュースをロード中…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1542"/>
         <source>No news available.</source>
-        <translation type="unfinished"></translation>
+        <translation>ニュースがありません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1609"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <source>Task aborted</source>
-        <translation type="unfinished">タスク中止</translation>
+        <translation>タスク中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1614"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">ユーザーによりタスクが中止されました。</translation>
+        <translation>ユーザーによりタスクが中止されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1617"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1659"/>
         <source>Abort</source>
-        <translation type="unfinished">中断</translation>
+        <translation>中断</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1668"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントを追加しない限り、ランチャーはMinecraftをダウンロードしたり更新したりできません。
+MojangかMicrosoftのアカウントを追加してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1852"/>
@@ -4625,7 +4629,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1852"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>グループ名を入力してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1874"/>
@@ -4635,27 +4639,27 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1874"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を削除しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1972"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>正常に %1 をPATHに追加しました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1973"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 はPATHに追加されました。`%2`を実行することで起動できます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1976"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のPATHへの追加に失敗しました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1977"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のPATHへの追加中にエラーが発生しました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2139"/>
@@ -4673,31 +4677,31 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2263"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2266"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>インスタンスのショートカットを作成</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2139"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>デスクトップが見つかりませんよ?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2146"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>ランチャーは解凍したフォルダーの中にあるため、ショートカットを作成することができません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2153"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2216"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2258"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>このインスタンスへのショートカットをデスクトップに作成しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2157"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2221"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2263"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>インスタンスのショートカットの作成に失敗しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2166"/>
@@ -4725,7 +4729,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2365"/>
         <source>Rename Instance</source>
-        <translation>インスタンスをリネーム</translation>
+        <translation>インスタンスの名前を編集</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2378"/>
