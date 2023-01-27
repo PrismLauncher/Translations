@@ -930,7 +930,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished">Skip aww</translation>
+        <translation>Skip aww</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
@@ -969,7 +969,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation type="unfinished">Instance has confwicting dependencies.</translation>
+        <translation>Instawnce has confwicting dependencies.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
@@ -994,7 +994,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="163"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Executing %1 task(s) (%2 out of %3 awe donye)</translation>
+        <translation>Execwuting %1 task(s) (%2 ouwt of %3 awe donye)</translation>
     </message>
 </context>
 <context>
