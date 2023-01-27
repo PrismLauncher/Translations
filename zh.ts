@@ -7655,7 +7655,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished"></translation>
+        <translation>按热门度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
@@ -7666,12 +7666,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>按名称排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="225"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>按作者排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
@@ -7682,7 +7682,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="227"/>
         <source>Sort by Category</source>
-        <translation type="unfinished"></translation>
+        <translation>按分类排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="228"/>
