@@ -115,12 +115,12 @@
             "untranslated" : 1086
         },
         "en_GB" : {
-            "file" : "53a468225be812cf19f6c8d5b57b6ead320dceaf.class",
-            "sha1" : "53a468225be812cf19f6c8d5b57b6ead320dceaf",
-            "size" : 205555,
-            "translated" : 1458,
-            "fuzzy" : 31,
-            "untranslated" : 19
+            "file" : "c7427f35ef73ffd8148ad382c067416c8afef6a7.class",
+            "sha1" : "c7427f35ef73ffd8148ad382c067416c8afef6a7",
+            "size" : 208208,
+            "translated" : 1508,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "en_NZ" : {
             "file" : "4884fd9af6890647b7af1aefa57f38cca49ad899.class",
@@ -267,12 +267,12 @@
             "untranslated" : 0
         },
         "ja" : {
-            "file" : "b7b0114bb44cff8cf00ad33c9f9033fceb105d05.class",
-            "sha1" : "b7b0114bb44cff8cf00ad33c9f9033fceb105d05",
-            "size" : 125366,
-            "translated" : 1008,
-            "fuzzy" : 123,
-            "untranslated" : 377
+            "file" : "029e49570acdf2b206dcc7b7b608d2aa1cb146f9.class",
+            "sha1" : "029e49570acdf2b206dcc7b7b608d2aa1cb146f9",
+            "size" : 129179,
+            "translated" : 1049,
+            "fuzzy" : 118,
+            "untranslated" : 341
         },
         "ja_KANJI" : {
             "file" : "378d1f4ff95391a3b5266e81ecdbde4f9c7d15b0.class",
@@ -507,12 +507,12 @@
             "untranslated" : 275
         },
         "vi" : {
-            "file" : "fedf53e871617f5eac74f4d6fead6a4d4ef0fb02.class",
-            "sha1" : "fedf53e871617f5eac74f4d6fead6a4d4ef0fb02",
-            "size" : 150838,
-            "translated" : 961,
-            "fuzzy" : 153,
-            "untranslated" : 394
+            "file" : "ae0f971c718064b144b12153578d306f51e042f6.class",
+            "sha1" : "ae0f971c718064b144b12153578d306f51e042f6",
+            "size" : 155592,
+            "translated" : 993,
+            "fuzzy" : 155,
+            "untranslated" : 360
         },
         "zh" : {
             "file" : "4ca34321ebface4fde508c030b9c87a19b414d18.class",
