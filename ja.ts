@@ -102,7 +102,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation>AI</translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -1497,7 +1497,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -4725,7 +4725,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2365"/>
         <source>Rename Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>インスタンスをリネーム</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2378"/>
