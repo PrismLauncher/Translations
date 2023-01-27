@@ -4624,7 +4624,7 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1852"/>
         <source>Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>グループ名</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1852"/>
@@ -4634,7 +4634,7 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1874"/>
         <source>Delete group</source>
-        <translation type="unfinished"></translation>
+        <translation>グループを削除</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1874"/>
