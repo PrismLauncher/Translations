@@ -4314,7 +4314,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="339"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>强制退出运行中的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
@@ -4504,7 +4504,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>在 /usr/local/bin 创建一个 %1 的符号链接</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
@@ -7711,7 +7711,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="128"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation>按最近更新排序</translation>
     </message>
 </context>
 <context>
