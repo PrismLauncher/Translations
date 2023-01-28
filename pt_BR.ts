@@ -747,7 +747,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation>Ordenar pela versão do Jogo</translation>
+        <translation>Ordenar pela Versão do Jogo</translation>
     </message>
 </context>
 <context>
@@ -4238,7 +4238,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="303"/>
         <source>Change settings.</source>
-        <translation>mudar ajustes.</translation>
+        <translation>Mudar configurações.</translation>
     </message>
     <message>
         <source>Report a Bug</source>
@@ -4332,7 +4332,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="339"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mate a instância em execução.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
@@ -4517,12 +4517,12 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir o espaço no Matrix do %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="635"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar um link simbólico do %1 para /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="680"/>
@@ -6369,7 +6369,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
         <source>Sort by Relevance</source>
-        <translation>Ordenar por relevância</translation>
+        <translation>Ordenar por Relevância</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -6378,7 +6378,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Follows</source>
-        <translation>Ordenar por número de seguidores</translation>
+        <translation>Ordenar por Número de Seguidores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
@@ -6390,7 +6390,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation>Ordenar por Mais novo</translation>
+        <translation>Ordenar por Mais Novo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
@@ -7691,59 +7691,59 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Destaque</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Ordenar por Popularidade</translation>
+        <translation>Ordenar por Popularidade</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Ordenar por Última atualização</translation>
+        <translation>Ordenar por Atualizado Recentemente</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="225"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Autor</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="227"/>
         <source>Sort by Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Categoria</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="228"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Versão do Jogo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="124"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Relevância</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="126"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Número de Seguidores</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="128"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordenar por Mais Novo</translation>
     </message>
 </context>
 <context>
@@ -7752,7 +7752,7 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="102"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mods</translation>
     </message>
 </context>
 <context>
@@ -7761,23 +7761,23 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="49"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished">mod</translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="144"/>
         <source>No valid version found!</source>
-        <translation type="unfinished">Versão válida não encontrada!</translation>
+        <translation>Versão válida não foi encontrada!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="145"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished">Não pode selecionar uma versão inválida :(</translation>
+        <translation>Não pode selecionar uma versão inválida :(</translation>
     </message>
 </context>
 <context>
@@ -7785,33 +7785,33 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="55"/>
         <source>Review and confirm</source>
-        <translation type="unfinished">Revise e confirme</translation>
+        <translation>Revise e confirme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="56"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="102"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Abre um popup para revisar seus %1 selecionados e confirmar suas escolhas. Atalho: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="117"/>
         <source>Confirm %1 to download</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar %1 para serem baixados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="55"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="57"/>
         <source>Download %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar %1</translation>
     </message>
 </context>
 <context>
@@ -7820,18 +7820,19 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="370"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished">Um erro de conexão ocorreu. Não foi possível carregar os mods.</translation>
+        <translation>Um erro de conexão ocorreu. Não foi possível carregar os mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="371"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão da API é muito antiga!
+Por favor atualize %1!</translation>
     </message>
 </context>
 <context>
@@ -7840,80 +7841,80 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="99"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Procure por %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
         <source>Select %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione %1 para download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="194"/>
         <source> by </source>
-        <translation type="unfinished"> por </translation>
+        <translation> feito por </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
         <source>Donate information: </source>
-        <translation type="unfinished">Informações sobre doações: </translation>
+        <translation>Informação para doações: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
         <source>External links:</source>
-        <translation type="unfinished">Links externos:</translation>
+        <translation>Links externos:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="216"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Erros: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Erros: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="220"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Código-fonte: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Código-fonte: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>Desmarcar %1 para download</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="264"/>
         <source>No valid version found.</source>
-        <translation type="unfinished">Versão válida não encontrada.</translation>
+        <translation>Nenhuma versão válida encontrada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished">Não pode selecionar uma versão inválida :(</translation>
+        <translation>Não é possível selecionar uma versão inválida :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="281"/>
         <source>Loading versions...</source>
-        <translation type="unfinished">Carregando versões...</translation>
+        <translation>Carregando versões...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="44"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>recursos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>recurso</translation>
     </message>
 </context>
 <context>
@@ -7921,13 +7922,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="40"/>
         <source>Resource download</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar recurso</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="41"/>
         <source>Downloading resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixando recurso:
+%1</translation>
     </message>
 </context>
 <context>
@@ -8027,17 +8029,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Versão selecionada:</translation>
+        <translation>Versão selecionada:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
         <source>Filter options</source>
-        <translation type="unfinished">Opções de filtro</translation>
+        <translation>Opções de filtro</translation>
     </message>
 </context>
 <context>
@@ -8067,27 +8069,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse download vai ser colocado em: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse arquivo vai ser baixado para uma localização diferente da padrão, possivelmente devido ao seu carregador necessitando isso.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirme a seleção de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Você está prestes a baixar os seguintes %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Apenas %1 selecionados serão baixados!</translation>
     </message>
 </context>
 <context>
@@ -9509,7 +9511,7 @@ Por favor, adicione a sua conta do Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="209"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Customizar ações da barra de tarefas</translation>
     </message>
 </context>
 <context>
