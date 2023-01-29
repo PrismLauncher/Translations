@@ -1497,7 +1497,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM　実行ファイル</translation>
+        <translation>JVisualVM&#x3000;実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -7259,7 +7259,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="371"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">APIのバージョンが古すぎます！
+%1をアップデートしてください！</translation>
     </message>
 </context>
 <context>
