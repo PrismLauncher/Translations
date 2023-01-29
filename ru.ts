@@ -4350,7 +4350,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="339"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить запущенную сборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
