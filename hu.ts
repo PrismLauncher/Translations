@@ -4246,7 +4246,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="339"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Futó példány megölése.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
@@ -4431,12 +4431,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyissa meg a %1 Matrix space oldalát.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Telepítsen egy %1 szimbolikus hivatkozást a /usr/local/bin mappába</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="674"/>
@@ -9345,7 +9345,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="209"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Az eszköztár műveleteinek testreszabása</translation>
     </message>
 </context>
 <context>
