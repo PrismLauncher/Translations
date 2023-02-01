@@ -4540,7 +4540,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation>Erstelle ein Symlink zu /usr/local/bin</translation>
+        <translation>Erstelle ein %1 Symlink zu /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="674"/>
