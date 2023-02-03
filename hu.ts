@@ -6150,7 +6150,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az egyik fájl elérési útja tetszőleges helyre (%1) vezet. Ez biztonsági kockázatot jelent, és nem megengedett.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
@@ -7159,7 +7159,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="131"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>A komponens &quot;uid&quot;-je illegális karaktereket tartalmaz! Ez biztonsági problémákat okozhat.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
