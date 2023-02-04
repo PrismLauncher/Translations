@@ -4499,7 +4499,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>打开 %1 Matrix 空间。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
@@ -6266,7 +6266,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>其中一个文件具有通向任意位置的路径 (%1)。不允许此操作，因为有安全风险。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
@@ -7279,7 +7279,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="131"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>组件的“uid”包含非法字符！这可能会导致安全问题。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
@@ -7669,7 +7669,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">按精选内容排序</translation>
+        <translation>按精选内容排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
@@ -7680,7 +7680,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">按最后更新时间排序</translation>
+        <translation>按最后更新时间排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
@@ -7696,7 +7696,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">按下载量排序</translation>
+        <translation>按下载量排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="227"/>
@@ -7706,17 +7706,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="228"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">按游戏版本排序</translation>
+        <translation>按游戏版本排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="124"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">按相关度排序</translation>
+        <translation>按相关度排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="126"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">按关注数排序</translation>
+        <translation>按关注数排序</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="128"/>
@@ -7745,7 +7745,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="49"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished">模组</translation>
+        <translation>模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="144"/>
@@ -7755,7 +7755,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="145"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished">不能选择无效的版本 :(</translation>
+        <translation>不能选择无效的版本 :(</translation>
     </message>
 </context>
 <context>
@@ -7763,12 +7763,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="55"/>
         <source>Review and confirm</source>
-        <translation type="unfinished">检查并确认</translation>
+        <translation>检查并确认</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="56"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="102"/>
@@ -7798,18 +7798,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="370"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished">发生网络错误。无法加载模组。</translation>
+        <translation>发生网络错误。无法加载模组。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="371"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">API 版本太旧！
+        <translation>API 版本太旧！
 请更新 %1！</translation>
     </message>
 </context>
@@ -7830,17 +7830,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="194"/>
         <source> by </source>
-        <translation type="unfinished"> 作者 </translation>
+        <translation> 作者 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
         <source>Donate information: </source>
-        <translation type="unfinished">赞助信息： </translation>
+        <translation>赞助信息： </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
         <source>External links:</source>
-        <translation type="unfinished">外部链接：</translation>
+        <translation>外部链接：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="216"/>
@@ -7850,17 +7850,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="220"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>源代码：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord：&lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
@@ -7870,17 +7870,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="264"/>
         <source>No valid version found.</source>
-        <translation type="unfinished">未找到有效版本。</translation>
+        <translation>未找到有效版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished">不能选择无效的版本 :(</translation>
+        <translation>不能选择无效的版本 :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="281"/>
         <source>Loading versions...</source>
-        <translation type="unfinished">正在加载版本……</translation>
+        <translation>正在加载版本……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="44"/>
@@ -8007,17 +8007,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">搜索</translation>
+        <translation>搜索</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>选择版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
         <source>Filter options</source>
-        <translation type="unfinished">过滤选项</translation>
+        <translation>过滤选项</translation>
     </message>
 </context>
 <context>
@@ -8047,27 +8047,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此下载将放置在：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>该文件将下载到与默认位置不同的文件夹，可能是因为其加载器需要这样做。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>确认 %1 选择</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>您将要下载以下 %1：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>只会下载勾选的的 %1！</translation>
     </message>
 </context>
 <context>
@@ -9489,7 +9489,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="209"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义工具栏操作</translation>
     </message>
 </context>
 <context>
