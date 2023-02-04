@@ -136,7 +136,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="323"/>
         <source>Unknown mod type: %1</source>
-        <translation>ante musi la sona ala: %1</translation>
+        <translation>namako la sona ala: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="368"/>
@@ -613,7 +613,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="743"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ante nasin</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1288"/>
@@ -674,7 +674,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
@@ -1447,17 +1447,17 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="51"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan tenpo ante pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="52"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="53"/>
         <source>Sort by Author</source>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan mama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlameModPage.cpp" line="54"/>
@@ -1505,19 +1505,19 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="61"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan tenpo ante pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="62"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan mama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
@@ -1534,7 +1534,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="235"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> tan </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="242"/>
@@ -1544,12 +1544,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="246"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu pakala: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="248"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu sona: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="250"/>
@@ -1584,7 +1584,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan nimi</translation>
     </message>
 </context>
 <context>
@@ -2047,12 +2047,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="77"/>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>o alasa...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="84"/>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>o lukin kepeken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
@@ -2523,7 +2523,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="436"/>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>o alasa</translation>
     </message>
 </context>
 <context>
@@ -2826,7 +2826,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="94"/>
         <source>Folders</source>
-        <translation>poki ijo</translation>
+        <translation>poki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="137"/>
@@ -2836,7 +2836,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="150"/>
         <source>&amp;Mods:</source>
-        <translation>ante &amp;musi:</translation>
+        <translation>na&amp;mako:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="124"/>
@@ -2857,12 +2857,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="221"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>tan tenpo open pini (&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="231"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>tan &amp;nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="244"/>
@@ -2897,7 +2897,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="163"/>
         <source>Mods</source>
-        <translation>ante musi</translation>
+        <translation>namako</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="169"/>
@@ -2949,7 +2949,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="389"/>
         <source>Console Settings</source>
-        <translation>ante pi ilo sitelen</translation>
+        <translation>nasin pi ilo sitelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="395"/>
@@ -3028,7 +3028,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="184"/>
         <source>Mods Folder</source>
-        <translation>poki pi ante musi</translation>
+        <translation>poki namako</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="494"/>
@@ -3088,7 +3088,7 @@ Granting PolyMC access to it via Flatseal is recommended.</source>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="54"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan nimi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="55"/>
@@ -3493,7 +3493,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="305"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o lukin e poki pi ijo musi (&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="306"/>
@@ -3514,7 +3514,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="880"/>
         <source>Folders</source>
-        <translation>poki ijo</translation>
+        <translation>poki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="325"/>
@@ -3524,7 +3524,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
         <source>Change settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e nasin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="355"/>
@@ -3560,7 +3560,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="410"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation type="unfinished"></translation>
+        <translation>ni li soweli suwi :3</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="787"/>
@@ -3591,7 +3591,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="317"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="324"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>p&amp;oki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
@@ -3602,17 +3602,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
         <source>Report a &amp;Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>o toki e pakala... (&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="363"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished"></translation>
+        <translation>kulupu pi lipu &amp;Matrix</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="372"/>
         <source>&amp;Discord Guild</source>
-        <translation type="unfinished"></translation>
+        <translation>kulupu &amp;Discord</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="381"/>
@@ -3647,7 +3647,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="527"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>lukin (&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="534"/>
@@ -3679,7 +3679,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="579"/>
         <source>Open the %1 wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>o open e lipu sona pi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="578"/>
@@ -3729,12 +3729,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="703"/>
         <source>View &amp;Mods</source>
-        <translation>o lukin e ante &amp;musi</translation>
+        <translation>o lukin e na&amp;mako</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="709"/>
         <source>&amp;View Worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>o lukin e ma (&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="715"/>
@@ -3814,7 +3814,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="524"/>
         <source>&amp;Edit</source>
-        <translation>o ant&amp;e</translation>
+        <translation>ant&amp;e</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="676"/>
@@ -3839,7 +3839,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="704"/>
         <source>View the mods of this instance.</source>
-        <translation>o lukin e ante musi pi ijo musi ni.</translation>
+        <translation>o lukin e namako pi ijo musi ni.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="710"/>
@@ -3896,7 +3896,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="980"/>
         <source>Total playtime: 0s</source>
-        <translation type="unfinished"></translation>
+        <translation>tenpo musi ale: 0s</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1094"/>
@@ -4014,7 +4014,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2019"/>
         <source>CAREFUL!</source>
-        <translation type="unfinished"></translation>
+        <translation>o awen a!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2020"/>
@@ -4057,7 +4057,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="2284"/>
         <source>Total playtime: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>tenpo musi ale: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="618"/>
@@ -4097,7 +4097,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="373"/>
         <source>Open %1 Discord guild.</source>
-        <translation type="unfinished"></translation>
+        <translation>o open e kulupu Discord pi %1.</translation>
     </message>
 </context>
 <context>
@@ -4159,12 +4159,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="898"/>
         <source>, last played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, tenpo musi pini li %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="902"/>
         <source>, total played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, tenpo musi ale li %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
@@ -4613,7 +4613,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="50"/>
         <source>Mods</source>
-        <translation>ante musi</translation>
+        <translation>namako</translation>
     </message>
 </context>
 <context>
@@ -4645,7 +4645,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="54"/>
         <source>Search for mods...</source>
         <oldsource>Search and filter...</oldsource>
-        <translation>o alasa e ante musi...</translation>
+        <translation>o alasa e namako...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.ui" line="66"/>
@@ -4666,7 +4666,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="314"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> tan </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="192"/>
@@ -4706,12 +4706,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="339"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu pakala: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="341"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu sona: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="343"/>
@@ -4721,7 +4721,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="345"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>kulupu Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5018,12 +5018,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="53"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan tenpo ante pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModPage.cpp" line="54"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan tenpo pali</translation>
     </message>
 </context>
 <context>
@@ -5048,12 +5048,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan tenpo ante pini</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="244"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> tan </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
@@ -5068,12 +5068,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu pakala: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu sona: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
@@ -5083,13 +5083,13 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>kulupu Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>nanpa tan tenpo pali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
@@ -6676,7 +6676,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> tan </translation>
     </message>
 </context>
 <context>
@@ -6913,7 +6913,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="126"/>
         <source>Change version</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e nanpa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
@@ -7103,12 +7103,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="199"/>
         <source>%1 possibly has issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 li ken pakala.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="202"/>
         <source>%1 has issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 li pakala!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="216"/>
@@ -7148,7 +7148,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="327"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>ante musi pi ijo Minecraft.jar (*.zip *.jar)</translation>
+        <translation>namako pi ijo Minecraft.jar (*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="337"/>
@@ -7163,7 +7163,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="397"/>
         <source>Change %1 version</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e nanpa pi %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="400"/>
@@ -7388,7 +7388,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
         <source>Last Played</source>
-        <translation type="unfinished"></translation>
+        <translation>tenpo musi pini</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="276"/>
@@ -7409,7 +7409,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Date and time the world was last played.</source>
-        <translation type="unfinished"></translation>
+        <translation>tenpo musi pini pi ma ni.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
