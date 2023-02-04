@@ -615,32 +615,32 @@ Pwease update b-both youw opewating system and %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="659"/>
+        <location filename="src/launcher/Application.cpp" line="663"/>
         <source>Settings</source>
         <translation>owo Settings</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1178"/>
+        <location filename="src/launcher/Application.cpp" line="1182"/>
         <source>Aborted</source>
         <translation>Abowted</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1603"/>
+        <location filename="src/launcher/Application.cpp" line="1607"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Owd dwata fwom %1 was fownd, but yu awweady have exwisting data for %2. Sadwy you wiw need two migwate yourswelf. Do yu want to be weminded of the pending dwata migration next time yu stawt %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1607"/>
+        <location filename="src/launcher/Application.cpp" line="1611"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>It wooks wike you wused %1 befowe. Do you want to migwate your wata to the new wocation of %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1613"/>
+        <location filename="src/launcher/Application.cpp" line="1617"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>It wooks wike you wused %1 on %2 befowe. Do you want to migwate your wata to the new wocation of %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1655"/>
+        <location filename="src/launcher/Application.cpp" line="1659"/>
         <source>Migration failed! Reason: %1</source>
         <translation>OwO Migwation failed! Weason: %1</translation>
     </message>
