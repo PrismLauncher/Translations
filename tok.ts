@@ -2042,7 +2042,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
+        <translation>o kepeken e ilo alasa...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="77"/>
@@ -2423,13 +2423,13 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="162"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o kepeken e ilo &amp;alasa...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="207"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o lukin kepeken (&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
@@ -5960,7 +5960,7 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="54"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>lipu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="73"/>
@@ -6006,17 +6006,17 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="10"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation>walo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="47"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>tan ilo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="10"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>pimeja</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
