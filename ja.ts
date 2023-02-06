@@ -34,7 +34,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;マイクロソフトの認証</translation>
+        <translation>マイクロソフトの認証(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>メタデータ サーバー</translation>
+        <translation>メタデータ サーバー(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge コアAPI</translation>
+        <translation>CurseForge コアAPI(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -1041,7 +1041,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation>グループ名</translation>
+        <translation>グループ(&amp;G)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
@@ -1132,19 +1132,19 @@ OSと%1をアップデートしてください。</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>終了後コマンド:</translation>
+        <translation>終了後コマンド(&amp;O):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>起動前コマンド:</translation>
+        <translation>起動前コマンド(&amp;P):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>ラッパーコマンド：</translation>
+        <translation>ラッパーコマンド(&amp;W):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1497,7 +1497,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -2199,12 +2199,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
-        <translation>名前:</translation>
+        <translation>名前(&amp;N):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation>グループ:</translation>
+        <translation>グループ(&amp;G):</translation>
     </message>
 </context>
 <context>
@@ -2393,7 +2393,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
         <source>Java insta&amp;llation</source>
-        <translation>Javaのインストール</translation>
+        <translation>Javaのインストール(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
@@ -2423,7 +2423,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
         <source>Memor&amp;y</source>
-        <translation>メモリ</translation>
+        <translation>メモリ(&amp;Y)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
@@ -2458,7 +2458,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
         <source>Java argumen&amp;ts</source>
-        <translation>Javaの引数</translation>
+        <translation>Javaの引数(&amp;T)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="251"/>
@@ -2488,7 +2488,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="332"/>
         <source>Conso&amp;le Settings</source>
-        <translation>コンソールの設定</translation>
+        <translation>コンソールの設定(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
@@ -2836,7 +2836,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>Java互換性チェックをスキップ</translation>
+        <translation>Java互換性チェックをスキップ(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -3285,12 +3285,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="194"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>最後に起動した順</translation>
+        <translation>最後に起動した順(&amp;B)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="204"/>
         <source>By &amp;name</source>
-        <translation>名前順</translation>
+        <translation>名前順(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="217"/>
@@ -3360,19 +3360,19 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="280"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>ゲームの実行中にコンソールを表示</translation>
+        <translation>ゲームの実行中にコンソールを表示(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="287"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>ゲームを終了時にコンソールを自動的に閉じる</translation>
+        <translation>ゲームを終了時にコンソールを自動的に閉じる(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="294"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>ゲームがクラッシュしたときにコンソールを表示</translation>
+        <translation>ゲームがクラッシュしたときにコンソールを表示(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="304"/>
@@ -3395,7 +3395,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="351"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>コンソールのフォント</translation>
+        <translation>コンソールのフォント(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
@@ -3792,7 +3792,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation>コピー</translation>
+        <translation>コピー(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -4114,7 +4114,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
         <source>&amp;Edit...</source>
-        <translation>編集(E)...</translation>
+        <translation>編集(&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="401"/>
@@ -4190,7 +4190,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="629"/>
         <source>Install to &amp;PATH</source>
-        <translation>PATHに追加</translation>
+        <translation>PATHに追加(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
@@ -4205,7 +4205,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="566"/>
         <source>&amp;Discord Guild</source>
-        <translation>Discord (&amp;M)</translation>
+        <translation>Discord(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="590"/>
@@ -4225,7 +4225,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>&amp;Meow</source>
-        <translation>&amp;にゃーん</translation>
+        <translation>にゃーん(&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="315"/>
@@ -4245,22 +4245,22 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation>&amp;ファイル</translation>
+        <translation>ファイル(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation>&amp;編集</translation>
+        <translation>編集(&amp;E)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation>&amp;表示</translation>
+        <translation>表示(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="199"/>
         <source>&amp;Help</source>
-        <translation>&amp;ヘルプ</translation>
+        <translation>ヘルプ(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="339"/>
@@ -4291,7 +4291,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="674"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1とヘルプ</translation>
+        <translation>%1のヘルプ(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="677"/>
@@ -4316,12 +4316,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="439"/>
         <source>Launch &amp;Offline</source>
-        <translation>&amp;オフラインで起動</translation>
+        <translation>オフラインで起動(&amp;O)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
         <source>Launch &amp;Demo</source>
-        <translation>&amp;デモ版を起動</translation>
+        <translation>デモ版を起動(&amp;D)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="450"/>
@@ -5057,7 +5057,7 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="185"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>インスタンスのプレイ時間を表示する</translation>
+        <translation>インスタンスのプレイ時間を表示する(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="192"/>
@@ -6024,7 +6024,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation>グループ:</translation>
+        <translation>グループ(&amp;G):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
@@ -6563,25 +6563,25 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation>なし</translation>
+        <translation>なし(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOC&amp;KS5</translation>
+        <translation>SOCKS5(&amp;S)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished">H&amp;TTP</translation>
+        <translation>HTTP(&amp;H)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">アドレスとポート</translation>
+        <translation>アドレスとポート(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -6592,13 +6592,13 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">ユーザー名:</translation>
+        <translation>ユーザー名(&amp;U):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">パスワード:</translation>
+        <translation>パスワード(&amp;P):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
@@ -7674,7 +7674,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation>名前</translation>
+        <translation>名前(&amp;N)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
@@ -7770,12 +7770,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation>終了</translation>
+        <translation>終了(&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>リフレッシュ</translation>
+        <translation>リフレッシュ(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -8100,7 +8100,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished">アイコン</translation>
+        <translation>アイコン(&amp;I)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
@@ -8889,7 +8889,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
         <source>&amp;Refresh</source>
-        <translation>リフレッシュ</translation>
+        <translation>リフレッシュ(&amp;R)</translation>
     </message>
 </context>
 <context>
