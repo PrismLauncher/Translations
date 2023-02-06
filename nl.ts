@@ -4289,7 +4289,7 @@ Reden:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="401"/>
         <source>&amp;Folder</source>
-        <translation>&amp;Folder</translation>
+        <translation>&amp;Map</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="459"/>
@@ -6162,7 +6162,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Één van de bestanden heeft een pad dat leidt naar een vreemde locatie (%1). Dit is een veiligheidsrisico en is niet toegestaan.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
@@ -7161,7 +7161,7 @@ Weet u het zeker?</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="131"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het &apos;uid&apos; van het component bevat niet toegestane karakters! Dit kan veiligheidsproblemen veroorzaken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
@@ -7486,7 +7486,7 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Legacy</source>
-        <translation>Legacy</translation>
+        <translation>Verouderd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
