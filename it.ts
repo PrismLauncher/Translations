@@ -21,17 +21,17 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>&amp;Tipo di servizio d&apos;appunti</translation>
+        <translation>&amp;Tipo di Servizio di Appunti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation>&amp;URL base</translation>
+        <translation>&amp;URL di base</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Nota: potresti voler cambiare oppure cancellare l&apos;URL base dopo aver modificato il tipo di servizio.</translation>
+        <translation>Nota: potresti voler cambiare oppure cancellare l&apos;URL di base dopo aver modificato il tipo di servizio.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -4468,12 +4468,12 @@ Causa:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri %1 Spazio Matrix.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Installa a %1 symlink in /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="674"/>
@@ -6207,7 +6207,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uno dei file ha un percorso che conduce ad una posizione arbitraria (%1). Questo è un rischio della sicurezza e non è permesso.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
@@ -7212,7 +7212,7 @@ Sei sicuro?</translation>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="131"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;uid del componente contiene caratteri illegali! Questo potrebbe causare rischi di sicurezza.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
@@ -9422,7 +9422,7 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="209"/>
         <source>Customize toolbar actions</source>
-        <translation>Personalizzare le opzioni della barra degli strumenti</translation>
+        <translation>Personalizzare azioni della barra degli strumenti</translation>
     </message>
 </context>
 <context>
