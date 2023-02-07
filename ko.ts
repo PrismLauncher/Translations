@@ -9163,7 +9163,7 @@ This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
         <translation>&quot;%1&quot;을 되돌리려고 합니다.
-이는 영구적이며 사용자 설정 사항들을 완전히 되돌릴 것습니다.
+이는 영구적이며 사용자 설정 사항들을 완전히 되돌릴 것입니다.
 
 확실합니까?</translation>
     </message>
