@@ -567,9 +567,9 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>Microsoft 계정은 최신버전의 PolyMC와 함께 macOS 10.13 이상에서만 사용할 수 있습니다.
+        <translation>Microsoft 계정은 최신 버전의 %1와 함께 macOS 10.13 이상에서만 사용할 수 있습니다.
 
-운영체제와 %1을(를) 모두 업데이트하세요.</translation>
+운영 체제와 %1을(를) 모두 업데이트하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -910,7 +910,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="53"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>찾을 수 없는 것 열기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="56"/>
@@ -939,12 +939,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;당신의 구성된 전역 모드 폴더와 기본 다운로드 폴더는 자동으로 다운로드된 모드를 확인하고 인스턴스를 찾을 수 있다면 복사될 것입니다.&lt;/p&gt;&lt;p&gt;모드를 기본 위치에 다운로드하지 않았다면, 다운로드한 모드를 이 창에 드래그 앤 드롭하거나 확인할 폴더를 추가할 수 있습니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished">감시 폴더:</translation>
+        <translation>확인할 폴더:</translation>
     </message>
 </context>
 <context>
@@ -1200,13 +1200,13 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished">%1 복사 중…</translation>
+        <translation>%1 복사 중…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">중단됨</translation>
+        <translation>중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1436,7 +1436,10 @@ Please update both your operating system and %1.</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 항목을 제거하려고 합니다.
+이는 영구적이며 폴더에서 사라질 것입니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1444,12 +1447,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>폴더 &quot;%1&quot;을 제거하려고 합니다.
+이는 영구적이며 상위 폴더에서 사라질 것입니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>제거 확인</translation>
     </message>
 </context>
 <context>
@@ -1633,7 +1639,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>API에서 유효하지 않은 데이터가 반환되었습니다.</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -1645,7 +1651,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished">CurseForge 모드 준비 중...</translation>
+        <translation>CurseForge 모드 준비 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="125"/>
@@ -1666,7 +1672,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">이 모드에 유효한 버전이 없습니다. 현재 게임 버전/모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
+        <translation>이 모드에 유효한 버전이 없습니다. 현재 게임 버전/모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -1682,13 +1688,13 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="275"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">팩 manifest를 해석하지 못함:
+        <translation>팩 manifest를 해석하지 못함:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="116"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (버전 %1)</translation>
+        <translation> (버전 %1)</translation>
     </message>
     <message>
         <source>Similar modpack was found!</source>
@@ -1728,46 +1734,46 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">덮어쓰는 폴더를 이름 바꾸지 못함:
+        <translation>덮어쓰는 폴더의 이름을 바꾸지 못함:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">지정된 덮어쓸 폴더 (%1)이 존재하지 않습니다. 이미 모드팩이 쓰였을지도요?</translation>
+        <translation>지정된 덮어쓸 폴더 (%1)가 존재하지 않습니다. 이미 모드팩이 쓰였을지도요?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Manifest의 알 수 없는 모드 로더 오류: %1</translation>
+        <translation>Manifest의 알 수 없는 모드 로더 오류: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="322"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">읽어들이는 중 마인크래프트 버전에 있는 먼지를 청소했습니다.</translation>
+        <translation>팩을 불러오는 중에 마인크래프트 버전에 있는 먼지를 청소했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished">마인크래프트 %1에 권장되는 Forge 버전을 결정하지 못하였습니다</translation>
+        <translation>마인크래프트 %1에 권장되는 Forge 버전을 결정하지 못하였습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">모드 ID 처리 실패:
+        <translation>모드 ID 처리 실패:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="432"/>
         <source>Blocked mods found</source>
-        <translation type="unfinished">차단된 모드를 찾았습니다</translation>
+        <translation>차단된 모드를 찾았습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">다음 모드는 제3자 런처를 차단했습니다. &lt;br/&gt; 수동으로 다운로드하여 모드팩에 추가해야 합니다</translation>
+        <translation>다음 모드는 제3자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;수동으로 다운로드하여 인스턴스에 추가해야 합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="510"/>
@@ -1782,27 +1788,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mod download</source>
-        <translation type="unfinished">모드 다운로드</translation>
+        <translation>모드 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation type="unfinished">이 &apos;폴더&apos;는 추출을 필요로 할 지도 모릅니다: %1</translation>
+        <translation>이 &apos;폴더&apos;는 추출을 필요로 할 지도 모릅니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="480"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation type="unfinished">중첩된 구조, 즉 모드팩 안의 모드팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1</translation>
+        <translation>중첩된 구조의 모드팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="unfinished">인식불가/사용불가인 패키지 유형(PackageType) 으로 나타남: %1</translation>
+        <translation>인식 불가/사용 불가인 패키지 유형으로 나타남: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">모드 다운로드 중...</translation>
+        <translation>모드 다운로드 중...</translation>
     </message>
 </context>
 <context>
@@ -1810,12 +1816,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="315"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;안녕하세요!&lt;/h1&gt;&lt;h4&gt;팩 ID가 비어 있는 것으로 보입니다. 이건 예전 버전의 런처의 버그 때문입니다.&lt;br/&gt;불행히도, 우리는 해당 정보 없이는 올바른 API 요청을 할 수 없습니다.&lt;br/&gt;&lt;br/&gt;그래서, 이 기능이 작동하려면, 모드팩을 내장 다운로더로 다시 다운로드해야 합니다.&lt;br/&gt;&lt;br/&gt;걱정하지 마세요, 인스턴스를 업데이트하는 대신 물을 것이니, 인스턴스를 잃지 않을 것입니다!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (현재)</translation>
     </message>
 </context>
 <context>
@@ -1879,7 +1885,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">참고: CurseForge는 모드 제작자에게 PolyMC와 같은 서드파티 도구에 대한 접근을 차단할 수 있게 할 수 있습니다. 따라서 모드팩을 설치하려면 일부 모드를 수동으로 다운로드해야 할 수 있습니다.</translation>
+        <translation>참고: CurseForge는 모드 제작자에게 Prism Launcher와 같은 서드파티 도구에 대한 접근을 차단할 수 있게 할 수 있습니다. 따라서 모드팩을 설치하려면 일부 모드를 수동으로 다운로드해야 할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2174,7 +2180,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- PolyMC / MultiMC가 내보낸 인스턴스 (ZIP)</translation>
+        <translation>- Prism Launcher / PolyMC / MultiMC가 내보낸 인스턴스 (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2216,22 +2222,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>불러올 인스턴스를 선택하세요</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 리소스 팩을 불러올 인스턴스를 선택하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 불러올 인스턴스를 선택하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>파일: %1</translation>
     </message>
 </context>
 <context>
@@ -2626,7 +2632,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="614"/>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation>기본 계정 덮어쓰기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
@@ -2733,12 +2739,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="539"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량을 초과했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="542"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량에 근접했습니다.</translation>
     </message>
 </context>
 <context>
@@ -2939,12 +2945,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량을 초과했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량에 근접했습니다.</translation>
     </message>
 </context>
 <context>
@@ -3012,12 +3018,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량을 초과했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량에 근접했습니다.</translation>
     </message>
 </context>
 <context>
@@ -3087,7 +3093,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished">마인크래프트를 이용하려면 하나이상의 Mojang 또는 Minecraft 계정에 로그인되어 있어야 합니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
+        <translation>마인크래프트를 이용하려면 하나 이상의 Mojang 또는 Minecraft 계정에 로그인되어 있어야 합니다. Mojang 계정은 오프라인으로만 사용할 수 있습니다. 지금 계정 관리를 열어 계정을 추가하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
@@ -3421,7 +3427,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="152"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;경고&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: 모드 메타데이터를 비활성화하면 곧 추가될 모드 업데이트 같은 편리한 기능을 사용하지 못합니다! &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;경고&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: 모드 메타데이터를 비활성화하면 곧 추가될 모드 업데이트 같은 편리한 기능을 사용하지 못합니다! &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Flat</source>
@@ -3540,10 +3546,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Flatpak을 통해 임시로 부여된 인스턴스 폴더를 지정하려고 합니다.
+        <translation>Flatpak을 통해 임시로 부여된 인스턴스 폴더를 지정하려고 합니다.
 이 행동은 다시 시작 후 런처가 해당 디렉토리에 접근할 수 없어서 런처가 중단될 수 있는 문제가 발생하는 것으로 알려져 있습니다.
 
-Flatseal을 통해 PolyMC에 접근 권한을 부여하는 것이 좋습니다.</translation>
+Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
@@ -3739,7 +3745,7 @@ Flatseal을 통해 PolyMC에 접근 권한을 부여하는 것이 좋습니다.<
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -3847,7 +3853,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Mojang에서 라이브러리 파일들을 가져오는 중...</translation>
+        <translation>필요한 라이브러리 파일들을 가져오는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4242,7 +4248,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="339"/>
         <source>Kill the running instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 중인 인스턴스를 정지합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="386"/>
@@ -4379,7 +4385,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
         <source>Lock Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>툴바 잠그기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
@@ -4394,7 +4400,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>%편집</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
@@ -4423,12 +4429,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 매트릭스 공간을 엽니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 심볼릭 링크를 /usr/local/bin에 설치</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="674"/>
@@ -4468,12 +4474,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;체험판 실행</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="450"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 인스턴스를 체험판 모드로 실행합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
@@ -4597,7 +4603,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="416"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">선택한 인스턴스의 세계를 살펴봅니다.</translation>
+        <translation>선택한 인스턴스를 삭제합니다.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -4708,7 +4714,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
         <source>Launch Demo</source>
-        <translation type="unfinished">데모 실행</translation>
+        <translation>체험판 실행</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
@@ -4768,12 +4774,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="922"/>
         <source>Task aborted</source>
-        <translation type="unfinished">작업이 중단됨</translation>
+        <translation>작업이 중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="922"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">사용자가 작업을 중단하였습니다.</translation>
+        <translation>사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="925"/>
@@ -4811,27 +4817,27 @@ Mojang 또는 마인크래프트 계정을 추가하세요.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1280"/>
         <source>Successfully added %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 PATH에 추가함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 PATH에 추가했습니다. 이제 `%2`을 실행해서 시작할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
         <source>Failed to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 PATH에 추가하는 데 실패함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
         <source>An error occurred while trying to add %1 to PATH</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 PATH에 추가하는 중에 오류가 발생함</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>삭제 확인</translation>
     </message>
     <message>
         <source>CAREFUL!</source>
@@ -4847,7 +4853,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;을 삭제하려고 합니다.
+이는 영구적이면 인스턴스가 완전히 삭제됩니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <source>About to delete: %1
@@ -4875,36 +4884,36 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1572"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
         <source>Create instance shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 바로 가기 만들기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1448"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished"></translation>
+        <translation>바탕 화면을 찾을 수 없습니다?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1455"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>런처가 추출된 폴더에 있으므로, 바로 가기를 만들 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1462"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1525"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1567"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation type="unfinished"></translation>
+        <translation>바탕 화면의 해당 인스턴스의 바로 가기를 만들었습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1466"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1572"/>
         <source>Failed to create instance shortcut!</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스의 바로 가기를 만드는 데 실패했습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>런처가 구성되지 않은 앱 이미지로 실행 중인가요? ($APPIMAGE 환경 변수를 찾을 수 없습니다)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1494"/>
@@ -4912,17 +4921,17 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1548"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1560"/>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished"></translation>
+        <translation>바로 가기의 아이콘을 만드는 데 실패했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>바탕 화면 항목 (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished"></translation>
+        <translation>당신의 플랫폼에서 지원되지 않습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1674"/>
@@ -4974,14 +4983,14 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="194"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;계정</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="665"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="423"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="795"/>
         <source>Accounts</source>
-        <translation type="unfinished">계정</translation>
+        <translation>계정</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -4999,97 +5008,97 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation type="unfinished"></translation>
+        <translation>팩 정보</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation type="unfinished"></translation>
+        <translation>팩 이름:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>현재 버전:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation type="unfinished"></translation>
+        <translation>제공자 정보:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation type="unfinished"></translation>
+        <translation>버전으로 업데이트:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
         <source>Fetching versions...</source>
-        <translation type="unfinished"></translation>
+        <translation>버전 불러오는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="167"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>변경 사항</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
         <source>No changelog available for this version!</source>
-        <translation type="unfinished"></translation>
+        <translation>해당 버전의 변경 사항을 사용할 수 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
         <source>Reload page</source>
-        <translation type="unfinished"></translation>
+        <translation>페이지 다시 불러오기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="87"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation type="unfinished"></translation>
+        <translation>웹사이트: &lt;a href=%1&gt;%2&lt;/a&gt;    |    팩 ID: %3    |    버전 ID: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="130"/>
         <source>Error</source>
-        <translation type="unfinished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
         <source>Warnings</source>
-        <translation type="unfinished">경고</translation>
+        <translation>경고</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="137"/>
         <source>Task aborted</source>
-        <translation type="unfinished">작업이 중단됨</translation>
+        <translation>작업이 중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="137"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">사용자가 작업을 중단하였습니다.</translation>
+        <translation>사용자가 작업을 중단했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="142"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>중단</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="150"/>
         <source>Update pack</source>
-        <translation type="unfinished"></translation>
+        <translation>팩 업데이트</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
         <source>Failed to search for available versions.</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 가능한 버전을 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="164"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 모드팩의 변경 사항 데이터를 불러올 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="166"/>
         <source>Cannot update!</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트할 수 없습니다!</translation>
     </message>
 </context>
 <context>
@@ -5097,7 +5106,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">이름</translation>
+        <translation>이름</translation>
     </message>
 </context>
 <context>
@@ -5321,12 +5330,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">시스템에서 Feral Interactive의 게임모드를 찾을 수 없습니다.</translation>
+        <translation>시스템에서 Feral Interactive의 게임 모드를 찾을 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">시스템에서 MangoHud를 찾을 수 없습니다.</translation>
+        <translation>시스템에서 MangoHud를 찾을 수 없습니다.</translation>
     </message>
 </context>
 <context>
@@ -5345,7 +5354,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="76"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>마인크래프트 자바 프로필 받아오기 실패: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -5383,7 +5392,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="73"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="79"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>마인크래프트 자바 프로필 받아오기 실패: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -5442,7 +5451,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
         <source>failed to get version index</source>
-        <translation type="unfinished"></translation>
+        <translation>버전 인덱스를 받아올 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="61"/>
@@ -5481,7 +5490,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>기타</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
@@ -5501,7 +5510,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
         <source>Provider</source>
-        <translation type="unfinished"></translation>
+        <translation>제공자</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
@@ -5526,7 +5535,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
         <source>Where the mod was downloaded from.</source>
-        <translation type="unfinished"></translation>
+        <translation>모드가 다운로드된 곳.</translation>
     </message>
 </context>
 <context>
@@ -5624,7 +5633,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>선택된 모드의 업데이트를 확인하거나 설치하기 (아무 것도 선택하지 않으면 모든 모드)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -5666,28 +5675,28 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <source>The mod updater was aborted!</source>
-        <translation type="unfinished"></translation>
+        <translation>모드 업데이터가 중단되었습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 모드 모드가 최신 상태입니다! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
         <source>Update checker</source>
-        <translation type="unfinished"></translation>
+        <translation>업데이트 검사기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; 이 최신 상태입니다! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>모든 모드가 최신 상태입니다! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="51"/>
@@ -5875,12 +5884,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="164"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>가능한 해결법: 최신 버전을 직접 가져오기: &lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished">모드 &apos;%1&apos;에 메타데이터가 없습니다. 이 모드를 업데이트하는 방법에 대한 관련 정보를 추적하기 위해 메타데이터를 만들어야 합니다. 이 모드의 업데이트 확인을 위해 모드 제공자를 선택하십시오.</translation>
+        <translation>모드 &apos;%1&apos;에 메타데이터가 없습니다. 이 모드를 업데이트하는 방법에 대한 관련 정보를 추적하기 위해 메타데이터를 만들어야 합니다. 이 모드의 업데이트 확인을 위해 모드 제공자를 선택하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
@@ -5965,7 +5974,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>차단된 파일 감지됨</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
@@ -5975,7 +5984,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 만드는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
@@ -5990,12 +5999,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">차단된 모드 복사중...</translation>
+        <translation>차단된 모드 복사 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">차단된 모드 복사 중 (%1 / %2)</translation>
+        <translation>차단된 모드 복사 중 (%1 / %2)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -6052,32 +6061,32 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="33"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth용 모드 준비 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="45"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished">모드 복제 문제를 방지하기 위해 비활성화된 모드는 업데이트되지 않습니다!</translation>
+        <translation>모드 복제 문제를 방지하기 위해 비활성화된 모드는 업데이트되지 않습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="91"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth의 API 반환 값을 파싱하는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="106"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">이 모드에 유효한 버전이 없습니다. 현재 게임 버전/모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
+        <translation>이 모드에 유효한 버전이 없습니다. 현재 게임 버전 / 모드 로더에서는 사용할 수 없는 것 같습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
         <source>Mod has an empty download URL</source>
-        <translation type="unfinished"></translation>
+        <translation>모드가 빈 다운로드 URL을 가지고 있음</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="175"/>
         <source>Waiting for the API response from Modrinth...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth의 API 반환 값을 기다리고 있습니다...</translation>
     </message>
 </context>
 <context>
@@ -6085,7 +6094,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="56"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (버전 %1)</translation>
+        <translation> (버전 %1)</translation>
     </message>
     <message>
         <source>Similar modpack was found!</source>
@@ -6114,62 +6123,62 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
         <source>No index file.</source>
-        <translation type="unfinished">인덱스 파일이 없음.</translation>
+        <translation>인덱스 파일이 없음.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">이전 버전에 적합한 인덱스 파일을 찾을 수 없습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 진행하시겠습니까?</translation>
+        <translation>이전 버전에 적합한 인덱스 파일을 찾을 수 없습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 계속하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">덮어쓰는 폴더를 이름 바꾸지 못함:
+        <translation>덮어쓰는 폴더의 이름을 바꾸지 못함:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="194"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation type="unfinished">클라이언트가 덮어쓴 폴더의 이름을 바꿀 수 없습니다:
+        <translation>클라이언트가 덮어쓴 폴더의 이름을 바꿀 수 없습니다:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="226"/>
         <source>Mod download</source>
-        <translation type="unfinished">모드 다운로드</translation>
+        <translation>모드 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 중 하나가 독단적인 위치 (%1)로 이끌고 있습니다. 이건 허용되지 않는 보안 문제입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">모드 다운로드 중...</translation>
+        <translation>모드 다운로드 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="326"/>
         <source>Optional mod detected!</source>
-        <translation type="unfinished">선택적 모드가 감지되었습니다!</translation>
+        <translation>선택적 모드가 감지되었습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="327"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation type="unfinished">이 모드팩의 모드중 하나 이상은 선택적 모드입니다. 다운로드되지만 기본적으로 비활성화됩니다!</translation>
+        <translation>이 모드팩의 모드 중 하나 이상은 선택적 모드입니다. 다운로드되지만 기본적으로 비활성화됩니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="370"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
-        <translation type="unfinished">%1 다운로드 URL이 올바른 형식의 URL이 아닙니다</translation>
+        <translation>%1 다운로드 URL이 올바른 형식의 URL이 아닙니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="401"/>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished">팩 인덱스를 분석할 수 없음:
+        <translation>팩 인덱스를 분석할 수 없음:
 </translation>
     </message>
 </context>
@@ -6178,12 +6187,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (현재)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
         <source>Fetching changelogs...</source>
-        <translation type="unfinished"></translation>
+        <translation>변경 사항 불러오는 중...</translation>
     </message>
 </context>
 <context>
@@ -6314,12 +6323,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="15"/>
         <source>All attempts have failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 시도가 실패했습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="26"/>
         <source>Attempting task %1 out of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2개 중 %1번째 작업 시도 중</translation>
     </message>
 </context>
 <context>
@@ -6349,12 +6358,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="100"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation type="unfinished"></translation>
+        <translation>NetJob의 모든 작업을 중단하는 데 실패했습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="126"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">%1개의 작업 실행 중 (%3 중 %2 완료)</translation>
+        <translation>%1개의 작업 실행 중 (%3 중 %2 완료)</translation>
     </message>
 </context>
 <context>
@@ -6593,7 +6602,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>삭제 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -6601,23 +6610,27 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;을 삭제하려고 합니다.
+이는 영구적이며 로그 폴더에서 사라질 것입니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>비우기 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 로그 파일을 삭제하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>이 파일을 모두 삭제하시겠습니까?
+%1</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -7051,7 +7064,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="69"/>
         <source>Confirm Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>업로드 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="70"/>
@@ -7059,7 +7072,10 @@ Choose your name carefully:</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;을 %2로 업로드하려고 합니다.
+개인 정보를 다시 확인하세요.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="89"/>
@@ -7145,7 +7161,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="131"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>항목의 &apos;uid&apos;가 올바르지 않은 문자를 포함하고 있습니다! 이는 보안 문제를 일으킬 수 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
@@ -7256,19 +7272,19 @@ Please let us know why and how this happened.</source>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1분 %2초</translation>
+        <translation>%1분 %2초</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="35"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1시 %2분</translation>
+        <translation>%1시간 %2분</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1일 %2시 %3분</translation>
+        <translation>%1일 %2시간 %3분</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -7370,12 +7386,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="52"/>
         <source>No author(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>제작자 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="8"/>
         <source>Change instance name</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스 이름 바꾸기</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="9"/>
@@ -7383,208 +7399,211 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>인스턴스의 이름이 이전 버전을 포함하는 것으로 보입니다. 변경하시겠습니까?
+
+이전 이름: %1
+새 이름: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation type="unfinished">유사한 모드팩이 발견되었습니다!</translation>
+        <translation>유사한 모드팩이 발견되었습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished">하나 이상의 인스턴스가 이 동일한 modpack%1에 있습니다. 별도의 인스턴스를 생성하시겠습니까, 아니면 기존 인스턴스를 업데이트하시겠습니까?
+        <translation>하나 이상의 인스턴스가 이 동일한 모드팩%1에 있습니다. 별도의 인스턴스를 생성하시겠습니까, 아니면 기존 인스턴스를 업데이트하시겠습니까?
 
-참고: 세계가 손상될 수 있고 일부 구성이 손실될 수 있으므로(팩 재정의로 인해) 업데이트하기 전에 중요한 인스턴스 데이터를 백업했는지 확인하십시오.</translation>
+참고: 세계가 손상될 수 있고 일부 구성이 손실될 수 있으므로 (팩 재정의로 인해) 업데이트하기 전에 중요한 인스턴스 데이터를 백업했는지 확인하십시오.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
         <source>Update existing instance</source>
-        <translation type="unfinished">기존 인스턴스 업데이트</translation>
+        <translation>기존 인스턴스 업데이트</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="31"/>
         <source>Create new instance</source>
-        <translation type="unfinished">새 인스턴스 만들기</translation>
+        <translation>새 인스턴스 만들기</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">취소</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Colored Icons)</source>
-        <translation type="unfinished">간단 (다색 아이콘들)</translation>
+        <translation>심플 (다색 아이콘들)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Light Icons)</source>
-        <translation type="unfinished">간단 (밝은 아이콘들)</translation>
+        <translation>심플 (밝은 아이콘들)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Dark Icons)</source>
-        <translation type="unfinished">간단 (어두운 아이콘들)</translation>
+        <translation>심플 (어두운 아이콘들)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Simple (Blue Icons)</source>
-        <translation type="unfinished">간단 (파란 아이콘들)</translation>
+        <translation>심플 (파란 아이콘들)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Light</source>
-        <translation type="unfinished"></translation>
+        <translation>산들바람 (라이트 모드)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
         <source>Breeze Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>산들바람 (다크 모드)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>OSX</source>
-        <translation type="unfinished"></translation>
+        <translation>OSX</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat</source>
-        <translation type="unfinished">플랫</translation>
+        <translation>플랫</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Flat (White)</source>
-        <translation type="unfinished"></translation>
+        <translation>플랫 (화이트)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Legacy</source>
-        <translation type="unfinished">레거시</translation>
+        <translation>레거시</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
         <source>Custom</source>
-        <translation type="unfinished">사용자 정의</translation>
+        <translation>사용자 정의</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation type="unfinished">고양이 배경화면 (MultiMC에서 가져옴)</translation>
+        <translation>고양이 배경화면 (MultiMC에서 가져옴)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
-        <translation type="unfinished">Rory ID 11 (Ashtaka가 그림)</translation>
+        <translation>Rory ID 11 (Ashtaka가 그림)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="74"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rory ID 11 (플랫 에디션, Ashtaka가 그림)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teawie (SympathyTea가 그림)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
         <source>resource pack</source>
-        <translation type="unfinished"></translation>
+        <translation>리소스 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>texture pack</source>
-        <translation type="unfinished"></translation>
+        <translation>텍스쳐 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>data pack</source>
-        <translation type="unfinished"></translation>
+        <translation>데이터 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
         <source>shader pack</source>
-        <translation type="unfinished"></translation>
+        <translation>셰이더 팩</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>world save</source>
-        <translation type="unfinished"></translation>
+        <translation>세계 저장</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="40"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>모드</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="41"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">추천순 정렬</translation>
+        <translation>추천순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">인기순 정렬</translation>
+        <translation>인기순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">업데이트순 정렬</translation>
+        <translation>업데이트순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <source>Sort by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>이름순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="225"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">작성자순 정렬</translation>
+        <translation>작성자순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">다운로드순 정렬</translation>
+        <translation>다운로드순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="227"/>
         <source>Sort by Category</source>
-        <translation type="unfinished"></translation>
+        <translation>카테고리순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="228"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">게임 버전으로 정렬</translation>
+        <translation>게임 버전으로 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="124"/>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">관련성순 정렬</translation>
+        <translation>관련성순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="126"/>
         <source>Sort by Follows</source>
-        <translation type="unfinished">팔로우순 정렬</translation>
+        <translation>팔로우순 정렬</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="128"/>
         <source>Sort by Newest</source>
-        <translation type="unfinished">최신순 정렬</translation>
+        <translation>최신순 정렬</translation>
     </message>
 </context>
 <context>
@@ -7593,7 +7612,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="102"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>모드</translation>
     </message>
 </context>
 <context>
@@ -7602,23 +7621,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>모드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="49"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>모드</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="144"/>
         <source>No valid version found!</source>
-        <translation type="unfinished">유효한 버전이 없습니다!</translation>
+        <translation>유효한 버전이 없습니다!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="145"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished">잘못된 버전을 선택할 수 없습니다:(</translation>
+        <translation>잘못된 버전을 선택할 수 없습니다 :(</translation>
     </message>
 </context>
 <context>
@@ -7626,33 +7645,33 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="55"/>
         <source>Review and confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>검토하고 확정</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="56"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="102"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>당신이 선택한 %1을 검토하고 확정할 새 팝업을 엽니다. 단축키: Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="117"/>
         <source>Confirm %1 to download</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드할 %1 확인하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="55"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>리소스</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="57"/>
         <source>Download %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 다운로드</translation>
     </message>
 </context>
 <context>
@@ -7661,18 +7680,18 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="370"/>
         <source>Error</source>
-        <translation type="unfinished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished">네트워크 오류가 발생했습니다. 모드를 불러올 수 없습니다.</translation>
+        <translation>네트워크 오류가 발생했습니다. 모드를 불러올 수 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="371"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">API 버전이 오래됐습니다!
+        <translation>API 버전이 오래됐습니다!
 %1을(를) 업데이트하세요!</translation>
     </message>
 </context>
@@ -7682,80 +7701,80 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="99"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 찾아보기...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
         <source>Select %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드에서 %1 선택하기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="194"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> 로 </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
         <source>Donate information: </source>
-        <translation type="unfinished">후원 정보: </translation>
+        <translation>후원 정보: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
         <source>External links:</source>
-        <translation type="unfinished">외부 링크:</translation>
+        <translation>외부 링크:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="216"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">이슈: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>이슈: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">위키: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>위키: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="220"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">소스 코드: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>소스 코드: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">디스코드: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>디스코드: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
         <source>Deselect %1 for download</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드에서 %1 선택 해제</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="264"/>
         <source>No valid version found.</source>
-        <translation type="unfinished">유효한 버전이 없습니다.</translation>
+        <translation>유효한 버전이 없습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="265"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished">잘못된 버전을 선택할 수 없습니다:(</translation>
+        <translation>잘못된 버전을 선택할 수 없습니다 :(</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="281"/>
         <source>Loading versions...</source>
-        <translation type="unfinished">버전 로드 중...</translation>
+        <translation>버전 로드 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="44"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>리소스</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>리소스</translation>
     </message>
 </context>
 <context>
@@ -7763,13 +7782,14 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="40"/>
         <source>Resource download</source>
-        <translation type="unfinished"></translation>
+        <translation>리소스 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="41"/>
         <source>Downloading resource:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>리소스 다운로드 중:
+%1</translation>
     </message>
 </context>
 <context>
@@ -7777,30 +7797,30 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="449"/>
         <source>Name</source>
-        <translation type="unfinished">이름</translation>
+        <translation>이름</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
         <source>Last modified</source>
-        <translation type="unfinished"></translation>
+        <translation>최근 수정됨</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="459"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>리소스가 활성화되었습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="462"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>리소스의 이름.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>리소스가 최근 수정(혹은 추가)된 날짜와 시간.</translation>
     </message>
 </context>
 <context>
@@ -7812,34 +7832,34 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation>인식할 수 없는</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>리소스 팩의 형식 ID, 디자인된 마인크래프트 버전을 표시함.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
         <source>Name</source>
-        <translation type="unfinished">이름</translation>
+        <translation>이름</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
         <source>Pack Format</source>
-        <translation type="unfinished"></translation>
+        <translation>팩 형식</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
         <source>Last changed</source>
-        <translation type="unfinished">최근 수정일</translation>
+        <translation>최근 수정일</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished"></translation>
+        <translation>리소스 팩이 활성화되어 있습니까? (ZIP만 유효)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
@@ -7869,17 +7889,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">검색</translation>
+        <translation>검색</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation type="unfinished">선택된 버전:</translation>
+        <translation>선택된 버전:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
         <source>Filter options</source>
-        <translation type="unfinished">필터 옵션</translation>
+        <translation>필터 옵션</translation>
     </message>
 </context>
 <context>
@@ -7899,7 +7919,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>이전</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
@@ -7909,27 +7929,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>이 다운로드는 여기에 위치할 것입니다: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>로더가 요구함에 따라, 이 파일은 다른 폴더 위치에 기본적으로 다운로드됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 선택 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1을 다운로드하려고 합니다:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 %1만 다운로드될 것입니다!</translation>
     </message>
 </context>
 <context>
@@ -7986,14 +8006,18 @@ Please update %1!</source>
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 스크린샷을 업로드하려고 합니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 스크린샷을 업로드하려고 합니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
@@ -8029,7 +8053,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 스크린샷을 삭제하려고 합니다.
+이는 영구적이며 폴더에서 사라질 것입니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -8037,12 +8064,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>선택된 스크린샷을 삭제하려고 합니다.
+이는 영구적이며 폴더에서 사라질 것입니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>삭제 확인</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -8058,7 +8088,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
         <source>One of the tasks failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>작업 중 1개 실패!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
@@ -8159,7 +8189,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>제거 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="806"/>
@@ -8167,7 +8197,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;을 제거하려고 합니다.
+이는 영구적이며 서버가 목록에서 영원히 사라질 것입니다.
+
+확실합니까?</translation>
     </message>
 </context>
 <context>
@@ -8242,7 +8275,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="26"/>
         <source>Leave empty to keep current skin</source>
-        <translation type="unfinished"></translation>
+        <translation>비워 둬서 현재 스킨 유지</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="55"/>
@@ -8516,24 +8549,24 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation type="unfinished">아이콘 (&amp;I)</translation>
+        <translation>&amp;아이콘</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation type="unfinished">색깔 (&amp;C)</translation>
+        <translation>%색</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 툴바에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>고&amp;양이</translation>
     </message>
 </context>
 <context>
@@ -8541,27 +8574,27 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="14"/>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation>마법사 페이지</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation type="unfinished"></translation>
+        <translation>사용할 테마를 선택하세요</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>참고: 배경에 있는 고양이는 기본적으로 표시되지 않습니다. 이는 툴바에 있는 고양이 버튼을 누를 때만 보입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> 미리 보기:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation type="unfinished"></translation>
+        <translation>배경에 있는 고양이는 그냥 시각적인 요소입니다.</translation>
     </message>
 </context>
 <context>
@@ -8656,7 +8689,7 @@ inheritsFrom 누락됨</translation>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">버전 %1으로부터 인스턴스 생성 중</translation>
+        <translation>버전 %1으로부터 인스턴스 생성 중</translation>
     </message>
 </context>
 <context>
@@ -8787,7 +8820,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>당신이 무엇을 하고 있는지 안다면 인스턴스 자바 설정으로 가서 자바 버전을 변경하거나 자바 호환성 검사를 비활성화할 수 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -8948,12 +8981,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
         <source>Add Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>에이전트 추가</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
         <source>Add Java agents.</source>
-        <translation type="unfinished"></translation>
+        <translation>자바 에이전트를 추가합니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
@@ -9048,7 +9081,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>제거 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -9056,7 +9089,10 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;을 제거하려고 합니다.
+이는 영구적이며 사용자 설정 요소를 완전히 제거할 것입니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
@@ -9086,12 +9122,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>에이전트 선택</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>자바 에이전트 (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="442"/>
@@ -9118,7 +9154,7 @@ Mojang 또는 마인크래프트 계정을 추가하세요.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
         <source>Confirm Reversion</source>
-        <translation type="unfinished"></translation>
+        <translation>되돌리기 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
@@ -9126,7 +9162,10 @@ Mojang 또는 마인크래프트 계정을 추가하세요.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;을 되돌리려고 합니다.
+이는 영구적이며 사용자 설정 사항들을 완전히 되돌릴 것습니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -9332,7 +9371,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="209"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>툴바 액션 사용자화</translation>
     </message>
 </context>
 <context>
@@ -9408,7 +9447,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="112"/>
         <source>Delete</source>
-        <translation type="unfinished">삭제</translation>
+        <translation>삭제</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
@@ -9477,12 +9516,12 @@ Do you want to continue?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="228"/>
         <source>Open World Datapacks Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>세계 데이터 팩 폴더 열기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="286"/>
         <source>Open World in MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>세계를 MCEdit으로 열기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="312"/>
@@ -9533,7 +9572,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>삭제 확인</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -9541,7 +9580,10 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;을 삭제하려고 합니다.
+월드가 영원히 사라집니다.
+
+확실합니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
@@ -9557,7 +9599,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="434"/>
         <source>Rename World</source>
-        <translation type="unfinished"></translation>
+        <translation>월드 이름 바꾸기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
@@ -9581,12 +9623,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 서비스의 알 수 없는 STS 오류: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="82"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 서비스로부터 인증 정보를 받아올 수 없습니다: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
@@ -9653,7 +9695,7 @@ Please set up your account according to %1.</source>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="63"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="69"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox 프로필을 받아올 수 없습니다: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
