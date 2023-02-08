@@ -1699,7 +1699,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod download</translation>
+        <translation>Mod download</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
@@ -1882,7 +1882,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sort by Name</translation>
+        <translation>Sort by Name</translation>
     </message>
 </context>
 <context>
@@ -2419,12 +2419,12 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="569"/>
         <source>Record time spent playing this instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Record time spent playing this instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="579"/>
         <source>Set a server to join on launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Set a server to join on launch</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="599"/>
@@ -2469,7 +2469,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="63"/>
         <source>Settings</source>
-        <translation type="unfinished">Settings</translation>
+        <translation>Settings</translation>
     </message>
 </context>
 <context>
@@ -2495,7 +2495,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>Launch Offline</source>
-        <translation type="unfinished">Launch Offline</translation>
+        <translation>Launch Offline</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
@@ -2505,7 +2505,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Close</source>
-        <translation type="unfinished">Close</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="159"/>
@@ -2540,7 +2540,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="41"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiler aborted</translation>
+        <translation>Profiler aborted</translation>
     </message>
 </context>
 <context>
@@ -2553,7 +2553,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="39"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiler aborted</translation>
+        <translation>Profiler aborted</translation>
     </message>
 </context>
 <context>
@@ -2574,7 +2574,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">The maximum amount of memory Minecraft is allowed to use.</translation>
+        <translation>The maximum amount of memory Minecraft is allowed to use.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
@@ -2591,12 +2591,12 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">The amount of memory Minecraft is started with.</translation>
+        <translation>The amount of memory Minecraft is started with.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">The amount of memory available to store loaded Java classes.</translation>
+        <translation>The amount of memory available to store loaded Java classes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
@@ -2639,7 +2639,7 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">If enabled, the launcher will not check if an instance is compatible with the selected Java version.</translation>
+        <translation>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
@@ -2703,32 +2703,32 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="438"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">The maximum amount of memory Minecraft is allowed to use.</translation>
+        <translation>The maximum amount of memory Minecraft is allowed to use.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="439"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimum memory allocation:</translation>
+        <translation>Minimum memory allocation:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="440"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Maximum memory allocation:</translation>
+        <translation>Maximum memory allocation:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="441"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">The amount of memory Minecraft is started with.</translation>
+        <translation>The amount of memory Minecraft is started with.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="442"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">The amount of memory available to store loaded Java classes.</translation>
+        <translation>The amount of memory available to store loaded Java classes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="443"/>
         <source>Browse</source>
-        <translation type="unfinished">Browser</translation>
+        <translation>Browse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
@@ -2938,7 +2938,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="432"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="460"/>
@@ -3007,7 +3007,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="79"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to parse the Minecraft access token response.</translation>
     </message>
 </context>
 <context>
@@ -3230,20 +3230,20 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="170"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished">The wrapper command &quot;%1&quot; couldn&apos;t be found.</translation>
+        <translation>The wrapper command &quot;%1&quot; couldn&apos;t be found.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="203"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Could not launch Minecraft!</translation>
+        <translation>Could not launch Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="212"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="226"/>
         <source>Game crashed.</source>
-        <translation type="unfinished">Game crashed.</translation>
+        <translation>Game crashed.</translation>
     </message>
 </context>
 <context>
@@ -3252,13 +3252,13 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="56"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sort by Name</translation>
+        <translation>Sort by Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="57"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Sort by Game Version</translation>
+        <translation>Sort by Game Version</translation>
     </message>
 </context>
 <context>
@@ -3312,7 +3312,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="115"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Extracting modpack</translation>
+        <translation>Extracting modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
@@ -3322,7 +3322,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installing modpack</translation>
+        <translation>Installing modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
@@ -3366,12 +3366,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="121"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selected:</translation>
+        <translation>Version selected:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -3445,7 +3445,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished">Aborted</translation>
+        <translation>Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -3579,12 +3579,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="39"/>
         <source>Email</source>
-        <translation type="unfinished">Email</translation>
+        <translation>Email</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
-        <translation type="unfinished">Password</translation>
+        <translation>Password</translation>
     </message>
 </context>
 <context>
@@ -3959,7 +3959,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="423"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="795"/>
         <source>Accounts</source>
-        <translation type="unfinished">Accounts</translation>
+        <translation>Accounts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
@@ -4124,7 +4124,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="963"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="975"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="917"/>
@@ -4401,7 +4401,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="130"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
@@ -4449,7 +4449,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
 </context>
 <context>
@@ -4473,7 +4473,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished">Aborted</translation>
+        <translation>Aborted</translation>
     </message>
 </context>
 <context>
@@ -4529,7 +4529,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished">Aborted</translation>
+        <translation>Aborted</translation>
     </message>
 </context>
 <context>
@@ -4577,37 +4577,37 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="140"/>
         <source>Performance</source>
-        <translation type="unfinished">Performance</translation>
+        <translation>Performance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="146"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="149"/>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Enable Feral GameMode</translation>
+        <translation>Enable Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="156"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="159"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Enable MangoHud</translation>
+        <translation>Enable MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="166"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="169"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Use discrete GPU</translation>
+        <translation>Use discrete GPU</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="179"/>
@@ -4652,7 +4652,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">Miscellaneous</translation>
+        <translation>Miscellaneous</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -4809,7 +4809,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
@@ -4875,7 +4875,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="165"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="225"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -4887,7 +4887,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Aborted</source>
-        <translation type="unfinished">Aborted</translation>
+        <translation>Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
@@ -5041,7 +5041,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="105"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
@@ -5147,7 +5147,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Could not understand pack manifest:
+        <translation>Could not understand pack manifest:
 </translation>
     </message>
     <message>
@@ -5168,7 +5168,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</translation>
+        <translation>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
@@ -5178,22 +5178,22 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Downloading mods...</translation>
+        <translation>Downloading mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod download</translation>
+        <translation>Mod download</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Copying Blocked Mods...</translation>
+        <translation>Copying Blocked Mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Copying Blocked Mods (%1 out of %2 are done)</translation>
+        <translation>Copying Blocked Mods (%1 out of %2 are done)</translation>
     </message>
 </context>
 <context>
@@ -5202,7 +5202,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="316"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="319"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="316"/>
@@ -5227,7 +5227,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="45"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished">Disabled mods won&apos;t be updated, to prevent mod duplication issues!</translation>
+        <translation>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="91"/>
@@ -5237,7 +5237,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="106"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</translation>
+        <translation>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
@@ -5255,23 +5255,23 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="56"/>
         <source> (version %1)</source>
-        <translation type="unfinished"> (version %1)</translation>
+        <translation> (version %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
         <source>No index file.</source>
-        <translation type="unfinished">No index file.</translation>
+        <translation>No index file.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</translation>
+        <translation>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Could not rename the overrides folder:
+        <translation>Could not rename the overrides folder:
 </translation>
     </message>
     <message>
@@ -5283,7 +5283,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="226"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod download</translation>
+        <translation>Mod download</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
@@ -5293,7 +5293,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Downloading mods...</translation>
+        <translation>Downloading mods...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="326"/>
@@ -5322,7 +5322,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Current)</translation>
+        <translation>%1 (Current)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
@@ -5352,7 +5352,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="66"/>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Sort by Total Downloads</translation>
+        <translation>Sort by Total Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="67"/>
@@ -5363,12 +5363,12 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="69"/>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Sort by Last Updated</translation>
+        <translation>Sort by Last Updated</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="248"/>
         <source> by </source>
-        <translation type="unfinished"> by </translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="252"/>
@@ -5378,22 +5378,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>External links:</source>
-        <translation type="unfinished">External links:</translation>
+        <translation>External links:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="275"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="277"/>
@@ -5409,7 +5409,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -5419,12 +5419,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
         <source>Search</source>
-        <translation type="unfinished">Search</translation>
+        <translation>Search</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selected:</translation>
+        <translation>Version selected:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
@@ -5471,7 +5471,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="126"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Executing %1 task(s) (%2 out of %3 are done)</translation>
+        <translation>Executing %1 task(s) (%2 out of %3 are done)</translation>
     </message>
 </context>
 <context>
@@ -5484,7 +5484,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -5503,17 +5503,17 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation type="unfinished">&amp;Group:</translation>
+        <translation>&amp;Group:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Name:</translation>
+        <translation>&amp;Name:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
         <source>No group</source>
-        <translation type="unfinished">No group</translation>
+        <translation>No group</translation>
     </message>
 </context>
 <context>
@@ -5535,7 +5535,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished">Close</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -5590,7 +5590,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished">Username</translation>
+        <translation>Username</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -5674,7 +5674,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="240"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="291"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="152"/>
@@ -5747,12 +5747,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="374"/>
         <source>Aborted</source>
-        <translation type="unfinished">Aborted</translation>
+        <translation>Aborted</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="641"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="643"/>
@@ -5891,7 +5891,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="45"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="53"/>
@@ -5977,7 +5977,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
@@ -6355,7 +6355,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java checker library could not be found. Please check your installation.</translation>
+        <translation>Java checker library could not be found. Please check your installation.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackIndex.cpp" line="52"/>
@@ -6522,34 +6522,34 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Sort by Featured</translation>
+        <translation>Sort by Featured</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="222"/>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Sort by Popularity</translation>
+        <translation>Sort by Popularity</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Sort by Last Updated</translation>
+        <translation>Sort by Last Updated</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sort by Name</translation>
+        <translation>Sort by Name</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="225"/>
         <source>Sort by Author</source>
-        <translation type="unfinished">Sort by Author</translation>
+        <translation>Sort by Author</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">Sort by Downloads</translation>
+        <translation>Sort by Downloads</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="227"/>
@@ -6559,7 +6559,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="228"/>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sort by Game Version</translation>
+        <translation>Sort by Game Version</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="124"/>
@@ -6651,7 +6651,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="370"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
@@ -6682,7 +6682,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="194"/>
         <source> by </source>
-        <translation type="unfinished"> by </translation>
+        <translation> by </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
@@ -6692,22 +6692,22 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
         <source>External links:</source>
-        <translation type="unfinished">External links:</translation>
+        <translation>External links:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="216"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="220"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
@@ -6766,7 +6766,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="449"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
@@ -6809,7 +6809,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
@@ -6850,12 +6850,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">Search</translation>
+        <translation>Search</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selected:</translation>
+        <translation>Version selected:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
@@ -6906,7 +6906,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="41"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="61"/>
@@ -6931,7 +6931,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="323"/>
         <source>Context menu</source>
-        <translation type="unfinished">Context menu</translation>
+        <translation>Context menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="386"/>
@@ -7032,7 +7032,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="336"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="338"/>
@@ -7080,12 +7080,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="130"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="155"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="160"/>
@@ -7115,12 +7115,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="657"/>
         <source>Context menu</source>
-        <translation type="unfinished">Context menu</translation>
+        <translation>Context menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirm Removal</translation>
+        <translation>Confirm Removal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="806"/>
@@ -7151,7 +7151,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Refresh</translation>
+        <translation>&amp;Refresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -7267,33 +7267,33 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Downloading modpack:
+        <translation>Downloading modpack:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpack download</translation>
+        <translation>Modpack download</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Extracting modpack</translation>
+        <translation>Extracting modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation type="unfinished">Unable to open supplied modpack zip file.</translation>
+        <translation>Unable to open supplied modpack zip file.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Failed to extract modpack</translation>
+        <translation>Failed to extract modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Could not fix permissions for %1</translation>
+        <translation>Could not fix permissions for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
@@ -7319,23 +7319,23 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Could not understand pack manifest:
+        <translation>Could not understand pack manifest:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Extracting modpack</translation>
+        <translation>Extracting modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
         <source>Failed to extract modpack</source>
-        <translation type="unfinished">Failed to extract modpack</translation>
+        <translation>Failed to extract modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Could not fix permissions for %1</translation>
+        <translation>Could not fix permissions for %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="230"/>
@@ -7400,23 +7400,23 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selected:</translation>
+        <translation>Version selected:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Search and filter...</translation>
+        <translation>Search and filter...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
         <source>Search</source>
-        <translation type="unfinished">Search</translation>
+        <translation>Search</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp" line="221"/>
         <source> by </source>
-        <translation type="unfinished"> by </translation>
+        <translation> by </translation>
     </message>
 </context>
 <context>
@@ -7632,7 +7632,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">No versions are currently available for Minecraft %1</translation>
+        <translation>No versions are currently available for Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7672,12 +7672,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="53"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filter:</translation>
+        <translation>Filter:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="75"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="120"/>
@@ -7877,7 +7877,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="197"/>
         <source>Context menu</source>
-        <translation type="unfinished">Context menu</translation>
+        <translation>Context menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="215"/>
@@ -7907,7 +7907,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="473"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
@@ -7917,7 +7917,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirm Removal</translation>
+        <translation>Confirm Removal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
@@ -8087,7 +8087,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
         <source>Type</source>
-        <translation type="unfinished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
@@ -8171,7 +8171,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Refresh</translation>
+        <translation>&amp;Refresh</translation>
     </message>
 </context>
 <context>
@@ -8179,7 +8179,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
@@ -8201,7 +8201,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
@@ -8245,12 +8245,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="65"/>
         <source>Actions</source>
-        <translation type="unfinished">Actions</translation>
+        <translation>Actions</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="97"/>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="102"/>
@@ -8315,7 +8315,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="143"/>
         <source>Context menu</source>
-        <translation type="unfinished">Context menu</translation>
+        <translation>Context menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="228"/>
@@ -8451,7 +8451,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="133"/>
         <source>XErr element is missing from %1 authorization error response.</source>
-        <translation type="unfinished"></translation>
+        <translation>XErr element is missing from %1 authorization error response.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
@@ -8561,7 +8561,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
