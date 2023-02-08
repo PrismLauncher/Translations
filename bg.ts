@@ -662,7 +662,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation type="unfinished"></translation>
+        <translation>Актуализиране на информационния индекс...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="28"/>
@@ -678,18 +678,19 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се види информационен индекс!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation type="unfinished"></translation>
+        <translation>Получавате информационните файлове от Mojang...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно получаване на информационния индекс:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
