@@ -5575,7 +5575,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="53"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (sina kepeken)</translation>
     </message>
 </context>
 <context>
@@ -5986,7 +5986,7 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="122"/>
         <source>%1 (in use)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (sina kepeken)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="64"/>
