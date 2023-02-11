@@ -1443,7 +1443,7 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>您將要刪除資料夾“%1”。
+        <translation>您將要刪除 %1 資料夾。
 這可能是永久性的，它將從父資料夾中消失。
 
 你確定嗎？</translation>
@@ -4482,7 +4482,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
         <source>Open %1 Matrix space.</source>
-        <translation>打開 %1 矩陣空間。</translation>
+        <translation>打開 %1 Matrix space。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
@@ -4910,7 +4910,7 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>即將刪除「%1」
+        <translation>您將要刪除「%1」。
 這可能是永久性的，並且會完全刪除該實例。
 
 你確定嗎？</translation>
@@ -6245,7 +6245,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation>其中一個檔案的路徑指向任意位置 (%1)。 這是一種安全風險，是不允許的。</translation>
+        <translation>其中一個檔案的路徑指向任意位置的路徑（%1）。不允許此操作，因為有安全風險。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
@@ -6711,7 +6711,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>您將要刪除“%1”。
+        <translation>您將要刪除「%1」。
 這可能是永久性的，它將從記錄檔資料夾中消失。
 
 你確定嗎？</translation>
@@ -7173,8 +7173,8 @@ Choose your name carefully:</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您正要將“%1”上傳到 %2。
-您應該仔細檢查個人資料。
+        <translation>您將要把「%1」上傳到 %2。
+您應該再次檢查個人資訊。
 
 你確定嗎？</translation>
     </message>
@@ -7262,7 +7262,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="131"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation>組件的“uid”包含非法符號！ 這可能會導致安全問題。</translation>
+        <translation>組件的「uid」包含非法字元！這可能會導致安全問題。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
@@ -7756,7 +7756,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="102"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>開啟一個新的彈出視窗以查看您選擇的 %1 並確認您的選擇。 快速鍵：Ctrl+Enter</translation>
+        <translation>開啟一個新的彈出視窗以查看您選擇的 %1 並確認您的選擇。快捷鍵：Ctrl+Enter</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="117"/>
@@ -7813,7 +7813,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="194"/>
         <source> by </source>
-        <translation type="unfinished"></translation>
+        <translation> 作者： </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
@@ -7869,7 +7869,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="44"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished">資源</translation>
+        <translation>資源</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
@@ -8030,27 +8030,27 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>This download will be placed in: %1</source>
-        <translation>此下載項目將被放置於:%1</translation>
+        <translation>此下載將已被放置於：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation>此項目將被下載到與預設位置不同的位置，應是相關程序需要載入該項目。</translation>
+        <translation>此檔案將被下載到與預設位置不同的資料夾，可能是相關載入器需要它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
         <source>Confirm %1 selection</source>
-        <translation>確認 %1 以選擇</translation>
+        <translation>確認 %1 選擇</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>你將要下載 %1：</translation>
+        <translation>您將要下載以下 %1：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>只會下載以選擇的 %1!</translation>
+        <translation>只會下載勾選的 %1！</translation>
     </message>
 </context>
 <context>
@@ -8107,18 +8107,18 @@ Please update %1!</source>
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation>你正在上傳螢幕截圖 %1
+        <translation>您將要上傳 %1 螢幕擷圖。
 
-你確定要上傳嗎？</translation>
+你確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation>你正在上傳已選擇的這些螢幕截圖。
+        <translation>您將要上傳已選擇的螢幕擷圖。
 
-你確定要上傳嗎？</translation>
+你確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
@@ -8154,8 +8154,9 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>刪除螢幕截圖 %1 ?
-此檔案將會從資料夾中消失。
+        <translation>您將要刪除 %1 螢幕擷圖？
+這可能是永久性的，它們將從資料夾中消失。
+
 你確定嗎？</translation>
     </message>
     <message>
@@ -8165,7 +8166,7 @@ This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
         <translation>你正在刪除已選取的螢幕截圖。
-這會使螢幕截圖從資料夾中消失。
+這可能是永久性的，它們將從資料夾中消失。
 
 你確定要刪除嗎？</translation>
     </message>
