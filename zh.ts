@@ -8047,7 +8047,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>This download will be placed in: %1</source>
-        <translation type="unfinished">此下载将放置在：%1</translation>
+        <translation>此下载将放置在：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
