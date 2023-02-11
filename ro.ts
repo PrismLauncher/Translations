@@ -3480,12 +3480,12 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Ați încercați să specificați un folder de instanță al cărui cale conține cel puțin un &apos;!&apos;. Java are probleme cunoscute în acest caz, instanțele dumneavoastră (probabil) nu vor porni!</translation>
+        <translation>Ați încercat să specificați un folder de instanță al cărui cale conține cel puțin un &apos;!&apos;. Java are probleme cunoscute în acest caz, instanțele dumneavoastră (probabil) nu vor porni!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiar dorești să folosești această cale? Selectând &quot;Nu&quot; va închide această fereastră și nu va altera calea instanței.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
@@ -3497,7 +3497,8 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Încerci să specifici un dosar de instanță care a fost permis temporar prin Flatpak
+Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
