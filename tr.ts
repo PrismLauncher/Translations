@@ -6202,7 +6202,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyalardan birisinin dosya yolu sorun teşkil ediyor (%1).Bu bir güvenlik zaafiyetidir ve izin verilmez.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
@@ -7979,7 +7979,7 @@ Lütfen %1&apos;i güncelleyin!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu dosya varsayılandan farklı bir konuma indirilecek, muhtemel sebep yükleyici gerekliliği.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
@@ -7994,7 +7994,7 @@ Lütfen %1&apos;i güncelleyin!</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sadece doğrulanmış %1 indirilecek!</translation>
     </message>
 </context>
 <context>
@@ -9416,7 +9416,7 @@ Lütfen Mojang veya Minecraft hesabınızı ekleyin.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="209"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Araç çubuğu eylemlerini özelleştir</translation>
     </message>
 </context>
 <context>
