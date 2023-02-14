@@ -417,7 +417,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation>移行</translation>
+        <translation>移行可能か?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -1264,7 +1264,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="15"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished">ゲームの所有権を決定中。</translation>
+        <translation>ゲームの所有権を確認しています。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="51"/>
@@ -4296,7 +4296,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="677"/>
         <source>Open the %1 wiki</source>
-        <translation>%1のwikiを開く</translation>
+        <translation>%1のWikiを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
@@ -5199,7 +5199,7 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.ui" line="21"/>
         <source>Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftバージョン</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ModFilterWidget.cpp" line="22"/>
@@ -6051,7 +6051,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>お知らせ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
@@ -8105,7 +8105,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>色(&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
@@ -8117,7 +8117,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>猫(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -8294,7 +8294,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>なし</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
@@ -8936,7 +8936,7 @@ Please add your Mojang or Minecraft account.</oldsource>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="276"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>サイズ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
