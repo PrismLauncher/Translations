@@ -359,7 +359,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>เกิดข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
@@ -425,7 +425,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อผู้ใช้ Minecraft ที่เชื่อมโยงกับบัญชี</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -444,13 +444,13 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation type="unfinished">บัญชีนี้สามารถโยกย้ายไปยังบัญชี Microsoft ได้หรือไม่?</translation>
+        <translation>สถานะของบัญชี</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">ชื่อของโปรไฟล์ Minecraft ที่เชื่อมโยงกับบัญชี</translation>
+        <translation>บัญชีนี้สามารถย้ายไปยังบัญชี Microsoft ได้หรือไม่</translation>
     </message>
 </context>
 <context>
