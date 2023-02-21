@@ -1678,7 +1678,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mod preuzimanje</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
@@ -1698,7 +1698,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preuzimanje modova...</translation>
     </message>
 </context>
 <context>
@@ -2454,7 +2454,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zatvoriti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="159"/>
@@ -3271,7 +3271,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instalacija modpacka</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
@@ -5086,12 +5086,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preuzimanje modova...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mod preuzimanje</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
@@ -5190,7 +5190,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="226"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mod preuzimanje</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
@@ -5200,7 +5200,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preuzimanje modova...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="326"/>
@@ -5431,7 +5431,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zatvoriti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -5486,7 +5486,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Korisničko ime</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -5873,7 +5873,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vrsta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
@@ -7973,7 +7973,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vrsta</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
