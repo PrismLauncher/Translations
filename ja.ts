@@ -5802,7 +5802,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation>任意の場所に繋がるパスを持ったファイルがあります(%1)。これはセキリュティ上のリスクであり、許可されていません。</translation>
+        <translation>任意の場所に繋がるパスを持ったファイルがあります(%1)。これはセキリュティ上のリスクがあり、許可されていません。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
@@ -5866,7 +5866,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
         <source>Search and filter ...</source>
-        <translation type="unfinished"></translation>
+        <translation>検索とフィルタ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="44"/>
@@ -5923,7 +5923,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="277"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="68"/>
@@ -5965,7 +5965,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="88"/>
         <source>Downloading %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1をダウンロード中</translation>
     </message>
 </context>
 <context>
@@ -5973,7 +5973,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Upload.cpp" line="192"/>
         <source>Uploading %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1をアップロード中</translation>
     </message>
 </context>
 <context>
@@ -6131,12 +6131,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>16 文字を超えるユーザー名は、LAN ゲームやオフラインモードのサーバーでは使用できません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
         <source>Allow long usernames</source>
-        <translation type="unfinished"></translation>
+        <translation>長いユーザー名を許可する</translation>
     </message>
 </context>
 <context>
@@ -6239,7 +6239,10 @@ Please update %1!</source>
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」を削除しようとしています。
+これはlogsフォルダから永久的に削除されます。
+
+本当によろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
