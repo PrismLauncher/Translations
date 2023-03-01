@@ -2239,40 +2239,40 @@ Please try again.</source>
 <context>
     <name>InstanceImportTask</name>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="82"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="87"/>
         <source>Downloading modpack:
 %1</source>
         <translation>درحال دانلود مودپک: 
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="91"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="96"/>
         <source>Modpack download</source>
         <translation>دانلود مودپک</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="128"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
         <source>Extracting modpack</source>
         <translation>استخراج مودپک</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="136"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="141"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>ناتوانی در بازکردن فایل زیپ حاوی مودپک.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="181"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="248"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>آرشیو دارای نوع مودپک قابل تشخیص نیست.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="197"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="203"/>
         <source>Failed to extract modpack</source>
         <translation>ناتوانی در استخراج مودپک</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="224"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
         <source>Could not fix permissions for %1</source>
         <translation>نمی توان دسترسی ها را برای %1 مشخص کرد</translation>
     </message>
@@ -6290,17 +6290,17 @@ Are you sure?</source>
 <context>
     <name>PackProfile</name>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="374"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="378"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="641"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="645"/>
         <source>Name</source>
         <translation>نام</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="643"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="647"/>
         <source>Version</source>
         <translation>نسخه</translation>
     </message>
@@ -6747,7 +6747,7 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/PackProfile.cpp" line="218"/>
+        <location filename="src/launcher/minecraft/PackProfile.cpp" line="222"/>
         <source>Invalid component file version, expected %1</source>
         <translation>مولفه نسخه فایل نامعتبر، اتفاق افتاده در %1</translation>
     </message>
@@ -8374,247 +8374,257 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>اقدامات</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="120"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="121"/>
         <source>Change version</source>
         <translation>تغییر نسخه</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="123"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="124"/>
         <source>Change version of the selected package.</source>
         <translation>تغییر نسخه یکی از بسته های انتخاب شده.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="128"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
         <source>Move up</source>
         <translation>بالا‌بردن</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="131"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="132"/>
         <source>Make the selected package apply sooner.</source>
         <translation>باعث می شود که بسته انتخاب شده زود تر اعمال شود.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="136"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
         <source>Move down</source>
         <translation>پایین‌آوردن</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="139"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="140"/>
         <source>Make the selected package apply later.</source>
         <translation>باعث می شود که بسته انتخاب شده دور تر اعمال شود.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="144"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
         <source>Remove</source>
         <translation>حذف</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="147"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="148"/>
         <source>Remove selected package from the instance.</source>
         <translation>حذف بسته انتخابی از نمایه ها.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="152"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
         <source>Customize</source>
         <translation>شخصی سازی</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="155"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="156"/>
         <source>Customize selected package.</source>
         <translation>شخصی سازی بسته های انتخاب شده.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="160"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
         <source>Edit</source>
         <translation>ویرایش</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="163"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
         <source>Edit selected package.</source>
         <translation>ویرایش بسته های انتخاب شده.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="168"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
         <source>Revert</source>
         <translation>بازگرداندن</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="171"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="172"/>
         <source>Revert the selected package to default.</source>
         <translation>بازگرداندن بسته های انتخاب شده به حالت پیشفرض.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="176"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="177"/>
         <source>Install Forge</source>
         <translation>نصب Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="180"/>
         <source>Install the Minecraft Forge package.</source>
         <translation>نصب بسته Forge ماینکرافت.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
         <source>Install Fabric</source>
         <translation>نصب Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="187"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="188"/>
         <source>Install the Fabric Loader package.</source>
         <translation>نصب بسته Fabric Loader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="192"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Install Quilt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="195"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
         <source>Install the Quilt Loader package.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="200"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
         <source>Install LiteLoader</source>
         <translation>نصب LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="203"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="204"/>
         <source>Install the LiteLoader package.</source>
         <translation>نصب بسته LiteLoader.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="208"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
         <source>Install mods</source>
         <translation>نصب مود ها</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="211"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="212"/>
         <source>Install normal mods.</source>
         <translation>نصب مود های عادی.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="216"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Add to Minecraft.jar</source>
         <translation>اضافه کردن به Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="219"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>اضافه کردن مود به فایل Minecraft.jar .</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="224"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
         <source>Replace Minecraft.jar</source>
         <translation>جایگزینی Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
         <source>Add Agents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="232"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="233"/>
         <source>Add Java agents.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="237"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="238"/>
         <source>Add Empty</source>
         <translation>اضافه کردن خالی</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="240"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="241"/>
         <source>Add an empty custom package.</source>
         <translation>اضافه کردن بسته سفارشی خالی.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="246"/>
         <source>Reload</source>
         <translation>بارگیری مجدد</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="248"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="249"/>
         <source>Reload all packages.</source>
         <translation>بارگیری مجدد همه بسته ها.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="253"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
         <source>Download All</source>
         <translation>دانلود همه</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="256"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="257"/>
         <source>Download the files needed to launch the instance now.</source>
         <translation>دانلود فایل های مورد نیاز برای اجرای نمایه در حال حاضر.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="261"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
         <source>Open .minecraft</source>
         <translation>باز کردن .minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="264"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="265"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>باز کردن پوشه نمایه .minecraft .</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="269"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
         <source>Open libraries</source>
         <translation>بازکردن کتابخانه ها</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="272"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="273"/>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>بازکردن پوشه کتابخانه های نمایه.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="278"/>
+        <source>Import Components</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="281"/>
+        <source>Import existing component JSON files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
         <source>Context menu</source>
         <translation>منوی راست کلیک</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
         <source>%1 possibly has issues.</source>
         <translation>%1 احتمالا مشکلاتی دارد.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
         <source>%1 has issues!</source>
         <translation>%1 مشکل دارد!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="232"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="235"/>
         <source>Error: </source>
         <translation>خطا: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="236"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="239"/>
         <source>Warning: </source>
         <translation>اخطار: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="301"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="307"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="398"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="411"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="473"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="311"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="347"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="416"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="491"/>
         <source>Error</source>
         <translation>خطا</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="308"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>نمی توان پروفایل نمایه را بارگذاری نمود.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="329"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Confirm Removal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="330"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="334"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -8622,68 +8632,88 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="343"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="347"/>
         <source>Couldn&apos;t remove file</source>
         <translation>نمی توان فایل را حذف کرد</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="360"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="364"/>
         <source>Select jar mods</source>
         <translation>انتخاب مود های jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="360"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="364"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>مود های Minecraft.jar (*.zip *.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="374"/>
         <source>Select jar</source>
         <translation>انتخاب jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="370"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="374"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>جایگزین Minecraft.jar (*.jar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
+        <source>Select components</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
+        <source>Components (*.json)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="389"/>
+        <source>Failed to import components</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="390"/>
+        <source>Some components could not be imported. Check logs for details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>Select agents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="381"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>Java agents (*.jar)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="460"/>
         <source>Change %1 version</source>
         <translation>تغییر نسخه %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="445"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="463"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>در حال حاضر نسخه‌های intermediary mapping در دسترس نیستند.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="446"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="464"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>نمی توان لیست نسخه های intermediary mapping را بارگذاری یا دانلود کرد!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="474"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="492"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="728"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="746"/>
         <source>Confirm Reversion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="729"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="747"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -8699,72 +8729,72 @@ Please add your Mojang or Minecraft account.</oldsource>
 لطفا یک حساب موجانگ یا ماینکرافت اضافه نمایید.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="500"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="518"/>
         <source>Select Forge version</source>
         <translation>انتخاب نسخه Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="502"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="520"/>
         <source>No Forge versions are currently available for Minecraft </source>
         <translation>هیچ نسخه‌ای از Forge درحال حاضر برای ماینکرافت در دسترس نمی باشد </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="503"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="521"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
         <translation>نمی توان لیست نسخه های Forge را دانلود یا بارگذاری نمود!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="529"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
         <source>Select Fabric Loader version</source>
         <translation>انتخاب نسخه Fabric Loader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="530"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="548"/>
         <source>No Fabric Loader versions are currently available.</source>
         <translation>هیچ نسخه‌ای از Fabric Loader در حال حاضر در دسترس نیست.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="531"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
         <translation>نمی توان لیست نسخه های Fabric Loader را بارگذاری یا دانلود کرد!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="556"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="574"/>
         <source>Select Quilt Loader version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="557"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="575"/>
         <source>No Quilt Loader versions are currently available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="558"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="576"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="601"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="619"/>
         <source>Select LiteLoader version</source>
         <translation>انتخاب نسخه LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="603"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="621"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
         <translation>هیچ نسخه‌ای از Forge درحال حاضر برای ماینکرافت در دسترس نمی باشد </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="604"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="622"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
         <translation>نمی توان لیست نسخه های LiteLoader را بارگذاری یا دانلود کرد!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="660"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="678"/>
         <source>Error updating instance</source>
         <translation>خطا در بروزرسانی نمایه</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="59"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="63"/>
         <source>Version</source>
         <translation>نسخه</translation>
     </message>
