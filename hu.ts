@@ -7699,7 +7699,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="124"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>erőforrás csomagok</translation>
     </message>
 </context>
 <context>
@@ -7708,13 +7708,13 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>erőforrás csomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="39"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished">erőforrás csomag</translation>
+        <translation>erőforrás csomag</translation>
     </message>
 </context>
 <context>
@@ -7805,7 +7805,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>shader csomagok</translation>
     </message>
 </context>
 <context>
@@ -7814,13 +7814,13 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>shader csomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="39"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished">shader csomag</translation>
+        <translation>shader csomag</translation>
     </message>
 </context>
 <context>
@@ -7829,7 +7829,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="143"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>textúra csomagok</translation>
     </message>
 </context>
 <context>
@@ -7838,13 +7838,13 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>textúra csomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished">textúra csomag</translation>
+        <translation>textúra csomag</translation>
     </message>
 </context>
 <context>
@@ -7956,37 +7956,37 @@ Kérjük, frissítse a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Csomagok letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Töltse le az erőforráscsomagokat online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="79"/>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">A letöltés a felhasználó által megszakítva.</translation>
+        <translation>A letöltés a felhasználó által megszakítva.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="89"/>
         <source>Warnings</source>
-        <translation type="unfinished">Figyelmeztetések</translation>
+        <translation>Figyelmeztetések</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
         <source>Abort</source>
-        <translation type="unfinished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
 </context>
 <context>
@@ -8346,37 +8346,37 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Shaderek letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Töltsön le shadereket online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">A letöltés a felhasználó által megszakítva.</translation>
+        <translation>A letöltés a felhasználó által megszakítva.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="83"/>
         <source>Warnings</source>
-        <translation type="unfinished">Figyelmeztetések</translation>
+        <translation>Figyelmeztetések</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="93"/>
         <source>Abort</source>
-        <translation type="unfinished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
 </context>
 <context>
@@ -8682,37 +8682,37 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Csomagok letöltése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download texture packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Töltsön le textúracsomagokat online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="81"/>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished">Megszakítva</translation>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">A letöltés a felhasználó által megszakítva.</translation>
+        <translation>A letöltés a felhasználó által megszakítva.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="91"/>
         <source>Warnings</source>
-        <translation type="unfinished">Figyelmeztetések</translation>
+        <translation>Figyelmeztetések</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
         <source>Abort</source>
-        <translation type="unfinished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
 </context>
 <context>
@@ -9200,12 +9200,12 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="278"/>
         <source>Import Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Összetevők importálása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="281"/>
         <source>Import existing component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Importálja a meglévő JSON-összetevő-fájlokat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
@@ -9291,22 +9291,22 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>Összetevők kiválasztása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Components (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Összetevők (*.json)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="389"/>
         <source>Failed to import components</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült importálni az összetevőket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="390"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyes összetevőket nem lehetett importálni. A részletekért ellenőrizze a naplókat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
