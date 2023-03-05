@@ -2488,7 +2488,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <translation type="vanished">Mods de núcleo</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="61"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="62"/>
         <source>Edit Instance (%1)</source>
         <translation>Editar Instancia (%1)</translation>
     </message>
@@ -5203,32 +5203,32 @@ Esto es permanente y borrará completamente la instancia.
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="832"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;ID DE SESIÓN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="830"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;TOKEN DE ACCESO&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="833"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;TOKEN DE CLIENTE&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;ID DEL PERFIL&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
         <source>broken</source>
         <translation>roto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="924"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -5237,17 +5237,17 @@ Esto es permanente y borrará completamente la instancia.
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="923"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
         <source>, last played for %1</source>
         <translation>, la última vez se jugó por %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="927"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
         <source>, total played for %1</source>
         <translation>, se ha jugado un total de %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
         <source>, has crashed.</source>
         <translation>, se ha cerrado de forma inesperada.</translation>
     </message>
@@ -6542,6 +6542,14 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
         <translation>Sin contenido.</translation>
+    </message>
+</context>
+<context>
+    <name>NilModFolderPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
+        <source>Nilmods</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7969,29 +7977,29 @@ Please update %1!</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="449"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
         <source>Name</source>
         <translation>Nombre</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
         <source>Last modified</source>
         <translation>Última modificación</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="459"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>¿Está el recurso habilitado?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="462"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>El nombre del recurso.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>La fecha y hora en la que este recurso fue cambiado (o añadido) por última vez.</translation>

@@ -2531,7 +2531,7 @@ Achtung beim Fortfahren!</translation>
         <translation type="vanished">Core-Mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="61"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="62"/>
         <source>Edit Instance (%1)</source>
         <translation>Instanz bearbeiten (%1)</translation>
     </message>
@@ -5250,32 +5250,32 @@ Bist du dir sicher?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="832"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&amp;lt;SITZUNGS-ID&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="830"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&amp;lt;ZUGANGS-TOKEN&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="833"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&amp;lt;CLIENT-TOKEN&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&amp;lt;PROFIL-ID&amp;gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
         <source>broken</source>
         <translation>kaputt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="924"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -5284,17 +5284,17 @@ Bist du dir sicher?</translation>
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="923"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
         <source>, last played for %1</source>
         <translation>, Zuletzt gespielt für %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="927"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
         <source>, total played for %1</source>
         <translation>, gesamt gespielt für %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
         <source>, has crashed.</source>
         <translation>, ist abgestürzt.</translation>
     </message>
@@ -6639,6 +6639,14 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
         <translation>Kein Inhalt.</translation>
+    </message>
+</context>
+<context>
+    <name>NilModFolderPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
+        <source>Nilmods</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8060,29 +8068,29 @@ Bitte aktualisiere %1!</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="449"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
         <source>Last modified</source>
         <translation>Zuletzt geändert</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="459"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Ist die Ressource aktiviert?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="462"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Name der Ressource.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Das Datum und die Zeit an der die Ressource zuletzt geändert (oder hinzugefügt) wurde.</translation>

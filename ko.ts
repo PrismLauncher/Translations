@@ -2458,7 +2458,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">코어 모드(들)</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="61"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="62"/>
         <source>Edit Instance (%1)</source>
         <translation>인스턴스 편집 (%1)</translation>
     </message>
@@ -5136,32 +5136,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="832"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="830"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="833"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
         <source>broken</source>
         <translation>손상됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="924"/>
         <source>Minecraft %1</source>
         <translation>마인크래프트 %1</translation>
     </message>
@@ -5170,17 +5170,17 @@ Are you sure?</source>
         <translation type="vanished">마인크래프트 %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="923"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
         <source>, last played for %1</source>
         <translation>, %1동안 지난 플레이함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="927"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
         <source>, total played for %1</source>
         <translation>, 총 %1동안 플레이 함</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
         <source>, has crashed.</source>
         <translation>, 는 튕겼습니다.</translation>
     </message>
@@ -6455,6 +6455,14 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
         <translation>콘텐츠 없음.</translation>
+    </message>
+</context>
+<context>
+    <name>NilModFolderPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
+        <source>Nilmods</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7867,29 +7875,29 @@ Please update %1!</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="449"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
         <source>Last modified</source>
         <translation>최근 수정됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="459"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스가 활성화되었습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="462"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스의 이름.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스가 최근 수정(혹은 추가)된 날짜와 시간.</translation>

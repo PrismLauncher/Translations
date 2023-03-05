@@ -2487,7 +2487,7 @@ Proceed with caution!</source>
         <translation type="vanished">核心模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="61"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="62"/>
         <source>Edit Instance (%1)</source>
         <translation>編輯實例（%1）</translation>
     </message>
@@ -5193,32 +5193,32 @@ Are you sure?</source>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="832"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;程序ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="830"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;存取權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="833"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;用戶端權杖&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;設定檔ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
         <source>broken</source>
         <translation>損壞</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="924"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -5227,17 +5227,17 @@ Are you sure?</source>
         <translation type="vanished">Minecraft %1（%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="923"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
         <source>, last played for %1</source>
         <translation>，上次已遊玩 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="927"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
         <source>, total played for %1</source>
         <translation>，總共遊玩了 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
         <source>, has crashed.</source>
         <translation>，程式已崩潰。</translation>
     </message>
@@ -6556,6 +6556,14 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
         <translation>沒有內容。</translation>
+    </message>
+</context>
+<context>
+    <name>NilModFolderPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
+        <source>Nilmods</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7968,29 +7976,29 @@ Please update %1!</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="449"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
         <source>Name</source>
         <translation>名稱</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
         <source>Last modified</source>
         <translation>最後修改</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="459"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>外部資源已啟用？</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="462"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>資源名稱。</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>這資源上次變更（或加入）的日期與時間。</translation>

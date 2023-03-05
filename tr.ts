@@ -2468,7 +2468,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">Çekirdek modlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstancePageProvider.h" line="61"/>
+        <location filename="src/launcher/InstancePageProvider.h" line="62"/>
         <source>Edit Instance (%1)</source>
         <translation>Profili Düzenle (%1)</translation>
     </message>
@@ -5178,32 +5178,32 @@ Emin misiniz?</translation>
 <context>
     <name>MinecraftInstance</name>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="827"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="832"/>
         <source>&lt;SESSION ID&gt;</source>
         <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="830"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
         <translation>&lt;ACCESS TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="833"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
         <translation>&lt;CLIENT TOKEN&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
         <source>&lt;PROFILE ID&gt;</source>
         <translation>&lt;PROFILE ID&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="907"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="912"/>
         <source>broken</source>
         <translation>bozuk</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="919"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="924"/>
         <source>Minecraft %1</source>
         <translation>Minecraft %1</translation>
     </message>
@@ -5212,17 +5212,17 @@ Emin misiniz?</translation>
         <translation type="vanished">Minecraft %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="923"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
         <source>, last played for %1</source>
         <translation>, en son %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="927"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
         <source>, total played for %1</source>
         <translation>, %1 kadar oynandı</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
         <source>, has crashed.</source>
         <translation>, çöktü.</translation>
     </message>
@@ -6500,6 +6500,14 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <location filename="src/launcher/news/NewsEntry.cpp" line="57"/>
         <source>No content.</source>
         <translation>İçerik yok.</translation>
+    </message>
+</context>
+<context>
+    <name>NilModFolderPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
+        <source>Nilmods</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7912,29 +7920,29 @@ Lütfen %1&apos;i güncelleyin!</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="449"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
         <source>Name</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
         <source>Last modified</source>
         <translation>En son düzenlenen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="459"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Kaynak etkin mi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="462"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Kaynağın ismi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="465"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Bu kaynagın en son değiştirildiği (veya eklendiği) tarih ve zaman.</translation>
