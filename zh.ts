@@ -7,7 +7,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="39"/>
         <source>&amp;Pastebin Service</source>
         <oldsource>Pastebin Service</oldsource>
-        <translation>剪切板服务（&amp;P）</translation>
+        <translation>剪贴板服务（&amp;P）</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -663,7 +663,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1186"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1611"/>
@@ -702,7 +702,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
@@ -1019,7 +1019,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1218,7 +1218,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1610,7 +1610,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
@@ -2298,7 +2298,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="61"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>复制实例文件夹操作被中断。</translation>
+        <translation>复制实例文件夹操作已被中止。</translation>
     </message>
 </context>
 <context>
@@ -2812,7 +2812,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
         <source>Launch Demo</source>
-        <translation>启动演示</translation>
+        <translation>启动演示版</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
@@ -3301,7 +3301,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="460"/>
         <source>Abort</source>
-        <translation>中断</translation>
+        <translation>中止</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="476"/>
@@ -3924,7 +3924,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>metadata 清单中指定了空白或错误的 .jar 文件，操作中断。</translation>
+        <translation>metadata 清单中指定了空白或错误的 .jar 文件，操作中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="65"/>
@@ -3942,7 +3942,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -5208,7 +5208,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
 </context>
 <context>
@@ -5268,7 +5268,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
 </context>
 <context>
@@ -5492,7 +5492,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftUpdate.cpp" line="87"/>
         <source>Aborted by user.</source>
-        <translation>操作被用户中断。</translation>
+        <translation>操作被用户中止。</translation>
     </message>
 </context>
 <context>
@@ -5742,7 +5742,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
@@ -6580,7 +6580,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>NilLoader 模组</translation>
     </message>
 </context>
 <context>
@@ -6804,7 +6804,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="378"/>
         <source>Aborted</source>
-        <translation>中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="645"/>
@@ -7647,7 +7647,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="36"/>
         <source>texture pack</source>
-        <translation>材质包</translation>
+        <translation>纹理包</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
@@ -7827,7 +7827,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="124"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>资源包</translation>
     </message>
 </context>
 <context>
@@ -7836,7 +7836,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>资源包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="39"/>
@@ -7933,7 +7933,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>光影包</translation>
     </message>
 </context>
 <context>
@@ -7942,7 +7942,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>光影包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="39"/>
@@ -7957,7 +7957,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="143"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>纹理包</translation>
     </message>
 </context>
 <context>
@@ -7966,13 +7966,13 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>纹理包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished">材质包</translation>
+        <translation>纹理包</translation>
     </message>
 </context>
 <context>
@@ -8084,12 +8084,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>下载包文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>从网络平台下载资源包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="79"/>
@@ -8099,7 +8099,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Aborted</source>
-        <translation type="unfinished">中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
@@ -8114,7 +8114,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -8182,7 +8182,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>只会下载勾选的的 %1！</translation>
+        <translation>只会下载勾选的 %1！</translation>
     </message>
 </context>
 <context>
@@ -8474,12 +8474,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>下载光影包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>从网络平台下载光影包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
@@ -8489,7 +8489,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Aborted</source>
-        <translation type="unfinished">中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
@@ -8504,7 +8504,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="93"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -8638,7 +8638,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
         <source>Instance import has been aborted.</source>
-        <translation>实例导入操作被中断。</translation>
+        <translation>实例导入操作被中止。</translation>
     </message>
 </context>
 <context>
@@ -8700,7 +8700,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="230"/>
         <source>Instance import has been aborted.</source>
-        <translation>实例导入操作被中断。</translation>
+        <translation>实例导入操作被中止。</translation>
     </message>
 </context>
 <context>
@@ -8809,17 +8809,17 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="51"/>
         <source>Texture packs</source>
-        <translation>材质包</translation>
+        <translation>纹理包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>下载包文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download texture packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>从网络平台下载纹理包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="81"/>
@@ -8829,7 +8829,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished">中断</translation>
+        <translation>已中止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
@@ -8844,7 +8844,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -8939,7 +8939,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="23"/>
         <source>Task aborted.</source>
-        <translation>任务中断。</translation>
+        <translation>任务已中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="52"/>
@@ -9344,12 +9344,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="278"/>
         <source>Import Components</source>
-        <translation type="unfinished"></translation>
+        <translation>导入组件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="281"/>
         <source>Import existing component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>导入现有的组件的 JSON 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
@@ -9435,22 +9435,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>选择组件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Components (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>组件 (*.json)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="389"/>
         <source>Failed to import components</source>
-        <translation type="unfinished"></translation>
+        <translation>组件导入失败</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="390"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>一些组件不能被导入。检查日志以了解详情</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
