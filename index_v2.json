@@ -202,6 +202,14 @@
             "fuzzy" : 50,
             "untranslated" : 25
         },
+        "fr_CA" : {
+            "file" : "208119ad24b7f120004a69ac48b2e97c78254192.class",
+            "sha1" : "208119ad24b7f120004a69ac48b2e97c78254192",
+            "size" : 33,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 1547
+        },
         "gl" : {
             "file" : "e4e90497be6018006538bf6dd5fd8aa04c7b899a.class",
             "sha1" : "e4e90497be6018006538bf6dd5fd8aa04c7b899a",
