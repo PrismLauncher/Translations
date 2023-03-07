@@ -5595,7 +5595,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
         <source>Last changed</source>
-        <translation>最后一次修改</translation>
+        <translation>最后更改</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
@@ -5620,7 +5620,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>模组最后一次修改（或添加）的日期和时间。</translation>
+        <translation>该模组最后一次更改（或添加）的日期和时间。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
@@ -8000,7 +8000,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
         <source>Last modified</source>
-        <translation>最后更改</translation>
+        <translation>最后修改</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
@@ -8052,7 +8052,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
         <source>Last changed</source>
-        <translation>最后修改</translation>
+        <translation>最后更改</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
@@ -8071,7 +8071,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="128"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>此资源包最后一次修改（或添加）的日期和时间。</translation>
+        <translation>该资源包最后一次更改（或添加）的日期和时间。</translation>
     </message>
 </context>
 <context>
