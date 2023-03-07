@@ -7842,7 +7842,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="39"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished">资源包</translation>
+        <translation>资源包</translation>
     </message>
 </context>
 <context>
@@ -7948,7 +7948,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="39"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished">光影包</translation>
+        <translation>光影包</translation>
     </message>
 </context>
 <context>
@@ -8094,7 +8094,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="79"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
@@ -8104,12 +8104,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">下载被用户停止。</translation>
+        <translation>下载被用户停止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="89"/>
         <source>Warnings</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
@@ -8484,7 +8484,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
@@ -8494,12 +8494,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">下载被用户停止。</translation>
+        <translation>下载被用户停止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="83"/>
         <source>Warnings</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="93"/>
@@ -8824,7 +8824,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="81"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
@@ -8834,12 +8834,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">下载被用户停止。</translation>
+        <translation>下载被用户停止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="91"/>
         <source>Warnings</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
