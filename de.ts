@@ -6646,7 +6646,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilmods</translation>
     </message>
 </context>
 <context>
@@ -7902,7 +7902,7 @@ Bitte aktualisiere %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="124"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished">Ressourcenpakete</translation>
+        <translation>Ressourcenpakete</translation>
     </message>
 </context>
 <context>
@@ -7911,13 +7911,13 @@ Bitte aktualisiere %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">Ressourcenpakete</translation>
+        <translation>Ressourcenpakete</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="39"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished">Ressourcenpaket</translation>
+        <translation>Ressourcenpaket</translation>
     </message>
 </context>
 <context>
@@ -8023,7 +8023,7 @@ Bitte aktualisiere %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="39"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished">Shaderpaket</translation>
+        <translation>Shaderpaket</translation>
     </message>
 </context>
 <context>
