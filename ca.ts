@@ -6204,7 +6204,7 @@ Si us plau, actualitza %1!</translation>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="126"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Executant %1 tasca(s) (%2 de %3 han finalitzat)</translation>
     </message>
 </context>
 <context>
