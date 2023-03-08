@@ -6464,7 +6464,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilmodok</translation>
     </message>
 </context>
 <context>
@@ -7618,7 +7618,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="105"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>modok</translation>
+        <translation>Modok</translation>
     </message>
 </context>
 <context>
@@ -7677,7 +7677,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
         <source>Download %1</source>
-        <translation>Letöltés %1</translation>
+        <translation>%1 letöltése</translation>
     </message>
 </context>
 <context>
@@ -7707,7 +7707,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="124"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>erőforrás csomagok</translation>
+        <translation>Erőforrás csomagok</translation>
     </message>
 </context>
 <context>
@@ -7722,7 +7722,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="39"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation>erőforrás csomag</translation>
+        <translation>Erőforrás csomag</translation>
     </message>
 </context>
 <context>
@@ -7813,7 +7813,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>shader csomagok</translation>
+        <translation>Shader csomagok</translation>
     </message>
 </context>
 <context>
@@ -7837,7 +7837,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="143"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>textúra csomagok</translation>
+        <translation>Textúra csomagok</translation>
     </message>
 </context>
 <context>
@@ -7852,7 +7852,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation>textúra csomag</translation>
+        <translation>Textúra csomag</translation>
     </message>
 </context>
 <context>
