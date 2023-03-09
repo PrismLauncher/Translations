@@ -7123,16 +7123,16 @@ Weet u het zeker?</translation>
         <translation>Java test geslaagd!&lt;br /&gt;Platform gemeld: %1&lt;br /&gt;Java versie gemeld: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <source>Java test success</source>
         <translation>Java test geslaagd</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>Java test mislukt</translation>
     </message>
@@ -7360,8 +7360,8 @@ Dit bericht zal worden weergegeven totdat u dit van de JVM-argumenten verwijdert
         <translation>Onbekende opmaakversie!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
         <translation>Leeg pad</translation>
     </message>
@@ -7567,8 +7567,8 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
         <translation>Sorteer op Populariteit</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <source>Sort by Last Updated</source>
         <translation>Sorteer op laatst bijgewerkt</translation>
     </message>
@@ -7583,8 +7583,8 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
         <translation>Sorteer op Auteur</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <source>Sort by Downloads</source>
         <translation>Sorteer op Downloads</translation>
     </message>
