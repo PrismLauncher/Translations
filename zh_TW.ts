@@ -64,7 +64,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth API（&amp;M）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -74,12 +74,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>在這裡輸入自訂 Modrinth API 金鑰。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>（無）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
