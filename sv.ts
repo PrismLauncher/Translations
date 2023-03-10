@@ -5661,7 +5661,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="51"/>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation>Moddar</translation>
     </message>
 </context>
 <context>
