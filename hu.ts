@@ -60,22 +60,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Megjegyzés: Ezt csak a személyes adatok eléréséhez kell beállítani. További információért olvassa el a &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentációt&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adja meg itt a Modrinth egyéni API-tokenjét.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Semmi)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
