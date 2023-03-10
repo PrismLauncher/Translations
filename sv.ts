@@ -56,22 +56,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation>&amp;Modrinth-API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Notera: du behöver bara ställa in detta för att komma åt privat data. Läs &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentationen&lt;/a&gt; för mer information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;OBS! Du behöver bara ställa in detta för att komma åt privat data. Läs &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;dokumentationen&lt;/a&gt; för mer information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Ange en anpassad API token för Modrinth här.</translation>
+        <translation>Ange ett anpassat API-token för Modrinth här.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation>(Ingen)</translation>
+        <translation>(Inget)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
@@ -534,7 +534,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation>Uppdatera kontonycklar</translation>
+        <translation>Uppdatera konto-token</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
@@ -3321,12 +3321,12 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="68"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>Misslyckades med att få åtkomstnyckeln för Minecraft: %1</translation>
+        <translation>Misslyckades med att få åtkomsttoken för Minecraft: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="79"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation>Misslyckades med att tolka svaret till åtkomstnyckeln för Minecraft.</translation>
+        <translation>Misslyckades med att tolka svaret till åtkomsttoken för Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -5106,12 +5106,12 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="835"/>
         <source>&lt;ACCESS TOKEN&gt;</source>
-        <translation>&lt;ÅTKOMSTNYCKEL&gt;</translation>
+        <translation>&lt;ÅTKOMSTTOKEN&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="838"/>
         <source>&lt;CLIENT TOKEN&gt;</source>
-        <translation>&lt;KLIENTNYCKEL&gt;</translation>
+        <translation>&lt;KLIENTTOKEN&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="840"/>
@@ -5661,7 +5661,7 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="51"/>
         <source>Mods</source>
-        <translation>Moddar</translation>
+        <translation>Mods</translation>
     </message>
 </context>
 <context>
@@ -9871,7 +9871,7 @@ Vänligen ställ in ditt konto enligt %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>Got Xbox user token</source>
-        <translation>Fick Xbox-användarnyckeln</translation>
+        <translation>Fick Xbox-användartoken</translation>
     </message>
 </context>
 <context>
@@ -9879,17 +9879,17 @@ Vänligen ställ in ditt konto enligt %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="188"/>
         <source>Authentication server didn&apos;t send a client token.</source>
-        <translation>Autentiseringsservern skickade ingen klientnyckel.</translation>
+        <translation>Autentiseringsservern skickade inget klienttoken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="195"/>
         <source>Authentication server attempted to change the client token. This isn&apos;t supported.</source>
-        <translation>Autentiseringsservern försökte ändra klientnyckeln. Detta stöds inte.</translation>
+        <translation>Autentiseringsservern försökte ändra klienttoknet. Detta stöds inte.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="204"/>
         <source>Authentication server didn&apos;t send an access token.</source>
-        <translation>Autentiseringsservern skickade ingen åtkomstnyckel.</translation>
+        <translation>Autentiseringsservern skickade inget åtkomsttoken.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
