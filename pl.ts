@@ -72,22 +72,22 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>API &amp;Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Uwaga: Musisz to ustawić tylko jeśli chcesz uzyskać dostęp do prywatnych danych. Przeczytaj &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt; dokumentacje &lt;/a&gt; by dowiedzieć się więcej. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpisz tu własny token API dla serwisu Modrinth tutaj.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Brak)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
@@ -6638,7 +6638,7 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilmods</translation>
     </message>
 </context>
 <context>
@@ -7902,7 +7902,7 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="124"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paczki zasobów</translation>
     </message>
 </context>
 <context>
@@ -7911,13 +7911,13 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paczki zasobów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="39"/>
         <source>resource pack</source>
         <extracomment>The singular version of &apos;resource packs&apos;</extracomment>
-        <translation type="unfinished">paczka zasobów</translation>
+        <translation>paczka zasobów</translation>
     </message>
 </context>
 <context>
@@ -8008,7 +8008,7 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="162"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paczki shader-ów</translation>
     </message>
 </context>
 <context>
@@ -8017,13 +8017,13 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="37"/>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paczki shader-ów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="39"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished">paczka cieni</translation>
+        <translation>paczka cieni</translation>
     </message>
 </context>
 <context>
@@ -8032,7 +8032,7 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="143"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paczki zasobów</translation>
     </message>
 </context>
 <context>
@@ -8041,13 +8041,13 @@ Zaktualizuj %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="37"/>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>paczki zasobów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished">paczka tekstur</translation>
+        <translation>paczka tekstur</translation>
     </message>
 </context>
 <context>
@@ -8159,37 +8159,37 @@ Zaktualizuj %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download resource packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczki zasobów z platform online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="79"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwano</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Pobieranie zatrzymane przez użytkownika.</translation>
+        <translation>Pobieranie zatrzymane przez użytkownika.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="89"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwagi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="99"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwano</translation>
     </message>
 </context>
 <context>
@@ -8549,37 +8549,37 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="53"/>
         <source>Download shaders</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobrane shader-y</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shaders from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz shader-y z platform online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwano</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Pobieranie zatrzymane przez użytkownika.</translation>
+        <translation>Pobieranie zatrzymane przez użytkownika.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="83"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwagi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="93"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwano</translation>
     </message>
 </context>
 <context>
@@ -8889,37 +8889,37 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
         <source>Download packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
         <source>Download texture packs from online platforms</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz paczki tekstur z platform online</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="81"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwano</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished">Pobieranie zatrzymane przez użytkownika.</translation>
+        <translation>Pobieranie zatrzymane przez użytkownika.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="91"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwagi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="101"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwano</translation>
     </message>
 </context>
 <context>
@@ -9419,12 +9419,12 @@ Dla tej instancji przełącz się na jedną z następujących wersji Javy:</tran
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="278"/>
         <source>Import Components</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaimportuj komponenty</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="281"/>
         <source>Import existing component JSON files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaimportuj istniejący komponent z pliku JSON.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
@@ -9510,22 +9510,22 @@ Jesteś tego pewien?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz komponent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Components (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponenty (*.json)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="389"/>
         <source>Failed to import components</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się zaimportować komponentów</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="390"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre komponenty nie mogły zostać zaimportowane. Sprawdź dziennik zdarzeń by wyświetlić szczegóły</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
