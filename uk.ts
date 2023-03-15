@@ -5991,12 +5991,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Копіювання модових блоків...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Копіювання заблокованих модів (%1 з %2 виконано)</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
@@ -7088,16 +7088,16 @@ Are you sure?</source>
         <translation>Тестування Java успішно! &lt;br /&gt; Повідомлено про платформу:%1 &lt;br /&gt; Повідомлено про версію Java:%2 &lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <source>Java test success</source>
         <translation>Перевірка Java пройшла успішно</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>Помилка тесту Java</translation>
     </message>
@@ -7325,8 +7325,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Невідома версія формату!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
         <translation>Порожній шлях</translation>
     </message>
