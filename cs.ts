@@ -7233,16 +7233,16 @@ Jste si jisti?</translation>
         <translation>Test Javy byl úspěšný!&lt;br /&gt;Nahlášená platforma: %1&lt;br /&gt;Nahlášená verze Javy: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test success</source>
         <translation>Test Javy byl úspěšný</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>Test Javy selhal</translation>
     </message>
@@ -7470,8 +7470,8 @@ Tato zpráva se bude zobrazovat, dokud ji z argumentů JVM neodstraníte.</trans
         <translation>Neznámá chyba!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <source>Empty path</source>
         <translation>Prázná cesta</translation>
     </message>
