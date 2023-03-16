@@ -4106,7 +4106,7 @@ Grund:
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
-        <translation>Minecraft Log</translation>
+        <translation>Minecraft Protokoll</translation>
     </message>
 </context>
 <context>
