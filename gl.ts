@@ -6691,16 +6691,16 @@ Are you sure?</source>
         <translation>Pasouse a proba de Java!&lt;br /&gt;Plataforma indicada: %1&lt;br /&gt;Versión de Java indicada: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <source>Java test success</source>
         <translation>Pasouse a proba de Java</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>Fallou a proba de Java</translation>
     </message>
@@ -6907,8 +6907,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Versión do formato descoñecida!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
         <translation>Ruta baleira</translation>
     </message>
