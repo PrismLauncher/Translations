@@ -3114,12 +3114,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="133"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Downloads:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="146"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="162"/>
@@ -3252,7 +3252,7 @@ Granting %1 access to it via Flatseal is recommended.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloads Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="306"/>
