@@ -6555,7 +6555,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/Download.cpp" line="89"/>
         <source>Downloading %1</source>
-        <translation>Загрузка %1</translation>
+        <translation>Скачивание %1</translation>
     </message>
 </context>
 <context>
