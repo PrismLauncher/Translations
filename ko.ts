@@ -73,17 +73,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;참고: 비공개 데이터에 접근하려면 이것을 설정해야 합니다. 자세한 건 &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;문서&lt;/a&gt;를 참고하세요.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth의 커스텀 API 토큰을 여기에 입력하세요.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(없음)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
@@ -3477,12 +3477,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="133"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;다운로드:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="146"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="255"/>
@@ -3514,19 +3514,19 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="300"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>게임이 실행 중일 때도 콘솔을 표시할까요? (&amp;R)</translation>
+        <translation>게임이 &amp;실행 중일 때도 콘솔을 표시할까요?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="307"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>게임 종료 시 콘솔을 자동으로 닫을까요? (&amp;A)</translation>
+        <translation>게임 종료 시 콘솔을 &amp;자동으로 닫을까요?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="314"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>게임이 충돌했을 때도 콘솔을 표시할까요? (&amp;C)</translation>
+        <translation>게임이 &amp;충돌했을 때도 콘솔을 표시할까요?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
@@ -3599,7 +3599,7 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>다운로드 폴더</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="306"/>
@@ -5239,7 +5239,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>마인크래프트를 최대화된 상태로 시작할까요? (&amp;M)</translation>
+        <translation>마인크래프트를 &amp;최대화된 상태로 시작할까요?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -6497,7 +6497,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation>NilLoader 모드</translation>
     </message>
 </context>
 <context>
