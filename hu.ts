@@ -3567,7 +3567,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
         <source>Instance Folder</source>
-        <translation>Példánymappa</translation>
+        <translation>Példányok mappája</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
@@ -3602,7 +3602,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="154"/>
         <source>Icons Folder</source>
-        <translation>Ikonok mappa</translation>
+        <translation>Ikonok mappája</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -3612,7 +3612,7 @@ A %1 hozzáférésének biztosítása a Flatseal-en keresztül ajánlott.</trans
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Downloads Folder</source>
-        <translation>Letöltések mappa</translation>
+        <translation>Letöltések mappája</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="306"/>
@@ -7863,7 +7863,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="39"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation>shader csomag</translation>
+        <translation>Shader csomag</translation>
     </message>
 </context>
 <context>
@@ -8775,7 +8775,7 @@ inheritsFrom hiányzik</translation>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>A macska a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomja a Macska gombot az eszköztáron.</translation>
+        <translation>A cica a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomja a Cica gombot az eszköztáron.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
@@ -8798,7 +8798,7 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Tipp: A macska a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomja a Macska gombot az eszköztáron.</translation>
+        <translation>Tipp: A cica a háttérben jelenik majd meg, és alapértelmezés szerint nem látható. Csak akkor látható, ha megnyomja a Cica gombot az eszköztáron.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
@@ -8808,7 +8808,7 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>A macska a háttérben látható, és nem szolgál semmilyen célt, pusztán vizuális elem.</translation>
+        <translation>A cica a háttérben látható, és nem szolgál semmilyen célt, pusztán vizuális elem.</translation>
     </message>
 </context>
 <context>
