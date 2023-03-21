@@ -164,7 +164,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
         <source>Deleting existing files...</source>
-        <translation>正在删除现有文件…</translation>
+        <translation>正在删除现有文件……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
@@ -199,7 +199,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
         <source>Extracting configs...</source>
-        <translation>正在解压配置文件......</translation>
+        <translation>正在解压配置文件……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="705"/>
@@ -711,7 +711,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="21"/>
         <source>Updating assets index...</source>
-        <translation>正在更新 assets 资源文件索引……</translation>
+        <translation>正在更新资源文件索引……</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="28"/>
@@ -732,7 +732,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>正在从Mojang获取assets资源文件……</translation>
+        <translation>正在从 Mojang 获取资源文件……</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
@@ -1290,17 +1290,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="86"/>
         <source>Checking if mods have metadata...</source>
-        <translation>正在检查模组是否有 metadata……</translation>
+        <translation>正在检查模组是否有元数据……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="160"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>正在向 %1 获取metadata信息…</translation>
+        <translation>正在向 %1 获取元数据信息……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>正在向 %1 获取“ %2 ”的metadata信息…</translation>
+        <translation>正在向 %1 获取“ %2 ”的元数据信息……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="241"/>
@@ -1312,7 +1312,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="397"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="464"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析“ %1 ”的 CurseForge API 返回数据…</translation>
+        <translation>正在分析“ %1 ”的 CurseForge API 返回数据……</translation>
     </message>
 </context>
 <context>
@@ -1699,7 +1699,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="141"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在为“ %1 ”处理CurseForge API的回传数据...</translation>
+        <translation>正在分析“ %1 ”的 CurseForge API 返回数据……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
@@ -1810,7 +1810,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="510"/>
         <source>Copying Blocked Mods...</source>
-        <translation>正在复制被屏蔽的模组…</translation>
+        <translation>正在复制被屏蔽的模组……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
@@ -2342,7 +2342,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="43"/>
         <source>Removing old conflicting files...</source>
-        <translation>正在删除旧的冲突文件...</translation>
+        <translation>正在删除旧的冲突文件……</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="52"/>
@@ -3294,7 +3294,7 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>游戏启动会延迟，直到你按下按钮。现在 Profiler 服务器正在运行，你应该在此时设置 Profiler。
+        <translation>游戏启动会延迟，直到你按下按钮。现在分析器服务器正在运行，所以你应该在此时设置分析器。
 
 %1</translation>
     </message>
@@ -3949,7 +3949,7 @@ Should it be removed now?</source>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="15"/>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation>正在下载所需的库文件...</translation>
+        <translation>正在下载所需的库文件……</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
@@ -4145,7 +4145,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="68"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>正在使用微软账户登录.</translation>
+        <translation>正在使用微软账户登录。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="90"/>
@@ -6133,7 +6133,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation>正在创建实例…</translation>
+        <translation>正在创建实例……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
@@ -6148,7 +6148,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation>正在复制被屏蔽的模组…</translation>
+        <translation>正在复制被屏蔽的模组……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
@@ -6210,7 +6210,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="33"/>
         <source>Preparing mods for Modrinth...</source>
-        <translation>正在为 Modrinth 准备模组...</translation>
+        <translation>正在为 Modrinth 准备模组……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="45"/>
@@ -6220,7 +6220,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="91"/>
         <source>Parsing the API response from Modrinth...</source>
-        <translation>正在解析来自 Modrinth 的 API 响应……</translation>
+        <translation>正在分析 Modrinth 的 API 返回数据……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="106"/>
@@ -6341,7 +6341,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
         <source>Fetching changelogs...</source>
-        <translation>正在获取变更日志...</translation>
+        <translation>正在获取变更日志……</translation>
     </message>
 </context>
 <context>
@@ -10176,7 +10176,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="18"/>
         <source>Logging in with Mojang account.</source>
-        <translation>正在使用 Mojang 账户登录.</translation>
+        <translation>正在使用 Mojang 账户登录。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="35"/>
