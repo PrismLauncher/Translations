@@ -229,7 +229,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="771"/>
         <source>Unknown download type: %1</source>
-        <translation>Tipo de transferência desconhecida: %1</translation>
+        <translation>Tipo de download desconhecido: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="892"/>
