@@ -235,9 +235,9 @@
             "untranslated" : 1439
         },
         "hu" : {
-            "file" : "10acbfd4243e073816c89642a35d7eb705fd94b1.class",
-            "sha1" : "10acbfd4243e073816c89642a35d7eb705fd94b1",
-            "size" : 227140,
+            "file" : "5e07868599b987505ee59651f7499069fa3febc9.class",
+            "sha1" : "5e07868599b987505ee59651f7499069fa3febc9",
+            "size" : 227138,
             "translated" : 1549,
             "fuzzy" : 0,
             "untranslated" : 5
@@ -403,9 +403,9 @@
             "untranslated" : 582
         },
         "pt_BR" : {
-            "file" : "a50e8f50d65489e47c70d6421b2bd07a2ab9f533.class",
-            "sha1" : "a50e8f50d65489e47c70d6421b2bd07a2ab9f533",
-            "size" : 224775,
+            "file" : "62fd022e4dd9ca09ba619748ebf2fe20e3d822ed.class",
+            "sha1" : "62fd022e4dd9ca09ba619748ebf2fe20e3d822ed",
+            "size" : 224779,
             "translated" : 1554,
             "fuzzy" : 0,
             "untranslated" : 0
