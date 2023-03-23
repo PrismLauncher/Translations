@@ -73,12 +73,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：您只需要设置此项将会访问私有数据 阅读 &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;文档&lt;/a&gt; 以了解更多信息.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：您只需要设置此项来访问私有数据。访问&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt; 文档 &lt;/a&gt;以了解更多信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>在此处输入 Modrinth 的自定义 API 令牌。</translation>
+        <translation>在此处输入 Modrinth 的自定义 API 密钥。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -123,13 +123,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>注意：在 CurseForge 服务正常工作的情况下， 您可能并不需要去设置它。</translation>
+        <translation>注意：如果 CurseForge 服务已经正常工作， 您可能不需要设置此项。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>在此处输入自定义的 CurseForge API Key.</translation>
+        <translation>在此处输入自定义的 CurseForge API 密钥。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -254,7 +254,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
         <source>Unknown loader type: </source>
-        <translation>未知的加载器类型: </translation>
+        <translation>未知的加载器类型： </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
@@ -308,7 +308,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation>关于Qt</translation>
+        <translation>关于 Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
@@ -394,13 +394,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>已过期</translation>
+        <translation>过期</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation>已禁用</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
@@ -439,7 +439,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation>账户类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
@@ -454,7 +454,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft 用户名关联的账户。</translation>
+        <translation>与该账户关联的 Minecraft 用户名。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -468,7 +468,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>账户类型 - Mojang 账户或微软账户。</translation>
+        <translation>账户类型 - Mojang 或微软账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
@@ -506,7 +506,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>取消默认（&amp;N）</translation>
+        <translation>清除默认（&amp;N）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
@@ -546,7 +546,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation>刷新帐户令牌</translation>
+        <translation>刷新账户令牌</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
@@ -558,7 +558,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>欢迎！
-如果你是第一次使用，你可以点击“添加”按钮来添加你的 Mojang 或 Minecraft 账户。</translation>
+如果你是第一次来到这里，你可以点击“添加”按钮来添加你的 Mojang 或 Minecraft 账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -607,7 +607,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您必须先添加拥有 Minecraft 的微软或 Mojang 帐户，然后才能添加离线帐户。&lt;br&gt;&lt;br&gt;如果您丢失了帐户，请联系微软寻求支持。</translation>
+        <translation>您必须先添加拥有 Minecraft 的微软或 Mojang 账户，然后才能添加离线账户。&lt;br&gt;&lt;br&gt;如果您丢失了账户，请联系微软寻求支持。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -665,7 +665,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
         <source>...</source>
-        <translation>......</translation>
+        <translation>……</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
@@ -842,7 +842,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索和过滤……</translation>
+        <translation>搜索和筛选……</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -1306,7 +1306,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="241"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="330"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>这在处理&quot; %1 &quot;Modrinth API的回传数据...</translation>
+        <translation>正在处理 Modrinth“%1”的 API 响应……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="397"/>
@@ -1683,7 +1683,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>准备从 CurseForge 获取模组...</translation>
+        <translation>准备从 CurseForge 获取模组……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="125"/>
@@ -1694,7 +1694,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="129"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation>正从 CurseForge 获取 &apos;%1&apos; 的 API 响应…</translation>
+        <translation>正从 CurseForge 获取“%1”的 API 响应……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="141"/>
@@ -1923,7 +1923,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索和过滤…...</translation>
+        <translation>搜索和筛选……</translation>
     </message>
     <message>
         <source>CurseForge</source>
@@ -2038,7 +2038,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索和过滤…...</translation>
+        <translation>搜索和筛选……</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -2955,7 +2955,7 @@ Proceed with caution!</source>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>自动检测（&amp;A）...</translation>
+        <translation>自动检测（&amp;A）……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="217"/>
@@ -3144,7 +3144,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
         <source>No Accounts</source>
-        <translation>无帐户</translation>
+        <translation>无账户</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
@@ -3155,7 +3155,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
         <source>Which account would you like to use?</source>
-        <translation>你想使用哪个帐户？</translation>
+        <translation>你想使用哪个账户？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="152"/>
@@ -3235,7 +3235,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>帐户已过期，需要手动重新登录。</translation>
+        <translation>账户已过期，需要手动重新登录。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="293"/>
@@ -3245,7 +3245,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>启动器的客户端标识已更改。请删除此帐户，然后重新添加。</translation>
+        <translation>启动器的客户端标识已更改。请删除此账户，然后重新添加。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="305"/>
@@ -3255,7 +3255,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>服务器上不再存在该帐户。它可能已迁移，在这种情况下，请添加您迁移到的新账户。</translation>
+        <translation>服务器上不再存在该账户。它可能已迁移，在这种情况下，请添加您迁移到的新账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="317"/>
@@ -4339,7 +4339,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="230"/>
         <source>More news...</source>
-        <translation>更多新闻...</translation>
+        <translation>更多新闻……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="233"/>
@@ -4369,7 +4369,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="413"/>
         <source>Dele&amp;te</source>
-        <translation>删除...（T）</translation>
+        <translation>删除（T）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="428"/>
@@ -4450,7 +4450,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Report a &amp;Bug...</source>
-        <translation>反馈问题（&amp;B）...</translation>
+        <translation>反馈问题（&amp;B）……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="578"/>
@@ -4475,7 +4475,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="285"/>
         <source>&amp;Update...</source>
-        <translation>更新（&amp;U）...</translation>
+        <translation>更新（&amp;U）……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -4485,7 +4485,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="315"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>账户管理 (&amp;M)…</translation>
+        <translation>账户管理（&amp;M）……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
@@ -5997,7 +5997,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="117"/>
         <source>Checking for updates...</source>
-        <translation>检查更新...</translation>
+        <translation>检查更新中……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
@@ -6055,7 +6055,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="298"/>
         <source>Generating metadata...</source>
-        <translation>生成 Metadata 中...</translation>
+        <translation>生成 Metadata 中……</translation>
     </message>
     <message>
         <source>Didn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -6096,7 +6096,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
         <source>Getting the manifest...</source>
-        <translation>获取清单中…</translation>
+        <translation>获取清单中……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
@@ -6113,7 +6113,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation>解析模组中…</translation>
+        <translation>解析模组中……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
@@ -6682,7 +6682,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/auth/steps/OfflineStep.cpp" line="17"/>
         <source>Created offline account.</source>
-        <translation>已创建离线帐户。</translation>
+        <translation>已创建离线账户。</translation>
     </message>
 </context>
 <context>
@@ -6978,12 +6978,12 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation>选择一个帐户</translation>
+        <translation>选择一个账户</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>选择一个帐户。</translation>
+        <translation>选择一个账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
@@ -7019,7 +7019,7 @@ Error message: %3</source>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>马上就可以在此帐户上玩 Minecraft 了。
+        <translation>只差最后一步就可在此账户上玩 Minecraft 了。
 
 请慎重选择你的游戏名称：</translation>
     </message>
@@ -7469,8 +7469,8 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="59"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>您试图通过 JVM 参数指定所需的 Java 版本（使用 &quot;-version=xxx&quot;），这并不安全也将不被允许。
-在您移除这条 JVM 参数前这条消息都会显示。</translation>
+        <translation>您试图通过 JVM 参数指定所需的 Java 版本（使用“-version=xxx”），这并不安全也将不被允许。
+在你移除这条 JVM 参数前这条消息将会保持显示。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
@@ -7498,7 +7498,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>无法找到Java运行库。请检查您是否安装了相应运行库。</translation>
+        <translation>无法找到 Java 检查库。请检查是否安装了相应运行库。</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -7886,7 +7886,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="99"/>
         <source>Search for %1...</source>
         <extracomment>String in the search bar of the mod downloading dialog</extracomment>
-        <translation>搜索 %1...</translation>
+        <translation>搜索 %1……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
@@ -8803,7 +8803,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索和过滤……</translation>
+        <translation>搜索和筛选……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
@@ -9274,12 +9274,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
         <source>Install Quilt</source>
-        <translation>安装Quilt</translation>
+        <translation>安装 Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
         <source>Install the Quilt Loader package.</source>
-        <translation>安装 Quilt 加载器包。</translation>
+        <translation>安装 Quilt Loader。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
@@ -9304,7 +9304,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
         <source>Add to Minecraft.jar</source>
-        <translation>安装模组到 Minecraft.jar 文件中</translation>
+        <translation>安装到 Minecraft.jar 中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
@@ -9687,7 +9687,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="168"/>
         <source>%1 (installed)</source>
-        <translation>%1 （已安装）</translation>
+        <translation>%1（已安装）</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="199"/>
@@ -10026,7 +10026,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>此微软帐户没有 Xbox Live 个人资料。请先在 %1 购买游戏。</translation>
+        <translation>此微软账户没有 Xbox Live 个人资料。请先在 %1 购买游戏。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
@@ -10038,7 +10038,7 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>此微软帐户拥有者未成年，且未链接到一个家庭。
+        <translation>此微软账户拥有者尚未成年，且未绑定到一个家庭。
 
 请根据 %1 设置您的帐户。</translation>
     </message>
@@ -10143,12 +10143,12 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;SSL 握手失败。&lt;/b&gt;&lt;br/&gt;可能的原因如下：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;你正在使用 Windows 并且你需要更新你的根证书，请在系统更新处安装任何突出显示的更新。&lt;/li&gt;&lt;li&gt;或者在你的网络上有一些设备正在干扰 SSL 流量，在这种情况下，你应该比 Minecraft 无法启动更加担心。&lt;/li&gt;&lt;li&gt;可能原因还有很多，查看日志文件以获取详细信息&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>&lt;b&gt;SSL 握手失败。&lt;/b&gt;&lt;br/&gt;可能的原因如下：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;你正在使用 Windows 并且你需要更新你的根证书，请在系统更新处安装任何突出显示的更新。&lt;/li&gt;&lt;li&gt;你的网络上有设备正在干扰 SSL 流量，在这种情况下，你应该比 Minecraft 无法启动更加担心。&lt;/li&gt;&lt;li&gt;可能原因还有很多，请查看日志文件以获取详细信息&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
         <source>The Mojang account no longer exists. It may have been migrated to a Microsoft account.</source>
-        <translation>此 Mojang 帐户不再存在，它可能已迁移至微软帐户。</translation>
+        <translation>此 Mojang 账户不再存在，它可能已迁移至微软账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
