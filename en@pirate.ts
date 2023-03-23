@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Note: you probably get to change or clear the Base URL after changing the paste serrrvice type.</translation>
+        <translation>Note: you probably get to change or clear the Base UarrrrL after changing the paste serrrvice type.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
