@@ -56,7 +56,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>（なし）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
@@ -260,7 +260,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;複数のインスタンスを同時に使用できるようにすることで、マインクラフト の管理を容易にするカスタムランチャー。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Minecraftの複数の起動構成の管理を簡単にするカスタムランチャーです。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -442,7 +442,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>アカウントに関連付けられたマインクラフト のユーザー名が表示されます。</translation>
+        <translation>アカウントに関連付けられたMinecraftのユーザー名が表示されます。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -546,7 +546,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>ようこそ！
-初めて使う場合は、「追加」ボタンを押してあなたのMojangアカウントかマインクラフトのアカウントを追加して下さい。</translation>
+初めて使う場合は、「追加」ボタンを押してあなたのMojangアカウントかMinecraftのアカウントを追加して下さい。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -935,7 +935,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;pcの「ダウンロード」フォルダ内の該当するダウンロードされたmodは自動的に検出されインスタンスにコピーされます。&lt;/p&gt;&lt;p&gt;またデフォルトの「ダウンロード」フォルダにダウンロードしなかった場合は、ダウンロードしたmodをこの画面にドラッグするか、mod検索対象となる監視フォルダを追加することもできます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;pcの「ダウンロード」フォルダ内の該当するダウンロードされたmodは自動的に検出され起動構成にコピーされます。&lt;/p&gt;&lt;p&gt;またデフォルトの「ダウンロード」フォルダにダウンロードしなかった場合は、ダウンロードしたmodをこの画面にドラッグするか、mod検索対象となる監視フォルダを追加することもできます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1018,12 +1018,12 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
         <source>Instance has conflicting dependencies.</source>
-        <translation>インスタンスの依存関係にコンフリクトがあります。</translation>
+        <translation>起動構成の依存関係にコンフリクトがあります。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>インスタンスの起動のための読込・確認中に未解決の依存関係が見つかりました。</translation>
+        <translation>起動構成の読込・確認中に未解決の依存関係が見つかりました。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
@@ -1051,7 +1051,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation>インスタンスのコピー</translation>
+        <translation>起動構成のコピー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1170,7 +1170,7 @@ OSと%1をアップデートしてください。</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドはインスタンスの起動前に実行され、終了後コマンドはインスタンスの終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - インスタンスの名前&lt;/li&gt;&lt;li&gt;$INST_ID - インスタンスの ID (フォルダー名)&lt;/li&gt;&lt;li&gt;$INST_DIR - インスタンスの絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - マインクラフトのフォルダーのの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ (警告: 引数にスペースが含まれていると正しく機能しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム (Linux の「optirun」など) を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;起動前コマンドは起動構成の起動前に実行され、終了後コマンドは起動構成の終了後に実行されます。&lt;/p&gt;&lt;p&gt;両方とも、追加の環境変数を使用してランチャーの作業フォルダーで実行されます。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 起動構成の名前&lt;/li&gt;&lt;li&gt;$INST_ID - 起動構成の ID (フォルダー名)&lt;/li&gt;&lt;li&gt;$INST_DIR - 起動構成の絶対パス&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftのフォルダーの絶対パス&lt;/li&gt;&lt;li&gt;$INST_JAVA - 起動に使用される Java バイナリ&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 起動に使用されるコマンドライン パラメータ (警告: 引数にスペースが含まれていると正しく機能しません)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper コマンドにより、追加のラッパー プログラム (Linux の「optirun」など) を使用して起動できます。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1297,7 +1297,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>インスタンスをエクスポート</translation>
+        <translation>起動構成をエクスポート</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
@@ -1324,7 +1324,7 @@ OSと%1をアップデートしてください。</translation>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Unable to export instance</source>
-        <translation>インスタンスをエクスポートできません</translation>
+        <translation>起動構成をエクスポートできません</translation>
     </message>
 </context>
 <context>
@@ -1517,7 +1517,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -1599,12 +1599,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation>インスタンスにFMLライブラリをコピーしています...</translation>
+        <translation>起動構成にFMLライブラリをコピーしています...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation>インスタンス内にFMLライブラリフォルダを作成することができませんでした。</translation>
+        <translation>起動構成内にFMLライブラリフォルダを作成することができませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
@@ -1635,7 +1635,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation>APIから無効なデータが返りました。</translation>
+        <translation>APIから無効なデータが送信されました。</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -1749,7 +1749,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>以下のファイルはサードパーティランチャーでのダウンロードが無効化されています。&lt;br/&gt;手動で個別にダウンロードしインスタンスに追加する必要があります。</translation>
+        <translation>以下のファイルはサードパーティランチャーでのダウンロードが無効化されています。&lt;br/&gt;手動で個別にダウンロードし起動構成に追加する必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="510"/>
@@ -1792,7 +1792,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="315"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;こんにちは！&lt;/h1&gt;&lt;h4&gt;パックIDが空のようです。これはランチャーの古いバージョンのバグによるものです。&lt;br/&gt;残念ながら、パックID無しに正常にAPIリクエストを行うことはできません。&lt;br/&gt;&lt;br/&gt;この機能を正常に動かすため、内蔵のダウンローダーからmodpackをを再ダウンロードする必要があります。&lt;br/&gt;&lt;br/&gt;インスタンスをアップデートする形で行えるため、データが失われることはありません！&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;こんにちは！&lt;/h1&gt;&lt;h4&gt;パックIDが空のようです。これはランチャーの古いバージョンのバグによるものです。&lt;br/&gt;残念ながら、パックID無しに正常にAPIリクエストを行うことはできません。&lt;br/&gt;&lt;br/&gt;この機能を正常に動かすため、内蔵のダウンローダーからmodpackをを再ダウンロードする必要があります。&lt;br/&gt;&lt;br/&gt;起動構成をアップデートする形で行えるため、データが失われることはありません！&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
@@ -2151,7 +2151,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher、PolyMCまたはMultiMCのエクスポートされたインスタンス(ZIP)</translation>
+        <translation>- Prism Launcher、PolyMCまたはMultiMCのエクスポートされた起動構成(ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -2189,17 +2189,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation>インポートするインスタンスを選択</translation>
+        <translation>インポートする起動構成を選択</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>このリソースパックをインポートしたいインスタンスを選択してください。</translation>
+        <translation>このリソースパックをインポートしたい起動構成を選択してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>この %1 をインポートしたいインスタンスを選択してください。</translation>
+        <translation>この %1 をインポートしたい起動構成を選択してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -2232,17 +2232,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="26"/>
         <source>Copying instance %1</source>
-        <translation>インスタンス %1 をコピー中</translation>
+        <translation>起動構成 %1 をコピー中</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="44"/>
         <source>Instance folder copy failed.</source>
-        <translation>インスタンスフォルダーのコピーに失敗しました。</translation>
+        <translation>起動構成のフォルダのコピーに失敗しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCopyTask.cpp" line="61"/>
         <source>Instance folder copy has been aborted.</source>
-        <translation>インスタンスフォルダーのコピーは中断されました。</translation>
+        <translation>起動構成のフォルダのコピーは中断されました。</translation>
     </message>
 </context>
 <context>
@@ -2255,13 +2255,13 @@ Please try again.</source>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation>インスタンスを作成中にエラーが起きました:
+        <translation>起動構成を作成中にエラーが発生しました:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="32"/>
         <source>Error while creating new instance.</source>
-        <translation>インスタンスを作成中にエラーが起きました。</translation>
+        <translation>起動構成を作成中にエラーが発生しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="43"/>
@@ -2379,7 +2379,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="170"/>
         <source>%1 Instance</source>
-        <translation>インスタンス %1</translation>
+        <translation>起動構成 %1</translation>
     </message>
 </context>
 <context>
@@ -2395,7 +2395,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstancePageProvider.h" line="62"/>
         <source>Edit Instance (%1)</source>
-        <translation>インスタンスの編集 (%1)</translation>
+        <translation>起動構成の編集 (%1)</translation>
     </message>
 </context>
 <context>
@@ -2433,7 +2433,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>有効にすると、ランチャーはインスタンスが選択したJavaバージョンと互換性があるかどうかを確認しません。</translation>
+        <translation>有効にすると、ランチャーは起動構成が選択したJavaバージョンと互換性があるかどうかを確認しません。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
@@ -2453,12 +2453,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="169"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>マインクラフトが使用する最大メモリの値です。</translation>
+        <translation>Minecraftが使用する最大メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="147"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>マインクラフトが開始するときに使用される最少メモリの値です。</translation>
+        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="191"/>
@@ -2493,7 +2493,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
         <source>Start Minecraft maximized?</source>
-        <translation>マインクラフトのウィンドウを起動時に最大化</translation>
+        <translation>Minecraftのウィンドウを起動時に最大化</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2620,12 +2620,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Show time spent playing this instance</source>
-        <translation>このインスタンスのプレイ時間を表示する</translation>
+        <translation>この起動構成のプレイ時間を表示する</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="569"/>
         <source>Record time spent playing this instance</source>
-        <translation>このインスタンスのプレイ時間を記録</translation>
+        <translation>この起動構成のプレイ時間を記録</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="579"/>
@@ -2683,7 +2683,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="826"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>複数回施行しましたが、インスタンスをコミットできませんでした。なにかがブロックしているようです。</translation>
+        <translation>何度か再試行しましたが、起動構成をコミットできませんでした。何かによりブロックされているようです。</translation>
     </message>
 </context>
 <context>
@@ -2721,7 +2721,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="161"/>
         <source>Kill the running instance</source>
-        <translation>実行中のインスタンスを強制終了します</translation>
+        <translation>実行中の起動構成を強制終了します</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="167"/>
@@ -2733,7 +2733,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="169"/>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="184"/>
         <source>Launch the instance</source>
-        <translation>選択したインスタンスを起動します</translation>
+        <translation>選択した起動構成を起動します</translation>
     </message>
 </context>
 <context>
@@ -2780,7 +2780,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>マインクラフトが使用する最大メモリの値です。</translation>
+        <translation>Minecraftが使用する最大メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
@@ -2797,7 +2797,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>マインクラフトが開始するときに使用される最少メモリの値です。</translation>
+        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
@@ -2850,7 +2850,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>有効にすると、インスタンスで選択したJavaバージョンと互換性があるかどうかをランチャーが確認しなくなります。</translation>
+        <translation>有効にすると、起動構成で選択したJavaバージョンと互換性があるかどうかをランチャーが確認しなくなります。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
@@ -2919,7 +2919,7 @@ Javaバージョンは設定でいつでも変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="438"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>マインクラフトが使用する最大メモリの値です。</translation>
+        <translation>Minecraftが使用する最大メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="439"/>
@@ -2934,7 +2934,7 @@ Javaバージョンは設定でいつでも変更できます。
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="441"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>マインクラフトが開始するときに使用される最少メモリの値です。</translation>
+        <translation>Minecraftが開始するときに使用される最少メモリの値です。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="442"/>
@@ -3008,7 +3008,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
-        <translation>インスタンスが選択されていません!</translation>
+        <translation>起動構成が選択されていません!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
@@ -3099,7 +3099,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>起動が中止されました - アカウントがマインクラフトを所有していません。</translation>
+        <translation>起動が中止されました - アカウントがMinecraftを所有していません。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
@@ -3151,12 +3151,12 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <location filename="src/launcher/LaunchController.cpp" line="338"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>インスタンスプロファイルをロードできませんでした。</translation>
+        <translation>起動構成のプロファイルをロードできませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="345"/>
         <source>Couldn&apos;t instantiate a launcher.</source>
-        <translation>ランチャーをインスタンス化できませんでした。</translation>
+        <translation>ランチャーを起動構成にできませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="409"/>
@@ -3200,12 +3200,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="476"/>
         <source>Kill Minecraft?</source>
-        <translation>マインクラフトを強制終了しますか?</translation>
+        <translation>Minecraftを強制終了しますか?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>これはインスタンスの破損を引き起こす可能性があるので、マインクラフトがフリーズした場合にのみ使用してください</translation>
+        <translation>これは起動構成の破損を引き起こす可能性があるので、Minecraftがフリーズした場合にのみ使用してください</translation>
     </message>
 </context>
 <context>
@@ -3279,7 +3279,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="86"/>
         <source>I&amp;nstances:</source>
-        <translation>インスタンス(&amp;N):</translation>
+        <translation>起動構成(&amp;N):</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="113"/>
@@ -3309,7 +3309,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="208"/>
         <source>Instance view sorting mode</source>
-        <translation>インスタンスの並び順</translation>
+        <translation>起動構成の並び順</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="214"/>
@@ -3430,12 +3430,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
         <source>Instance Folder</source>
-        <translation>インスタンスのフォルダ</translation>
+        <translation>起動構成のフォルダ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>インスタンスフォルダのファイルパスに一つ以上の「!」が含まれています。これによりJavaが問題を起こす可能性があり、インスタンスは起動しないかもしれません！</translation>
+        <translation>起動構成のフォルダのファイルパスに一つ以上の「!」が含まれています。これによりJavaが問題を起こす可能性があり、起動構成は起動しないかもしれません！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
@@ -3452,8 +3452,8 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>Flatpakで一時的に付与されたインスタンスフォルダを指定しようとしています。
-再起動後、このディレクトリへのアクセスが失われるため、ランチャーがバグを起こし破損する恐れがあります。
+        <translation>Flatpakで一時的に付与された起動構成のフォルダを指定しようとしています。
+再起動後、そのディレクトリへのアクセスが失われるため、ランチャーがバグを起こし破損する恐れがあります。
 
 Flatsealを使用して%1へのアクセスを取得することを推奨します。</translation>
     </message>
@@ -3757,7 +3757,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation>インスタンス %1 のライブラリ</translation>
+        <translation>起動構成 %1 のライブラリ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
@@ -3874,7 +3874,7 @@ Reason:
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
-        <translation>マインクラフトのログ</translation>
+        <translation>Minecraftのログ</translation>
     </message>
 </context>
 <context>
@@ -3883,7 +3883,7 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="97"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>マインクラフトは終了コード %1 で終了しました。</translation>
+        <translation>Minecraftは終了コード %1 で終了しました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="104"/>
@@ -3894,13 +3894,13 @@ Reason:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="106"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>マインクラフトは終了コード %1 でクラッシュしました。</translation>
+        <translation>Minecraftは終了コード %1 でクラッシュしました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>マインクラフトはユーザーによって強制終了されました。</translation>
+        <translation>Minecraftはユーザーによって強制終了されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
@@ -4000,7 +4000,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="327"/>
         <source>Launch the selected instance.</source>
-        <translation>選択したインスタンスを起動します。</translation>
+        <translation>選択した起動構成を起動します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
@@ -4014,18 +4014,18 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
         <source>Add a new instance.</source>
-        <translation>新しいインスタンスを追加します。</translation>
+        <translation>新しい起動構成を追加します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation>インスタンスフォルダを開く(&amp;V)</translation>
+        <translation>起動構成のフォルダを開く(&amp;V)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
         <source>Open the instance folder in a file browser.</source>
-        <translation>ファイルブラウザでインスタンスフォルダを開きます。</translation>
+        <translation>ファイルブラウザで起動構成を開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
@@ -4051,7 +4051,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="644"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation>インスタンス間で共有されているフォルダの1つを開きます。</translation>
+        <translation>起動構成間で共有されているフォルダの1つを開きます。</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -4174,7 +4174,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
         <source>Instance Toolbar</source>
-        <translation>インスタンスツールバー</translation>
+        <translation>起動構成のツールバー</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="374"/>
@@ -4194,7 +4194,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="273"/>
         <source>Add Instanc&amp;e...</source>
-        <translation>インスタンスを追加(&amp;E)...</translation>
+        <translation>起動構成を追加(&amp;E)...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
@@ -4210,7 +4210,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="264"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>最後のインスタンスの削除操作を元に戻す(&amp;U)</translation>
+        <translation>最後の起動構成の削除を元に戻す(&amp;U)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="617"/>
@@ -4300,7 +4300,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="339"/>
         <source>Kill the running instance.</source>
-        <translation>実行中のインスタンスを停止します。</translation>
+        <translation>実行中の起動構成を強制終了します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="510"/>
@@ -4336,7 +4336,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>選択したインスタンスのアイコンを変更します。</translation>
+        <translation>選択した起動構成のアイコンを変更します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="351"/>
@@ -4346,7 +4346,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="354"/>
         <source>Rename the selected instance.</source>
-        <translation>選択したインスタンスの名前を変更します。</translation>
+        <translation>選択した起動構成の名前を変更します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="439"/>
@@ -4361,7 +4361,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="450"/>
         <source>Launch the selected instance in demo mode.</source>
-        <translation>このインスタンスをデモ版で起動します。</translation>
+        <translation>この起動構成をデモ版で起動します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
@@ -4407,7 +4407,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="477"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>選択されたインスタンスのショートカットをデスクトップに作成します。</translation>
+        <translation>選択された起動構成のショートカットをデスクトップに作成します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="665"/>
@@ -4437,14 +4437,14 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
         <translation>&quot;%1&quot;を削除しようとしています。
-このインスタンスは完全に削除され、元に戻りません。
+この起動構成は完全に削除され、元に戻りません。
 
 よろしいですか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="442"/>
         <source>Launch the selected instance in offline mode.</source>
-        <translation>オフラインモードで選択したインスタンスを起動します。</translation>
+        <translation>オフラインモードで選択した起動構成を起動します。</translation>
     </message>
     <message>
         <source>Edit Instance</source>
@@ -4453,7 +4453,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="389"/>
         <source>Change the instance settings, mods and versions.</source>
-        <translation>インスタンスの設定、Modやバージョンを変更します。</translation>
+        <translation>起動構成の設定、Modやバージョンを変更します。</translation>
     </message>
     <message>
         <source>Edit Notes</source>
@@ -4471,7 +4471,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.ui" line="416"/>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation>選択したインスタンスを削除します。</translation>
+        <translation>選択した起動構成を削除します。</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -4488,7 +4488,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="366"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>選択したインスタンスのグループを変更します。</translation>
+        <translation>選択した起動構成のグループを変更します。</translation>
     </message>
     <message>
         <source>Minecraft Folder</source>
@@ -4514,7 +4514,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="404"/>
         <source>Open the selected instance&apos;s root folder in a file browser.</source>
-        <translation>ファイルブラウザで選択したインスタンスのルートフォルダを開きます。</translation>
+        <translation>ファイルブラウザで選択した起動構成のルートフォルダを開きます。</translation>
     </message>
     <message>
         <source>Export Instance</source>
@@ -4523,7 +4523,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="462"/>
         <source>Export the selected instance as a zip file.</source>
-        <translation>このインスタンスをzip形式でエクスポートします。</translation>
+        <translation>この起動構成をzip形式でエクスポートします。</translation>
     </message>
     <message>
         <source>Delete Instance</source>
@@ -4537,7 +4537,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="431"/>
         <source>Copy the selected instance.</source>
-        <translation>選択したインスタンスをコピーします。</translation>
+        <translation>選択した起動構成をコピーします。</translation>
     </message>
     <message>
         <source> on %1</source>
@@ -4548,7 +4548,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="430"/>
         <source>No instance selected</source>
-        <translation>インスタンスが選択されていません</translation>
+        <translation>起動構成が選択されていません</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
@@ -4562,7 +4562,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="511"/>
         <source>Create instance</source>
-        <translation>インスタンスの作成</translation>
+        <translation>起動構成の作成</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="527"/>
@@ -4713,7 +4713,7 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
         <source>Create instance shortcut</source>
-        <translation>インスタンスのショートカットを作成</translation>
+        <translation>起動構成のショートカットを作成</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
@@ -4730,14 +4730,14 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>このインスタンスへのショートカットをデスクトップに作成しました！</translation>
+        <translation>この起動構成へのショートカットをデスクトップに作成しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
         <source>Failed to create instance shortcut!</source>
-        <translation>インスタンスのショートカットの作成に失敗しました！</translation>
+        <translation>起動構成のショートカットの作成に失敗しました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
@@ -4765,17 +4765,17 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1675"/>
         <source>Rename Instance</source>
-        <translation>インスタンスの名前を編集</translation>
+        <translation>起動構成の名前を編集</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1688"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>このインスタンスフォルダーは「!」を含んでおり、Javaが問題を起こします！</translation>
+        <translation>この起動構成は「!」を含んでおり、Javaが問題を起こします！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1690"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>&lt;br/&gt;インスタンスフォルダを変更するか&lt;br/&gt;、%1のインストール場所を別の場所にしてください</translation>
+        <translation>&lt;br/&gt;起動構成のフォルダを変更するか&lt;br/&gt;、%1のインストール場所を別の場所にしてください</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1699"/>
@@ -4785,12 +4785,12 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1706"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>インスタンスフォルダに「Rar$」が含まれています。ランチャーアーカイブを解凍してください！</translation>
+        <translation>起動構成のフォルダに「Rar$」が含まれています。ランチャーアーカイブを解凍してください！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>インスタンスフォルダが一時的なディレクトリ「%1」にあります！</translation>
+        <translation>起動構成のフォルダが一時的なディレクトリ「%1」にあります！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
@@ -5092,19 +5092,19 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="185"/>
         <source>Show time spent &amp;playing instances</source>
         <oldsource>Show time spent playing instances</oldsource>
-        <translation>インスタンスのプレイ時間を表示する(&amp;P)</translation>
+        <translation>起動構成のプレイ時間を表示する(&amp;P)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="192"/>
         <source>Show time spent playing across &amp;all instances</source>
         <oldsource>Show time spent playing across all instances</oldsource>
-        <translation>すべてのインスタンスのプレイ時間の合計を表示する(&amp;A)</translation>
+        <translation>すべての起動構成のプレイ時間の合計を表示する(&amp;A)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="199"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>インスタンスのプレイ時間を記録する(&amp;R)</translation>
+        <translation>起動構成のプレイ時間を記録する(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="209"/>
@@ -5138,7 +5138,7 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
-        <translation>マインクラフト</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="127"/>
@@ -5692,12 +5692,12 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下のファイルはサードパーティランチャーでのダウンロードが無効化されています。&lt;br/&gt;手動で個別にダウンロードしインスタンスに追加する必要があります。</translation>
+        <translation>以下のファイルはサードパーティランチャーでのダウンロードが無効化されています。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation>インスタンスを作成中…</translation>
+        <translation>起動構成を作成中…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
@@ -6054,7 +6054,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
         <source>New Instance</source>
-        <translation>新規インスタンス</translation>
+        <translation>新しい起動構成</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
@@ -6156,7 +6156,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/NullInstance.h" line="59"/>
         <source>Unknown instance type</source>
-        <translation>不明なインスタンスタイプ</translation>
+        <translation>不明な起動構成のタイプ</translation>
     </message>
 </context>
 <context>
@@ -6502,7 +6502,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>このインスタンスでのみデフォルトとして使用しますか?</translation>
+        <translation>この起動構成でのみデフォルトとして使用しますか?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
@@ -8110,7 +8110,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
         <source>Instance import has been aborted.</source>
-        <translation>インスタンスのインポートを中止しました.</translation>
+        <translation>起動構成のインポートを中止しました.</translation>
     </message>
 </context>
 <context>
@@ -8171,7 +8171,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="230"/>
         <source>Instance import has been aborted.</source>
-        <translation>インスタンスのインポートを中止しました.</translation>
+        <translation>起動構成のインポートを中止しました.</translation>
     </message>
 </context>
 <context>
@@ -8417,7 +8417,7 @@ inheritsFrom is missing</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation>インスタンスのアップデートは失敗しました: %1
+        <translation>起動構成のアップデートは失敗しました: %1
 
 </translation>
     </message>
@@ -8463,7 +8463,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/VanillaInstanceCreationTask.cpp" line="16"/>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">バージョン %1 からインスタンスを作成中</translation>
+        <translation>バージョン %1 から起動構成を作成中</translation>
     </message>
 </context>
 <context>
@@ -8589,7 +8589,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation>インスタンスのJava設定から、Javaのバージョンを変更してください。もしあなたが十分理解している場合は、Javaの互換性チェックを無効にしてください。</translation>
+        <translation>起動構成のJava設定から、Javaのバージョンを変更してください。あなたがJavaについて十分理解している場合は、Javaの互換性チェックを無効にすることも可能です。</translation>
     </message>
 </context>
 <context>
@@ -8650,7 +8650,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="148"/>
         <source>Remove selected package from the instance.</source>
-        <translation>選択したパッケージをインスタンスから削除します.</translation>
+        <translation>選択したパッケージを起動構成から削除します。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
@@ -8785,7 +8785,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="257"/>
         <source>Download the files needed to launch the instance now.</source>
-        <translation>インスタンスの起動に必要なすべてのファイルを今ダウンロードします.</translation>
+        <translation>起動構成の起動に必要なすべてのファイルをダウンロードします。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
@@ -8795,7 +8795,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="265"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>インスタンスの .minecraft フォルダを開きます。</translation>
+        <translation>起動構成の .minecraft フォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
@@ -8805,7 +8805,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="273"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>インスタンスのローカル libraries フォルダを開きます.</translation>
+        <translation>起動構成のローカル libraries フォルダを開きます。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="278"/>
@@ -8855,7 +8855,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>インスタンスのプロファイルを読み込めませんでした.</translation>
+        <translation>起動構成のプロファイルを読み込めませんでした.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
@@ -9030,7 +9030,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="678"/>
         <source>Error updating instance</source>
-        <translation>インスタンスのアップデート中にエラーが発生しました</translation>
+        <translation>起動構成のアップデート中にエラーが発生しました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.h" line="63"/>
