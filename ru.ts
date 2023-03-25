@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Сервис вставки &amp;Type</translation>
+        <translation>С&amp;ервис вставки</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -50,12 +50,12 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation>&amp;Аутентификация Microsoft</translation>
+        <translation>Аутентификация &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примечание: возможно, вам не нужно изменять это, если вход в аккаунт Microsoft уже работает.</translation>
+        <translation>Примечание: вам не нужно изменять это, если вход в аккаунт Microsoft уже работает.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -77,7 +77,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: нужно только чтобы получить доступ к приватному контенту. Прочитай &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;документацию&lt;/a&gt; для большей информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: нужно только для того, чтобы получить доступ к приватному контенту. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;документацию&lt;/a&gt; для большей информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -97,17 +97,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>User Agent</source>
-        <translation>Агент Пользователя</translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Введите Ваш Агент Пользователя здесь. Строковая переменная $LAUNCHER_VER будет заменена на версию лаунчера.</translation>
+        <translation>Введите свой User Agent здесь. Переменная $LAUNCHER_VER будет заменена на версию лаунчера.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Сервер мета&amp;данных</translation>
+        <translation>Сер&amp;вер метаданных</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Примечание: возможно, вам не нужно изменять это, если CurseForge уже работает.</translation>
+        <translation>Примечание: вам не нужно изменять это, если CurseForge уже работает.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
@@ -616,7 +616,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Пожалуйста, введите желаемое имя пользователя, чтобы добавить автономный аккаунт.</translation>
+        <translation>Введите имя пользователя для автономного аккаунта.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -835,7 +835,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Предупреждение: Это всё ещё в разработке. Если вы столкнулись с проблемами с импортированной сборкой, это может быть багом.</translation>
+        <translation>Предупреждение: В разработке. Если вы столкнулись с проблемами с импортированной сборкой, это может быть багом.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -932,7 +932,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
-        <translation>Пожалуйста установите отсутствующие моды.</translation>
+        <translation>Пожалуйста, установите отсутствующие моды.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
@@ -1048,12 +1048,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>Не удалось загрузить некоторые компоненты метаданных .</translation>
+        <translation>Не удалось загрузить некоторые метаданные компонентов.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Конфликтующие требования, обнаруженные при проверке зависимостей!</translation>
+        <translation>Конфликтующие требования обнаружены при проверке зависимостей!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
@@ -1101,7 +1101,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="93"/>
         <source>&amp;Group</source>
-        <translation>Группа</translation>
+        <translation>Гру&amp;ппа</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
@@ -1111,7 +1111,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Отключение этого сохранит загрузчик модов (например, Fabric, Quilt и т.д.), но сотрёт папку с модами и их конфиги.</translation>
+        <translation>Отключение оставит загрузчик модов (например, Fabric, Quilt и т.д.), но удалит папку с модами и их конфиги.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
@@ -1382,7 +1382,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
         <source>&amp;Add</source>
-        <translation>&amp;Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
@@ -1392,7 +1392,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -1402,7 +1402,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
         <source>&amp;Enable</source>
-        <translation>&amp;Включить</translation>
+        <translation>Включить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -1412,7 +1412,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
         <source>&amp;Disable</source>
-        <translation>&amp;Отключить</translation>
+        <translation>Отключить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
