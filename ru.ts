@@ -1422,7 +1422,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
-        <translation>Открыть &amp;Конфигурации</translation>
+        <translation>Открыть конфиги</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
@@ -1432,12 +1432,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <source>View &amp;Folder</source>
-        <translation>Открыть &amp;Папку</translation>
+        <translation>Открыть П&amp;апку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="140"/>
         <source>&amp;Download</source>
-        <translation>&amp;Загрузить</translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
@@ -1447,13 +1447,13 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
         <source>Check for &amp;Updates</source>
-        <translation>Проверить &amp;Обновления</translation>
+        <translation>Проверить Обновления</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation>&quot;Пытается найти / обновить выбранные ресурсы (или все, если не выбран ни один)&quot;</translation>
+        <translation>Попытаться проверить или обновить все выбранные ресурсы (все ресурсы, если ни один из них не выбран)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
@@ -2327,12 +2327,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="27"/>
         <source>&amp;Name:</source>
-        <translation>&amp;Название:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InstanceCardWidget.ui" line="40"/>
         <source>&amp;Group:</source>
-        <translation>&amp;Группа:</translation>
+        <translation>Гру&amp;ппа:</translation>
     </message>
 </context>
 <context>
@@ -2636,7 +2636,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
         <source>Java argumen&amp;ts</source>
-        <translation>Аргументы Java</translation>
+        <translation>Аргум&amp;енты Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="251"/>
