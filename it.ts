@@ -4050,30 +4050,30 @@ Causa:
 <context>
     <name>LoggedProcess</name>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="97"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
         <translation>Il processo si è chiuso con codice %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="104"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="114"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
         <translation>Il processo si è chiuso improvvisamente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="106"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
         <source>Process crashed with exitcode %1.</source>
         <translation>Il processo si è chiuso improvvisamente con codice %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="123"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
         <translation>Il processo è stato interrotto dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="134"/>
         <source>The process failed to start.</source>
         <translation>Il processo non è riuscito ad avviarsi.</translation>
     </message>

@@ -3896,30 +3896,30 @@ Reason:
 <context>
     <name>LoggedProcess</name>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="97"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
         <translation>程務は終了戻り値 %1 で終了しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="104"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="114"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
         <translation>程務が崩れた。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="106"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
         <source>Process crashed with exitcode %1.</source>
         <translation>程務は終了戻り値 %1 で崩れた。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="123"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
         <translation>程務は使用者によって中止されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="134"/>
         <source>The process failed to start.</source>
         <translation>程務の起動に失敗しました。</translation>
     </message>

@@ -4064,30 +4064,30 @@ Reason:
 <context>
     <name>LoggedProcess</name>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="97"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
         <translation>程序已退出，代碼：%1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="104"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="114"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
         <translation>程序已崩潰。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="106"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
         <source>Process crashed with exitcode %1.</source>
         <translation>程序已崩潰，退出代碼：%1。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="113"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="123"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
         <translation>程序已被使用者強制關閉。</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="124"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="134"/>
         <source>The process failed to start.</source>
         <translation>程序啟動失敗。</translation>
     </message>
