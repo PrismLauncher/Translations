@@ -6425,7 +6425,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
         <source>Nilmods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nilmods</translation>
     </message>
 </context>
 <context>
