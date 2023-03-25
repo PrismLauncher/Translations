@@ -4312,7 +4312,7 @@ Indok:
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
         <source>Create Shortcut</source>
-        <translation>Parancsikon létrehozása</translation>
+        <translation>Parancsikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="477"/>
