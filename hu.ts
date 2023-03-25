@@ -591,7 +591,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Az offline fiók használatához hozzá kell adod egy Minecraft-ot birtokló Microsoft- vagy Mojang-fiókot.&lt;br&gt;&lt;br&gt;Ha elvesztette fiókját, segítségsért forduljon a Microsofthoz.</translation>
+        <translation>Az offline fiók használatához hozzá kell adod egy Minecraft-ot birtokló Microsoft- vagy Mojang-fiókot.&lt;br&gt;&lt;br&gt;Ha elvesztette fiókját, segítségért forduljon a Microsofthoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
