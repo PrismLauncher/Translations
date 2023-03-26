@@ -2207,7 +2207,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedosto: %1</translation>
     </message>
 </context>
 <context>
@@ -3319,7 +3319,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="133"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lataukset:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="146"/>
@@ -6009,7 +6009,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="89"/>
         <source>Downloading %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan %1</translation>
     </message>
 </context>
 <context>
@@ -7242,7 +7242,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="105"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>modit</translation>
     </message>
 </context>
 <context>
@@ -7251,13 +7251,13 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="47"/>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>modit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="49"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>modi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="144"/>
@@ -7296,12 +7296,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="58"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resurssit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
         <source>Download %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa %1</translation>
     </message>
 </context>
 <context>
@@ -7427,7 +7427,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resurssi</translation>
     </message>
 </context>
 <context>
@@ -7706,13 +7706,13 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi Kuva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi Tiedosto(t)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="76"/>
@@ -7729,7 +7729,9 @@ Please update %1!</source>
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet lataamassa %1 kuvakaappausta.
+
+Oletko varma?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
@@ -8346,7 +8348,7 @@ inheritsFrom puuttuu</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation type="unfinished"></translation>
+        <translation>K&amp;issa</translation>
     </message>
 </context>
 <context>
@@ -8538,12 +8540,12 @@ inheritsFrom puuttuu</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
@@ -8904,7 +8906,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Select components</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse komponentit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
@@ -8924,12 +8926,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>Select agents</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse agentit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
         <source>Java agents (*.jar)</source>
-        <translation type="unfinished"></translation>
+        <translation>Java-agentit (*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="460"/>
@@ -9372,7 +9374,7 @@ Haluatko jatkaa?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
         <source>Confirm Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Varmista Poisto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
@@ -9380,7 +9382,10 @@ Haluatko jatkaa?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet poistamassa &quot;%1&quot;.
+Maailma voi olla poissa ikuisesti (PITKÄ AIKA).
+
+Oletko varma?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
