@@ -2987,7 +2987,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>あなたの言語が見つからないか、質が低いですか？&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳を手伝ってください！&lt;/a&gt;</translation>
+        <translation>あなたの言語がリストに無いか、改善できる場合は、&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳への協力をお願いします！&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -7521,7 +7521,7 @@ Please update %1!</source>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation>resourceの名前</translation>
+        <translation>このコンテンツの名前。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
