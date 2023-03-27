@@ -2987,7 +2987,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>あなたの言語がリストに無いか、改善できる場合は、&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳への協力をお願いします！&lt;/a&gt;</translation>
+        <translation>あなたの言語がリストにないか、改善できる場合は&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳を手伝ってください！&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -7066,7 +7066,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="32"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
@@ -7631,7 +7631,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="47"/>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
@@ -7947,7 +7947,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>リフレッシュ(&amp;R)</translation>
+        <translation>再読み込み(&amp;R)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -8258,7 +8258,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">検索＆フィルタ…</translation>
+        <translation>検索とフィルター...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="81"/>
@@ -8526,7 +8526,7 @@ inheritsFrom is missing</source>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="253"/>
         <source>Refresh</source>
-        <translation>リフレッシュ</translation>
+        <translation>再読み込み</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
@@ -9161,7 +9161,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
         <source>&amp;Refresh</source>
-        <translation>リフレッシュ(&amp;R)</translation>
+        <translation>再読み込み(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -9275,7 +9275,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
         <source>Refresh</source>
-        <translation>リフレッシュ</translation>
+        <translation>再読み込み</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
