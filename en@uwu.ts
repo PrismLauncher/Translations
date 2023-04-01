@@ -61,7 +61,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: u onwy need to set this to access pwivate data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;docuwmentation&lt;/a&gt; fow mowe infowmation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -71,7 +71,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(None)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
@@ -1389,7 +1389,7 @@ Pwease update b-both youw opewating system and %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
         <source>Context menu</source>
-        <translation type="unfinished">Cwonwext menu</translation>
+        <translation>Cwonwext menu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
@@ -1403,10 +1403,10 @@ Pwease update b-both youw opewating system and %1.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished">You awe about tw remove %q iwems.
-This may be pewmanaent anwd they will be gone fwom this foldew.
+        <translation>You awe about to wemuv %1 items.
+This may be pewmanyent and they wiww be gonye fwom the fowdew.
 
-Awe you suwe?</translation>
+Awe you suwe?!?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1480,7 +1480,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JPwofiwew setup seems to be OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
@@ -1498,7 +1498,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisuawVM setup seems to be OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
@@ -1515,13 +1515,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished">Ewwow while cwecking MCWdit inswall:
+        <translation>Ewwow whiwe checking MCEdit instaww:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit sewtup seems to be OK</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
@@ -1552,7 +1552,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Chewcking fow FMW wibwawies...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
@@ -1567,17 +1567,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Copying FMW wibwawies into the instawnce...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faiwed cweating FMW wibwawy fowdew inside the instawnce.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faiwed copying Fowge/FMW library: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
@@ -1603,7 +1603,7 @@ Pwease twy a-again.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Invawid data wetuwnyed fwom the API.</translation>
     </message>
 </context>
 <context>
@@ -1616,7 +1616,7 @@ Pwease twy a-again.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="125"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabwed mods won&apos;t be updated, to pwevent mod dupwication issues!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="129"/>
@@ -1688,7 +1688,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">The specified ovewwides fowdew (%1) is missing. M-Maybe the modpack was awweady weady used befowe?</translation>
+        <translation>the specified uvwwides fowdew (%1) is missing. Maybe the modpack waws awweady used befowe?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
@@ -1721,7 +1721,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">The fowwowing mods wewe bwocked on thiwd pawty wawty waunchews.&lt;br/&gt;You wiww nyeed to manyuawwy wanyuawwy downwoad them and add them to the m-modpack.</translation>
+        <translation>the fowwowing fiwes awe nyot avaiwabwe fow downwoad in thiwd pawty waunchews.&lt;br/&gt;You wiww nyeed to manyuawwy downwoad them and add them to the instawnce.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="510"/>
@@ -1919,7 +1919,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sowt by Nyame</translation>
+        <translation>Sowt by Nyame</translation>
     </message>
 </context>
 <context>
@@ -1933,7 +1933,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Seawch a-and fiwtew...</translation>
+        <translation>Seawch and fiwtew...</translation>
     </message>
 </context>
 <context>
@@ -1941,7 +1941,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="82"/>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Key</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="84"/>
@@ -1954,7 +1954,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="65"/>
         <source>Game Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Game Options</translation>
     </message>
 </context>
 <context>
@@ -1995,12 +1995,12 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="16"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Getting skiwn.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Got skiwn</translation>
     </message>
 </context>
 <context>
@@ -2039,33 +2039,33 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <source>Pick icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick icown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="64"/>
         <source>Add Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Add Icown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove Icown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Open fowdew</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Select Icowns</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Icons %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Icons %1</translation>
     </message>
 </context>
 <context>
@@ -2089,7 +2089,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Modwinth modpacks (ZIP awnd mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -2100,7 +2100,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation type="unfinished"></translation>
+        <translation>- Technyic modpacks (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -2111,12 +2111,12 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modwinth pack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose modpack uwu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
@@ -2129,7 +2129,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="14"/>
         <source>Choose instance to import to</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose instawnce to import to</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
@@ -2268,7 +2268,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="32"/>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>The settings hewe awe ovewwides fow gwobaw settings.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
@@ -2278,7 +2278,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-detewct...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="77"/>
@@ -2288,7 +2288,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="84"/>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="91"/>
@@ -2298,7 +2298,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="94"/>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Skip Java compatibiwity chewcks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="107"/>
