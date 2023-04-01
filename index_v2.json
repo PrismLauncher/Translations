@@ -491,12 +491,12 @@
             "untranslated" : 1173
         },
         "tok" : {
-            "file" : "4a0351c0e26accffbd4b1d7dafcd711f5f2ece8a.class",
-            "sha1" : "4a0351c0e26accffbd4b1d7dafcd711f5f2ece8a",
-            "size" : 28930,
-            "translated" : 335,
+            "file" : "24d8a84462832624d921713493a880acd8fec027.class",
+            "sha1" : "24d8a84462832624d921713493a880acd8fec027",
+            "size" : 29032,
+            "translated" : 336,
             "fuzzy" : 0,
-            "untranslated" : 1052
+            "untranslated" : 1051
         },
         "tr" : {
             "file" : "07f542751c26c1fd5919bf5e6c0494cf959ce5ed.class",
