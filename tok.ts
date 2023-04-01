@@ -3487,7 +3487,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="298"/>
         <source>Add a new instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>o pali e ijo musi sin.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="305"/>
