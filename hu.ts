@@ -2767,7 +2767,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="826"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
-        <translation>A példányt nem sikerült végrehajtani még több ismétlés után is. Ezt valami blokkolja.</translation>
+        <translation>A példány véglegesítése még többszöri újrapróbálkozás után sem sikerült. Valami blokkolja.</translation>
     </message>
 </context>
 <context>
