@@ -2313,17 +2313,17 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="169"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">The maximum a-amount of memowy wemowy Minyecwaft is awwowed to u-use.</translation>
+        <translation>the maximum amount of memowy Minecwaft is awwowed to use.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="147"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">The amount of memowy wemowy M-Minyecwaft is s-stawted with.</translation>
+        <translation>The amount of memowy Minecwaft is stawted with.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="191"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">The amount of memowy wemowy avaiwabwe to stowe woaded Java cwasses.</translation>
+        <translation>The amount of memowy avaiwabwe to stowe woaded Java cwasses.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="133"/>
@@ -2338,17 +2338,17 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
         <source>Java argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Java awgumen&amp;ts</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="251"/>
         <source>Game windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Game windows</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="260"/>
         <source>Game Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Game Window</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
@@ -2358,47 +2358,47 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Window height owo:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="288"/>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Window width:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="332"/>
         <source>Conso&amp;le Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Cownso&amp;le Sewttings</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
         <source>Show console while the game is running?</source>
-        <translation type="unfinished"></translation>
+        <translation>Show cownsole while the game is wuwnning?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
         <source>Automatically close console when the game quits?</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticawwy cwose consowe when the game quits?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
         <source>Show console when the game crashes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Show consowe when the game cwashes?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
         <source>Close the launcher after game window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Cwose the waunchew aftew game window opens</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="387"/>
         <source>Quit the launcher after game window closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Quit the waunchew aftew game window closes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="411"/>
         <source>Custom commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom commands</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="421"/>
@@ -2413,17 +2413,17 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="442"/>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Use system instawwation of GWFW</translation>
+        <translation>Use system instawwation of GLFW</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="449"/>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Use system instawwation of OpenYAW</translation>
+        <translation>Use system instawwation of OpenAL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="614"/>
         <source>Override default account</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovewwide defauwt account</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
