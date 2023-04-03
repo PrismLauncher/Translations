@@ -574,7 +574,7 @@ Acabou de chegar? Clique em &quot;Adicionar&quot; e inicie a sessão com a sua c
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>Por favor coloque o email e senha da sua Conta Microsoft para adicionar sua conta.</translation>
+        <translation>Por favor, coloque o email e senha da sua Conta Microsoft para adicionar sua conta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -928,7 +928,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="170"/>
         <source>Please download the missing mods.</source>
-        <translation>Por favor faça o download dos mods ausentes.</translation>
+        <translation>Por favor, faça o download dos mods ausentes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="149"/>
@@ -3153,7 +3153,7 @@ Por favor, selecione um dos seguintes ou busque um executável do Java no seu si
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
         <source>Invalid Java arguments specified. Please fix this first.</source>
-        <translation>Argumentos especificados do Java são inválidos. Por favor conserte-os primeiro.</translation>
+        <translation>Argumentos especificados do Java são inválidos. Por favor, conserte-os primeiro.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
@@ -7885,7 +7885,7 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <source>API version too old!
 Please update %1!</source>
         <translation>Versão da API é muito antiga!
-Por favor atualize %1!</translation>
+Por favor, atualize %1!</translation>
     </message>
 </context>
 <context>
