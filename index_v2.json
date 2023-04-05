@@ -18,6 +18,14 @@
             "fuzzy" : 6,
             "untranslated" : 1519
         },
+        "be" : {
+            "file" : "912b903e9ca62db3c7846913ae1f526302270e41.class",
+            "sha1" : "912b903e9ca62db3c7846913ae1f526302270e41",
+            "size" : 41,
+            "translated" : 0,
+            "fuzzy" : 0,
+            "untranslated" : 1554
+        },
         "bg" : {
             "file" : "ec2eab758490c0b8dfee9922bab84e66f52d0bd2.class",
             "sha1" : "ec2eab758490c0b8dfee9922bab84e66f52d0bd2",
