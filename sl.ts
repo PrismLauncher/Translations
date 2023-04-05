@@ -3617,8 +3617,8 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6428,8 +6428,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <source>Empty path</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6630,8 +6630,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Razvrsti po nazadnje posodobljenem</translation>
     </message>
@@ -6646,8 +6646,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Razvrsti po avtorju</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
