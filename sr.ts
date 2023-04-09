@@ -992,7 +992,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1190,7 +1190,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1306,7 +1306,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
@@ -1406,7 +1406,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Садржај</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
@@ -1474,7 +1474,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1573,7 +1573,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
@@ -1655,7 +1655,8 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="275"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Није могуће разумети манифест пакета
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="116"/>
@@ -1728,7 +1729,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мод преузимање</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
@@ -1748,7 +1749,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Преузимање модова...</translation>
     </message>
 </context>
 <context>
@@ -2449,7 +2450,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.h" line="63"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подешавања</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="372"/>
@@ -2979,7 +2980,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="432"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="460"/>
@@ -3102,7 +3103,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="146"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="162"/>
@@ -3352,7 +3353,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Инсталирање модпацк-а</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
@@ -3401,7 +3402,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -3475,7 +3476,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
@@ -4369,7 +4370,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/MainWindow.cpp" line="964"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="976"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="569"/>
@@ -4432,7 +4433,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="130"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="134"/>
@@ -4504,7 +4505,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
 </context>
 <context>
@@ -4560,7 +4561,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
 </context>
 <context>
@@ -4909,7 +4910,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="165"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="225"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -4921,7 +4922,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
@@ -5043,7 +5044,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="105"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
@@ -5149,7 +5150,8 @@ Are you sure?</oldsource>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Није могуће разумети манифест пакета
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
@@ -5179,12 +5181,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Преузимање модова...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мод преузимање</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
@@ -5203,7 +5205,7 @@ Are you sure?</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="316"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="319"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="316"/>
@@ -5283,7 +5285,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="226"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мод преузимање</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
@@ -5293,7 +5295,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Преузимање модова...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="326"/>
@@ -5599,7 +5601,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Корисничко име</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -5684,7 +5686,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="240"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="291"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="152"/>
@@ -5757,7 +5759,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="378"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="645"/>
@@ -6659,7 +6661,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="370"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="366"/>
@@ -6937,12 +6939,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="79"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
@@ -7063,7 +7065,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="323"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Садржај</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="386"/>
@@ -7230,7 +7232,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="657"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Садржај</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7294,12 +7296,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
@@ -7468,7 +7470,8 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Није могуће разумети манифест пакета
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
@@ -7587,12 +7590,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="81"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прекинут</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
@@ -8070,7 +8073,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Садржај</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
@@ -8100,7 +8103,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="491"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
@@ -8392,7 +8395,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
@@ -8532,7 +8535,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="143"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Садржај</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="228"/>
