@@ -3553,12 +3553,12 @@ Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="306"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation type="unfinished"></translation>
+        <translation>[Ceva/EROARE] O eroare înfricoșătoare!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="315"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation type="unfinished"></translation>
+        <translation>[Test/INFO] Un mesaj inofensiv...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="324"/>
@@ -3571,7 +3571,7 @@ Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="102"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arhiva launcher-ului nu a putut fi găsita. Te rugam verifică-ți instalarea.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="170"/>
