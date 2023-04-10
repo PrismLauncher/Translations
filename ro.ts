@@ -3571,7 +3571,7 @@ Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="102"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation>Arhiva launcher-ului nu a putut fi găsita. Te rugam verifică-ți instalarea.</translation>
+        <translation>Arhiva launcherului nu a putut fi găsită. Te rugăm verifică-ți instalarea.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="170"/>
@@ -3583,7 +3583,7 @@ Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Nu s-a putut porni minecraft!</translation>
+        <translation>Nu s-a putut porni Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="212"/>
