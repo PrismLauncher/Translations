@@ -3589,7 +3589,7 @@ Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="212"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="226"/>
         <source>Game crashed.</source>
-        <translation type="unfinished">Jocul s-a blocat.</translation>
+        <translation>Jocul a dat &quot;crash&quot;.</translation>
     </message>
 </context>
 <context>
@@ -3640,7 +3640,7 @@ Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="132"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-au putut descărca unele liste de pack-uri: %1</translation>
     </message>
 </context>
 <context>
@@ -3663,7 +3663,7 @@ Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Failed to open modpack file %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut deschide fișierul modpack-ului %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
