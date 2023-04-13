@@ -23,7 +23,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Opomba: pomoje želiš sprememeniti ali odstraniti glavni URL po spremembi vrste storitve za prilepitev.</translation>
+        <translation>Opomba: po spremembi tipa vrste za prilepitev, morda želite spremeniti ali izbrisati tudi bazni naslov strani (URL).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -39,13 +39,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Opomba: pomoje ne rabiš nastaviti to če vpis z Microsoft potrditvijo že deluje.</translation>
+        <translation>Opomba: če vpis preko Microsoftove avtentikacije že deluje, ta nastavitev verjetno ni potrebna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>(Default)</source>
-        <translation>(Privzet)</translation>
+        <translation>(Privzeto)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Vpiši priljuben uporabniški agent tukaj. Poseben tekst $LAUNCHER_VER bo zamenjan z verzijo zaganjalnika.</translation>
+        <translation>Tukaj vnesite uporabniškega agenta po meri. Posebni niz $LAUNCHER_VER bo nadomeščen z različico zaganjalnika.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -96,12 +96,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>To lahko nastaviš na tretje osebni metadata strežnik da uporabiš popravljene knjižnice ali druge heke.</translation>
+        <translation>Za uporabo spremenjenih knjižnic ali drugih popravkov, lahko tukaj nastavite drug metapodatkovni stežnik.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation>Vpiši priljuben URL za meto tukaj.</translation>
+        <translation>Tu vnesite poljuben spletni naslov (URL) za metapodatke.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
@@ -117,7 +117,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Vpiši priljuben API ključ za CurseForge tukaj.</translation>
+        <translation>Tukaj vnesite poljuben API ključ za CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -131,7 +131,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="118"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Manifesta paketa ni bilo mogoče razumeti:
+        <translation>Paketnega manifesta ni bilo mogoče razumeti:
 </translation>
     </message>
     <message>
@@ -157,7 +157,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
         <source>Unknown mod type: %1</source>
-        <translation>Nepoznan tip moda: %1</translation>
+        <translation>Neznan tip modifikacije: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="376"/>
@@ -167,7 +167,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
-        <translation>Nobena različica nalagalnika ni nastavljena za paket modov!</translation>
+        <translation>Nobena različica nalagalnika ni nastavljena za paket modifikacij!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="535"/>
@@ -217,32 +217,32 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="771"/>
         <source>Unknown download type: %1</source>
-        <translation>Nepodprt tip prenosa: %1</translation>
+        <translation>Neznan tip prenosa: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="892"/>
         <source>Failed to extract mods...</source>
-        <translation>Pridobivanje modov ni bilo uspešno...</translation>
+        <translation>Pridobivanje modifikacij ni bilo uspešno...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="903"/>
         <source>Extracting mods...</source>
-        <translation>Pridobivanje modov...</translation>
+        <translation>Pridobivanje modifikacij...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="976"/>
         <source>Installing modpack</source>
-        <translation>Nameščanje paketa modov</translation>
+        <translation>Nameščanje paketa modifikacij</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
         <source>Failed to create libraries component</source>
-        <translation>Ustvaritev komponente knjižnic ni bilo uspešno</translation>
+        <translation>Komponente knjižnic ni bilo mogoče ustvariti</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
         <source>Unknown loader type: </source>
-        <translation>Nepoznan tip nalagalnika: </translation>
+        <translation>Neznana vrsta nalagalnika: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
