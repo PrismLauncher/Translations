@@ -971,7 +971,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;As suas pastas configuradas de mods (global) e de downloads padrão são automaticamente checadas e os mods encontrados serão copiados para a instância.&lt;/p&gt;&lt;p&gt;Opcionalmente, você pode arrastar os mods baixados para esta janela ou adicionar uma pasta para ser observada se você baixou os mods em uma pasta não padrão.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;As suas pastas configuradas de mods globais e de downloads padrão são automaticamente verificadas e os mods encontrados serão copiados para a instância.&lt;/p&gt;&lt;p&gt;Opcionalmente, você pode arrastar os mods baixados para esta janela ou adicionar uma pasta para ser observada se você baixou os mods em uma pasta não padrão.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
