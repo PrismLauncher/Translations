@@ -1414,7 +1414,10 @@ Awe you suwe?!?!</translation>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>You awe about to wemove the fowdew &quot;%1&quot;.
+This may be p-pewmanyent a-a-and it wiww be gonye fwom the pawent fowdew.
+
+Awe you suwe?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
@@ -1731,12 +1734,12 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Copying Bwocked Mods (%1 o-out of %2 awe donye)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod wownloawd</translation>
+        <translation>Mod downloawd</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
@@ -1756,7 +1759,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Wownloawdwing mods...</translation>
+        <translation>Downloawdwing mods...</translation>
     </message>
 </context>
 <context>
@@ -1764,12 +1767,12 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="315"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Hey thewe!&lt;/h1&gt;&lt;h4&gt;It seems w-wike youw Pack ID is nyuww. This is because of a bug i-in owdew vewsions of the waunchew.&lt;br/&gt; Unfowtunyatewy Wowtunyatewy, we c-c-can&apos;t do t-the pwopew API w-wequests w-without this infowmation.&lt;br/&gt;&lt;br/&gt;So, in owdew fow this featuwe t-t-to wowk, you wiww nyeed to we-downwoad the m-modpack fwom the buiwt-in downwoadew.&lt;br/&gt;&lt;br/&gt;Don&apos;t wowwy though, it wiww ask you to update t-this instance instead, so you&apos;ww nyot wose this instance!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Cuwwent)</translation>
     </message>
 </context>
 <context>
@@ -1822,7 +1825,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Seawch a-and fiwtew...</translation>
+        <translation type="unfinished">*waises paw* S-S-Seawch a-a-and fiwtew...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="63"/>
@@ -1834,7 +1837,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Sowt by Wopuwawity</translation>
+        <translation type="unfinished">S-Sowt by Wopuwawity</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
