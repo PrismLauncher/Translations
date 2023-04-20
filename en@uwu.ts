@@ -5326,7 +5326,7 @@ Awe you suwe?</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copying Bwocked Mods (%1 o-out of %2 awe donye)</translation>
     </message>
 </context>
 <context>
@@ -5467,7 +5467,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (Cuwwent)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
