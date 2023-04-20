@@ -3442,7 +3442,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificați folderul de descărcări în mod recursiv</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
@@ -3876,7 +3876,8 @@ Motiv:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizare index pentru mod:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
@@ -3899,12 +3900,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copiați întregul log în clipboard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Copiere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -3920,7 +3921,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
         <source>Clear the log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ștergeți log-ul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="116"/>
@@ -3960,7 +3961,7 @@ Motiv:
         <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Procesul a ieșit cu codul %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="114"/>
@@ -3971,18 +3972,18 @@ Motiv:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesul s-a blocat cu codul de ieșire %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="123"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Procesul a fost oprit de utilizator.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="134"/>
         <source>The process failed to start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesul nu a reușit să pornească.</translation>
     </message>
 </context>
 <context>
@@ -4013,7 +4014,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.ui" line="56"/>
         <source>Open page and copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți pagina și copiați codul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
@@ -4026,7 +4027,7 @@ Motiv:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="68"/>
         <source>Logging in with Microsoft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectare cu contul Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="90"/>
@@ -4103,7 +4104,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
         <source>Open the instance folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschideți folderul instanței într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
@@ -4260,12 +4261,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="336"/>
         <source>&amp;Kill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Oprește forțat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="324"/>
         <source>&amp;Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pornește</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="273"/>
@@ -4275,7 +4276,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
         <source>F&amp;olders</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;oldere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="300"/>
@@ -4331,12 +4332,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="285"/>
         <source>&amp;Update...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Actualizați...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
         <source>&amp;Meow</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Miau</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="315"/>
@@ -4351,27 +4352,27 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="545"/>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Teme</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="139"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fişier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="162"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Editează</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Vedere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="199"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ajutor</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="510"/>
@@ -4397,7 +4398,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="377"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schimbă pictograma instanței selectate.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="351"/>
@@ -4427,12 +4428,12 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="342"/>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="392"/>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="363"/>
@@ -4442,22 +4443,22 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="369"/>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="465"/>
         <source>Ctrl+E</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="239"/>
         <source>Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Backspace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="434"/>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -4588,7 +4589,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
@@ -4598,7 +4599,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="602"/>
@@ -4623,7 +4624,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
         <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="498"/>
@@ -4633,7 +4634,7 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="501"/>
         <source>Ctrl+0</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="836"/>
@@ -4680,7 +4681,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1161"/>
         <source>Enter a new group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduceți un nume nou de grup.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
@@ -4995,7 +4996,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
         <source>, total played for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>, total jucat pentru %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
@@ -5283,7 +5284,7 @@ Please add your Mojang or Minecraft account.</source>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
@@ -5941,7 +5942,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
         <source>Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -6042,12 +6043,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="14"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Noutăți</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -6089,7 +6090,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="58"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Note</translation>
     </message>
 </context>
 <context>
@@ -6485,7 +6486,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="30"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sări peste</translation>
     </message>
 </context>
 <context>
@@ -6513,7 +6514,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nici unul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
@@ -6525,7 +6526,7 @@ Choose your name carefully:</source>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;HTTP</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
@@ -6536,19 +6537,19 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nume de utilizator:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parolă:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
@@ -6566,22 +6567,22 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Întunecat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="79"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Luminos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="53"/>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Site web</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="72"/>
@@ -6764,7 +6765,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
         <source>&lt;Offline&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Offline&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="31"/>
@@ -6956,12 +6957,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>OSX</source>
-        <translation type="unfinished"></translation>
+        <translation>OSX</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
@@ -7031,12 +7032,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="40"/>
         <source>mod</source>
-        <translation type="unfinished"></translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="41"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>necunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
@@ -7102,7 +7103,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="105"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Moduri</translation>
     </message>
 </context>
 <context>
@@ -7117,7 +7118,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="49"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="144"/>
@@ -7140,7 +7141,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="59"/>
         <source>Ctrl+Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="105"/>
@@ -7156,7 +7157,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="58"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resurse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
@@ -7281,13 +7282,13 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="44"/>
         <source>resources</source>
         <extracomment>The plural version of &apos;resource&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resurse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="46"/>
         <source>resource</source>
         <extracomment>The singular version of &apos;resources&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>resursă</translation>
     </message>
 </context>
 <context>
@@ -7388,7 +7389,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
         <source>Unrecognized</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nerecunoscut</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
@@ -7494,7 +7495,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="14"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Înapoi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
@@ -7547,7 +7548,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="71"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
@@ -7569,7 +7570,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="76"/>
         <source>Screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Capturi de ecran</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="323"/>
@@ -7667,12 +7668,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="338"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="340"/>
         <source>Latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Latența</translation>
     </message>
 </context>
 <context>
@@ -7680,17 +7681,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nume</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresă</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation type="unfinished"></translation>
+        <translation>Res&amp;urse</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
@@ -7740,7 +7741,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.h" line="69"/>
         <source>Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="657"/>
@@ -7776,7 +7777,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Finalizare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
@@ -7888,7 +7889,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="81"/>
         <source>Cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelerină</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="83"/>
@@ -8137,7 +8138,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Culori</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
@@ -8172,7 +8173,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Previzualizare:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
@@ -8198,7 +8199,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="482"/>
         <source>Completeness</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Completitudinea</translation>
     </message>
     <message>
         <location filename="src/launcher/translations/TranslationsModel.cpp" line="492"/>
@@ -8296,27 +8297,27 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Niciunul</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished"></translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
@@ -8436,7 +8437,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
@@ -8541,7 +8542,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="246"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reîncărcați</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="249"/>
@@ -8951,7 +8952,7 @@ Are you sure?</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="276"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiune</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
@@ -9008,7 +9009,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="117"/>
         <source>MCEdit</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="122"/>
