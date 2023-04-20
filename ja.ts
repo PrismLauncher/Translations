@@ -1726,7 +1726,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="322"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">パックのインポート中にMinecraftバージョンから謎のドットが削除されました。</translation>
+        <translation>パックのインポート中にMinecraftバージョンから不明なドットが削除されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
