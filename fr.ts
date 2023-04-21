@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: only input that starts with &lt;span style=&quot; font-weight:600;&quot;&gt;http://&lt;/span&gt; or &lt;span style=&quot; font-weight:600;&quot;&gt;https://&lt;/span&gt; will be accepted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note&#x202f;: uniquement les entrées qui commencent par &lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;http&#x202f;://&lt;/span&gt; ou &lt;span style=&quot; font-weight&#x202f;:600&#x202f;;&quot;&gt;https&#x202f;://&lt;/span&gt; seront acceptées.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note : uniquement les entrées qui commencent par &lt;span style=&quot; font-weight :600 ;&quot;&gt;http ://&lt;/span&gt; ou &lt;span style=&quot; font-weight :600 ;&quot;&gt;https ://&lt;/span&gt; seront acceptées.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>https://0x0.st</source>
@@ -39,7 +39,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Note : vous voudriez peut-être changer ou effacer l&apos;URL de Base après avoir changé le type de service paste.</translation>
+        <translation>Note&#xa0;: vous voudriez peut-être changer ou effacer l&apos;URL de Base après avoir changé le type de service paste.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Note : vous n&apos;avez probablement pas besoin de définir ceci si la connexion via l&apos;Authentification Microsoft fonctionne déjà.</translation>
+        <translation>Note&#xa0;: vous n&apos;avez probablement pas besoin de définir ceci si la connexion via l&apos;Authentification Microsoft fonctionne déjà.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -77,7 +77,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note&#x202f;: vous avez seulement besoin de configurer ceci pour accéder à des données personelles. Lisez la &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; pour plus d&apos;informations.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note : vous avez seulement besoin de configurer ceci pour accéder à des données personelles. Lisez la &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; pour plus d&apos;informations.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Note : vous n&apos;avez probablement pas besoin de définir ceci si CurseForge marche déjà.</translation>
+        <translation>Note&#xa0;: vous n&apos;avez probablement pas besoin de définir ceci si CurseForge fonctionne déjà.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
@@ -147,7 +147,7 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="118"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Impossible de lire le manifeste du pack :
+        <translation>Impossible de lire le manifeste du pack&#xa0;:
 </translation>
     </message>
     <message>
@@ -183,12 +183,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
-        <translation>Aucune version du loader définie pour le modpack !</translation>
+        <translation>Aucune version du loader définie pour le modpack&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="535"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Type de téléchargement inconnu ou non pris en charge : %1</translation>
+        <translation>Type de téléchargement inconnu ou non pris en charge&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="652"/>
@@ -208,7 +208,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="705"/>
         <source>Failed to open pack configs %1!</source>
-        <translation>Échec d&apos;ouverture des configurations du pack %1&#x202f;!</translation>
+        <translation>Échec d&apos;ouverture des configurations du pack %1 !</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="739"/>
@@ -228,12 +228,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="765"/>
         <source>Unsupported download type: %1</source>
-        <translation>Mode de téléchargement non pris en charge : %1</translation>
+        <translation>Mode de téléchargement non pris en charge&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="771"/>
         <source>Unknown download type: %1</source>
-        <translation>Type de téléchargement inconnu : %1</translation>
+        <translation>Type de téléchargement inconnu&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="892"/>
@@ -258,7 +258,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
         <source>Unknown loader type: </source>
-        <translation>Type de loader inconnu : </translation>
+        <translation>Type de loader inconnu&#xa0;: </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
@@ -281,23 +281,23 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation>Plateforme :</translation>
+        <translation>Plateforme&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation>Date du build :</translation>
+        <translation>Date du build&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation>Commit :</translation>
+        <translation>Commit&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation>Canal :</translation>
+        <translation>Canal&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
@@ -332,12 +332,12 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation>Commit : %1</translation>
+        <translation>Commit&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation>Date du build&#x202f;: %1</translation>
+        <translation>Date du build : %1</translation>
     </message>
     <message>
         <source>Build Number</source>
@@ -453,7 +453,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation>Peut migrer ?</translation>
+        <translation>Peut migrer&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -483,7 +483,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>Ce compte peut-il migrer vers un compte Microsoft ?</translation>
+        <translation>Ce compte peut-il migrer vers un compte Microsoft&#xa0;?</translation>
     </message>
 </context>
 <context>
@@ -562,7 +562,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>Bienvenue&#xa0;!
-Si vous êtes nouveau ici, vous pouvez cliquer sur le bouton &quot;Ajouter&quot; pour ajouter votre compte Mojang ou Minecraft.</translation>
+Si vous êtes nouveau ici, vous pouvez cliquer sur le bouton «&#xa0;Ajouter&#xa0;» pour ajouter votre compte Mojang ou Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -674,7 +674,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation>État de la tâche du compte inconnu : %1</translation>
+        <translation>État de la tâche du compte inconnu&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -702,12 +702,12 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/Application.cpp" line="1632"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>Il semblerait que vous utilisez %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3 ?</translation>
+        <translation>Il semblerait que vous utilisez %1 sur %2 auparavant. Désirez-vous migrer vos données vers le nouvel emplacement de %3&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1674"/>
         <source>Migration failed! Reason: %1</source>
-        <translation>Migration échouée ! Raison : %1</translation>
+        <translation>Migration échouée&#xa0;! Raison&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -731,7 +731,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
         <source>Failed to read the assets index!</source>
-        <translation>La lecture de l&apos;index des ressources a échoué !</translation>
+        <translation>La lecture de l&apos;index des ressources a échoué&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
@@ -742,14 +742,14 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>Échec du téléchargement de l&apos;index des ressources :
+        <translation>Échec du téléchargement de l&apos;index des ressources&#xa0;:
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>Échec du téléchargement des ressources :
+        <translation>Échec du téléchargement des ressources&#xa0;:
 %1</translation>
     </message>
 </context>
@@ -809,12 +809,12 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation>Code de partage :</translation>
+        <translation>Code de partage&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation>Pas de code de partage spécifié !</translation>
+        <translation>Aucun code de partage spécifié&#xa0;!</translation>
     </message>
 </context>
 <context>
@@ -822,7 +822,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>Etes-vous sûr de vouloir activer ce mod ?</translation>
+        <translation>Êtes-vous sûr de vouloir activer ce mod&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
@@ -835,12 +835,12 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>Attention : cette fonctionnalité est toujours en développement. Si vous rencontrez des problèmes avec le modpack importé, il peut s&apos;agir d&apos;un bug.</translation>
+        <translation>Attention&#xa0;: cette fonctionnalité est toujours en développement. Si vous rencontrez des problèmes avec le modpack importé, il peut s&apos;agir d&apos;un bug.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
         <source>Version selected:</source>
-        <translation>Version sélectionnée :</translation>
+        <translation>Version sélectionnée&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
@@ -858,7 +858,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     </message>
     <message>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="vanished">Impossible de charger ou télécharger les listes de versions&#x202f;!</translation>
+        <translation type="vanished">Impossible de charger ou télécharger les listes de versions !</translation>
     </message>
     <message>
         <source>Installing</source>
@@ -884,7 +884,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>Impossible de charger ou télécharger les listes de versions&#x202f;!</translation>
+        <translation>Impossible de charger ou télécharger les listes de versions !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
@@ -962,7 +962,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="153"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation>%1 : &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash : %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1&#xa0;: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash&#xa0;: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <source>All mods found ✔</source>
@@ -976,7 +976,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation>Dossiers Scannés&#x202f;:</translation>
+        <translation>Dossiers Scannés :</translation>
     </message>
 </context>
 <context>
@@ -1049,7 +1049,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>Des conflits d&apos;exigences ont été détectés durant la vérification des dépendances !</translation>
+        <translation>Des conflits d&apos;exigences ont été détectés durant la vérification des dépendances&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
@@ -1065,7 +1065,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>La tâche de mise à jour des métadonnées du composant a échoué lors du téléchargement depuis le serveur distant :
+        <translation>La tâche de mise à jour des métadonnées du composant a échoué lors du téléchargement depuis le serveur distant&#xa0;:
 %1</translation>
     </message>
 </context>
@@ -1107,7 +1107,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>Désactiver ceci va garder le chargeur de mods (ex : Fabric, Quilt, etc.) mais supprimer le dossier des mods et leurs configurations.</translation>
+        <translation>Désactiver ceci va garder le chargeur de mods (ex&#xa0;: Fabric, Quilt, etc.) mais supprimer le dossier des mods et leurs configurations.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
@@ -1188,25 +1188,25 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>Commande post-&amp;arrêt :</translation>
+        <translation>Commande post-&amp;arrêt&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>Commande de pré-&amp;lancement :</translation>
+        <translation>Commande de pré-&amp;lancement&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation>Commande &amp;wrapper :</translation>
+        <translation>Commande &amp;wrapper&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Les commandes de pré-lancement s&apos;exécutent avant le lancement de l&apos;instance, et les commandes de post-arrêt s&apos;exécutent après qu&apos;il ferme.&lt;/p&gt;&lt;p&gt;Les deux vont être exécuté dans le fichier de travail du launcher avec des variables environnementales supplémentaires :&lt;/p&gt; &lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (Nom du fichier)&lt;/li&gt;&lt;li&gt;$INST_DIR - Chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Le binaire de Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Paramètres de la ligne de commande utilisés pour le lancement&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande wrapper permet de démarrer en utilisant un programme externe (exemple : &apos;optirun&apos; sur Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Les commandes de pré-lancement s&apos;exécutent avant le lancement de l&apos;instance, et les commandes de post-arrêt s&apos;exécutent après qu&apos;il ferme.&lt;/p&gt;&lt;p&gt;Les deux vont être exécuté dans le fichier de travail du launcher avec des variables environnementales supplémentaires&#xa0;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;$INST_NAME - Nom de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID de l&apos;instance (Nom du fichier)&lt;/li&gt;&lt;li&gt;$INST_DIR - Chemin absolu de l&apos;instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Chemin absolu de Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Le binaire de Java utilisé pour le lancement&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Paramètres de la ligne de commande utilisés pour le lancement (Avertissement&#xa0;: ne fonctionnera pas correctement si les arguments contiennent des espaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;La commande wrapper permet de démarrer en utilisant un programme externe (exemple&#xa0;: &apos;optirun&apos; sur Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1232,7 +1232,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation>Copie de %1 en cours…</translation>
+        <translation>Copie de %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
@@ -1243,7 +1243,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation>Certains chemins n&apos;ont pas pu être copiés !</translation>
+        <translation>Certains chemins n&apos;ont pas pu être copiés&#xa0;!</translation>
     </message>
 </context>
 <context>
@@ -1251,14 +1251,14 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>La commande wrapper &quot;%1&quot; est introuvable.</translation>
+        <translation>La commande wrapper «&#xa0;%1&#xa0;» est introuvable.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation>Impossible de lancer Minecraft !</translation>
+        <translation>Impossible de lancer Minecraft&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
@@ -1343,12 +1343,12 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
         <source>Overwrite?</source>
-        <translation>Écraser ?</translation>
+        <translation>Écraser&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
         <source>This file already exists. Do you want to overwrite it?</source>
-        <translation>Ce fichier existe déjà. Voulez-vous l&apos;écraser ?</translation>
+        <translation>Ce fichier existe déjà. Voulez-vous l&apos;écraser&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
@@ -1368,7 +1368,7 @@ Veuillez mettre à jour votre système d&apos;exploitation ainsi que PolyMC.</tr
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation>Filtre :</translation>
+        <translation>Filtre&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="71"/>
@@ -1471,7 +1471,7 @@ Are you sure?</source>
         <translation>Vous êtes sur le point d&apos;effacer %1 éléments.
 Ceci pourrait être permanent et ils disparaitront du dossier.
 
-Êtes-vous sur&#x202f;?</translation>
+Êtes-vous sur ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1479,10 +1479,10 @@ Ceci pourrait être permanent et ils disparaitront du dossier.
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>Vous êtes sur le point d&apos;effacer le fichier &quot;%1&quot;.
+        <translation>Vous êtes sur le point d&apos;effacer le fichier «&#xa0;%1&#xa0;».
 Ceci pourrait être permanent et il disparaîtra du dossier parent.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
@@ -1535,7 +1535,7 @@ Ceci pourrait être permanent et il disparaîtra du dossier parent.
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation>Erreur lors de la vérification de l&apos;installation de JProfiler :
+        <translation>Erreur lors de la vérification de l&apos;installation de JProfiler&#xa0;:
 %1</translation>
     </message>
     <message>
@@ -1560,7 +1560,7 @@ Ceci pourrait être permanent et il disparaîtra du dossier parent.
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="168"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation>Erreur lors de la vérification de l&apos;installation de JVisualVM :
+        <translation>Erreur lors de la vérification de l&apos;installation de JVisualVM&#xa0;:
 %1</translation>
     </message>
     <message>
@@ -1583,7 +1583,7 @@ Ceci pourrait être permanent et il disparaîtra du dossier parent.
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation>Erreur lors de la vérification de l&apos;installation de MCEdit :
+        <translation>Erreur lors de la vérification de l&apos;installation de MCEdit&#xa0;:
 %1</translation>
     </message>
     <message>
@@ -1612,7 +1612,7 @@ Ceci pourrait être permanent et il disparaîtra du dossier parent.
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>Impossible d&apos;extraire le fichier jar natif &quot;%1&quot; vers la destination &quot;%2&quot;</translation>
+        <translation>Impossible d&apos;extraire le fichier jar natif «&#xa0;%1&#xa0;» vers la destination &quot;%2&quot;</translation>
     </message>
 </context>
 <context>
@@ -1645,7 +1645,7 @@ Ceci pourrait être permanent et il disparaîtra du dossier parent.
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation>Échec lors de la copie de la bibliothèque de Forge/FML : %1.</translation>
+        <translation>Échec lors de la copie de la bibliothèque de Forge/FML&#xa0;: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
@@ -1654,10 +1654,10 @@ Ceci pourrait être permanent et il disparaîtra du dossier parent.
 
 Reason:%2
 Please try again.</source>
-        <translation>Échec du téléchargement des fichiers suivants :
+        <translation>Échec du téléchargement des fichiers suivants&#xa0;:
 %1
 
-Raison : %2
+Raison&#xa0;: %2
 Veuillez réessayer.</translation>
     </message>
 </context>
@@ -1688,7 +1688,7 @@ Veuillez réessayer.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="125"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Les mods désactivés ne seront pas mis à jour, pour éviter des problèmes de duplication de mods !</translation>
+        <translation>Les mods désactivés ne seront pas mis à jour, pour éviter des problèmes de duplication de mods&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="129"/>
@@ -1720,7 +1720,7 @@ Veuillez réessayer.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="275"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Impossible de comprendre le manifeste du pack :
+        <translation>Impossible de comprendre le manifeste du pack&#xa0;:
 </translation>
     </message>
     <message>
@@ -1760,24 +1760,24 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Nous n&apos;avons pas pu trouver de fichier index approprié pour l&apos;ancienne version. Cela peut entraîner la duplication de certains fichiers. Voulez-vous continuer ?</translation>
+        <translation>Nous n&apos;avons pas pu trouver de fichier index approprié pour l&apos;ancienne version. Cela peut entraîner la duplication de certains fichiers. Voulez-vous continuer&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Impossible de renommer le dossier &quot;overrides&quot; :
+        <translation>Impossible de renommer le dossier &quot;overrides&quot;&#xa0;:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>Le dossier &quot;overrides&quot; spécifié (%1) est manquant. Peut-être que le pack de mods a déjà été utilisé auparavant ?</translation>
+        <translation>Le dossier &quot;overrides&quot; spécifié (%1) est manquant. Peut-être que le pack de mods a déjà été utilisé auparavant&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation>Mod Loader inconnu dans le manifeste : %1</translation>
+        <translation>Mod Loader inconnu dans le manifeste&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="322"/>
@@ -1793,7 +1793,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>Impossible de résoudre les IDs de mod :
+        <translation>Impossible de résoudre les IDs du mod&#xa0;:
 </translation>
     </message>
     <message>
@@ -1825,17 +1825,17 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
-        <translation>Ce &quot;dossier&quot; pourrait avoir besoin d&apos;être extrait : %1</translation>
+        <translation>Ce «&#xa0;dossier&#xa0;» pourrait avoir besoin d&apos;être extrait&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="480"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation>L&apos;imbrication des packs de mods n&apos;est pas implémentée. Rien n&apos;a été téléchargé : %1</translation>
+        <translation>L&apos;imbrication des packs de mods n&apos;est pas implémentée. Rien n&apos;a été téléchargé&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation>Type de paquet inconnu ou pas pris en charge pour : %1</translation>
+        <translation>Type de paquet inconnu ou pas pris en charge pour&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
@@ -1914,7 +1914,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation>Version sélectionnée :</translation>
+        <translation>Version sélectionnée&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -1925,7 +1925,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Remarque : CurseForge permet aux créateurs de bloquer l&apos;accès à des outils tiers comme Prism Launcher. En tant que tel, vous devrez peut-être télécharger manuellement certains mods pour pouvoir installer un modpack.</translation>
+        <translation>Remarque&#xa0;: CurseForge permet aux créateurs de bloquer l&apos;accès à des outils tiers comme Prism Launcher. En tant que tel, vous devrez peut-être télécharger manuellement certains mods pour pouvoir installer un modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -1977,7 +1977,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="169"/>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="188"/>
         <source>No version is available!</source>
-        <translation>Pas de version disponible !</translation>
+        <translation>Pas de version disponible&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="255"/>
@@ -1987,22 +1987,22 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="262"/>
         <source>External links:</source>
-        <translation>Liens externes :</translation>
+        <translation>Liens externes&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="266"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Problèmes : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problèmes&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="268"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Wiki : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="270"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Code source : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Code source&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -2040,7 +2040,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>Version sélectionnée :</translation>
+        <translation>Version sélectionnée&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
@@ -2203,7 +2203,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="33"/>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation>Les types de fichiers suivants sont implémentés (à la fois pour les fichiers locaux et les URL) :</translation>
+        <translation>Les types de fichiers suivants sont implémentés (à la fois pour les fichiers locaux et les URL)&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
@@ -2230,7 +2230,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
         <source>Local file or link to a direct download:</source>
-        <translation>Fichier local ou lien vers un téléchargement direct :</translation>
+        <translation>Fichier local ou lien vers un téléchargement direct&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
@@ -2277,7 +2277,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation>Fichier&#x202f;: %1</translation>
+        <translation>Fichier : %1</translation>
     </message>
 </context>
 <context>
@@ -2339,7 +2339,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <location filename="src/launcher/InstanceCreationTask.cpp" line="30"/>
         <source>Error while creating new instance:
 %1</source>
-        <translation>Erreur lors de la création d&apos;une nouvelle instance&#x202f;: 
+        <translation>Erreur lors de la création d&apos;une nouvelle instance : 
 %1</translation>
     </message>
     <message>
@@ -2364,7 +2364,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <location filename="src/launcher/InstanceImportTask.cpp" line="87"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Téléchargement du pack de mods :
+        <translation>Téléchargement du pack de mods&#xa0;:
 %1</translation>
     </message>
     <message>
@@ -2453,7 +2453,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     </message>
     <message>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation type="vanished">Type de paquet inconnu ou pas pris en charge pour&#x202f;: %1</translation>
+        <translation type="vanished">Type de paquet inconnu ou pas pris en charge pour : %1</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -2485,7 +2485,7 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
     </message>
     <message>
         <source>Filepath: %1&lt;br&gt;URL: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</source>
-        <translation type="vanished">Chemin du fichier&#x202f;: %1&lt;/br&gt;URL&#x202f;: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
+        <translation type="vanished">Chemin du fichier : %1&lt;/br&gt;URL : &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Non-whitelisted mods found</source>
@@ -2582,7 +2582,7 @@ Procéder avec prudence!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
         <source>Minimum memory allocation:</source>
-        <translation>Allocation minimale de mémoire :</translation>
+        <translation>Allocation minimale de mémoire&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="169"/>
@@ -2602,12 +2602,12 @@ Procéder avec prudence!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="133"/>
         <source>Maximum memory allocation:</source>
-        <translation>Allocation maximale de mémoire :</translation>
+        <translation>Allocation maximale de mémoire&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Remarque : PermGen est automatiquement activé avec Java 8 et ultérieur</translation>
+        <translation>Remarque&#xa0;: Permgen est automatiquement activé avec Java 8 et ultérieur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
@@ -2627,37 +2627,37 @@ Procéder avec prudence!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
         <source>Start Minecraft maximized?</source>
-        <translation>Démarrer Minecraft en plein écran ?</translation>
+        <translation>Démarrer Minecraft en plein écran&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
         <source>Window height:</source>
-        <translation>Hauteur de la fenêtre :</translation>
+        <translation>Hauteur de la fenêtre&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="288"/>
         <source>Window width:</source>
-        <translation>Largeur de la fenêtre :</translation>
+        <translation>Largeur de la fenêtre&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="332"/>
         <source>Conso&amp;le Settings</source>
-        <translation>Paramètres de la console</translation>
+        <translation>Paramètres de la conso&amp;le</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
         <source>Show console while the game is running?</source>
-        <translation>Afficher la console durant l&apos;exécution du jeu ?</translation>
+        <translation>Afficher la console durant l&apos;exécution du jeu&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
         <source>Automatically close console when the game quits?</source>
-        <translation>Fermer automatiquement la console à la fermeture du jeu ?</translation>
+        <translation>Fermer automatiquement la console à la fermeture du jeu&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
         <source>Show console when the game crashes?</source>
-        <translation>Afficher la console lorsque le jeu plante ?</translation>
+        <translation>Afficher la console lorsque le jeu plante&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -2702,7 +2702,7 @@ Procéder avec prudence!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
         <source>Account:</source>
-        <translation>Compte&#x202f;:</translation>
+        <translation>Compte :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="368"/>
@@ -2875,7 +2875,7 @@ Procéder avec prudence!</translation>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="34"/>
         <source>Listening on port: %1</source>
-        <translation>Écoute sur le port : %1</translation>
+        <translation>Écoute sur le port&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="41"/>
@@ -2920,13 +2920,13 @@ Procéder avec prudence!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Allocation minimale de mémoire :</translation>
+        <translation>Allocation &amp;minimale de mémoire&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Allocation maximale de mémoire :</translation>
+        <translation>Allocation ma&amp;ximale de mémoire&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
@@ -2946,13 +2946,13 @@ Procéder avec prudence!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="185"/>
         <source>JVM arguments:</source>
-        <translation>Arguments JVM :</translation>
+        <translation>Arguments JVM&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="201"/>
         <source>&amp;Java path:</source>
         <oldsource>Java path:</oldsource>
-        <translation>Chemin de Java :</translation>
+        <translation>Chemin de &amp;Java&#xa0;:</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -2963,13 +2963,13 @@ Procéder avec prudence!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="172"/>
         <source>&amp;Auto-detect...</source>
         <oldsource>Auto-detect...</oldsource>
-        <translation>Détecter automatiquement...</translation>
+        <translation>Détecter &amp;automatiquement...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="217"/>
         <source>&amp;Test</source>
         <oldsource>Test</oldsource>
-        <translation>Vérifier</translation>
+        <translation>&amp;Vérifier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="266"/>
@@ -2979,7 +2979,7 @@ Procéder avec prudence!</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="269"/>
         <source>Skip Java &amp;Wizard</source>
-        <translation>Ignorer Java et l&apos;Assistant d&apos;installation</translation>
+        <translation>&amp;Ignorer l&apos;assistant d&apos;installation de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
@@ -2990,7 +2990,7 @@ Procéder avec prudence!</translation>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
         <source>&amp;Skip Java compatibility checks</source>
         <oldsource>Skip Java compatibility checks</oldsource>
-        <translation>Passer les vérifications de compatibilité de Java</translation>
+        <translation>&amp;Passer les vérifications de compatibilité de Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.h" line="62"/>
@@ -3035,7 +3035,7 @@ You can change the Java version in the settings later.
 </source>
         <translation>Vous n&apos;avez pas sélectionné une version de Java ou avez sélectionné quelque chose qui ne fonctionne pas.
 %1 ne pourra pas lancer Minecraft.
-Voulez-vous continuer sans Java ?
+Voulez-vous continuer sans Java&#xa0;?
 
 Vous pourrez ultérieurement changer la version de Java dans les paramètres.
 </translation>
@@ -3058,12 +3058,12 @@ Vous pourrez ultérieurement changer la version de Java dans les paramètres.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="439"/>
         <source>Minimum memory allocation:</source>
-        <translation>Allocation minimale de mémoire :</translation>
+        <translation>Allocation minimale de mémoire&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="440"/>
         <source>Maximum memory allocation:</source>
-        <translation>Allocation maximale de mémoire :</translation>
+        <translation>Allocation maximale de mémoire&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="441"/>
@@ -3121,7 +3121,7 @@ Veuillez sélectionner l&apos;une des options suivantes ou rechercher un fichier
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Votre langue n&apos;est pas disponible ou sa qualité est mauvaise ?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Aidez-nous à la traduire !&lt;/a&gt;</translation>
+        <translation>Votre langue n&apos;est pas disponible ou sa qualité est mauvaise&#xa0;?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Aidez-nous à la traduire&#xa0;!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3142,7 +3142,7 @@ Veuillez sélectionner l&apos;une des options suivantes ou rechercher un fichier
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="70"/>
         <source>No instance specified!</source>
-        <translation>Aucune instance spécifiée !</translation>
+        <translation>Aucune instance spécifiée&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="75"/>
@@ -3158,7 +3158,7 @@ Veuillez sélectionner l&apos;une des options suivantes ou rechercher un fichier
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>Afin de jouer à Minecraft, vous devez avoir au moins un compte Mojang ou Minecraft connecté. Les comptes Mojang ne peuvent être utilisés qu&apos;en mode hors-ligne. Voulez-vous ouvrir le gestionnaire de comptes pour ajouter un compte maintenant ?</translation>
+        <translation>Afin de jouer à Minecraft, vous devez avoir au moins un compte Mojang ou Minecraft connecté. Les comptes Mojang ne peuvent être utilisés qu&apos;en mode hors-ligne. Voulez-vous ouvrir le gestionnaire de comptes pour ajouter un compte maintenant&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
@@ -3177,12 +3177,12 @@ Veuillez sélectionner l&apos;une des options suivantes ou rechercher un fichier
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="165"/>
         <source>Continue launch?</source>
-        <translation>Continuer le lancement ?</translation>
+        <translation>Continuer le lancement&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="166"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>Le lancement reste impossible après %1 essais. Voulez-vous réessayer ?</translation>
+        <translation>Le lancement reste impossible après %1 essais. Voulez-vous réessayer&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -3207,7 +3207,7 @@ Veuillez sélectionner l&apos;une des options suivantes ou rechercher un fichier
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="247"/>
         <source>Play demo?</source>
-        <translation>Lancer la démo ?</translation>
+        <translation>Lancer la démo&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
@@ -3218,7 +3218,7 @@ Do you want to play the demo?</source>
         <translation>Ce compte ne possède pas de licence Minecraft.
 Vous devez d&apos;abord acheter le jeu pour y jouer.
 
-Souhaitez-vous lancer la démo ?</translation>
+Souhaitez-vous lancer la démo&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
@@ -3279,7 +3279,7 @@ Souhaitez-vous lancer la démo ?</translation>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
         <location filename="src/launcher/LaunchController.cpp" line="409"/>
         <source>Error!</source>
-        <translation>Erreur !</translation>
+        <translation>Erreur&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
@@ -3295,7 +3295,7 @@ Souhaitez-vous lancer la démo ?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="409"/>
         <source>Couldn&apos;t start profiler: %1</source>
-        <translation>Impossible de démarrer le profileur : %1</translation>
+        <translation>Impossible de démarrer le profileur&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="418"/>
@@ -3319,7 +3319,7 @@ Souhaitez-vous lancer la démo ?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="431"/>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation>Impossible de démarrer le profileur : %1</translation>
+        <translation>Impossible de démarrer le profileur&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="432"/>
@@ -3334,7 +3334,7 @@ Souhaitez-vous lancer la démo ?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="476"/>
         <source>Kill Minecraft?</source>
-        <translation>Forcer la fermeture de Minecraft ?</translation>
+        <translation>Forcer la fermeture de Minecraft&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="477"/>
@@ -3355,7 +3355,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de jou
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
         <translation>Arrêt de la surveillance des logs du jeu car la longueur du journal dépassait %1 lignes.
-Vous devrez peut-être réparer vos mods car le jeu est toujours en train de générer des logs dans des fichiers et gaspille probablement de l’espace sur le disque dur à un rythme alarmant&#x202f;!</translation>
+Vous devrez peut-être réparer vos mods car le jeu est toujours en train de générer des logs dans des fichiers et gaspille probablement de l’espace sur le disque dur à un rythme alarmant !</translation>
     </message>
 </context>
 <context>
@@ -3369,7 +3369,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="68"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation>Impossible d&apos;obtenir le jeton d&apos;accès à Minecraft : %1</translation>
+        <translation>Impossible d&apos;obtenir le jeton d&apos;accès de Minecraft&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="79"/>
@@ -3411,17 +3411,17 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="83"/>
         <source>I&amp;nstances:</source>
-        <translation>I&amp;nstances :</translation>
+        <translation>I&amp;nstances&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;Mods :</translation>
+        <translation>&amp;Mods&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;Icônes :</translation>
+        <translation>&amp;Icônes&#xa0;:</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -3441,7 +3441,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation>Par date de dernière utilisation</translation>
+        <translation>Par &amp;date de dernière utilisation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
@@ -3486,13 +3486,13 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods?</source>
-        <translation>Désactiver l&apos;utilisation des métadonnées pour les mods&#x202f;?</translation>
+        <translation>Désactiver l&apos;utilisation des métadonnées pour les mods ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight&#x202f;:600&#x202f;; color&#x202f;:#f5c211&#x202f;;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color&#x202f;:#f5c211&#x202f;;&quot;&gt;&#x202f;: Désactiver les métadonnées de mods peut également désactiver certaines fonctionnalités pratiques à venir, comme la mise à jour de mod&#x202f;!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight :600 ; color :#f5c211 ;&quot;&gt;Attention&lt;/span&gt;&lt;span style=&quot; color :#f5c211 ;&quot;&gt; : Désactiver les métadonnées de mods peut également désactiver certaines fonctionnalités pratiques à venir, comme la mise à jour de mod !&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Breeze Light</source>
@@ -3542,7 +3542,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>&amp;Downloads:</source>
-        <translation>&amp;Téléchargements :</translation>
+        <translation>&amp;Téléchargements&#xa0;:</translation>
     </message>
     <message>
         <source>...</source>
@@ -3572,7 +3572,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="274"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>Remplacer la barre d&apos;outils avec la barre de menus</translation>
+        <translation>&amp;Remplacer la barre d&apos;outils avec la barre de menus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="298"/>
@@ -3588,31 +3588,31 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation>Afficher la console durant l&apos;exécution du jeu ?</translation>
+        <translation>Afficher la &amp;console durant l&apos;exécution du jeu&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Fermer automatiquement la console à la fermeture du jeu ?</translation>
+        <translation>&amp;Fermer automatiquement la console à la fermeture du jeu&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Afficher la console lorsque le jeu plante ?</translation>
+        <translation>Afficher la console lorsque le jeu &amp;plante&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>Limite de l&apos;historique</translation>
+        <translation>Limite de l&apos;&amp;historique</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>Arrêter la journalisation si elle devient trop importante</translation>
+        <translation>Arrêter la &amp;journalisation si elle devient trop importante</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
@@ -3623,7 +3623,7 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation>Police de la console</translation>
+        <translation>&amp;Police de la console</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
@@ -3633,12 +3633,12 @@ Vous devrez peut-être réparer vos mods car le jeu est toujours en train de gé
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Vous essayez de spécifier un dossier d&apos;instance qui contient au moins un &apos;!&apos; dans son chemin d&apos;accès. Java est connu pour mal fonctionner avec ce genre de chemin. Si c&apos;est le cas, vos instances ne démarreront (probablement) pas !</translation>
+        <translation>Vous essayez de spécifier un dossier d&apos;instance qui contient au moins un «&#xa0;!&#xa0;» dans son chemin d&apos;accès. Java est connu pour mal fonctionner avec ce genre de chemin. Si c&apos;est le cas, vos instances ne démarreront (probablement) pas&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Voulez-vous vraiment utiliser ce chemin d&apos;accès ? Choisir &quot;Non&quot; fermera cet avertissement et ne modifiera pas votre chemin de l&apos;instance.</translation>
+        <translation>Voulez-vous vraiment utiliser ce chemin d&apos;accès&#xa0;? Choisir «&#xa0;Non&#xa0;» fermera cet avertissement et ne modifiera pas votre chemin de l&apos;instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
@@ -3658,7 +3658,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
         <source>Do you want to proceed anyway?</source>
-        <translation>Voulez-vous continuer quand même ?</translation>
+        <translation>Voulez-vous continuer quand même&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="154"/>
@@ -3678,7 +3678,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="308"/>
         <source>[Something/ERROR] A spooky error!</source>
-        <translation>[Truc/ERREUR] Une erreur terrifiante !</translation>
+        <translation>[Truc/ERREUR] Une erreur terrifiante&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="317"/>
@@ -3713,14 +3713,14 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="170"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>La commande wrapper &quot;%1&quot; est introuvable.</translation>
+        <translation>La commande wrapper «&#xa0;%1&#xa0;» est introuvable.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="203"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Impossible de lancer Minecraft !</translation>
+        <translation>Impossible de lancer Minecraft&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="212"/>
@@ -3777,7 +3777,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="132"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>Échec du téléchargement de certaines listes de packs de mods : %1</translation>
+        <translation>Échec du téléchargement de certaines listes de packs&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -3800,7 +3800,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>L&apos;ouverture du fichier du pack de mods %1 a échoué !</translation>
+        <translation>L&apos;ouverture du fichier du pack de mods %1 a échoué&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
@@ -3811,12 +3811,12 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation>Le déplacement de Minecraft décompressé a échoué !</translation>
+        <translation>Le déplacement de Minecraft décompressé a échoué&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="225"/>
         <source>No installation method found!</source>
-        <translation>Aucune méthode d&apos;installation trouvée !</translation>
+        <translation>Aucune méthode d&apos;installation trouvée&#xa0;!</translation>
     </message>
 </context>
 <context>
@@ -3849,7 +3849,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="121"/>
         <source>Version selected:</source>
-        <translation>Version sélectionnée :</translation>
+        <translation>Version sélectionnée&#xa0;:</translation>
     </message>
     <message>
         <source>FTB Legacy</source>
@@ -3880,7 +3880,7 @@ Il est recommandé d&apos;accorder à %1 un accès à ce répertoire via Flatsea
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>Échec du téléchargement des informations du pack pour le code %1.
-Voulez-vous le supprimer maintenant ?</translation>
+Voulez-vous le supprimer maintenant&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="380"/>
@@ -3890,7 +3890,7 @@ Voulez-vous le supprimer maintenant ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="381"/>
         <source>Enter pack code:</source>
-        <translation>Entrez le code du pack :</translation>
+        <translation>Entrez le code du pack&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="404"/>
@@ -3900,7 +3900,7 @@ Voulez-vous le supprimer maintenant ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="405"/>
         <source>Are you sure you want to remove pack %1?</source>
-        <translation>Voulez-vous vraiment supprimer le pack %1 ?</translation>
+        <translation>Voulez-vous vraiment supprimer le pack %1&#xa0;?</translation>
     </message>
 </context>
 <context>
@@ -3985,10 +3985,10 @@ Voulez-vous le supprimer maintenant ?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation>Certains artefacts marqués comme &quot;local&quot; présentent des fichiers manquants :
+        <translation>Certains artefacts marqués comme «&#xa0;local&#xa0;» présentent des fichiers manquants&#xa0;:
 %1
 
-Vous devez soit ajouter ces fichiers, soit supprimer les packages qui en ont besoin.
+Vous devez soit ajouter ces fichiers, soit supprimer les paquets qui en ont besoin.
 Vous devrez corriger ce problème manuellement.</translation>
     </message>
     <message>
@@ -4001,8 +4001,8 @@ Vous devrez corriger ce problème manuellement.</translation>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
-        <translation>Échec de la mise à jour du jeu : les bibliothèques requises n&apos;ont pas pu être récupérées.
-Raison :
+        <translation>Échec de la mise à jour du jeu&#xa0;: les bibliothèques requises n&apos;ont pas pu être récupérées.
+Raison&#xa0;:
 %1</translation>
     </message>
 </context>
@@ -4012,7 +4012,7 @@ Raison :
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
         <source>Updating index for mod:
 %1</source>
-        <translation>Mise à jour de l&apos;index pour le mod :
+        <translation>Mise à jour de l&apos;index pour le mod&#xa0;:
 %1</translation>
     </message>
     <message>
@@ -4066,7 +4066,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="125"/>
         <source>Search:</source>
-        <translation>Recherche :</translation>
+        <translation>Recherche&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="132"/>
@@ -4233,7 +4233,7 @@ Raison :
         <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation>Voir le dossier des instances</translation>
+        <translation>&amp;Voir le dossier des instances</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
@@ -4244,7 +4244,7 @@ Raison :
         <location filename="src/launcher/ui/MainWindow.ui" line="537"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation>Voir le dossier principal des mods</translation>
+        <translation>Voir le dossier &amp;principal des mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
@@ -4371,7 +4371,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="401"/>
         <source>&amp;Folder</source>
-        <translation>Dossier</translation>
+        <translation>&amp;Dossier</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="459"/>
@@ -4386,7 +4386,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="428"/>
         <source>Cop&amp;y...</source>
-        <translation>Copier...</translation>
+        <translation>&amp;Copier...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -4412,7 +4412,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="336"/>
         <source>&amp;Kill</source>
-        <translation>Forcer la fermeture</translation>
+        <translation>&amp;Forcer la fermeture</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="324"/>
@@ -4427,13 +4427,13 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="184"/>
         <source>F&amp;olders</source>
-        <translation>D&amp;ossiers</translation>
+        <translation>&amp;Dossiers</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="300"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation>Paramètres...</translation>
+        <translation>&amp;Paramètres...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="264"/>
@@ -4482,12 +4482,12 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="602"/>
         <source>&amp;About %1</source>
-        <translation>&amp;A propos de %1</translation>
+        <translation>À &amp;propos de %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="285"/>
         <source>&amp;Update...</source>
-        <translation>Mise-à-jour...</translation>
+        <translation>Mise-à-&amp;jour...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="245"/>
@@ -4497,7 +4497,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="315"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>Configurer les Comptes...</translation>
+        <translation>&amp;Configurer les Comptes...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="256"/>
@@ -4522,7 +4522,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="171"/>
         <source>&amp;View</source>
-        <translation>&amp;Voir</translation>
+        <translation>&amp;Vue</translation>
     </message>
     <message>
         <source>&amp;Profiles</source>
@@ -4536,7 +4536,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="510"/>
         <source>Close &amp;Window</source>
-        <translation>Fermer &amp;la fenêtre</translation>
+        <translation>Fermer la &amp;fenêtre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="513"/>
@@ -4586,7 +4586,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="439"/>
         <source>Launch &amp;Offline</source>
-        <translation>Lancer en m&amp;ode Hors-ligne</translation>
+        <translation>Lancer en mode &amp;Hors-ligne</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="447"/>
@@ -4811,7 +4811,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
         <source>Total playtime: 0s</source>
-        <translation>Temps de jeu total : 0s</translation>
+        <translation>Temps de jeu total&#xa0;: 0s</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -4825,7 +4825,7 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="527"/>
         <source>Delete group &apos;%1&apos;</source>
-        <translation>Supprimer le groupe &quot;%1&quot;</translation>
+        <translation>Supprimer le groupe «&#xa0;%1&#xa0;»</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
@@ -4855,12 +4855,12 @@ Raison :
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="613"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
-        <translation>Le profileur n&apos;est pas configuré correctement. Allez dans l&apos;onglet &quot;Outils externes&quot; des paramètres.</translation>
+        <translation>Le profileur n&apos;est pas configuré correctement. Allez dans l&apos;onglet «&#xa0;Outils externes&#xa0;» des paramètres.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="486"/>
         <source>No accounts added!</source>
-        <translation>Aucun compte ajouté !</translation>
+        <translation>Aucun compte ajouté&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="721"/>
@@ -4933,7 +4933,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1183"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation>Voulez-vous vraiment supprimer le groupe %1&#x202f;?</translation>
+        <translation>Voulez-vous vraiment supprimer le groupe %1 ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1281"/>
@@ -4970,10 +4970,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation>Vous êtes sur le point de supprimer &quot;%1&quot;.
+        <translation>Vous êtes sur le point de supprimer «&#xa0;%1&#xa0;».
 Ceci pourrait être permanent et va complètement supprimer l&apos;instance.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the group %1</source>
@@ -5014,7 +5014,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation>Impossible de trouver le bureau?!</translation>
+        <translation>Impossible de trouver le bureau&#xa0;?!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
@@ -5026,19 +5026,19 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
         <source>Created a shortcut to this instance on your desktop!</source>
-        <translation>Créé un raccourci vers cette instance sur votre bureau&#x202f;!</translation>
+        <translation>Créé un raccourci vers cette instance sur votre bureau !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
         <source>Failed to create instance shortcut!</source>
-        <translation>Erreur lors de la création du raccourci vers l&apos;instance !</translation>
+        <translation>Erreur lors de la création du raccourci vers l&apos;instance&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation>Le lanceur est exécuté en tant qu&apos;Appimage mal configurée&#x202f;? (Variable d&apos;environnement $APPIMAGE manquante)</translation>
+        <translation>Le lanceur est exécuté en tant qu&apos;Appimage mal configurée ? (Variable d&apos;environnement $APPIMAGE manquante)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
@@ -5056,7 +5056,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
         <source>Not supported on your platform!</source>
-        <translation>Non supporté sur votre plateforme !</translation>
+        <translation>Non supporté sur votre plateforme&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1675"/>
@@ -5086,12 +5086,12 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>Le dossier de votre instance se trouve dans un dossier temporaire : «&#xa0;%1&#xa0;»&#xa0;!</translation>
+        <translation>Le dossier de votre instance se trouve dans un dossier temporaire&#xa0;: «&#xa0;%1&#xa0;»&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>Total playtime: %1</source>
-        <translation>Temps de jeu total : %1</translation>
+        <translation>Temps de jeu total&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="911"/>
@@ -5138,22 +5138,22 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation>Nom du pack&#x202f;:</translation>
+        <translation>Nom du pack :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
         <source>Current version:</source>
-        <translation>Version actuelle&#x202f;:</translation>
+        <translation>Version actuelle :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="87"/>
         <source>Provider information:</source>
-        <translation>Informations de Fournisseur&#x202f;:</translation>
+        <translation>Informations de Fournisseur :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="133"/>
         <source>Update to version:</source>
-        <translation>Mettre à jour vers version&#x202f;:</translation>
+        <translation>Mettre à jour vers version :</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="152"/>
@@ -5168,7 +5168,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="173"/>
         <source>No changelog available for this version!</source>
-        <translation>Aucun journal des modifications disponible pour cette version&#x202f;!</translation>
+        <translation>Aucun journal des modifications disponible pour cette version !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="185"/>
@@ -5178,7 +5178,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="87"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>Site web&#x202f;: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID de Pack&#x202f;: %3    |    ID de Version&#x202f;: %4</translation>
+        <translation>Site web : &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID de Pack : %3    |    ID de Version : %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="130"/>
@@ -5223,7 +5223,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="166"/>
         <source>Cannot update!</source>
-        <translation>Impossible de mettre à jour&#x202f;!</translation>
+        <translation>Impossible de mettre à jour !</translation>
     </message>
 </context>
 <context>
@@ -5329,19 +5329,19 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized?</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Démarrer Minecraft en &amp;plein écran ?</translation>
+        <translation>Démarrer Minecraft en &amp;plein écran&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
         <source>Window &amp;height:</source>
         <oldsource>Window hei&amp;ght:</oldsource>
-        <translation>&amp;Hauteur de la fenêtre :</translation>
+        <translation>&amp;Hauteur de la fenêtre&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="73"/>
         <source>Window &amp;width:</source>
         <oldsource>W&amp;indow width:</oldsource>
-        <translation>&amp;Largeur de la fenêtre :</translation>
+        <translation>&amp;Largeur de la fenêtre&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -5479,7 +5479,7 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="76"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>Échec de la récupération du profil Minecraft Java : %1</translation>
+        <translation>Échec de la récupération du profil Minecraft Java&#xa0;: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -5517,7 +5517,7 @@ Voulez-vous continuer ?</translation>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="73"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="79"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>Échec de la récupération du profil Minecraft Java : %1</translation>
+        <translation>Échec de la récupération du profil Minecraft Java&#xa0;: %1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -5652,7 +5652,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
         <source>Is the mod enabled?</source>
-        <translation>Le mod est-il activé ?</translation>
+        <translation>Le mod est-il activé&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="142"/>
@@ -5782,7 +5782,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
         <source>Please install a mod loader first!</source>
-        <translation>Veuillez d&apos;abord installer un chargeur de mods !</translation>
+        <translation>Veuillez d&apos;abord installer un chargeur de mods&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
@@ -5812,12 +5812,12 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <source>The mod updater was aborted!</source>
-        <translation>La mise à jour des mods a été annulée !</translation>
+        <translation>La mise à jour des mods a été annulée&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>Tous les mods sélectionnés sont à jour ! :)</translation>
+        <translation>Tous les mods sélectionnés sont à jour&#xa0;! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
@@ -5827,13 +5827,13 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>«&#xa0;%1&#xa0;» est à jour ! :)</translation>
+        <translation>«&#xa0;%1&#xa0;» est à jour&#xa0;! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
-        <translation>Tous les mods sont à jour ! :)</translation>
+        <translation>Tous les mods sont à jour&#xa0;! :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="51"/>
@@ -5851,7 +5851,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="61"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>Impossible de supprimer le fichier jar obsolète : %1</translation>
+        <translation>Impossible de supprimer le fichier jar obsolète&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="76"/>
@@ -5959,17 +5959,17 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="51"/>
         <source>You&apos;re about to update the following mods:</source>
-        <translation>Vous êtes sur le point de mettre à jour les mods suivants :</translation>
+        <translation>Vous êtes sur le point de mettre à jour les mods suivants&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="52"/>
         <source>Only mods with a check will be updated!</source>
-        <translation>Seuls les mods chochés seront mis à jour !</translation>
+        <translation>Seuls les mods cochés seront mis à jour&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="70"/>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation>Nom du mod : %1&lt;br&gt;Nom du fichier : %2&lt;br&gt;Raison : %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Nom du mod&#xa0;: %1&lt;br&gt;Nom du fichier&#xa0;: %2&lt;br&gt;Raison&#xa0;: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="73"/>
@@ -5979,7 +5979,7 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="74"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Impossible de générer les métadonnées des mods suivants :&lt;br&gt;Souhaitez-vous continuer sans ces mods ?</translation>
+        <translation>Impossible de générer les métadonnées des mods suivants&#xa0;:&lt;br&gt;Souhaitez-vous continuer sans ces mods&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="88"/>
@@ -6010,18 +6010,18 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="159"/>
         <source>Mod name: %1</source>
-        <translation>Nom du mod : %1</translation>
+        <translation>Nom du mod&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="161"/>
         <source>Reason: %1</source>
-        <translation>Raison : %1</translation>
+        <translation>Raison&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="164"/>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation>Solution possible : Obtenir la dernière version manuellement :&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Solution possible&#xa0;: Obtenir la dernière version manuellement&#xa0;:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
@@ -6041,7 +6041,7 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>Impossible de vérifier ou d&apos;obtenir les mises à jour des mods suivants : &lt;br&gt; Voulez-vous continuer sans ces mods ?</translation>
+        <translation>Impossible de vérifier ou d&apos;obtenir les mises à jour des mods suivants&#xa0;: &lt;br&gt; Voulez-vous continuer sans ces mods&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
@@ -6056,12 +6056,12 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="357"/>
         <source>Provider: %1</source>
-        <translation>Gestionnaire : %1</translation>
+        <translation>Gestionnaire&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
         <source>Old version: %1</source>
-        <translation>Ancienne version : %1</translation>
+        <translation>Ancienne version&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
@@ -6071,7 +6071,7 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="363"/>
         <source>New version: %1</source>
-        <translation>Nouvelle version : %1</translation>
+        <translation>Nouvelle version&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
@@ -6099,7 +6099,7 @@ Veuillez mettre à jour %1 !</translation>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Impossible de comprendre le manifeste du pack :
+        <translation>Impossible de comprendre le manifeste du pack&#xa0;:
 </translation>
     </message>
     <message>
@@ -6110,7 +6110,7 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Manifeste invalide : Aucune information disponible pour télécharger le fichier « %1 » !</translation>
+        <translation>Manifeste invalide&#xa0;: Aucune information disponible pour télécharger le fichier «&#xa0;%1&#xa0;»&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
@@ -6193,8 +6193,8 @@ Veuillez mettre à jour %1 !</translation>
         <source>API version too old!
 Please update %1!</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>La version de l&apos;API est trop ancienne !
-Veuillez mettre à jour %1 !</translation>
+        <translation>La version de l&apos;API est trop ancienne&#xa0;!
+Veuillez mettre à jour %1&#xa0;!</translation>
     </message>
 </context>
 <context>
@@ -6207,7 +6207,7 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="45"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Les mods désactivés ne seront pas mis à jour, pour éviter des problèmes de duplication de mods !</translation>
+        <translation>Les mods désactivés ne seront pas mis à jour, pour éviter des problèmes de duplication de mods&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="91"/>
@@ -6245,9 +6245,9 @@ Veuillez mettre à jour %1 !</translation>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="vanished">Une ou plusieurs instances proviennent de ce même modpack%1. Souhaitez-vous créer une instance séparée, ou mettre à jour une instance existante&#x202f;?
+        <translation type="vanished">Une ou plusieurs instances proviennent de ce même modpack%1. Souhaitez-vous créer une instance séparée, ou mettre à jour une instance existante ?
 
-NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de votre instance avant de mettre à jour, car vos mondes peuvent être corrompus et certaines configurations perdues (à cause des configurations propres au modpack).</translation>
+NOTE : Assurez-vous de faire une sauvegarde des données importantes de votre instance avant de mettre à jour, car vos mondes peuvent être corrompus et certaines configurations perdues (à cause des configurations propres au modpack).</translation>
     </message>
     <message>
         <source>Create new instance</source>
@@ -6269,20 +6269,20 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>Nous n&apos;avons pas pu trouver un fichier d&apos;index adéquat pour l&apos;ancienne version. Cela peut entraîner une duplication de certains fichiers. Souhaitez-vous continuer&#x202f;?</translation>
+        <translation>Nous n&apos;avons pas pu trouver un fichier d&apos;index adéquat pour l&apos;ancienne version. Cela peut entraîner une duplication de certains fichiers. Souhaitez-vous continuer ?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
         <source>Could not rename the overrides folder:
 </source>
-        <translation>Impossible de renommer le dossier &quot;overrides&quot; :
+        <translation>Impossible de renommer le dossier &quot;overrides&quot;&#xa0;:
 </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="194"/>
         <source>Could not rename the client overrides folder:
 </source>
-        <translation>Impossible de renommer le dossier &quot;overrides&quot; du client :
+        <translation>Impossible de renommer le dossier &quot;overrides&quot; du client&#xa0;:
 </translation>
     </message>
     <message>
@@ -6303,12 +6303,12 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="326"/>
         <source>Optional mod detected!</source>
-        <translation>Mod optionnel détecté !</translation>
+        <translation>Mod optionnel détecté&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="327"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>Un ou plusieurs mods de ce modpack sont optionnels. Ils seront téléchargés, mais désactivés par défaut !</translation>
+        <translation>Un ou plusieurs mods de ce modpack sont optionnels. Ils seront téléchargés, mais désactivés par défaut&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="370"/>
@@ -6319,7 +6319,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="401"/>
         <source>Could not understand pack index:
 </source>
-        <translation>Impossible de comprendre l&apos;index du pack :
+        <translation>Impossible de comprendre l&apos;index du pack&#xa0;:
 </translation>
     </message>
 </context>
@@ -6368,7 +6368,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>Note : Les modpacks Modrinth sont encore en phase alpha. Il se peut que certaines choses ne soient pas parfaites, ou ne fonctionnent pas du tout ! Utilisez-les avec prudence.</translation>
+        <translation>Note&#xa0;: Les modpacks Modrinth sont encore en phase alpha. Il se peut que certaines choses ne soient pas parfaites, ou ne fonctionnent pas du tout&#xa0;! Utilisez-les avec prudence.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -6388,7 +6388,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation>Version sélectionnée :</translation>
+        <translation>Version sélectionnée&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="65"/>
@@ -6430,32 +6430,32 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="252"/>
         <source>Donate information: </source>
-        <translation>Informations de donation : </translation>
+        <translation>Informations de donation&#xa0;: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="267"/>
         <source>External links:</source>
-        <translation>Liens externes :</translation>
+        <translation>Liens externes&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="271"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Problèmes : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problèmes&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="273"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Wiki : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="275"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Code source : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Code source&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="277"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Discord : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
@@ -6472,7 +6472,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="15"/>
         <source>All attempts have failed!</source>
-        <translation>Toutes les tentatives ont échoué&#x202f;!</translation>
+        <translation>Toutes les tentatives ont échoué !</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="26"/>
@@ -6507,7 +6507,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="100"/>
         <source>Failed to abort all tasks in the NetJob!</source>
-        <translation>Impossible d&apos;interrompre toutes les tâches dans le NetJob !</translation>
+        <translation>Impossible d&apos;interrompre toutes les tâches dans le NetJob&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="126"/>
@@ -6544,12 +6544,12 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation>&amp;Groupe :</translation>
+        <translation>&amp;Groupe&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation>&amp;Nom :</translation>
+        <translation>&amp;Nom&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
@@ -6563,7 +6563,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <location filename="src/launcher/news/NewsChecker.cpp" line="118"/>
         <source>Failed to load news RSS feed:
 %1</source>
-        <translation>Impossible de charger le flux RSS d&apos;actualités :
+        <translation>Impossible de charger le flux RSS d&apos;actualités&#xa0;:
 %1</translation>
     </message>
 </context>
@@ -6732,7 +6732,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="123"/>
         <source>Search:</source>
-        <translation>Recherche :</translation>
+        <translation>Recherche&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="152"/>
@@ -6744,7 +6744,7 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="152"/>
         <source>Unable to open %1 for reading: %2</source>
-        <translation>Impossible d&apos;ouvrir %1 pour la lecture : %2</translation>
+        <translation>Impossible d&apos;ouvrir %1 pour la lecture&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="173"/>
@@ -6767,10 +6767,10 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation>Vous êtres sur le point d&apos;effacer &quot;%1&quot;.
+        <translation>Vous êtres sur le point d&apos;effacer «&#xa0;%1&#xa0;».
 Ceci pourrait être permanent et il va disparaitre du fichier des logs.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
@@ -6780,13 +6780,13 @@ Ceci pourrait être permanent et il va disparaitre du fichier des logs.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer tous les logs ?</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer tous les logs&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation>Voulez-vous vraiment supprimer tous ces fichiers ?
+        <translation>Voulez-vous vraiment supprimer tous ces fichiers&#xa0;?
 %1</translation>
     </message>
     <message>
@@ -6796,7 +6796,7 @@ Ceci pourrait être permanent et il va disparaitre du fichier des logs.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="240"/>
         <source>Unable to delete %1: %2</source>
-        <translation>Impossible de supprimer %1 : %2</translation>
+        <translation>Impossible de supprimer %1&#xa0;: %2</translation>
     </message>
     <message>
         <source>Clean up</source>
@@ -6815,13 +6815,13 @@ Ceci pourrait être permanent et il va disparaitre du fichier des logs.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="294"/>
         <source>Couldn&apos;t delete some files!</source>
-        <translation>Impossible de supprimer certains fichiers !</translation>
+        <translation>Impossible de supprimer certains fichiers&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="299"/>
         <source>Couldn&apos;t delete some files:
 %1</source>
-        <translation>Impossible de supprimer certains fichiers :
+        <translation>Impossible de supprimer certains fichiers&#xa0;:
 %1</translation>
     </message>
     <message>
@@ -6877,31 +6877,31 @@ Ceci pourrait être permanent et il va disparaitre du fichier des logs.
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="161"/>
         <source>Network error: %1</source>
-        <translation>Erreur réseau : %1</translation>
+        <translation>Erreur réseau&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
-        <translation>Erreur : %1 Code d&apos;erreur inattendu retourné %2 %3</translation>
+        <translation>Erreur&#xa0;: %1 Code d&apos;erreur inattendu retourné %2 %3</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="189"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="216"/>
         <location filename="src/launcher/net/PasteUpload.cpp" line="245"/>
         <source>Error: %1 returned a malformed response body</source>
-        <translation>Erreur&#x202f;: %1 a renvoyé un corps de réponse malformé</translation>
+        <translation>Erreur : %1 a renvoyé un corps de réponse malformé</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
         <source>Error: %1 returned an error: %2</source>
-        <translation>Erreur&#x202f;: %1 a renvoyé une erreur&#x202f;: %2</translation>
+        <translation>Erreur : %1 a renvoyé une erreur : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/PasteUpload.cpp" line="236"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation>Erreur&#x202f;: %1 a renvoyé un code d&apos;erreur&#x202f;: %2
-Message d&apos;erreur&#x202f;: %3</translation>
+        <translation>Erreur : %1 a renvoyé un code d&apos;erreur : %2
+Message d&apos;erreur : %3</translation>
     </message>
 </context>
 <context>
@@ -6933,7 +6933,7 @@ Message d&apos;erreur&#x202f;: %3</translation>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="55"/>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="61"/>
         <source>Running Post-Launch command: %1</source>
-        <translation>Exécution de la commande post-lancement : %1</translation>
+        <translation>Exécution de la commande post-lancement&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PostLaunchCommand.cpp" line="70"/>
@@ -6960,7 +6960,7 @@ Message d&apos;erreur&#x202f;: %3</translation>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="55"/>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="61"/>
         <source>Running Pre-Launch command: %1</source>
-        <translation>Exécution de la commande de pré-lancement : %1</translation>
+        <translation>Exécution de la commande de pré-lancement&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/PreLaunchCommand.cpp" line="70"/>
@@ -6996,12 +6996,12 @@ Message d&apos;erreur&#x202f;: %3</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation>Utiliser par défaut ?</translation>
+        <translation>Utiliser par défaut&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>L&apos;utiliser par défaut pour cette instance uniquement ?</translation>
+        <translation>L&apos;utiliser par défaut pour cette instance uniquement&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
@@ -7027,9 +7027,9 @@ Message d&apos;erreur&#x202f;: %3</translation>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>Plus que une étape pour pouvoir jouer à Minecraft avec ce compte.
+        <translation>Plus qu&apos;une étape pour pouvoir jouer à Minecraft avec ce compte.
 
-Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
+Réfléchissez et choisissez votre nom d&apos;utilisateur&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -7049,7 +7049,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
         <source>Unhandled profile name status: %1</source>
-        <translation>Statut du nom de profil non géré : %1</translation>
+        <translation>Statut du nom de profil non géré&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="194"/>
@@ -7059,7 +7059,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="271"/>
         <source>The server returned the following error:</source>
-        <translation>Le serveur a retourné l&apos;erreur suivante :</translation>
+        <translation>Le serveur a retourné l&apos;erreur suivante&#xa0;:</translation>
     </message>
 </context>
 <context>
@@ -7132,7 +7132,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="107"/>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation>&amp;Adresse et port</translation>
+        <translation>Adresse et &amp;port</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="139"/>
@@ -7143,18 +7143,18 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="148"/>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation>&amp;Nom d&apos;utilisateur :</translation>
+        <translation>&amp;Nom d&apos;utilisateur&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="158"/>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation>&amp;Mot de passe :</translation>
+        <translation>&amp;Mot de passe&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>Remarque&#x202f;: le nom d&apos;utilisateur et le mot de passe du proxy sont stockés en texte brut à l&apos;intérieur du fichier de configuration du launcher&#x202f;!</translation>
+        <translation>Remarque : le nom d&apos;utilisateur et le mot de passe du proxy sont stockés en texte brut à l&apos;intérieur du fichier de configuration du launcher !</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
@@ -7167,7 +7167,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
     <message>
         <location filename="src/launcher/ui/themes/DarkTheme.cpp" line="12"/>
         <source>Dark</source>
-        <translation>Sombres</translation>
+        <translation>Sombre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/themes/SystemTheme.cpp" line="79"/>
@@ -7177,7 +7177,7 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
     <message>
         <location filename="src/launcher/ui/themes/BrightTheme.cpp" line="12"/>
         <source>Bright</source>
-        <translation>Claires</translation>
+        <translation>Clair</translation>
     </message>
     <message>
         <source>&lt;p&gt;There are no code changes between your current version and latest %1.&lt;/p&gt;</source>
@@ -7241,10 +7241,10 @@ Réfléchissez et choisissez votre nom d&apos;utilisateur :</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Vous êtes sur le point d&apos;upload &quot;%1&quot; sur %2.
+        <translation>Vous êtes sur le point d&apos;upload «&#xa0;%1&#xa0;» sur %2.
 Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnelle.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="89"/>
@@ -7276,12 +7276,12 @@ Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnell
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="314"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation>Le binaire Java spécifié a renvoyé des résultats inattendues :&lt;br /&gt;</translation>
+        <translation>Le binaire Java spécifié a renvoyé des résultats inattendues&#xa0;:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="325"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
-        <translation>Vérification de Java réussie !&lt;br /&gt;Plateforme détectée : %1&lt;br /&gt;Version de Java détectée : %2&lt;br /&gt;</translation>
+        <translation>Vérification de Java réussie&#xa0;!&lt;br /&gt;Plateforme détectée&#xa0;: %1&lt;br /&gt;Version de Java détectée&#xa0;: %2&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
@@ -7330,12 +7330,12 @@ Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnell
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="131"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation>Le composant &apos;uid&apos; contient des caractères interdits ! Cela peut causer des problèmes de sécurités.</translation>
+        <translation>Le composant &apos;uid&apos; contient des caractères interdits&#xa0;! Cela peut causer des problèmes de sécurités.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
         <source>Version file has both &apos;+libraries&apos; and &apos;libraries&apos;. This is no longer supported.</source>
-        <translation>Le fichier de version comporte à la fois &quot;+libraries&quot; et &quot;libraries&quot;. Cela n&apos;est plus pris en charge.</translation>
+        <translation>Le fichier de version comporte à la fois «&#xa0;+libraries&#xa0;» et «&#xa0;libraries&#xa0;». Cela n&apos;est plus pris en charge.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
@@ -7345,27 +7345,27 @@ Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnell
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="304"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>Le fichier de version contient un élément non pris en charge : &quot;tweakers&quot;</translation>
+        <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;tweakers&#xa0;»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="308"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>Le fichier de version contient un élément non pris en charge : &quot;-libraries&quot;</translation>
+        <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;-libraries&#xa0;»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="312"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>Le fichier de version contient un élément non pris en charge : &quot;-tweakers&quot;</translation>
+        <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;-tweakers&#xa0;»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="316"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>Le fichier de version contient un élément non pris en charge : &quot;-minecraftArguments&quot;</translation>
+        <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;-minecraftArguments&#xa0;»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="320"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>Le fichier de version contient un élément non pris en charge : &quot;+minecraftArguments&quot;</translation>
+        <translation>Le fichier de version contient un élément non pris en charge&#xa0;: «&#xa0;+minecraftArguments&#xa0;»</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="343"/>
@@ -7380,12 +7380,12 @@ Vous devriez revérifier qu&apos;il n&apos;y a pas d&apos;information personnell
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="131"/>
         <source>Unable to open the version file %1: %2.</source>
-        <translation>Impossible d&apos;ouvrir le fichier de la version %1 : %2.</translation>
+        <translation>Impossible d&apos;ouvrir le fichier de la version %1&#xa0;: %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ProfileUtils.cpp" line="152"/>
         <source>Unable to process the version file %1: %2 at line %3 column %4.</source>
-        <translation>Impossible de traiter le fichier de version %1 : %2 à la ligne %3, colonne %4.</translation>
+        <translation>Impossible de traiter le fichier de version %1&#xa0;: %2 à la ligne %3, colonne %4.</translation>
     </message>
     <message>
         <source>Unable to process the version file %1.</source>
@@ -7463,8 +7463,8 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation>Vous avez essayé de définir manuellement une option de mémoire JVM (en utilisant &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; ou &quot;-Xms&quot;).
-Des cases leur sont réservées dans les paramètres (onglet &quot;Java&quot;, dans la section &quot;Mémoire&quot; en haut).
+        <translation>Vous avez essayé de définir manuellement une option de mémoire JVM (en utilisant «&#xa0;-XX:PermSize&#xa0;», «&#xa0;-XX-MaxHeapSize&#xa0;», «&#xa0;-XX:InitialHeapSize&#xa0;», «&#xa0;-Xmx&#xa0;» ou «&#xa0;-Xms&#xa0;»).
+Des cases leur sont réservées dans les paramètres (onglet «&#xa0;Java&#xa0;», dans la section «&#xa0;Mémoire&#xa0;» en haut).
 Ce message sera affiché jusqu&apos;à ce que vous les retiriez des arguments JVM.</translation>
     </message>
     <message>
@@ -7477,24 +7477,24 @@ Ce message sera affiché jusqu&apos;à ce que vous les retiriez des arguments JV
         <location filename="src/launcher/JavaCommon.cpp" line="59"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>Vous avez essayé de passer l&apos;argument de la version Java requise à la JVM (en utilisant &quot;-version:xxx&quot;). Ceci n&apos;est pas sûr et ne sera pas autorisé.
-Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de la JVM.</translation>
+        <translation>Vous avez essayé de passer l&apos;argument de la version Java requise à la JVM (en utilisant «&#xa0;-version:xxx&#xa0;»). Ceci n&apos;est pas sûr et ne sera pas autorisé.
+Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Vérification de Java réussie !&lt;br /&gt;Plateforme détectée : %1&lt;br /&gt;Version de Java détectée : %2&lt;br /&gt;Fournisseur de Java détecté : %3&lt;br /&gt;</translation>
+        <translation>Vérification de Java réussie&#xa0;!&lt;br /&gt;Plateforme détectée&#xa0;: %1&lt;br /&gt;Version de Java détectée&#xa0;: %2&lt;br /&gt;Fournisseur de Java détecté&#xa0;: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation>&lt;br /&gt;Alertes :&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
+        <translation>&lt;br /&gt;Alertes&#xa0;:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>Le binaire Java spécifié n&apos;a pas fonctionné avec les arguments fournis :&lt;br /&gt;</translation>
+        <translation>Le binaire Java spécifié n&apos;a pas fonctionné avec les arguments fournis&#xa0;:&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
@@ -7518,7 +7518,7 @@ Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de la
         <location filename="src/launcher/meta/JsonFormat.cpp" line="153"/>
         <location filename="src/launcher/meta/JsonFormat.cpp" line="166"/>
         <source>Unknown format version!</source>
-        <translation>Version de format inconnu !</translation>
+        <translation>Version de format inconnu&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
@@ -7568,24 +7568,24 @@ Ce message sera affiché jusqu&apos;à ce que vous supprimiez cet argument de la
 
 Old name: %1
 New name: %2</source>
-        <translation>Le nom de l&apos;instance semble contenir l&apos;ancienne version. Voulez-vous le mettre à jour&#x202f;?
+        <translation>Le nom de l&apos;instance semble contenir l&apos;ancienne version. Voulez-vous le mettre à jour ?
 
-Ancien nom&#x202f;: %1
-Nouveau nom&#x202f;: %2</translation>
+Ancien nom : %1
+Nouveau nom : %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation>Un modpack similaire à été trouvé !</translation>
+        <translation>Un modpack similaire à été trouvé&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>Au moins une de vos instances viennent du même modpack%1. Voulez-vous créer une instance séparée, ou mettre à jour l&apos;existante&#x202f;?
+        <translation>Au moins une de vos instances viennent du même modpack%1. Voulez-vous créer une instance séparée, ou mettre à jour l&apos;existante ?
 
-NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données importantes de l&apos;instance avant de mettre à jour, étant donné que les mondes peuvent se corrompre et certaines configurations peuvent se perdre (en raison de contournements du pack).</translation>
+NOTE : Assurez-vous d&apos;avoir fait une sauvegarde de vos données importantes de l&apos;instance avant de mettre à jour, étant donné que les mondes peuvent se corrompre et certaines configurations peuvent se perdre (en raison de contournements du pack).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
@@ -7620,7 +7620,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Simple (Blue Icons)</source>
-        <translation>Simple (Icônes Bleutés)</translation>
+        <translation>Simple (Icônes Bleutées)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
@@ -7665,7 +7665,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
         <source>Background Cat (from MultiMC)</source>
-        <translation>Chat D&apos;arrière-Plan (de MultiMC)</translation>
+        <translation>Chat d&apos;Arrière-Plan (de MultiMC)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
@@ -7680,7 +7680,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
         <source>Teawie (drawn by SympathyTea)</source>
-        <translation>Teawie (dessiné par SympathyTea</translation>
+        <translation>Teawie (dessiné par SympathyTea)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="35"/>
@@ -7695,7 +7695,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="37"/>
         <source>data pack</source>
-        <translation>pack de données</translation>
+        <translation>data pack</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="38"/>
@@ -7705,17 +7705,17 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>world save</source>
-        <translation>Sauvegarde du monde</translation>
+        <translation>sauvegarde du monde</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="40"/>
         <source>mod</source>
-        <translation>Mod</translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="41"/>
         <source>unknown</source>
-        <translation>Inconnu</translation>
+        <translation>inconnu</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="221"/>
@@ -7731,7 +7731,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
         <source>Sort by Last Updated</source>
-        <translation>Trier par Dernière Modification</translation>
+        <translation>Trier par dernière modification</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="224"/>
@@ -7747,7 +7747,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
         <source>Sort by Downloads</source>
-        <translation>Trier par Téléchargements</translation>
+        <translation>Trier par téléchargements</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="227"/>
@@ -7796,12 +7796,12 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
         <location filename="src/launcher/ui/pages/modplatform/ModPage.h" line="49"/>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation>Mod</translation>
+        <translation>mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="144"/>
         <source>No valid version found!</source>
-        <translation>Aucune version valide trouvée !</translation>
+        <translation>Aucune version valide trouvée&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="145"/>
@@ -7824,12 +7824,12 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="105"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>Ouvre une nouvelle fenêtre popup pour revoir votre sélection et confirmer votre choix. Raccourci : Ctrl+Retour</translation>
+        <translation>Ouvre une nouvelle popup pour passer en revue les %1 sélectionnés et confirmer votre choix. Raccourci&#xa0;: Ctrl+Entrée</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="120"/>
         <source>Confirm %1 to download</source>
-        <translation>Confirmer pour télécharger</translation>
+        <translation>Confirmer les %1 à télécharger</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="58"/>
@@ -7840,7 +7840,7 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
         <source>Download %1</source>
-        <translation>Télécharger</translation>
+        <translation>Télécharger %1</translation>
     </message>
 </context>
 <context>
@@ -7860,8 +7860,8 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="371"/>
         <source>API version too old!
 Please update %1!</source>
-        <translation>La version de l&apos;API est trop ancienne !
-Veuillez mettre à jour %1 !</translation>
+        <translation>La version de l&apos;API est trop ancienne&#xa0;!
+Veuillez mettre à jour %1&#xa0;!</translation>
     </message>
 </context>
 <context>
@@ -7900,7 +7900,7 @@ Veuillez mettre à jour %1 !</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="100"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="241"/>
         <source>Select %1 for download</source>
-        <translation>Sélectionner %1 pour le télécharger</translation>
+        <translation>Sélectionner le %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="194"/>
@@ -7910,32 +7910,32 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="199"/>
         <source>Donate information: </source>
-        <translation>Informations de donation : </translation>
+        <translation>Informations pour les donation&#xa0;: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="212"/>
         <source>External links:</source>
-        <translation>Liens externes :</translation>
+        <translation>Liens externes&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="216"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Problèmes : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problèmes&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="218"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Wiki : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="220"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Code source : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Code source&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="222"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Discord : &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="243"/>
@@ -8000,7 +8000,7 @@ Veuillez mettre à jour %1 !</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="143"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>pack de textures</translation>
+        <translation>packs de textures</translation>
     </message>
 </context>
 <context>
@@ -8029,7 +8029,7 @@ Veuillez mettre à jour %1 !</translation>
         <location filename="src/launcher/ResourceDownloadTask.cpp" line="41"/>
         <source>Downloading resource:
 %1</source>
-        <translation>Téléchargement de la ressource :
+        <translation>Téléchargement de la ressource&#xa0;:
 %1</translation>
     </message>
 </context>
@@ -8100,7 +8100,7 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>Le pack de ressources est-il activé ? (Valide seulement pour les ZIP)</translation>
+        <translation>Le pack de ressources est-il activé&#xa0;? (Valide seulement pour les ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
@@ -8170,7 +8170,7 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation>Version sélectionnée :</translation>
+        <translation>Version sélectionnée&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
@@ -8200,12 +8200,12 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="41"/>
         <source>Filename: %1</source>
-        <translation>Nom du fichier : %1</translation>
+        <translation>Nom du fichier&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
         <source>This download will be placed in: %1</source>
-        <translation>Ce téléchargement sera placé dans : %1</translation>
+        <translation>Ce téléchargement sera placé dans&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
@@ -8220,12 +8220,12 @@ Veuillez mettre à jour %1 !</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation>Vous êtes sur le point de télécharger le %1 suivant :</translation>
+        <translation>Vous êtes sur le point de télécharger le %1 suivant&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>Seuls les %1 cochés seront téléchargés !</translation>
+        <translation>Seuls les %1 cochés seront téléchargés&#xa0;!</translation>
     </message>
 </context>
 <context>
@@ -8282,9 +8282,9 @@ Veuillez mettre à jour %1 !</translation>
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation>Vous êtes sur le point d&apos;envoyer &amp;1 captures d&apos;écran.
+        <translation>Vous êtes sur le point d&apos;envoyer %1 captures d&apos;écran.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
@@ -8293,13 +8293,13 @@ Are you sure?</source>
 Are you sure?</source>
         <translation>Vous êtes sur le point d&apos;envoyer la capture d&apos;écran sélectionnée.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="455"/>
         <source>Failed to upload screenshots!</source>
-        <translation>L&apos;envoi des captures d&apos;écran a échoué !</translation>
+        <translation>L&apos;envoi des captures d&apos;écran a échoué&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="416"/>
@@ -8332,7 +8332,7 @@ Are you sure?</source>
         <translation>Vous êtes sur le point d&apos;effacer %1 captures d&apos;écran.
 Ceci pourrait être permanent et ils disparaîtront du fichier.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -8343,7 +8343,7 @@ Are you sure?</source>
         <translation>Vous êtes sur le point d&apos;effacer la capture d&apos;écran sélectionnée.
 Ceci pourrait être permanent et ils disparaîtront du fichier.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
@@ -8364,7 +8364,7 @@ Ceci pourrait être permanent et ils disparaîtront du fichier.
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
         <source>One of the tasks failed!</source>
-        <translation>Une des tâches a échoué !</translation>
+        <translation>Une des tâches a échoué&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
@@ -8473,10 +8473,10 @@ Ceci pourrait être permanent et ils disparaîtront du fichier.
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Vous êtes sur le point d&apos;effacer &quot;%1&quot;.
+        <translation>Vous êtes sur le point d&apos;effacer «&#xa0;%1&#xa0;».
 Cette action est permanente et ce serveur disparaîtra de votre liste pour toujours (C&apos;EST TRÈS LONG).
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
 </context>
 <context>
@@ -8621,12 +8621,12 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
         <source>Skin file does not exist!</source>
-        <translation>Le fichier du skin n&apos;existe pas !</translation>
+        <translation>Le fichier du skin n&apos;existe pas&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="132"/>
         <source>Failed to upload skin!</source>
-        <translation>Le chargement du skin a échoué !</translation>
+        <translation>Le chargement du skin a échoué&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="136"/>
@@ -8650,7 +8650,7 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>Téléchargement du pack de mods :
+        <translation>Téléchargement du pack de mods&#xa0;:
 %1</translation>
     </message>
     <message>
@@ -8699,7 +8699,7 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <source>Resolving modpack files:
 %1</source>
-        <translation type="vanished">Résolution des fichiers du pack de mods&#x202f;:
+        <translation type="vanished">Résolution des fichiers du pack de mods :
 %1</translation>
     </message>
     <message>
@@ -8722,7 +8722,7 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Impossible de comprendre le manifeste du pack :
+        <translation>Impossible de comprendre le manifeste du pack&#xa0;:
 </translation>
     </message>
     <message>
@@ -8751,18 +8751,18 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation>Impossible d&apos;ouvrir le fichier &quot;bin/modpack.jar&quot; !</translation>
+        <translation>Impossible d&apos;ouvrir le fichier «&#xa0;bin/modpack.jar&#xa0;»&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="68"/>
         <source>Unable to open &quot;fmlversion.properties&quot;!</source>
-        <translation>Impossible d&apos;ouvrir &quot;fmlversion.properties&quot; !</translation>
+        <translation>Impossible d&apos;ouvrir «&#xa0;fmlversion.properties&#xa0;»&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="82"/>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="137"/>
         <source>Unable to open &quot;version.json&quot;!</source>
-        <translation>Impossible d&apos;ouvrir &quot;version.json&quot; !</translation>
+        <translation>Impossible d&apos;ouvrir «&#xa0;version.json&#xa0;»&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
@@ -8773,30 +8773,30 @@ Cette action est permanente et ce serveur disparaîtra de votre liste pour toujo
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
-        <translation>Impossible d&apos;ouvrir &quot;forgeversion.properties&quot;</translation>
+        <translation>Impossible d&apos;ouvrir «&#xa0;forgeversion.properties&#xa0;»</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="120"/>
         <source>Invalid &quot;forgeversion.properties&quot;!</source>
-        <translation>&quot;forgeversion.properties&quot; non valide !</translation>
+        <translation>«&#xa0;forgeversion.properties&#xa0;» non valide&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="146"/>
         <source>Unable to find a &quot;version.json&quot;!</source>
-        <translation>Impossible de trouver un fichier &quot;version.json&quot; !</translation>
+        <translation>Impossible de trouver un fichier «&#xa0;version.json&#xa0;»&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="159"/>
         <source>Could not understand &quot;version.json&quot;:
 inheritsFrom is missing</source>
-        <translation>Impossible de comprendre &quot;version.json&quot; :
+        <translation>Impossible de comprendre «&#xa0;version.json&#xa0;»&#xa0;:
 inheritsFrom est manquant</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="209"/>
         <source>Could not understand &quot;version.json&quot;:
 </source>
-        <translation>Impossible de comprendre &quot;version.json&quot; :
+        <translation>Impossible de comprendre «&#xa0;version.json&#xa0;»&#xa0;:
 </translation>
     </message>
 </context>
@@ -8805,7 +8805,7 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>Version sélectionnée :</translation>
+        <translation>Version sélectionnée&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
@@ -8930,12 +8930,12 @@ inheritsFrom est manquant</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Conseil : Le chat apparaît en arrière-plan et n&apos;est pas visible par défault. Il n&apos;est rendu visible qu&apos;en appuyant sur le bouton Chat dans la Barre d&apos;Outils.</translation>
+        <translation>Conseil&#xa0;: Le chat apparaît en arrière-plan et n&apos;est pas visible par défault. Il n&apos;est rendu visible qu&apos;en appuyant sur le bouton Chat dans la Barre d&apos;Outils.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation> Aperçu :</translation>
+        <translation> Aperçu&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
@@ -8951,7 +8951,7 @@ inheritsFrom est manquant</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1 :
+        <translation>%1&#xa0;:
 %2 traduits
 %3 approximatifs
 %4 au total</translation>
@@ -8989,7 +8989,7 @@ inheritsFrom est manquant</translation>
         <source>Instance update failed because: %1
 
 </source>
-        <translation>Échec de la mise à jour de l&apos;instance. Raison : %1
+        <translation>Échec de la mise à jour de l&apos;instance. Raison&#xa0;: %1
 
 </translation>
     </message>
@@ -9156,7 +9156,7 @@ inheritsFrom est manquant</translation>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
         <translation>Cette instance n&apos;est pas compatible avec la version Java %1.
-Veuillez passer à l&apos;une des versions Java suivantes pour cette instance :</translation>
+Veuillez passer à l&apos;une des versions Java suivantes pour cette instance&#xa0;:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
@@ -9407,17 +9407,17 @@ Veuillez passer à l&apos;une des versions Java suivantes pour cette instance :<
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="221"/>
         <source>%1 has issues!</source>
-        <translation>%1 présente des problèmes !</translation>
+        <translation>%1 présente des problèmes&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="235"/>
         <source>Error: </source>
-        <translation>Erreur : </translation>
+        <translation>Erreur&#xa0;: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="239"/>
         <source>Warning: </source>
-        <translation>Avertissement : </translation>
+        <translation>Avertissement&#xa0;: </translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
@@ -9445,10 +9445,10 @@ Veuillez passer à l&apos;une des versions Java suivantes pour cette instance :<
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation>Vous êtes sur le point de retirer &quot;%1&quot;.
+        <translation>Vous êtes sur le point de retirer «&#xa0;%1&#xa0;».
 Ceci est permanent et va complètement effacer le composant personnalisé.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="347"/>
@@ -9518,7 +9518,7 @@ Ceci est permanent et va complètement effacer le composant personnalisé.
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="464"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
-        <translation>Impossible de charger ou de télécharger les listes de versions de mappings intermédiaires !</translation>
+        <translation>Impossible de charger ou de télécharger les listes de versions de mappings intermédiaires&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="492"/>
@@ -9538,10 +9538,10 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>Vous allez rétablir &quot;%1&quot;.
+        <translation>Vous allez rétablir «&#xa0;%1&#xa0;».
 Ceci est permanent et va complètement rétablir vous personnalisations.
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -9562,7 +9562,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="521"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
-        <translation>Impossible de charger ou de télécharger la liste des versions de Forge !</translation>
+        <translation>Impossible de charger ou de télécharger la liste des versions de Forge&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
@@ -9577,7 +9577,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
-        <translation>Impossible de charger ou de télécharger la liste des versions de LiteLoader !</translation>
+        <translation>Impossible de charger ou de télécharger la liste des versions de LiteLoader&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="574"/>
@@ -9592,7 +9592,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="576"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
-        <translation>Impossible de charger ou de télécharger la liste des versions de Quilt Loader !</translation>
+        <translation>Impossible de charger ou de télécharger la liste des versions de Quilt Loader&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="619"/>
@@ -9607,7 +9607,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="622"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
-        <translation>Impossible de charger ou de télécharger la liste des versions de LiteLoader !</translation>
+        <translation>Impossible de charger ou de télécharger la liste des versions de LiteLoader&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="678"/>
@@ -9738,7 +9738,7 @@ Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
         <source>List update failed:
 %1</source>
-        <translation>Échec de la mise à jour de la liste :
+        <translation>Échec de la mise à jour de la liste&#xa0;:
 %1</translation>
     </message>
 </context>
@@ -9902,7 +9902,7 @@ Voulez-vous vraiment continuer ?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="312"/>
         <source>No MCEdit found or set up!</source>
-        <translation>MCEdit est introuvable ou n&apos;est pas configuré !</translation>
+        <translation>MCEdit est introuvable ou n&apos;est pas configuré&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
@@ -9914,7 +9914,7 @@ Vous pouvez le configurer dans les paramètres globaux.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="322"/>
         <source>MCEdit failed to start!</source>
-        <translation>MCEdit n&apos;a pas pu démarrer !</translation>
+        <translation>MCEdit n&apos;a pas pu démarrer&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
@@ -9943,7 +9943,7 @@ Il est peut-être nécessaire de le réinstaller.</translation>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Modifier un monde alors que Minecraft est en cours d&apos;exécution peut être dangereux.
-Voulez-vous vraiment continuer ?</translation>
+Voulez-vous vraiment continuer&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
@@ -9956,10 +9956,10 @@ Voulez-vous vraiment continuer ?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>Vous êtes sur le point d&apos;effacer &quot;%1&quot;.
+        <translation>Vous êtes sur le point d&apos;effacer «&#xa0;%1&#xa0;».
 Ce monde pourrait disparaître pour toujours (C&apos;EST TRÈS LONG).
 
-Êtes-vous sûr ?</translation>
+Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
@@ -9999,12 +9999,12 @@ Ce monde pourrait disparaître pour toujours (C&apos;EST TRÈS LONG).
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation>Erreur STS inconnue pour les services de %1 : %2</translation>
+        <translation>Erreur STS inconnue pour les services de %1&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="82"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation>Impossible d&apos;obtenir l&apos;autorisation pour les services de %1 : %2</translation>
+        <translation>Impossible d&apos;obtenir l&apos;autorisation pour les services de %1&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
@@ -10071,7 +10071,7 @@ Veuillez configurer votre compte selon %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="63"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="69"/>
         <source>Failed to retrieve the Xbox profile: %1</source>
-        <translation>Impossible de récupérer le profil Xbox : %1</translation>
+        <translation>Impossible de récupérer le profil Xbox&#xa0;: %1</translation>
     </message>
     <message>
         <source>Failed to retrieve the Xbox profile.</source>
@@ -10098,7 +10098,7 @@ Veuillez configurer votre compte selon %1.</translation>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation>Échec de la récupération du profil Xbox : %1</translation>
+        <translation>Échec de la récupération du profil Xbox&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
@@ -10151,7 +10151,7 @@ Veuillez configurer votre compte selon %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;Échec de la connexion SSL.&lt;/b&gt;&lt;br/&gt; Il peut y avoir plusieurs causes à cela :&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Vous utilisez Windows et devez mettre à jour vos certificats racines, veuillez installer toutes les mises à jour en cours.&lt;/li&gt;&lt;li&gt;Un périphérique sur votre réseau interfère avec le trafic SSL. Dans ce cas, vous devez faire face à des problèmes plus importants que le non démarrage de Minecraft.&lt;/li&gt;&lt;li&gt;Peut-être quelque chose d&apos;autre. Vérifiez le fichier journal pour plus de détails&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>&lt;b&gt;Échec de la connexion SSL.&lt;/b&gt;&lt;br/&gt; Il peut y avoir plusieurs causes à cela&#xa0;:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Vous utilisez Windows et devez mettre à jour vos certificats racines, veuillez installer toutes les mises à jour en cours.&lt;/li&gt;&lt;li&gt;Un périphérique sur votre réseau interfère avec le trafic SSL. Dans ce cas, vous devez faire face à des problèmes plus importants que le non démarrage de Minecraft.&lt;/li&gt;&lt;li&gt;Peut-être quelque chose d&apos;autre. Vérifiez le fichier journal pour plus de détails&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
@@ -10161,17 +10161,17 @@ Veuillez configurer votre compte selon %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
-        <translation>L&apos;opération d&apos;authentification a échoué en raison d&apos;une erreur de réseau : %1 (%2)</translation>
+        <translation>L&apos;opération d&apos;authentification a échoué en raison d&apos;une erreur de réseau&#xa0;: %1 (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
-        <translation>Échec de l&apos;analyse de la réponse JSON du serveur d&apos;authentification : %1 au décalage %2.</translation>
+        <translation>Échec de l&apos;analyse de la réponse JSON du serveur d&apos;authentification&#xa0;: %1 au décalage %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
-        <translation>Une erreur inconnue s&apos;est produite lors de la tentative de communication avec le serveur d&apos;authentification : %1</translation>
+        <translation>Une erreur inconnue s&apos;est produite lors de la tentative de communication avec le serveur d&apos;authentification&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
