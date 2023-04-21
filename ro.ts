@@ -3437,7 +3437,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Când este activată, pe lângă folderul de descărcări, sub folderele sale vor fi căutate și atunci când se caută resurse (de exemplu, când se caută mod-uri blocate pe CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -3536,8 +3536,9 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>Încerci să specifici un dosar de instanță care a fost permis temporar prin Flatpak
-Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</translation>
+        <translation>Încerci să specifici un dosar de instanță care a fost permis temporar prin Flatpak.
+Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul poate sa nu mai funcționeze, deoarece el nu mai are acces în acel folder.
+Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
@@ -3552,7 +3553,7 @@ Acest lucru este cunoscut să cauzeze probleme. După o restartare launcher-ul</
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
         <source>Mods Folder</source>
-        <translation>Folder pentru moduri</translation>
+        <translation>Folder moduri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
