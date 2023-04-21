@@ -96,7 +96,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o kama jo e ilo open ijo API pi lipu CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -156,17 +156,17 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="644"/>
         <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>kama jo e nasin pali...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="645"/>
         <source>Config download</source>
-        <translation type="unfinished"></translation>
+        <translation>kama jo pi nasin pali</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="685"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>weka e nasin pali...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="692"/>
