@@ -909,7 +909,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Leiti pakkujalt %1 &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Leiti asukohast %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
@@ -939,7 +939,7 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sinu seadistatud üldist modikausta ning vaikimisi allalaadimiskausta kontrollitakse automaatselt, leidmaks allalaaditud mode, ning need kopeeritakse leidmisel sinu eksemplari.&lt;/p&gt;&lt;p&gt;Soovi korral võid allalaaditud modid ka siia aknasse sikutada, või lisada uue jälgitava kausta, kui sa ei laadinud neid vaikimisi kausta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -5283,7 +5283,7 @@ Kas oled kindel?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="132"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>MangoHudi ei leitud sinu süsteemist.</translation>
     </message>
 </context>
 <context>
@@ -5915,7 +5915,7 @@ Palun uuenda %1!</translation>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
+        <translation>Leiti blokeeritud failid</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
@@ -7230,7 +7230,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java kontrollimisteeki ei leitud. Palun kontrolli oma paigaldust.</translation>
+        <translation>Java kontrollimisteeki ei leitud. Palun kontrolli oma paigaldust.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
