@@ -142,7 +142,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished">APIs</translation>
+        <translation>Programmierschnittstellen</translation>
     </message>
 </context>
 <context>
@@ -4574,7 +4574,7 @@ Grund:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="513"/>
         <source>Close the current window</source>
-        <translation>Aktue&amp;lles Fenster schließen</translation>
+        <translation>Aktuelles Fenster schließen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="581"/>
@@ -9919,7 +9919,7 @@ Bitte füge dein Mojang- oder Minecraft-Konto hinzu.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
         <source>View Folder</source>
-        <translation>&amp;Ordner öffnen</translation>
+        <translation>Ordner öffnen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
