@@ -6975,8 +6975,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Neznámy formát verzie!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
         <translation>Prázdna cesta</translation>
     </message>
@@ -7177,8 +7177,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Triediť podľa obľúbenosti</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Zoradiť podľa poslednej aktualizácie</translation>
     </message>
@@ -7193,8 +7193,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Triediť podľa autora</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>

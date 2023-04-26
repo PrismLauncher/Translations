@@ -6043,8 +6043,8 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6500,8 +6500,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Сартаваць па папулярнасці</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="223"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished">Сартаваць па апошнім абнаўленні</translation>
     </message>
@@ -6516,8 +6516,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Сартаваць па аўтару</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="226"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
