@@ -146,12 +146,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="382"/>
         <source>No loader version set for modpack!</source>
-        <translation>nanpa pi ilo weka lon ala!</translation>
+        <translation>nanpa pi ilo weka li lon ala!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="527"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>mi sona ala e ni: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="644"/>
@@ -171,22 +171,22 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="692"/>
         <source>Failed to open pack configs %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>mi open ala e nasin %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="726"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>namako</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="730"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi kama jo e namako...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="733"/>
         <source>Mod download</source>
-        <translation type="unfinished"></translation>
+        <translation>kama jo namako</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="747"/>
@@ -206,12 +206,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="879"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>mi open e namako...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="952"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>mi tawa jo e poki namako</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="964"/>
@@ -239,7 +239,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ilo open li ken e ni: sina jo e musi Manka mute.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="176"/>
@@ -320,19 +320,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>linja ala</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>pona</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>pali</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
@@ -344,13 +344,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ike tan tenpo</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>weka</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
@@ -362,13 +362,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>ken</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate?</comment>
-        <translation type="unfinished"></translation>
+        <translation>ken ala</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
@@ -378,7 +378,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>sona jan</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
@@ -393,7 +393,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation type="unfinished"></translation>
+        <translation>ken ala ken tawa?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
@@ -403,7 +403,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>nimi pi sona jan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
