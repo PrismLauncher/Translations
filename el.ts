@@ -51,27 +51,27 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished">Εισαγάγετε ένα προσαρμοσμένο αναγνωριστικό προγράμματος-πελάτη για την επαλήθευση Της Microsoft εδώ. </translation>
+        <translation>Καταχωρίστε ένα προσαρμοσμένο αναγνωριστικό πελάτη για την Πιστοποίηση της Microsoft εδώ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Σημείωση: Χρειάζεται να το ορίσετε μόνο για να αποκτήσετε πρόσβαση σε ιδιωτικά δεδομένα. Διαβάστε την &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;τεκμηρίωση&lt;/a&gt; για περισσότερες πληροφορίες.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγάγετε ένα προσαρμοσμένο διακριτικό API για το Modrinth εδώ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Κανένα)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
@@ -280,7 +280,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταχώρηση:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -315,7 +315,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταχώρηση: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
@@ -442,7 +442,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα χρήστη Minecraft που σχετίζεται με τον λογαριασμό.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -467,7 +467,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Όνομα του προφίλ του Minecraft που σχετίζεται με το λογαριασμό.</translation>
+        <translation>Μπορεί αυτός ο λογαριασμός να μεταφερθεί σε λογαριασμό Microsoft;</translation>
     </message>
 </context>
 <context>
