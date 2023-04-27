@@ -5252,7 +5252,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="929"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, naposledy hráno %1 po dobu %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
