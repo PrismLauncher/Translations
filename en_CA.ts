@@ -4580,17 +4580,21 @@ Are you sure?</translation>
         <translation>Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
-        <source>, last played for %1</source>
-        <translation>, last played for %1</translation>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="929"/>
+        <source>, last played on %1 for %2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
+        <source>, last played for %1</source>
+        <translation type="vanished">, last played for %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="935"/>
         <source>, total played for %1</source>
         <translation>, total played for %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="940"/>
         <source>, has crashed.</source>
         <translation>, has crashed.</translation>
     </message>

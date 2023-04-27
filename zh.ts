@@ -5288,21 +5288,25 @@ Are you sure?</source>
         <translation>Minecraft %1</translation>
     </message>
     <message>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="929"/>
+        <source>, last played on %1 for %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Minecraft %1 (%2)</source>
         <translation type="vanished">Minecraft %1 （%2）</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="928"/>
         <source>, last played for %1</source>
-        <translation>，最后一次游玩时长: %1</translation>
+        <translation type="vanished">，最后一次游玩时长: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="932"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="935"/>
         <source>, total played for %1</source>
         <translation>，此实例总游玩时长：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="937"/>
+        <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="940"/>
         <source>, has crashed.</source>
         <translation>，最后一次运行发生崩溃。</translation>
     </message>
