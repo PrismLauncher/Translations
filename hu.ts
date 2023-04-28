@@ -5205,7 +5205,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="929"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, utoljára játszva ekkor: %1, ennyit: %1</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -8138,7 +8138,7 @@ Kérjük, frissítse a következőt: %1!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="76"/>
         <source>View Folder</source>
-        <translation>&amp;Mappa megnyitása</translation>
+        <translation>Mappa megnyitása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
@@ -9714,7 +9714,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
         <source>View Folder</source>
-        <translation>&amp;Mappa megnyitása</translation>
+        <translation>Mappa megnyitása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="137"/>
