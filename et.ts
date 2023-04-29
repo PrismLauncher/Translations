@@ -1980,36 +1980,31 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
 <context>
     <name>Ftb::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>Sorteeri mängimiste järgi</translation>
+        <translation type="vanished">Sorteeri mängimiste järgi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>Sorteeri paigaldamiste järgi</translation>
+        <translation type="vanished">Sorteeri paigaldamiste järgi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Sorteeri nime järgi</translation>
+        <translation type="vanished">Sorteeri nime järgi</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>Valitud versioon:</translation>
+        <translation type="vanished">Valitud versioon:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Otsi ja filtreeri...</translation>
+        <translation type="vanished">Otsi ja filtreeri...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -5890,66 +5885,50 @@ Palun uuenda %1!</translation>
         <translation type="vanished">Tühistatud</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
         <source>Getting the manifest...</source>
-        <translation>Manifesti hankimine...</translation>
+        <translation type="vanished">Manifesti hankimine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
-        <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Paki manifestist ei saadud aru:
+        <translation type="vanished">Paki manifestist ei saadud aru:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation>Modide lahendamine...</translation>
+        <translation type="vanished">Modide lahendamine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Sobimatu manifest: faili &quot;%1&quot; allalaadimiseks puudub teave!</translation>
+        <translation type="vanished">Sobimatu manifest: faili &quot;%1&quot; allalaadimiseks puudub teave!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation>Leiti blokeeritud failid</translation>
+        <translation type="vanished">Leiti blokeeritud failid</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Järgnevaid faile ei saa kolmanda osapoole käivitajad allalaadida.&lt;br/&gt;Sa pead need käsitsi alla laadima ja eksemplari lisama.</translation>
+        <translation type="vanished">Järgnevaid faile ei saa kolmanda osapoole käivitajad allalaadida.&lt;br/&gt;Sa pead need käsitsi alla laadima ja eksemplari lisama.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation>Eksemplari loomine...</translation>
+        <translation type="vanished">Eksemplari loomine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>Modide allalaadimine...</translation>
+        <translation type="vanished">Modide allalaadimine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>Modi allalaadimine</translation>
+        <translation type="vanished">Modi allalaadimine</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Blokeeritud modide kopeerimine...</translation>
+        <translation type="obsolete">Blokeeritud modide kopeerimine...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Blokeeritud modide kopeerimine (%1/%2 valmis)</translation>
+        <translation type="obsolete">Blokeeritud modide kopeerimine (%1/%2 valmis)</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
@@ -6319,7 +6298,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="179"/>
         <source>New Instance</source>
         <translation>Uus eksemplar</translation>
     </message>
@@ -6334,7 +6313,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation>&amp;Nimi:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
         <source>No group</source>
         <translation>Grupp puudub</translation>
     </message>

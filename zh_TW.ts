@@ -2001,36 +2001,31 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Ftb::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>按遊玩量排序</translation>
+        <translation type="vanished">按遊玩量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>按安裝量排序</translation>
+        <translation type="vanished">按安裝量排序</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>按名稱排序</translation>
+        <translation type="vanished">按名稱排序</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>選擇版本：</translation>
+        <translation type="vanished">選擇版本：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜尋及篩選…</translation>
+        <translation type="vanished">搜尋及篩選…</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -6086,66 +6081,54 @@ Please update %1!</source>
         <translation type="vanished">中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
         <source>Getting the manifest...</source>
-        <translation>正在取得資訊清單…</translation>
+        <translation type="vanished">正在取得資訊清單…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
-        <translation>尋找 %1 版失敗</translation>
+        <translation type="vanished">尋找 %1 版失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>無法解析模組包資訊：
+        <translation type="vanished">無法解析模組包資訊：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation>正在解析模組…</translation>
+        <translation type="vanished">正在解析模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>無效資訊清單：沒有可用的資訊去下載檔案「%1」！</translation>
+        <translation type="vanished">無效資訊清單：沒有可用的資訊去下載檔案「%1」！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation>找到被封鎖的檔案</translation>
+        <translation type="vanished">找到被封鎖的檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下檔案無法在第三方啟動器中下載。&lt;br/&gt;你將需要手動下載這些檔案，並將他們加入到實例中。</translation>
+        <translation type="vanished">以下檔案無法在第三方啟動器中下載。&lt;br/&gt;你將需要手動下載這些檔案，並將他們加入到實例中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation>建立實例...</translation>
+        <translation type="vanished">建立實例...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>正在下載模組…</translation>
+        <translation type="vanished">正在下載模組…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>模組下載</translation>
+        <translation type="vanished">模組下載</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation>複製被封鎖的模組...</translation>
+        <translation type="vanished">複製被封鎖的模組...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>複製被封鎖的模組（已完成 %2 個中的 %1 個任務）</translation>
+        <translation type="vanished">複製被封鎖的模組（已完成 %2 個中的 %1 個任務）</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -6537,7 +6520,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="179"/>
         <source>New Instance</source>
         <translation>新實例</translation>
     </message>
@@ -6552,7 +6535,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>名稱（&amp;N）：</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
         <source>No group</source>
         <translation>未分類</translation>
     </message>

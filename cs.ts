@@ -1992,36 +1992,31 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
 <context>
     <name>Ftb::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>Seřadit podle počtu spuštění</translation>
+        <translation type="vanished">Seřadit podle počtu spuštění</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>Seřadit podle počtu stažení</translation>
+        <translation type="vanished">Seřadit podle počtu stažení</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Seřadit podle názvu</translation>
+        <translation type="vanished">Seřadit podle názvu</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>Zvolená verze:</translation>
+        <translation type="vanished">Zvolená verze:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Vyhledat a filtrovat...</translation>
+        <translation type="vanished">Vyhledat a filtrovat...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -6069,66 +6064,54 @@ Aktualizujte prosím %1!</translation>
         <translation type="vanished">Přerušeno</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
         <source>Getting the manifest...</source>
-        <translation>Získávání manifestu...</translation>
+        <translation type="vanished">Získávání manifestu...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
-        <translation>Nepodařilo se najít verzi balíčku %1</translation>
+        <translation type="vanished">Nepodařilo se najít verzi balíčku %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nepodařilo se pochopit manifest balíčku:
+        <translation type="vanished">Nepodařilo se pochopit manifest balíčku:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation>Načítání modů...</translation>
+        <translation type="vanished">Načítání modů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Neplatný manifest: Pro stažení souboru &apos;%1&apos; nejsou k dispozici žádné informace!</translation>
+        <translation type="vanished">Neplatný manifest: Pro stažení souboru &apos;%1&apos; nejsou k dispozici žádné informace!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation>Nalezeny blokované soubory</translation>
+        <translation type="vanished">Nalezeny blokované soubory</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Následující soubory nejsou k dispozici ke stažení v launcherech třetích stran.&lt;br/&gt;Musíte je stáhnout ručně a přidat do instance.</translation>
+        <translation type="vanished">Následující soubory nejsou k dispozici ke stažení v launcherech třetích stran.&lt;br/&gt;Musíte je stáhnout ručně a přidat do instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation>Vytváření instance...</translation>
+        <translation type="vanished">Vytváření instance...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>Stahování modů...</translation>
+        <translation type="vanished">Stahování modů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>Stáhnout mod</translation>
+        <translation type="vanished">Stáhnout mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Kopírování blokovaných modů...</translation>
+        <translation type="vanished">Kopírování blokovaných modů...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Kopírování blokovaných modů (hotovo %1 z %2)</translation>
+        <translation type="vanished">Kopírování blokovaných modů (hotovo %1 z %2)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -6511,7 +6494,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="179"/>
         <source>New Instance</source>
         <translation>Nová instance</translation>
     </message>
@@ -6526,7 +6509,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
         <translation>Název:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
         <source>No group</source>
         <translation>Žádná skupina</translation>
     </message>

@@ -1907,36 +1907,31 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
 <context>
     <name>Ftb::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>Sowt by Pways</translation>
+        <translation type="vanished">Sowt by Pways</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Sowt by Instawws</translation>
+        <translation type="obsolete">Sowt by Instawws</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Sowt by Nyame</translation>
+        <translation type="vanished">Sowt by Nyame</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished">Vewsion sewected:</translation>
+        <translation type="obsolete">Vewsion sewected:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Seawch and fiwtew...</translation>
+        <translation type="vanished">Seawch and fiwtew...</translation>
     </message>
 </context>
 <context>
@@ -5269,66 +5264,30 @@ Awe you suwe?</translation>
 <context>
     <name>ModpacksCH::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
-        <source>Getting the manifest...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
-        <source>Failed to find pack version %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Couwd nyot undewstand pack m-manyifest:
+        <translation type="vanished">Couwd nyot undewstand pack m-manyifest:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
-        <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
-        <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
-        <source>Blocked files found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>The fowwowing fiwes awe nyot avaiwabwe fow downwoad in thiwd pawty wawty waunchews.&lt;br/&gt;You wiww nyeed to m-manyuawwy wanyuawwy downwoad them and a-add t-them to the instance.</translation>
+        <translation type="vanished">The fowwowing fiwes awe nyot avaiwabwe fow downwoad in thiwd pawty wawty waunchews.&lt;br/&gt;You wiww nyeed to m-manyuawwy wanyuawwy downwoad them and a-add t-them to the instance.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
-        <source>Creating the instance...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Wownloawdwing mods...</translation>
+        <translation type="obsolete">Wownloawdwing mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation type="unfinished">Mod wownloawd</translation>
+        <translation type="obsolete">Mod wownloawd</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Copying Bwocked Mods...</translation>
+        <translation type="vanished">Copying Bwocked Mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Copying Bwocked Mods (%1 o-out of %2 awe donye)</translation>
+        <translation type="obsolete">Copying Bwocked Mods (%1 o-out of %2 awe donye)</translation>
     </message>
 </context>
 <context>
@@ -5643,7 +5602,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="179"/>
         <source>New Instance</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5658,7 +5617,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <translation type="unfinished">&amp;Nyame:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
         <source>No group</source>
         <translation type="unfinished">Nyo gwoup</translation>
     </message>

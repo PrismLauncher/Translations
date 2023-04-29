@@ -1980,36 +1980,31 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Ftb::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>Сортувати за запусками</translation>
+        <translation type="vanished">Сортувати за запусками</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>Сортувати за встановленнями</translation>
+        <translation type="vanished">Сортувати за встановленнями</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Сортувати за назвою</translation>
+        <translation type="vanished">Сортувати за назвою</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>Вибрана версія:</translation>
+        <translation type="vanished">Вибрана версія:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Пошук і фільтр...</translation>
+        <translation type="vanished">Пошук і фільтр...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -5951,66 +5946,50 @@ Please update %1!</source>
         <translation type="obsolete">Перервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
         <source>Getting the manifest...</source>
-        <translation>Отримання маніфесту...</translation>
+        <translation type="vanished">Отримання маніфесту...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
-        <translation>Не вдалося знайти збірку версії %1</translation>
+        <translation type="vanished">Не вдалося знайти збірку версії %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не вдалося зрозуміти маніфест пакету:
+        <translation type="vanished">Не вдалося зрозуміти маніфест пакету:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
-        <source>Resolving mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Недійсний маніфест: Не надана інформація, щоб завантажити файл &quot;%1&quot;!</translation>
+        <translation type="vanished">Недійсний маніфест: Не надана інформація, щоб завантажити файл &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation>Знайдено заблоковані файли</translation>
+        <translation type="vanished">Знайдено заблоковані файли</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Наступні файли не є доступними для завантаження через сторонні програми.&lt;br/&gt;Вам необхідно завантажити їх вручну, та додати їх до збірки.</translation>
+        <translation type="vanished">Наступні файли не є доступними для завантаження через сторонні програми.&lt;br/&gt;Вам необхідно завантажити їх вручну, та додати їх до збірки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation>Створення збірки...</translation>
+        <translation type="vanished">Створення збірки...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>Завантаження модів...</translation>
+        <translation type="vanished">Завантаження модів...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>Завантажити мод</translation>
+        <translation type="vanished">Завантажити мод</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Копіювання модових блоків...</translation>
+        <translation type="obsolete">Копіювання модових блоків...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Копіювання заблокованих модів (%1 з %2 виконано)</translation>
+        <translation type="obsolete">Копіювання заблокованих модів (%1 з %2 виконано)</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
@@ -6365,7 +6344,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="179"/>
         <source>New Instance</source>
         <translation>Нова збірка</translation>
     </message>
@@ -6380,7 +6359,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>&amp;Iм&apos;я:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
         <source>No group</source>
         <translation>Без групи</translation>
     </message>
@@ -7624,7 +7603,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="145"/>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не вдається вибрати недійсну версію :(</translation>
     </message>
 </context>
 <context>
@@ -7809,7 +7788,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ShaderPackPage.h" line="39"/>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">пакет шейдерів</translation>
     </message>
 </context>
 <context>
@@ -7833,7 +7812,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/TexturePackPage.h" line="39"/>
         <source>texture pack</source>
         <extracomment>The singular version of &apos;texture packs&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">пакет текстур</translation>
     </message>
 </context>
 <context>

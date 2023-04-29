@@ -1948,36 +1948,31 @@ Please try again.</source>
 <context>
     <name>Ftb::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>プレイ回数順</translation>
+        <translation type="vanished">プレイ回数順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>インストール数順</translation>
+        <translation type="vanished">インストール数順</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>名前順</translation>
+        <translation type="vanished">名前順</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>バージョン:</translation>
+        <translation type="vanished">バージョン:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>検索とフィルタ...</translation>
+        <translation type="vanished">検索とフィルタ...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -5671,66 +5666,54 @@ MojangかMicrosoftのアカウントを追加してください。</translation>
 <context>
     <name>ModpacksCH::PackInstallTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
         <source>Getting the manifest...</source>
-        <translation>マニフェストを取得中…</translation>
+        <translation type="vanished">マニフェストを取得中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
-        <translation>パックのバージョン %1 が見つかりませんでした</translation>
+        <translation type="vanished">パックのバージョン %1 が見つかりませんでした</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>パックマニフェストを解析できませんでした: 
+        <translation type="vanished">パックマニフェストを解析できませんでした: 
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation>modを解決中…</translation>
+        <translation type="vanished">modを解決中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>無効なマニフェスト: 「%1」をダウンロードするのに必要な有効な情報がありません！</translation>
+        <translation type="vanished">無効なマニフェスト: 「%1」をダウンロードするのに必要な有効な情報がありません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation>ブロックされたファイルが見つかりました</translation>
+        <translation type="vanished">ブロックされたファイルが見つかりました</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下のファイルはサードパーティランチャーでのダウンロードが無効化されています。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
+        <translation type="vanished">以下のファイルはサードパーティランチャーでのダウンロードが無効化されています。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation>起動構成を作成中…</translation>
+        <translation type="vanished">起動構成を作成中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>Mod をダウンロードしています…</translation>
+        <translation type="vanished">Mod をダウンロードしています…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>Mod のダウンロード</translation>
+        <translation type="vanished">Mod のダウンロード</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation>ブロックされたmodをコピー中…</translation>
+        <translation type="vanished">ブロックされたmodをコピー中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>ブロックされたmodをコピー中 (%2 のうち %1 が完了)</translation>
+        <translation type="vanished">ブロックされたmodをコピー中 (%2 のうち %1 が完了)</translation>
     </message>
     <message>
         <source>Copying modpack files</source>
@@ -6065,7 +6048,7 @@ Please update %1!</source>
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="179"/>
         <source>New Instance</source>
         <translation>新しい起動構成</translation>
     </message>
@@ -6080,7 +6063,7 @@ Please update %1!</source>
         <translation>名前:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
         <source>No group</source>
         <translation>グループなし</translation>
     </message>

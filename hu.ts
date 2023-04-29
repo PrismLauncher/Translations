@@ -1985,36 +1985,31 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>Ftb::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>Játszások száma szerinti rendezés</translation>
+        <translation type="vanished">Játszások száma szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>Telepítések száma szerinti rendezés</translation>
+        <translation type="vanished">Telepítések száma szerinti rendezés</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Név szerinti rendezés</translation>
+        <translation type="vanished">Név szerinti rendezés</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>Kiválasztott verzió:</translation>
+        <translation type="vanished">Kiválasztott verzió:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Keresés és szűrés...</translation>
+        <translation type="vanished">Keresés és szűrés...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -5991,66 +5986,54 @@ Kérjük, frissítse a következőt: %1!</translation>
         <translation type="vanished">Megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
         <source>Getting the manifest...</source>
-        <translation>Jegyzék lekérése...</translation>
+        <translation type="vanished">Jegyzék lekérése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
-        <translation>Nem sikerült megtalálni a csomag %1 verzióját</translation>
+        <translation type="vanished">Nem sikerült megtalálni a csomag %1 verzióját</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nem sikerült megérteni a csomag manifesztet:
+        <translation type="vanished">Nem sikerült megérteni a csomag manifesztet:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation>Modok feloldása...</translation>
+        <translation type="vanished">Modok feloldása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Érvénytelen jegyzék: Nem áll rendelkezésre információ a(z) &quot;%1&quot; fájl letöltéséhez!</translation>
+        <translation type="vanished">Érvénytelen jegyzék: Nem áll rendelkezésre információ a(z) &quot;%1&quot; fájl letöltéséhez!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation>Letiltott fájlok találhatók</translation>
+        <translation type="vanished">Letiltott fájlok találhatók</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>A következő fájlok nem tölthetők le harmadik féltől származó launcherekben.&lt;br/&gt;Manuálisan kell letöltenie őket, és hozzá kell adnia a példányhoz.</translation>
+        <translation type="vanished">A következő fájlok nem tölthetők le harmadik féltől származó launcherekben.&lt;br/&gt;Manuálisan kell letöltenie őket, és hozzá kell adnia a példányhoz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation>Példány létrehozása...</translation>
+        <translation type="vanished">Példány létrehozása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>Modok letöltése...</translation>
+        <translation type="vanished">Modok letöltése...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>Mod letöltés</translation>
+        <translation type="vanished">Mod letöltés</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Blokkolt modok másolása...</translation>
+        <translation type="vanished">Blokkolt modok másolása...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Blokkolt modok másolása (%2/%1 kész)</translation>
+        <translation type="vanished">Blokkolt modok másolása (%2/%1 kész)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -6438,7 +6421,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="179"/>
         <source>New Instance</source>
         <translation>Új példány</translation>
     </message>
@@ -6453,7 +6436,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <translation>&amp;Név:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
         <source>No group</source>
         <translation>Nincs csoport</translation>
     </message>

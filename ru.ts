@@ -2041,36 +2041,31 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Ftb::FilterModel</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="30"/>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation>Упорядочить по запускам</translation>
+        <translation type="vanished">Упорядочить по запускам</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="31"/>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation>Упорядочить по установкам</translation>
+        <translation type="vanished">Упорядочить по установкам</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation>Упорядочить по названию</translation>
+        <translation type="vanished">Упорядочить по названию</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>Версия:</translation>
+        <translation type="vanished">Версия:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ftb/FtbPage.ui" line="37"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>Поиск и фильтрация...</translation>
+        <translation type="vanished">Поиск и фильтрация...</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -6143,66 +6138,54 @@ Please update %1!</source>
         <translation type="vanished">Прервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="76"/>
         <source>Getting the manifest...</source>
-        <translation>Получение манифеста...</translation>
+        <translation type="vanished">Получение манифеста...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="84"/>
         <source>Failed to find pack version %1</source>
-        <translation>Не удалось найти сборку версии %1</translation>
+        <translation type="vanished">Не удалось найти сборку версии %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="124"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Невозможно разобрать манифест сборки:
+        <translation type="vanished">Невозможно разобрать манифест сборки:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="135"/>
         <source>Resolving mods...</source>
-        <translation>Определение списка модов...</translation>
+        <translation type="vanished">Определение списка модов...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="147"/>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation>Недопустимый манифест: нет информации для загрузки файла &apos;%1&apos;!</translation>
+        <translation type="vanished">Недопустимый манифест: нет информации для загрузки файла &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="213"/>
         <source>Blocked files found</source>
-        <translation>Найдены заблокированные файлы</translation>
+        <translation type="vanished">Найдены заблокированные файлы</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="214"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Следующие файлы недоступны для загрузки в сторонних лаунчерах.&lt;br/&gt;Вам нужно будет вручную загрузить их и добавить в сборку.</translation>
+        <translation type="vanished">Следующие файлы недоступны для загрузки в сторонних лаунчерах.&lt;br/&gt;Вам нужно будет вручную загрузить их и добавить в сборку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="236"/>
         <source>Creating the instance...</source>
-        <translation>Создание сборки...</translation>
+        <translation type="vanished">Создание сборки...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="294"/>
         <source>Downloading mods...</source>
-        <translation>Получение модов...</translation>
+        <translation type="vanished">Получение модов...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="297"/>
         <source>Mod download</source>
-        <translation>Получение мода</translation>
+        <translation type="vanished">Получение мода</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="359"/>
         <source>Copying Blocked Mods...</source>
-        <translation>Копирование заблокированных модов...</translation>
+        <translation type="vanished">Копирование заблокированных модов...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modpacksch/FTBPackInstallTask.cpp" line="372"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation>Копирование заблокированных модов (%1 из %2 выполнены)</translation>
+        <translation type="vanished">Копирование заблокированных модов (%1 из %2 выполнены)</translation>
     </message>
     <message>
         <source>Copying modpack files...</source>
@@ -6620,7 +6603,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>NewInstanceDialog</name>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="17"/>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="181"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="179"/>
         <source>New Instance</source>
         <translation>Новая сборка</translation>
     </message>
@@ -6635,7 +6618,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>&amp;Название:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="97"/>
+        <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
         <source>No group</source>
         <translation>Без группы</translation>
     </message>
