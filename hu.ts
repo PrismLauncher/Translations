@@ -5205,7 +5205,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="929"/>
         <source>, last played on %1 for %2</source>
-        <translation>, utoljára játszva ekkor: %1, ennyit: %1</translation>
+        <translation>, utoljára játszva ekkor: %1, ennyit: %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
