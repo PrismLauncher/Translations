@@ -1517,7 +1517,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -7170,7 +7170,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="39"/>
         <source>world save</source>
-        <translation>世界の保存</translation>
+        <translation>ワールドのセーブ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalResourceParse.cpp" line="40"/>
@@ -7538,7 +7538,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
         <source>Unrecognized</source>
-        <translation>認識されない</translation>
+        <translation>認識不能</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
@@ -7555,7 +7555,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
         <source>Pack Format</source>
-        <translation>パック形式</translation>
+        <translation>パックフォーマット</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
@@ -7565,7 +7565,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>リソースパックは有効になっていますか? (ZIPのみ有効)</translation>
+        <translation>リソースパックは有効になっているか? (ZIPのみ有効)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
@@ -7635,7 +7635,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation>バージョン選択:</translation>
+        <translation>選んだバージョン:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
@@ -7817,7 +7817,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
         <source>One of the tasks failed!</source>
-        <translation>タスクの1つが失敗しました!</translation>
+        <translation>タスクに1つ失敗しました!</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
@@ -7975,7 +7975,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="54"/>
         <source>Download shaders from online platforms</source>
-        <translation>オンラインシェーダプラットフォームから Mod をダウンロードする</translation>
+        <translation>オンラインプラットフォームからシェーダーをダウンロードする</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
@@ -8310,7 +8310,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
         <source>Download packs</source>
-        <translation>ダウンロードパック</translation>
+        <translation>パックをダウンロード</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="52"/>
@@ -8393,7 +8393,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
         <source>The cat appears in the background and does not serve a purpose, it is purely visual.</source>
-        <translation>猫は背景に表示されますが、目的はありません。純粋に視覚的なものです。</translation>
+        <translation>猫が背景に表示されますが、特に理由や機能はありません。見た目だけです。</translation>
     </message>
 </context>
 <context>
@@ -8598,7 +8598,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation>Java のメジャー バージョンに互換性がありません。ものが壊れる可能性があります。</translation>
+        <translation>Java のメジャー バージョンに互換性がありません。正常に動作しないかもしれません。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
@@ -9348,7 +9348,7 @@ Do you want to continue?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="286"/>
         <source>Open World in MCEdit</source>
-        <translation>MCEditでオープンワールド</translation>
+        <translation>MCEditでワールドを開く</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="312"/>
@@ -9465,7 +9465,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="100"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation>サーバーは、応答で %1 承認ユーザー ハッシュを変更しました。何かが間違っている。</translation>
+        <translation>サーバーは、応答で %1 ユーザー認証ハッシュを変更しました。なにか問題があるようです。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="107"/>
@@ -9497,7 +9497,7 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation>この Microsoft アカウントは未成年であり、家族に関連付けられていません。
+        <translation>この Microsoft アカウントは未成年であり、ファミリーに関連付けられていません。
 
 %1 に従ってアカウントを設定してください。</translation>
     </message>
@@ -9546,7 +9546,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>XBox ユーザー認証の応答を理解できませんでした。</translation>
+        <translation>XBox ユーザー認証の応答を解析できませんでした。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
@@ -9594,7 +9594,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;SSL ハンドシェイクに失敗しました。&lt;/b&gt;&lt;br/&gt;いくつかの原因が考えられます:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Windows を使用しており、ルート証明書を更新する必要があります。未解決の更新プログラムをインストールしてください。&lt;/li&gt; ]&lt;li&gt; ネットワーク上の一部のデバイスが SSL トラフィックを妨害しています。その場合、マインクラフトが起動しないことよりも大きな懸念があります.&lt;/li&gt;&lt;li&gt;おそらく別の何か.詳細については、ログ ファイルを確認してください&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>&lt;b&gt;SSL ハンドシェイクに失敗しました。&lt;/b&gt;&lt;br/&gt;いくつかの原因が考えられます:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Windows を使用している場合は、ルート証明書を更新する必要があります。更新プログラムをインストールしてください。&lt;/li&gt; ]&lt;li&gt; または、ネットワーク上のデバイスがSSL通信を妨害しているかもしれません。その場合、マインクラフトが起動しないこととは別に大きな問題があるかもしれません。&lt;/li&gt;&lt;li&gt;詳細については、ログ ファイルを確認してください&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
