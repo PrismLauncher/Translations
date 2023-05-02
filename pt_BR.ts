@@ -5115,6 +5115,13 @@ Você deseja continuar?</numerusform>
 A exclusão dessa instância pode quebrar as outras instâncias, 
 
 Você deseja continuar?</numerusform>
+            <numerusform>As instâncias a seguir podem fazer referência a arquivos nessa instância:
+
+%1
+
+A exclusão dessa instância pode quebrar as outras instâncias, 
+
+Você deseja continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -7945,7 +7952,7 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>um programa de batch MKLINK para windows a ser usado com o prismlauncher</translation>
     </message>
 </context>
 <context>
@@ -8213,16 +8220,16 @@ Por favor, atualize %1!</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Aviso: Este recurso tem um link simbólico de outro lugar. Sua edição também alterará o original.
+        <translation>
+Aviso: Este recurso tem um &quot;symbolic link&quot; para outro lugar. Sua edição também alterará o original.
 Caminho canônico: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alterará o original.</translation>
+        <translation>
+Aviso: Este recurso tem um &quot;hard link&quot; para outro lugar. Sua edição também alterará o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
@@ -8276,16 +8283,16 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Aviso: Este recurso tem um link simbólico de outro lugar. Sua edição também alterará o original.
+        <translation>
+Aviso: Este recurso tem um &quot;symbolic link&quot; para outro lugar. Sua edição também alterará o original.
 Caminho canônico: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alterará o original.</translation>
+        <translation>
+Aviso: Este recurso tem um &quot;hard link&quot; para outro lugar. Sua edição também alterará o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
@@ -9960,24 +9967,26 @@ Por favor, adicione a sua conta do Minecraft.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este mundo está simbolicamente ligado de outro lugar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este mundo possui um &quot;hard link&quot; para outro lugar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso: Este mundo tem um &quot;symbolic link&quot; para outro lugar. A edição dele também alterará o original.
+Caminho canônico: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso: Esse mundo possui um &quot;hard link&quot; para outro lugar. A edição dele também alterará o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
@@ -10004,7 +10013,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
@@ -10029,7 +10038,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informação e avisos sobre o mundo.</translation>
     </message>
 </context>
 <context>
