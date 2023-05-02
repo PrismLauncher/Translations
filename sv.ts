@@ -1072,64 +1072,165 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <translation>&amp;Grupp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
         <translation>Markera allt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
         <translation>Att avaktivera detta kommer behålla mod-loadern (t.ex. Fabric, Quilt, etc.), men radera modmappen och deras konfigurationer.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
+        <source>Instance Copy Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
         <translation>Kopiera mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
         <translation>Kopiera spelets inställningar som synfält (FOV), maximal bildfrekvens, mm.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
         <translation>Kopiera spelets inställingar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
         <translation>Kopiera sparade världar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
+        <source>Advanced Copy Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
+        <source>Use symbolic or hard links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
+        <source>Symbolic and Hard Link Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
+        <source>Links are supported on most filesystems except FAT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
+        <source>Link each resource individually instead of linking whole folders at once</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
+        <source>Link files recursively</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
+        <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
+        <source>Don&apos;t link saves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
+        <source>Use hard links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
+        <source>Use hard links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="110"/>
+        <source>Use symbolic links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
+        <source>Use symbolic links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
+        <source>CoW (Copy-on-Write) Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
+        <source>Files cloned with reflinks take up no extra space until they are modified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
+        <source>Clone instead of copying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
+        <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
         <translation>Kopiera shaderpaket</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
         <translation>Kopiera servrar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
         <translation>Kopiera resurspaket</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
         <translation>Behåll speltid</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
         <translation>Kopiera skärmdumpar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
         <source>No group</source>
         <translation>Ingen grupp</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
+        <source>Reflinks are supported on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
+        <source>Reflinks aren&apos;t supported on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
+        <source>On Windows, symbolic links may require admin permission to create.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1308,29 +1409,29 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <translation>Exportera instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="406"/>
         <source>Export %1</source>
         <translation>Exportera %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="415"/>
         <source>Overwrite?</source>
         <translation>Skriv över?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="416"/>
         <source>This file already exists. Do you want to overwrite it?</source>
         <translation>Det existerar redan en fil med samma namn. Vill du skriva över den?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="437"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="437"/>
         <source>Unable to export instance</source>
         <translation>Kunde inte exportera instansen</translation>
     </message>
@@ -2036,32 +2137,32 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
 <context>
     <name>GameType</name>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Survival</source>
         <translation>Överlevnad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Creative</source>
         <translation>Kreativt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="97"/>
         <source>Adventure</source>
         <translation>Äventyr</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="99"/>
         <source>Spectator</source>
         <translation>Åskådare</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="104"/>
         <source>Unknown (%1)</source>
         <translation>Okänd (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="106"/>
         <source>Undefined</source>
         <translation>Odefinerat</translation>
     </message>
@@ -2269,17 +2370,17 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
 <context>
     <name>InstanceCopyTask</name>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="26"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="39"/>
         <source>Copying instance %1</source>
         <translation>Kopierar instans %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="44"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
         <source>Instance folder copy failed.</source>
         <translation>Kopiering av instansmapp misslyckades.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="61"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Kopiering av instansmapp har avbrutits.</translation>
     </message>
@@ -2456,7 +2557,7 @@ Var försiktig!</translation>
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="170"/>
+        <location filename="src/launcher/InstanceList.cpp" line="180"/>
         <source>%1 Instance</source>
         <translation>%1-instans</translation>
     </message>
@@ -2760,7 +2861,7 @@ Var försiktig!</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="826"/>
+        <location filename="src/launcher/InstanceList.cpp" line="836"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Kunde inte spara instansen, även efter flera försök. Den blockeras av något.</translation>
     </message>
@@ -4565,7 +4666,7 @@ Anledning:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1529"/>
         <source>Create Shortcut</source>
         <translation>Skapa genväg</translation>
     </message>
@@ -4867,102 +4968,121 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
         <translation type="vanished">VARNING!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
+        <source>There are linked instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1344"/>
+        <source>The following instance(s) might reference files in this instance:
+
+%1
+
+Deleting it could break the other instance(s), 
+
+Do you wish to proceed?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1470"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1582"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Create instance shortcut</source>
         <translation>Skapa instansgenväg</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Kunde inte hitta skrivbordet?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1470"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Launchern är i mappen som den extraherades från och kan därför inte skapa genvägar.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1582"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Skapade en genväg till denna instans på skrivbordet!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Kunde inte skapa en genväg för instansen!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>Launchern kör som felkonfigurerad AppImage? (systemvariabeln $APPIMAGE saknas)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Kunde inte skapa ikon för genvägen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>Skrivbordsobjekt (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Not supported on your platform!</source>
         <translation>Stöds inte på din plattform!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1675"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <source>Rename Instance</source>
         <translation>Byt namn på instans</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1688"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Din instansmapp innehåller &apos;!&apos; vilket kan orsaka problem för Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1690"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Du har nu två alternativ: &lt;br/&gt; - ändra instansmappen i inställningarna &lt;br/&gt; - flytta denna installation i %1 till en annan mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1699"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Detta är ett problem: &lt;br/&gt; - Launchern kommer sannolikt raderas utan varning av operativsystemet &lt;br/&gt; - stäng launchern nu och extrahera den till en riktig plats, inte en tillfällig mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1706"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1720"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Din instansmapp innehåller &apos;Rar$&apos; - vilket betyder att du inte har extraherat arkivet för launchern!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1728"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Din instansmapp befinner sig i en temporär mapp: &apos;%1&apos;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
         <source>Total playtime: %1</source>
         <translation>Sammanlagd speltid: %1</translation>
     </message>
@@ -5467,63 +5587,76 @@ Vänligen lägg till ditt Mojang- eller Minecraft-konto.</translation>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="81"/>
         <source>Folder</source>
         <translation>Mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="83"/>
         <source>File</source>
         <translation>Fil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="108"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="149"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="151"/>
         <source>Last changed</source>
         <translation>Senast ändrad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="153"/>
         <source>Provider</source>
         <translation>Leverantör</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="162"/>
         <source>Is the mod enabled?</source>
         <translation>Är moddet aktiverad?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
         <source>The name of the mod.</source>
         <translation>Namnet på moddet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="166"/>
         <source>The version of the mod.</source>
         <translation>Versionen av moddet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="168"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>Datumet och tiden som moddet senast ändrades (eller lades till).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>Where the mod was downloaded from.</source>
         <translation>Var moddet laddades ner från.</translation>
     </message>
@@ -7558,6 +7691,11 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <source>Sort by Newest</source>
         <translation>Sortera efter nyaste</translation>
     </message>
+    <message>
+        <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
+        <source>a batch MKLINK program for windows to be used with prismlauncher</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourceDownload::ModDownloadDialog</name>
@@ -7820,29 +7958,42 @@ Vänligen uppdatera %1!</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="428"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="477"/>
         <source>Last modified</source>
         <translation>Senast ändrad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="485"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Är resursen aktiverad?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="488"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Namnet på resursen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="491"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Datumet och tiden när denna resurs senast ändrades (eller lades till).</translation>
@@ -7855,39 +8006,52 @@ Vänligen uppdatera %1!</translation>
         <translation type="vanished">Är resurspaketet påslaget?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="71"/>
         <source>Unrecognized</source>
         <translation>Okänt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="148"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>Resurspaketets format-ID, samt Minecraft-versionen det designades för.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="100"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="133"/>
         <source>Pack Format</source>
         <translation>Paketformat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="135"/>
         <source>Last changed</source>
         <translation>Senast ändrat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="143"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
         <translation>Är resurspaketet aktiverat? (Endast giltigt för ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="145"/>
         <source>The name of the resource pack.</source>
         <translation>Namnet på resurspaketet.</translation>
     </message>
@@ -7896,7 +8060,7 @@ Vänligen uppdatera %1!</translation>
         <translation type="vanished">Versionen på resurspaketet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="150"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>Datumet och tiden när detta resurspaket senast ändrades (eller lades till).</translation>
     </message>
@@ -9535,45 +9699,78 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
+        <source>This world is symbolically linked from elsewhere.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
+        <source>
+This world is hard linked elsewhere.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="292"/>
         <source>Game Mode</source>
         <translation>Spelläge</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="294"/>
         <source>Last Played</source>
         <translation>Senast spelad</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="297"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Storlek</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
+        <source>Info</source>
+        <extracomment>special warnings?</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
         <source>The name of the world.</source>
         <translation>Världens namn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="311"/>
         <source>Game mode of the world.</source>
         <translation>Världens spelläge.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="313"/>
         <source>Date and time the world was last played.</source>
         <translation>Datum och tid då världen senast spelades.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="315"/>
         <source>Size of the world on disk.</source>
         <translation>Diskutrymme som används av världen.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
+        <source>Information and warnings about the world.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9653,7 +9850,7 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
         <translation>Världar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="144"/>
         <source>Context menu</source>
         <translation>Kontextmeny</translation>
     </message>
@@ -9672,68 +9869,68 @@ Världen kommer att vara borta för alltid (EN VÄLDIGT LÅNG TID).
 Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="229"/>
         <source>Open World Datapacks Folder</source>
         <translation>Öppna världens datapaket-mapp</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="287"/>
         <source>Open World in MCEdit</source>
         <translation>Öppna världen i MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
         <source>No MCEdit found or set up!</source>
         <translation>Inget MCEdit hittat eller inställt!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="314"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Du har inte ställt in MCEdit eller så har det flyttats.
 Du kan ordna det i de globala inställningarna.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
         <source>MCEdit failed to start!</source>
         <translation>Misslyckades att starta MCEdit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="324"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>Misslyckades att starta MCEdit.
 Det kan vara nödvändigt att installera om det.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>Select a Minecraft world zip</source>
         <translation>Välj en Minecraft-värld (ZIP-format)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>Minecraftvärld (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="412"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Copy World</source>
         <translation>Kopiera värld</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Att ändra en värld samtidigt som Minecraft körs kan potentiellt skada den.
 Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
         <source>Confirm Deletion</source>
         <translation>Bekräfta radering</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="199"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -9744,23 +9941,23 @@ Världen kan försvinna för alltid (VÄLDIGT LÄNGE).
 Är du säker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
         <source>World name</source>
         <translation>Världens namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Enter a new name for the copy.</source>
         <translation>Välj ett nytt namn för kopian.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
         <source>Rename World</source>
         <translation>Byt namn på världen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
         <source>Enter a new world name.</source>
         <translation>Ange ett nytt namn på världen.</translation>
     </message>

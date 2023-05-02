@@ -1088,64 +1088,165 @@ Please update both your operating system and %1.</source>
         <translation>그룹 (&amp;G)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
         <translation>모두 선택</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
         <translation>이 기능을 비활성화하면 모드 로더(예: 패브릭, 퀼트 등)는 계속 유지되지만 모드 폴더와 해당 구성은 지워집니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
+        <source>Instance Copy Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
         <translation>모드 복사</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
         <translation>FOV, 최대 프레임 속도 등과 같은 게임 내 옵션을 복사합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
         <translation>게임 옵션 복사</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
         <translation>세계 복사</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
+        <source>Advanced Copy Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
+        <source>Use symbolic or hard links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
+        <source>Symbolic and Hard Link Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
+        <source>Links are supported on most filesystems except FAT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
+        <source>Link each resource individually instead of linking whole folders at once</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
+        <source>Link files recursively</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
+        <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
+        <source>Don&apos;t link saves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
+        <source>Use hard links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
+        <source>Use hard links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="110"/>
+        <source>Use symbolic links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
+        <source>Use symbolic links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
+        <source>CoW (Copy-on-Write) Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
+        <source>Files cloned with reflinks take up no extra space until they are modified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
+        <source>Clone instead of copying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
+        <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
         <translation>셰이더 팩 복사</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
         <translation>서버 복사</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
         <translation>리소스 팩 복사</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
         <translation>실행 시간 유지</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
         <translation>스크린샷 복사</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
         <source>No group</source>
         <translation>그룹 없음</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
+        <source>Reflinks are supported on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
+        <source>Reflinks aren&apos;t supported on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
+        <source>On Windows, symbolic links may require admin permission to create.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1324,29 +1425,29 @@ Please update both your operating system and %1.</source>
         <translation>인스턴스 내보내기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="406"/>
         <source>Export %1</source>
         <translation>%1 내보내기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="415"/>
         <source>Overwrite?</source>
         <translation>덮어쓸까요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="416"/>
         <source>This file already exists. Do you want to overwrite it?</source>
         <translation>동일한 이름의 파일이 존재합니다. 덮어쓸까요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="437"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="437"/>
         <source>Unable to export instance</source>
         <translation>인스턴스를 내보낼 수 없음</translation>
     </message>
@@ -2052,32 +2153,32 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>GameType</name>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Survival</source>
         <translation>서바이벌</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Creative</source>
         <translation>크리에이티브</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="97"/>
         <source>Adventure</source>
         <translation>모험</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="99"/>
         <source>Spectator</source>
         <translation>관전자</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="104"/>
         <source>Unknown (%1)</source>
         <translation>알 수 없음 (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="106"/>
         <source>Undefined</source>
         <translation>정의되지 않음</translation>
     </message>
@@ -2278,17 +2379,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceCopyTask</name>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="26"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="39"/>
         <source>Copying instance %1</source>
         <translation>인스턴스 %1 복사 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="44"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
         <source>Instance folder copy failed.</source>
         <translation>인스턴스 폴더 복사에 실패했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="61"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>인스턴스 폴더 복사가 중지됐습니다.</translation>
     </message>
@@ -2457,7 +2558,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="170"/>
+        <location filename="src/launcher/InstanceList.cpp" line="180"/>
         <source>%1 Instance</source>
         <translation>%1 인스턴스</translation>
     </message>
@@ -2765,7 +2866,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="826"/>
+        <location filename="src/launcher/InstanceList.cpp" line="836"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>여러 번의 시도에도 인스턴스를 수정 할 수 없었습니다. 무엇인가에 의해 막힌 것 같습니다.</translation>
     </message>
@@ -4316,7 +4417,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1529"/>
         <source>Create Shortcut</source>
         <translation>바로가기 만들기</translation>
     </message>
@@ -4879,6 +4980,24 @@ Mojang 또는 마인크래프트 계정을 추가하세요.</translation>
         <translation>삭제 확인</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
+        <source>There are linked instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1344"/>
+        <source>The following instance(s) might reference files in this instance:
+
+%1
+
+Deleting it could break the other instance(s), 
+
+Do you wish to proceed?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
         <source>CAREFUL!</source>
         <translation type="vanished">주의!</translation>
     </message>
@@ -4908,102 +5027,102 @@ Are you sure?</source>
 정말 삭제하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1470"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1582"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Create instance shortcut</source>
         <translation>인스턴스 바로 가기 만들기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>바탕 화면을 찾을 수 없습니다?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1470"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>런처가 추출된 폴더에 있으므로, 바로 가기를 만들 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1582"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>바탕 화면의 해당 인스턴스의 바로 가기를 만들었습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
         <source>Failed to create instance shortcut!</source>
         <translation>인스턴스의 바로 가기를 만드는 데 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>런처가 구성되지 않은 앱 이미지로 실행 중인가요? ($APPIMAGE 환경 변수를 찾을 수 없습니다)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>바로 가기의 아이콘을 만드는 데 실패했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>바탕 화면 항목 (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Not supported on your platform!</source>
         <translation>당신의 플랫폼에서 지원되지 않습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1675"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <source>Rename Instance</source>
         <translation>인스턴스 이름 바꾸기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1688"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>인스턴스 폴더에 &apos;!&apos;이 포함되어 있습니다. 이 경우 자바에 문제가 생길 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1690"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>두 가지 옵션이 있습니다: &lt;br/&gt; - 설정에서 인스턴스 폴더를 변경 &lt;br/&gt; - %1 설치를 다른 폴더로 이동</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1699"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>문제가 있습니다: &lt;br/&gt; - 운영체제에 의해 경고 없이 런처가 삭제될 수 있습니다 &lt;br/&gt; - 지금 런처를 종료하고 임시 폴더가 아닌 실제 위치로 추출을 합니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1706"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1720"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>인스턴스 폴더에 &apos;Rar$&apos;가 포함되어 있습니다 - 런처 아카이브를 추출하지 않았음을 의미합니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1728"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>인스턴스 폴더는 임시 폴더 &apos;%1&apos;에 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
         <source>Total playtime: %1</source>
         <translation>총 플레이시간: %1</translation>
     </message>
@@ -5520,63 +5639,76 @@ Are you sure?</source>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="81"/>
         <source>Folder</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="83"/>
         <source>File</source>
         <translation>파일</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="108"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="149"/>
         <source>Version</source>
         <translation>버전</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="151"/>
         <source>Last changed</source>
         <translation>최근 수정일</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="153"/>
         <source>Provider</source>
         <translation>제공자</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="162"/>
         <source>Is the mod enabled?</source>
         <translation>모드가 활성 상태입니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
         <source>The name of the mod.</source>
         <translation>모드의 이름입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="166"/>
         <source>The version of the mod.</source>
         <translation>모드의 버전입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="168"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>모드가 마지막으로 수정(또는 추가) 된 날짜와 시간입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>Where the mod was downloaded from.</source>
         <translation>모드가 다운로드된 곳.</translation>
     </message>
@@ -7644,6 +7776,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>Sort by Newest</source>
         <translation>최신순 정렬</translation>
     </message>
+    <message>
+        <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
+        <source>a batch MKLINK program for windows to be used with prismlauncher</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourceDownload::ModDownloadDialog</name>
@@ -7906,29 +8043,42 @@ Please update %1!</source>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="428"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="477"/>
         <source>Last modified</source>
         <translation>최근 수정됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="485"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스가 활성화되었습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="488"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스의 이름.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="491"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>리소스가 최근 수정(혹은 추가)된 날짜와 시간.</translation>
@@ -7941,39 +8091,52 @@ Please update %1!</source>
         <translation type="vanished">리소스 팩이 활성화되어 있습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="71"/>
         <source>Unrecognized</source>
         <translation>인식할 수 없는</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="148"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>리소스 팩의 형식 ID, 디자인된 마인크래프트 버전을 표시함.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="100"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="133"/>
         <source>Pack Format</source>
         <translation>팩 형식</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="135"/>
         <source>Last changed</source>
         <translation>최근 수정일</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="143"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
         <translation>리소스 팩이 활성화되어 있습니까? (ZIP만 유효)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="145"/>
         <source>The name of the resource pack.</source>
         <translation>리소스 팩 이름.</translation>
     </message>
@@ -7982,7 +8145,7 @@ Please update %1!</source>
         <translation type="vanished">리소스 팩 버전.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="150"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>리소스 팩이 마지막으로 수정(또는 추가) 된 날짜와 시간입니다.</translation>
     </message>
@@ -9623,45 +9786,78 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
+        <source>This world is symbolically linked from elsewhere.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
+        <source>
+This world is hard linked elsewhere.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="292"/>
         <source>Game Mode</source>
         <translation>게임 모드</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="294"/>
         <source>Last Played</source>
         <translation>최근 실행일</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="297"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>크기</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
+        <source>Info</source>
+        <extracomment>special warnings?</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
         <source>The name of the world.</source>
         <translation>세계 이름입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="311"/>
         <source>Game mode of the world.</source>
         <translation>세계의 게임 모드입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="313"/>
         <source>Date and time the world was last played.</source>
         <translation>세계가 마지막으로 플레이 된 날짜와 시간입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="315"/>
         <source>Size of the world on disk.</source>
         <translation>디스크에 있는 세계의 크기입니다.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
+        <source>Information and warnings about the world.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9741,7 +9937,7 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
         <translation>세계</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="144"/>
         <source>Context menu</source>
         <translation>컨텍스트 메뉴</translation>
     </message>
@@ -9760,68 +9956,68 @@ Do you want to continue?</source>
 그래도 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="229"/>
         <source>Open World Datapacks Folder</source>
         <translation>세계 데이터 팩 폴더 열기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="287"/>
         <source>Open World in MCEdit</source>
         <translation>세계를 MCEdit으로 열기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit이 설치되지 않았거나 감지되지 않습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="314"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>MCEdit이 없거나 이동되었습니다.
 이는 전역 설정에서 설정 가능합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
         <source>MCEdit failed to start!</source>
         <translation>MCEdit 시작에 실패하였습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="324"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit 시작에 실패하였습니다.
 재설치가 필요할 수도 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>Select a Minecraft world zip</source>
         <translation>마인크래프트 세계 zip 선택하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>마인크래프트 세계 zip 파일 (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="412"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Copy World</source>
         <translation>세계 복사하기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>마인크래프트가 실행중인 동안 세계를 수정하는 것은 잠재적으로 위험합니다.
 그래도 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
         <source>Confirm Deletion</source>
         <translation>삭제 확인</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="199"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -9832,23 +10028,23 @@ Are you sure?</source>
 확실합니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
         <source>World name</source>
         <translation>세계 이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Enter a new name for the copy.</source>
         <translation>복사본을 위한 새로운 이름을 입력하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
         <source>Rename World</source>
         <translation>월드 이름 바꾸기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
         <source>Enter a new world name.</source>
         <translation>새로운 세계 이름을 입력하세요.</translation>
     </message>

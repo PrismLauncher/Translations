@@ -1088,64 +1088,165 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <translation>&amp;Gruppo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
         <translation>Seleziona tutto</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
         <translation>Disabilitando questo conserverà il mod loader (es: Fabric, Quilt, ecc.) ma cancellerà la cartella mods e i file di configurazione.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
+        <source>Instance Copy Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
         <translation>Copia mods</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
         <translation>Copia le opzioni di gioco come FOV, framerate massimo, ecc.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
         <translation>Copia le opzioni di gioco</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
         <translation>Copia salvataggi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
+        <source>Advanced Copy Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
+        <source>Use symbolic or hard links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
+        <source>Symbolic and Hard Link Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
+        <source>Links are supported on most filesystems except FAT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
+        <source>Link each resource individually instead of linking whole folders at once</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
+        <source>Link files recursively</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
+        <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
+        <source>Don&apos;t link saves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
+        <source>Use hard links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
+        <source>Use hard links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="110"/>
+        <source>Use symbolic links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
+        <source>Use symbolic links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
+        <source>CoW (Copy-on-Write) Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
+        <source>Files cloned with reflinks take up no extra space until they are modified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
+        <source>Clone instead of copying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
+        <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
         <translation>Copia pacchetti di shader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
         <translation>Copia i server</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
         <translation>Copia i pacchetti risorse</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
         <translation>Mantieni tempo di gioco</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
         <translation>Copia screenshots</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
         <source>No group</source>
         <translation>Nessun gruppo</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
+        <source>Reflinks are supported on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
+        <source>Reflinks aren&apos;t supported on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
+        <source>On Windows, symbolic links may require admin permission to create.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1324,29 +1425,29 @@ Per favore aggiorna il tuo sistema operativo e PolyMC.</translation>
         <translation>Esporta istanza</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="406"/>
         <source>Export %1</source>
         <translation>Esporta %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="415"/>
         <source>Overwrite?</source>
         <translation>Sovrascrivere?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="416"/>
         <source>This file already exists. Do you want to overwrite it?</source>
         <translation>Questo file esiste già. Vuoi sovrascriverlo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="437"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="437"/>
         <source>Unable to export instance</source>
         <translation>Impossibile esportare l&apos;istanza</translation>
     </message>
@@ -2052,32 +2153,32 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
 <context>
     <name>GameType</name>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Survival</source>
         <translation>Sopravvivenza</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Creative</source>
         <translation>Creativa</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="97"/>
         <source>Adventure</source>
         <translation>Avventura</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="99"/>
         <source>Spectator</source>
         <translation>Spettatore</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="104"/>
         <source>Unknown (%1)</source>
         <translation>Sconosciuto (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="106"/>
         <source>Undefined</source>
         <translation>Non definito</translation>
     </message>
@@ -2289,17 +2390,17 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
 <context>
     <name>InstanceCopyTask</name>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="26"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="39"/>
         <source>Copying instance %1</source>
         <translation>Copiando l&apos;istanza %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="44"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
         <source>Instance folder copy failed.</source>
         <translation>Impossibile copiare la cartella dell&apos;istanza.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="61"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>La copia della cartella dell&apos;istanza è stata annullata.</translation>
     </message>
@@ -2468,7 +2569,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="170"/>
+        <location filename="src/launcher/InstanceList.cpp" line="180"/>
         <source>%1 Instance</source>
         <translation>Istanza %1</translation>
     </message>
@@ -2776,7 +2877,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="826"/>
+        <location filename="src/launcher/InstanceList.cpp" line="836"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Impossibile effettuare il commit dell&apos;istanza, anche dopo più tentativi. È bloccato da qualcosa.</translation>
     </message>
@@ -4351,7 +4452,7 @@ Causa:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1529"/>
         <source>Create Shortcut</source>
         <translation>Crea Collegamento</translation>
     </message>
@@ -4937,6 +5038,25 @@ Questo eliminerà permanentemente la tua istanza.
 Sei sicuro?</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
+        <source>There are linked instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1344"/>
+        <source>The following instance(s) might reference files in this instance:
+
+%1
+
+Deleting it could break the other instance(s), 
+
+Do you wish to proceed?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
         <source>Are you sure you want to delete the group %1</source>
         <translation type="vanished">Sei sicuro di voler eliminare il gruppo %1</translation>
     </message>
@@ -4955,102 +5075,102 @@ L&apos;azione è permanente e cancellerà completamente l&apos;istanza.
 Sei sicuro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1470"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1582"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Create instance shortcut</source>
         <translation>Crea collegamento dell&apos;istanza</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Impossibile trovare un desktop?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1470"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Il launcher è nella cartella da cui è stato estratto, quindi non è possibile creare collegamenti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1582"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Creato un collegamento di questa istanza sul tuo desktop!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Impossibile creare un collegamento!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>Il launcher sta avviando una AppImage mal configurata? (La variabile di sistema $APPIMAGE è mancante)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Impossibile creare un icona per il collegamento.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>Elementi Desktop (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Not supported on your platform!</source>
         <translation>Non supportato sulla tua piattaforma!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1675"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <source>Rename Instance</source>
         <translation>Rinomina istanza</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1688"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>La cartella dell&apos;istanza contiene &apos;!&apos; e questo è noto per causare problemi con Java!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1690"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Ora hai due opzioni: &lt;br/&gt; - cambia la cartella dell&apos;istanza nelle impostazioni &lt;br/&gt; - sposta questa installazione di %1 in una cartella diversa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1699"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Questo è un problema: &lt;br/&gt; - È probabile che il programma di avvio venga eliminato senza preavviso dal sistema operativo &lt;br/&gt; - chiudi ora il programma di avvio ed estrailo in una posizione reale, non in una cartella temporanea</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1706"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1720"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>La cartella dell&apos;istanza contiene &quot;Rar$&quot;, ciò significa che non hai estratto l&apos;archivio del programma di avvio!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1728"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>La cartella dell&apos;istanza &apos;%1&apos; si trova in una cartella temporanea!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
         <source>Total playtime: %1</source>
         <translation>Tempo di gioco totale: %1</translation>
     </message>
@@ -5579,63 +5699,76 @@ Sei sicuro?</translation>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="81"/>
         <source>Folder</source>
         <translation>Cartella</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="83"/>
         <source>File</source>
         <translation>File</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation>Sconosciuto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="108"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="149"/>
         <source>Version</source>
         <translation>Versione</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="151"/>
         <source>Last changed</source>
         <translation>Ultima modifica</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="153"/>
         <source>Provider</source>
         <translation>Fornitore</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="162"/>
         <source>Is the mod enabled?</source>
         <translation>La mod è abilitata?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
         <source>The name of the mod.</source>
         <translation>Il nome della mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="166"/>
         <source>The version of the mod.</source>
         <translation>La versione della mod.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="168"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>La data e l&apos;ora in cui questa mod è stata modificata (o aggiunta).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>Where the mod was downloaded from.</source>
         <translation>Da dove la mod è stata scaricata.</translation>
     </message>
@@ -7695,6 +7828,11 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <source>Sort by Newest</source>
         <translation>Ordina per Data di Creazione</translation>
     </message>
+    <message>
+        <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
+        <source>a batch MKLINK program for windows to be used with prismlauncher</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourceDownload::ModDownloadDialog</name>
@@ -7957,29 +8095,42 @@ Per favore aggiorna %1!</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="428"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="477"/>
         <source>Last modified</source>
         <translation>Ultima modifica</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="485"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>La risorsa è abilitata?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="488"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Il nome della risorsa.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="491"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>La data e l&apos;ora in cui questa risorsa è stata modificata (o aggiunta).</translation>
@@ -7992,39 +8143,52 @@ Per favore aggiorna %1!</translation>
         <translation type="vanished">Il pacchetto di risorse è abilitato?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="71"/>
         <source>Unrecognized</source>
         <translation>Non riconosciuto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="148"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>L&apos;ID del formato del pacchetto di risorse e le versioni di Minecraft per cui è stato creato.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="100"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="133"/>
         <source>Pack Format</source>
         <translation>Formato pacchetto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="135"/>
         <source>Last changed</source>
         <translation>Ultima modifica</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="143"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
         <translation>Il pacchetto di risorse è abilitato? (valido solo per ZIP)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="145"/>
         <source>The name of the resource pack.</source>
         <translation>Il nome del pacchetto di risorse.</translation>
     </message>
@@ -8033,7 +8197,7 @@ Per favore aggiorna %1!</translation>
         <translation type="vanished">La versione del pacchetto di risorse.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="150"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>La data e l&apos;ora in cui questo pacchetto di risorse è stato modificato (o aggiunto).</translation>
     </message>
@@ -9674,45 +9838,78 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
+        <source>This world is symbolically linked from elsewhere.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
+        <source>
+This world is hard linked elsewhere.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="292"/>
         <source>Game Mode</source>
         <translation>Modalità</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="294"/>
         <source>Last Played</source>
         <translation>Giocato l&apos;ultima volta</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="297"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Dimensione</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
+        <source>Info</source>
+        <extracomment>special warnings?</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
         <source>The name of the world.</source>
         <translation>Il nome del mondo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="311"/>
         <source>Game mode of the world.</source>
         <translation>Modalità del mondo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="313"/>
         <source>Date and time the world was last played.</source>
         <translation>Data e ora dell&apos;ultima volta che hai giocato nel mondo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="315"/>
         <source>Size of the world on disk.</source>
         <translation>Dimensione su disco del mondo.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
+        <source>Information and warnings about the world.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9792,7 +9989,7 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
         <translation>Mondi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="144"/>
         <source>Context menu</source>
         <translation>Menu contestuale</translation>
     </message>
@@ -9811,68 +10008,68 @@ Il mondo andrà perso per sempre (PER MOLTO TEMPO).
 Vuoi continuare?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="229"/>
         <source>Open World Datapacks Folder</source>
         <translation>Apri cartella Datapacks del mondo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="287"/>
         <source>Open World in MCEdit</source>
         <translation>Apri mondo in MCEdit</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
         <source>No MCEdit found or set up!</source>
         <translation>Non è stata trovata alcuna installazione di MCEdit!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="314"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Non esiste un&apos;installazione di MCEdit o è stata spostata.
 Puoi impostarla nelle impostazioni globali.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
         <source>MCEdit failed to start!</source>
         <translation>Impossibile avviare PolyMC!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="324"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>MCEdit non riesce ad avviarsi.
 Potrebbe essere necessario reinstallarlo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>Select a Minecraft world zip</source>
         <translation>Seleziona il file zip di un mondo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>File zip del mondo (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="412"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Copy World</source>
         <translation>Copia Mondo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Cambiare un mondo mentre Minecraft è in esecuzione è molto pericoloso.
 Sei sicuro di voler procedere?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
         <source>Confirm Deletion</source>
         <translation>Conferma Eliminazione</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="199"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -9883,23 +10080,23 @@ Il mondo potrebbe essere eliminato per sempre (UN SACCO DI TEMPO).
 Sei sicuro?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
         <source>World name</source>
         <translation>Nome mondo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Enter a new name for the copy.</source>
         <translation>Inserisci il nome della copia.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
         <source>Rename World</source>
         <translation>Rinomina mondo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
         <source>Enter a new world name.</source>
         <translation>Inserisci il nome del nuovo mondo.</translation>
     </message>

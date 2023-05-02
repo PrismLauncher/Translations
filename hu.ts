@@ -1084,64 +1084,165 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>&amp;Csoport</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="129"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
         <translation>Mind kijelölése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="143"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
         <translation>Ennek letiltása továbbra is megtartja a mod loadert (pl. Fabric, Quilt stb.), de törli a mods mappát és azok beállításait.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="146"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
+        <source>Instance Copy Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
         <translation>Modok másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="153"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
         <translation>Másold ki a játékon belüli beállításokat, mint például a FOV, max framerate, stb.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="156"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
         <translation>Játékbeállítások másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="163"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
         <translation>Mentések másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="170"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
+        <source>Advanced Copy Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
+        <source>Use symbolic or hard links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
+        <source>Symbolic and Hard Link Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
+        <source>Links are supported on most filesystems except FAT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
+        <source>Link each resource individually instead of linking whole folders at once</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
+        <source>Link files recursively</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
+        <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
+        <source>Don&apos;t link saves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
+        <source>Use hard links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
+        <source>Use hard links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="110"/>
+        <source>Use symbolic links instead of copying files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
+        <source>Use symbolic links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
+        <source>CoW (Copy-on-Write) Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
+        <source>Files cloned with reflinks take up no extra space until they are modified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
+        <source>Clone instead of copying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
+        <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
         <translation>Shader csomagok másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="177"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
         <translation>Szerverek másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="187"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
         <translation>Erőforrás-csomagok másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="194"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
         <translation>Játékidő megtartása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="201"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
         <translation>Képernyőképek másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
         <source>No group</source>
         <translation>Nincs csoport</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
+        <source>Reflinks are supported on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
+        <source>Reflinks aren&apos;t supported on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
+        <source>On Windows, symbolic links may require admin permission to create.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1320,29 +1421,29 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>Példány exportálása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="404"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="406"/>
         <source>Export %1</source>
         <translation>%1 exportálása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="413"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="415"/>
         <source>Overwrite?</source>
         <translation>Felülírja?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="414"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="416"/>
         <source>This file already exists. Do you want to overwrite it?</source>
         <translation>Ez a fájl már létezik. Szeretnéd felülírni?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="437"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="429"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="434"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="431"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="437"/>
         <source>Unable to export instance</source>
         <translation>Nem lehet exportálni a példányt</translation>
     </message>
@@ -2040,32 +2141,32 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>GameType</name>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="91"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="93"/>
         <source>Survival</source>
         <translation>Túlélés</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="93"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="95"/>
         <source>Creative</source>
         <translation>Kreatív</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="97"/>
         <source>Adventure</source>
         <translation>Kaland</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="97"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="99"/>
         <source>Spectator</source>
         <translation>Néző</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="102"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="104"/>
         <source>Unknown (%1)</source>
         <translation>Ismeretlen (%1)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/World.cpp" line="104"/>
+        <location filename="src/launcher/minecraft/World.cpp" line="106"/>
         <source>Undefined</source>
         <translation>Nem definiált</translation>
     </message>
@@ -2273,17 +2374,17 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>InstanceCopyTask</name>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="26"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="39"/>
         <source>Copying instance %1</source>
         <translation>%1 példány másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="44"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
         <source>Instance folder copy failed.</source>
         <translation>A példánymappa másolása sikertelen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="61"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>A példánymappa másolása megszakadt.</translation>
     </message>
@@ -2452,7 +2553,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>InstanceList</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="170"/>
+        <location filename="src/launcher/InstanceList.cpp" line="180"/>
         <source>%1 Instance</source>
         <translation>%1 példány</translation>
     </message>
@@ -2760,7 +2861,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="826"/>
+        <location filename="src/launcher/InstanceList.cpp" line="836"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>A példány véglegesítése még többszöri újrapróbálkozás után sem sikerült. Valami blokkolja.</translation>
     </message>
@@ -4314,7 +4415,7 @@ Indok:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1515"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1529"/>
         <source>Create Shortcut</source>
         <translation>Parancsikon</translation>
     </message>
@@ -4876,6 +4977,24 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
         <translation>Törlés megerősítése</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
+        <source>There are linked instances</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1344"/>
+        <source>The following instance(s) might reference files in this instance:
+
+%1
+
+Deleting it could break the other instance(s), 
+
+Do you wish to proceed?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
         <source>CAREFUL!</source>
         <translation type="vanished">ÓVATOSAN!</translation>
     </message>
@@ -4905,102 +5024,102 @@ Ez végleges és törli a példány minden adatát.
 Biztos vagy benne?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1470"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1582"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Create instance shortcut</source>
         <translation>Példány parancsikon létrehozása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1449"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Nem találtad az asztalt?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1456"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1470"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Az launcher abban a mappában található, amelyből kicsomagolta, ezért nem tud parancsikonokat létrehozni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1463"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1526"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1477"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1540"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1582"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Létrehozott egy parancsikont ehhez a példányhoz az asztalon!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1467"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1531"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1481"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Nem sikerült létrehozni a példány parancsikonját!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1476"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>A launcher rosszul konfigurált AppImage-ként fut? (A $APPIMAGE környezeti változó hiányzik)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1495"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1549"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1561"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Nem sikerült létrehozni a parancsikon ikonját.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1516"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>Asztali bejegyzések (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1576"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
         <source>Not supported on your platform!</source>
         <translation>Nem támogatott az ön platformján!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1675"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1689"/>
         <source>Rename Instance</source>
         <translation>Példány átnevezése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1688"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1702"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>A példánymappája a következőt tartalmazza: &quot;!&quot; és ez köztudottan Java problémákat okoz!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1690"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1704"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Most két lehetősége van: 1&lt;br/&gt; - módosítsa a példány mappáját a beállításokban &lt;br/&gt; - áthelyezi a(z) %1 telepítését egy másik mappába</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1699"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1713"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Ez a baj: &lt;br/&gt; - Az launcher valószínűleg figyelmeztetés nélkül törölve lesz az operációs rendszer által &lt;br/&gt; - zárja be a launchert, és csomagolja ki egy valós helyre, ne egy ideiglenes mappába</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1706"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1720"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>A példánymappája a „Rar$” elemet tartalmazza – ez azt jelenti, hogy nem bontotta ki az indítóarchívumot!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1728"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Példánymappája egy ideiglenes mappában található: &quot;%1&quot;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
         <source>Total playtime: %1</source>
         <translation>Teljes játékidő: %1</translation>
     </message>
@@ -5517,63 +5636,76 @@ Biztos vagy benne?</translation>
 <context>
     <name>ModFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="76"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="81"/>
         <source>Folder</source>
         <translation>Mappák</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="83"/>
         <source>File</source>
         <translation>Fájl</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="90"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="95"/>
         <source>Unknown</source>
         <extracomment>Unknown mod provider (i.e. not Modrinth, CurseForge, etc...)</extracomment>
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="125"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="108"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="127"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="149"/>
         <source>Version</source>
         <translation>Verzió</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="129"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="151"/>
         <source>Last changed</source>
         <translation>Utoljára változtatva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="131"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="153"/>
         <source>Provider</source>
         <translation>Szolgáltató</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="140"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="162"/>
         <source>Is the mod enabled?</source>
         <translation>A mod engedélyezve van?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="142"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
         <source>The name of the mod.</source>
         <translation>A mod neve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="144"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="166"/>
         <source>The version of the mod.</source>
         <translation>A mod verziója.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="146"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="168"/>
         <source>The date and time this mod was last changed (or added).</source>
         <translation>A dátum és az idő, amikor ez a mod utoljára módosult (vagy amikor hozzá lett adva).</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="148"/>
+        <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>Where the mod was downloaded from.</source>
         <translation>Ahonnan letöltötték a modot.</translation>
     </message>
@@ -7642,6 +7774,11 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <source>Sort by Newest</source>
         <translation>Legújabbak szerinti rendezés</translation>
     </message>
+    <message>
+        <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
+        <source>a batch MKLINK program for windows to be used with prismlauncher</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ResourceDownload::ModDownloadDialog</name>
@@ -7904,29 +8041,42 @@ Kérjük, frissítse a következőt: %1!</translation>
 <context>
     <name>ResourceFolderModel</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="451"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="428"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="453"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="477"/>
         <source>Last modified</source>
         <translation>Utoljára módosítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="461"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="485"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Az erőforrás engedélyezve van?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="464"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="488"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Az erőforrás neve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="467"/>
+        <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="491"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
         <translation>Az erőforrás legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
@@ -7939,39 +8089,52 @@ Kérjük, frissítse a következőt: %1!</translation>
         <translation type="vanished">Az erőforráscsomag engedélyezve van?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="66"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="71"/>
         <source>Unrecognized</source>
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="85"/>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="126"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="148"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
         <translation>Az erőforráscsomag formátumazonosítója, valamint a Minecraft verziók, amelyekhez tervezték.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="109"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="100"/>
+        <source>
+Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
+        <source>
+Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="111"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="133"/>
         <source>Pack Format</source>
         <translation>Csomag formátum</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="113"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="135"/>
         <source>Last changed</source>
         <translation>Utoljára módosítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="143"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
         <translation>Az erőforráscsomag engedélyezve van? (Csak ZIP-re érvényes)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="123"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="145"/>
         <source>The name of the resource pack.</source>
         <translation>Az erőforráscsomag neve.</translation>
     </message>
@@ -7980,7 +8143,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <translation type="vanished">Az erőforráscsomag verziója.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="128"/>
+        <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="150"/>
         <source>The date and time this resource pack was last changed (or added).</source>
         <translation>Az erőforráscsomag utolsó módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
@@ -9607,45 +9770,78 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="269"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
+        <source>This world is symbolically linked from elsewhere.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
+        <source>
+This world is hard linked elsewhere.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
+Canonical Path: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="271"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="292"/>
         <source>Game Mode</source>
         <translation>Játékmód</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="273"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="294"/>
         <source>Last Played</source>
         <translation>Utoljára játszva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="276"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="297"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Méret</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="285"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
+        <source>Info</source>
+        <extracomment>special warnings?</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
         <source>The name of the world.</source>
         <translation>A világ neve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="287"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="311"/>
         <source>Game mode of the world.</source>
         <translation>A világ játékmódja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="313"/>
         <source>Date and time the world was last played.</source>
         <translation>A világ legutóbbi játszásának dátuma és ideje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="315"/>
         <source>Size of the world on disk.</source>
         <translation>Világ mérete a lemezen.</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
+        <source>Information and warnings about the world.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9725,7 +9921,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
         <translation>Világok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="143"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="144"/>
         <source>Context menu</source>
         <translation>Menü</translation>
     </message>
@@ -9744,68 +9940,68 @@ A világ örökre eltűnik (hosszú idő).
 Akarod folytatni?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="228"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="229"/>
         <source>Open World Datapacks Folder</source>
         <translation>Nyissa meg a világ datapacks mappáját</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="286"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="287"/>
         <source>Open World in MCEdit</source>
         <translation>Nyissa meg a világot az MCEdit-ben</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
         <source>No MCEdit found or set up!</source>
         <translation>MCEdit nem található vagy beállítva!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="313"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="314"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
         <translation>Nincs MCEdit beállítva, vagy áthelyezve.
 Beállíthatja a globális beállításokban.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="322"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
         <source>MCEdit failed to start!</source>
         <translation>Az MCEdit nem indult el!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="324"/>
         <source>MCEdit failed to start.
 It may be necessary to reinstall it.</source>
         <translation>Az MCEdit nem indult el.
 Lehet, hogy újra kell telepítenie.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>Select a Minecraft world zip</source>
         <translation>Válassza ki a Minecraft világ zipjét</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>Minecraft World Zip fájl (* .zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="412"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
         <source>Copy World</source>
         <translation>Világ másolása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="394"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>A Minecraft futása alatt álló világ megváltoztatása potenciálisan nem biztonságos.
 Folytatni akarja?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
         <source>Confirm Deletion</source>
         <translation>Törlés megerősítése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="199"/>
         <source>You are about to delete &quot;%1&quot;.
 The world may be gone forever (A LONG TIME).
 
@@ -9816,23 +10012,23 @@ Lehet, hogy a világ örökre eltűnik (AMI HOSSZÚ IDŐ).
 Biztos vagy ebben?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
         <source>World name</source>
         <translation>Világ neve</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="418"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Enter a new name for the copy.</source>
         <translation>Adjon meg egy új nevet a másolat számára.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="434"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
         <source>Rename World</source>
         <translation>Világ átnevezése</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="441"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
         <source>Enter a new world name.</source>
         <translation>Adjon meg egy új világnevet.</translation>
     </message>
