@@ -5115,13 +5115,6 @@ Você deseja continuar?</numerusform>
 A exclusão dessa instância pode quebrar as outras instâncias, 
 
 Você deseja continuar?</numerusform>
-            <numerusform>As instâncias a seguir podem fazer referência a arquivos nessa instância:
-
-%1
-
-A exclusão dessa instância pode quebrar as outras instâncias, 
-
-Você deseja continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -8220,13 +8213,16 @@ Por favor, atualize %1!</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aviso: Este recurso tem um link simbólico de outro lugar. Sua edição também alterará o original.
+Caminho canônico: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alterará o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
@@ -8280,13 +8276,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aviso: Este recurso tem um link simbólico de outro lugar. Sua edição também alterará o original.
+Caminho canônico: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alterará o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
