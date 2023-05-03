@@ -1167,12 +1167,12 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>Se a opção &quot;copiar salvamentos&quot; for selecionada, os dados salvos de mundos serão copiados em vez de vinculados e, portanto, não serão compartilhados entre as instâncias.</translation>
+        <translation>Se a opção &quot;copiar mundos&quot; for selecionada, os dados salvos de mundos serão copiados em vez de vinculados e, portanto, não serão compartilhados entre as instâncias.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation>Não vincule salvamentos</translation>
+        <translation>Não vincule mundos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
@@ -5105,7 +5105,7 @@ Do you wish to proceed?</source>
 
 %1
 
-A exclusão dela pode quebrar a outra instância, 
+A exclusão dessa instância pode quebrar a outra instância, 
 
 Você deseja continuar?</numerusform>
             <numerusform>As instâncias a seguir podem fazer referência a arquivos nessa instância:
@@ -5115,6 +5115,7 @@ Você deseja continuar?</numerusform>
 A exclusão dessa instância pode quebrar as outras instâncias, 
 
 Você deseja continuar?</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8222,7 +8223,7 @@ Caminho canônico: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Aviso: Este recurso tem um &quot;hard link&quot; para outro lugar. Sua edição também alterará o original.</translation>
+Aviso: Este recurso tem links físicos para outro lugar. Sua edição também alterará o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
@@ -8285,7 +8286,7 @@ Caminho canônico: %1</translation>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Aviso: Este recurso tem um &quot;hard link&quot; para outro lugar. Sua edição também alterará o original.</translation>
+Aviso: Este recurso tem links físicos para outro lugar. Sua edição também alterará o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
@@ -9967,7 +9968,7 @@ Por favor, adicione a sua conta do Minecraft.</translation>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
-Este mundo possui um &quot;hard link&quot; para outro lugar.</translation>
+Este mundo possui um link físico para outro lugar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
@@ -9979,7 +9980,7 @@ Caminho canônico: %1</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>Aviso: Esse mundo possui um &quot;hard link&quot; para outro lugar. A edição dele também alterará o original.</translation>
+        <translation>Aviso: Este mundo possui um link físico para outro lugar. A edição dele também alterará o original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
