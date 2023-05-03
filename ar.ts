@@ -3549,7 +3549,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="212"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="226"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تعطلت اللعبة.</translation>
     </message>
 </context>
 <context>
@@ -5768,7 +5768,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="45"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لن يتم تحديث المودات المعطلة, لمنع مشاكل تكرار المودات!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="91"/>
@@ -6012,7 +6012,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="126"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">جاري تنفيذ %1 مهمة/مهمات(٪2 من ٪3 تم)</translation>
     </message>
 </context>
 <context>
@@ -6948,7 +6948,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تعذر العثور على مكتبة مدقق الجافا. يرجى التحقق من التثبيت الخاص بك.</translation>
     </message>
     <message>
         <location filename="src/launcher/meta/BaseEntity.cpp" line="129"/>
@@ -8541,7 +8541,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لا يوجد إصدار متوفر حاليا ل&quot;ماين كرافت&quot; 1%</translation>
     </message>
 </context>
 <context>
