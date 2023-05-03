@@ -5115,13 +5115,6 @@ Você deseja continuar?</numerusform>
 A exclusão dessa instância pode quebrar as outras instâncias, 
 
 Você deseja continuar?</numerusform>
-            <numerusform>As instâncias a seguir podem fazer referência a arquivos nessa instância:
-
-%1
-
-A exclusão dessa instância pode quebrar as outras instâncias, 
-
-Você deseja continuar?</numerusform>
         </translation>
     </message>
     <message>
