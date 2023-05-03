@@ -5115,7 +5115,6 @@ Você deseja continuar?</numerusform>
 A exclusão dessa instância pode quebrar as outras instâncias, 
 
 Você deseja continuar?</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>

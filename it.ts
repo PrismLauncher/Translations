@@ -5066,7 +5066,6 @@ Vuoi procedere?</numerusform>
 L&apos;eliminazione potrebbe rompere le altre istanze,
 
 Vuoi procedere?</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>
