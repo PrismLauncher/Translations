@@ -1175,12 +1175,12 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn &quot;Welten kopieren&quot; ausgewählt ist werden Welten kopiert anstatt gelinkt und deshalb nicht zwischen Instanzen geteilt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Welten nicht linken</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
@@ -1211,7 +1211,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien die mit Reflinks geklont wurden verbrauchen keinen extra Speicherplatz bis sie modifiziert werden.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1221,7 +1221,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Dein Dateisystem und/oder Betriebssystem unterstützt Reflinks nicht</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1256,12 +1256,12 @@ Bitte aktualisiere macOS und PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks werden auf %1 unterstützt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks werden nicht auf %1 unterstützt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
@@ -5118,9 +5118,21 @@ Bist Du Dir sicher?</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Die folgende Instanz verweist möglicherweise auf Dateien in dieser Instanz:
+
+%1
+
+Sie zu löschen könnte die andere Instanz beschädigen,
+
+Möchten Sie fortfahren?</numerusform>
+            <numerusform>Die folgenden Instanzen verweisen möglicherweise auf Dateien in dieser Instanz:
+
+%1
+
+Sie zu löschen könnte die anderen Instanzen beschädigen,
+
+Möchten Sie fortfahren?</numerusform>
         </translation>
     </message>
     <message>
@@ -5786,7 +5798,9 @@ Bist du dir sicher?</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Achtung: Diese Ressource ist symbolisch von woanders verlinkt. Durch die Bearbeitung wird auch das Original verändert.
+Absoluter Pfad: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
