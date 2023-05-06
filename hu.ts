@@ -4998,13 +4998,6 @@ Do you wish to proceed?</source>
 A törlés tönkreteheti a másik példányt,
 
 Szeretné folytatni?</numerusform>
-            <numerusform>A következő példányok hivatkozhatnak fájlokra ebben a példányban:
-
-%1
-
-A törlés tönkreteheti a többi példányt,
-
-Szeretné folytatni?</numerusform>
         </translation>
     </message>
     <message>
@@ -8060,7 +8053,9 @@ Kérjük, frissítse a következőt: %1!</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Figyelmeztetés: Ez az erőforrás szimbolikusan máshonnan kapcsolódik. A szerkesztéssel az eredeti is megváltozik.
+Kanonikus elérési út: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
@@ -8120,7 +8115,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Figyelmeztetés: Ez az erőforrás szimbolikusan máshonnan kapcsolódik. A szerkesztéssel az eredeti is megváltozik.
+Kanonikus elérési út: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>

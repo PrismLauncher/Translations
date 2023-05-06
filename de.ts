@@ -8255,7 +8255,9 @@ Bitte aktualisiere %1!</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Achtung: Diese Ressource ist symbolisch von woanders verlinkt. Durch die Bearbeitung wird auch das Original verändert.
+Absoluter Pfad: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
@@ -8315,7 +8317,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Achtung: Diese Ressource ist symbolisch von woanders verlinkt. Durch die Bearbeitung wird auch das Original verändert.
+Absoluter Pfad: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
