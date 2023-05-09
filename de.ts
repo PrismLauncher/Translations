@@ -3600,7 +3600,7 @@ Möglicherweise musst du deine Mods anpassen, da das Spiel immer noch in Dateien
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Mods</source>
-        <translation>Mods</translation>
+        <translation>mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
@@ -7993,7 +7993,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Batch-MKLINK-Programm für Windows zur Verwendung mit Prismlauncher</translation>
     </message>
 </context>
 <context>
@@ -8261,7 +8261,7 @@ Bitte aktualisiere %1!</translation>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Achtung: Diese Ressource ist symbolisch von woanders verlinkt. Durch die Bearbeitung wird auch das Original verändert.
 Absoluter Pfad: %1</translation>
     </message>
@@ -8269,7 +8269,7 @@ Absoluter Pfad: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird auch das Original verändert.</translation>
     </message>
     <message>
@@ -8324,7 +8324,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Achtung: Diese Ressource ist symbolisch von woanders verlinkt. Durch die Bearbeitung wird auch das Original verändert.
 Absoluter Pfad: %1</translation>
     </message>
@@ -8332,7 +8332,7 @@ Absoluter Pfad: %1</translation>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird auch das Original verändert.</translation>
     </message>
     <message>
@@ -10014,18 +10014,20 @@ Bitte füge dein Mojang- oder Minecraft-Konto hinzu.</translation>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Diese Welt ist woanders fest verknüpft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtung: Diese Welt ist symbolisch von anderswo verbunden. Durch die Bearbeitung wird auch das Original verändert.
+Kanonischer Pfad: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Achtung: Diese Welt ist woanders fest verknüpft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
