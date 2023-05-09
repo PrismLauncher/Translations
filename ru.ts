@@ -8246,7 +8246,7 @@ Please update %1!</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Warning: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование также изменит оригинал.
 Канонический путь: %1</translation>
     </message>
@@ -8254,8 +8254,8 @@ Warning: Этот ресурс связан с другими ресурсами
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Warning: этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
+        <translation>
+Warning: Этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
@@ -8309,7 +8309,7 @@ Warning: этот ресурс связан в другом месте при п
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Warning: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование также изменит оригинал.
 Канонический путь: %1</translation>
     </message>
@@ -8317,8 +8317,8 @@ Warning: Этот ресурс связан с другими ресурсами
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Warning: этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
+        <translation>
+Warning: Этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
