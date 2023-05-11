@@ -2773,7 +2773,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHudi ei leitud sinu süsteemist.</translation>
+        <translation>MangoHudi ei leitud sinu süsteemist.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
@@ -4310,7 +4310,7 @@ Põhjus:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="233"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava arendusblogi, et lugeda rohkem teavet %1 kohta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="339"/>
@@ -6177,7 +6177,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
         <source>No index file.</source>
-        <translation type="unfinished">Indeksifail puudub.</translation>
+        <translation>Indeksifail puudub.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
@@ -6411,7 +6411,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="126"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">%1 ülesande käivitamine (%2/%3 on valmis)</translation>
+        <translation>%1 ülesande käivitamine (%2/%3 on valmis)</translation>
     </message>
 </context>
 <context>
@@ -6666,7 +6666,10 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad kustutama &quot;%1&quot;
+See võib olla püsiv ning see kaob logide kaustast.
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
@@ -7118,7 +7121,10 @@ Choose your name carefully:</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad &quot;%1&quot; üles laadima asukohta %2.
+Peaksid üle kontrollima, et see ei sisaldaks isiklikke andmeid.
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="89"/>
@@ -8087,7 +8093,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad järgnevat %1 alla laadima:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
@@ -8149,14 +8155,18 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>You are about to upload %1 screenshots.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad %1 viite kuvatõmmist üles laadima.
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="391"/>
         <source>You are about to upload the selected screenshot.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad valitud kuvatõmmist üles laadima.
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="415"/>
@@ -8192,7 +8202,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad kustutama &quot;%1&quot;
+See võib olla püsiv ning see kaob kaustast.
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="523"/>
@@ -8200,7 +8213,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad kustutama &quot;%1&quot;
+See võib olla püsiv ning see kaob kaustast.
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
@@ -8322,7 +8338,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Kinnita eemaldamist</translation>
+        <translation>Kinnita eemaldamist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="806"/>
@@ -8330,7 +8346,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad kustutama &quot;%1&quot;
+See on püsiv ning see server kaob sinu nimekirjast igaveseks (PIKK AEG).
+
+Kas oled kindel?</translation>
     </message>
 </context>
 <context>
@@ -9269,7 +9288,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Kinnita eemaldamist</translation>
+        <translation>Kinnita eemaldamist</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="334"/>
@@ -9277,7 +9296,10 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad kustutama &quot;%1&quot;
+See on püsiv ning kustutab kohandatud komponendi täielikult.
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="347"/>
@@ -9366,7 +9388,10 @@ Please add your Mojang or Minecraft account.</source>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad kustutama &quot;%1&quot;
+See on püsiv ning taastab mistahes kohandused täielikult.
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -9816,7 +9841,10 @@ Kas soovid jätkata?</translation>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hakkad kustutama &quot;%1&quot;
+See maailm võib kaduda igaveseks (PIKK AEG).
+
+Kas oled kindel?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
