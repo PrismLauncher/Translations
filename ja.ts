@@ -1618,7 +1618,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -1805,7 +1805,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>より古いバージョン向けに適切なインデックスファイルが見つけられませんでした。これによりいくつかのファイルが重複する可能性があります。続行しますか？</translation>
+        <translation>現在のバージョン向けの適切なインデックスファイルが見つけられませんでした。これによりいくつかのファイルが重複する可能性があります。続行しますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
@@ -1893,7 +1893,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="315"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;こんにちは！&lt;/h1&gt;&lt;h4&gt;パックIDが空のようです。これはランチャーの古いバージョンのバグによるものです。&lt;br/&gt;残念ながら、パックID無しに正常にAPIリクエストを行うことはできません。&lt;br/&gt;&lt;br/&gt;この機能を正常に動かすため、内蔵のダウンローダーからmodpackをを再ダウンロードする必要があります。&lt;br/&gt;&lt;br/&gt;起動構成をアップデートする形で行えるため、データが失われることはありません！&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;こんにちは！&lt;/h1&gt;&lt;h4&gt;パックIDが空のようです。これはランチャーの古いバージョンのバグによるものです。&lt;br/&gt;残念ながら、パックID無しに正常にAPIリクエストを行うことはできません。&lt;br/&gt;&lt;br/&gt;この機能を正常に動かすため、内蔵のダウンローダーからmodpackを再ダウンロードする必要があります。&lt;br/&gt;&lt;br/&gt;起動構成をアップデートする形で行えるため、データは失われません！&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
@@ -2509,7 +2509,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
         <source>Java insta&amp;llation</source>
-        <translation>Javaのインストール(&amp;L)</translation>
+        <translation>Javaの指定(&amp;L)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
@@ -5601,7 +5601,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <source>The mod updater was aborted!</source>
-        <translation>modのアップデーターが中止されました！</translation>
+        <translation>modのアップデートが中止されました！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
@@ -5747,7 +5747,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>「%1」はまだメタデータを持っていません。このmodをどのようにアップデートをすればいいのかに関連した情報を追跡するため、これを生成する必要があります。そのために、modのアップデートがあるか確認することが可能なmodプロバイダを選択してください。</translation>
+        <translation>「%1」のメタデータが見つかりません。このmodをアップデートをするためにこれを生成する必要があります。modのアップデートのために使用するmodプロバイダを選択してください。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
@@ -5762,7 +5762,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>これらのmodでアップデートの確認または取得ができませんでした: &lt;br&gt; これらのmodを抜いて実行しますか？</translation>
+        <translation>これらのmodでアップデートの確認または取得ができませんでした。 &lt;br&gt; これらのmodを除いてアップデートしますか？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
@@ -5782,7 +5782,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
         <source>Old version: %1</source>
-        <translation>古いバージョン: %1</translation>
+        <translation>現在のバージョン: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="360"/>
@@ -5797,7 +5797,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="366"/>
         <source>Changelog of the latest version</source>
-        <translation>最新バージョンの更新履歴</translation>
+        <translation>最新バージョンの更新内容</translation>
     </message>
 </context>
 <context>
@@ -7170,7 +7170,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>この起動構成の名前に古いバージョン名が含まれているようです。次のように更新しますか?
+        <translation>この起動構成の名前にバージョン名が含まれているようです。次のように更新しますか?
 
 変更前: %1
 変更後: %2</translation>
