@@ -1142,27 +1142,27 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliza enlaces simbólicos o duros en lugar de copiar archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de enlace simbólico y duro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation type="unfinished">Los enlaces son soportados en la mayoría de sistemas excepto FAT</translation>
+        <translation>Los enlaces son compatibles con la mayoría de los sistemas de archivos excepto FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincula cada recurso individualmente en lugar de vincular carpetas enteras a la vez</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular archivos de forma recursiva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
@@ -1177,18 +1177,18 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliza enlaces duros en lugar de copiar archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar enlaces duros</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="110"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliza enlaces simbólicos en lugar de copiar archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
@@ -1198,12 +1198,12 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished">Opciones de CoW (Copiar-al-escribir en ingles)</translation>
+        <translation>Opciones CoW (copia en escritura)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los archivos clonados con reflinks no ocupan espacio adicional hasta que se modifican.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1213,7 +1213,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Su sistema de archivos y/o sistema operativo no soporta reflinks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1248,17 +1248,17 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Se admiten reflinks en %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Los reflinks no son compatibles con %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished">En Windows, enlaces simbólicos requieren permisos de administrador para crear.</translation>
+        <translation>En Windows, los enlaces simbólicos pueden requerir permisos de administrador para su creación.</translation>
     </message>
 </context>
 <context>
@@ -5064,7 +5064,7 @@ Esta acción es permanente y eliminará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Hay instancias vinculadas</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1344"/>
@@ -5075,9 +5075,28 @@ Esta acción es permanente y eliminará completamente la instancia.
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>La siguiente instancia podría hacer referencia a archivos de esta instancia:
+
+%1
+
+Borrarlo podría romper la otra instancia, 
+
+¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarlo podría romper las otras instancias, 
+
+¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarlo podría romper las otras instancias, 
+
+¿Desea continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -5394,7 +5413,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="929"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, jugado por última vez en %1 para %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -5451,7 +5470,7 @@ Esto es permanente y borrará completamente la instancia.
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="190"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
@@ -5744,13 +5763,16 @@ Esto es permanente y borrará completamente la instancia.
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo edita, también modificará el original.
+Ruta canónica: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también modificará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
@@ -7887,7 +7909,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>un programa MKLINK por lotes para windows que se utiliza con prismlauncher</translation>
     </message>
 </context>
 <context>
@@ -8155,13 +8177,16 @@ Please update %1!</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo edita, también modificará el original.
+Ruta canónica: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también modificará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
@@ -8215,13 +8240,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo edita, también modificará el original.
+Ruta canónica: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también modificará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
@@ -9896,24 +9924,26 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este mundo está vinculado simbólicamente desde otro lugar.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Este mundo está fuertemente ligado a otro.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia: Este mundo está enlazado simbólicamente desde otro lugar. Editarlo también cambiará el original.
+Ruta canónica: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia: Este mundo está enlazado en otro sitio. Editarlo también modificará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
@@ -9940,7 +9970,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
@@ -9965,7 +9995,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Información y advertencias sobre el mundo.</translation>
     </message>
 </context>
 <context>
