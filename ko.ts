@@ -197,67 +197,72 @@
         <translation>설정 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="699"/>
         <source>Extracting configs...</source>
         <translation>설정 내보내는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="705"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Failed to open pack configs %1!</source>
         <translation>팩 설정 %1을(를) 여는 데에 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="739"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="740"/>
         <source>Selecting optional mods...</source>
         <translation>선택적 모드 선택 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="748"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="749"/>
         <source>Downloading mods...</source>
         <translation>모드 다운로드 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="751"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="752"/>
         <source>Mod download</source>
         <translation>모드 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="765"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="766"/>
         <source>Unsupported download type: %1</source>
         <translation>지원하지 않는 다운로드 유형: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="771"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="772"/>
         <source>Unknown download type: %1</source>
         <translation>알 수 없는 다운로드 유형: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="892"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
         <source>Failed to extract mods...</source>
         <translation>모드(들) 추출 실패...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="903"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="906"/>
         <source>Extracting mods...</source>
         <translation>모드 추출 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="976"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="979"/>
         <source>Installing modpack</source>
         <translation>모드팩 설치 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Failed to create libraries component</source>
         <translation>라이브러리 구성 요소를 만드는데 실패하였습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1015"/>
         <source>Unknown loader type: </source>
         <translation>알 수 없는 로더 종류: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Failed to create pack component</source>
         <translation>팩 구성 요소를 만드는데 실패하였습니다</translation>
     </message>
@@ -668,32 +673,32 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="671"/>
+        <location filename="src/launcher/Application.cpp" line="715"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1232"/>
         <source>Aborted</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1622"/>
+        <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1에서 이전 데이터를 찾았지만 %2에 대한 기존 데이터가 이미 있습니다. 안타깝게도 직접 마이그레이션해야 합니다. 다음에 %2를 시작할 때 보류 중인 데이터 마이그레이션에 대한 알림을 받으시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1626"/>
+        <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>이전에 %1을 사용한 것 같습니다. 데이터를 새 위치 %2로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1632"/>
+        <location filename="src/launcher/Application.cpp" line="1676"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>이전에 %2에서 %1을 사용한 것 같습니다. 데이터를 %3의 새 위치로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1718"/>
         <source>Migration failed! Reason: %1</source>
         <translation>마이그레이션 실패! 이유: %1</translation>
     </message>
@@ -712,29 +717,29 @@ Please update both your operating system and %1.</source>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
         <source>Failed to read the assets index!</source>
         <translation>에셋 인덱스를 읽는 데 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the assets files from Mojang...</source>
         <translation>Mojang에서 에셋 파일들을 가져오는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>에셋 인덱스를 다운로드하는 데 실패했습니다:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
         <translation>에셋을 다운로드하는 데 실패했습니다:
@@ -1060,14 +1065,34 @@ Please update both your operating system and %1.</source>
 <context>
     <name>ConcurrentTask</name>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="66"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="97"/>
         <source>Failed to abort all running tasks.</source>
         <translation>모든 실행 중인 작업을 중단하는 데에 실패했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="163"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="292"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1개의 작업 실행 중 (%3 중 %2 완료)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="296"/>
+        <source>Please wait...</source>
+        <translation type="unfinished">잠시만 기다려주세요...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="298"/>
+        <source>Waiting for a task to start...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="300"/>
+        <source>Executing 1 task:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="302"/>
+        <source>Task finished.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1722,22 +1747,22 @@ Are you sure?</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="93"/>
         <source>Copying FML libraries into the instance...</source>
         <translation>인스턴스에 FML 라이브러리들을 복사하고 있습니다...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="104"/>
         <source>Failed creating FML library folder inside the instance.</source>
         <translation>인스턴스 안에 FML 라이브러리 폴더를 생성하는 데 실패했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="109"/>
         <source>Failed copying Forge/FML library: %1.</source>
         <translation>Forge/FML 라이브러리 복사 실패: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="122"/>
         <source>Failed to download the following files:
 %1
 
@@ -1805,15 +1830,15 @@ Please try again.</source>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="111"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="275"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="112"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>팩 manifest를 해석하지 못함:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="117"/>
         <source> (version %1)</source>
         <translation> (버전 %1)</translation>
     </message>
@@ -1842,92 +1867,101 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="obsolete">취소</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="238"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>No index file.</source>
         <translation>인덱스 파일이 없음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>이전 버전에 적합한 인덱스 파일을 찾을 수 없습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 진행하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>덮어쓰는 폴더의 이름을 바꾸지 못함:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="293"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>지정된 덮어쓸 폴더 (%1)가 존재하지 않습니다. 이미 모드팩이 쓰였을지도요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Manifest의 알 수 없는 모드 로더 오류: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="322"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="323"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>팩을 불러오는 중에 마인크래프트 버전에 있는 먼지를 청소했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation>마인크래프트 %1에 권장되는 Forge 버전을 결정하지 못하였습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>모드 ID 처리 실패:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="432"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
         <source>Blocked mods found</source>
         <translation>차단된 모드를 찾았습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>다음 모드는 제3자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;수동으로 다운로드하여 인스턴스에 추가해야 합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="510"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="456"/>
+        <source>Mod Download Flame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="501"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="515"/>
         <source>Copying Blocked Mods...</source>
         <translation>차단된 모드 복사중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="528"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>차단된 모드 복사 중 (%1 / %2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mod download</source>
-        <translation>모드 다운로드</translation>
+        <translation type="vanished">모드 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="468"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>이 &apos;폴더&apos;는 추출을 필요로 할 지도 모릅니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="480"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="481"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>중첩된 구조의 모드팩은 아직 구현되지 않았기에, 아무것도 다운로드되지 않았습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="486"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>인식 불가/사용 불가인 패키지 유형으로 나타남: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="507"/>
         <source>Downloading mods...</source>
         <translation>모드 다운로드 중...</translation>
     </message>
@@ -2438,28 +2472,28 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>모드팩 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
         <source>Extracting modpack</source>
         <translation>모드팩 추출 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="141"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="142"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>모드팩 압축 파일을 열 수 없음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>압축 파일이 인식 가능한 모드팩을 가지고 있지 않음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="203"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="204"/>
         <source>Failed to extract modpack</source>
         <translation>모드팩 추출 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
@@ -2866,7 +2900,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="836"/>
+        <location filename="src/launcher/InstanceList.cpp" line="838"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>여러 번의 시도에도 인스턴스를 수정 할 수 없었습니다. 무엇인가에 의해 막힌 것 같습니다.</translation>
     </message>
@@ -3815,33 +3849,33 @@ Flatseal을 통해 %1에 접근 권한을 부여하는 것이 좋습니다.</tra
         <translation>%1의 압축 파일 다운로드 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="105"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="106"/>
         <source>Downloading zip for %1 (%2%)</source>
         <translation>%1의 압축 파일 다운로드 중 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
         <source>Extracting modpack</source>
         <translation>모드팩 추출 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="125"/>
         <source>Failed to open modpack file %1!</source>
         <translation>모드팩 파일 %1을(를) 여는 데에 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="151"/>
         <source>Installing modpack</source>
         <translation>모드팩 설치 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="159"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
         <translation>압축 해제된 마인크래프트를 옮기는 데에 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="225"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="226"/>
         <source>No installation method found!</source>
         <translation>설치 방법을 발견하지 못했습니다!</translation>
     </message>
@@ -4024,7 +4058,7 @@ You&apos;ll have to correct this problem manually.</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="85"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
@@ -6260,7 +6294,7 @@ Please update %1!</source>
 <context>
     <name>ModrinthCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="56"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="57"/>
         <source> (version %1)</source>
         <translation> (버전 %1)</translation>
     </message>
@@ -6289,61 +6323,70 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="obsolete">취소</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>No index file.</source>
         <translation>인덱스 파일이 없음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="138"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>이전 버전에 적합한 인덱스 파일을 찾을 수 없습니다. 이로 인해 일부 파일이 중복될 수 있습니다. 계속하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="182"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>덮어쓰는 폴더의 이름을 바꾸지 못함:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="194"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="195"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>클라이언트가 덮어쓴 폴더의 이름을 바꿀 수 없습니다:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="226"/>
         <source>Mod download</source>
-        <translation>모드 다운로드</translation>
+        <translation type="vanished">모드 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="227"/>
+        <source>Mod Download Modrinth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>파일 중 하나가 독단적인 위치 (%1)로 이끌고 있습니다. 이건 허용되지 않는 보안 문제입니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
         <source>Downloading mods...</source>
         <translation>모드 다운로드 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="326"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="331"/>
         <source>Optional mod detected!</source>
         <translation>선택적 모드가 감지되었습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="327"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="332"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>이 모드팩의 모드 중 하나 이상은 선택적 모드입니다. 다운로드되지만 기본적으로 비활성화됩니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="370"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="375"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1 다운로드 URL이 올바른 형식의 URL이 아닙니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="401"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="406"/>
         <source>Could not understand pack index:
 </source>
         <translation>팩 인덱스를 분석할 수 없음:
@@ -6489,12 +6532,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>MultipleOptionsTask</name>
     <message>
-        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="15"/>
+        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
         <source>All attempts have failed!</source>
         <translation>모든 시도가 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="26"/>
+        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
         <translation>%2개 중 %1번째 작업 시도 중</translation>
     </message>
@@ -6502,15 +6545,38 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>Net::Download</name>
     <message>
-        <location filename="src/launcher/net/Download.cpp" line="89"/>
+        <location filename="src/launcher/net/Download.cpp" line="99"/>
         <source>Downloading %1</source>
         <translation>%1 다운로드 중</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="167"/>
+        <source>%1 / %2</source>
+        <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="171"/>
+        <source>unknown</source>
+        <translation type="unfinished">알 수 없음</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="174"/>
+        <source>%1 /s (%2)</source>
+        <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="177"/>
+        <source>0 B/s</source>
+        <extracomment>Download speed at 0 bytes per second</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Net::Upload</name>
     <message>
-        <location filename="src/launcher/net/Upload.cpp" line="193"/>
+        <location filename="src/launcher/net/Upload.cpp" line="196"/>
         <source>Uploading %1</source>
         <translation>업로드 중 %1</translation>
     </message>
@@ -6524,12 +6590,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="100"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="101"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>NetJob의 모든 작업을 중단하는 데 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="126"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1개의 작업 실행 중 (%3 중 %2 완료)</translation>
     </message>
@@ -6877,34 +6943,34 @@ Are you sure?</source>
 <context>
     <name>PasteUpload</name>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="144"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="146"/>
         <source>Uploading to %1</source>
         <translation>%1에 업로드 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="161"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Network error: %1</source>
         <translation>네트워크 오류: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="170"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>오류: %1이(가) 예기치 않은 상태 코드 %2 %3 을(를) 반환했습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="189"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="216"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="245"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="218"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="247"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>오류: %1이(가) 잘못된 응답 본문을 반환했습니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>오류: %1이(가) 오류를 반환: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="236"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="238"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>오류: %1이(가) 오류를 반환: %2
@@ -7072,22 +7138,26 @@ Choose your name carefully:</source>
 <context>
     <name>ProgressDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="18"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
         <translation>잠시만 기다려주세요...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
         <translation>전역 작업 상태...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="50"/>
-        <source>Task Status...</source>
-        <translation>작업 상태...</translation>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="56"/>
+        <source>Global Status Details...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="30"/>
+        <source>Task Status...</source>
+        <translation type="vanished">작업 상태...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="133"/>
         <source>Skip</source>
         <translation>건너뛰기</translation>
     </message>
@@ -7445,22 +7515,47 @@ Please let us know why and how this happened.</source>
 우리들에게 어떻게 일어난 일이고, 왜 일어났는지 보고해주시기 바랍니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="31"/>
+        <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
         <translation>%1분 %2초</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="35"/>
+        <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
         <translation>%1시간 %2분</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="37"/>
+        <location filename="src/launcher/MMCTime.cpp" line="39"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
         <translation>%1일 %2시간 %3분</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="76"/>
+        <source>days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="81"/>
+        <source>h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="86"/>
+        <source>m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="91"/>
+        <source>s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="96"/>
+        <source>ms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -8400,12 +8495,12 @@ Are you sure?</source>
 <context>
     <name>SequentialTask</name>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="45"/>
         <source>One of the tasks failed!</source>
         <translation>작업 중 1개 실패!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="56"/>
         <source>Executing task %1 out of %2</source>
         <translation>총 %2개 중 %1개를 다운로드 중입니다</translation>
     </message>
@@ -8683,6 +8778,24 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>SubTaskProgressBar</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
+        <source>Form</source>
+        <translation type="unfinished">폼</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
+        <source>Sub Task Status...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <source>Status Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Technic::SingleZipPackInstallTask</name>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
@@ -8697,27 +8810,27 @@ Are you sure?</source>
         <translation>모드팩 다운로드</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="62"/>
         <source>Extracting modpack</source>
         <translation>모드팩 추출 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="70"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>모드팩 압축 파일을 열 수 없음.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="98"/>
         <source>Failed to extract modpack</source>
         <translation>모드팩 추출 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="125"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="142"/>
         <source>Instance import has been aborted.</source>
         <translation>인스턴스 읽어들이기가 중단되었습니다.</translation>
     </message>
@@ -8764,22 +8877,22 @@ Are you sure?</source>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="140"/>
         <source>Extracting modpack</source>
         <translation>모드팩 추출 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="187"/>
         <source>Failed to extract modpack</source>
         <translation>모드팩 추출 실패</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="214"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1에 대한 권한 문제를 해결하지 못함</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="230"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="231"/>
         <source>Instance import has been aborted.</source>
         <translation>인스턴스 읽어들이기가 중단되었습니다.</translation>
     </message>
@@ -9023,7 +9136,7 @@ inheritsFrom 누락됨</translation>
         <translation>작업 중단됨.</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/Update.cpp" line="52"/>
+        <location filename="src/launcher/launch/steps/Update.cpp" line="54"/>
         <source>Instance update failed because: %1
 
 </source>

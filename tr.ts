@@ -193,67 +193,72 @@
         <translation>Yapılandırma indirme</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="699"/>
         <source>Extracting configs...</source>
         <translation>Yapılandırmalar çıkartılıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="705"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Failed to open pack configs %1!</source>
         <translation>Paket yapılandırmaları açılamadı %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="739"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="740"/>
         <source>Selecting optional mods...</source>
         <translation>İsteğe bağlı modlar seçiliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="748"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="749"/>
         <source>Downloading mods...</source>
         <translation>Modlar indiriliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="751"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="752"/>
         <source>Mod download</source>
         <translation>Mod indirme</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="765"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="766"/>
         <source>Unsupported download type: %1</source>
         <translation>Desteklenmeyen indirme türü: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="771"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="772"/>
         <source>Unknown download type: %1</source>
         <translation>Bilinmeyen indirme türü: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="892"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
         <source>Failed to extract mods...</source>
         <translation>Modları çıkartma başarısız oldu...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="903"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="906"/>
         <source>Extracting mods...</source>
         <translation>Modlar çıkartılıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="976"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="979"/>
         <source>Installing modpack</source>
         <translation>Mod paketi kuruluyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Failed to create libraries component</source>
         <translation>Kitaplık bileşeni oluşturulamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1015"/>
         <source>Unknown loader type: </source>
         <translation>Bilinmeyen yükleyici tipi: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Failed to create pack component</source>
         <translation>Paket bileşeni yaratımı başarısız</translation>
     </message>
@@ -672,32 +677,32 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="671"/>
+        <location filename="src/launcher/Application.cpp" line="715"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1232"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1622"/>
+        <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1&apos;deki eski veri bulundu, ama hâlihazırda %2 için veriye sahipsin. Kendi başına aktarma yapmak zorundasın. %2&apos;yi sıradaki başlatışında bekleyen veri hakkında hatırlatılmak istiyor musun ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1626"/>
+        <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Görünüşe bakılırsa %1&apos;i daha önce kullanmışsın. Verilerini %2&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1632"/>
+        <location filename="src/launcher/Application.cpp" line="1676"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Görünüşe bakılırsa daha önceden %1&apos;i %2 de kullanmışsın. Yeni verileri %3&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1718"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Aktarım başarısız! Hatanın sebebi: %1</translation>
     </message>
@@ -716,29 +721,29 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
         <source>Failed to read the assets index!</source>
         <translation>Varlık dizini okuması başarısız!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the assets files from Mojang...</source>
         <translation>Varlık dosyaları Mojang&apos;dan alınıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>Varlık dizini indirilemedi:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
         <translation>Varlıkları indirme başarısız:
@@ -1068,14 +1073,34 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
 <context>
     <name>ConcurrentTask</name>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="66"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="97"/>
         <source>Failed to abort all running tasks.</source>
         <translation>Tüm aktif görevleri iptal etme başarısız oldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="163"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="292"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 işlem(ler) gerçekleştiriliyor. (%3 kadarından %2 kadarı tamamlandı.)</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="296"/>
+        <source>Please wait...</source>
+        <translation type="unfinished">Lütfen bekleyin...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="298"/>
+        <source>Waiting for a task to start...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="300"/>
+        <source>Executing 1 task:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="302"/>
+        <source>Task finished.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1730,22 +1755,22 @@ Emin misiniz?</translation>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="93"/>
         <source>Copying FML libraries into the instance...</source>
         <translation>Profil dosyasına FML kütüphaneleri kopyalanıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="104"/>
         <source>Failed creating FML library folder inside the instance.</source>
         <translation>Profilin içine FML kütüphane klasörü oluşturulamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="109"/>
         <source>Failed copying Forge/FML library: %1.</source>
         <translation>Forge/FML kütüphanesi kopyalanırken hata: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="122"/>
         <source>Failed to download the following files:
 %1
 
@@ -1813,15 +1838,15 @@ Lütfen tekrar deneyin.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="111"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="275"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="112"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Paket manifestosu anlaşılamadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="117"/>
         <source> (version %1)</source>
         <translation> (sürüm %1)</translation>
     </message>
@@ -1850,92 +1875,101 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation type="vanished">İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="238"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>No index file.</source>
         <translation>Dizin dosyası yok.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Eski sürüm için uygun dizin dosyasını bulamadık. Bu bazı dosyaların kopyalanmasına yol açabilir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Üzerine yazılanlar (overrides) klasörü yeniden adlandırılamadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="293"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Belirlenmiş üzerine yazılanlar (override) klasörü (%1) kayıp. Belki de bu mod paketi daha önce kullanılmıştı?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Manifesto içinde bilinmeyen mod yükleyicisi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="322"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="323"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Paket içeri aktarılırken, gizemli izleme noktaları Minecraft sürümünden kaldırıldı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation>Minecraft %1 için önerilen Forge sürümü saptanamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Mod ID&apos;leri çözümlenemedi:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="432"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
         <source>Blocked mods found</source>
         <translation>Engelli dosyalar bulundu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Aşağıdaki dosyalar üçüncü parti başlatıcılardan indirilmeye uygun değil.&lt;br/&gt;Bunları elle indirmeniz ve profile eklemeniz gerekecek.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="510"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="456"/>
+        <source>Mod Download Flame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="501"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="515"/>
         <source>Copying Blocked Mods...</source>
         <translation>Engelli Modlar Kopyalanıyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="528"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Engelli Modlar Kopyalanıyor (%2 üzerinden %1 mod tamam)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
         <source>Mod download</source>
-        <translation>Mod indirme</translation>
+        <translation type="vanished">Mod indirme</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="468"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Bu &apos;Klasör&apos; dışa aktarılabilir: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="480"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="481"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>İç içe geçen mod paketlerinin içindeki mod paketler uygulanmadı, hiçbir şey indirilmedi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="486"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Tanınmayan/bilinmeyen PackageType: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="507"/>
         <source>Downloading mods...</source>
         <translation>Modlar indiriliyor...</translation>
     </message>
@@ -2448,28 +2482,28 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>Mod paketi indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
         <source>Extracting modpack</source>
         <translation>Mod paketi çıkartılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="141"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="142"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Seçilen mod paketinin zip dosyası açılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arşiv, anlaşılabilir bir mod paket türü içermiyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="203"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="204"/>
         <source>Failed to extract modpack</source>
         <translation>Mod paketi çıkartımı başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 için yetkiler düzeltilemedi</translation>
     </message>
@@ -2876,7 +2910,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="836"/>
+        <location filename="src/launcher/InstanceList.cpp" line="838"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Birden fazla denemeye rağmen, profil gönderimi başarısız. Bir şey tarafından engelleniyor.</translation>
     </message>
@@ -3849,33 +3883,33 @@ Flatseal ile $1 erişim izni verilmesi önerilir.</translation>
         <translation>%1 için zip indiriliyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="105"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="106"/>
         <source>Downloading zip for %1 (%2%)</source>
         <translation>%1 için zip indiriliyor (%2%)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
         <source>Extracting modpack</source>
         <translation>Mod paketi çıkartılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="125"/>
         <source>Failed to open modpack file %1!</source>
         <translation>Mod paket dosyası %1 açılamadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="151"/>
         <source>Installing modpack</source>
         <translation>Modpack yükleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="159"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
         <translation>ZIP&apos;ten çıkartılmış Minecraft taşınamadı!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="225"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="226"/>
         <source>No installation method found!</source>
         <translation>Herhangi bir kurulum metodu bulunamadı!</translation>
     </message>
@@ -4058,7 +4092,7 @@ Bu sorunu elle düzeltmelisiniz.</translation>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="85"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
@@ -6310,7 +6344,7 @@ Lütfen %1 programını güncelleyin!</translation>
 <context>
     <name>ModrinthCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="56"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="57"/>
         <source> (version %1)</source>
         <translation> (sürüm %1)</translation>
     </message>
@@ -6339,61 +6373,70 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
         <translation type="vanished">İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>No index file.</source>
         <translation>Dizin dosyası yok.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="138"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Eski sürüm için uygun bir dizin dosyası bulamadık. Bu bazı dosyaların kopyalanmasına yola açabilir. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="182"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Üzerine yazılanlar (overrides) klasörü yeniden adlandırılamadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="194"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="195"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation>İstemci üzerine yazılanlar (overrides) klasörü yeniden adlandırılamadı:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="226"/>
         <source>Mod download</source>
-        <translation>Mod indirme</translation>
+        <translation type="vanished">Mod indirme</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="227"/>
+        <source>Mod Download Modrinth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation>Dosyalardan birisinin dosya yolu sorun teşkil ediyor (%1).Bu bir güvenlik zaafiyetidir ve izin verilmez.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
         <source>Downloading mods...</source>
         <translation>Modlar indiriliyor...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="326"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="331"/>
         <source>Optional mod detected!</source>
         <translation>Seçmeli mod bulundu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="327"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="332"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation>Bu mod paketindeki bir veya birden fazla mod seçmelidir. İndirilecektir ancak varsayılan olarak çevrim dışı olacaktır!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="370"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="375"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation>%1 için indirme URL&apos;si, doğru formatlanmış bir URL değil</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="401"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="406"/>
         <source>Could not understand pack index:
 </source>
         <translation>Paket dizini anlaşılamadı:
@@ -6534,12 +6577,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
 <context>
     <name>MultipleOptionsTask</name>
     <message>
-        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="15"/>
+        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
         <source>All attempts have failed!</source>
         <translation>Tüm girişimler başarısız!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="26"/>
+        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
         <translation>%2 görevden %1 görev deneniyor</translation>
     </message>
@@ -6547,15 +6590,38 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
 <context>
     <name>Net::Download</name>
     <message>
-        <location filename="src/launcher/net/Download.cpp" line="89"/>
+        <location filename="src/launcher/net/Download.cpp" line="99"/>
         <source>Downloading %1</source>
         <translation>%1 indiriliyor</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="167"/>
+        <source>%1 / %2</source>
+        <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="171"/>
+        <source>unknown</source>
+        <translation type="unfinished">bilinmeyen</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="174"/>
+        <source>%1 /s (%2)</source>
+        <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="177"/>
+        <source>0 B/s</source>
+        <extracomment>Download speed at 0 bytes per second</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Net::Upload</name>
     <message>
-        <location filename="src/launcher/net/Upload.cpp" line="193"/>
+        <location filename="src/launcher/net/Upload.cpp" line="196"/>
         <source>Uploading %1</source>
         <translation>%1 yükleniyor</translation>
     </message>
@@ -6569,12 +6635,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="100"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="101"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation>NetJob&apos;taki tüm görevleri iptal etme başarısız!</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="126"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation>%1 görev yürütülüyor. (%3 üzerinden %2 tamamlandı.)</translation>
     </message>
@@ -6922,34 +6988,34 @@ Emin misin?</translation>
 <context>
     <name>PasteUpload</name>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="144"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="146"/>
         <source>Uploading to %1</source>
         <translation>%1&apos;e yükleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="161"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Network error: %1</source>
         <translation>Ağ hatası: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="170"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation>Hata: %1 bilinmeyen bir durum kodu gönderdi %2 %3</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="189"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="216"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="245"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="218"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="247"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation>Hata: %1 hatalı biçimlendirilmiş bir cevap metni çıkardı</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
         <source>Error: %1 returned an error: %2</source>
         <translation>Error: %1 bir hata çıkardı: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="236"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="238"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation>Hata: %1 bir hata kodu çıkardı: %2
@@ -7117,22 +7183,26 @@ Choose your name carefully:</source>
 <context>
     <name>ProgressDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="18"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
         <translation>Lütfen bekleyin...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
         <translation>Küresel Görev Durumu...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="50"/>
-        <source>Task Status...</source>
-        <translation>Görev Durumu...</translation>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="56"/>
+        <source>Global Status Details...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="30"/>
+        <source>Task Status...</source>
+        <translation type="vanished">Görev Durumu...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="133"/>
         <source>Skip</source>
         <translation>Atla</translation>
     </message>
@@ -7490,22 +7560,47 @@ Please let us know why and how this happened.</source>
 Lütfen bunun neden ve nasıl olduğunu bize anlatın.</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="31"/>
+        <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
         <translation>%1d %2sn</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="35"/>
+        <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
         <translation>%1s %2d</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="37"/>
+        <location filename="src/launcher/MMCTime.cpp" line="39"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
         <translation>%1g %2s %3d</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="76"/>
+        <source>days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="81"/>
+        <source>h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="86"/>
+        <source>m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="91"/>
+        <source>s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="96"/>
+        <source>ms</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -8445,12 +8540,12 @@ Emin misin?</translation>
 <context>
     <name>SequentialTask</name>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="45"/>
         <source>One of the tasks failed!</source>
         <translation>İşlemlerden biri başarısız!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="56"/>
         <source>Executing task %1 out of %2</source>
         <translation>%2 üzerinden %1 görev yürütülüyor</translation>
     </message>
@@ -8728,6 +8823,24 @@ Emin misin?</translation>
     </message>
 </context>
 <context>
+    <name>SubTaskProgressBar</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
+        <source>Sub Task Status...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <source>Status Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Technic::SingleZipPackInstallTask</name>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
@@ -8742,27 +8855,27 @@ Emin misin?</translation>
         <translation>Mod paketi indir</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="62"/>
         <source>Extracting modpack</source>
         <translation>Mod paketi çıkartılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="70"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Seçili mod paketinin zip dosyası açılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="98"/>
         <source>Failed to extract modpack</source>
         <translation>Mod paketi çıkartımı başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="125"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 için yetkiler düzeltilemedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="142"/>
         <source>Instance import has been aborted.</source>
         <translation>Profil içe aktarımı iptal edildi.</translation>
     </message>
@@ -8809,22 +8922,22 @@ Emin misin?</translation>
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="140"/>
         <source>Extracting modpack</source>
         <translation>Mod paketi çıkartılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="187"/>
         <source>Failed to extract modpack</source>
         <translation>Mod paketi çıkartımı başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="214"/>
         <source>Could not fix permissions for %1</source>
         <translation>%1 için yetkiler düzeltilemedi</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="230"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="231"/>
         <source>Instance import has been aborted.</source>
         <translation>Profil içe aktarımı iptal edildi.</translation>
     </message>
@@ -9068,7 +9181,7 @@ inheritsFrom eksik</translation>
         <translation>Görev iptal edildi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/Update.cpp" line="52"/>
+        <location filename="src/launcher/launch/steps/Update.cpp" line="54"/>
         <source>Instance update failed because: %1
 
 </source>

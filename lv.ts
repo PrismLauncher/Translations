@@ -185,67 +185,72 @@
         <translation>Konfigurāciju lejuplāde</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="698"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="699"/>
         <source>Extracting configs...</source>
         <translation>Ekstraktē konfigurācijas...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="705"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="706"/>
         <source>Failed to open pack configs %1!</source>
         <translation>Neizdevās atvērt pakas konfigurācijas %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="739"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="740"/>
         <source>Selecting optional mods...</source>
         <translation>Izvēlas neobligātās modifikācijas...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="748"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="749"/>
         <source>Downloading mods...</source>
         <translation>Lejuplādē modifikācijas...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="751"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="752"/>
         <source>Mod download</source>
         <translation>Modifikācijas lejuplāde</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="765"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="766"/>
         <source>Unsupported download type: %1</source>
         <translation>Neatbalstīts lejupielādes veids: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="771"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="772"/>
         <source>Unknown download type: %1</source>
         <translation>Nezināms lejupielādes veids: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="892"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
         <source>Failed to extract mods...</source>
         <translation>Nesanāca ekstraktēt modifikācijas...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="903"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="906"/>
         <source>Extracting mods...</source>
         <translation>Ekstraktē modifikācijas...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="976"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="979"/>
         <source>Installing modpack</source>
         <translation>Lejuplādē modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="988"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Failed to create libraries component</source>
         <translation>Neizdevās izveidot bibliotēkas komponentu</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1012"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1015"/>
         <source>Unknown loader type: </source>
         <translation>Nezināms lādēšanas veids: </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1026"/>
+        <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Failed to create pack component</source>
         <translation>Neizdevās izveidot pakas komponentu</translation>
     </message>
@@ -656,32 +661,32 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="671"/>
+        <location filename="src/launcher/Application.cpp" line="715"/>
         <source>Settings</source>
         <translation>Iestatījumi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1188"/>
+        <location filename="src/launcher/Application.cpp" line="1232"/>
         <source>Aborted</source>
         <translation type="unfinished">Pārtraukts</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1622"/>
+        <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1626"/>
+        <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1632"/>
+        <location filename="src/launcher/Application.cpp" line="1676"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1718"/>
         <source>Migration failed! Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -700,29 +705,29 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="84"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
         <translation type="unfinished">Pārtraukts</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
         <source>Failed to read the assets index!</source>
         <translation>Neizdevās lasīt līdzekļu indeksu!</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="80"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the assets files from Mojang...</source>
         <translation>Ņem līdzekļu datnes no Mojang...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="95"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
         <translation>Neizdevās lejuplādēt līdzekļu indeksu:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="100"/>
+        <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
         <translation>Neizdevās lejuplādēt līdzekļu indeksu:
@@ -1036,13 +1041,33 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
 <context>
     <name>ConcurrentTask</name>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="66"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="97"/>
         <source>Failed to abort all running tasks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="163"/>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="292"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="296"/>
+        <source>Please wait...</source>
+        <translation type="unfinished">Lūdzu uzgaidiet...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="298"/>
+        <source>Waiting for a task to start...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="300"/>
+        <source>Executing 1 task:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="302"/>
+        <source>Task finished.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1692,22 +1717,22 @@ Are you sure?</source>
         <translation type="unfinished">Pārtraukts</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="92"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="93"/>
         <source>Copying FML libraries into the instance...</source>
         <translation>Notiek FML bibliotēku kopēšana instancē...</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="103"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="104"/>
         <source>Failed creating FML library folder inside the instance.</source>
         <translation>Neizdevās izveidot FML bibliotēkas mapi instancē.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="108"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="109"/>
         <source>Failed copying Forge/FML library: %1.</source>
         <translation>Neizdevās nokopēt Forge/FML bibliotēku: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="121"/>
+        <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="122"/>
         <source>Failed to download the following files:
 %1
 
@@ -1775,104 +1800,109 @@ Lūdzu, mēģiniet vēlreiz.</translation>
 <context>
     <name>FlameCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="111"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="275"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="112"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
         <source>Could not understand pack manifest:
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="117"/>
         <source> (version %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="238"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>No index file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="287"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation type="unfinished">Nevarēja parmainīt vārdu ovveride mapei:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="292"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="293"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation type="unfinished">Specificētaā override mape (%1) ir pazudusi. Varbūt modpaks jau ir izmantots iepriekš?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="311"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation type="unfinished">Nezināms modifikācijas lādētājs manifestā: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="322"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="323"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation type="unfinished">Nezināmie treilēšanās punkti noņemti no Minecraft versijam kamēr importē paku.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="334"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation type="unfinished">Nevarēja kartēt ieteikto Forge versiju Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="380"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation type="unfinished">Nevar atrisināt modifikācijas IDs:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="432"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
         <source>Blocked mods found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="433"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="510"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="456"/>
+        <source>Mod Download Flame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="501"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="515"/>
         <source>Copying Blocked Mods...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="523"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="528"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="455"/>
-        <source>Mod download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="467"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="468"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation type="unfinished">Šai &apos;Mapei&apos; iespējams vajadzētu ekstraktēšanu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="480"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="481"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation type="unfinished">Ligzdot modpakus nav pievienota funkcija, nekas netika lejuplādēts: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="486"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation type="unfinished">Neatpazīts/Nenoturēts Pakas Tips priekš: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="507"/>
         <source>Downloading mods...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2370,28 +2400,28 @@ Lūdzu, mēģiniet vēlreiz.</translation>
         <translation>Modpaka lejuplāde</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="133"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="134"/>
         <source>Extracting modpack</source>
         <translation>Ekstraktē modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="141"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="142"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation>Nevar atvērt piegādātā modpaka zip failu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="186"/>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="255"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="187"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="256"/>
         <source>Archive does not contain a recognized modpack type.</source>
         <translation>Arhīvā nav atpazīstamo modpak tipu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="203"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="204"/>
         <source>Failed to extract modpack</source>
         <translation>Nesanāca ekstraktēt modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceImportTask.cpp" line="231"/>
+        <location filename="src/launcher/InstanceImportTask.cpp" line="232"/>
         <source>Could not fix permissions for %1</source>
         <translation>Nevarēja izlabot atļaujas priekš %1</translation>
     </message>
@@ -2762,7 +2792,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
 <context>
     <name>InstanceStaging</name>
     <message>
-        <location filename="src/launcher/InstanceList.cpp" line="836"/>
+        <location filename="src/launcher/InstanceList.cpp" line="838"/>
         <source>Failed to commit instance, even after multiple retries. It is being blocked by something.</source>
         <translation>Nevarēja izdarīt instanci, pat pēc vairākiem mēģinājumiem. Tas tiek bloķets ar kaut ko.</translation>
     </message>
@@ -3665,33 +3695,33 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation>Lejupielādē zip priekš %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="105"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="106"/>
         <source>Downloading zip for %1 (%2%)</source>
         <translation>Lejupielādē zip priekš %1 (%2%)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
         <source>Extracting modpack</source>
         <translation>Ekstraktē modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="125"/>
         <source>Failed to open modpack file %1!</source>
         <translation>Neizdevās atvērt modpaka failus %1!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="150"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="151"/>
         <source>Installing modpack</source>
         <translation>Instalē modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="158"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="159"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
         <translation type="unfinished">Neizdevās pārvietot atpakotu Minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="225"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="226"/>
         <source>No installation method found!</source>
         <translation>Neviena instalācijas metode netika atrasta!</translation>
     </message>
@@ -3870,7 +3900,7 @@ Jums vajadzēs šo kļūdu salabot manuāli.</translation>
         <translation type="unfinished">Pārtraukts</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="83"/>
+        <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="85"/>
         <source>Game update failed: it was impossible to fetch the required libraries.
 Reason:
 %1</source>
@@ -5866,65 +5896,70 @@ Please update %1!</source>
 <context>
     <name>ModrinthCreationTask</name>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="56"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="57"/>
         <source> (version %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="136"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>No index file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="138"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="181"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="182"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation type="unfinished">Nevarēja parmainīt vārdu ovveride mapei:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="194"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="195"/>
         <source>Could not rename the client overrides folder:
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="226"/>
-        <source>Mod download</source>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="227"/>
+        <source>Mod Download Modrinth</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="235"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
         <source>Downloading mods...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="326"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="331"/>
         <source>Optional mod detected!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="327"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="332"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="370"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="375"/>
         <source>Download URL for %1 is not a correctly formatted URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="401"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="406"/>
         <source>Could not understand pack index:
 </source>
         <translation type="unfinished"></translation>
@@ -6049,12 +6084,12 @@ Please update %1!</source>
 <context>
     <name>MultipleOptionsTask</name>
     <message>
-        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="15"/>
+        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="49"/>
         <source>All attempts have failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="26"/>
+        <location filename="src/launcher/tasks/MultipleOptionsTask.cpp" line="60"/>
         <source>Attempting task %1 out of %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6062,15 +6097,38 @@ Please update %1!</source>
 <context>
     <name>Net::Download</name>
     <message>
-        <location filename="src/launcher/net/Download.cpp" line="89"/>
+        <location filename="src/launcher/net/Download.cpp" line="99"/>
         <source>Downloading %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="167"/>
+        <source>%1 / %2</source>
+        <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="171"/>
+        <source>unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="174"/>
+        <source>%1 /s (%2)</source>
+        <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/net/Download.cpp" line="177"/>
+        <source>0 B/s</source>
+        <extracomment>Download speed at 0 bytes per second</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Net::Upload</name>
     <message>
-        <location filename="src/launcher/net/Upload.cpp" line="193"/>
+        <location filename="src/launcher/net/Upload.cpp" line="196"/>
         <source>Uploading %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6084,12 +6142,12 @@ Please update %1!</source>
 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="100"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="101"/>
         <source>Failed to abort all tasks in the NetJob!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/NetJob.cpp" line="126"/>
+        <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6433,34 +6491,34 @@ Are you sure?</source>
 <context>
     <name>PasteUpload</name>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="144"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="146"/>
         <source>Uploading to %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="161"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="163"/>
         <source>Network error: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="168"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="170"/>
         <source>Error: %1 returned unexpected status code %2 %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="189"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="216"/>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="245"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="191"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="218"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="247"/>
         <source>Error: %1 returned a malformed response body</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="208"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="210"/>
         <source>Error: %1 returned an error: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/net/PasteUpload.cpp" line="236"/>
+        <location filename="src/launcher/net/PasteUpload.cpp" line="238"/>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
         <translation type="unfinished"></translation>
@@ -6625,22 +6683,26 @@ Choose your name carefully:</source>
 <context>
     <name>ProgressDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="18"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
         <translation>Lūdzu uzgaidiet...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="37"/>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="50"/>
-        <source>Task Status...</source>
-        <translation>Uzdevuma Statuss...</translation>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="56"/>
+        <source>Global Status Details...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="30"/>
+        <source>Task Status...</source>
+        <translation type="vanished">Uzdevuma Statuss...</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="133"/>
         <source>Skip</source>
         <translation>Izlaist</translation>
     </message>
@@ -6928,21 +6990,46 @@ Are you sure?</source>
         <translation type="vanished">Atjaunināšana neizdevās!</translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="31"/>
+        <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="35"/>
+        <location filename="src/launcher/MMCTime.cpp" line="37"/>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/MMCTime.cpp" line="37"/>
+        <location filename="src/launcher/MMCTime.cpp" line="39"/>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="76"/>
+        <source>days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="81"/>
+        <source>h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="86"/>
+        <source>m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="91"/>
+        <source>s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCTime.cpp" line="96"/>
+        <source>ms</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7839,12 +7926,12 @@ Are you sure?</source>
 <context>
     <name>SequentialTask</name>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="10"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="45"/>
         <source>One of the tasks failed!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tasks/SequentialTask.cpp" line="21"/>
+        <location filename="src/launcher/tasks/SequentialTask.cpp" line="56"/>
         <source>Executing task %1 out of %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8119,6 +8206,24 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>SubTaskProgressBar</name>
+    <message>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
+        <source>Sub Task Status...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
+        <source>Status Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Technic::SingleZipPackInstallTask</name>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
@@ -8133,27 +8238,27 @@ Are you sure?</source>
         <translation type="unfinished">Modpaka lejuplāde</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="61"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="62"/>
         <source>Extracting modpack</source>
         <translation type="unfinished">Ekstraktē modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="69"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="70"/>
         <source>Unable to open supplied modpack zip file.</source>
         <translation type="unfinished">Nevar atvērt piegādātā modpaka zip failu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="97"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="98"/>
         <source>Failed to extract modpack</source>
         <translation type="unfinished">Nesanāca ekstraktēt modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="124"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="125"/>
         <source>Could not fix permissions for %1</source>
         <translation type="unfinished">Nevarēja izlabot atļaujas priekš %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="141"/>
+        <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="142"/>
         <source>Instance import has been aborted.</source>
         <translation type="unfinished">Instances imports tika apstādināts.</translation>
     </message>
@@ -8179,22 +8284,22 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="140"/>
         <source>Extracting modpack</source>
         <translation type="unfinished">Ekstraktē modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="187"/>
         <source>Failed to extract modpack</source>
         <translation type="unfinished">Nesanāca ekstraktēt modpaku</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="214"/>
         <source>Could not fix permissions for %1</source>
         <translation type="unfinished">Nevarēja izlabot atļaujas priekš %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="230"/>
+        <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="231"/>
         <source>Instance import has been aborted.</source>
         <translation type="unfinished">Instances imports tika apstādināts.</translation>
     </message>
@@ -8425,7 +8530,7 @@ inheritsFrom is missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/launch/steps/Update.cpp" line="52"/>
+        <location filename="src/launcher/launch/steps/Update.cpp" line="54"/>
         <source>Instance update failed because: %1
 
 </source>
