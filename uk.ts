@@ -222,7 +222,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 з %2 завершено</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -1061,12 +1061,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="296"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Будь ласка, зачекайте ...</translation>
+        <translation>Будь ласка, зачекайте ...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="298"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>Очікування запуску завдання...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="300"/>
@@ -1076,7 +1076,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="302"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Завдання завершено.</translation>
     </message>
 </context>
 <context>
@@ -1913,7 +1913,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="501"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 з %2 завершено</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="515"/>
@@ -2863,7 +2863,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="542"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальне виділення пам&apos;яті наближається до обсягу пам&apos;яті в системі.</translation>
     </message>
 </context>
 <context>
@@ -3069,7 +3069,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальне виділення пам&apos;яті наближається до обсягу пам&apos;яті в системі.</translation>
     </message>
 </context>
 <context>
@@ -3142,7 +3142,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальне виділення пам&apos;яті наближається до обсягу пам&apos;яті в системі.</translation>
     </message>
 </context>
 <context>
@@ -4573,7 +4573,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="632"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити символічне посилання %1 до /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="674"/>
@@ -4992,10 +4992,28 @@ Please add your Mojang or Minecraft account.</source>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Наступна збірка може посилатись на файли в цій збірці:
+
+%1
+
+Видалення її може зламати іншу збірку,
+
+Продовжити?</numerusform>
+            <numerusform>Наступні збірки можуть посилатись на файли в цій збірці:
+
+%1
+
+Видалення її може зламати інші збіркі,
+
+Продовжити?</numerusform>
+            <numerusform>Наступні збірки можуть посилатись на файли в цій збірці:
+
+%1
+
+Видалення її може зламати інші збіркі,
+
+Продовжити?</numerusform>
         </translation>
     </message>
     <message>
@@ -5072,7 +5090,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1490"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished"></translation>
+        <translation>Запускач запущений як неправильно налаштований AppImage? (змінна оточення $APPIMAGE відсутня)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
@@ -5085,7 +5103,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>Записи стільниці (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1590"/>
@@ -5665,13 +5683,16 @@ Are you sure?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Увага: Цей ресурс символічно пов&apos;язаний з іншим ресурсом. Його редагування також змінить оригінал.
+Канонічний шлях: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Увага: Цей ресурс жорстко повʼязаний з іншим ресурсом. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
@@ -6311,7 +6332,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 з %2 завершено</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
@@ -6480,24 +6501,24 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/net/Download.cpp" line="167"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="171"/>
         <source>unknown</source>
-        <translation type="unfinished">невідомий</translation>
+        <translation>невідомий</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="174"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 /с (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="177"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0 Б/с</translation>
     </message>
 </context>
 <context>
@@ -7447,7 +7468,7 @@ Please let us know why and how this happened.</source>
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation>%1 хв %2 сек</translation>
+        <translation>%1 хв %2 с</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
@@ -7464,27 +7485,27 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>дні(в)</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>год</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>хв</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>с</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>мс</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -8076,13 +8097,16 @@ Please update %1!</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Увага: Цей ресурс символічно зв&apos;язаний з іншим ресурсом. Його редагування може змінити оригінал.
+Канонічний шлях: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Увага: Цей ресурс жорстко повʼязаний з іншим ресурсом. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
@@ -8136,13 +8160,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Увага: Цей ресурс символічно пов&apos;язаний з іншим ресурсом. Його редагування також змінить оригінал.
+Канонічний шлях: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Увага: Цей ресурс жорстко повʼязаний з іншим ресурсом. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
@@ -8272,17 +8299,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей файл буде завантажено в теку, відмінну від звичайної, скоріше за все, через те, що завантажувач цього вимагає.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
         <source>Confirm %1 selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити вибір %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
         <source>You&apos;re about to download the following %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви збираєтеся завантажити наступні %1:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
@@ -8721,7 +8748,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
         <source>Status Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробиці статусу</translation>
     </message>
 </context>
 <context>
@@ -8987,7 +9014,7 @@ inheritsFrom відсутній</translation>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Котик з&apos;являється на фоні і не відображається за замовчуванням. Він стає видимим лише при натисканні кнопки &quot;Кіт&quot; на панелі інструментів.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
@@ -9015,7 +9042,7 @@ inheritsFrom відсутній</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
         <source> Preview:</source>
-        <translation type="unfinished"></translation>
+        <translation> Попередній перегляд:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="331"/>
@@ -9229,13 +9256,14 @@ inheritsFrom відсутній</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="62"/>
         <source>Java major version is incompatible. Things might break.</source>
-        <translation type="unfinished"></translation>
+        <translation>Основна версія Java несумісна. Все може зламатися.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця збірка несумісна з версією Java %1.
+Будь ласка, перейдіть на одну з наступних версій Java для цієї збірки:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
@@ -9828,7 +9856,7 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="209"/>
         <source>Customize toolbar actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування дій на панелі інструментів</translation>
     </message>
 </context>
 <context>
@@ -10102,23 +10130,23 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="23"/>
         <source>Getting authorization to access %1 services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримання дозволу на доступ до сервісів %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="69"/>
         <source>Failed to get authorization for %1 services. Error %2.</source>
         <oldsource>Failed to get authorization for %1 services. Error %1.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося отримати дозвіл до сервісів %1. Помилка %2.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="75"/>
         <source>Unknown STS error for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Невідома помилка STS для сервісів %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="82"/>
         <source>Failed to get authorization for %1 services: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося отримати дозвіл до сервісів %1: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="92"/>
@@ -10128,12 +10156,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="100"/>
         <source>Server has changed %1 authorization user hash in the reply. Something is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер змінив хеш користувача авторизації %1 у відповіді. Щось не так.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="107"/>
         <source>Got authorization to access %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримано дозвіл на доступ до %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="123"/>
@@ -10153,7 +10181,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
         <source>XBox Live is not available in your country. You&apos;ve been blocked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live недоступний у вашій країні. Вас заблоковано.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="157"/>
@@ -10194,13 +10222,13 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="16"/>
         <source>Logging in as an Xbox user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхід як користувач Xbox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
         <source>XBox user authentication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося авторизувати користувача Xbox: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
@@ -10248,7 +10276,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="251"/>
         <source>Authentication operation cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Операція авторизації скасована.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
@@ -10278,7 +10306,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
         <source>An unknown Yggdrasil error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виникла невідома помилка Yggdrasil.</translation>
     </message>
 </context>
 <context>
