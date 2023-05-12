@@ -472,7 +472,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Nama profil Minecraft yang terkait dengan akunnya.</translation>
+        <translation>Bisakah akun ini bermigrasi ke sebuah akun Microsoft?</translation>
     </message>
 </context>
 <context>
@@ -1759,7 +1759,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="59"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Data tidak sah telah diberikan oleh API.</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -1771,7 +1771,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="120"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished">Mempersiapkan mod untuk CurseForge...</translation>
+        <translation>Mempersiapkan mod-mod untuk CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="125"/>
@@ -1787,12 +1787,12 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="141"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengurai respons API dari CurseForge untuk &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada versi benar yang ditemukan untuk mod ini. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -1831,12 +1831,12 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>No index file.</source>
-        <translation type="unfinished">Tidak ada file indeks.</translation>
+        <translation>Tidak ada berkas indeks.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kami tidak dapat menemukan berkas indeks yang cocok untuk versi yang lebih tua. Ini dapat menyebabkan beberapa berkas diduplikasi. Apakah Anda ingin menlanjutkan?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
@@ -1863,13 +1863,13 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
-        <translation type="unfinished">Tidak dapat memetakan versi forge yang direkomendasikan untuk Minecraft %1</translation>
+        <translation>Tidak dapat memetakan versi Forge yang direkomendasikan untuk Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Tidak dapat menyelesaikan ID mod:
+        <translation>Tidak dapat menemukan ID mod:
 </translation>
     </message>
     <message>
@@ -1881,7 +1881,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Berkas-berkas berikut tidak tersedia untuk diunduh dari peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan memasukkan mereka ke dalam instansi.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="456"/>
@@ -1891,17 +1891,17 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="501"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dari %2 selesai</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="515"/>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyalin Mod-mod Diblokir...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="528"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyalin Mod-mod diblokir (%1 dari %2 selesai)</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -1933,12 +1933,12 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="315"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Halo!&lt;/h1&gt;&lt;h4&gt;Sepertinya ID Paket Anda null. Ini dikarenakan terdapat sebuah bug dalam versi-versi lebih tua peluncur.&lt;br/&gt;Sayang sekali, kami tidak dapat melakukan permintaan API yang seharusnya tanpa informasi ini.&lt;br/&gt;&lt;br/&gt;Jadi, agar fitur ini dapat bekerja, Anda harus mengunduh ulang modpack dari pengunduh terpasang. &lt;br/&gt;&lt;br/&gt;Jangan khawatir, Anda akan diminta untuk memperbarui instansi ini sebaliknya, agar kamu tidak akan kehilangan instansi ini!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="377"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Saat ini)</translation>
     </message>
 </context>
 <context>
@@ -1997,7 +1997,7 @@ Coba ulang lagi.</translation>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Catatan: CurseForge memungkinkan kreator-kreator untuk memblokir akses ke alat -alat pihak ketiga seperti Prism Launcher. Karena itu, Anda mungkin harus mengunduh beberapa mod secara manual untuk dapat memasang sebuah modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2125,7 +2125,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="82"/>
         <source>Key</source>
-        <translation>Key</translation>
+        <translation>Kunci</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/gameoptions/GameOptions.cpp" line="84"/>
@@ -3355,7 +3355,8 @@ Anda mungkin ingin memperbaiki mod anda karena permainan masih berjalan ke file 
         <location filename="src/launcher/launch/LaunchTask.cpp" line="234"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemantauan log permainan terhenti karena panjang log melebihi %1 baris.
+Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke berkas-berkas dan mungkin membuang penyimpanan harddrive dengan cepat!</translation>
     </message>
 </context>
 <context>
@@ -3369,12 +3370,12 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="62"/>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="68"/>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mendapat token akses Minecraft gagal: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/LauncherLoginStep.cpp" line="79"/>
         <source>Failed to parse the Minecraft access token response.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengurai respons token akses Minecraft.</translation>
     </message>
 </context>
 <context>
@@ -3382,12 +3383,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="45"/>
         <source>Features</source>
-        <translation>Fitur</translation>
+        <translation>Fitur-fitur</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="51"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Barui Pengaturan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="57"/>
@@ -3398,27 +3399,27 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="67"/>
         <source>Folders</source>
-        <translation type="unfinished">Folder</translation>
+        <translation>Folder-folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="83"/>
         <source>I&amp;nstances:</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;nstansi-instansi:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;Mods:</translation>
+        <translation>&amp;Mod-mod:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;Ikon:</translation>
+        <translation>&amp;Ikon-ikon:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>&amp;Downloads:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Unduhan-unduhan:</translation>
     </message>
     <message>
         <source>...</source>
@@ -3432,18 +3433,18 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="218"/>
         <source>Instance view sorting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode pengurutan tampilan instansi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dengan terakhir diluncurkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
         <source>By &amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Dengan &amp;nama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="247"/>
@@ -3469,23 +3470,23 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="166"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod-mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Matikan penggunaan metadata yang disediakan penyelenggara-penyelenggara mod (seperti Modrinth atau CurseForge) untuk mod-mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods?</source>
-        <translation type="unfinished"></translation>
+        <translation>Matikan penggunaan metadata untuk mod-mod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Peringatan&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Mematikan metadata mod dapat mematikan beberapa fitur QoL, seperti pembaruan mod!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Legacy</source>
@@ -3503,28 +3504,28 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ketika dinyalakan, selain folder unduhan, subfolder-subfoldernya juga akan dicari ketika mencari sumber-sumber daya (contoh ketika mencari mod-mod terblokir di CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Periksa folder unduhan secara berulang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Alat-alat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="271"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menubar lebih ramah untuk interaksi berbasis keyboard.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="274"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ganti toolbar dengan menubar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="298"/>
@@ -3540,42 +3541,42 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running?</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Tampilkan konsol disaat game berjalan?</translation>
+        <translation>Tampilkan konsol ketika permainan sedang &amp;berjalan?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits?</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Otomatis tutup konsol disaat keluar dari game?</translation>
+        <translation>&amp;Tutup konsol secara otomatis ketika keluar permainan?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes?</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Tampilkan konsol disaat game gagal?</translation>
+        <translation>Tampilkan konsol ketika game &amp;crash?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation type="unfinished">Batas log</translation>
+        <translation>&amp;Batas riwayat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished">Berhenti membuat log saat log mencapai batas</translation>
+        <translation>&amp;Berhenti membuat log saat log melewati batas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
         <source> lines</source>
-        <translation> baris</translation>
+        <translation> baris-baris</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="381"/>
         <source>Console &amp;font</source>
         <oldsource>Console font</oldsource>
-        <translation type="unfinished">Font konsol</translation>
+        <translation>&amp;Font konsol</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
@@ -3585,12 +3586,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>Anda mencoba menentukan folder instansi dimana foldernya berisi setidaknya satu &apos;!&apos;. Java diketahui menyebabkan masalah. Jika ini masalahnya, instansi anda (mungkin) tidak akan mulai!</translation>
+        <translation>Anda mencoba menentukan folder instansi di mana alamatnya berisi setidaknya satu &apos;!&apos;. Java diketahui bermasalah dengan hal tersebut, instansi Anda (mungkin) tidak akan mulai!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>Apakah anda ingin menggunakan folder ini? Memilih &quot;Tidak&quot; akan menutup ini dan tidak mengubah folder instansi anda.</translation>
+        <translation>Apakah Anda ingin menggunakan alamat ini? Memilih &quot;Tidak&quot; akan menutup ini dan tidak mengubah alamat instansi Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
@@ -3602,7 +3603,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anda mencoba menentukan sebuah folder instansi yang diberikan sementara melalui Flatpak.
+Hal ini diketahui menyebabkan masalah-masalah. Setelah memulai ulang peluncur mungkin rusak, karena akan kehilangan akses ke direktori tersebut.
+
+Memberikan %1 akses kepadanya melalui Flatseal direkomendasikan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
@@ -3622,7 +3626,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Downloads Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder Unduhan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="308"/>
@@ -3645,19 +3649,19 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="102"/>
         <source>Launcher library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pustaka peluncur tidak dapat ditemukan. Mohon mengecek instalasi Anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="170"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>Pembungkus perintah &quot;%1&quot; tidak dapat ditemukan.</translation>
+        <translation>Perintah pembungkus &quot;%1&quot; tidak dapat ditemukan.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="203"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation type="unfinished">Tidak dapat menjalankan minecraft!</translation>
+        <translation>Tidak dapat menjalankan Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="212"/>
@@ -3748,7 +3752,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="159"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
-        <translation type="unfinished">Gagal untuk memindahkan hasil ekstrak dari minecraft!</translation>
+        <translation>Gagal memindahkan Minecraft yang tidak di-zip!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="226"/>
@@ -3800,12 +3804,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -3949,12 +3953,13 @@ Alasan:
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
         <source>Updating index for mod:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Membarui indeks untuk mod:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
         <source>Invalid metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata tidak sesuai</translation>
     </message>
 </context>
 <context>
@@ -3962,12 +3967,12 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="60"/>
         <source>Keep updating</source>
-        <translation>Masih memperbarui</translation>
+        <translation>Tetap memperbarui</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation>Pembungkus garis</translation>
+        <translation>Bungkus baris-baris</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -3982,7 +3987,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Unggah daftar riwayat ke paste.ee - file akan tersimpan secara online untuk sebulan</translation>
+        <translation>Unggah riwayat ke layanan tempel yang diatur dalam preferensi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -4043,7 +4048,7 @@ Alasan:
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Proses keluar dengan kode %1.</translation>
+        <translation>Proses gagal dengan kode keluar %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="123"/>
