@@ -222,7 +222,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 dari %2 selesai</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -4789,12 +4789,12 @@ Are you sure?</oldsource>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="923"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="923"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="926"/>
@@ -5054,12 +5054,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="137"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tugas dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="137"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tugas telah dibatalkan oleh pengguna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="142"/>
@@ -5676,7 +5676,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="51"/>
         <source>Mods</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mod-mod</translation>
     </message>
 </context>
 <context>
@@ -5946,7 +5946,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="106"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tidak ada versi benar yang ditemukan untuk mod ini. Mungkin tidak tersedia untuk versi permainan / pemuat mod saat ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="134"/>
@@ -5986,7 +5986,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="138"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kami tidak dapat menemukan berkas indeks yang cocok untuk versi yang lebih tua. Ini dapat menyebabkan beberapa berkas diduplikasi. Apakah Anda ingin menlanjutkan?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="182"/>
@@ -6018,7 +6018,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 dari %2 selesai</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
@@ -6052,7 +6052,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="237"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (Saat ini)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="250"/>
