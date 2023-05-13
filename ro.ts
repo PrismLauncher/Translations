@@ -964,7 +964,7 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <translation>Echipează pelerina</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="73"/>
         <source>Removing cape</source>
         <translation>Dezbracă pelerina</translation>
     </message>
@@ -4089,30 +4089,30 @@ Motiv:
 <context>
     <name>LoggedProcess</name>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
         <translation type="unfinished">Procesul a ieșit cu codul %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="114"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="110"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
         <translation>Procesul a luat crash.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="112"/>
         <source>Process crashed with exitcode %1.</source>
         <translation>Procesul s-a blocat cu codul de ieșire %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="123"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="119"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
         <translation>Procesul a fost oprit de utilizator.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="134"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="130"/>
         <source>The process failed to start.</source>
         <translation>Procesul nu a reușit să pornească.</translation>
     </message>
@@ -9173,76 +9173,76 @@ Are you sure?</source>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="215"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="218"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Name</source>
         <translation>Nume</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="292"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
         <source>Game Mode</source>
         <translation>Modul de joc</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="293"/>
         <source>Last Played</source>
         <translation>Ultima dată jucat</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="297"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="296"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Dimensiune</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="299"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="308"/>
         <source>The name of the world.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="310"/>
         <source>Game mode of the world.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="312"/>
         <source>Date and time the world was last played.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="314"/>
         <source>Size of the world on disk.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="316"/>
         <source>Information and warnings about the world.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9520,18 +9520,18 @@ Please set up your account according to %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>XBox user authentication response could not be understood.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="82"/>
         <source>Got Xbox user token</source>
         <translation type="unfinished"></translation>
     </message>

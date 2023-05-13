@@ -976,7 +976,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>Köpeny felvevése</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="73"/>
         <source>Removing cape</source>
         <translation>Köpeny levétele</translation>
     </message>
@@ -4156,30 +4156,30 @@ Indok:
 <context>
     <name>LoggedProcess</name>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
         <translation>A folyamat kilépett %1 kóddal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="114"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="110"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
         <translation>Folyamat összeomlott.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="112"/>
         <source>Process crashed with exitcode %1.</source>
         <translation>Folyamat összeomlott %1 kilépési kóddal.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="123"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="119"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
         <translation>Folyamat megölve a felhasználó által.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="134"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="130"/>
         <source>The process failed to start.</source>
         <translation>A folyamatnak nem sikerült elindulni.</translation>
     </message>
@@ -5030,13 +5030,6 @@ Do you wish to proceed?</source>
 %1
 
 A törlés tönkreteheti a másik példányt,
-
-Szeretné folytatni?</numerusform>
-            <numerusform>A következő példányok hivatkozhatnak fájlokra ebben a példányban:
-
-%1
-
-A törlés tönkreteheti a többi példányt,
 
 Szeretné folytatni?</numerusform>
         </translation>
@@ -9910,78 +9903,78 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="215"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>Ez a világ szimbolikusan van összekapcsolva máshonnan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="218"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 Ez a világ hard linkelve van máshova.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>Figyelmeztetés: Ez a világ szimbolikusan van összekapcsolva máshonnan. A szerkesztéssel az eredeti is megváltozik.
 Kanonikus elérési út: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>Figyelmeztetés: Ez a világ hard linkelve van máshova. A szerkesztéssel az eredeti is megváltozik.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="292"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
         <source>Game Mode</source>
         <translation>Játékmód</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="293"/>
         <source>Last Played</source>
         <translation>Utoljára játszva</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="297"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="296"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Méret</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="299"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>Információ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="308"/>
         <source>The name of the world.</source>
         <translation>A világ neve.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="310"/>
         <source>Game mode of the world.</source>
         <translation>A világ játékmódja.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="312"/>
         <source>Date and time the world was last played.</source>
         <translation>A világ legutóbbi játszásának dátuma és ideje.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="314"/>
         <source>Size of the world on disk.</source>
         <translation>Világ mérete a lemezen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="316"/>
         <source>Information and warnings about the world.</source>
         <translation>Információk és figyelmeztetések a világról.</translation>
     </message>
@@ -10279,18 +10272,18 @@ Kérjük, állítsa be fiókját a %1 szerint.</translation>
         <translation>Bejelentkezés Xbox felhasználóként.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication failed: %1</source>
         <translation>XBox felhasználó hitelesítése nem sikerült: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>XBox user authentication response could not be understood.</source>
         <translation>XBox felhasználói hitelesítési válasza nem értelmezhető.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="82"/>
         <source>Got Xbox user token</source>
         <translation>Xbox felhasználói token megszerezve</translation>
     </message>

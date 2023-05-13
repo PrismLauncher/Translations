@@ -980,7 +980,7 @@ Please update both your operating system and %1.</source>
         <translation>망토 착용</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="73"/>
         <source>Removing cape</source>
         <translation>망토 착용 해제</translation>
     </message>
@@ -4154,30 +4154,30 @@ Reason:
 <context>
     <name>LoggedProcess</name>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
         <translation>마인크래프트가 종료 코드 %1와(과) 함께 종료했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="114"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="110"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
         <translation>프로세스가 충돌했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="112"/>
         <source>Process crashed with exitcode %1.</source>
         <translation>프로세스가 종료 코드 %1와(과) 함께 충돌했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="123"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="119"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
         <translation>마인크래프트가 사용자에 의해 강제로 종료되었습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="134"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="130"/>
         <source>The process failed to start.</source>
         <translation>명령어 시작에 실패했습니다.</translation>
     </message>
@@ -9904,76 +9904,76 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="215"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="218"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="292"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
         <source>Game Mode</source>
         <translation>게임 모드</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="293"/>
         <source>Last Played</source>
         <translation>최근 실행일</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="297"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="296"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>크기</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="299"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="308"/>
         <source>The name of the world.</source>
         <translation>세계 이름입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="310"/>
         <source>Game mode of the world.</source>
         <translation>세계의 게임 모드입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="312"/>
         <source>Date and time the world was last played.</source>
         <translation>세계가 마지막으로 플레이 된 날짜와 시간입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="314"/>
         <source>Size of the world on disk.</source>
         <translation>디스크에 있는 세계의 크기입니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="316"/>
         <source>Information and warnings about the world.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10279,18 +10279,18 @@ Please set up your account according to %1.</source>
         <translation type="vanished">XBox 유저 인증에 실패했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication failed: %1</source>
         <translation>XBox 유저 인증에 실패했습니다: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>XBox user authentication response could not be understood.</source>
         <translation>XBox 유저 인증 응답을 이해할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="82"/>
         <source>Got Xbox user token</source>
         <translation>Xbox 사용자 토큰 가져오기</translation>
     </message>

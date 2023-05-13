@@ -1000,7 +1000,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
         <translation>Umhang auswählen</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="68"/>
+        <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="73"/>
         <source>Removing cape</source>
         <translation>Umhang entfernen</translation>
     </message>
@@ -4251,30 +4251,30 @@ Grund:
 <context>
     <name>LoggedProcess</name>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="107"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
         <translation>Der Prozess wurde mit Status %1 beendet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="114"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="110"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
         <translation>Der Prozess ist abgestürzt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="116"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="112"/>
         <source>Process crashed with exitcode %1.</source>
         <translation>Der Prozess ist mit dem Status %1 abgestürzt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="123"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="119"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
         <translation>Das Programm wurde durch den Benutzer sofort beendet.</translation>
     </message>
     <message>
-        <location filename="src/launcher/LoggedProcess.cpp" line="134"/>
+        <location filename="src/launcher/LoggedProcess.cpp" line="130"/>
         <source>The process failed to start.</source>
         <translation>Fehler beim Starten des Prozesses.</translation>
     </message>
@@ -10119,78 +10119,78 @@ Bitte füge dein Mojang- oder Minecraft-Konto hinzu.</translation>
 <context>
     <name>WorldList</name>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="216"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="215"/>
         <source>This world is symbolically linked from elsewhere.</source>
         <translation>Diese Welt ist symbolisch mit einer anderen verlinkt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="219"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="218"/>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
 Diese Welt ist woanders fest verknüpft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="240"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>Achtung: Diese Welt ist symbolisch von anderswo verbunden. Durch die Bearbeitung wird auch das Original verändert.
 Kanonischer Pfad: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="244"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>Achtung: Diese Welt ist woanders fest verknüpft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="290"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="292"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
         <source>Game Mode</source>
         <translation>Spielmodus</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="294"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="293"/>
         <source>Last Played</source>
         <translation>Zuletzt gespielt</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="297"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="296"/>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
         <translation>Größe</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="300"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="299"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="309"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="308"/>
         <source>The name of the world.</source>
         <translation>Der Name der Welt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="311"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="310"/>
         <source>Game mode of the world.</source>
         <translation>Spielmodus der Welt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="313"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="312"/>
         <source>Date and time the world was last played.</source>
         <translation>Zeit und Datum, wann die Welt zuletzt gespielt wurde.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="315"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="314"/>
         <source>Size of the world on disk.</source>
         <translation>Größe der Welt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/WorldList.cpp" line="317"/>
+        <location filename="src/launcher/minecraft/WorldList.cpp" line="316"/>
         <source>Information and warnings about the world.</source>
         <translation>Informationen und Warnungen über die Welt.</translation>
     </message>
@@ -10496,18 +10496,18 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
         <translation type="vanished">Xbox Benutzerauthentifizierung fehlgeschlagen.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="59"/>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="65"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="63"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="69"/>
         <source>XBox user authentication failed: %1</source>
         <translation>XBox-Benutzerauthentifizierung fehlgeschlagen: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="74"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>XBox user authentication response could not be understood.</source>
         <translation>Xbox Benutzerauthentifizierungsantwort konnte nicht verstanden werden.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
+        <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="82"/>
         <source>Got Xbox user token</source>
         <translation>Xbox-Benutzertoken erhalten</translation>
     </message>
