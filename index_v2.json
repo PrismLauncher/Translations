@@ -163,12 +163,12 @@
             "untranslated" : 513
         },
         "et" : {
-            "file" : "13ae3eadee6152641b38e1547562b5eb7ccacdf6.class",
-            "sha1" : "13ae3eadee6152641b38e1547562b5eb7ccacdf6",
-            "size" : 161388,
+            "file" : "1c2440faee2fb9105544eb2015d99b3d5e6aa15d.class",
+            "sha1" : "1c2440faee2fb9105544eb2015d99b3d5e6aa15d",
+            "size" : 161482,
             "translated" : 1265,
-            "fuzzy" : 1,
-            "untranslated" : 327
+            "fuzzy" : 2,
+            "untranslated" : 326
         },
         "eu" : {
             "file" : "9d8ed37f82fafcd0dd7fc19b0cd5a52c298a8f93.class",
@@ -451,12 +451,12 @@
             "untranslated" : 1557
         },
         "sk" : {
-            "file" : "d3910df4effb0e6f923de47ae5a1dd2ee0a2d0e0.class",
-            "sha1" : "d3910df4effb0e6f923de47ae5a1dd2ee0a2d0e0",
-            "size" : 119462,
+            "file" : "d734c30b09947e7e22b9a560c6c325bec5001dec.class",
+            "sha1" : "d734c30b09947e7e22b9a560c6c325bec5001dec",
+            "size" : 119533,
             "translated" : 837,
-            "fuzzy" : 125,
-            "untranslated" : 631
+            "fuzzy" : 126,
+            "untranslated" : 630
         },
         "sl" : {
             "file" : "103af2f935fe24bf0457a3c52dbcfcfb3491b7c2.class",
@@ -531,12 +531,12 @@
             "untranslated" : 431
         },
         "zh" : {
-            "file" : "fcb3683e6106a37b7a73894e337b53bc728f2b4a.class",
-            "sha1" : "fcb3683e6106a37b7a73894e337b53bc728f2b4a",
-            "size" : 158901,
-            "translated" : 1557,
-            "fuzzy" : 3,
-            "untranslated" : 33
+            "file" : "9917ba0637d33ccdcfa7b51319576bf294f819df.class",
+            "sha1" : "9917ba0637d33ccdcfa7b51319576bf294f819df",
+            "size" : 161807,
+            "translated" : 1577,
+            "fuzzy" : 9,
+            "untranslated" : 7
         },
         "zh_TW" : {
             "file" : "7ea53afedfeb42863dafeee0e5ed6a7c137f2419.class",
