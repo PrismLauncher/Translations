@@ -1200,7 +1200,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>Файли, клоновані завдяки рефлінкам не займають місце, поки вони не будуть змінені.</translation>
+        <translation>Файли, клоновані завдяки рефлінкам, не займають місце, поки вони не будуть змінені.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
@@ -1210,7 +1210,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша файлова система та/або ОС не підтримує рефлінки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1245,12 +1245,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Рефлінки підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Рефлінки не підтримуються на %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
@@ -1908,7 +1908,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="456"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження моду з Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="501"/>
@@ -4981,7 +4981,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation>Є зв&apos;язані збірки</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1344"/>
@@ -5398,7 +5398,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="190"/>
         <source>Tweaks</source>
-        <translation type="unfinished">Твіки</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
@@ -6322,7 +6322,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="227"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження моду з Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
@@ -8743,7 +8743,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус підзадачі...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
@@ -9273,7 +9273,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейдіть в налаштування Java в збірці, щоб змінити версію Java або вимкнути перевірку сумісності Java, якщо ви знаєте, що робите.</translation>
     </message>
 </context>
 <context>
@@ -9864,24 +9864,26 @@ Please add your Mojang or Minecraft account.</oldsource>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="215"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей світ символічно пов&apos;язаний з іншим світом.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="218"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Цей світ жорстко пов&apos;язаний з іншим світом.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Увага: Цей світ символічно пов&apos;язаний з іншим світом. Його редагування також змінить оригінал.
+Канонічний шлях: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увага: Цей жорстко тісно пов&apos;язаний з іншими. Його редагування також змінить оригінал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
