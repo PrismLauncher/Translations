@@ -2986,7 +2986,7 @@ Coba ulang lagi.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="256"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jika dinyalakan, peluncur tidak akan memeriksa jika sebuah instansi kompatibel dengan versi Java yang dipilih.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="259"/>
