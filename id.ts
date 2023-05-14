@@ -4077,7 +4077,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation>Kata sandi</translation>
     </message>
 </context>
 <context>
@@ -4095,7 +4095,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Tolong buka %1 di dalam browser dan masukkan kode &lt;b&gt;%2&lt;/b&gt; untuk login.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Tolong buka %1 di dalam peramban dan masukkan kode &lt;b&gt;%2&lt;/b&gt; untuk masuk.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4103,12 +4103,12 @@ Alasan:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="68"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>Masuk dengan akun Microsoft.</translation>
+        <translation>Memasuki dengan akun Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="90"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otentikasi pengguna Microsoft gagal - identifikasi klien telah berubah.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="127"/>
@@ -4159,7 +4159,7 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
         <source>Main Toolbar</source>
-        <translation>Bilah alat Utama</translation>
+        <translation>Bilah Alat Utama</translation>
     </message>
     <message>
         <source>Add Instance</source>
@@ -4168,13 +4168,13 @@ Alasan:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="276"/>
         <source>Add a new instance.</source>
-        <translation>Tambahkan instansi terbaru.</translation>
+        <translation>Tambahkan instansi baru.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="525"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished">Lihat folder instansi</translation>
+        <translation>&amp;Lihat Folder Instansi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="528"/>
