@@ -43,12 +43,12 @@
             "untranslated" : 420
         },
         "cs" : {
-            "file" : "cd47a99c3cc1a3a023dfada36932a8ef7137d077.class",
-            "sha1" : "cd47a99c3cc1a3a023dfada36932a8ef7137d077",
-            "size" : 223733,
-            "translated" : 1571,
-            "fuzzy" : 3,
-            "untranslated" : 19
+            "file" : "146461ad61f355d06bf4a3bc5365b2d13d33be88.class",
+            "sha1" : "146461ad61f355d06bf4a3bc5365b2d13d33be88",
+            "size" : 225307,
+            "translated" : 1593,
+            "fuzzy" : 0,
+            "untranslated" : 0
         },
         "cy" : {
             "file" : "4808b0adafd1a9c34944ffcaa7419aae2173384f.class",
@@ -259,12 +259,12 @@
             "untranslated" : 1470
         },
         "id" : {
-            "file" : "fb52152fda0da6c1e33f8f62b7ebb653237ad0f7.class",
-            "sha1" : "fb52152fda0da6c1e33f8f62b7ebb653237ad0f7",
-            "size" : 142546,
-            "translated" : 856,
-            "fuzzy" : 201,
-            "untranslated" : 536
+            "file" : "ee901bd2ed13449127d138cc7acec21bb3f3f538.class",
+            "sha1" : "ee901bd2ed13449127d138cc7acec21bb3f3f538",
+            "size" : 150626,
+            "translated" : 926,
+            "fuzzy" : 166,
+            "untranslated" : 501
         },
         "is" : {
             "file" : "8005b402ea8cf89cc95409ae65d018fe28f517a2.class",
@@ -515,12 +515,12 @@
             "untranslated" : 70
         },
         "uk" : {
-            "file" : "b4d7faa741b78e35038621e031ae103e81f93c35.class",
-            "sha1" : "b4d7faa741b78e35038621e031ae103e81f93c35",
-            "size" : 220014,
-            "translated" : 1544,
-            "fuzzy" : 2,
-            "untranslated" : 47
+            "file" : "a95437b71539d846b394149257d7dfe8c64fe879.class",
+            "sha1" : "a95437b71539d846b394149257d7dfe8c64fe879",
+            "size" : 228627,
+            "translated" : 1580,
+            "fuzzy" : 1,
+            "untranslated" : 12
         },
         "vi" : {
             "file" : "cf34dda1be5f7476a9e00cff2c6be87fa330d1fc.class",
