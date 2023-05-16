@@ -5032,6 +5032,13 @@ Do you wish to proceed?</source>
 A törlés tönkreteheti a másik példányt,
 
 Szeretné folytatni?</numerusform>
+            <numerusform>A következő példányok hivatkozhatnak fájlokra ebben a példányban:
+
+%1
+
+A törlés tönkreteheti a többi példányt,
+
+Szeretné folytatni?</numerusform>
         </translation>
     </message>
     <message>
@@ -6575,13 +6582,13 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/net/Download.cpp" line="174"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation>%1/mp (%2)</translation>
+        <translation>%1/mp. (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="177"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation>0 B/mp</translation>
+        <translation>0 B/mp.</translation>
     </message>
 </context>
 <context>
@@ -7525,7 +7532,7 @@ Kérjük, tájékoztasson minket, hogy miért és hogyan történt ez.</translat
         <location filename="src/launcher/MMCTime.cpp" line="33"/>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation>%1 perc %2 mp</translation>
+        <translation>%1 perc %2 mp.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="37"/>
@@ -7557,7 +7564,7 @@ Kérjük, tájékoztasson minket, hogy miért és hogyan történt ez.</translat
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation>mp</translation>
+        <translation>mp.</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
