@@ -66,12 +66,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievadi savu API atslēgu priekš Modrinth te.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nav)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
@@ -222,7 +222,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 no %2 pabeigts</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -597,7 +597,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished">Lūdzu, ievadiet vēlamo lietotājvārdu, lai pievienotu savu bezsaistes kontu.</translation>
+        <translation>Lūdzu, ievadiet vēlamo lietotājvārdu, lai pievienotu savu bezsaistes kontu.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -630,7 +630,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Klienta ID ir mainījies. Jāizveido jauna sesija.</translation>
+        <translation>Klienta ID ir mainījies. Jāizveido jauna sesija.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -668,27 +668,27 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1232"/>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation>Pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Veci dati no %1 tika atrasti, bet tev jau ir pastāvoši dati priekš %2. Diemžēl tev nāksies migrēt pašam. Vai vēlies tikt atgādināts par datu migrāciju nākošreiz kad tu atver %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Izskatās ka esi lietojis %1 iepriekš. Vai vēlies migrēt savus datus uz jauno atrašānās vietu %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1676"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Izskatās ka jau esi lietojis %1 uz %2 iepriekš. Vai vēlies migrēt savus datus uz jauno vietu %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1718"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Migrācija neizdevās! Iemesls: %1</translation>
     </message>
 </context>
 <context>
@@ -707,7 +707,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation>Pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
@@ -740,19 +740,19 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Kārtot pēc popularitātes</translation>
+        <translation>Kārtot pēc popularitātes</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Kārtot pēc nosaukuma</translation>
+        <translation>Kārtot pēc nosaukuma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Kārtot pēc spēles versijas</translation>
+        <translation>Kārtot pēc spēles versijas</translation>
     </message>
 </context>
 <context>
@@ -785,17 +785,17 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievadi koplietošanas kodu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>koplietošanas kods:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nekāds koplietošanas kods netika norādīts!</translation>
     </message>
 </context>
 <context>
@@ -803,12 +803,12 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai esi drošs ka vēlies ieslēgt šo modifikāciju?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Brīdinājums</translation>
     </message>
 </context>
 <context>
@@ -827,7 +827,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Meklēt un filtrēt...</translation>
+        <translation>Meklēt un filtrēt...</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -851,22 +851,22 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nav pieejamas versijas priekš Minecraft %1</translation>
+        <translation>Nav pagaidām pieejamas versijas priekš Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Nav pieejamu versiju</translation>
+        <translation>Nav pieejamu versiju</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Neizdevās ielādēt vai lejupielādēt versijas sarakstu!</translation>
+        <translation>Neizdevās ielādēt vai lejupielādēt versijas sarakstu!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiek instalēšana</translation>
     </message>
 </context>
 <context>
@@ -900,52 +900,52 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="166"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>Visas modifikācijas atrastas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="169"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu lejupielādējiet pietrūkstošās modifikācijas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt;&amp;#x2714; Atrasts %1 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Atvērt trūkstošo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienot Lejupielādes mapi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="131"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievadi mapi kur jūs ielādējāt modifikācijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="151"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718; Neatrasts &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="153"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt;&lt;p&gt; Šifrs: %3 %4&lt;/p&gt;&lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Jūsu konfigurētā globālā modifikāciju mape un noklusējuma lejupielādes mape tiek automātiski pārbaudīta priekš lejupielādētām modifikācijām un tiks nokopēta uz instanci ja atrasta.&lt;/p&gt;&lt;p&gt;Pēc izvēles šajā dialoglodziņā varat vilkt un nomest lejupielādētos modus vai pievienot mapi, ko skatīties, ja modi nav lejupielādēti noklusējuma vietā.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skatītās mapes:</translation>
     </message>
 </context>
 <context>
@@ -966,7 +966,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nav atrasta Java pārbaudītāja bibliotēka. Lūdzu, pārbaudiet instalāciju.</translation>
     </message>
 </context>
 <context>
@@ -974,32 +974,32 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="14"/>
         <source>Choose a mod provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlieties modifikāciju pakalpojumu sniedzēju</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="45"/>
         <source>Skip this mod</source>
-        <translation type="unfinished"></translation>
+        <translation>Izlaist šo modifikāciju</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>Izlaist visu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
         <source>Confirm for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Apstiprināt priekš visiem</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Apstiprināt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation type="unfinished"></translation>
+        <translation>Mēģināt automātiski izmantot citus pakalpojumu sniedzējus, ja izvēlētais pakalpojumu sniedzējs nedarbojas</translation>
     </message>
 </context>
 <context>
@@ -1008,7 +1008,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation>Pārtraukts</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1043,32 +1043,32 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="97"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neizdevās pārtraukt visus darbojošos uzdevumus.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="292"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izpilda %1 uzdevumu(-us) (%2 no %3 ir izpildīti)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="296"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Lūdzu uzgaidiet...</translation>
+        <translation>Lūdzu uzgaidiet...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="298"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzdevuma sākšanas gaidīšana...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="300"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izpilda 1 uzdevumu:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="302"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzdevums izpildīts.</translation>
     </message>
 </context>
 <context>
@@ -1091,32 +1091,32 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlēties visu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izslēdzot šo funkciju, joprojām tiks saglabāts modifikāciju ielādētājs (piem.: Fabric, Quilt utt.), bet tiks izdzēsta modifikāciju mape un to konfigurācijas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanču kopēšanas opcijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopēt modifikācijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopēt spēles opcijas, piemēram, FOV, maksimālo kadru uzņemšanas ātrumu utt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopēt spēles opcijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
@@ -1126,7 +1126,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Paplašinātās kopēšanas opcijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
@@ -1141,17 +1141,17 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Saites tiek atbalstītas vairumā failu sistēmu, izņemot FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished"></translation>
+        <translation>Noteikt katra resursa sasaisti atsevišķi, nevis visu mapju sasaiste uzreiz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Failu rekursīva sasaiste</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
@@ -1255,7 +1255,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="77"/>
         <source>Core mods</source>
-        <translation type="unfinished">Galvenās Modifikācijas</translation>
+        <translation>Galvenās Modifikācijas</translation>
     </message>
 </context>
 <context>
@@ -1272,7 +1272,7 @@ Lūdzu, atjauniniet gan operētājsistēmu, gan %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">Pielāgo&amp;tas komandas</translation>
+        <translation>&amp;Pielāgotas komandas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
