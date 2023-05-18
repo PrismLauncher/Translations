@@ -238,7 +238,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 из %2 завершено</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -1093,22 +1093,22 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="296"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Пожалуйста, подождите...</translation>
+        <translation>Пожалуйста, подождите...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="298"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ожидание начала выполнения задачи...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="300"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выполнение 1 задания:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="302"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Задача выполнена.</translation>
     </message>
 </context>
 <context>
@@ -1940,12 +1940,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="456"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать мод Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="501"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 из %2 завершено</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="515"/>
@@ -6514,7 +6514,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="227"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать мод Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
@@ -6524,7 +6524,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 из %2 завершено</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
@@ -6742,12 +6742,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/net/Download.cpp" line="167"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="171"/>
         <source>unknown</source>
-        <translation type="unfinished">неизвестно</translation>
+        <translation>неизвестно</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="174"/>
@@ -6759,7 +6759,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/net/Download.cpp" line="177"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0 Б/с</translation>
     </message>
 </context>
 <context>
@@ -7729,27 +7729,27 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>дней</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>час</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>мин</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>сек</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>мс</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -8989,12 +8989,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус подзадачи...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
