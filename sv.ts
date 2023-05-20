@@ -499,7 +499,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>&amp;Ingen standard</translation>
+        <translation>&amp;Inget som standard</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
@@ -6731,7 +6731,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="94"/>
         <source>Clear the log</source>
-        <translation>Rensa loggen</translation>
+        <translation>Radera loggen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
@@ -7515,7 +7515,7 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>Java-test lyckades!&lt;br /&gt;Plattform rapporterad: %1&lt;br /&gt;Java-version rapporterad: %2&lt;br /&gt;Java-leverantör rapporterad: %3&lt;br /&gt;</translation>
+        <translation>Javatestet lyckades!&lt;br /&gt;Angiven plattform: %1&lt;br /&gt;Angiven Javaversion: %2&lt;br /&gt;Angiven Java-leverantör: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
