@@ -5152,10 +5152,28 @@ Are you sure?</oldsource>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Сборка может ссылаться на файл из этой сборки:
+
+%1
+
+Удаление этого файла может привести к неправильной работе другой сборки, 
+
+Вы хотите продолжить?</numerusform>
+            <numerusform>Сборка может ссылаться на файл из этой сборки:
+
+%1
+
+Удаление этого файла может привести к неправильной работе нескольких сборок, 
+
+Вы хотите продолжить?</numerusform>
+            <numerusform>Сборка может ссылаться на файл из этой сборки:
+
+%1
+
+Удаление этого файла может привести к неправильной работе многих сборок, 
+
+Вы хотите продолжить?</numerusform>
         </translation>
     </message>
     <message>
@@ -10126,12 +10144,13 @@ This world is hard linked elsewhere.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Внимание: Этот мир связан с другим миром при помощи символических ссылок.. Редактирование может изменить его оригинал.
+Каноничный путь: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Внимание: Этот мир серьезно задействован в другом месте. Редактирование может изменить его оригинал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
