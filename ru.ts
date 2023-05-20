@@ -10144,7 +10144,7 @@ This world is hard linked elsewhere.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation>Внимание: Этот мир связан с другим миром при помощи символических ссылок.. Редактирование может изменить его оригинал.
+        <translation>Внимание: Этот мир связан незначительно с другим миром. Редактирование может изменить его оригинал.
 Каноничный путь: %1</translation>
     </message>
     <message>
