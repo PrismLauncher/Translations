@@ -25,7 +25,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>С&amp;ервис вставки</translation>
+        <translation>Сервис вставки &amp;Type</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -55,7 +55,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Примечание: вам не нужно изменять это, если вход в аккаунт Microsoft уже работает.</translation>
+        <translation>Примечание: вам, скорее всего, не нужно изменять это, если вход в аккаунт Microsoft уже работает.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -67,7 +67,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation>Введите здесь собственный client ID для аутентификации Microsoft.</translation>
+        <translation>Введите здесь свой client ID для аутентификации Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
@@ -77,12 +77,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: нужно только для того, чтобы получить доступ к приватному контенту. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;документацию&lt;/a&gt; для большей информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Примечание: нужно это только для того, чтобы получить доступ к приватному контенту. Прочитайте &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;документацию&lt;/a&gt; для большей информации.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Вставь сюда свой API токен для Modrinth.</translation>
+        <translation>Вставьте сюда свой API токен для Modrinth.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -107,12 +107,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Сер&amp;вер метаданных</translation>
+        <translation>Сервер мета&amp;данных</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Вы можете вписать сторонний сервер метаданных для использования патченных библиотек или других хаков.</translation>
+        <translation>Вы можете вписать сторонний сервер метаданных для использования пропатченных библиотек или других хаков.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -122,12 +122,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge API</translation>
+        <translation>&amp;CurseForge Core API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Примечание: вам не нужно изменять это, если CurseForge уже работает.</translation>
+        <translation>Примечание: вам, скорее всего, не нужно изменять это, если CurseForge уже работает.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation>API</translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
