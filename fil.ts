@@ -1750,7 +1750,8 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hindi maintindihan ang manifest ng pack:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="117"/>
@@ -2432,7 +2433,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="368"/>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="541"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iba pa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="473"/>
@@ -4764,7 +4765,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="147"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iba pa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="153"/>
@@ -7582,7 +7583,8 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="102"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hindi maintindihan ang manifest ng pack:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="140"/>
