@@ -238,7 +238,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 z %2 ukończone</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
