@@ -1237,7 +1237,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation>Erőforrás-csomagok másolása</translation>
+        <translation>Forráscsomagok másolása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -7984,7 +7984,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="124"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Erőforrás csomagok</translation>
+        <translation>Forráscsomagok</translation>
     </message>
 </context>
 <context>
@@ -7993,7 +7993,7 @@ Kérjük, frissítse a következőt: %1!</translation>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="37"/>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation>erőforrás csomagok</translation>
+        <translation>Forráscsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePackPage.h" line="39"/>
@@ -8268,7 +8268,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.h" line="51"/>
         <source>Resource packs</source>
-        <translation>Erőforrás csomagok</translation>
+        <translation>Forráscsomagok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="49"/>
@@ -8278,7 +8278,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="50"/>
         <source>Download resource packs from online platforms</source>
-        <translation>Töltse le az erőforráscsomagokat online platformokról</translation>
+        <translation>Töltse le a forráscsomagokat online platformokról</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="79"/>
