@@ -121,7 +121,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="148"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>mi pakala kama jo e nanpa sona tawa &apos;%1&apos;v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="138"/>
@@ -3504,7 +3504,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="312"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>o open e poki namako wan (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="313"/>
@@ -3570,7 +3570,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="639"/>
         <source>Change Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e sitelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="683"/>
@@ -3585,7 +3585,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="297"/>
         <source>Add Instanc&amp;e...</source>
-        <translation type="unfinished"></translation>
+        <translation>o pali &amp;e musi sin...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="317"/>
@@ -3597,7 +3597,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="337"/>
         <source>Setti&amp;ngs...</source>
         <oldsource>Settings...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>e lawa musi... (&amp;n)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="354"/>
@@ -3642,7 +3642,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="497"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>e lipu (&amp;F)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="527"/>
@@ -3724,7 +3724,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="697"/>
         <source>E&amp;dit Notes...</source>
-        <translation type="unfinished"></translation>
+        <translation>o ante e lipu musi... (&amp;d)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="703"/>
@@ -3875,7 +3875,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="757"/>
         <source>Dele&amp;te Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>o weka e ijo musi (&amp;t)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
@@ -3891,7 +3891,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="979"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1100"/>
         <source>No instance selected</source>
-        <translation type="unfinished"></translation>
+        <translation>e ijo musi wile ala</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="980"/>
