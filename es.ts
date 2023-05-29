@@ -5124,6 +5124,13 @@ Borrarla podría romper la otra instancia,
 Borrarlo podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarlo podría romper las otras instancias, 
+
+¿Desea continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -10398,7 +10405,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="16"/>
         <source>Logging in as an Xbox user.</source>
-        <translation>Iniciando sesión como usuario de XBox.</translation>
+        <translation>Iniciando sesión como usuario de Xbox.</translation>
     </message>
     <message>
         <source>XBox user authentication failed.</source>
