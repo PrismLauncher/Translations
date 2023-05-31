@@ -291,9 +291,9 @@
             "untranslated" : 3
         },
         "ja" : {
-            "file" : "1c5a5916a59cbb980b53dc9d3ca7e49b6aae475d.class",
-            "sha1" : "1c5a5916a59cbb980b53dc9d3ca7e49b6aae475d",
-            "size" : 179658,
+            "file" : "444c6195e57e849d0c20044a1ae03ce70cb9fc99.class",
+            "sha1" : "444c6195e57e849d0c20044a1ae03ce70cb9fc99",
+            "size" : 179624,
             "translated" : 1566,
             "fuzzy" : 4,
             "untranslated" : 23
