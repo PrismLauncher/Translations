@@ -69,17 +69,17 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;หมายเหตุ: คุณแค่ปรับสิ่งนี้เพื่อเข้าถึงข้อมูลส่วนตัว อ่านข้อมูลเพิ่มเติมได้ทาง&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;เอกสารอ้างอิง&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>กรอกโทเคน API แบบกำหนดเองสำหรับ Modrinth ที่นี่</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ไม่มี)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
@@ -230,7 +230,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -273,7 +273,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ลันเชอร์ปรับแต่งที่จะทำให้การจัดการ Minecraft ง่ายขึ้นโดยทำให้คุณสามารถมี Instance ของ Minecraft ได้หลาย ๆ ตัวในที่เดียว&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -333,7 +333,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>วันที่มีการ Build: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -360,7 +360,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>ยังไม่ได้ตรวจสอบ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
@@ -378,7 +378,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>กำลังดำเนินการ</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
@@ -402,7 +402,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>หายไปแล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
@@ -484,37 +484,37 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="68"/>
         <source>Add &amp;Mojang</source>
         <oldsource>Add Mojang</oldsource>
-        <translation type="unfinished">เพิ่มบัญชี Mojang</translation>
+        <translation>เพิ่มบัญชี &amp;Mojang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="73"/>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">นำออก</translation>
+        <translation>&amp;นำออก</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">ตั้งเป็นค่าเริ่มต้น</translation>
+        <translation>&amp;ตั้งเป็นค่าเริ่มต้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">ไม่มีค่าเริ่มต้น</translation>
+        <translation>&amp;ไม่มีค่าเริ่มต้น</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished">อัปโหลดสกิน</translation>
+        <translation>&amp;อัปโหลดสกิน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
         <source>&amp;Delete Skin</source>
         <oldsource>Delete Skin</oldsource>
-        <translation type="unfinished">ลบสกิน</translation>
+        <translation>&amp;ลบสกิน</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
@@ -525,19 +525,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished">เพิ่มบัญชี Microsoft</translation>
+        <translation>&amp;เพิ่มบัญชี Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation>เพิ่ม&amp;ออฟไลน์</translation>
+        <translation>เพิ่มบัญชี &amp;ออฟไลน์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">รีเฟรช</translation>
+        <translation>&amp;รีเฟรช</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
@@ -559,7 +559,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่มีไคลเอนต์ไอดีการรับรองของ Microsoft ที่ถูกจัดตั้ง</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -583,22 +583,24 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>บัญชี Microsoft สามารถใช้ได้เฉพาะกับ macOS เวอร์ชัน 10.13 ขึ้นไป ควบคู่กับเวอร์ชันของ %1 ที่อัพเดตเป็นปัจจุบันแล้วเท่านั้น
+
+โปรดอัพเดตทั้งระบบปฏิบัติการและ %1 ของคุณ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
         <source>Error</source>
-        <translation type="unfinished">ข้อผิดพลาด</translation>
+        <translation>เกิดข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณต้องเพิ่มบัญชีของ Microsoft หรือ Mojang ที่มีการซื้อ Minecraft ไว้แล้วก่อนที่จะเพิ่มบัญชีออฟไลน์&lt;br&gt;&lt;br&gt;ถ้าเกิดคุณได้ทำบัญชีของคุณหาย คุณสามารถติดต่อทาง Microsoft เพื่อขอความช่วยเหลือได้</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรดกรอกชื่อผู้ใช้ที่คุณต้องการเพื่อเพิ่มบัญชีออฟไลน์ของคุณ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -631,17 +633,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>เนื่องจากมีการเปลี่ยนแปลงของไอดีไคลเอนต์ จึงต้องมีการสร้างเซสชันใหม่ขึ้น</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>พบข้อผิดพลาดระหว่างการตรวจสอบสิทธิ์</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>การตรวจสอบสิทธิ์ผิดพลาด เซสชันดังกล่าวหมดอายุแล้ว</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
@@ -656,7 +658,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ทราบสถานะการทำงานของบัญชี: %1</translation>
     </message>
 </context>
 <context>
@@ -669,27 +671,27 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1232"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้มเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>พบข้อมูลเก่าจาก %1 แต่คุณมีข้อมูลดังกล่าวสำหรับ %2 แล้ว น่าเสียดายที่คุณจะต้องทำการโยกย้ายคุณเอง คุณต้องการที่จะให้เตือนการรอการโยกย้ายข้อมูลของคุณหลังจากที่เริ่มเปิด %2 หรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 มาก่อนหน้านี้ คุณต้องการที่จะโยกย้ายข้อมูลของคุณเข้ามาอยู่ในตำแหน่งใหม่ของ %2 หรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1676"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 บน %2 มาก่อนหน้านี้แล้ว คุณต้องการที่จะโยกย้ายข้อมูลของคุณไปยังตำแหน่งใหม่ของ %3 หรือไม่?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1718"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>การโยกย้ายข้อมูลผิดพลาด! เหตุผล: %1</translation>
     </message>
 </context>
 <context>
@@ -708,7 +710,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>ล้มเลิก</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
@@ -776,7 +778,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation type="unfinished"></translation>
+        <translation>ใช้รหัสการแชร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -786,17 +788,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกรหัสการแชร์</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสการแชร์:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบการกรอกรหัสการแชร์!</translation>
     </message>
 </context>
 <context>
@@ -804,12 +806,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>คุณแน่ใจที่จะเปิดใช้งาน mod นี้?</translation>
+        <translation>คุณแน่ใจหรือไม่ที่จะเปิดการใช้งาน mod นี้?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation>เตือน</translation>
+        <translation>คำเตือน</translation>
     </message>
 </context>
 <context>
