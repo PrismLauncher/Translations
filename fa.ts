@@ -4031,8 +4031,8 @@ Reason:
         <translation>پایین</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
         <translation>لاگ ماینکرافت</translation>
     </message>
@@ -7175,8 +7175,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>مسیر نامعتبر برای JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>مسیر وجود ندارد</translation>
     </message>
@@ -7366,8 +7366,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>ترتیب براساس محبوبیت</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="212"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="127"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="212"/>
         <source>Sort by Last Updated</source>
         <translation>مرتب سازی بر اساس زمان آخرین به روز رسانی</translation>
     </message>
@@ -7382,8 +7382,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>مرتب‌سازی براساس سازنده</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="215"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>
