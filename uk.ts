@@ -1567,7 +1567,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>Ви намагаєтесь видалити %1 об&apos;єктів.
-Ця дія є перманентною і вони зникнуть з теки.
+Цю дію неможливо скасувати і вони зникнуть з теки.
 
 Ви впевнені?</translation>
     </message>
@@ -1578,7 +1578,7 @@ This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
         <translation>Ви намагаєтесь видалити теку &quot;%1&quot;.
-Ця дія є перманентною і тека зникне з батьківської теки.
+Цю дію неможливо скасувати тека зникне з батьківської теки.
 
 Ви впевнені?</translation>
     </message>
@@ -5031,7 +5031,7 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
         <translation>Ви намагаєтесь видалити &quot;%1&quot;.
-Ця дія є перманентною і призведе до цілковитого видалення збірки.
+Цю дію неможливо скасувати і призведе до цілковитого видалення збірки.
 
 Ви впевнені?</translation>
     </message>
@@ -6802,7 +6802,7 @@ This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
         <translation>Ви намагаєтесь видалити &quot;%1&quot;.
-Ця дія є перманентною і файл зникне з теки журналів.
+Цю дію неможливо скасувати і файл зникне з теки журналів.
 
 Ви впевнені?</translation>
     </message>
@@ -8419,7 +8419,7 @@ This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
         <translation>Ви намагаєтесь видалити &quot;%1&quot; знімків.
-Ця дія є перманентною і вони зникнуть з теки.
+Цю дію неможливо скасувати і вони зникнуть з теки.
 
 Ви впевнені?</translation>
     </message>
@@ -8430,7 +8430,7 @@ This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
         <translation>Ви намагаєтесь видалити обраний знімок.
-Ця дія є перманентною і він зникне з теки.
+Цю дію неможливо скасувати і він зникне з теки.
 
 Ви впевнені?</translation>
     </message>
@@ -8563,7 +8563,7 @@ This is permanent and the server will be gone from your list forever (A LONG TIM
 
 Are you sure?</source>
         <translation>Ви намагаєтесь видалити &quot;%1&quot;.
-Ця дія є перманентною і цей сервер зникне з вашого списку назавжди (ДОВГИЙ ЧАС).
+Цю дію неможливо скасувати і цей сервер зникне з вашого списку назавжди (НАДОВГО).
 
 Ви впевнені?</translation>
     </message>
@@ -9553,7 +9553,7 @@ This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
         <translation>Ви намагаєтесь видалити &quot;%1&quot;.
-Ця дія є перманентною і повністю видалить кастомний компонент.
+Цю дію неможливо скасувати і буде повністю видалено користувацький компонент.
 
 Ви впевнені?</translation>
     </message>
@@ -9646,7 +9646,7 @@ This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
         <translation>Ви намагаєтесь скинути &quot;%1&quot;.
-Ця дія є перманентною і повністю скине вашу кастомізацію.
+Цю дію неможливо скасувати і повністю скине вашу кастомізацію.
 
 Ви впевнені?</translation>
     </message>
