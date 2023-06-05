@@ -1456,17 +1456,17 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="14"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth Packをエクスポート</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>情報</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">要点</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="39"/>
@@ -1481,7 +1481,7 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="62"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="85"/>
@@ -1496,17 +1496,17 @@ OSと%1をアップデートしてください。</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="98"/>
         <source>Task aborted</source>
-        <translation type="unfinished">タスク中止</translation>
+        <translation>タスクは中止されました</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="98"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">ユーザーによりタスクが中止されました。</translation>
+        <translation>タスクが中止されました。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="103"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -1699,7 +1699,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation>JVisualVM&#x3000;実行ファイル</translation>
+        <translation>JVisualVM　実行ファイル</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -6150,7 +6150,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを検索中...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="81"/>
@@ -6165,12 +6165,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="205"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを追加中...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="211"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを作成できませんでした</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="220"/>
@@ -6303,7 +6303,7 @@ Please update %1!</source>
         <location filename="src/launcher/net/Download.cpp" line="170"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="174"/>
@@ -6320,7 +6320,7 @@ Please update %1!</source>
         <location filename="src/launcher/net/Download.cpp" line="180"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0 B/s</translation>
     </message>
 </context>
 <context>
@@ -7251,27 +7251,27 @@ Roll back to previous version?</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>日</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>時間</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>分</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ミリ秒</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -9631,7 +9631,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>Warning: This world is hard linked elsewhere. Editing it will also change the original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
