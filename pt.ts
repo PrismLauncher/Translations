@@ -556,7 +556,7 @@ Se és novo por aqui, clica no botão &quot;Adicionar&quot; para adicionar a tua
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished">Nenhum ID de cliente de autenticação da Microsoft foi definido.</translation>
+        <translation>Nenhum ID de cliente de Autenticação Microsoft foi definido.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
