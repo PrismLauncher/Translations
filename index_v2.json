@@ -419,12 +419,12 @@
             "untranslated" : 31
         },
         "pt_PT" : {
-            "file" : "5523cba79c67bd23f755d9dc5bd34d5558bd49c8.class",
-            "sha1" : "5523cba79c67bd23f755d9dc5bd34d5558bd49c8",
-            "size" : 141458,
-            "translated" : 863,
-            "fuzzy" : 167,
-            "untranslated" : 581
+            "file" : "fb3e9dcb4d35a69cf1790e2fdbd9f3f72ae6e078.class",
+            "sha1" : "fb3e9dcb4d35a69cf1790e2fdbd9f3f72ae6e078",
+            "size" : 174020,
+            "translated" : 1110,
+            "fuzzy" : 129,
+            "untranslated" : 372
         },
         "pt_BR" : {
             "file" : "7b7c5d72f3656ac92f3eebdfa6fa43e7d4162c7d.class",
