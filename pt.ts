@@ -447,7 +447,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Nome de usuário do Minecraft associado à conta.</translation>
+        <translation>Nome de utilizador de Minecraft associado à conta.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -472,7 +472,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation type="unfinished">Esta conta pode migrar para uma conta Microsoft?</translation>
+        <translation>Pode esta conta migrar para uma conta Microsoft?</translation>
     </message>
 </context>
 <context>
@@ -597,7 +597,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>Por favor, digite o nome de usuário desejado para adicionar sua conta offline.</translation>
+        <translation>Por favor indique o nome de utilizador desejado para adicionar a sua conta offline.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -630,7 +630,7 @@ Por favor, atualize tanto o seu sistema operacional como o %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>O ID do cliente foi alterado. Uma nova sessão precisa ser criada.</translation>
+        <translation>ID de cliente mudou. Nova sessão precisa de ser criada.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
