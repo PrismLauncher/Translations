@@ -6646,7 +6646,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="244"/>
         <source>A zip error occurred</source>
-        <translation>Vyskytla se chyba ziú</translation>
+        <translation>Vyskytla se chyba zipu</translation>
     </message>
 </context>
 <context>
