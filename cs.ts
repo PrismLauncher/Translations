@@ -1064,7 +1064,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="287"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Vykonávání %1 úkol(ů) (dokončeno %2 z %3)</translation>
+        <translation>Vykonávání %1 úloh(y) (dokončeno %2 z %3)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
@@ -1472,57 +1472,57 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="14"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat balíček Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Souhrn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">Název</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">Verze</translation>
+        <translation>Verze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="62"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubory</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="85"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportovat %1</translation>
+        <translation>Exportovat %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="96"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="98"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Úkol přerušen</translation>
+        <translation>Úloha přerušena</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="98"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Úkol byl přerušen uživatelem.</translation>
+        <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="103"/>
         <source>Abort</source>
-        <translation type="unfinished">Přerušit</translation>
+        <translation>Přerušit</translation>
     </message>
 </context>
 <context>
@@ -4024,12 +4024,12 @@ Doporučuje se poskytnout aplikaci %1 přístup k němu prostřednictvím Flatse
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation>Úkol přerušen</translation>
+        <translation>Úloha přerušena</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Úkol byl přerušen uživatelem.</translation>
+        <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -4693,17 +4693,17 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat vybranou instanci do podporovaných formátů.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="471"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="521"/>
@@ -5061,12 +5061,12 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="926"/>
         <source>Task aborted</source>
-        <translation>Úkol přerušen</translation>
+        <translation>Úloha přerušena</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="926"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Úkol byl přerušen uživatelem.</translation>
+        <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="929"/>
@@ -5389,12 +5389,12 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="168"/>
         <source>Task aborted</source>
-        <translation>Úkol přerušen</translation>
+        <translation>Úloha přerušena</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="168"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Úkol byl přerušen uživatelem.</translation>
+        <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="173"/>
@@ -6606,42 +6606,42 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledání souborů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="81"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vyhledat soubory</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="196"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se zpracovat odpověď verzí: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="205"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidávání souborů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="211"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytvořit soubor</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="220"/>
         <source>Could not create index</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytvořit index</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="235"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se přečíst a zkomprimovat %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="244"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyskytla se chyba ziú</translation>
     </message>
 </context>
 <context>
@@ -6807,7 +6807,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/net/NetJob.cpp" line="127"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation>Vykonávání %1 úkol(ů) (dokončeno %2 z %3)</translation>
+        <translation>Vykonávání %1 úloh(y) (dokončeno %2 z %3)</translation>
     </message>
 </context>
 <context>
@@ -7355,7 +7355,7 @@ Vyber si dobře svoje jméno:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
         <source>Global Task Status...</source>
-        <translation>Globální stav úkolu...</translation>
+        <translation>Globální stav úlohy...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="56"/>
@@ -8718,7 +8718,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/tasks/SequentialTask.cpp" line="56"/>
         <source>Executing task %1 out of %2</source>
-        <translation>Vykonávání úkolu %1 z %2</translation>
+        <translation>Vykonávání úlohy %1 z %2</translation>
     </message>
 </context>
 <context>
@@ -9003,7 +9003,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation>Stav dílčího úkolu...</translation>
+        <translation>Stav dílčí úlohy...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
@@ -9349,7 +9349,7 @@ chybí inheritsFrom</translation>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="23"/>
         <source>Task aborted.</source>
-        <translation>Úkol přerušen.</translation>
+        <translation>Úloha přerušena.</translation>
     </message>
     <message>
         <location filename="src/launcher/launch/steps/Update.cpp" line="54"/>
