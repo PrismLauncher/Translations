@@ -4954,13 +4954,6 @@ Queres proceder na mesma?</numerusform>
 Apagá-la pode quebrar as outras instâncias, 
 
 Queres proceder na mesma?</numerusform>
-            <numerusform>As seguintes instâncias podem referênciar ficheiros nesta instância:
-
-%1
-
-Apagá-la pode quebrar as outras instâncias, 
-
-Queres proceder na mesma?</numerusform>
         </translation>
     </message>
     <message>
