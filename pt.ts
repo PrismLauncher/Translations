@@ -4947,7 +4947,14 @@ Do you wish to proceed?</source>
 Apagá-la pode quebrar a outra instância, 
 
 Queres proceder na mesma?</numerusform>
-            <numerusform>As seguintes instâncias podem referir ficheiros nesta instância:
+            <numerusform>As seguintes instâncias podem referênciar ficheiros nesta instância:
+
+%1
+
+Apagá-la pode quebrar as outras instâncias, 
+
+Queres proceder na mesma?</numerusform>
+            <numerusform>As seguintes instâncias podem referênciar ficheiros nesta instância:
 
 %1
 
