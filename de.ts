@@ -6694,7 +6694,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="196"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Versionsantwort konnte nicht analysiert werden: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="205"/>
