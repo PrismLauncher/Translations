@@ -2510,12 +2510,12 @@ NOTE : Assurez-vous d&apos;avoir sauvegardé les données importantes de l&apos;
         <translation>Copie de l&apos;instance %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>La copie du dossier de l&apos;instance a échoué.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>La copie du dossier de l&apos;instance a été abandonnée.</translation>
     </message>

@@ -2420,12 +2420,12 @@ Per favor, intenta de nou la descàrrega.</translation>
         <translation>Copiant la instància %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>La còpia de la carpeta de la instància ha fallat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>La còpia de l&apos;arxiu de la instància ha estat avortada.</translation>
     </message>

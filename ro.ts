@@ -2453,12 +2453,12 @@ Vă rugăm să încercați din nou.</translation>
         <translation>Se copiază instanța %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>Copierea folderului instanței a eșuat.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Copierea folderului instanței a fost anulată.</translation>
     </message>

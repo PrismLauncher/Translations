@@ -2489,12 +2489,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <translation>%1 profili kopyalanıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>Profil dosyası kopyalama işlemi başarısız.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Profil dosyası kopyalama işlemi iptal edildi.</translation>
     </message>

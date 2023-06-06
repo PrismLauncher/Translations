@@ -2414,12 +2414,12 @@ Por favor tenta de novo.</translation>
         <translation>A copiar instância %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>A cópia da instância falhou.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>A cópia da pasta da instância foi cancelada.</translation>
     </message>
@@ -4954,13 +4954,6 @@ Queres proceder na mesma?</numerusform>
 Apagá-la pode quebrar as outras instâncias, 
 
 Queres proceder na mesma?</numerusform>
-            <numerusform>As seguintes instâncias podem referir ficheiros nesta instância:
-
-%1
-
-Apagá-la pode quebrar as outras instâncias, 
-
-Queres proceder na mesma?</numerusform>
         </translation>
     </message>
     <message>
@@ -6729,7 +6722,7 @@ Mensagem de erro: %3</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Forma</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>

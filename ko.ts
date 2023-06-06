@@ -2479,12 +2479,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>인스턴스 %1 복사 중</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>인스턴스 폴더 복사에 실패했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>인스턴스 폴더 복사가 중지됐습니다.</translation>
     </message>

@@ -2534,12 +2534,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Копирование сборки %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>Не удалось скопировать папку сборки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Копирование папки сборки было отменено.</translation>
     </message>

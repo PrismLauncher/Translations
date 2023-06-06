@@ -2426,12 +2426,12 @@ Please try again.</source>
         <translation>起動構成 %1 をコピー中</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>起動構成のフォルダのコピーに失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>起動構成のフォルダのコピーは中断されました。</translation>
     </message>

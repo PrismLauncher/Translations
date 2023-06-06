@@ -2408,12 +2408,12 @@ Lūdzu, mēģiniet vēlreiz.</translation>
         <translation>Kopē instatnci %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>Neizdevās kopēt instances mapi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Instances mapes kopija tika apstādināta.</translation>
     </message>

@@ -2458,12 +2458,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Копіювання збірки %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>Не вдалося скопіювати теку збірки.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Копіювання теки збірки було перервано.</translation>
     </message>

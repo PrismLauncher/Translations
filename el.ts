@@ -2421,12 +2421,12 @@ Please try again.</source>
         <translation>Αντιγραφή εγκατάστασης %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>Αδυναμία αντιγραφής φακέλου εγκατάστασης.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>Η αντιγραφή του φακέλου εγκατάστασης ματαιώθηκε.</translation>
     </message>

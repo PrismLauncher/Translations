@@ -2406,12 +2406,12 @@ Please try again.</source>
         <translation>คัดลอกอินสแตนซ์ %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>การคัดลอกอินสแตนซ์ไม่สำเร็จ</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>การคัดลอกอินสแตนซ์ถูกยกเลิก</translation>
     </message>

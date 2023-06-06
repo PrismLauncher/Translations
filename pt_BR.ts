@@ -2530,12 +2530,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <translation>Copiando instância %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>Falha ao copiar instância.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>A cópia da pasta da instância foi cancelada.</translation>
     </message>

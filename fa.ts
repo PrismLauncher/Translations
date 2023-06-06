@@ -2418,12 +2418,12 @@ Please try again.</source>
         <translation>کپی کردن نمایه %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="123"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="132"/>
         <source>Instance folder copy failed.</source>
         <translation>کپی کردن پوشه نمایه با شکست مواجه شد.</translation>
     </message>
     <message>
-        <location filename="src/launcher/InstanceCopyTask.cpp" line="142"/>
+        <location filename="src/launcher/InstanceCopyTask.cpp" line="170"/>
         <source>Instance folder copy has been aborted.</source>
         <translation>کپی کردن پوشه نمایه متوقف گشت.</translation>
     </message>
