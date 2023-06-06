@@ -6709,7 +6709,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="220"/>
         <source>Could not create index</source>
-        <translation type="unfinished"></translation>
+        <translation>Eintrag konnte nicht erstellt werden</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="235"/>
