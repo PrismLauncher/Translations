@@ -2923,37 +2923,36 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>시스템에서 Feral Interactive의 게임모드를 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="375"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>시스템에서 MangoHud를 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
         <source>Select a Java version</source>
         <translation>자바 버전을 선택하세요</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="417"/>
         <source>Find Java executable</source>
         <translation>자바 실행 파일 찾기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
         <source>No default account</source>
-        <translation>기본 계정 없음</translation>
+        <translation type="vanished">기본 계정 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="511"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량을 초과했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="542"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>당신의 최대 메모리 할당량이 시스템의 메모리 수용량에 근접했습니다.</translation>
     </message>
@@ -4328,7 +4327,7 @@ Reason:
         <translation type="vanished">실행중인 인스턴스 강제 종료</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="566"/>
         <source>Launch</source>
         <translation>실행</translation>
     </message>
@@ -4512,7 +4511,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="485"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
         <source>Create Shortcut</source>
         <translation>바로가기 만들기</translation>
     </message>
@@ -4800,7 +4799,7 @@ Reason:
         <translation type="vanished">인스턴스 삭제 (&amp;T)...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="240"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="239"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
@@ -4814,7 +4813,7 @@ Reason:
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
         <source>Launch Offline</source>
         <translation>오프라인으로 실행</translation>
     </message>
@@ -4930,13 +4929,13 @@ Reason:
         <translation type="vanished"> (%1에 있음)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="423"/>
         <source>No instance selected</source>
         <translation>선택한 인스턴스 없음</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="335"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
         <source>Total playtime: 0s</source>
         <translation>총 플레이 시간: 0초</translation>
     </message>
@@ -4945,42 +4944,42 @@ Reason:
         <translation type="vanished">프로필</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="514"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="510"/>
         <source>Create instance</source>
         <translation>인스턴스 생성</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="526"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>그룹 &apos;%1&apos; 삭제</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="574"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
         <source>Launch Demo</source>
         <translation>체험판 실행</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="605"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="601"/>
         <source>Profilers</source>
         <translation>프로파일러</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="610"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="606"/>
         <source>%1 Offline</source>
         <translation>%1 오프라인</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="616"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="612"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>프로파일러가 바르게 구성되지 않았습니다. 설정에 들어가서, &quot;외부 도구&quot;를 보세요.</translation>
     </message>
@@ -4990,7 +4989,7 @@ Reason:
         <translation>계정 추가되지 않음!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="732"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -5005,95 +5004,95 @@ Reason:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="839"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="850"/>
         <source>Loading news...</source>
         <translation>뉴스를 불러오는 중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
         <source>No news available.</source>
         <translation>뉴스가 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="921"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="932"/>
         <source>Warnings</source>
         <translation>경고</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="926"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="937"/>
         <source>Task aborted</source>
         <translation>작업이 중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="926"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="937"/>
         <source>The task has been aborted by the user.</source>
         <translation>사용자가 작업을 중단하였습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="929"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="940"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="982"/>
         <source>Abort</source>
         <translation>강제 종료</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="980"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="991"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>런처에 하나 이상의 계정을 추가하지 않으면 마인크래프트 다운로드 또는 인스턴스 업데이트를 할 수 없습니다.
 Mojang 또는 마인크래프트 계정을 추가하세요.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1175"/>
         <source>Group name</source>
         <translation>그룹 이름</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1175"/>
         <source>Enter a new group name.</source>
         <translation>새 그룹 이름을 입력합니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1186"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1197"/>
         <source>Delete group</source>
         <translation>그룹 삭제</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1186"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1197"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>%1 그룹을 삭제하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1295"/>
         <source>Successfully added %1 to PATH</source>
         <translation>%1을 PATH에 추가함</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1296"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1을 PATH에 추가했습니다. 이제 `%2`을 실행해서 시작할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1299"/>
         <source>Failed to add %1 to PATH</source>
         <translation>%1을 PATH에 추가하는 데 실패함</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1300"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>%1을 PATH에 추가하는 중에 오류가 발생함</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1332"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
         <source>Confirm Deletion</source>
         <translation>삭제 확인</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1357"/>
         <source>There are linked instances</source>
         <translation>여기에 연결된 인스턴스가 있습니다</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1358"/>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -5110,7 +5109,7 @@ Do you wish to proceed?</source>
         <translation type="vanished">주의!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1344"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -5135,109 +5134,109 @@ Are you sure?</source>
 정말 삭제하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1482"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1599"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1532"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1598"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1605"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1613"/>
         <source>Create instance shortcut</source>
         <translation>인스턴스 바로 가기 만들기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>바탕 화면을 찾을 수 없습니다?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1482"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>런처가 추출된 폴더에 있으므로, 바로 가기를 만들 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1605"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>바탕 화면의 해당 인스턴스의 바로 가기를 만들었습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1599"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Failed to create instance shortcut!</source>
         <translation>인스턴스의 바로 가기를 만드는 데 실패했습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>런처가 구성되지 않은 앱 이미지로 실행 중인가요? ($APPIMAGE 환경 변수를 찾을 수 없습니다)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1532"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1598"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>바로 가기의 아이콘을 만드는 데 실패했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1542"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1553"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>바탕 화면 항목 (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1613"/>
         <source>Not supported on your platform!</source>
         <translation>당신의 플랫폼에서 지원되지 않습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1701"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1712"/>
         <source>Rename Instance</source>
         <translation>인스턴스 이름 바꾸기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>인스턴스 폴더에 &apos;!&apos;이 포함되어 있습니다. 이 경우 자바에 문제가 생길 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>두 가지 옵션이 있습니다: &lt;br/&gt; - 설정에서 인스턴스 폴더를 변경 &lt;br/&gt; - %1 설치를 다른 폴더로 이동</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1736"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>문제가 있습니다: &lt;br/&gt; - 운영체제에 의해 경고 없이 런처가 삭제될 수 있습니다 &lt;br/&gt; - 지금 런처를 종료하고 임시 폴더가 아닌 실제 위치로 추출을 합니다</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>인스턴스 폴더에 &apos;Rar$&apos;가 포함되어 있습니다 - 런처 아카이브를 추출하지 않았음을 의미합니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1751"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>인스턴스 폴더는 임시 폴더 &apos;%1&apos;에 있습니다!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1753"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1764"/>
         <source>Total playtime: %1</source>
         <translation>총 플레이시간: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="914"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="967"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="979"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="925"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="978"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="990"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
@@ -5253,8 +5252,7 @@ Are you sure?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="676"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="427"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="799"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="810"/>
         <source>Accounts</source>
         <translation>계정</translation>
     </message>

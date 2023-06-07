@@ -2834,37 +2834,36 @@ Please try again.</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="372"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
         <translation>Feral Interactive&apos;s GameModeが見つかりません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="377"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="375"/>
         <source>MangoHud could not be found on your system.</source>
         <translation>MangoHudが見つかりません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="401"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
         <source>Select a Java version</source>
         <translation>Javaのバージョンを選択します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="417"/>
         <source>Find Java executable</source>
         <translation>Java実行可能ファイルを探します</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="471"/>
         <source>No default account</source>
-        <translation>デフォルトアカウント無し</translation>
+        <translation type="vanished">デフォルトアカウント無し</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="539"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="511"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
         <translation>最大メモリ割り当てがあなたのコンピューターのメモリ容量を超えています。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="542"/>
+        <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="514"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation>最大メモリ割り当てがあなたのコンピューターのメモリ容量をひっ迫しています。</translation>
     </message>
@@ -4193,7 +4192,7 @@ Reason:
         <translation type="vanished">起動しているインスタンスを強制終了</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="566"/>
         <source>Launch</source>
         <translation>起動</translation>
     </message>
@@ -4603,7 +4602,7 @@ Reason:
         <translation type="vanished">Ctrl+E</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="240"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="239"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
@@ -4614,7 +4613,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="485"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
         <source>Create Shortcut</source>
         <translation>ショートカット作成</translation>
     </message>
@@ -4625,23 +4624,22 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="676"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="427"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="799"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="810"/>
         <source>Accounts</source>
         <translation>アカウント</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="572"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="568"/>
         <source>Launch Offline</source>
         <translation>オフラインプレイ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1332"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1343"/>
         <source>Confirm Deletion</source>
         <translation>削除を決定</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1344"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -4758,13 +4756,13 @@ Are you sure?</oldsource>
         <translation type="vanished"> on %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="433"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="333"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="423"/>
         <source>No instance selected</source>
         <translation>起動構成が選択されていません</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="335"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="334"/>
         <source>Total playtime: 0s</source>
         <translation>総プレイ時間: 0s</translation>
     </message>
@@ -4773,42 +4771,42 @@ Are you sure?</oldsource>
         <translation type="vanished">プロファイル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="514"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="510"/>
         <source>Create instance</source>
         <translation>起動構成の作成</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="530"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="526"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>グループ &apos;%1&apos; を削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="569"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="574"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="570"/>
         <source>Launch Demo</source>
         <translation>デモを起動</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="575"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="571"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="605"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="601"/>
         <source>Profilers</source>
         <translation>プロファイラ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="610"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="606"/>
         <source>%1 Offline</source>
         <translation>%1 オフライン</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="616"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="612"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>プロファイラーが正しくセットアップされていません。設定の、「外部ツール」に移動します。</translation>
     </message>
@@ -4818,7 +4816,7 @@ Are you sure?</oldsource>
         <translation>アカウントが追加されていません!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="724"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="732"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -4833,90 +4831,90 @@ Are you sure?</oldsource>
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="839"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="850"/>
         <source>Loading news...</source>
         <translation>ニュースをロード中…</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="854"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="865"/>
         <source>No news available.</source>
         <translation>ニュースがありません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="921"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="932"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="926"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="937"/>
         <source>Task aborted</source>
         <translation>タスク中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="926"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="937"/>
         <source>The task has been aborted by the user.</source>
         <translation>ユーザーによりタスクが中止されました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="929"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="971"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="940"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="982"/>
         <source>Abort</source>
         <translation>中断</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="980"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="991"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>アカウントを追加しない限り、ランチャーはMinecraftをダウンロードしたり更新したりできません。
 MojangかMicrosoftのアカウントを追加してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1175"/>
         <source>Group name</source>
         <translation>グループ名</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1164"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1175"/>
         <source>Enter a new group name.</source>
         <translation>グループ名を入力してください。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1186"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1197"/>
         <source>Delete group</source>
         <translation>グループを削除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1186"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1197"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>%1 を削除しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1284"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1295"/>
         <source>Successfully added %1 to PATH</source>
         <translation>正常に %1 をPATHに追加しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1285"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1296"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 はPATHに追加されました。`%2`を実行することで起動できます。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1288"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1299"/>
         <source>Failed to add %1 to PATH</source>
         <translation>%1 のPATHへの追加に失敗しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1289"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1300"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>%1 のPATHへの追加中にエラーが発生しました</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1346"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1357"/>
         <source>There are linked instances</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1358"/>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -4935,109 +4933,109 @@ Do you wish to proceed?</source>
         </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1482"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1599"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1532"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1598"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1605"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1613"/>
         <source>Create instance shortcut</source>
         <translation>起動構成のショートカットを作成</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1475"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1486"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>デスクトップが見つかりませんよ?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1482"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>ランチャーは解凍したフォルダーの中にあるため、ショートカットを作成することができません。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1489"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1552"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1594"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1500"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1563"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1605"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>この起動構成へのショートカットをデスクトップに作成しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1493"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1599"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1504"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1568"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Failed to create instance shortcut!</source>
         <translation>起動構成のショートカットの作成に失敗しました！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1502"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1513"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>ランチャーが誤って構成された AppImage として実行されていませんか？（$APPIMAGE 環境変数が見つかりません）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1521"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1530"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1575"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1532"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1541"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1586"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1598"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>ショートカット用のアイコンの作成に失敗しました。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1542"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1553"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>デスクトップ エントリ (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1602"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1613"/>
         <source>Not supported on your platform!</source>
         <translation>ご利用のプラットフォームではサポートされていません！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1701"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1712"/>
         <source>Rename Instance</source>
         <translation>起動構成の名前を編集</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1714"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>この起動構成は「!」を含んでおり、Javaが問題を起こします！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1716"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1727"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>&lt;br/&gt;起動構成のフォルダを変更するか&lt;br/&gt;、%1のインストール場所を別の場所にしてください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1725"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1736"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>&lt;br/&gt;ランチャーは警告なしにOSにより削除される可能性があります。&lt;br/&gt;ランチャーを閉じ、一時的なディレクトリではない場所に解凍してください</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1743"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>起動構成のフォルダに「Rar$」が含まれています。ランチャーアーカイブを解凍してください！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1740"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1751"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>起動構成のフォルダが一時的なディレクトリ「%1」にあります！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1753"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1764"/>
         <source>Total playtime: %1</source>
         <translation>総プレイ時間：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="914"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="967"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="979"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="925"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="978"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="990"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
