@@ -68,7 +68,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation>&amp;Modrinth API</translation>
+        <translation>Modrinth API (&amp;M)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -118,7 +118,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
         <source>&amp;CurseForge Core API</source>
-        <translation>&amp;CurseForge Core API</translation>
+        <translation>CurseForge Core API (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
@@ -234,7 +234,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 중 %1 완료</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -1077,22 +1077,22 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
         <source>Please wait...</source>
-        <translation type="unfinished">잠시만 기다려주세요...</translation>
+        <translation>잠시만 기다려주세요...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="293"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>작업 시작을 기다리는 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="295"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>작업 1개 실행 중:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="297"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>작업이 완료되었습니다.</translation>
     </message>
 </context>
 <context>
@@ -1378,7 +1378,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
-        <translation>게임이 튕겼습니다.</translation>
+        <translation>게임 충돌이 발생하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -1480,62 +1480,62 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="14"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth 팩 내보내기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>정보</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>요약</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">이름</translation>
+        <translation>이름</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">버전</translation>
+        <translation>버전</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="66"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>파일</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="93"/>
         <source>Export %1</source>
-        <translation type="unfinished">%1 내보내기</translation>
+        <translation>%1 내보내기</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="104"/>
         <source>Error</source>
-        <translation type="unfinished">오류</translation>
+        <translation>오류</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>Task aborted</source>
-        <translation type="unfinished">작업이 중단됨</translation>
+        <translation>작업이 중단됨</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>사용자가 작업을 중단했습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="111"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>중단</translation>
     </message>
 </context>
 <context>
@@ -1985,12 +1985,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>Flame 모드 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 중 %1 완료</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
@@ -3327,7 +3327,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="166"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>실행 하는데 실패하였습니다. 계속 시도하시겠습니까? / 실행 시도 횟수 : %1</translation>
+        <translation>%1번 시도했지만 실행할 수 없는 것 같습니다. 계속 시도하시겠습니까?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -3676,7 +3676,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>이 기능을 활성화하면 리소스를 찾을 때 다운로드 폴더 외에 해당 하위 폴더도 검색됩니다 (예: CurseForge에서 차단된 모드를 찾을 때).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -4458,7 +4458,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="252"/>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>솜털로 뒤덮인 아기고양이에요 (^&gt;ω&lt;^)</translation>
+        <translation>솜털로 뒤덮인 아기 고양이에요 (^&gt;ω&lt;^)</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -4653,17 +4653,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>선택한 인스턴스를 지원되는 형식으로 내보냅니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="471"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="521"/>
@@ -5100,8 +5100,14 @@ Mojang 또는 마인크래프트 계정을 추가하세요.</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>이 경우 다음 인스턴스에서 파일을 참조할 수 있습니다:
+
+%1
+
+이 인스턴스를 삭제하면 다른 인스턴스가 손상될 수 있습니다, 
+
+계속하시겠습니까?</numerusform>
         </translation>
     </message>
     <message>
@@ -5432,7 +5438,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="929"/>
         <source>, last played on %1 for %2</source>
-        <translation type="unfinished"></translation>
+        <translation>, %2 에 대해 %1 에서 마지막으로 재생됨</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
@@ -5489,7 +5495,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="190"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>트윅스</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
@@ -5770,13 +5776,16 @@ Are you sure?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+경고: 이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
+표준 경로: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+경고: 이 리소스는 다른 곳에 하드 링크되어 있습니다. 이 리소스를 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
@@ -6425,7 +6434,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="227"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth 모드 다운로드</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
@@ -6435,7 +6444,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 중 %1 완료</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
@@ -6506,42 +6515,42 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 검색 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="81"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>파일을 검색할 수 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="196"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>버전 응답 구문 분석 실패: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="205"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>파일 추가 중...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="211"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>파일을 생성할 수 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="220"/>
         <source>Could not create index</source>
-        <translation type="unfinished"></translation>
+        <translation>색인을 생성할 수 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="235"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 을(를) 읽고 압축할 수 없습니다</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="244"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>압축 오류가 발생했습니다</translation>
     </message>
 </context>
 <context>
@@ -6668,24 +6677,24 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/net/Download.cpp" line="170"/>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="174"/>
         <source>unknown</source>
-        <translation type="unfinished">알 수 없음</translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="177"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="180"/>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0 B/s</translation>
     </message>
 </context>
 <context>
@@ -7265,7 +7274,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="56"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>전역 상태 세부 정보...</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -7650,27 +7659,27 @@ Please let us know why and how this happened.</source>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="76"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>일</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="81"/>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>시간</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="86"/>
         <source>m</source>
-        <translation type="unfinished"></translation>
+        <translation>분</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="91"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>초</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCTime.cpp" line="96"/>
         <source>ms</source>
-        <translation type="unfinished"></translation>
+        <translation>ms</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="47"/>
@@ -7994,7 +8003,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher 와 함께 사용할 수 있는 Windows 용 일괄 MKLINK 프로그램</translation>
     </message>
 </context>
 <context>
@@ -8262,13 +8271,16 @@ Please update %1!</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+경고 : 이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
+표준 경로 : %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+경고 : 이 리소스는 다른 곳에서 하드 링크되어 있습니다. 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
@@ -8322,13 +8334,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+경고: 이 리소스는 다른 곳에서 심볼릭 링크되어 있습니다. 편집하면 원본도 변경됩니다.
+표준 경로: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+경고: 이 리소스는 다른 곳에 하드 링크되어 있습니다. 이 리소스를 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
@@ -8897,17 +8912,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">폼</translation>
+        <translation>폼</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
         <source>Sub Task Status...</source>
-        <translation type="unfinished"></translation>
+        <translation>하위 작업 상태 ...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="66"/>
         <source>Status Details</source>
-        <translation type="unfinished"></translation>
+        <translation>상태 세부 정보</translation>
     </message>
 </context>
 <context>
@@ -9759,7 +9774,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="390"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>일부 컴포넌트를 불러오지 못했습니다. 자세한 내용은 로그를 확인하십시오.</translation>
+        <translation>일부 컴포넌트를 불러오지 못했습니다. 자세한 내용은 로그를 확인하십시오</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
@@ -10021,24 +10036,26 @@ Mojang 및 마인크래프트 계정을 추가해주세요.</translation>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="215"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 세계는 다른 세계와 상징적으로 연결되어 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="218"/>
         <source>
 This world is hard linked elsewhere.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+이 세계는 다른 곳과 밀접하게 연결되어 있습니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>경고: 이 세계는 다른 곳과 상징적으로 연결되어 있습니다. 편집하면 원본도 변경됩니다.
+표준 경로: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>경고: 이 세계는 다른 곳과 연결되어 있습니다. 편집하면 원본도 변경됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
@@ -10090,7 +10107,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="316"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>세계에 대한 정보 및 경고.</translation>
     </message>
 </context>
 <context>
