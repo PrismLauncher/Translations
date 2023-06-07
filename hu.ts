@@ -5822,12 +5822,12 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="168"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>A dátum és az idő, amikor ez a mod utoljára módosult (vagy amikor hozzá lett adva).</translation>
+        <translation>Az mod legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>Where the mod was downloaded from.</source>
-        <translation>Ahonnan letöltötték a modot.</translation>
+        <translation>Ahonnan letöltötte a modot.</translation>
     </message>
 </context>
 <context>
@@ -8375,7 +8375,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="150"/>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation>Az erőforráscsomag utolsó módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
+        <translation>Az erőforráscsomag legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
 </context>
 <context>
