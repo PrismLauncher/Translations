@@ -222,7 +222,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 out of %2 complete</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -1016,22 +1016,22 @@ Please update both your operating system and %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Please wait...</translation>
+        <translation>Please wait...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="293"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>Waiting for a task to start...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="295"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Executing 1 task:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="297"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Task finished.</translation>
     </message>
 </context>
 <context>
