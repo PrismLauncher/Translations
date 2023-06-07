@@ -717,7 +717,7 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
         <source>Getting the assets files from Mojang...</source>
-        <translation>Načítání souborů od Mojangu...</translation>
+        <translation>Stahování souborů ze serverů Mojangu...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
