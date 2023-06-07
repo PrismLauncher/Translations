@@ -1492,62 +1492,62 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="14"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Pack de Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Información</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Resumen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="66"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="93"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportar %1</translation>
+        <translation>Exportación %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="104"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tarea abortada</translation>
+        <translation>Tarea abortada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">La tarea ha sido abortada por el usuario.</translation>
+        <translation>La tarea ha sido abortada por el usuario.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="111"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortar</translation>
     </message>
 </context>
 <context>
@@ -4716,17 +4716,17 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporte la instancia seleccionada a los formatos compatibles.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="471"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth ( mrpack )</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="521"/>
@@ -5188,6 +5188,13 @@ Do you wish to proceed?</source>
 %1
 
 Borrarla podría romper la otra instancia, 
+
+¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarlo podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
             <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
@@ -6610,42 +6617,42 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscando archivos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="81"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>No se han podido buscar archivos</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="196"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al analizar la respuesta de las versiones: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="205"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir archivos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="211"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido crear el archivo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="220"/>
         <source>Could not create index</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido crear el índice</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="235"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido leer y comprimir %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="244"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error de compresión</translation>
     </message>
 </context>
 <context>
