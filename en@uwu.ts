@@ -1837,7 +1837,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="64"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">S-Sowt by Wopuwawity</translation>
+        <translation>S-Sowt by Popuwawity</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="65"/>
