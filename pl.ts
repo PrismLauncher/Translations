@@ -1089,7 +1089,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Proszę czekać...</translation>
+        <translation>Proszę czekać...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="293"/>
@@ -1099,7 +1099,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="295"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykonywanie 1 zadania:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="297"/>
