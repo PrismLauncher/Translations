@@ -55,7 +55,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>Uwaga: prawdopodobnie nie musisz tego zmieniać, jeśli logowanie poprzez uwierzytelnianie Microsoft działa poprawnie.</translation>
+        <translation>Uwaga: Prawdopodobnie nie musisz tego zmieniać, jeżeli logowanie poprzez uwierzytelnianie Microsoft działa poprawnie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>Wpisz tu własny token API dla serwisu Modrinth tutaj.</translation>
+        <translation>Tutaj wprowadź własny token API serwisu Modrinth.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -127,13 +127,13 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>Uwaga: prawdopodobnie nie trzeba tego zmieniać, jeżeli integracja z CurseForge działa poprawnie.</translation>
+        <translation>Uwaga: Prawdopodobnie nie musisz tego zmieniać, jeżeli integracja z CurseForge działa poprawnie.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation>Tutaj wprowadź własny klucz API dla CurseForge.</translation>
+        <translation>Tutaj wprowadź własny klucz API serwisu CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
@@ -5624,7 +5624,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Native library workarounds</source>
-        <translation>Obejścia natywnej biblioteki</translation>
+        <translation>Obejścia natywnych bibliotek</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
@@ -8058,12 +8058,12 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat</source>
-        <translation>Płaski</translation>
+        <translation>Płaskie</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Flat (White)</source>
-        <translation>Flat (Białe)</translation>
+        <translation>Płaskie (Białe)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
