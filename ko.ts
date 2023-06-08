@@ -98,7 +98,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>여기에 사용자 지정 사용자 에이전트를 입력합니다. 특수 문자열 $LAUNCHER_BER은 런처 버전으로 대체됩니다.</translation>
+        <translation>여기에 사용자 지정 사용자 에이전트를 입력합니다. 특수 문자열 $LAUNCHER_VER은 런처 버전으로 대체됩니다.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -4564,7 +4564,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="628"/>
         <source>&amp;Clear Metadata Cache</source>
-        <translation>Meta 데이터 캐시 삭제 (&amp;C)</translation>
+        <translation>메타데이터 캐시 삭제 (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="631"/>
