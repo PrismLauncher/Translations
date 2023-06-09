@@ -5854,7 +5854,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告:這個資源是從某處硬連結。編輯他也會改變原本的。</translation>
+警告：此世界已硬連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
@@ -6772,7 +6772,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/Download.cpp" line="99"/>
         <source>Downloading %1</source>
-        <translation>正在下載 %1</translation>
+        <translation>正在下載%1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="170"/>
@@ -8172,7 +8172,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
         <source>Download %1</source>
-        <translation>下載 %1</translation>
+        <translation>下載%1</translation>
     </message>
 </context>
 <context>
@@ -8232,7 +8232,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="244"/>
         <source>Select %1 for download</source>
-        <translation>選擇 %1 進行下載</translation>
+        <translation>選擇%1以下載</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="197"/>
@@ -8272,7 +8272,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="246"/>
         <source>Deselect %1 for download</source>
-        <translation>取消選擇 %1 進行下載</translation>
+        <translation>取消選擇%1以下載</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="267"/>
@@ -8372,9 +8372,9 @@ Please update %1!</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-警告：此資源是從其他地方象徵性鏈接的。編輯它也會改變原來的。
-規範路徑：%1</translation>
+        <translation>
+警告：此世界已連結至其他位置，若修改也會同步修改該位置的檔案。
+已連結的路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
@@ -8435,16 +8435,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-警告：此資源是從其他地方象徵性鏈接的。編輯它也會改變原來的。
-規範路徑：%1</translation>
+        <translation>
+警告：此世界已連結至其他位置，若修改也會同步修改該位置的檔案。
+已連結的路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-警告：此資源在其他地方是硬鏈接的。編輯它也會改變原來的。</translation>
+        <translation>
+警告：此世界已硬連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
@@ -10137,7 +10137,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="215"/>
         <source>This world is symbolically linked from elsewhere.</source>
-        <translation type="unfinished">這個世界與其他地方象徵性地聯繫在一起。</translation>
+        <translation>此世界已連結至其他位置。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="218"/>
@@ -10150,13 +10150,13 @@ This world is hard linked elsewhere.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">警告：這個世界與其他地方有像徵性的聯繫。編輯它也會改變原來的。
-規範路徑：%1</translation>
+        <translation>警告：此世界已連結至其他位置，若修改也會同步修改該位置的檔案。
+已連結的路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">警告：此資源在其他地方是硬鏈接的。編輯它也會改變原來的。</translation>
+        <translation>警告：此世界已硬連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
