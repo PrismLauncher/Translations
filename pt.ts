@@ -8780,7 +8780,7 @@ inheritsFrom está a faltar</translation>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>O gato aparece por trás e não é mostrado por padrão. Só é visível quando pressionas o butão do gato na barra de ferramentas.</translation>
+        <translation>O gato aparece por trás e não é mostrado por padrão. Só é visível quando pressionas o botão do gato na barra de ferramentas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
@@ -8803,7 +8803,7 @@ inheritsFrom está a faltar</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation>Dica: O gato aparece por trás e não é mostrado por padrão. Só é visível quando pressionas o butão do gato na barra de ferramentas.</translation>
+        <translation>Dica: O gato aparece por trás e não é mostrado por padrão. Só é visível quando pressionas o botão do gato na barra de ferramentas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
