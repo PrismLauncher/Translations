@@ -1161,12 +1161,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation>連結在大多數的檔案系統上都有支援，除了FAT</translation>
+        <translation>除了 FAT 之外，大多數的檔案系統上都有支援連結</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation>每個資源都創造連結，而不是以資料夾為單位創造連結</translation>
+        <translation>單獨連結每個資源，而不是一次連結整個資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
@@ -1207,7 +1207,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished">寫入時複製選項</translation>
+        <translation>寫入時複製（Copy-on-Write）選項</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
@@ -1981,7 +1981,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished">模組下載火焰</translation>
+        <translation>模組下載 Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
@@ -3725,12 +3725,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation>啟用後，除了下載文件夾外，其子文件夾在尋找資源時也會被搜索到（例如:在CurseForge上尋找被屏蔽的模組）。</translation>
+        <translation>啟用後，除了下載資料夾外，其子資料夾在尋找資源時也會被搜尋到（例如：在 CurseForge 上尋找被封鎖的模組）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>Check downloads folder recursively</source>
-        <translation>遞歸檢查下載文件夾</translation>
+        <translation>遞歸檢查下載資料夾</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
@@ -6527,7 +6527,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="227"/>
         <source>Mod Download Modrinth</source>
-        <translation>模組下載</translation>
+        <translation>模組下載 Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
@@ -7375,7 +7375,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="56"/>
         <source>Global Status Details...</source>
-        <translation>全域狀態細節...</translation>
+        <translation>全域狀態詳情...</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -8104,7 +8104,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>與 Prismlauncher 一起使用的 Windows 批處理 MKLINK 程序</translation>
+        <translation>與 PrismLauncher 一起使用的 Windows 的 MKLINK 程序</translation>
     </message>
 </context>
 <context>
