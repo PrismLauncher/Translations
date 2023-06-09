@@ -3549,7 +3549,7 @@ Czy chcesz zagrać w demo?</translation>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>To może spowodować uszkodzenie instancji i powinno być używane tylko, gdy Minecraft zawiesi się z jakiegoś powodu</translation>
+        <translation>Może to spowodować uszkodzenie instancji i powinno być używane tylko, gdy Minecraft z jakiegoś powodu jest zawieszony</translation>
     </message>
 </context>
 <context>
