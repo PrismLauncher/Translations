@@ -222,7 +222,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Įdiegta %1 iš %2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -723,7 +723,8 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko atsisiųsti duomenų indekso: 
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
@@ -739,19 +740,19 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="31"/>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Rūšiuoti pagal populiarumą</translation>
+        <translation>Rūšiuoti pagal populiarumą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="32"/>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Rūšiuoti pagal pavadinimą</translation>
+        <translation>Rūšiuoti pagal pavadinimą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp" line="33"/>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Rūšiuoti pagal žaidimo versiją</translation>
+        <translation>Rūšiuoti pagal žaidimo versiją</translation>
     </message>
 </context>
 <context>
@@ -826,7 +827,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Paieška ir filtravimas...</translation>
+        <translation>Paieška ir filtravimas...</translation>
     </message>
     <message>
         <source>ATLauncher</source>
@@ -922,7 +923,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="153"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Maišos kodas: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
@@ -953,7 +954,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation type="unfinished">Java tikrinimo biblioteka nerasta. Please check your installation. Patikrinkite savo įdiegimą.</translation>
+        <translation>Java tikrinimo biblioteka nerasta. Patikrinkite savo įdiegimą.</translation>
     </message>
 </context>
 <context>
@@ -995,7 +996,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished">Nutraukta</translation>
+        <translation>Nutraukta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1005,7 +1006,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation type="unfinished"></translation>
+        <translation>Priklausomybių tikrinimo metu aptikti prieštaringi reikalavimai!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
@@ -1030,32 +1031,32 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="97"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko nutraukti visų aktyvių užduočių.</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="287"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykdomos %1 užduotys (%2 iš %3 užduočių įvykdytos)</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="291"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašome palaukti...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="293"/>
         <source>Waiting for a task to start...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laukiama užduoties pradžios...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="295"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vykdoma 1 užduotis:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="297"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Užduotis užbaigta.</translation>
     </message>
 </context>
 <context>
@@ -1078,133 +1079,133 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti visus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Išjungus, bus paliekamas modifikacijų įkroviklis (pvz: Fabric, Quilt, etc.), bet bus ištrinti modifikacijų aplankai ir jų konfigūracijos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Egzemplioriaus kopijavimo nustatymai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti modifikacijas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti žaidimo nustatymus tokius kaip FOV, max framerate ir kita.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti žaidimo nustatymus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation>Kopijuoti išsaugojimus</translation>
+        <translation>Kopijuoti pasaulius</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Išplėstiniai kopijavimo nustatymai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti simbolines arba kietąsias nuorodas, vietoj failų kopijavimo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Simbolinių ir Kietųjų nuorodų nustatymai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuorodos yra palaikomos daugelyje failų sistemų apart FAT</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished"></translation>
+        <translation>Susieti kiekvieną resursus atskirai, o ne visą aplanką</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Susieti failus rekursyviai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkus &quot;kopijuoti pasaulius&quot;, išsaugotų pasaulių duomenys bus nukopijuojami vietoj susiejimo nuoroda, todėl nebus dalinami tarp egzempliorių.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
         <source>Don&apos;t link saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesusieti pasaulių</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti kietąsias sąsajas vietoje failų kopijavimo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti kietąsias sąsajas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="110"/>
         <source>Use symbolic links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti simbolines sąsajas vietoje failų kopijavimo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="317"/>
         <source>Use symbolic links</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti simbolines sąsajas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation type="unfinished"></translation>
+        <translation>CoW (Copy-on-Write) nustatymai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Failai nukopijuoti su reflinks neužims papildomos vietos diske, kol nebus modifikuotas.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonuoti, o ne kopijuoti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsų failų ir/ar operacinė sistema nepalaiko reflinks</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti šešėlių paketus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti serverius</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
         <source>Copy resource packs</source>
-        <translation type="unfinished"></translation>
+        <translation>kopijuoti resursų paketus</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
@@ -1214,7 +1215,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuoti ekrano nuotraukas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
@@ -1224,17 +1225,17 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Reflinks are supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks ant %1 nėra palaikomi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reflinks ant %1 nėra palaikomi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naudojant windows operacinės sistemą, simbolinės sąsajos sukūrimas gali reikalauti administratoriaus leidimo.</translation>
     </message>
 </context>
 <context>
@@ -1242,7 +1243,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="77"/>
         <source>Core mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Esminės modifikacijos</translation>
     </message>
 </context>
 <context>
@@ -1250,7 +1251,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="18"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko sukurti pagrindinio žaidimo aplanko</translation>
     </message>
 </context>
 <context>
@@ -1259,7 +1260,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">Cus&amp;tom komandos</translation>
+        <translation type="unfinished">&amp;Custom komandos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
@@ -1299,28 +1300,28 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skenuojami failai...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko nuskenuoti šaltinio nuorodos.</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuojama %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished">Nutraukta</translation>
+        <translation>Nutraukta</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kai kurių nuorodų nepavyko nukopijuoti!</translation>
     </message>
 </context>
 <context>
@@ -1328,20 +1329,20 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko rasti įvyniojimo komandos „%1“.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation type="unfinished">Nepavyko paleisti Minecraft!</translation>
+        <translation>Nepavyko paleisti Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žaidimas nulūžo.</translation>
     </message>
 </context>
 <context>
@@ -1367,29 +1368,29 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="86"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikrinama ar modifikacijos turi metadata...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="160"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašoma informacijos apie metaduomenis iš %1...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prašoma metaduomenų informacijos iš % 1, skirtos &apos;% 1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="241"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="330"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizuojamas API atsakymas iš Modrinth, skirtas &apos;% 1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="397"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="464"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizuojamas API atsakymas iš CurseForge, skirtas &quot;% 1&quot;...</translation>
     </message>
 </context>
 <context>
@@ -1397,12 +1398,12 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="15"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žaidimo nuosavybės nustatymas.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="51"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Gautos teisės</translation>
     </message>
 </context>
 <context>
@@ -1410,7 +1411,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti egzempliorių</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="127"/>
@@ -1435,7 +1436,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
         <source>Unable to export instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Negalima išeksportuoti egzemplioriaus</translation>
     </message>
 </context>
 <context>
@@ -1443,62 +1444,62 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="14"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Išeksportuoti Modrinth paketą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Santrauka</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="66"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Failai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="93"/>
         <source>Export %1</source>
-        <translation type="unfinished">Eksportuoti %1</translation>
+        <translation>Eksportuoti %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="104"/>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Užduotis nutraukta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Užduotis buvo nutraukta vartotojo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="111"/>
         <source>Abort</source>
-        <translation type="unfinished">Nutraukti</translation>
+        <translation>Nutraukti</translation>
     </message>
 </context>
 <context>
@@ -1506,12 +1507,12 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="35"/>
         <source>Filter:</source>
-        <translation type="unfinished">Filtras:</translation>
+        <translation>Filtras:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="71"/>
         <source>Actions</source>
-        <translation type="unfinished">Veiksmai</translation>
+        <translation>Veiksmai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
@@ -1521,7 +1522,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
         <source>Add</source>
-        <translation type="unfinished">Pridėti</translation>
+        <translation>Pridėti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
@@ -1531,7 +1532,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Pašalinti pasirinktą elementą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
@@ -1541,7 +1542,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktyvuoti pasirinktą elementą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="116"/>
@@ -1551,7 +1552,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="119"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktyvuoti pasirinktą elementą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
@@ -1561,7 +1562,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti &quot;config&quot; aplanką sistemos failų tvarkyklėje.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
@@ -1576,7 +1577,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsisiųsti naują resursą</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="151"/>
@@ -1587,18 +1588,18 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="154"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Bandyti patikrinti arba atnaujinti visus pasirinktus resursus (visus jei niekas nepasirinkta)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstinis meniu</translation>
+        <translation>Kontekstinis meniu</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pasirinkti %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="179"/>
@@ -1606,7 +1607,10 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūs ketinate pašalinti %1 elementą.
+Tai gali būti amžina ir jie bus dingę iš aplanko.
+
+Ar jūs tuo tikras?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
@@ -1614,12 +1618,15 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūs ketinate pašalinti aplanką &quot;%1&quot;.
+Tai gali būti visam laikui ir jis pradings iš pirminio aplanko.
+
+Ar tu tuo tikras?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Patvirtinkite pašalinimą</translation>
     </message>
 </context>
 <context>
@@ -1634,7 +1641,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
         <source>External Editors (leave empty for system default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Išoriniai redaktoriai (palikti tuščią, kad naudoti sistemos numatytąjį)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
@@ -1667,7 +1674,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="131"/>
         <source>Error while checking JProfiler install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaida tikrinant JProfiler įdiegimą:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
@@ -1679,29 +1687,30 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JProfiler sąranka atrodo tvarkingai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM Vykdomasis failas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="168"/>
         <source>Error while checking JVisualVM install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaida tikrinant JVisualVM įdiegimą:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM sąranka atrodo tvarkingai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit programa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
@@ -1713,17 +1722,18 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error while checking MCEdit install:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaida tikrinant MCEdit įdiegimą:
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation type="unfinished"></translation>
+        <translation>MCEdit sąranka atrodo tvarkingai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON redaktorius</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
@@ -1733,7 +1743,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
         <source>The file chosen does not seem to be an executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrodo, kad pasirinktas failas nėra vykdomasis failas</translation>
     </message>
 </context>
 <context>
@@ -1741,7 +1751,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko išskleisti vietinio jar archyvo &quot;% 1&quot; į paskirties vietą &quot;% 2&quot;</translation>
     </message>
 </context>
 <context>
@@ -1749,32 +1759,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="39"/>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tikrinamos FML bibliotekos...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="63"/>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atsisiunčiamos FML bibliotekos...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished">Nutraukta</translation>
+        <translation>Nutraukta</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="93"/>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopijuojamos FML bibliotekos į egzempliorių...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="104"/>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko sukurti FML bibliotekos aplanko egzemplioriuje.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="109"/>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko nukopijuoti Forge/FML biliotekos: %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="122"/>
@@ -1783,7 +1793,11 @@ Are you sure?</source>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko atsisiųsti sekančių failų:
+%1
+
+Priežastis:%2
+Bandykite dar kartą.</translation>
     </message>
 </context>
 <context>
@@ -1791,12 +1805,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Išsprendžiami modifikacijų ID...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="81"/>
         <source>Invalid data returned from the API.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iš API grąžinti neteisingi duomenys.</translation>
     </message>
 </context>
 <context>
@@ -1804,28 +1818,28 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Paruošiamos modifikacijos CurseForge platformai...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktyvuotos modifikacijos nebus atnaujintos siekiant išvengti modifikacijų dubliavimo!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="130"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Gaunamas API atsakymas iš CurseForge, skirtas &apos;% 1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="141"/>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizuojamas API atsakymas iš CurseForge skirtas „% 1“...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerasta šios tinkamos modifikacijos versijos. Tikriausiai jis nepasiekiamas dabartinei žaidimo versijai / modifikacijų įkrovikliui.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -1951,7 +1965,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="346"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Sveiki!&lt;/h1&gt;&lt;h4&gt;Atrodo, kad jūsų Paketo ID yra niekinis. Taip yra dėl senesnių versijų paleidimo priemonės klaidos.&lt;br/&gt;Deja, be šios informacijos negalime atlikti tinkamų API užklausų.&lt;br/&gt;&lt;br/&gt;Taigi, kad ši funkcija veiktų, turėsite iš naujo atsisiųsti modifikacijų paketą iš integruotos atsisiuntimo programos.&lt;br/&gt;&lt;br/&gt;Nesijaudinkite, jis paprašys atnaujinti šį egzempliorių, kad neprarastumėte šio egzemplioriaus!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="408"/>
@@ -3444,7 +3458,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Jūs bandote nurodyti egzempliorių aplanką, kuris buvo laikinai suteiktas naudojant „Flatpak“.
+Žinoma, kad tai sukelia problemų. Paleidus iš naujo, paleidimo priemonė gali sutrikti, nes ji nebeturės prieigos prie to katalogo.
+
+Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
@@ -5449,7 +5466,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifikacija &apos;%1&apos; dar neturi metaduomenų. Turime juos sugeneruoti, kad galėtume sekti atitinkamą informaciją, kaip atnaujinti šią modifikaciją. Norėdami tai padaryti, pasirinkite modifikacijų tiekėją, kurį galime naudoti norėdami patikrinti, ar nėra šios modifikacijos atnaujinimų.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
@@ -6718,7 +6735,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Bandėte rankiniu būdu nustatyti JVM atminties parinktį (naudodami &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; arba &quot;-Xms&quot;).
+Nustatymuose yra šiem parametram skirti langeliai (skirtukas „Java“, viršuje esančioje Atminties grupėje).
+Šis pranešimas bus rodomas tol, kol pašalinsite juos iš JVM argumentų.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="52"/>
@@ -6832,7 +6851,9 @@ New name: %2</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation type="unfinished"></translation>
+        <translation>Vienas ar daugiau jūsų egzempliorių yra iš to paties modifikacijų paketo%1. Ar norite sukurti atskirą egzempliorių, ar atnaujinti esamą?
+
+PASTABA: Prieš atnaujindami įsitikinkite, kad padarėte svarbių egzempliorių duomenų atsarginę kopiją, nes pasauliai gali būti sugadinti ir kai kurios konfigūracijos gali būti prarastos (dėl paketo nepaisymo).</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
@@ -9306,7 +9327,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL rankos paspaudimas nepavyko.&lt;/b&gt;&lt;br/&gt;Tai gali būti dėl kelių priežasčių:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Jūs naudojate „Windows“ ir turite atnaujinti šakninius sertifikatus. Įdiekite visus neišspręstus naujinimus .&lt;/li&gt;&lt;li&gt;Kai kuris jūsų tinklo įrenginys trikdo SSL srautą. Tokiu atveju turite didesnių rūpesčių nei „Minecraft“ nepasileidimas.&lt;/li&gt;&lt;li&gt;Galbūt dar kažkas. Išsamesnės informacijos ieškokite žurnalo faile&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
