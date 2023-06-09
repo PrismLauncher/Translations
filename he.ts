@@ -13,116 +13,116 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>הדבק שירות &amp; סוג</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>בסיס &amp; כתובת אתר (URL)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>הערה: אתה כנראה רוצה לשנות או למחוק את כתובת האתר הבסיסית אחרי שינוי סוג שירות ההדבקה.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>מפתחות API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;אימות של מייקרוסופט</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>הערה: אתה כנראה לא תצטרך להגדיר זאת אם הכניסה דרך האימות של מייקרוסופט כבר עובד.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ברירת מחדל)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>הזן כאן מזהה לקוח מותאם אישית בשביל אימות של מייקרוסופט.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp; מודרינט&apos; API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;הערה: אתה רק צריך להגדיר זאת כדי לגשת לנתונים פרטיים&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt;בישביל יותר מידע.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>הזן כאן אות API מותאם אישים בשביל מודרינט&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(שום דבר)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished">שונות</translation>
+        <translation>שונות</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>User Agent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">סוכן משתמש</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקש כאן את הסוכן המשמש המותאם אישית. המחרוזת המיוחדת $LAUNCHER_VER תוחלף בגרסה של המשגר.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation type="unfinished"></translation>
+        <translation>שרת מטה&amp;נתונים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>אתה יכול להגדיר זאת לשרת מטא צד-שלישי כדי להשתמש בספריות מתוקנות או פריצות אחרות.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
         <source>Enter a custom URL for meta here.</source>
-        <translation type="unfinished"></translation>
+        <translation>הקש כאן כתובת אתר(URL) מותאם אישית.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="249"/>
         <source>&amp;CurseForge Core API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;קורספורג&apos; ליבת API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>הערה: אתה כנראה לא צריך להגדיר זאת אם קורספורג&apos; כבר עובד.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>הקש כאן מפתח API מותאם אישית בשביל קורספורג&apos;.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>APIs</translation>
     </message>
 </context>
 <context>
@@ -147,12 +147,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="140"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>מצב ההתקנה לא נתמך</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="182"/>
         <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation>מוחק המסמכים קיימים...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="331"/>
@@ -222,7 +222,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 מתוך 2% הושלמו</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -280,12 +280,12 @@
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">מספר בנייה:</translation>
+        <translation>תאריך הבנייה:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation>ביצוע:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
@@ -315,17 +315,17 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>בערך %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ביצוע: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Build date: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>תאריך הבנייה: %1</translation>
     </message>
     <message>
         <source>Version</source>
@@ -369,7 +369,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>מוכן</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
@@ -393,7 +393,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>מכובה</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
@@ -422,7 +422,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>שם משתמש</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
@@ -522,13 +522,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation>הסוף Microsoft</translation>
+        <translation>הוסף Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>הוסף &amp;לא מכוון</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
@@ -556,12 +556,12 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation type="unfinished"></translation>
+        <translation>לא הוגדר תעודת זהות של האימות של מייקרוסופט.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
-        <translation>תפריט לחיצה ימנית</translation>
+        <translation>תפריט הקשר</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
@@ -580,7 +580,9 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>חשבונות מייקרוסופט היתנים לשימוש רק ב-macOS 10.13 או חדש יותר, מעודכן במלואו %1.
+
+בבקשה תעדכן את מערכת ההפעלה שלך ואת %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -590,12 +592,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>אתה מחוייב להוסיף חשבון מייקרוסופט או חשבון-Mojang שבבעלותו מיינקראפט לפני שתוכל להוסיף חשבון לא מכוון.&lt;br&gt;&lt;br&gt; אם איבדת את חשבונך, תוכל ליצור קשר עם מייקרוסופט בשביל תמיכה.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished"></translation>
+        <translation>בבקשה הקש את השם משתמש ברצונך להוסיף לחשבון הלא מכוון שלך.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -628,7 +630,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>זיהוי הלקוח השתנה. יש ליצור הפעלה חדשה.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -666,27 +668,27 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1232"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>ננתש</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>נמצאו נתונים ישנים מ%1, אבל כבק קיים לך נתונים קיימים בשביל %2. למרבה הצער תצטרך להגר בעצמך. האם אתה רוצה להיות מוזכר מהעברת הנתונים בפעם הבאה שאתה מתחיל %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>זה נראה שכבר השתמשתה ב%1. אתה מעוניין להעביר את הנתונים שלך למיקום החדש של %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1676"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>זה נראה שכבר השתמשת ב%1 על %2. אתה מעוניין להעביר את הנתונים שלך למיקום החדש של %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1718"/>
         <source>Migration failed! Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>העברה נכשלה! סיבה: %1</translation>
     </message>
 </context>
 <context>
@@ -705,7 +707,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>ננתש</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
@@ -783,17 +785,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation type="unfinished"></translation>
+        <translation>תבחר קוד העברה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>העבר קוד:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation type="unfinished"></translation>
+        <translation>לא צויין העברת קוד ספציפי!</translation>
     </message>
 </context>
 <context>
@@ -801,12 +803,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation type="unfinished"></translation>
+        <translation>אתה בטוח שאת רוצה להפעיל את המוד הזה?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>אזהרה</translation>
     </message>
 </context>
 <context>
@@ -864,7 +866,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>מתקין</translation>
     </message>
 </context>
 <context>
@@ -898,42 +900,42 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="166"/>
         <source>All mods found</source>
-        <translation type="unfinished"></translation>
+        <translation>כל המודים נמצאו</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="169"/>
         <source>Please download the missing mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>בבקשה תוריד את המודים החסרים.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt;&amp;#x2714;נמצא ב%1&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>תפתח חסרים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>Add Download Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>הוסף תקיית הורדה</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="131"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר את כיוון איפה שהורדת את המודים</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="151"/>
         <source>&lt;span style=&quot;color:red&quot;&gt; &amp;#x2718; Not Found &lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red&quot;&gt;&amp;#x2718;לא נמצא&lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="153"/>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;חש: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
