@@ -250,7 +250,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
         <source>Failed to create libraries component</source>
-        <translation>建立組件程式庫失敗</translation>
+        <translation>建立元件程式庫失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1015"/>
@@ -260,7 +260,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1029"/>
         <source>Failed to create pack component</source>
-        <translation>建立組件包失敗</translation>
+        <translation>建立元件包失敗</translation>
     </message>
 </context>
 <context>
@@ -1033,7 +1033,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
         <source>Some component metadata load tasks failed.</source>
-        <translation>部分組件中介資料載入作業失敗。</translation>
+        <translation>部分元件中介資料載入作業失敗。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
@@ -1054,7 +1054,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>從遠端伺服器下載組件中介資料的更新作業失敗：
+        <translation>從遠端伺服器下載元件中介資料的更新作業失敗：
 %1</translation>
     </message>
 </context>
@@ -6772,7 +6772,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/Download.cpp" line="99"/>
         <source>Downloading %1</source>
-        <translation>正在下載%1</translation>
+        <translation>正在下載 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="170"/>
@@ -6830,7 +6830,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="17"/>
         <source>Add Empty Component</source>
-        <translation>新增空白組件</translation>
+        <translation>新增空白元件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
@@ -7627,12 +7627,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="222"/>
         <source>Invalid component file version, expected %1</source>
-        <translation>無效的組件檔案版本，應為 %1</translation>
+        <translation>無效的元件檔案版本，應為 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="131"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation>組件的「uid」包含非法字元！這可能會導致安全問題。</translation>
+        <translation>元件的「uid」包含非法字元！這可能會導致安全問題。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
@@ -8172,7 +8172,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
         <source>Download %1</source>
-        <translation>下載%1</translation>
+        <translation>下載 %1</translation>
     </message>
 </context>
 <context>
@@ -8232,7 +8232,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="244"/>
         <source>Select %1 for download</source>
-        <translation>選擇%1以下載</translation>
+        <translation>選擇要下載的 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="197"/>
@@ -8272,7 +8272,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="246"/>
         <source>Deselect %1 for download</source>
-        <translation>取消選擇%1以下載</translation>
+        <translation>取消選擇要下載的 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="267"/>
@@ -9769,12 +9769,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="278"/>
         <source>Import Components</source>
-        <translation>匯入組件</translation>
+        <translation>匯入元件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="281"/>
         <source>Import existing component JSON files.</source>
-        <translation>匯入現有組件 JSON 檔案。</translation>
+        <translation>匯入現有元件 JSON 檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
@@ -9828,7 +9828,7 @@ This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
         <translation>您將要刪除「%1」。
-這可能是永久性的，並且會完全刪除該自訂組件。
+這可能是永久性的，並且會完全刪除該自訂元件。
 
 你確定嗎？</translation>
     </message>
@@ -9860,22 +9860,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Select components</source>
-        <translation>選擇組件</translation>
+        <translation>選擇元件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
         <source>Components (*.json)</source>
-        <translation>組件（*.json））</translation>
+        <translation>元件（*.json）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="389"/>
         <source>Failed to import components</source>
-        <translation>組件匯入失敗</translation>
+        <translation>元件匯入失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="390"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>無法匯入部分組件。確認記錄檔以了解詳情</translation>
+        <translation>無法匯入部分元件。確認記錄檔以了解詳情</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
