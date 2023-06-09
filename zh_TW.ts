@@ -1151,12 +1151,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>使用符號連結或是硬連結而不是複製檔案。</translation>
+        <translation>使用符號連結或是永久連結而不是複製檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>符號連結和硬連結選項</translation>
+        <translation>符號連結和永久連結選項</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
@@ -1176,7 +1176,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>如果有選擇“複製存檔”，世界檔案會被複製，而不是連結到原檔案，也因此不會在實例之間共享。</translation>
+        <translation>如果選擇「複製存檔」，世界檔案會被複製，而不是連結到原檔案，也因此不會在實例之間共享。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -1186,12 +1186,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation>使用硬連結而不要複製檔案。</translation>
+        <translation>使用永久連結而不要複製檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation>使用硬連結</translation>
+        <translation>使用永久連結</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
@@ -1207,22 +1207,22 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation>寫入時複製選項</translation>
+        <translation type="unfinished">寫入時複製選項</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
         <source>Files cloned with reflinks take up no extra space until they are modified.</source>
-        <translation>使用“寫入時複製”克隆的檔案不會佔用額外的空間，直到它們被更改。</translation>
+        <translation>使用引用連結複製的檔案再修改前不會佔用額外的空間。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="341"/>
         <source>Clone instead of copying</source>
-        <translation>克隆而不要複製</translation>
+        <translation type="unfinished">克隆而不要複製</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>你的檔案系統和/或作業系統不支援“寫入時複製”</translation>
+        <translation>你的檔案系統和（或）作業系統不支援引用連結</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -1257,17 +1257,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
         <source>Reflinks are supported on %1</source>
-        <translation>支援&quot;寫入時複製&quot;的有 %1</translation>
+        <translation>%1 支援引用連結</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="105"/>
         <source>Reflinks aren&apos;t supported on %1</source>
-        <translation>不支援&quot;寫入時複製&quot;檔案的有 %1</translation>
+        <translation>%1 不支援引用連結</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>在Windows上，符號連結可能需要系統管理員權限才能創造。</translation>
+        <translation>在 Windows 上，符號連結可能需要系統管理員權限才能創造。</translation>
     </message>
 </context>
 <context>
@@ -1476,7 +1476,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="14"/>
         <source>Export Modrinth Pack</source>
-        <translation>導出來自 Modrinth 的模組包</translation>
+        <translation>導出 Modrinth 模組包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="23"/>
@@ -4711,12 +4711,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="471"/>
         <source>Prism Launcher (zip)</source>
-        <translation>稜鏡啟動器(壓縮檔)</translation>
+        <translation>Prism Launcher（zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>Modrinth (mrpack)</source>
-        <translation>Modrinth(mrpack)</translation>
+        <translation>Modrinth（mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="521"/>
@@ -5847,14 +5847,14 @@ Warning: This resource is symbolically linked from elsewhere. Editing it will al
 Canonical Path: %1</source>
         <translation>
 警告：這個資源是從某處進行符號連結的。編輯也會改變原本的資料。
-規範路徑：%1</translation>
+已連結路徑：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此世界已硬連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
+警告：此世界已永久連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
@@ -6632,22 +6632,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="211"/>
         <source>Could not create file</source>
-        <translation>無法創建檔案</translation>
+        <translation>無法建立檔案</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="220"/>
         <source>Could not create index</source>
-        <translation>無法創建索引值</translation>
+        <translation>無法建立索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="235"/>
         <source>Could not read and compress %1</source>
-        <translation>無法讀取和壓縮：%1</translation>
+        <translation>無法讀取和壓縮 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="244"/>
         <source>A zip error occurred</source>
-        <translation>一個壓縮檔發生錯誤</translation>
+        <translation>一個 zip 檔發生錯誤</translation>
     </message>
 </context>
 <context>
@@ -8104,7 +8104,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>與 prismlauncher 一起使用的 Windows 批處理 MKLINK 程序</translation>
+        <translation>與 Prismlauncher 一起使用的 Windows 批處理 MKLINK 程序</translation>
     </message>
 </context>
 <context>
@@ -8381,7 +8381,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此資源在其他地方是硬鏈接的。編輯它也會改變原來的。</translation>
+警告：此資源在其他地方是永久連結的。編輯它也會改變原來的。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
@@ -8444,7 +8444,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此世界已硬連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
+警告：此世界已永久連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
@@ -10144,7 +10144,7 @@ Please add your Mojang or Minecraft account.</source>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
-這個世界在別處是硬鏈接的。</translation>
+這個世界在別處是永久連結的。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
@@ -10156,7 +10156,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>警告：此世界已硬連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
+        <translation>警告：此世界已永久連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
