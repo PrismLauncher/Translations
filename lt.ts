@@ -2940,7 +2940,12 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepasirinkote „Java“ versijos arba pasirinkote kažką, kas neveikia.
+%1 negalės paleisti „Minecraft“.
+Ar norite tęsti be „Java“?
+
+„Java“ versiją galėsite pakeisti vėliau nustatymuose.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
@@ -3059,7 +3064,7 @@ Please select one of the following or browse for a java executable.</oldsource>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Kad galėtumėte žaisti „Minecraft“, turite turėti bent vieną „Microsoft“ arba „Mojang“ paskyrą. „Mojang“ paskyras galima naudoti tik neprisijungus. Ar norite atidaryti paskyros tvarkyklę ir pridėti paskyrą dabar?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
@@ -3240,7 +3245,8 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="234"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Baigiama stebėti žaidimo žurnalą, nes žurnalo ilgis viršijo %1 eilučių.
+Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus ir greičiausiai eikvoja vietos standžiajame diske nerimą keliančiu greičiu!</translation>
     </message>
 </context>
 <context>
@@ -4591,10 +4597,28 @@ Please add your Mojang or Minecraft account.</source>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Sekantis egzempliorius gali nurodyti failus šiame egzemplioriuje:
+
+%1
+
+Ištrynus jį gali sutrikti kitas egzempliorius,
+
+Ar jūs norite tęsti?</numerusform>
+            <numerusform>Sekantys egzemplioriai gali nurodyti failus šiame egzemplioriuje:
+
+%1
+
+Ištrynus jį gali sutrikti kiti egzemplioriai,
+
+Ar jūs norite tęsti?</numerusform>
+            <numerusform>Sekantys egzemplioriai gali nurodyti failus šiame egzemplioriuje:
+
+%1
+
+Ištrynus jį gali sutrikti kiti egzemplioriai,
+
+Ar jūs norite tęsti?</numerusform>
         </translation>
     </message>
     <message>
