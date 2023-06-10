@@ -13,7 +13,7 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation>Beillesztéssi Szolgáltatás &amp;Típusa</translation>
+        <translation>Beillesztési Szolgáltatás &amp;Típusa</translation>
     </message>
     <message>
         <source>Base URL</source>
@@ -27,7 +27,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>Megjegyzés: Valószínűleg meg akarod változtatni vagy eltávolítani a alap URL-t miután megváltoztattad a beillesztési szolgáltatás típusát.</translation>
+        <translation>Megjegyzés: Valószínűleg meg akarod változtatni vagy eltávolítani az alap URL-t miután megváltoztattad a beillesztési szolgáltatás típusát.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
