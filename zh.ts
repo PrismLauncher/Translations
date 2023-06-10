@@ -1492,62 +1492,62 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="14"/>
         <source>Export Modrinth Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>导出 Modrinth 整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>总结</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">版本</translation>
+        <translation>版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished"></translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="66"/>
         <source>Files</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="93"/>
         <source>Export %1</source>
-        <translation type="unfinished">导出 %1</translation>
+        <translation>导出 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="104"/>
         <source>Error</source>
-        <translation type="unfinished">错误</translation>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>Task aborted</source>
-        <translation type="unfinished">任务已终止</translation>
+        <translation>任务已终止</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">任务已被用户终止。</translation>
+        <translation>任务已被用户终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="111"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -1997,7 +1997,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
         <source>Mod Download Flame</source>
-        <translation type="unfinished"></translation>
+        <translation>模组下载 Flame</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
@@ -4723,17 +4723,17 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>将选择的实例导出为支持的格式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="471"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher（zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="476"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth（mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="521"/>
@@ -5573,7 +5573,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="190"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>调整</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
@@ -5866,15 +5866,15 @@ Are you sure?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 警告：此资源使用符号链接链接到其他资源，编辑它原资源也会改变。
-典型路径：%1</translation>
+规范路径：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="114"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 警告：此资源使用硬链接链接到其他地方，编辑它原资源也会改变。</translation>
     </message>
     <message>
@@ -6548,7 +6548,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="227"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>模组下载 Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
@@ -6629,42 +6629,42 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="51"/>
         <source>Searching for files...</source>
-        <translation type="unfinished"></translation>
+        <translation>搜索文件中……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="81"/>
         <source>Could not search for files</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到文件</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="196"/>
         <source>Failed to parse versions response: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解析版本响应：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="205"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>新增文件中……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="211"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>无法新增文件</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="220"/>
         <source>Could not create index</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建索引</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="235"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取和压缩 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="244"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>一个 zip 文件发生错误</translation>
     </message>
 </context>
 <context>
@@ -6800,7 +6800,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/net/Download.cpp" line="174"/>
         <source>unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="177"/>
@@ -7392,7 +7392,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="56"/>
         <source>Global Status Details...</source>
-        <translation type="unfinished">全局状态详情……</translation>
+        <translation>全局状态详情……</translation>
     </message>
     <message>
         <source>Task Status...</source>
@@ -8121,7 +8121,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation type="unfinished">适用于Windows的MKLINK程序，可与PrismLauncher一起使用</translation>
+        <translation>适用于Windows的MKLINK程序，可与PrismLauncher一起使用</translation>
     </message>
 </context>
 <context>
@@ -8389,15 +8389,15 @@ Please update %1!</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 警告：此资源使用符号链接链接到其他资源，编辑它原资源也会改变。
-典型路径：%1</translation>
+规范路径：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 警告：此资源使用硬链接链接到其他地方，编辑它原资源也会改变。</translation>
     </message>
     <message>
@@ -8452,9 +8452,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 警告：此资源使用符号链接链接到其他资源，编辑它原资源也会改变。
-典型路径：%1</translation>
+规范路径：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
@@ -9030,7 +9030,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">格式</translation>
+        <translation>格式</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/SubTaskProgressBar.ui" line="45"/>
@@ -10167,12 +10167,13 @@ This world is hard linked elsewhere.</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
         <source>Warning: This world is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>警告：这个世界被符号链接链接到了其他地方。如果修改也会同步修改原位置的存档。
+规范路径：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个世界被硬链接到了其他地方。如果修改也会同步修改原位置的存档。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
@@ -10199,7 +10200,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="299"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="308"/>
@@ -10224,7 +10225,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="316"/>
         <source>Information and warnings about the world.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个世界的警告和信息。</translation>
     </message>
 </context>
 <context>
