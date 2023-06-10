@@ -3528,7 +3528,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/launch/LaunchTask.cpp" line="234"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation>已停止監控遊戲紀錄檔，因為紀錄檔長度超過了%1行。
+        <translation>已停止監控遊戲記錄檔，因為記錄檔長度超過了 %1 行。
 您可能需要修復您的模組，因為遊戲仍會持續記錄到檔案中且可能會以驚人的速度浪費硬碟空間！</translation>
     </message>
 </context>
@@ -7090,7 +7090,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>是否確定刪除所有紀錄檔？</translation>
+        <translation>是否確定刪除所有記錄檔？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
@@ -7137,7 +7137,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.h" line="65"/>
         <source>Other logs</source>
-        <translation>其他紀錄檔</translation>
+        <translation>其他記錄檔</translation>
     </message>
 </context>
 <context>
