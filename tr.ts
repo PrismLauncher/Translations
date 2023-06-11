@@ -1095,12 +1095,12 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="295"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>1 görev yürütülüyor:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="297"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Görev bitirildi.</translation>
     </message>
 </context>
 <context>
@@ -1133,7 +1133,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
         <source>Instance Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Oturum Kopyalama Seçenekleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
@@ -1158,32 +1158,32 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
         <source>Advanced Copy Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelişmiş Kopyalama Seçenekleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dosyaları kopyalamak yerine sembolik veya sert bağlantıları kullanın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sembolik ve Sert Bağlantı Seçenekleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
         <source>Links are supported on most filesystems except FAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantılar FAT dosya sistemi hariç çoğu dosya sisteminde desteklenmektedir</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="275"/>
         <source>Link each resource individually instead of linking whole folders at once</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm klasörleri tek seferde bağlamak yerine her kaynağı teker teker bağlayın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="278"/>
         <source>Link files recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyaları tekrarlı olarak bağlayın</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
