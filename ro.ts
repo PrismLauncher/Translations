@@ -3738,12 +3738,12 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="154"/>
         <source>Icons Folder</source>
-        <translation>Folder de iconițe</translation>
+        <translation>Folder Iconițe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
         <source>Mods Folder</source>
-        <translation>Folder moduri</translation>
+        <translation>Folder Mod-uri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
@@ -3763,7 +3763,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="326"/>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation>[Ceva/AVERTIZARE] Un avertisment nu chiar așa de înfricoșător.</translation>
+        <translation>[Ceva/AVERTIZARE] Un avertisment nu chiar așa înfricoșător.</translation>
     </message>
 </context>
 <context>
@@ -3783,7 +3783,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instace can&apos;t start</extracomment>
-        <translation>Nu s-a putut porni Minecraft!</translation>
+        <translation>Nu s-a putut lansa Minecraft!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="212"/>
@@ -3817,7 +3817,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="120"/>
         <source>Third Party Modpack</source>
-        <translation>Modpack terț</translation>
+        <translation>Modpack de terță parte</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="122"/>
@@ -3835,7 +3835,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="127"/>
         <source>Third Party Packs</source>
-        <translation>Pachete terțe</translation>
+        <translation>Pack-uri de terță parte</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="132"/>
@@ -3858,7 +3858,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
         <source>Extracting modpack</source>
-        <translation>Se extrage modpackul</translation>
+        <translation>Se extrage modpack-ul</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="125"/>
@@ -3943,7 +3943,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
         <translation>Nu s-a putut descărca informația despre modpack pentru codul %1.
-Ar trebui sa fie sterse acum?</translation>
+Ar trebui șterse acum?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="380"/>
@@ -4030,12 +4030,12 @@ Ar trebui sa fie sterse acum?</translation>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="23"/>
         <source>Libraries for instance %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Arhive pentru instanța %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jar-ul nul este specificat în metadata, se anulează.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="65"/>
