@@ -1998,7 +1998,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%2&apos;nin %1i tamamlandı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
@@ -6485,7 +6485,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%2&apos;nin %1i tamamlandı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>

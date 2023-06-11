@@ -1944,7 +1944,7 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 %2:sta valmiina</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
@@ -2788,22 +2788,22 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="504"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä MangoHud:in edistynyttä suorituskyvyn peittokuvaa&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="507"/>
         <source>Enable MangoHud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Käynnistä MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="514"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käytä erillistä näytönohjainta ensisijaisen ohjaimen sijasta.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="517"/>
         <source>Use discrete GPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Käytä erillistä näytönohjainta</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="550"/>
@@ -2838,12 +2838,12 @@ Yritä uudelleen.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="370"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Feral Interactive:n pelitilaa ei voitu löytää järjestelmältäsi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="375"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MangoHud:ia ei voitu löytää järjestelmältäsi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="399"/>
@@ -6054,7 +6054,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 %2:sta valmiina</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
@@ -7811,13 +7811,16 @@ Please update %1!</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.
+Kanoninen polku: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="434"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="475"/>
@@ -7871,13 +7874,16 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Varoitus: Tämä resurssi on symbolisesti linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.
+Kanoninen polku: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="106"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Varoitus: Tämä resurssi on kiinteästi linkitetty muualta. Sen muokkaaminen vaikuttaa myös alkuperäiseen.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="131"/>
@@ -7944,7 +7950,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lataus pysäytetty käyttäjän toimesta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="89"/>
@@ -8311,7 +8317,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lataus pysäytetty käyttäjän toimesta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="83"/>
@@ -8669,7 +8675,7 @@ inheritsFrom puuttuu</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Download stopped by user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lataus pysäytetty käyttäjän toimesta.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="91"/>
