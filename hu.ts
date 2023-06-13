@@ -3261,7 +3261,7 @@ Kérjük, válasszon egyet a következők közül, vagy keressen egy java futtat
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Nem látod a nyelved vagy gyenge minőségű?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Segíts nekünk fordítani!&lt;/a&gt;</translation>
+        <translation>Nem látja a saját nyelvét vagy gyenge minőségű a fordítás?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Segítsen nekünk fordítani!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5098,7 +5098,14 @@ Deleting it could break the other instance(s),
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>A következő példány hivatkozhat fájlokra ebben a példányban:
+            <numerusform>A következő példány hivatkozhat fájlokra a jelenlegi példányban:
+
+%1
+
+A törlés tönkreteheti a másik példányt,
+
+Szeretné folytatni?</numerusform>
+            <numerusform>A következő példányok hivatkozhatnak fájlokra a jelenlegi példányban:
 
 %1
 
@@ -8760,7 +8767,7 @@ Biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Fríssítés</translation>
+        <translation>&amp;Frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -10138,7 +10145,7 @@ Kanonikus elérési út: %1</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="127"/>
         <source>Refresh</source>
-        <translation>Fríssítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="132"/>
