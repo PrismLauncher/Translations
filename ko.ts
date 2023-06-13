@@ -5125,7 +5125,7 @@ This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
         <translation>&quot;%1&quot;을 삭제하려고 합니다.
-이는 영구적이면 인스턴스가 완전히 삭제됩니다.
+이는 영구적이며 인스턴스가 완전히 삭제됩니다.
 
 확실합니까?</translation>
     </message>
