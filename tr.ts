@@ -3706,12 +3706,12 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Etkinleştirildiğinde, indirilenler klasörüne ek olarak, alt klasörleri de kaynak ararken aranacaktır (örneğin, CurseForge&apos;da engellenen modları ararken).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
         <source>Check downloads folder recursively</source>
-        <translation type="unfinished"></translation>
+        <translation>İndirilenler klasörünü tekrarlı olarak kontrol et</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
@@ -4692,17 +4692,17 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="462"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen profili desteklenen biçimlerde dışa aktar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="470"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="478"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="523"/>
@@ -5147,7 +5147,7 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1376"/>
         <source>There are linked instances</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bağlı profiller var</translation>
     </message>
     <message numerus="yes">
         <location filename="src/launcher/ui/MainWindow.cpp" line="1377"/>
@@ -5159,7 +5159,20 @@ Deleting it could break the other instance(s),
 
 Do you wish to proceed?</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>Aşağıdaki profil bu profildeki dosyaları kullanıyor olabilir:
+
+%1
+
+Bu profili silmek diğer profili de bozabilir,
+
+Devam etmek istiyor musunuz?</numerusform>
+            <numerusform>Aşağıdaki profiller bu profildeki dosyaları kullanıyor olabilir:
+
+%1
+
+Bu profili silmek diğer profilleri de bozabilir,
+
+Devam etmek istiyor musunuz?</numerusform>
         </translation>
     </message>
     <message>
@@ -6571,12 +6584,12 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="203"/>
         <source>Adding files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyalar ekleniyor...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="209"/>
         <source>Could not create file</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya oluşturulamadı</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="218"/>
