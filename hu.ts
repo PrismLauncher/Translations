@@ -3081,7 +3081,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
         <source>Java Runtime</source>
-        <translation>Java Runtime</translation>
+        <translation>Java Futtatókörnyezet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="185"/>
@@ -4586,7 +4586,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="591"/>
         <source>&amp;Matrix Space</source>
-        <translation>&amp;Matrix Space</translation>
+        <translation type="unfinished">&amp;Matrix Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="579"/>
@@ -7869,7 +7869,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat</source>
-        <translation>Flat</translation>
+        <translation type="unfinished">Flat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
