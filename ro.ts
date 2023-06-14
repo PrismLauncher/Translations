@@ -3927,7 +3927,7 @@ Garantarea accesului la %1 pentru el via Flatseal este recomandat.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation>Sarcina anulată</translation>
+        <translation>Sarcină anulată</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -4045,12 +4045,16 @@ Ar trebui șterse acum?</translation>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niște artefacte, marcate ca „Locale” au fișiere lipsă
+%1
+
+Adaugă fișierele lipsă, sau sterge pachetele care le folosesc.
+Această problemă trebuie corectată manual.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished">Anulat</translation>
+        <translation>Anulat</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="85"/>
@@ -4087,7 +4091,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
         <source>Wrap lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Înfășurare linii</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
@@ -4097,18 +4101,18 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished">&amp;Copiere</translation>
+        <translation>&amp;Copiere</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation>Încărcați jurnalul în serviciul de lipire configurat în preferințe</translation>
+        <translation>Încărcați log-ul în serviciul de lipire configurat în preferințe</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
         <source>Upload</source>
-        <translation>Încărcaţi</translation>
+        <translation>Încărcați</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
@@ -4144,7 +4148,7 @@ Motiv:
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
-        <translation>Minecraft Log</translation>
+        <translation>Log-ul Minecraft</translation>
     </message>
 </context>
 <context>
@@ -4153,18 +4157,18 @@ Motiv:
         <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation type="unfinished">Procesul a ieșit cu codul %1.</translation>
+        <translation>Procesul a ieșit cu codul %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="110"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation>Procesul a luat crash.</translation>
+        <translation>Procesul s-a oprit.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="112"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>Procesul s-a blocat cu codul de ieșire %1.</translation>
+        <translation>Procesul s-a oprit cu codul de ieșire %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="119"/>
@@ -4211,7 +4215,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/dialogs/MSALoginDialog.cpp" line="107"/>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Vă rugăm să deschideți %1 într-un browser și să introduceți codul &lt;b&gt;%2&lt;/b&gt; pentru a continua autentificarea.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Vă rugăm să deschideți %1 într-un browser și introduceți codul &lt;b&gt;%2&lt;/b&gt; pentru a continua autentificarea.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4219,7 +4223,7 @@ Motiv:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="68"/>
         <source>Logging in with Microsoft account.</source>
-        <translation>Conectare cu contul Microsoft.</translation>
+        <translation>Se conectează cu contul Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="90"/>
@@ -4295,7 +4299,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="470"/>
         <source>Prism Launcher (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prism Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="478"/>
