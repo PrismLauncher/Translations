@@ -669,7 +669,7 @@ Prosimo nadgradi operaciski sistem in %1.</translation>
         <translation>Videti je, da ste že uporabili %1 na %2. Ali želite svoje podatke preseliti na novo lokacijo %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1718"/>
+        <location filename="src/launcher/Application.cpp" line="1719"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Selitev ni uspela! Razlog: %1</translation>
     </message>

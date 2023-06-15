@@ -665,7 +665,7 @@ Molim te ažuriraj i svoj operacijski sustav i %1.</translation>
         <translation>Izgleda da si već koristio %1 na %2. Želiš li migrirati svoje podatke na novu lokaciju %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1718"/>
+        <location filename="src/launcher/Application.cpp" line="1719"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Neuspješna migracija! Razlog: %1</translation>
     </message>

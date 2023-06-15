@@ -686,7 +686,7 @@ OSと%1をアップデートしてください。</translation>
         <translation>あなたは%2以前に%1を利用していたようです。データを%3の新しい場所に移行しますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1718"/>
+        <location filename="src/launcher/Application.cpp" line="1719"/>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました: %1</translation>
     </message>

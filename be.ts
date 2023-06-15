@@ -665,7 +665,7 @@ Please update both your operating system and %1.</source>
         <translation>Здаецца, вы выкарыстоўвалі %1 раней. Вы жадаеце перанесці свае дадзеныя ў новае месца %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1718"/>
+        <location filename="src/launcher/Application.cpp" line="1719"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Перанос не ўдаўся! Прычына: %1</translation>
     </message>

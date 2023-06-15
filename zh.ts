@@ -706,7 +706,7 @@ Please update both your operating system and PolyMC.</source>
         <translation>你似乎曾经在 %2 使用过 %1。是否需要将你的数据迁移到 %3 的新位置？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1718"/>
+        <location filename="src/launcher/Application.cpp" line="1719"/>
         <source>Migration failed! Reason: %1</source>
         <translation>迁移失败！原因：%1</translation>
     </message>
