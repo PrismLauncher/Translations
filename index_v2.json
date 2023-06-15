@@ -147,12 +147,12 @@
             "untranslated" : 0
         },
         "en_NZ" : {
-            "file" : "72c68789502b3a812280c3ca0e8d0af0008483de.class",
-            "sha1" : "72c68789502b3a812280c3ca0e8d0af0008483de",
-            "size" : 16787,
-            "translated" : 120,
+            "file" : "f703bf8fdea418d0fbf82bf45ec761448e7fed85.class",
+            "sha1" : "f703bf8fdea418d0fbf82bf45ec761448e7fed85",
+            "size" : 18437,
+            "translated" : 135,
             "fuzzy" : 0,
-            "untranslated" : 1435
+            "untranslated" : 1420
         },
         "eo" : {
             "file" : "a17261e14487a7cdc376266464a23b54bfbf3e17.class",
