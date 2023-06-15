@@ -4274,7 +4274,7 @@ Důvod:
         <location filename="src/launcher/LoggedProcess.cpp" line="119"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>Hra byla usmrcena uživatelem.</translation>
+        <translation>Proces byl ukončen uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="130"/>
