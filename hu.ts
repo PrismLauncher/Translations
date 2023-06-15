@@ -4586,7 +4586,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
         <source>&amp;Matrix Space</source>
-        <translation type="unfinished">&amp;Matrix Space</translation>
+        <translation>&amp;Matrix Space</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="592"/>
@@ -4680,12 +4680,12 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>&amp;View Launcher Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Launcher gyökérmappájának megtekintése</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyissa meg a launcher gyökérmappáját egy fájlkezelőben.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
@@ -5113,6 +5113,13 @@ Do you wish to proceed?</source>
 %1
 
 A törlés tönkreteheti a másik példányt,
+
+Szeretné folytatni?</numerusform>
+            <numerusform>A következő példányok hivatkozhatnak fájlokra ebben a példányban:
+
+%1
+
+A törlés tönkreteheti a többi példányt,
 
 Szeretné folytatni?</numerusform>
         </translation>
@@ -7717,7 +7724,7 @@ Ez az üzenet addig jelenik meg, amíg el nem távolítja ezt a JVM-argumentumok
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;Java vendor reported: %3&lt;br /&gt;</source>
-        <translation>A Java teszt sikerült!&lt;br /&gt;Platform jelentve: %1&lt;br /&gt;Jelentett Java verzió: %2&lt;br /&gt;Java beszállító jelentve: %3&lt;br /&gt;</translation>
+        <translation>A Java teszt sikerült!&lt;br /&gt;Jelentett platform: %1&lt;br /&gt;Jelentett java verzió: %2&lt;br /&gt;Jelentett java beszállító: %3&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="81"/>
@@ -7879,7 +7886,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat</source>
-        <translation type="unfinished">Flat</translation>
+        <translation>Flat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
