@@ -56,7 +56,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;API de Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -1067,7 +1067,7 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="294"/>
         <source>Executing 1 task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutando 1 tarea :</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="296"/>
