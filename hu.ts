@@ -5115,13 +5115,6 @@ Do you wish to proceed?</source>
 A törlés tönkreteheti a másik példányt,
 
 Szeretné folytatni?</numerusform>
-            <numerusform>A következő példányok hivatkozhatnak fájlokra ebben a példányban:
-
-%1
-
-A törlés tönkreteheti a többi példányt,
-
-Szeretné folytatni?</numerusform>
         </translation>
     </message>
     <message>
