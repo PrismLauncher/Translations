@@ -4361,7 +4361,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
         <source>Open the instance folder in a file browser.</source>
-        <translation>Példánymappa megnyitása fájlkezelőben.</translation>
+        <translation>Példánymappa megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
@@ -4372,7 +4372,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="566"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation>Közép modok mappájának megnyitása fájlkezelőben.</translation>
+        <translation>Közép modok mappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
         <source>Dele&amp;te Instance</source>
@@ -4685,7 +4685,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation>Nyissa meg a launcher gyökérmappáját egy fájlkezelőben.</translation>
+        <translation>Launcher gyökérmappájának megnyitása a fájlkezelőben.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
