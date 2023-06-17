@@ -4784,12 +4784,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>&amp;View Launcher Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Просмотреть корневую папку лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть корневую папку лаунчера в файловом браузере.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
