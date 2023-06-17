@@ -2982,7 +2982,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="165"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="168"/>
         <source>Detecting Java installations...</source>
         <translation>Java paigalduste tuvastamine...</translation>
     </message>
@@ -9258,7 +9258,7 @@ Please switch to one of the following Java versions for this instance:</source>
 <context>
     <name>VersionListView</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
+        <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="47"/>
         <source>No versions are currently available.</source>
         <translation>Hetkel pole ühtegi versiooni saadaval.</translation>
     </message>
@@ -9710,88 +9710,87 @@ Palun lisa oma Mojangi või Minecrafti konto.</translation>
 <context>
     <name>VersionProxyModel</name>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="111"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
         <source>Version</source>
         <translation>Versioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="113"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="115"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
         <source>Branch</source>
         <translation>Haru</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
         <source>Type</source>
         <translation>Tüüp</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="125"/>
         <source>Architecture</source>
         <translation>Arhitektuur</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="127"/>
         <source>Path</source>
         <translation>Failitee</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="129"/>
         <source>Released</source>
         <translation>Väljastatud</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The name of the version.</source>
         <translation>Versiooni nimi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>Minecraft version</source>
         <translation>Minecrafti versioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>The version&apos;s branch</source>
         <translation>Versiooni haru</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The version&apos;s type</source>
         <translation>Versiooni tüüp</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>CPU Architecture</source>
         <translation>Protsessori arhitektuur</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Filesystem path to this version</source>
         <translation>Selle versiooni failisüsteemi tee</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="149"/>
         <source>Release date of this version</source>
         <translation>Selle versiooni väljalaskekuupäev</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="168"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="174"/>
         <source>%1 (installed)</source>
         <translation>%1 (paigaldatud)</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="199"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="205"/>
         <source>Recommended</source>
         <translation>Soovitatud</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="211"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="212"/>
         <source>Latest</source>
         <translation>Uusim</translation>
     </message>
@@ -9799,17 +9798,17 @@ Palun lisa oma Mojangi või Minecrafti konto.</translation>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="81"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="96"/>
         <source>Choose Version</source>
         <translation>Vali versioon</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="82"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
         <source>Reloads the version list.</source>
         <translation>Laadib versiooniloendi uuesti.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>&amp;Refresh</source>
         <translation>&amp;Värskenda</translation>
     </message>
@@ -9817,12 +9816,17 @@ Palun lisa oma Mojangi või Minecrafti konto.</translation>
 <context>
     <name>VersionSelectWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="39"/>
+        <source>Search</source>
+        <translation type="unfinished">Otsi</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
         <source>List update failed:
 %1</source>
         <translation>Loendi värskendamine ebaõnnestus:

@@ -3055,7 +3055,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="165"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="168"/>
         <source>Detecting Java installations...</source>
         <translation>Rilevamento delle installazioni di Java...</translation>
     </message>
@@ -9521,7 +9521,7 @@ Si prega di selezionare per questa istanza una versione fra le seguenti:</transl
 <context>
     <name>VersionListView</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
+        <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="47"/>
         <source>No versions are currently available.</source>
         <translation>Nessuna versione è attualmente disponibile.</translation>
     </message>
@@ -9972,88 +9972,87 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
 <context>
     <name>VersionProxyModel</name>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="111"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
         <source>Version</source>
         <translation>Versione</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="113"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="115"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
         <source>Branch</source>
         <translation>Ramo</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="125"/>
         <source>Architecture</source>
         <translation>Architettura</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="127"/>
         <source>Path</source>
         <translation>Percorso</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="129"/>
         <source>Released</source>
         <translation>Rilasciato</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The name of the version.</source>
         <translation>Il nome della versione.</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>Minecraft version</source>
         <translation>Versione di Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>The version&apos;s branch</source>
         <translation>Il tipo di versione</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The version&apos;s type</source>
         <translation>Il tipo della versione</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>CPU Architecture</source>
         <translation>Architettura CPU</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Filesystem path to this version</source>
         <translation>Percorso di questa versione</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="149"/>
         <source>Release date of this version</source>
         <translation>Data di rilascio di questa versione</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="168"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="174"/>
         <source>%1 (installed)</source>
         <translation>%1 (installata)</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="199"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="205"/>
         <source>Recommended</source>
         <translation>Raccomandato</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="211"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="212"/>
         <source>Latest</source>
         <translation>Ultima versione</translation>
     </message>
@@ -10061,17 +10060,17 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="81"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="96"/>
         <source>Choose Version</source>
         <translation>Scegli la versione</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="82"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
         <source>Reloads the version list.</source>
         <translation>Ricarica la lista delle versioni.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>&amp;Refresh</source>
         <translation>&amp;Aggiorna</translation>
     </message>
@@ -10079,12 +10078,17 @@ Per favore aggiungi il tuo account Mojang o Minecraft.</translation>
 <context>
     <name>VersionSelectWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="39"/>
+        <source>Search</source>
+        <translation type="unfinished">Cerca</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
         <source>List update failed:
 %1</source>
         <translation>Aggiornamento della lista fallito:

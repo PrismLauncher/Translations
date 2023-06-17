@@ -2945,7 +2945,7 @@ Please try again.</source>
 <context>
     <name>JavaListLoadTask</name>
     <message>
-        <location filename="src/launcher/java/JavaInstallList.cpp" line="165"/>
+        <location filename="src/launcher/java/JavaInstallList.cpp" line="168"/>
         <source>Detecting Java installations...</source>
         <translation>Εύρεση εγκαταστάσεων Java...</translation>
     </message>
@@ -8926,7 +8926,7 @@ Please switch to one of the following Java versions for this instance:</source>
 <context>
     <name>VersionListView</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="46"/>
+        <location filename="src/launcher/ui/widgets/VersionListView.cpp" line="47"/>
         <source>No versions are currently available.</source>
         <translation>Επί του παρόντος, δεν υπάρχουν διαθέσιμες εκδόσεις.</translation>
     </message>
@@ -9372,88 +9372,87 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>VersionProxyModel</name>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="111"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
         <source>Version</source>
         <translation>Έκδοση</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="113"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
         <source>Minecraft</source>
         <translation>Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="115"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
         <source>Branch</source>
         <translation>Κλάδος</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="117"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
         <source>Type</source>
         <translation>Τύπος</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="119"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="125"/>
         <source>Architecture</source>
         <translation>Αρχιτεκτονική</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="127"/>
         <source>Path</source>
         <translation>Διαδρομή</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="129"/>
         <source>Released</source>
         <translation>Κυκλοφόρησε</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="131"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
         <source>The name of the version.</source>
         <translation>Το όνομα της έκδοσης.</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="133"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
         <source>Minecraft version</source>
         <translation>Έκδοση Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="135"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
         <source>The version&apos;s branch</source>
         <translation>Ο κλάδος της έκδοσης</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
         <source>The version&apos;s type</source>
         <translation>Ο τύπος της έκδοσης</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="139"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="145"/>
         <source>CPU Architecture</source>
         <translation>Αρχιτεκτονική Επεξεργαστή</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="141"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="147"/>
         <source>Filesystem path to this version</source>
         <translation>Διαδρομή συστήματος αρχείων σε αυτή την έκδοση</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="143"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="149"/>
         <source>Release date of this version</source>
         <translation>Ημερομηνία κυκλοφορίας αυτής της έκδοσης</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="168"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="174"/>
         <source>%1 (installed)</source>
         <translation>%1 (εγκαταστάθηκε)</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="199"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="205"/>
         <source>Recommended</source>
         <translation>Προτεινόμενο</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="211"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="212"/>
         <source>Latest</source>
         <translation>Τελευταίο</translation>
     </message>
@@ -9461,17 +9460,17 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>VersionSelectDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="81"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="96"/>
         <source>Choose Version</source>
         <translation>Επιλέξτε Έκδοση</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="82"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="97"/>
         <source>Reloads the version list.</source>
         <translation>Επαναφορτώνει την λίστα εκδόσεων.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="83"/>
+        <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>&amp;Refresh</source>
         <translation>Ανανέωση &amp;R</translation>
     </message>
@@ -9479,12 +9478,17 @@ Please add your Mojang or Minecraft account.</oldsource>
 <context>
     <name>VersionSelectWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="39"/>
+        <source>Search</source>
+        <translation type="unfinished">Αναζήτηση</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
         <source>Error</source>
         <translation>Σφάλμα</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="132"/>
+        <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
         <source>List update failed:
 %1</source>
         <translation>Αδυναμία ενημέρωσης λίστας:
