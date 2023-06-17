@@ -9525,7 +9525,7 @@ Kérjük, váltson a következő Java-verziók egyikére:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
         <source>Revert</source>
-        <translation>Visszaszállás</translation>
+        <translation>Visszaállítás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="172"/>
@@ -10006,7 +10006,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="39"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
