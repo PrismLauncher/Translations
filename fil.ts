@@ -237,7 +237,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="979"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini-install ang modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="991"/>
