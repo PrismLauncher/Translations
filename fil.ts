@@ -686,7 +686,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
@@ -969,7 +969,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="202"/>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="252"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="278"/>
@@ -1288,7 +1288,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
         <location filename="src/launcher/DataMigrationTask.cpp" line="95"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="86"/>
@@ -1394,7 +1394,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
@@ -1448,7 +1448,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="104"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
@@ -1557,7 +1557,7 @@ Mangyaring i-update ang iyong operating system at %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Menu ng konteksto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
@@ -1625,7 +1625,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1724,7 +1724,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="76"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/FMLLibrariesTask.cpp" line="93"/>
@@ -3058,7 +3058,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="432"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="460"/>
@@ -3462,7 +3462,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="151"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ini-install ang modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="159"/>
@@ -3511,7 +3511,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -3585,7 +3585,7 @@ You&apos;ll have to correct this problem manually.</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="85"/>
@@ -4287,7 +4287,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="951"/>
@@ -4578,7 +4578,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="165"/>
@@ -4650,7 +4650,7 @@ Do you wish to proceed?</source>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
         <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
 </context>
 <context>
@@ -4706,7 +4706,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftLoadAndCheck.cpp" line="23"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
 </context>
 <context>
@@ -5063,7 +5063,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="165"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="225"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
@@ -5075,7 +5075,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
@@ -5195,7 +5195,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="105"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
@@ -5298,7 +5298,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="318"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="321"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="318"/>
@@ -5837,7 +5837,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="240"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="291"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="152"/>
@@ -5910,7 +5910,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="378"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="645"/>
@@ -6842,7 +6842,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="380"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="384"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="380"/>
@@ -7146,12 +7146,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="79"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
@@ -7255,7 +7255,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="323"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Menu ng konteksto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="386"/>
@@ -7439,7 +7439,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="657"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Menu ng konteksto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7475,7 +7475,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;I-refresh</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -7503,12 +7503,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
@@ -7815,12 +7815,12 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="81"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na-abort</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
@@ -8303,7 +8303,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Menu ng konteksto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
@@ -8333,7 +8333,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="491"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
@@ -8616,7 +8616,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/VersionSelectDialog.cpp" line="98"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;I-refresh</translation>
     </message>
 </context>
 <context>
@@ -8629,7 +8629,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mali</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
@@ -8798,7 +8798,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="144"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Menu ng konteksto</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="229"/>
