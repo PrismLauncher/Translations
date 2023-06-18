@@ -69,7 +69,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;註：您只需要啟用這個設定就可以存取私人資料。閱讀&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;文件&lt;/a&gt;了解更多資訊。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;備註：您只需要啟用這個設定就可以存取私人資料。閱讀 &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;檔案&lt;/a&gt; 了解更多資訊。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -564,7 +564,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>還未設定微軟驗證用戶端 ID。</translation>
+        <translation>尚未設定 Microsoft 驗證用戶端 ID。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -600,7 +600,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>在你新增離線帳號之前，你必須先新增一個擁有 Minecraft 的微軟或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果你遺失了你的帳號，你可以嘗試聯絡微軟尋求支援。</translation>
+        <translation>在你新增離線帳號之前，你必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果你遺失了你的帳號，你可以嘗試聯絡 Microsoft 尋求支援。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -1332,7 +1332,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation>掃描文件中...</translation>
+        <translation>掃描檔案中...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
@@ -1650,7 +1650,7 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>您將要刪除 %1 資料夾。
+        <translation>您將要刪除資料夾「%1」。
 這可能是永久性的，它將從父資料夾中消失。
 
 你確定嗎？</translation>
@@ -1926,12 +1926,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
         <source>No index file.</source>
-        <translation>沒有索引文件。</translation>
+        <translation>沒有索引檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我們無法找到適合舊版本的索引文件。這可能會導致一些文件的重複。你想繼續嗎？</translation>
+        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些檔案的重複。你想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
@@ -1976,7 +1976,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="435"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>以下文件無法在第三方啟動器中下載。&lt;br/&gt;你將需要手動去下載它們並把它們加入到實例之中。</translation>
+        <translation>以下檔案無法在第三方啟動器中下載。&lt;br/&gt;你將需要手動去下載它們並把它們加入到實例之中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
@@ -2525,12 +2525,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="43"/>
         <source>Removing old conflicting files...</source>
-        <translation>正在刪除舊的衝突文件...</translation>
+        <translation>正在刪除舊的衝突檔案...</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceCreationTask.cpp" line="52"/>
         <source>Failed to remove old conflicting files.</source>
-        <translation>刪除舊的衝突文件失敗。</translation>
+        <translation>刪除舊的衝突檔案失敗。</translation>
     </message>
 </context>
 <context>
@@ -2802,7 +2802,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
         <source>Start Minecraft maximized?</source>
-        <translation>啟動 Minecraft 時將視窗最大化?</translation>
+        <translation>啟動 Minecraft 時將視窗最大化？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2822,17 +2822,17 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
         <source>Show console while the game is running?</source>
-        <translation>遊戲執行時顯示控制台?</translation>
+        <translation>遊戲執行時顯示控制台？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
         <source>Automatically close console when the game quits?</source>
-        <translation>離開遊戲時自動關閉控制台?</translation>
+        <translation>離開遊戲時自動關閉控制台？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
         <source>Show console when the game crashes?</source>
-        <translation>遊戲崩潰時顯示控制台?</translation>
+        <translation>遊戲崩潰時顯示控制台？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -2877,7 +2877,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
         <source>Account:</source>
-        <translation>帳號:</translation>
+        <translation>帳號：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="368"/>
@@ -3812,7 +3812,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>你真的確定要使用此路徑？選擇 &quot;否&quot; 會關閉此對話框且不會修改實例路徑。</translation>
+        <translation>你真的確定要使用此路徑？選擇「否」會關閉此對話框且不會修改實例路徑。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
@@ -4266,29 +4266,29 @@ Reason:
         <location filename="src/launcher/LoggedProcess.cpp" line="103"/>
         <source>Process exited with code %1.</source>
         <extracomment>Message displayed on instance exit</extracomment>
-        <translation>程序已退出，代碼：%1。</translation>
+        <translation>程式已退出，代碼：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="110"/>
         <source>Process crashed.</source>
         <extracomment>Message displayed on instance crashed</extracomment>
-        <translation>程序已崩潰。</translation>
+        <translation>程式已崩潰。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="112"/>
         <source>Process crashed with exitcode %1.</source>
-        <translation>程序已崩潰，退出代碼：%1。</translation>
+        <translation>程式已崩潰，退出代碼：%1。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="119"/>
         <source>Process was killed by user.</source>
         <extracomment>Message displayed after the instance exits due to kill request</extracomment>
-        <translation>程序已被使用者強制關閉。</translation>
+        <translation>程式已被使用者強制關閉。</translation>
     </message>
     <message>
         <location filename="src/launcher/LoggedProcess.cpp" line="130"/>
         <source>The process failed to start.</source>
-        <translation>程序啟動失敗。</translation>
+        <translation>程式啟動失敗。</translation>
     </message>
 </context>
 <context>
@@ -4337,7 +4337,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="90"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>微軟使用者驗證失敗 - 用戶端識別碼已變更。</translation>
+        <translation>Microsoft 使用者驗證失敗 - 用戶端識別碼已變更。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="127"/>
@@ -4347,7 +4347,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation>Microsoft 使用者驗證程序因網路問題而中止。</translation>
+        <translation>Microsoft 使用者驗證程式因網路問題而中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="138"/>
@@ -5475,7 +5475,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="833"/>
         <source>&lt;SESSION ID&gt;</source>
-        <translation>&lt;程序ID&gt;</translation>
+        <translation>&lt;SESSION ID&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="836"/>
@@ -5490,7 +5490,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="841"/>
         <source>&lt;PROFILE ID&gt;</source>
-        <translation>&lt;設定檔ID&gt;</translation>
+        <translation>&lt;設定檔 ID&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="913"/>
@@ -6509,12 +6509,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
         <source>No index file.</source>
-        <translation>沒有索引文件。</translation>
+        <translation>沒有索引檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="138"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我們無法找到適合舊版本的索引文件。這可能會導致一些文件的重複。你想繼續嗎？</translation>
+        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些文件的重複。你想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="182"/>
@@ -7309,7 +7309,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>作為此實例的預設值?</translation>
+        <translation>作為此實例的預設值？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
@@ -7362,7 +7362,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="194"/>
         <source>Failed to check name availability.</source>
-        <translation>未能檢查用戶名是否可用。</translation>
+        <translation>未能檢查使用者名稱是否可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="271"/>
@@ -7466,7 +7466,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="175"/>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
-        <translation>註：Proxy 的使用者名稱及密碼會以明文儲存在啟動器的設定檔中！</translation>
+        <translation>備註：Proxy 的使用者名稱及密碼會以明文儲存在啟動器的設定檔中！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.h" line="61"/>
@@ -8114,7 +8114,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>與 PrismLauncher 一起使用的 Windows 的 MKLINK 程序</translation>
+        <translation>與 PrismLauncher 一起使用的 Windows 的 MKLINK 程式</translation>
     </message>
 </context>
 <context>
@@ -8297,7 +8297,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="287"/>
         <source>Loading versions...</source>
-        <translation>正在載入版本……</translation>
+        <translation>正在載入版本...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.h" line="47"/>
@@ -10630,7 +10630,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation>Mojang 使用者驗證程序因網路問題而中止。</translation>
+        <translation>Mojang 使用者驗證程式因網路問題而中止。</translation>
     </message>
 </context>
 </TS>
