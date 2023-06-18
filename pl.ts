@@ -9390,7 +9390,7 @@ Brakuje inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation>C%at</translation>
+        <translation>C&amp;at</translation>
     </message>
 </context>
 <context>
