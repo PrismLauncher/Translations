@@ -175,7 +175,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="390"/>
         <source>No loader version set for modpack!</source>
-        <translation>沒有為模組包設置載入器版本！</translation>
+        <translation>沒有為模組包設定載入器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="535"/>
@@ -638,7 +638,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>用戶端 ID 已變更。需要建立新的會話。</translation>
+        <translation>用戶端 ID 已變更。需要建立新的 session。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
@@ -648,7 +648,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>驗證失敗。會話已過期。</translation>
+        <translation>驗證失敗。session 已過期。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
@@ -3376,7 +3376,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="236"/>
         <source>Received undetermined session status during login.</source>
-        <translation>在登入時接收到無法確定的會話狀態。</translation>
+        <translation>在登入時接收到無法確定的 session 狀態。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="247"/>
@@ -3437,7 +3437,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>該帳號不再存在於伺服器上。它可能已被遷移，在這種情況下，請添加您遷移到的新帳號。</translation>
+        <translation>該帳號不再存在於伺服器上。它可能已被遷移，在這種情況下，請加入您遷移到的新帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="317"/>
@@ -8242,7 +8242,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="245"/>
         <source>Select %1 for download</source>
-        <translation>選擇要下載的 %1</translation>
+        <translation>選擇要下載的%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="197"/>
@@ -8599,7 +8599,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
         <source>Only %1 with a check will be downloaded!</source>
-        <translation>只會下載勾選的 %1！</translation>
+        <translation>只會下載勾選的%1！</translation>
     </message>
 </context>
 <context>
