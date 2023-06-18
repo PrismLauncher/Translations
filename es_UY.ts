@@ -1057,7 +1057,7 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="290"/>
         <source>Please wait...</source>
-        <translation type="unfinished">Por favor esperá...</translation>
+        <translation>Por favor, espera...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="292"/>
@@ -1308,7 +1308,7 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
-        <translation>Comandos personalizados</translation>
+        <translation>Comandos Personalizados</translation>
     </message>
 </context>
 <context>
