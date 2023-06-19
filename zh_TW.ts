@@ -5864,7 +5864,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此世界已永久連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
+警告：這個資源是從某處硬連結。編輯他也會改變原本的。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
