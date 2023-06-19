@@ -559,7 +559,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>歡迎！
-如果你剛來到這裡，你可以點擊「新增」按鈕來新增你的 Mojang 或 Minecraft 帳號。</translation>
+如果你剛來到這裡，你可以點一下「新增」按鈕來新增你的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -824,7 +824,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>警告：本功能尚在開發中。如果匯入的模組包有任何問題，有可能是 Bug。</translation>
+        <translation>警告：本功能尚在開發中。如果匯入的模組包有任何問題，有可能是個錯誤。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -4451,7 +4451,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation>開啟 Bug 追蹤器以回報 %1 的 Bug。</translation>
+        <translation>開啟錯誤追蹤器以回報 %1 的錯誤。</translation>
     </message>
     <message>
         <source>Open %1 Matrix space</source>
@@ -4632,7 +4632,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Report a &amp;Bug...</source>
-        <translation>回報 Bug（&amp;B）…</translation>
+        <translation>回報錯誤（&amp;B）…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="604"/>
@@ -4647,7 +4647,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="616"/>
         <source>Sub&amp;reddit</source>
-        <translation>Sub&amp;reddit</translation>
+        <translation>Reddit 子版（&amp;R）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="628"/>
