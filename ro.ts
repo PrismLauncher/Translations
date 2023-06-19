@@ -4304,13 +4304,13 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
         <source>Modrinth (mrpack)</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth (mrpack)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="539"/>
         <source>&amp;View Instance Folder</source>
         <oldsource>View Instance Folder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vezi Folder-ul Instanței</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="542"/>
@@ -4320,33 +4320,33 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>&amp;View Launcher Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vezi Folder-ul Rădăcină al Launcher-ului</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide folder-ul rădăcină al launcher-ului într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="563"/>
         <source>View &amp;Central Mods Folder</source>
         <oldsource>View Central Mods Folder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vezi &amp;Folder-ul de Mod-uri Centrale</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="566"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide folder-ul de mod-uri centrale într-un browser de fișiere.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
         <source>Open %1 Matrix space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide %1 Matrix space.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="658"/>
         <source>Install a %1 symlink to /usr/local/bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalează o %1 legătură simbolică la /usr/local/bin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="667"/>
@@ -4356,7 +4356,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="670"/>
         <source>Open one of the folders shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide unul dintre folder-ele împărțite între instanțe.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -4370,7 +4370,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="583"/>
         <source>Open the bug tracker to report a bug with %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide urmăritorul de bug-uri pentru a raporta un bug cu %1.</translation>
     </message>
     <message>
         <source>Discord guild</source>
@@ -4385,7 +4385,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="619"/>
         <source>Open %1 subreddit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide %1 subreddit-ul.</translation>
     </message>
     <message>
         <source>About %1</source>
@@ -4394,7 +4394,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="631"/>
         <source>View information about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vezi informații despre %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="679"/>
@@ -4404,7 +4404,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="682"/>
         <source>Get help with %1 or Minecraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primește ajutor cu %1 sau Minecraft.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -4413,7 +4413,7 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="289"/>
         <source>Check for new updates for %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifică pentru actualizări pentru %1.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -4427,27 +4427,27 @@ Motiv:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="195"/>
         <source>&amp;Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>%Conturi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="64"/>
         <source>News Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Bara de Știri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="231"/>
         <source>More news...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai multe știri...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="234"/>
         <source>Open the development blog to read more news about %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide blog-ul de dezvoltare pentru a citi mai multe știri despre %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="387"/>
         <source>&amp;Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>%Editează...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="402"/>
