@@ -1340,7 +1340,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
-        <translation>Comandos personalizados</translation>
+        <translation>Comandos Personalizados</translation>
     </message>
 </context>
 <context>
@@ -4741,12 +4741,12 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>&amp;View Launcher Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ver la carpeta raíz del Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abra la carpeta raíz del Launcher en un explorador de archivos.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
@@ -5161,7 +5161,7 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1368"/>
         <source>Confirm Deletion</source>
-        <translation>Confirmar Eliminación</translation>
+        <translation>Confirmar Borrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1369"/>
@@ -5198,6 +5198,13 @@ Do you wish to proceed?</source>
 %1
 
 Borrarla podría romper la otra instancia, 
+
+¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarlo podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
             <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
@@ -7072,7 +7079,7 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="223"/>
         <source>Confirm Deletion</source>
-        <translation>Confirmar Eliminación</translation>
+        <translation>Confirmar Borrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="224"/>
@@ -7088,7 +7095,7 @@ Esto puede ser permanente y desaparecerá de la carpeta de registros.
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
         <source>Confirm Cleanup</source>
-        <translation>Confirmar limpieza</translation>
+        <translation>Confirmar Limpieza</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
@@ -8164,7 +8171,7 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="62"/>
         <source>Review and confirm</source>
-        <translation>Revisar y Confirmar</translation>
+        <translation>Revisar y confirmar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="63"/>
@@ -8350,7 +8357,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="140"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
-        <translation>Texture Packs</translation>
+        <translation>Texture packs</translation>
     </message>
 </context>
 <context>
@@ -8730,7 +8737,7 @@ Esto puede ser permanente y desaparecerá de la carpeta.
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="529"/>
         <source>Confirm Deletion</source>
-        <translation>Confirmar eliminación</translation>
+        <translation>Confirmar Borrado</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -8847,7 +8854,7 @@ Esto puede ser permanente y desaparecerá de la carpeta.
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
         <source>Confirm Removal</source>
-        <translation>Confirmar eliminación</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="806"/>
@@ -9252,7 +9259,7 @@ falta inheritsFrom</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.h" line="51"/>
         <source>Texture packs</source>
-        <translation>Texture Packs</translation>
+        <translation>Texture packs</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="51"/>
@@ -9837,7 +9844,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>Confirm Removal</source>
-        <translation>Confirmar eliminación</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="334"/>
@@ -9930,7 +9937,7 @@ Por favor añade una cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="746"/>
         <source>Confirm Reversion</source>
-        <translation>Confirmar reversión</translation>
+        <translation>Confirmar Reversión</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="747"/>
@@ -10131,7 +10138,7 @@ Por favor, añade tu cuenta de Mojang o Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="39"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
@@ -10387,7 +10394,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="198"/>
         <source>Confirm Deletion</source>
-        <translation>Confirmar eliminación</translation>
+        <translation>Confirmar Borrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="199"/>
