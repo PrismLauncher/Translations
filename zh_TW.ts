@@ -1875,7 +1875,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation>未找到該模組的有效版本。可能在目前的遊戲版本 / 模組載入器中還不可用。</translation>
+        <translation>未找到該模組的有效版本。可能在目前的遊戲版本／模組載入器中還不可用。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -1953,7 +1953,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="323"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation>匯入包裝時移除了Minecraft版本的追蹤點。</translation>
+        <translation>匯入包裝時移除了 Minecraft 版本的追蹤點。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
@@ -1964,7 +1964,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation>無法解析模組 IDs：
+        <translation>無法解析模組 ID：
 </translation>
     </message>
     <message>
@@ -2015,7 +2015,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="487"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
-        <translation>此為 無法辨識的/無法處理的 包裝類型：%1</translation>
+        <translation>此為無法辨識／無法處理的包裝類型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="508"/>
@@ -5864,7 +5864,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：這個資源是從某處硬連結。編輯他也會改變原本的。</translation>
+警告：這個資源是從某處硬連結。編輯它也會改變原本的。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="147"/>
