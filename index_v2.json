@@ -315,9 +315,9 @@
             "untranslated" : 1
         },
         "ja" : {
-            "file" : "99808b017f5585d1cf0659f2e72e47e3456ddb7f.class",
-            "sha1" : "99808b017f5585d1cf0659f2e72e47e3456ddb7f",
-            "size" : 181624,
+            "file" : "d3049fc040ed6944bb4e4c717e8e66bfa9eba1b0.class",
+            "sha1" : "d3049fc040ed6944bb4e4c717e8e66bfa9eba1b0",
+            "size" : 181568,
             "translated" : 1592,
             "fuzzy" : 3,
             "untranslated" : 19
@@ -587,9 +587,9 @@
             "untranslated" : 0
         },
         "zh_TW" : {
-            "file" : "ee1f5d3c9ca7ff6875248cd5cd9854e66a575632.class",
-            "sha1" : "ee1f5d3c9ca7ff6875248cd5cd9854e66a575632",
-            "size" : 164675,
+            "file" : "93c3e372bbaba4f9264582c38788857cfb193e63.class",
+            "sha1" : "93c3e372bbaba4f9264582c38788857cfb193e63",
+            "size" : 164677,
             "translated" : 1614,
             "fuzzy" : 0,
             "untranslated" : 0
