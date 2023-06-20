@@ -404,20 +404,35 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
-        <comment>Can Migrate?</comment>
-        <translation>T/A</translation>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">T/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
-        <comment>Can Migrate?</comment>
-        <translation>Bisa</translation>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">Bisa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">Tidak Bisa</translation>
+    </message>
+    <message>
+        <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation>Tidak Bisa</translation>
+        <translation type="vanished">T/A</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <comment>Can Migrate?</comment>
+        <translation type="vanished">Bisa</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>Can Migrate?</comment>
+        <translation type="vanished">Tidak Bisa</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
@@ -2695,8 +2710,9 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
-        <source>Start Minecraft maximized?</source>
-        <translation>Mulai Minecraft dengan layar penuh?</translation>
+        <source>Start Minecraft maximized</source>
+        <oldsource>Start Minecraft maximized?</oldsource>
+        <translation type="unfinished">Mulai Minecraft dengan layar penuh?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2715,18 +2731,21 @@ Coba ulang lagi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
-        <source>Show console while the game is running?</source>
-        <translation>Tampilkan konsol disaat game berjalan?</translation>
+        <source>Show console while the game is running</source>
+        <oldsource>Show console while the game is running?</oldsource>
+        <translation type="unfinished">Tampilkan konsol disaat game berjalan?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
-        <source>Automatically close console when the game quits?</source>
-        <translation>Otomatis tutup konsol disaat keluar dari game?</translation>
+        <source>Automatically close console when the game quits</source>
+        <oldsource>Automatically close console when the game quits?</oldsource>
+        <translation type="unfinished">Otomatis tutup konsol disaat keluar dari game?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
-        <source>Show console when the game crashes?</source>
-        <translation>Tampilkan konsol disaat game gagal?</translation>
+        <source>Show console when the game crashes</source>
+        <oldsource>Show console when the game crashes?</oldsource>
+        <translation type="unfinished">Tampilkan konsol disaat game gagal?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -3542,8 +3561,9 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
-        <source>Disable using metadata for mods?</source>
-        <translation>Matikan penggunaan metadata untuk mod-mod?</translation>
+        <source>Disable using metadata for mods</source>
+        <oldsource>Disable using metadata for mods?</oldsource>
+        <translation type="unfinished">Matikan penggunaan metadata untuk mod-mod?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -3602,21 +3622,21 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
-        <source>Show console while the game is &amp;running?</source>
-        <oldsource>Show console while the game is running?</oldsource>
-        <translation>Tampilkan konsol ketika permainan sedang &amp;berjalan?</translation>
+        <source>Show console while the game is &amp;running</source>
+        <oldsource>Show console while the game is &amp;running?</oldsource>
+        <translation type="unfinished">Tampilkan konsol ketika permainan sedang &amp;berjalan?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
-        <source>&amp;Automatically close console when the game quits?</source>
-        <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>&amp;Tutup konsol secara otomatis ketika keluar permainan?</translation>
+        <source>&amp;Automatically close console when the game quits</source>
+        <oldsource>&amp;Automatically close console when the game quits?</oldsource>
+        <translation type="unfinished">&amp;Tutup konsol secara otomatis ketika keluar permainan?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
-        <source>Show console when the game &amp;crashes?</source>
-        <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Tampilkan konsol ketika game &amp;crash?</translation>
+        <source>Show console when the game &amp;crashes</source>
+        <oldsource>Show console when the game &amp;crashes?</oldsource>
+        <translation type="unfinished">Tampilkan konsol ketika game &amp;crash?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -5269,8 +5289,8 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
-        <source>Start Minecraft &amp;maximized?</source>
-        <oldsource>Start Minecraft maximized?</oldsource>
+        <source>Start Minecraft &amp;maximized</source>
+        <oldsource>Start Minecraft &amp;maximized?</oldsource>
         <translation type="unfinished">Mulai Minecraft dengan layar penuh?</translation>
     </message>
     <message>

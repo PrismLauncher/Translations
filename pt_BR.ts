@@ -416,20 +416,35 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
-        <comment>Can Migrate?</comment>
-        <translation>N/A</translation>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
-        <comment>Can Migrate?</comment>
-        <translation>Sim</translation>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">Sim</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">Não</translation>
+    </message>
+    <message>
+        <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation>Não</translation>
+        <translation type="vanished">N/A</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <comment>Can Migrate?</comment>
+        <translation type="vanished">Sim</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>Can Migrate?</comment>
+        <translation type="vanished">Não</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
@@ -2823,8 +2838,9 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
-        <source>Start Minecraft maximized?</source>
-        <translation>Iniciar o Minecraft maximizado?</translation>
+        <source>Start Minecraft maximized</source>
+        <oldsource>Start Minecraft maximized?</oldsource>
+        <translation type="unfinished">Iniciar o Minecraft maximizado?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2843,18 +2859,21 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
-        <source>Show console while the game is running?</source>
-        <translation>Abrir console enquanto o jogo estiver rodando?</translation>
+        <source>Show console while the game is running</source>
+        <oldsource>Show console while the game is running?</oldsource>
+        <translation type="unfinished">Abrir console enquanto o jogo estiver rodando?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
-        <source>Automatically close console when the game quits?</source>
-        <translation>Fechar console automaticamente ao encerrar o jogo?</translation>
+        <source>Automatically close console when the game quits</source>
+        <oldsource>Automatically close console when the game quits?</oldsource>
+        <translation type="unfinished">Fechar console automaticamente ao encerrar o jogo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
-        <source>Show console when the game crashes?</source>
-        <translation>Abrir console quando o jogo parar de funcionar?</translation>
+        <source>Show console when the game crashes</source>
+        <oldsource>Show console when the game crashes?</oldsource>
+        <translation type="unfinished">Abrir console quando o jogo parar de funcionar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -3681,8 +3700,9 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
-        <source>Disable using metadata for mods?</source>
-        <translation>Desativar o uso de metadados para mods?</translation>
+        <source>Disable using metadata for mods</source>
+        <oldsource>Disable using metadata for mods?</oldsource>
+        <translation type="unfinished">Desativar o uso de metadados para mods?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -3786,21 +3806,21 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
-        <source>Show console while the game is &amp;running?</source>
-        <oldsource>Show console while the game is running?</oldsource>
-        <translation>Abrir console enquanto o jogo estiver &amp;rodando?</translation>
+        <source>Show console while the game is &amp;running</source>
+        <oldsource>Show console while the game is &amp;running?</oldsource>
+        <translation type="unfinished">Abrir console enquanto o jogo estiver &amp;rodando?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
-        <source>&amp;Automatically close console when the game quits?</source>
-        <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Fechar console &amp;automaticamente ao sair do jogo?</translation>
+        <source>&amp;Automatically close console when the game quits</source>
+        <oldsource>&amp;Automatically close console when the game quits?</oldsource>
+        <translation type="unfinished">Fechar console &amp;automaticamente ao sair do jogo?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
-        <source>Show console when the game &amp;crashes?</source>
-        <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Abrir console ao o jogo &amp;parar de funcionar?</translation>
+        <source>Show console when the game &amp;crashes</source>
+        <oldsource>Show console when the game &amp;crashes?</oldsource>
+        <translation type="unfinished">Abrir console ao o jogo &amp;parar de funcionar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -5589,9 +5609,9 @@ Você tem certeza?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
-        <source>Start Minecraft &amp;maximized?</source>
-        <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Iniciar o Minecraft &amp;maximizado?</translation>
+        <source>Start Minecraft &amp;maximized</source>
+        <oldsource>Start Minecraft &amp;maximized?</oldsource>
+        <translation type="unfinished">Iniciar o Minecraft &amp;maximizado?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>

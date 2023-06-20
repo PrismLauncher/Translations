@@ -404,20 +404,35 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
-        <comment>Can Migrate?</comment>
-        <translation>N/A</translation>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
-        <comment>Can Migrate?</comment>
-        <translation>Áno</translation>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">Áno</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">Nie</translation>
+    </message>
+    <message>
+        <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation>Nie</translation>
+        <translation type="vanished">N/A</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <comment>Can Migrate?</comment>
+        <translation type="vanished">Áno</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>Can Migrate?</comment>
+        <translation type="vanished">Nie</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
@@ -2669,8 +2684,9 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
-        <source>Start Minecraft maximized?</source>
-        <translation>Spustiť Minecraft maximalizovaný?</translation>
+        <source>Start Minecraft maximized</source>
+        <oldsource>Start Minecraft maximized?</oldsource>
+        <translation type="unfinished">Spustiť Minecraft maximalizovaný?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2689,18 +2705,21 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
-        <source>Show console while the game is running?</source>
-        <translation>Zobraziť konzolu počas spustenia hry?</translation>
+        <source>Show console while the game is running</source>
+        <oldsource>Show console while the game is running?</oldsource>
+        <translation type="unfinished">Zobraziť konzolu počas spustenia hry?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
-        <source>Automatically close console when the game quits?</source>
-        <translation>Automaticky zavrieť konzolu pri zavretí hry?</translation>
+        <source>Automatically close console when the game quits</source>
+        <oldsource>Automatically close console when the game quits?</oldsource>
+        <translation type="unfinished">Automaticky zavrieť konzolu pri zavretí hry?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
-        <source>Show console when the game crashes?</source>
-        <translation>Zobraziť konzolu pri páde hry?</translation>
+        <source>Show console when the game crashes</source>
+        <oldsource>Show console when the game crashes?</oldsource>
+        <translation type="unfinished">Zobraziť konzolu pri páde hry?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -3525,7 +3544,8 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
-        <source>Disable using metadata for mods?</source>
+        <source>Disable using metadata for mods</source>
+        <oldsource>Disable using metadata for mods?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3594,20 +3614,20 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
-        <source>Show console while the game is &amp;running?</source>
-        <oldsource>Show console while the game is running?</oldsource>
+        <source>Show console while the game is &amp;running</source>
+        <oldsource>Show console while the game is &amp;running?</oldsource>
         <translation type="unfinished">Zobraziť konzolu počas hry?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
-        <source>&amp;Automatically close console when the game quits?</source>
-        <oldsource>Automatically close console when the game quits?</oldsource>
+        <source>&amp;Automatically close console when the game quits</source>
+        <oldsource>&amp;Automatically close console when the game quits?</oldsource>
         <translation type="unfinished">Automaticky zavrieť konzolu po zavretí hry?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
-        <source>Show console when the game &amp;crashes?</source>
-        <oldsource>Show console when the game crashes?</oldsource>
+        <source>Show console when the game &amp;crashes</source>
+        <oldsource>Show console when the game &amp;crashes?</oldsource>
         <translation type="unfinished">Zobraziť konzolu keď hra spadne?</translation>
     </message>
     <message>
@@ -5256,8 +5276,8 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
-        <source>Start Minecraft &amp;maximized?</source>
-        <oldsource>Start Minecraft maximized?</oldsource>
+        <source>Start Minecraft &amp;maximized</source>
+        <oldsource>Start Minecraft &amp;maximized?</oldsource>
         <translation type="unfinished">Spustiť Minecraft maximalizovaný?</translation>
     </message>
     <message>

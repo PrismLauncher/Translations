@@ -404,20 +404,35 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
-        <comment>Can Migrate?</comment>
-        <translation>N/A</translation>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
-        <comment>Can Migrate?</comment>
-        <translation>Ja</translation>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">Ja</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
+        <comment>Can Migrate</comment>
+        <translation type="unfinished">Nej</translation>
+    </message>
+    <message>
+        <source>N/A</source>
         <comment>Can Migrate?</comment>
-        <translation>Nej</translation>
+        <translation type="vanished">N/A</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <comment>Can Migrate?</comment>
+        <translation type="vanished">Ja</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <comment>Can Migrate?</comment>
+        <translation type="vanished">Nej</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
@@ -2767,8 +2782,9 @@ Var försiktig!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
-        <source>Start Minecraft maximized?</source>
-        <translation>Starta Minecraft i helskärmsläge?</translation>
+        <source>Start Minecraft maximized</source>
+        <oldsource>Start Minecraft maximized?</oldsource>
+        <translation type="unfinished">Starta Minecraft i helskärmsläge?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2787,18 +2803,21 @@ Var försiktig!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
-        <source>Show console while the game is running?</source>
-        <translation>Visa konsolen medan spelet körs?</translation>
+        <source>Show console while the game is running</source>
+        <oldsource>Show console while the game is running?</oldsource>
+        <translation type="unfinished">Visa konsolen medan spelet körs?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
-        <source>Automatically close console when the game quits?</source>
-        <translation>Stäng konsolen automatiskt när spelet avslutas?</translation>
+        <source>Automatically close console when the game quits</source>
+        <oldsource>Automatically close console when the game quits?</oldsource>
+        <translation type="unfinished">Stäng konsolen automatiskt när spelet avslutas?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
-        <source>Show console when the game crashes?</source>
-        <translation>Visa konsolen när spelet kraschar?</translation>
+        <source>Show console when the game crashes</source>
+        <oldsource>Show console when the game crashes?</oldsource>
+        <translation type="unfinished">Visa konsolen när spelet kraschar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -3635,8 +3654,9 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
-        <source>Disable using metadata for mods?</source>
-        <translation>Inaktivera användning av metadata för mods?</translation>
+        <source>Disable using metadata for mods</source>
+        <oldsource>Disable using metadata for mods?</oldsource>
+        <translation type="unfinished">Inaktivera användning av metadata för mods?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -3740,21 +3760,21 @@ Du kan behöva fixa dina mods eftersom spelet fortfarande loggar till filer och 
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
-        <source>Show console while the game is &amp;running?</source>
-        <oldsource>Show console while the game is running?</oldsource>
-        <translation>Visa konsolen medan spelet körs?</translation>
+        <source>Show console while the game is &amp;running</source>
+        <oldsource>Show console while the game is &amp;running?</oldsource>
+        <translation type="unfinished">Visa konsolen medan spelet körs?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
-        <source>&amp;Automatically close console when the game quits?</source>
-        <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Stäng konsolen automatiskt när spelet avslutas?</translation>
+        <source>&amp;Automatically close console when the game quits</source>
+        <oldsource>&amp;Automatically close console when the game quits?</oldsource>
+        <translation type="unfinished">Stäng konsolen automatiskt när spelet avslutas?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
-        <source>Show console when the game &amp;crashes?</source>
-        <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Visa konsolen när spelet kraschar?</translation>
+        <source>Show console when the game &amp;crashes</source>
+        <oldsource>Show console when the game &amp;crashes?</oldsource>
+        <translation type="unfinished">Visa konsolen när spelet kraschar?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -5436,9 +5456,9 @@ Vill du fortsätta?</numerusform>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
-        <source>Start Minecraft &amp;maximized?</source>
-        <oldsource>Start Minecraft maximized?</oldsource>
-        <translation>Starta Minecraft i &amp;helskärmsläge?</translation>
+        <source>Start Minecraft &amp;maximized</source>
+        <oldsource>Start Minecraft &amp;maximized?</oldsource>
+        <translation type="unfinished">Starta Minecraft i &amp;helskärmsläge?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
