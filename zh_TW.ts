@@ -31,7 +31,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation>備註：你可能想要在變更貼上服務類型後更改或清除根網址。</translation>
+        <translation>備註：您可能想要在變更貼上服務類型後更改或清除根網址。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation>備註：若透過 Microsoft 驗證登入的功能已經可以正常運作，你可能就不需要設定此選項。</translation>
+        <translation>備註：若透過 Microsoft 驗證登入的功能已經可以正常運作，您可能就不需要設定此選項。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
@@ -104,7 +104,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>你可以將此選項設為第三方後設資料伺服器以使用修補過的函式庫或其他補丁。</translation>
+        <translation>您可以將此選項設為第三方後設資料伺服器以使用修補過的函式庫或其他補丁。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
@@ -119,7 +119,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>備註：若 CurseForge 功能已經可以正常運作，你可能就不需要設定此選項。</translation>
+        <translation>備註：若 CurseForge 功能已經可以正常運作，您可能就不需要設定此選項。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
@@ -273,7 +273,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;是個第三方的啟動器，它讓你能夠在同一個啟動器裡更輕鬆地管理多個 Minecraft 的實例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;是個第三方的啟動器，它讓您能夠在同一個啟動器裡更輕鬆地管理多個 Minecraft 的實例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -559,7 +559,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>歡迎！
-如果你剛來到這裡，你可以點一下「新增」按鈕來新增你的 Mojang 或 Minecraft 帳號。</translation>
+如果您是第一次來這裡，你可以點一下「新增」按鈕來新增你的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -590,7 +590,7 @@ Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
         <translation>Microsoft 帳號只能在 macOS 10.13（含）以上版本使用，且需完整更新過的 %1。
 
-請更新你的作業系統以及 %1。</translation>
+請更新您的作業系統以及 %1。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -600,12 +600,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>在你新增離線帳號之前，你必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果你遺失了你的帳號，你可以嘗試聯絡 Microsoft 尋求支援。</translation>
+        <translation>在你新增離線帳號之前，您必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果你遺失了您的帳號，你可以嘗試聯絡 Microsoft 尋求支援。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation>請輸入你期望的使用者名稱以新增離線帳號。</translation>
+        <translation>請輸入您期望的使用者名稱以新增離線帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -681,17 +681,17 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>已找到來自 %1 的舊資料，但你已有 %2 的現有資料。遺憾的是，你將需要自己遷移。下次啟動 %2 時是否要提醒資料遷移？</translation>
+        <translation>已找到來自 %1 的舊資料，但你已有 %2 的現有資料。遺憾的是，您將需要自己遷移。下次啟動 %2 時是否要提醒資料遷移？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>看起來你以前使用過 %1。是否要將資料遷移到 %2 的新位置？</translation>
+        <translation>看起來您以前使用過 %1。是否要將資料遷移到 %2 的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1676"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>看起來你以前在 %2 上使用過 %1。 是否要將資料遷移到 %3 的新位置？</translation>
+        <translation>看起來您以前在 %2 上使用過 %1。 是否要將資料遷移到 %3 的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1719"/>
@@ -811,7 +811,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>你確定想要啟用這款模組嗎？</translation>
+        <translation>您確定要啟用這個模組嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
@@ -2028,7 +2028,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="346"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常工作， 您需要從內置下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會丟失此實例！&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常運作， 您需要從內置下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會丟失此實例！&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="408"/>
