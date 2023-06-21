@@ -8194,12 +8194,12 @@ NOTE&#x202f;: Assurez-vous d&apos;avoir fait une sauvegarde de vos données impo
         <translation>mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="139"/>
         <source>No valid version found!</source>
         <translation>Aucune version valide trouvée&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
         <source>Cannot select invalid version :(</source>
         <translation>Impossible de sélectionner une version invalide :(</translation>
     </message>
@@ -8293,62 +8293,62 @@ Veuillez mettre à jour %1&#xa0;!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"/>
         <source>Select %1 for download</source>
         <translation>Sélectionner le %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="201"/>
         <source> by </source>
         <translation> par </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="206"/>
         <source>Donate information: </source>
         <translation>Informations pour les donation&#xa0;: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="219"/>
         <source>External links:</source>
         <translation>Liens externes&#xa0;:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Problèmes&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="225"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Wiki&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="227"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Code source&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="229"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord&#xa0;: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
         <source>Deselect %1 for download</source>
         <translation>Désélectionner %1 pour télécharger</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="275"/>
         <source>No valid version found.</source>
         <translation>Aucune version valide trouvée.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
         <source>Cannot select invalid version :(</source>
         <translation>Impossible de sélectionner une version invalide :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="292"/>
         <source>Loading versions...</source>
         <translation>Chargement des versions...</translation>
     </message>

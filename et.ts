@@ -7901,12 +7901,12 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
         <translation>mod</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="141"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="139"/>
         <source>No valid version found!</source>
         <translation>Sobivat versiooni ei leitud!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="142"/>
+        <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
         <source>Cannot select invalid version :(</source>
         <translation>Sobimatut versiooni ei saa valida :(</translation>
     </message>
@@ -8000,62 +8000,62 @@ Palun uuenda %1!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="103"/>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"/>
         <source>Select %1 for download</source>
         <translation>Märgi %1 allalaadimiseks</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="197"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="201"/>
         <source> by </source>
         <translation> autorilt </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="202"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="206"/>
         <source>Donate information: </source>
         <translation>Annetusteave: </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="215"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="219"/>
         <source>External links:</source>
         <translation>Välised lingid:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="219"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Probleemid: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="221"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="225"/>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Viki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="227"/>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Lähtekood: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="229"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
         <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="247"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
         <source>Deselect %1 for download</source>
         <translation>Eemalda %1 allalaadimise märgistus</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="270"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="275"/>
         <source>No valid version found.</source>
         <translation>Sobivat versiooni ei leitud.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="271"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
         <source>Cannot select invalid version :(</source>
         <translation>Sobimatut versiooni ei saa valida :(</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="287"/>
+        <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="292"/>
         <source>Loading versions...</source>
         <translation>Versioonide laadimine...</translation>
     </message>
