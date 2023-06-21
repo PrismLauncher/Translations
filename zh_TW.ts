@@ -1638,18 +1638,18 @@ Please update both your operating system and %1.</source>
         <translation>嘗試檢查或更新所選的資源（若未選取對象將檢查所有資源）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="106"/>
         <source>Context menu</source>
         <translation>功能表</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="189"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>選擇 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="222"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -1660,7 +1660,7 @@ Are you sure?</source>
 你確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="227"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -1671,9 +1671,19 @@ Are you sure?</source>
 你確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
         <source>Confirm Removal</source>
         <translation>確定刪除</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="302"/>
+        <source> (%1 installed, %2 selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="304"/>
+        <source> (%1 installed)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1903,7 +1913,7 @@ Please try again.</source>
     <name>FlameCreationTask</name>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="112"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>無法解析模組包資訊：
@@ -1939,77 +1949,77 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">取消</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="242"/>
         <source>No index file.</source>
         <translation>沒有索引檔案。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="243"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些檔案的重複。你想繼續嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="291"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>無法重新命名覆蓋的資料夾：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="293"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>找不到指定的目錄（%1）以覆寫。或許有模組包已經使用過了？</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="315"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>在資訊中的未知模組載入器：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="323"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="326"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>匯入包裝時移除了 Minecraft 版本的追蹤點。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation>無法為 Minecraft %1 提供推薦的 Forge 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="384"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>無法解析模組 ID：
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="437"/>
         <source>Blocked mods found</source>
         <translation>找到被封鎖的模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="435"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="438"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>以下檔案無法在第三方啟動器中下載。&lt;br/&gt;你將需要手動去下載它們並把它們加入到實例之中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
         <source>Mod Download Flame</source>
         <translation>模組下載 Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
         <source>%1 out of %2 complete</source>
         <translation>已完成 %1 之 %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="519"/>
         <source>Copying Blocked Mods...</source>
         <translation>複製被封鎖的模組...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="529"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="532"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>複製被封鎖的模組（已完成 %2 個中的 %1 個任務）</translation>
     </message>
@@ -2018,22 +2028,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">模組下載</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="472"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>這個「資料夾」可能需要解壓縮：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="482"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>巢狀模組包尚未實作，未下載任何東西：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="487"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>此為無法辨識／無法處理的包裝類型：%1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="508"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="511"/>
         <source>Downloading mods...</source>
         <translation>正在下載模組...</translation>
     </message>
@@ -5987,12 +5997,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">檢視資料夾（&amp;F）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
         <source>Download mods</source>
         <translation>下載模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
         <source>Download mods from online mod platforms</source>
         <translation>從線上模組平台下載模組</translation>
     </message>
@@ -6014,80 +6024,80 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="vanished">選擇 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Add file</source>
         <translation>新增檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="79"/>
         <source>Add a locally downloaded file</source>
         <translation>新增本機已下載的檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
         <translation>嘗試檢查或更新所選的模組（若未選取對象將檢查所有模組）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="165"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="150"/>
         <source>Please install a mod loader first!</source>
         <translation>請先安裝模組載入器！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
         <source>Download stopped by user.</source>
         <translation>下載被使用者停止。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
         <source>Warnings</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="185"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
         <source>Abort</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
         <source>The mod updater was aborted!</source>
         <translation>模組更新器已中止！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="207"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>所選模組皆已更新至最新版本！:)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="210"/>
         <source>Update checker</source>
         <translation>更新偵測器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>「%1」已更新至最新版本！:)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>所有模組皆已更新至最新版本！:)</translation>

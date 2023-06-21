@@ -1658,18 +1658,18 @@ Please update both your operating system and PolyMC.</source>
         <translation>Попытаться проверить или обновить все выбранные ресурсы (все ресурсы, если ни один из них не выбран)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="63"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="106"/>
         <source>Context menu</source>
         <translation>Контекстное меню</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="146"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="189"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
         <translation>Выбрать %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="179"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="222"/>
         <source>You are about to remove %1 items.
 This may be permanent and they will be gone from the folder.
 
@@ -1680,7 +1680,7 @@ Are you sure?</source>
 Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="184"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="227"/>
         <source>You are about to remove the folder &quot;%1&quot;.
 This may be permanent and it will be gone from the parent folder.
 
@@ -1691,9 +1691,19 @@ Are you sure?</source>
 Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="191"/>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="234"/>
         <source>Confirm Removal</source>
         <translation>Подтвердить удаление</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="302"/>
+        <source> (%1 installed, %2 selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="304"/>
+        <source> (%1 installed)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1923,7 +1933,7 @@ Please try again.</source>
     <name>FlameCreationTask</name>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="112"/>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="276"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <source>Could not understand pack manifest:
 </source>
         <translation>Не удалось понять манифест пакета:
@@ -1959,77 +1969,77 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="239"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="242"/>
         <source>No index file.</source>
         <translation>Отсутствует индексный файл.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="240"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="243"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
         <translation>Мы не смогли найти подходящий индексный файл для старой версии. Это может привести к дублированию некоторых файлов. Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="288"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="291"/>
         <source>Could not rename the overrides folder:
 </source>
         <translation>Не удалось переименовать папку переопределений:
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="293"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
         <translation>Отсутствует указанная папка переопределений (%1). Может быть, модпак уже использовался раньше?</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="312"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="315"/>
         <source>Unknown mod loader in manifest: %1</source>
         <translation>Неизвестный загрузчик модов в manifest: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="323"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="326"/>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
         <translation>Таинственные конечные точки удалены из версии Minecraft при импорте пакета.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="335"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="338"/>
         <source>Could not map recommended Forge version for Minecraft %1</source>
         <translation>Не удалось отобразить рекомендуемую версию Forge для Minecraft %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="381"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="384"/>
         <source>Unable to resolve mod IDs:
 </source>
         <translation>Не удалось решить конфликт ID модов: %1
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="434"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="437"/>
         <source>Blocked mods found</source>
         <translation>Найдены заблокированные моды</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="435"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="438"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
         <translation>Эти файлы недоступны для сторонних лаунчерах.&lt;br/&gt;Вам нужно скачать их вручную и добавить их сборку.</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="457"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
         <source>Mod Download Flame</source>
         <translation>Скачать мод Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="502"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 из %2 завершено</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="516"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="519"/>
         <source>Copying Blocked Mods...</source>
         <translation>Копирование заблокированных модов...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="529"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="532"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Копирование заблокированных модов (%1 из %2 выполнены)</translation>
     </message>
@@ -2038,22 +2048,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="vanished">Скачать мод</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="469"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="472"/>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
         <translation>Этой &apos;Папке&apos; возможно нужна распаковка: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="482"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Вложение сборки в сборку не реализовано, ничего не было получено: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="487"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Нераспознанный/необработанный PackageType для: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="508"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="511"/>
         <source>Downloading mods...</source>
         <translation>Загрузка модов...</translation>
     </message>
@@ -6058,12 +6068,12 @@ Warning: этот ресурс связан в другом месте при п
         <translation type="vanished">Открыть папку</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="74"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
         <source>Download mods</source>
         <translation>Скачать моды</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="75"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="76"/>
         <source>Download mods from online mod platforms</source>
         <translation>Скачать моды с онлайн платформ</translation>
     </message>
@@ -6085,80 +6095,80 @@ Warning: этот ресурс связан в другом месте при п
         <translation type="vanished">Выбрать %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="77"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
         <source>Add file</source>
         <translation>Добавить файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="78"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="79"/>
         <source>Add a locally downloaded file</source>
         <translation>Добавить локально загруженный файл</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="84"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="85"/>
         <source>Try to check or update all selected mods (all mods if none are selected)</source>
         <oldsource>Tries to find / update all selected mods (all mods if none is selected)</oldsource>
         <translation>Пытается найти / обновить выбранные моды (или все, если не выбран ни один)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="165"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="150"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="158"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="157"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="150"/>
         <source>Please install a mod loader first!</source>
         <translation>Сначала установите загрузчик модов!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
         <source>Aborted</source>
         <translation>Прервано</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="169"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="229"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="162"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="222"/>
         <source>Download stopped by user.</source>
         <translation>Загрузка остановлена пользователем.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="175"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="235"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="168"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="228"/>
         <source>Warnings</source>
         <translation>Предупреждения</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="185"/>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="245"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="178"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="238"/>
         <source>Abort</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="198"/>
         <source>The mod updater was aborted!</source>
         <translation>Обновление модов отменено!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="214"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="207"/>
         <source>All selected mods are up-to-date! :)</source>
         <translation>Версии всех выбранных модов актуальны! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="210"/>
         <source>Update checker</source>
         <translation>Проверка обновлений</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="209"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
         <translation>Версия &apos;%1&apos; уже актуальна! :)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="212"/>
+        <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
         <source>All mods are up-to-date! :)</source>
         <oldsource>All %1mods are up-to-date! :)</oldsource>
         <translation>Версии всех модов уже актуальны! :)</translation>
