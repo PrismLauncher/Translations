@@ -1275,7 +1275,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished">&amp;Custom komandos</translation>
+        <translation>&amp;Custom Komandos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
@@ -1532,7 +1532,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="92"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Papildyti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="95"/>
@@ -1542,7 +1542,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="100"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pašalinti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="103"/>
@@ -1552,7 +1552,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="108"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Įjungti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="111"/>
@@ -1572,7 +1572,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="124"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>Peržiūrėti &amp;Konfigūracijos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
@@ -1582,12 +1582,12 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="132"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Peržiūrėti &amp;Aplankas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="140"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parsisiųsti</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
