@@ -56,7 +56,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indtast en brugerdefineret API token til Modrinth her.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -222,7 +222,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="850"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ud af %2 færdiggjort</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="895"/>
@@ -411,13 +411,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Ja</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Nej</translation>
+        <translation>Nej</translation>
     </message>
     <message>
         <source>N/A</source>
