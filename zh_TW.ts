@@ -1282,7 +1282,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="111"/>
         <source>On Windows, symbolic links may require admin permission to create.</source>
-        <translation>在 Windows 上，符號連結可能需要系統管理員權限才能創造。</translation>
+        <translation>在 Windows 上，符號連結可能需要系統管理員權限才能建立。</translation>
     </message>
 </context>
 <context>
@@ -1347,7 +1347,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation>掃描檔案中...</translation>
+        <translation>正在掃描檔案...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
@@ -1491,7 +1491,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="14"/>
         <source>Export Modrinth Pack</source>
-        <translation>導出 Modrinth 模組包</translation>
+        <translation>匯出 Modrinth 模組包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="23"/>
@@ -1678,12 +1678,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="317"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> （%1 已安裝、%2 已選擇）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="319"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> （%1 已安裝）</translation>
     </message>
 </context>
 <context>
@@ -1862,7 +1862,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
         <source>Resolving mod IDs...</source>
-        <translation>解析模組 ID 中…</translation>
+        <translation>正在解析模組 ID…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="81"/>
@@ -3824,7 +3824,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
         <source>&amp;History limit</source>
         <oldsource>History limit</oldsource>
-        <translation>歷史紀錄限制（&amp;H）</translation>
+        <translation>歷史記錄限制（&amp;H）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
@@ -3901,12 +3901,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="317"/>
         <source>[Test/INFO] A harmless message...</source>
-        <translation>[測試/資訊] 無害的訊息…</translation>
+        <translation>[測試／資訊] 無害的訊息…</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="326"/>
         <source>[Something/WARN] A not so spooky warning.</source>
-        <translation>[something/警告] 不嚴重的警告。</translation>
+        <translation>[未知警告] 不嚴重的警告。</translation>
     </message>
     <message>
         <source>Launcher notifications</source>
@@ -4250,7 +4250,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>複製整個記錄到剪貼簿</translation>
+        <translation>複製整個記錄檔到剪貼簿</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
@@ -5956,17 +5956,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="166"/>
         <source>The name of the mod.</source>
-        <translation>模組的名稱.</translation>
+        <translation>模組的名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="168"/>
         <source>The version of the mod.</source>
-        <translation>模組的版本.</translation>
+        <translation>模組的版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="170"/>
         <source>The date and time this mod was last changed (or added).</source>
-        <translation>此模組上次變更（或新增）的日期與時間.</translation>
+        <translation>此模組上次變更（或新增）的日期與時間。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="172"/>
@@ -6861,7 +6861,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/net/Download.cpp" line="177"/>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation>%1 /s (%2)</translation>
+        <translation>%1/每秒（%2）</translation>
     </message>
     <message>
         <location filename="src/launcher/net/Download.cpp" line="180"/>
@@ -7073,7 +7073,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>複製整個記錄到剪貼簿</translation>
+        <translation>將整個記錄檔複製至剪貼簿</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
@@ -7361,7 +7361,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>選取一個設定檔.</translation>
+        <translation>選取一個設定檔。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
@@ -7585,7 +7585,7 @@ Choose your name carefully:</source>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
-        <translation>%1 開發者</translation>
+        <translation>%1 開發人員</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
@@ -7644,7 +7644,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="302"/>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation>指定的 java 二進位檔案未正常啟動。&lt;br /&gt;</translation>
+        <translation>指定的 Java 二進位檔案未正常啟動。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="314"/>
@@ -7694,7 +7694,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
         <source>Library %1 name is broken and cannot be processed.</source>
-        <translation>函式庫 %1 損毀，無法繼續.</translation>
+        <translation>函式庫 %1 損毀，無法繼續。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="222"/>
@@ -7719,27 +7719,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="304"/>
         <source>Version file contains unsupported element &apos;tweakers&apos;</source>
-        <translation>版本檔案包含不支援的元素 &quot;tweakers&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &apos;tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="308"/>
         <source>Version file contains unsupported element &apos;-libraries&apos;</source>
-        <translation>版本檔案包含不支援的元素 &quot;-libraries&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &apos;-libraries&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="312"/>
         <source>Version file contains unsupported element &apos;-tweakers&apos;</source>
-        <translation>版本檔案包含不支援的元素 &quot;-tweakers&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &apos;-tweakers&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="316"/>
         <source>Version file contains unsupported element &apos;-minecraftArguments&apos;</source>
-        <translation>版本檔案包含不支援的元素 &quot;-minecraftArguments&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &apos;-minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="320"/>
         <source>Version file contains unsupported element &apos;+minecraftArguments&apos;</source>
-        <translation>版本檔案包含不支援的元素 &quot;+minecraftArguments&quot;</translation>
+        <translation>版本檔案包含不支援的元素 &apos;+minecraftArguments&apos;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/AssetsUtils.cpp" line="343"/>
@@ -7864,7 +7864,7 @@ There are dedicated boxes for these in the settings (Java tab, in the Memory gro
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
         <translation>您嘗試手動指定 JVM 的記憶體選項（&quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; 或 &quot;-Xms&quot;）。
 這些選項在設定中有專門的欄位（在 Java 頁中，上方的 Memory 群組）。
-此訊息會持續顯示，直到您將他們從 JVM 引數中移除。</translation>
+此訊息會持續顯示，直到您將它們從 JVM 引數中移除。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="52"/>
@@ -10542,7 +10542,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
         <source>Enter a new name for the copy.</source>
-        <translation>輸入拷貝的新名稱。</translation>
+        <translation>輸入複製的新名稱。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
