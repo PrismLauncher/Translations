@@ -397,19 +397,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">N/A</translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Yes</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">No</translation>
+        <translation>No</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
@@ -1621,12 +1621,12 @@ Are you sure?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="317"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 installed, %2 selected)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="319"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 installed)</translation>
     </message>
 </context>
 <context>
@@ -2329,7 +2329,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Import from zip</translation>
+        <translation>Import from zip</translation>
     </message>
 </context>
 <context>
@@ -2371,12 +2371,12 @@ Please try again.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="117"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>License: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="124"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Report issues to: </translation>
     </message>
 </context>
 <context>
@@ -2588,7 +2588,7 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Start Minecraft maximised?</translation>
+        <translation>Start Minecraft maximised?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2609,13 +2609,13 @@ Please try again.</translation>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Show console while the game is running?</translation>
+        <translation>Show console while the game is running?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Automatically close console when the game quits?</translation>
+        <translation>Automatically close console when the game quits?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
@@ -4333,7 +4333,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Report a Bug or Suggest a Feature</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
@@ -5393,17 +5393,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Image</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Last Modified</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
@@ -7712,12 +7712,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Last Modified</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -7744,7 +7744,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="550"/>
         <source>Show / Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Show / Hide Columns</translation>
     </message>
 </context>
 <context>
@@ -7752,17 +7752,17 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Image</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Last Modified</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="77"/>
@@ -8532,12 +8532,12 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enable</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Image</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -8547,7 +8547,7 @@ inheritsFrom is missing</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Last Modified</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="88"/>
