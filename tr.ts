@@ -413,19 +413,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">N/A</translation>
+        <translation type="unfinished">Kullanılabilir Değil</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Evet</translation>
+        <translation>Evet</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Hayır</translation>
+        <translation>Hayır</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -465,12 +465,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation>Birleştirilebilir?</translation>
+        <translation>Taşınabilir?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>Minecraft hesabıyla ilişkili olan kullanıcı adı.</translation>
+        <translation>Hesapla ilişkili Minecraft kullanıcı adı.</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -479,12 +479,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation>Hesabınızın kullanıcı adı.</translation>
+        <translation>Hesabın kullanıcı adı.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>Hesabınızı türü - Mojang veya MSH.</translation>
+        <translation>Hesabın türü - Mojang veya MSH.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
@@ -1178,7 +1178,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished">Dosyaları kopyalamak yerine sembolik veya sert bağlantıları kullanın.</translation>
+        <translation type="unfinished">Dosyaları kopyalamak yerine sembolik veya hard linkler kullanın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
