@@ -312,17 +312,17 @@
         <translation>Loka</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="130"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="135"/>
         <source>About %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Commit: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
         <source>Build date: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -331,12 +331,12 @@
         <translation type="vanished">Útgáfa</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="146"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="151"/>
         <source>Platform</source>
         <translation>Stýrikerfi</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Channel</source>
         <translation>Rás</translation>
     </message>
@@ -6505,14 +6505,14 @@ Choose your name carefully:</source>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="72"/>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="85"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="90"/>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
         <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="93"/>
+        <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="98"/>
         <source>With thanks to</source>
         <comment>About Credits</comment>
         <translation type="unfinished"></translation>
