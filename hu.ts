@@ -409,19 +409,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">N/A</translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Igen</translation>
+        <translation>Igen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Nem</translation>
+        <translation>Nem</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1678,12 +1678,12 @@ biztos vagy ebben?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="317"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 telepítve, %2 kiválasztva)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="319"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 telepítve)</translation>
     </message>
 </context>
 <context>
@@ -2420,7 +2420,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importálás zipből</translation>
+        <translation>Importálás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
@@ -2484,12 +2484,12 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="117"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenc: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="124"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Jelentse a problémákat ide: </translation>
     </message>
 </context>
 <context>
@@ -2808,7 +2808,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Indítsa el a Minecraft-ot maximalizálva?</translation>
+        <translation>Indítsa el a Minecraft-ot maximalizálva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2829,19 +2829,19 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Mutassa a konzolt, amíg a játék fut?</translation>
+        <translation>Mutassa a konzolt, amíg a játék fut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Automatikusan zárja be a konzolt, amikor a játék kilép?</translation>
+        <translation>Automatikusan zárja be a konzolt, amikor a játék kilép</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Mutassa a konzolt, amikor a játék összeomlik?</translation>
+        <translation>Mutassa a konzolt, amikor a játék összeomlik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -3677,7 +3677,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished">Letiltja a metaadatok használatát a modokhoz?</translation>
+        <translation>Metaadatok használatának letiltása a modokhoz</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -3770,19 +3770,19 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Mutassa a konzolt, amíg a játék fut?</translation>
+        <translation>Mutassa a konzolt, amíg a játék &amp;fut</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Automatikusan zárja be a konzolt, amikor a játék kilép?</translation>
+        <translation>&amp;Automatikusan zárja be a konzolt, amikor a játék kilép</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Mutassa a konzolt, amikor a játék összeomlik?</translation>
+        <translation>Mutassa a konzolt, amikor a játék &amp;összeomlik</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -4733,7 +4733,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba bejelentése vagy funkciójavaslat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
@@ -5160,7 +5160,14 @@ Do you wish to proceed?</source>
 
 %1
 
-A törlés tönkreteheti a másik példányt,
+A törlés tönkre teheti a másik példányt,
+
+Szeretné folytatni?</numerusform>
+            <numerusform>A következő példányok hivatkozhatnak fájlokra ebben a példányban:
+
+%1
+
+A törlés tönkre teheti a többi példányt,
 
 Szeretné folytatni?</numerusform>
         </translation>
@@ -5529,7 +5536,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">Indítsa el a Minecraft-ot maximalizálva?</translation>
+        <translation>Indítsa el a Minecraft-ot &amp;maximalizálva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -5864,17 +5871,17 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Engedélyezés</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Utoljára módosítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
@@ -8360,12 +8367,12 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Engedélyezés</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Utoljára módosítva</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -8392,7 +8399,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="550"/>
         <source>Show / Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Oszlopok megjelenítése/elrejtése</translation>
     </message>
 </context>
 <context>
@@ -8404,17 +8411,17 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Engedélyezés</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Utoljára módosítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="77"/>
@@ -9224,29 +9231,29 @@ inheritsFrom hiányzik</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Engedélyezés</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kép</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Name</source>
-        <translation type="unfinished">Név</translation>
+        <translation>Név</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Utoljára módosítva</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="88"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Figyelmeztetés: Ez az erőforrás szimbolikusan máshonnan kapcsolódik. A szerkesztéssel az eredeti is megváltozik.
 Kanonikus elérési út: %1</translation>
     </message>
@@ -9254,26 +9261,26 @@ Kanonikus elérési út: %1</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az eredeti is megváltozik.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="134"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished">Az erőforrás engedélyezve van?</translation>
+        <translation>Az erőforrás engedélyezve van?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="137"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished">Az erőforrás neve.</translation>
+        <translation>Az erőforrás neve.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished">Az erőforrás legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
+        <translation>Az erőforrás legutóbbi módosításának (vagy hozzáadásának) dátuma és időpontja.</translation>
     </message>
 </context>
 <context>
