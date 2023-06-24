@@ -1393,7 +1393,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
@@ -1422,7 +1422,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="46"/>
@@ -1447,7 +1447,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="105"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
@@ -1556,7 +1556,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кантэкст меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="204"/>
@@ -1634,7 +1634,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="209"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1883,7 +1883,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 з %2 гатова</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="519"/>
@@ -1913,7 +1913,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="511"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Спампуюцца моды...</translation>
     </message>
 </context>
 <context>
@@ -2081,6 +2081,14 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="106"/>
         <source>Undefined</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GetModDependenciesTask</name>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
+        <source>Get dependencies</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2647,7 +2655,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="108"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Блізка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="159"/>
@@ -2840,7 +2848,7 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="437"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памяць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="438"/>
@@ -3070,7 +3078,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="423"/>
         <source>Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запусьціць</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="431"/>
@@ -3080,7 +3088,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="432"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="460"/>
@@ -3485,7 +3493,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="151"/>
         <source>Installing modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Інсталюецца модпак</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="159"/>
@@ -3534,7 +3542,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -3621,13 +3629,13 @@ Reason:
 <context>
     <name>LocalModUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="44"/>
         <source>Updating index for mod:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3742,12 +3750,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="39"/>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Емэйл</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Хасло</translation>
     </message>
 </context>
 <context>
@@ -3811,7 +3819,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
         <source>Launch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запусьціць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="328"/>
@@ -4141,7 +4149,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="829"/>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Акаунты</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="587"/>
@@ -4306,7 +4314,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="951"/>
@@ -4598,7 +4606,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="165"/>
@@ -4646,7 +4654,7 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/meta/Index.cpp" line="71"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
 </context>
 <context>
@@ -5017,7 +5025,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -5093,7 +5101,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="158"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="218"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="150"/>
@@ -5225,7 +5233,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="105"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="110"/>
@@ -5321,7 +5329,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="318"/>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="321"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="318"/>
@@ -5411,12 +5419,12 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 з %2 гатова</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="272"/>
         <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Спампуюцца моды...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="331"/>
@@ -5662,7 +5670,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="30"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewComponentDialog.ui" line="37"/>
@@ -5713,7 +5721,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="79"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Блізка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewsDialog.ui" line="86"/>
@@ -5776,7 +5784,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя юзера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
@@ -5860,7 +5868,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="240"/>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="291"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="152"/>
@@ -5938,7 +5946,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="645"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/PackProfile.cpp" line="647"/>
@@ -6077,7 +6085,7 @@ Error message: %3</source>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="45"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="53"/>
@@ -6163,7 +6171,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="55"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тып</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
@@ -6794,7 +6802,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ResourceDownload::ModDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="102"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="105"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation type="unfinished"></translation>
@@ -6828,33 +6836,53 @@ NOTE: Make sure you made a backup of your important instance data before updatin
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="62"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="68"/>
         <source>Review and confirm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="63"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="69"/>
         <source>Ctrl+Return</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="110"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="154"/>
         <source>Confirm %1 to download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="58"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
+        <source>Error</source>
+        <translation type="unfinished">Памылка</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="164"/>
+        <source>Warnings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="171"/>
+        <source>Checking for dependencies...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="61"/>
         <source>Download %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6865,7 +6893,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="380"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="384"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourceModel.cpp" line="380"/>
@@ -6882,7 +6910,7 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ResourcePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="125"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation type="unfinished"></translation>
@@ -6988,7 +7016,7 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::ShaderPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="157"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="161"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation type="unfinished"></translation>
@@ -7012,7 +7040,7 @@ Please update %1!</source>
 <context>
     <name>ResourceDownload::TexturePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="140"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="144"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation type="unfinished"></translation>
@@ -7065,7 +7093,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
@@ -7146,7 +7174,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -7189,7 +7217,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="79"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ResourcePackPage.cpp" line="83"/>
@@ -7243,27 +7271,42 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
         <source>This download will be placed in: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
+        <source>Provider: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
+        <source>Required by: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
+        <source>Required by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
         <source>Confirm %1 selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="105"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7298,7 +7341,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="323"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кантэкст меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="386"/>
@@ -7399,7 +7442,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="336"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="338"/>
@@ -7482,7 +7525,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="657"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кантэкст меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="805"/>
@@ -7546,7 +7589,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="73"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="77"/>
@@ -7852,7 +7895,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
@@ -7911,7 +7954,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="81"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/TexturePackPage.cpp" line="85"/>
@@ -8387,7 +8430,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="200"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кантэкст меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="218"/>
@@ -8417,7 +8460,7 @@ Please switch to one of the following Java versions for this instance:</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="491"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
@@ -8617,7 +8660,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тып</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="125"/>
@@ -8713,7 +8756,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Памылка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/VersionSelectWidget.cpp" line="172"/>
@@ -8757,7 +8800,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імя</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="291"/>
@@ -8882,7 +8925,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="144"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кантэкст меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="229"/>

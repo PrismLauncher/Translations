@@ -2352,6 +2352,14 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
 </context>
 <context>
+    <name>GetModDependenciesTask</name>
+    <message>
+        <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
+        <source>Get dependencies</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GetSkinStep</name>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="16"/>
@@ -4271,14 +4279,14 @@ Grund:
 <context>
     <name>LocalModUpdateTask</name>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="45"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="44"/>
         <source>Updating index for mod:
 %1</source>
         <translation>Aktualisiere Index für Mod:
 %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="60"/>
+        <location filename="src/launcher/minecraft/mod/tasks/LocalModUpdateTask.cpp" line="59"/>
         <source>Invalid metadata</source>
         <translation>Ungültige Metadaten</translation>
     </message>
@@ -8281,7 +8289,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>ResourceDownload::ModDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="102"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="105"/>
         <source>mods</source>
         <extracomment>String that gets appended to the mod download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>Modifikationen</translation>
@@ -8315,33 +8323,53 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
 <context>
     <name>ResourceDownload::ResourceDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="62"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="68"/>
         <source>Review and confirm</source>
         <translation>Überprüfen und bestätigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="63"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="69"/>
         <source>Ctrl+Return</source>
         <translation>Strg+Eingabe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="110"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
         <translation>Öffnet ein neues Fenster um deine ausgewählten %1 zu sehen und bestätige diese. Kurzbefehl: Strg+Enter</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="154"/>
         <source>Confirm %1 to download</source>
         <translation>Bestätige um %1 herunterzuladen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="58"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
+        <source>Error</source>
+        <translation type="unfinished">Fehler</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="164"/>
+        <source>Warnings</source>
+        <translation type="unfinished">Warnungen</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
+        <source>Abort</source>
+        <translation type="unfinished">Abbrechen</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="171"/>
+        <source>Checking for dependencies...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
         <source>resources</source>
         <extracomment>String that gets appended to the download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>Ressourcen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="60"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="61"/>
         <source>Download %1</source>
         <translation>%1 Herunterladen</translation>
     </message>
@@ -8370,7 +8398,7 @@ Bitte aktualisiere %1!</translation>
 <context>
     <name>ResourceDownload::ResourcePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="121"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="125"/>
         <source>resource packs</source>
         <extracomment>String that gets appended to the resource pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>Ressourcenpakete</translation>
@@ -8476,7 +8504,7 @@ Bitte aktualisiere %1!</translation>
 <context>
     <name>ResourceDownload::ShaderPackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="157"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="161"/>
         <source>shader packs</source>
         <extracomment>String that gets appended to the shader pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>Shaderpakete</translation>
@@ -8500,7 +8528,7 @@ Bitte aktualisiere %1!</translation>
 <context>
     <name>ResourceDownload::TexturePackDownloadDialog</name>
     <message>
-        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="140"/>
+        <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="144"/>
         <source>texture packs</source>
         <extracomment>String that gets appended to the texture pack download dialog title (&quot;Download &quot; + resourcesString())</extracomment>
         <translation>Texturpakete</translation>
@@ -8766,27 +8794,42 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
         <translation>Dateiname: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="47"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="48"/>
         <source>This download will be placed in: %1</source>
         <translation>Die heruntergeladene Datei wird gespeichert in: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="52"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
         <translation>Diese Datei wird in einen anderen Ordner als den Standardordner heruntergeladen, möglicherweise, weil der Mod-Loader dies verlangt.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="77"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
+        <source>Provider: %1</source>
+        <translation type="unfinished">Anbieter: %1</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
+        <source>Required by: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
+        <source>Required by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
         <source>Confirm %1 selection</source>
         <translation>%1-Auswahl bestätigen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="79"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
         <source>You&apos;re about to download the following %1:</source>
         <translation>Du bist dabei, die folgenden %1 herunterzuladen:</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="80"/>
+        <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="105"/>
         <source>Only %1 with a check will be downloaded!</source>
         <translation>Nur %1 welche angehakt sind, werden heruntergeladen!</translation>
     </message>
