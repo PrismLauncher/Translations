@@ -411,13 +411,13 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Taip</translation>
+        <translation>Taip</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Ne</translation>
+        <translation>Ne</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1870,7 +1870,7 @@ Bandykite dar kartą.</translation>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
         <source>Mod has a new update available, but is not downloadable using CurseForge.</source>
         <oldsource>Mod has a new update available, but is opted-out on CurseForge</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modifikacija turi prieinamą atnaujinimą, tačiau nėra galimybės atsisiusti naudojantis CurseForge.</translation>
     </message>
 </context>
 <context>
@@ -1880,7 +1880,8 @@ Bandykite dar kartą.</translation>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko atpažinti paketo manifesto:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="117"/>
