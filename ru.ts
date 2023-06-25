@@ -2352,7 +2352,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить зависимости</translation>
     </message>
 </context>
 <context>
@@ -2484,7 +2484,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Импорт из архива</translation>
+        <translation>Импорт из архива</translation>
     </message>
     <message>
         <source>Modrinth pack (*.mrpack)</source>
