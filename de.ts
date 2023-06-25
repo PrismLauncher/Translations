@@ -1702,12 +1702,12 @@ Bist Du Dir sicher?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="317"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation> (%1 installiert, %2 ausgewählt)</translation>
+        <translation> (%1 Installiert, %2 Ausgewählt)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="319"/>
         <source> (%1 installed)</source>
-        <translation> (%1 installiert)</translation>
+        <translation> (%1 Installiert)</translation>
     </message>
 </context>
 <context>
