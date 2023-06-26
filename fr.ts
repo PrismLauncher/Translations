@@ -4448,7 +4448,7 @@ Raison&#xa0;:
         <translation type="vanished">Forcer la fermeture de l&apos;instance en cours d&apos;exécution</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="585"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="592"/>
         <source>Launch</source>
         <translation>Lancer</translation>
     </message>
@@ -4632,7 +4632,7 @@ Raison&#xa0;:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="488"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1577"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1584"/>
         <source>Create Shortcut</source>
         <translation>Créer un raccourci</translation>
     </message>
@@ -4938,7 +4938,7 @@ Raison&#xa0;:
         <translation type="vanished">Supprimer l&apos;ins&amp;tance...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="244"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="251"/>
         <source>Backspace</source>
         <translation>Retour en arrière</translation>
     </message>
@@ -4952,7 +4952,7 @@ Raison&#xa0;:
         <translation>Ctrl+D</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="587"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="594"/>
         <source>Launch Offline</source>
         <translation>Lancer en hors ligne</translation>
     </message>
@@ -5072,13 +5072,13 @@ Raison&#xa0;:
         <translation type="vanished"> sur %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="338"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="426"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="345"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="433"/>
         <source>No instance selected</source>
         <translation>Aucune instance sélectionnée</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="339"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="346"/>
         <source>Total playtime: 0s</source>
         <translation>Temps de jeu total&#xa0;: 0s</translation>
     </message>
@@ -5087,42 +5087,42 @@ Raison&#xa0;:
         <translation type="vanished">Profils</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="529"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="536"/>
         <source>Create instance</source>
         <translation>Créer une instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="552"/>
         <source>Delete group &apos;%1&apos;</source>
         <translation>Supprimer le groupe «&#xa0;%1&#xa0;»</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="588"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="595"/>
         <source>Ctrl+Shift+O</source>
         <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="589"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="596"/>
         <source>Launch Demo</source>
         <translation>Lancer démo</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="590"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="597"/>
         <source>Ctrl+Alt+O</source>
         <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="620"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="627"/>
         <source>Profilers</source>
         <translation>Profileurs</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="625"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="632"/>
         <source>%1 Offline</source>
         <translation>%1 Déconnecté</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="631"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="638"/>
         <source>Profiler not setup correctly. Go into settings, &quot;External Tools&quot;.</source>
         <translation>Le profileur n&apos;est pas configuré correctement. Allez dans l&apos;onglet «&#xa0;Outils externes&#xa0;» des paramètres.</translation>
     </message>
@@ -5132,7 +5132,7 @@ Raison&#xa0;:
         <translation>Aucun compte ajouté&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="751"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
         <source>Ctrl+%1</source>
         <translation>Ctrl+%1</translation>
     </message>
@@ -5147,90 +5147,90 @@ Raison&#xa0;:
         <translation>Ctrl+0</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="869"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="876"/>
         <source>Loading news...</source>
         <translation>Chargement des actualités...</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="884"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="891"/>
         <source>No news available.</source>
         <translation>Aucunes actualités disponibles.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="951"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="958"/>
         <source>Warnings</source>
         <translation>Avertissements</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="963"/>
         <source>Task aborted</source>
         <translation>Tâche annulée</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="956"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="963"/>
         <source>The task has been aborted by the user.</source>
         <translation>La tâche a été annulée par l&apos;utilisateur.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="959"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1001"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="966"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1008"/>
         <source>Abort</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1010"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1017"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>Le lanceur ne peut pas télécharger Minecraft ou mettre à jour les instances tant que vous n&apos;avez pas ajouté au moins un compte.
 Veuillez ajouter votre compte Mojang ou Minecraft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1194"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Group name</source>
         <translation>Nom du groupe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1194"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
         <source>Enter a new group name.</source>
         <translation>Entrez un nouveau nom de groupe.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1216"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1223"/>
         <source>Delete group</source>
         <translation>Supprimer le groupe</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1216"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1223"/>
         <source>Are you sure you want to delete the group %1?</source>
         <translation>Voulez-vous vraiment supprimer le groupe %1&#x202f;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1320"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1327"/>
         <source>Successfully added %1 to PATH</source>
         <translation>Le rajout de %1 à PATH s&apos;est correctement passé</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1321"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
         <translation>%1 a été correctement ajouté à votre PATH. Vous pouvez maintenant le démarrer avec &apos;%2&apos;.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1324"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1331"/>
         <source>Failed to add %1 to PATH</source>
         <translation>Erreur dans l&apos;ajout de %1 au PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1332"/>
         <source>An error occurred while trying to add %1 to PATH</source>
         <translation>Une erreur s&apos;est produite pendant l&apos;ajout de %1 au PATH</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1368"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1375"/>
         <source>Confirm Deletion</source>
         <translation>Confirmer la suppression</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1369"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1376"/>
         <source>You are about to delete &quot;%1&quot;.
 This may be permanent and will completely delete the instance.
 
@@ -5245,12 +5245,12 @@ Ceci pourrait être permanent et va complètement supprimer l&apos;instance.
 Êtes-vous sûr&#xa0;?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1382"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1389"/>
         <source>There are linked instances</source>
         <translation>Il existe des instances liées</translation>
     </message>
     <message numerus="yes">
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1383"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1390"/>
         <source>The following instance(s) might reference files in this instance:
 
 %1
@@ -5294,109 +5294,109 @@ Cette action est irréversible et va intégralement supprimer l&apos;instance.
 Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1525"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1529"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1538"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1566"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1588"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1593"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1611"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1623"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1532"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1536"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1564"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1595"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1600"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1635"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1638"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1642"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>Create instance shortcut</source>
         <translation>Créer un raccourci vers l&apos;instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1511"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
         <source>Couldn&apos;t find desktop?!</source>
         <translation>Impossible de trouver le bureau&#xa0;?!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1518"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1525"/>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
         <translation>Le launcher est dans le dossier depuis lequel il a été extrait, donc il ne peut pas créer des raccourci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1525"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1588"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1532"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1595"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1637"/>
         <source>Created a shortcut to this instance on your desktop!</source>
         <translation>Créé un raccourci vers cette instance sur votre bureau&#x202f;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1529"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1593"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1635"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1536"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1600"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1642"/>
         <source>Failed to create instance shortcut!</source>
         <translation>Erreur lors de la création du raccourci vers l&apos;instance&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1538"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1545"/>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>Le lanceur est exécuté en tant qu&apos;Appimage mal configurée&#x202f;? (Variable d&apos;environnement $APPIMAGE manquante)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1566"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1611"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1623"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1564"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1618"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1630"/>
         <source>Failed to create icon for shortcut.</source>
         <translation>Échec de la création de l&apos;icône pour le raccourci.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1578"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1585"/>
         <source>Desktop Entries (*.desktop)</source>
         <translation>Raccourcis Bureau (*.desktop)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1638"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1645"/>
         <source>Not supported on your platform!</source>
         <translation>Non supporté sur votre plateforme&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1737"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1744"/>
         <source>Rename Instance</source>
         <translation>Renommer l&apos;instance</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1750"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1757"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
         <translation>Votre dossier d&apos;instance contient un point d&apos;exclamation. Cela peut causer des problèmes avec Java&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1752"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1759"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
         <translation>Vous avez désormais deux options&#xa0;: &lt;br/&gt; - modifier le dossier de l&apos;instance dans les paramètres &lt;br/&gt; - déplacer cette installation de %1 vers un autre dossier</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1761"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1768"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
         <translation>Cela pose un problème&#xa0;: &lt;br/&gt; - Le lanceur sera probablement supprimé sans avertissement par le système d&apos;exploitation &lt;br/&gt; - Fermez le lanceur maintenant et décompressez-le vers un emplacement réel, pas dans un dossier temporaire</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1768"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1775"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
         <translation>Votre dossier d&apos;instance contient «&#xa0;Rar$&#xa0;», cela signifie que vous n&apos;avez pas extrait l&apos;archive du lanceur&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1776"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1783"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
         <translation>Le dossier de votre instance se trouve dans un dossier temporaire&#xa0;: «&#xa0;%1&#xa0;»&#xa0;!</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1789"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1796"/>
         <source>Total playtime: %1</source>
         <translation>Temps de jeu total&#xa0;: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="944"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="997"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="1009"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="951"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1004"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="1016"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
@@ -5412,7 +5412,7 @@ Voulez-vous continuer ?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
-        <location filename="src/launcher/ui/MainWindow.cpp" line="829"/>
+        <location filename="src/launcher/ui/MainWindow.cpp" line="836"/>
         <source>Accounts</source>
         <translation>Comptes</translation>
     </message>
