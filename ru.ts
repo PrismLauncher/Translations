@@ -487,7 +487,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation>Имя учётной записи аккаунта.</translation>
+        <translation>Имя учётной записи.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
@@ -587,7 +587,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>Client ID для аутентифкации Microsoft не установлен.</translation>
+        <translation>Client ID аутентификации Microsoft не установлен.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
@@ -631,7 +631,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>Вы должны добавить учетную запись Microsoft или Mojang, который владеет Minecraft, прежде чем вы сможете добавить автономную учетную запись.&lt;br&gt;&lt;br&gt;Если вы потеряли свою учетную запись, вы можете обратиться в службу поддержки Microsoft.</translation>
+        <translation>Вы должны добавить учетную запись Microsoft или Mojang, которая владеет Minecraft, прежде чем добавить автономную учетную запись.&lt;br&gt;&lt;br&gt;Если вы потеряли свою учетную запись, вы можете обратиться в службу поддержки Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -712,7 +712,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>Были найдены старые данные в %1, но у вас уже есть существующие данные для %2. К сожалению, вам придется мигрировать самостоятельно. Вы хотите, чтобы при следующем запуске %2 вы получали напоминание об ожидающем переносе данных?</translation>
+        <translation>Были найдены старые данные от %1, но у вас уже есть существующие данные %2. К сожалению, вам придется мигрировать самостоятельно. Вы хотите, чтобы при следующем запуске %2 вы получали напоминание об ожидающем переносе данных?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1670"/>
@@ -995,7 +995,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ваша настроенная глобальная папка модов и папка загрузок по умолчанию автоматически проверяются на наличие загруженных модов, и они будут скопированы в экземпляр, если будут найдены.&lt;/p&gt;&lt;p&gt;При желании вы можете перетащить загруженные моды в это диалоговое окно или добавить папку для просмотра, если вы не загружали моды в папку по умолчанию&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Выбранная вами глобальная папка модов и папка загрузок по умолчанию автоматически проверяются на наличие загруженных модов, и они будут скопированы в сборку при наличии.&lt;/p&gt;&lt;p&gt;При желании вы можете перетащить загруженные моды в это диалоговое окно или добавить папку для просмотра, если вы не загружали моды в папку по умолчанию&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1161,17 +1161,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation>Скопировать моды</translation>
+        <translation>Копировать моды</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>Скопировать внутриигровые значения такие как угол обзора, ограничение частоты кадров и т.д.</translation>
+        <translation>Копировать внутриигровые настройки, такие как угол обзора, ограничение частоты кадров и т.д.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
         <source>Copy game options</source>
-        <translation>Скопировать настройки игры</translation>
+        <translation>Копировать настройки игры</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
@@ -1186,7 +1186,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>Использовать символические или жёсткие ссылки для копирования файлов.</translation>
+        <translation>Использовать символические или жёсткие ссылки вместо копирования файлов.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
