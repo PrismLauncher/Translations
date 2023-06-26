@@ -1178,7 +1178,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation type="unfinished">Dosyaları kopyalamak yerine sembolik veya hard linkler kullanın.</translation>
+        <translation>Dosyaları kopyalamak yerine sembolik veya hard linkler kullanın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
@@ -10314,7 +10314,7 @@ Canonical Path: %1</source>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="299"/>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Belgi</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="308"/>
