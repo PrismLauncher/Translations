@@ -2858,13 +2858,13 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation>Oyun kapanınca konsolu otomatik kapat?</translation>
+        <translation>Oyun kapanınca konsolu otomatik kapat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation>Oyun çökünce konsolu göster?</translation>
+        <translation>Oyun çökünce konsolu göster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -3795,13 +3795,13 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Oyun çalışırken konsol gösterilsin mi?</translation>
+        <translation type="unfinished">Oyun çalışırken konsol göster</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">&amp;Oyundan çıkıldığında otomatik olarak konsol kapansın mı?</translation>
+        <translation>&amp;Oyundan çıkılğında otomatik olarak konsol kapat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
@@ -4773,7 +4773,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
         <source>Open the launcher&apos;s root folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Başlatıcı&apos;nın ana dosyasını dosya gezginin&apos;de aç.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
@@ -5224,12 +5224,19 @@ Emin misin?</translation>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>Aşağıdaki profil bu profildeki dosyaları kullanıyor olabilir:
 
 %1
 
-Bu profili silmek diğer profili de bozabilir,
+Bu profili silmek diğeri&apos;de bozabilir,
+
+Devam etmek istiyor musunuz?</numerusform>
+            <numerusform>Aşağıdaki profiller bu profildeki dosyaları kullanıyor olabilir:
+
+%1
+
+Bu profili silmek diğerleri&apos;de bozabilir,
 
 Devam etmek istiyor musunuz?</numerusform>
         </translation>
@@ -5578,7 +5585,7 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">Minecraft&apos;ı tam ekranda başlat?</translation>
+        <translation>Minecraft&apos;ı tam ekranda başlat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -6934,7 +6941,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="90"/>
         <source>Nilmods</source>
-        <translation type="unfinished">Nilmods</translation>
+        <translation>Nilmods</translation>
     </message>
 </context>
 <context>
