@@ -1343,6 +1343,100 @@ Please update both your operating system and %1.</source>
     </message>
 </context>
 <context>
+    <name>CustomPage</name>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="66"/>
+        <source>Filter</source>
+        <translation type="unfinished">過濾器</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
+        <source>Releases</source>
+        <translation type="unfinished">正式版</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
+        <source>Snapshots</source>
+        <translation type="unfinished">快照版</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
+        <source>Old Snapshots</source>
+        <translation type="unfinished">舊版快照</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
+        <source>Betas</source>
+        <translation type="unfinished">Beta 版</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
+        <source>Alphas</source>
+        <translation type="unfinished">Alpha 版</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
+        <source>Experiments</source>
+        <translation type="unfinished">實驗版</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="253"/>
+        <source>Refresh</source>
+        <translation type="unfinished">重新整理</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
+        <source>Mod Loader</source>
+        <translation type="unfinished">模組載入器</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
+        <source>None</source>
+        <translation type="unfinished">無</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
+        <source>Forge</source>
+        <translation type="unfinished">Forge</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
+        <source>Fabric</source>
+        <translation type="unfinished">Fabric</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
+        <source>Quilt</source>
+        <translation type="unfinished">Quilt</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="230"/>
+        <source>LiteLoader</source>
+        <translation type="unfinished">LiteLoader</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="60"/>
+        <source>Custom</source>
+        <translation type="unfinished">自訂</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="129"/>
+        <source>No Minecraft version is selected.</source>
+        <translation type="unfinished">尚未選取 Minecraft 版本。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="136"/>
+        <source>No mod loader is selected.</source>
+        <translation type="unfinished">尚未選取模組載入器。</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="172"/>
+        <source>No versions are currently available for Minecraft %1</source>
+        <translation type="unfinished">目前沒有用於 Minecraft %1 的版本</translation>
+    </message>
+</context>
+<context>
     <name>DataMigrationTask</name>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
@@ -9626,95 +9720,76 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>VanillaPage</name>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="66"/>
         <source>Filter</source>
-        <translation>過濾器</translation>
+        <translation type="vanished">過濾器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="76"/>
         <source>Releases</source>
-        <translation>正式版</translation>
+        <translation type="vanished">正式版</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation>快照版</translation>
+        <translation type="vanished">快照版</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation>舊版快照</translation>
+        <translation type="vanished">舊版快照</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="109"/>
         <source>Betas</source>
-        <translation>Beta 版</translation>
+        <translation type="vanished">Beta 版</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation>Alpha 版</translation>
+        <translation type="vanished">Alpha 版</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation>實驗版</translation>
+        <translation type="vanished">實驗版</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="152"/>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="253"/>
         <source>Refresh</source>
-        <translation>重新整理</translation>
+        <translation type="vanished">重新整理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation>模組載入器</translation>
+        <translation type="vanished">模組載入器</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="187"/>
         <source>None</source>
-        <translation>無</translation>
+        <translation type="vanished">無</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="200"/>
         <source>Forge</source>
-        <translation>Forge</translation>
+        <translation type="vanished">Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation>Fabric</translation>
+        <translation type="vanished">Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation>Quilt</translation>
+        <translation type="vanished">Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation>LiteLoader</translation>
+        <translation type="vanished">LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.h" line="60"/>
         <source>Vanilla</source>
-        <translation>原版</translation>
+        <translation type="vanished">原版</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation>尚未選取 Minecraft 版本。</translation>
+        <translation type="vanished">尚未選取 Minecraft 版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation>尚未選取模組載入器。</translation>
+        <translation type="vanished">尚未選取模組載入器。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/modplatform/VanillaPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>目前沒有用於 Minecraft %1 的版本</translation>
+        <translation type="vanished">目前沒有用於 Minecraft %1 的版本</translation>
     </message>
 </context>
 <context>
@@ -9775,207 +9850,205 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>動作</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="121"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="119"/>
         <source>Change version</source>
         <translation>變更版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="124"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="122"/>
         <source>Change version of the selected package.</source>
         <translation>變更所選的安裝包版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="129"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="127"/>
         <source>Move up</source>
         <translation>上移</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="132"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="130"/>
         <source>Make the selected package apply sooner.</source>
         <translation>使所選的安裝包較早套用。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="137"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="135"/>
         <source>Move down</source>
         <translation>下移</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="140"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="138"/>
         <source>Make the selected package apply later.</source>
         <translation>使所選的安裝包較晚套用。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="145"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="143"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="148"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="146"/>
         <source>Remove selected package from the instance.</source>
         <translation>從實例中移除所選的安裝包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="153"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="151"/>
         <source>Customize</source>
         <translation>自訂</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="156"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="154"/>
         <source>Customize selected package.</source>
         <translation>自訂所選的安裝包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="159"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="164"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="162"/>
         <source>Edit selected package.</source>
         <translation>編輯所選的安裝包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="169"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="167"/>
         <source>Revert</source>
         <translation>復原</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="172"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="170"/>
         <source>Revert the selected package to default.</source>
         <translation>將所選的安裝包復原為預設值。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="177"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="175"/>
         <source>Install Forge</source>
         <translation>安裝 Forge</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="180"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="178"/>
         <source>Install the Minecraft Forge package.</source>
         <translation>安裝 Minercaft Forge。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="185"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="183"/>
         <source>Install Fabric</source>
         <translation>安裝 Fabric</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="188"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="186"/>
         <source>Install the Fabric Loader package.</source>
         <translation>安裝 Fabric Loader。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="193"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="191"/>
         <source>Install Quilt</source>
         <translation>安裝 Quilt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="196"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="194"/>
         <source>Install the Quilt Loader package.</source>
         <translation>安裝 Quilt 載入器套件。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="201"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="199"/>
         <source>Install LiteLoader</source>
         <translation>安裝 LiteLoader</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="204"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="202"/>
         <source>Install the LiteLoader package.</source>
         <translation>安裝 LiteLoader。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="209"/>
         <source>Install mods</source>
-        <translation>安裝模組</translation>
+        <translation type="vanished">安裝模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="212"/>
         <source>Install normal mods.</source>
-        <translation>安裝普通模組。</translation>
+        <translation type="vanished">安裝普通模組。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="217"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="207"/>
         <source>Add to Minecraft.jar</source>
         <translation>新增到 Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="210"/>
         <source>Add a mod into the Minecraft jar file.</source>
         <translation>新增模組到 Minecraft jar 檔案。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="225"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="215"/>
         <source>Replace Minecraft.jar</source>
         <translation>取代 Minecraft.jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="230"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
         <source>Add Agents</source>
         <translation>新增代理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="233"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="223"/>
         <source>Add Java agents.</source>
         <translation>新增 Java 代理。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="238"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="228"/>
         <source>Add Empty</source>
         <translation>新增安裝包</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="241"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="231"/>
         <source>Add an empty custom package.</source>
         <translation>新增空白的自訂安裝包.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="246"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="236"/>
         <source>Reload</source>
         <translation>重新載入</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="249"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="239"/>
         <source>Reload all packages.</source>
         <translation>重新載入所有安裝包。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="254"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="244"/>
         <source>Download All</source>
         <translation>下載全部</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="257"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="247"/>
         <source>Download the files needed to launch the instance now.</source>
         <translation>立刻下載所有啟動此實例所需的檔案。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="262"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="252"/>
         <source>Open .minecraft</source>
         <translation>開啟 .minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="265"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="255"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
         <translation>開啟該實例的 .minecraft 資料夾。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="270"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="260"/>
         <source>Open libraries</source>
         <translation>開啟 libraries</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="273"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="263"/>
         <source>Open the instance&apos;s local libraries folder.</source>
         <translation>開啟該實例的本機函式庫資料夾。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="278"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="268"/>
         <source>Import Components</source>
         <translation>匯入元件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="281"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="271"/>
         <source>Import existing component JSON files.</source>
         <translation>匯入現有元件 JSON 檔案。</translation>
     </message>
@@ -10005,27 +10078,27 @@ Please switch to one of the following Java versions for this instance:</source>
         <translation>警告： </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="305"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="311"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="347"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="416"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="429"/>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="491"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="304"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="310"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="346"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="415"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="428"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="490"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="312"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="311"/>
         <source>Couldn&apos;t load the instance profile.</source>
         <translation>無法載入實例設定檔。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="332"/>
         <source>Confirm Removal</source>
         <translation>確認刪除</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="334"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="333"/>
         <source>You are about to remove &quot;%1&quot;.
 This is permanent and will completely remove the custom component.
 
@@ -10036,89 +10109,89 @@ Are you sure?</source>
 你確定嗎？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="347"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="346"/>
         <source>Couldn&apos;t remove file</source>
         <translation>無法移除檔案</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
         <source>Select jar mods</source>
         <translation>選擇 jar 模組</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="364"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
         <translation>Minecraft.jar 模組（*.zip *.jar）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="373"/>
         <source>Select jar</source>
         <translation>選擇 jar</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="373"/>
         <source>Minecraft.jar replacement (*.jar)</source>
         <translation>Minecraft.jar 取代檔（*.jar）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="383"/>
         <source>Select components</source>
         <translation>選擇元件</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="384"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="383"/>
         <source>Components (*.json)</source>
         <translation>元件（*.json）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="389"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="388"/>
         <source>Failed to import components</source>
         <translation>元件匯入失敗</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="390"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="389"/>
         <source>Some components could not be imported. Check logs for details</source>
         <translation>無法匯入部分元件。確認記錄檔以了解詳情</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="398"/>
         <source>Select agents</source>
         <translation>選擇代理</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="399"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="398"/>
         <source>Java agents (*.jar)</source>
         <translation>Java 代理（*.jar）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="460"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="459"/>
         <source>Change %1 version</source>
         <translation>變更 %1 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="463"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="462"/>
         <source>No intermediary mappings versions are currently available.</source>
         <translation>目前沒有 intermediary mappings 版本.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="464"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="463"/>
         <source>Couldn&apos;t load or download the intermediary mappings version lists!</source>
         <translation>無法載入或下載 intermediary mappings 版本清單！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="492"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="491"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
         <translation>無法在尚未新增帳號的狀態中下載 Minecraft 或更新實例。
 請登入你的 Mojang 或 Microsoft 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="746"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="745"/>
         <source>Confirm Reversion</source>
         <translation>確認復原</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="747"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="746"/>
         <source>You are about to revert &quot;%1&quot;.
 This is permanent and will completely revert your customizations.
 
@@ -10135,67 +10208,67 @@ Please add your Mojang or Minecraft account.</source>
 請新增您的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="518"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="517"/>
         <source>Select Forge version</source>
         <translation>請選擇 Forge 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="520"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="519"/>
         <source>No Forge versions are currently available for Minecraft </source>
         <translation>沒有可用的 Forge 版本可供 Minecraft 使用 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="521"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="520"/>
         <source>Couldn&apos;t load or download the Forge version lists!</source>
         <translation>無法載入或下載 Forge 版本清單！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="546"/>
         <source>Select Fabric Loader version</source>
         <translation>請選擇 Fabric 載入器版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="548"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="547"/>
         <source>No Fabric Loader versions are currently available.</source>
         <translation>目前沒有可用的 Fabric 載入器版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="549"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="548"/>
         <source>Couldn&apos;t load or download the Fabric Loader version lists!</source>
         <translation>無法載入或下載 Fabric 載入器版本清單！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="574"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="573"/>
         <source>Select Quilt Loader version</source>
         <translation>請選擇 Quilt 載入器版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="575"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="574"/>
         <source>No Quilt Loader versions are currently available.</source>
         <translation>目前沒有可用的 Quilt 載入器版本。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="576"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="575"/>
         <source>Couldn&apos;t load or download the Quilt Loader version lists!</source>
         <translation>無法載入或下載 Quilt 載入器版本清單！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="619"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="618"/>
         <source>Select LiteLoader version</source>
         <translation>請選擇 LiteLoader 版本</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="621"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="620"/>
         <source>No LiteLoader versions are currently available for Minecraft </source>
         <translation>沒有可用的 LiteLoader 版本可供 Minecraft 使用 </translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="622"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="621"/>
         <source>Couldn&apos;t load or download the LiteLoader version lists!</source>
         <translation>無法載入或下載 LiteLoader 版本清單！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="678"/>
+        <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="677"/>
         <source>Error updating instance</source>
         <translation>更新實例時發生錯誤</translation>
     </message>
