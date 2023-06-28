@@ -4275,8 +4275,8 @@ Anledning:
         <translation>Till slutet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>Minecraft-logg</translation>
     </message>
@@ -7478,16 +7478,16 @@ Du bör dubbelkolla att det inte innehåller personlig information.
         <translation>Javatest lyckades!&lt;br /&gt;Plattform rapporterad: %1&lt;br /&gt;Java version rapporterad: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test success</source>
         <translation>Javatest lyckades</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>Javatest misslyckades</translation>
     </message>
@@ -7740,8 +7740,8 @@ Detta meddelande kommer visas tills du tar bort detta från JVM-argumenten.</tra
         <translation>Okänd formatversion!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <source>Empty path</source>
         <translation>Sökvägen är tom</translation>
     </message>
@@ -7947,8 +7947,8 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <translation>Sortera efter popularitet</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <source>Sort by Last Updated</source>
         <translation>Sortera efter senast uppdaterad</translation>
     </message>
@@ -7963,8 +7963,8 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <translation>Sortera efter skapare</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <source>Sort by Downloads</source>
         <translation>Sortera efter nedladdningar</translation>
     </message>

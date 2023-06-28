@@ -4291,8 +4291,8 @@ Sebep:
         <translation>En Alt</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>Minecraft Sistem Kayıtları</translation>
     </message>
@@ -5230,13 +5230,6 @@ Do you wish to proceed?</source>
 %1
 
 Bu profili silmek diğeri&apos;de bozabilir,
-
-Devam etmek istiyor musunuz?</numerusform>
-            <numerusform>Aşağıdaki profiller bu profildeki dosyaları kullanıyor olabilir:
-
-%1
-
-Bu profili silmek diğerleri&apos;de bozabilir,
 
 Devam etmek istiyor musunuz?</numerusform>
         </translation>
@@ -7606,16 +7599,16 @@ Emin misin?</translation>
         <translation>Java testi başarılı!&lt;br /&gt;Rapor edilen platform: %1&lt;br /&gt;Rapor edilen Java sürümü: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test success</source>
         <translation>Java testi başarılı</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>Java testi başarısız</translation>
     </message>
@@ -7868,8 +7861,8 @@ Bu mesaj JVM değişkeninden bunu kaldırana kadar gösterilecek.</translation>
         <translation>Bilinmeyen format sürümü!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
+        <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
         <source>Empty path</source>
         <translation>Boş dizin yolu</translation>
     </message>
@@ -8075,8 +8068,8 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <translation>Popülerliğe göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <source>Sort by Last Updated</source>
         <translation>Son güncellenene göre sırala</translation>
     </message>
@@ -8091,8 +8084,8 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <translation>Yapımcıya göre sırala</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <source>Sort by Downloads</source>
         <translation>İndirilmeye Göre Sırala</translation>
     </message>
