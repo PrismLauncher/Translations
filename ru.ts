@@ -1787,7 +1787,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
         <source>Confirm Removal</source>
-        <translation>Подтвердить удаление</translation>
+        <translation type="unfinished">Подтвердите удаление</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="317"/>
@@ -3194,7 +3194,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="97"/>
         <source>Launch Offline</source>
-        <translation>Играть в автономном режиме</translation>
+        <translation type="unfinished">Запустить в автономном режиме</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/InstanceWindow.cpp" line="101"/>
@@ -8994,7 +8994,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы собираетесь загрузить скриншоты %1 в %2.
+Вы должны перепроверить личную информацию.
+
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
@@ -9002,7 +9005,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы собираетесь загрузить выбранный скриншот в %1.
+Вы должны перепроверить личную информацию.
+
+Вы уверены?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
