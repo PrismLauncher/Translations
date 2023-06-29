@@ -4238,8 +4238,8 @@ Motivo:
         <translation>Final</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
         <translation>Registo do Minecraft</translation>
     </message>
@@ -7255,16 +7255,16 @@ Tens a certeza de que queres prosseguir?</translation>
         <translation>Teste de Java efetuado!&lt;br /&gt;Plataforma: %1&lt;br /&gt;Versão do Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <source>Java test success</source>
         <translation>Teste do Java finalizado com êxito</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>O teste de Java falhou</translation>
     </message>
@@ -7517,8 +7517,8 @@ Esta mensagem continuará a aparecer até removeres isto dos argumentos da JVM.<
         <translation>Versão de formato desconhecida!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
         <translation>Caminho vazio</translation>
     </message>
@@ -7724,8 +7724,8 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
         <translation>Organizar por popularidade</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
         <source>Sort by Last Updated</source>
         <translation>Organizar por data de última atualização</translation>
     </message>
@@ -7740,8 +7740,8 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
         <translation>Organizar por autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
         <source>Sort by Downloads</source>
         <translation>Organizar por Número De Downloads</translation>
     </message>

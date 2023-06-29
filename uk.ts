@@ -4312,8 +4312,8 @@ Reason:
         <translation>Низ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
         <translation>Журнал Minecraft</translation>
     </message>
@@ -7592,16 +7592,16 @@ Are you sure?</source>
         <translation>Тестування Java успішно! &lt;br /&gt; Повідомлено про платформу:%1 &lt;br /&gt; Повідомлено про версію Java:%2 &lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
+        <location filename="src/launcher/JavaCommon.cpp" line="83"/>
         <source>Java test success</source>
         <translation>Перевірка Java пройшла успішно</translation>
     </message>
     <message>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>Помилка тесту Java</translation>
     </message>
@@ -7854,8 +7854,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Невідома версія формату!</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="92"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="99"/>
         <source>Empty path</source>
         <translation>Порожній шлях</translation>
     </message>
@@ -8061,8 +8061,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Сортувати за популярністю</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
         <source>Sort by Last Updated</source>
         <translation>Сортувати за останнім оновленням</translation>
     </message>
@@ -8077,8 +8077,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Сортувати за автором</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
         <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
+        <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
         <source>Sort by Downloads</source>
         <translation>Сортувати за завантаженнями</translation>
     </message>
