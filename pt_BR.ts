@@ -417,19 +417,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">N/A</translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Sim</translation>
+        <translation>Sim</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>No</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished">Não</translation>
+        <translation>Não</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -1363,93 +1363,93 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="66"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtrar</translation>
+        <translation>Filtrar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished">Versões finais</translation>
+        <translation>Lançamentos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation type="unfinished">Snapshots</translation>
+        <translation>Snapshots</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished">Snapshots antigas</translation>
+        <translation>Snapshots antigas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished">Betas</translation>
+        <translation>Betas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished">Alfas</translation>
+        <translation>Alphas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished">Experimentos</translation>
+        <translation>Experimentos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="253"/>
         <source>Refresh</source>
-        <translation type="unfinished">Atualizar</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished">Carregador de mods</translation>
+        <translation>Carregador de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished">Nenhum</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="60"/>
         <source>Custom</source>
-        <translation type="unfinished">Customizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished">Sem versão do Minecraft escolhida.</translation>
+        <translation>Nenhuma versão do Minecraft foi selecionada.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished">Sem carregador de mods escolhido.</translation>
+        <translation>Nenhum carregador de mods foi selecionado.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Não há versões atualmente disponíveis para Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -1788,12 +1788,12 @@ Tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="317"/>
         <source> (%1 installed, %2 selected)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 instalado, %2 selecionado)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="319"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 instalado)</translation>
     </message>
 </context>
 <context>
@@ -2442,7 +2442,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Obter dependências</translation>
     </message>
 </context>
 <context>
@@ -2574,7 +2574,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importar (.zip)</translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <source>Modrinth pack (*.mrpack)</source>
@@ -2642,12 +2642,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="117"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Licença: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="124"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Relatar problemas para: </translation>
     </message>
 </context>
 <context>
@@ -2966,7 +2966,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
         <source>Start Minecraft maximized</source>
         <oldsource>Start Minecraft maximized?</oldsource>
-        <translation type="unfinished">Iniciar o Minecraft maximizado?</translation>
+        <translation>Iniciar o Minecraft maximizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
@@ -2987,19 +2987,19 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
         <source>Show console while the game is running</source>
         <oldsource>Show console while the game is running?</oldsource>
-        <translation type="unfinished">Abrir console enquanto o jogo estiver rodando?</translation>
+        <translation>Mostrar console enquanto o jogo estiver rodando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Fechar console automaticamente ao encerrar o jogo?</translation>
+        <translation>Fechar automaticamente o console quando o jogo for encerrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
         <source>Show console when the game crashes</source>
         <oldsource>Show console when the game crashes?</oldsource>
-        <translation type="unfinished">Abrir console quando o jogo parar de funcionar?</translation>
+        <translation>Mostrar console quando o jogo crashar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="380"/>
@@ -3828,7 +3828,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation type="unfinished">Desativar o uso de metadados para mods?</translation>
+        <translation>Desativar o uso de metadados para mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -3934,19 +3934,19 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="310"/>
         <source>Show console while the game is &amp;running</source>
         <oldsource>Show console while the game is &amp;running?</oldsource>
-        <translation type="unfinished">Abrir console enquanto o jogo estiver &amp;rodando?</translation>
+        <translation>Mostrar console enquanto o jogo estiver &amp;rodando</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="317"/>
         <source>&amp;Automatically close console when the game quits</source>
         <oldsource>&amp;Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Fechar console &amp;automaticamente ao sair do jogo?</translation>
+        <translation>Fechar &amp;automaticamente o console quando o jogo for encerrado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation type="unfinished">Abrir console ao o jogo &amp;parar de funcionar?</translation>
+        <translation>Mostrar console quando o jogo &amp;crashar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -4921,7 +4921,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Relatar um Bug ou Sugerir um Recurso</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
@@ -5733,7 +5733,7 @@ Você tem certeza?</translation>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="54"/>
         <source>Start Minecraft &amp;maximized</source>
         <oldsource>Start Minecraft &amp;maximized?</oldsource>
-        <translation type="unfinished">Iniciar o Minecraft &amp;maximizado?</translation>
+        <translation>Iniciar o Minecraft &amp;maximizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="63"/>
@@ -6076,17 +6076,17 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Última Modificação</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
@@ -8388,22 +8388,22 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="164"/>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="171"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificando dependências...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -8633,12 +8633,12 @@ Aviso: Este recurso tem links físicos para outro lugar. Sua edição também al
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Última Modificação</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -8665,7 +8665,7 @@ Aviso: Este recurso tem links físicos para outro lugar. Sua edição também al
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="550"/>
         <source>Show / Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar / Esconder Colunas</translation>
     </message>
 </context>
 <context>
@@ -8677,17 +8677,17 @@ Aviso: Este recurso tem links físicos para outro lugar. Sua edição também al
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Última Modificação</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="77"/>
@@ -8849,17 +8849,17 @@ Aviso: Este recurso tem links físicos para outro lugar. Sua edição também al
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Provedor: %1</translation>
+        <translation>Provedor: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Exigido por: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exigido por:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
