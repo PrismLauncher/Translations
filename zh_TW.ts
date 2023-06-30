@@ -1331,7 +1331,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。&lt;/p&gt;&lt;p&gt;此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例的 ID（其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 啟動所用的 Java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 啟動所用的命令列引數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的 &apos;optirun&apos;）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令會在實例啟動前執行，而結束後指令則會在其結束後執行。&lt;/p&gt;&lt;p&gt;此兩者會在啟動器的工作目錄中執行並附加額外的環境變數：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例的名稱&lt;/li&gt;&lt;li&gt;$INST_ID - 實例的 ID（其資料夾名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 啟動所用的 Java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 啟動所用的命令列引數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允許啟動時使用額外的包裝程式（如 Linux 中的「optirun」）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1519,13 +1519,13 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>正在向 %1 請求 &apos;%2&apos; 的後設資料資訊…</translation>
+        <translation>正在向 %1 請求「%2」的後設資料資訊…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="242"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>正在分析 &apos;%1&apos; 的 Modrinth API 回應…</translation>
+        <translation>正在分析「%1」的 Modrinth API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="398"/>
@@ -1703,7 +1703,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>在檔案總管中開啟 &apos;config&apos; 資料夾。</translation>
+        <translation>在檔案總管中開啟「config」資料夾。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
@@ -1902,7 +1902,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>無法解開原生的 jar 檔案 &apos;%1&apos; 到目的地 &apos;%2&apos;</translation>
+        <translation>無法解壓縮原生的 jar 檔案 &apos;%1&apos; 至 &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -3953,7 +3953,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>指定的實例路徑中包含了至少一個 &apos;!&apos; 字元。已知 Java 會在這種情況下發生問題，實例（可能）無法啟動！</translation>
+        <translation>指定的實例路徑中包含了至少一個「!」字元。已知 Java 會在這種情況下發生問題，實例（可能）無法啟動！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
@@ -6423,7 +6423,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>模組 &apos;%1&apos; 還未擁有後設資料。為了追蹤如何更新這模組的相關資訊，我們需要先產生一筆後設資料。因此，請選取一個模組託管平台，我們將會在該平台檢查這模組的更新資訊。</translation>
+        <translation>模組「%1」還未擁有後設資料。為了追蹤如何更新這模組的相關資訊，我們需要先產生一筆後設資料。因此，請選取一個模組託管平台，我們將會在該平台檢查這模組的更新資訊。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
@@ -7778,12 +7778,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="189"/>
         <source>processArguments is set to unknown value &apos;%1&apos;</source>
-        <translation>processArguments 被設為未知的值 &apos;%1&apos;</translation>
+        <translation>processArguments 被設為未知的值「%1」</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation>此版本的 &apos;minimumLauncherVersion&apos; 值（%1）比 %3 所支援的還要高（%2）。有可能無法正常運作！</translation>
+        <translation>此版本的「minimumLauncherVersion」值（%1）比 %3 所支援的還要高（%2）。有可能無法正常運作！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
@@ -7798,7 +7798,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="131"/>
         <source>The component&apos;s &apos;uid&apos; contains illegal characters! This can cause security issues.</source>
-        <translation>元件的 &apos;uid&apos; 包含無效字元！這可能會導致安全問題。</translation>
+        <translation>元件的「uid」包含無效字元！這可能會導致安全問題。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="217"/>
