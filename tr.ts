@@ -3787,7 +3787,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
         <source>Disable using metadata for mods</source>
         <oldsource>Disable using metadata for mods?</oldsource>
-        <translation>Modlar için üst veri kullanmayı devre dışı bırak?</translation>
+        <translation>Modlar için üst veri kullanmayı devre dışı bırak</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
@@ -3901,7 +3901,7 @@ Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala dosyalara giriyor ve 
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="324"/>
         <source>Show console when the game &amp;crashes</source>
         <oldsource>Show console when the game &amp;crashes?</oldsource>
-        <translation>Oyun çöktüğünde konsol gösterilsin mi?</translation>
+        <translation>Oyun çöktüğünde konsol gösterilsin mi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="334"/>
@@ -4872,7 +4872,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir bozukluk belirt veya Bir özellik öner</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
@@ -5689,7 +5689,7 @@ Emin misiniz?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="190"/>
         <source>Tweaks</source>
-        <translation type="unfinished"></translation>
+        <translation>İnce Ayarlar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
@@ -6012,12 +6012,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">İzin ver</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resim</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -6647,7 +6647,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="227"/>
         <source>Mod Download Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrinth&apos;den mod indirme</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
@@ -8515,7 +8515,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>İzin ver</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
