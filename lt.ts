@@ -1523,7 +1523,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <translation>Eksportuoti egzempliorių</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
         <source>Export %1</source>
         <translation>Eksportuoti %1</translation>
     </message>
@@ -1536,14 +1536,14 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <translation type="vanished">Toks failas jau yra. Ar norite jį perrašyti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Unable to export instance</source>
         <translation>Negalima išeksportuoti egzemplioriaus</translation>
     </message>
@@ -1586,27 +1586,27 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <translation>Failai</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="95"/>
         <source>Export %1</source>
         <translation>Eksportuoti %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>Task aborted</source>
         <translation>Užduotis nutraukta</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>The task has been aborted by the user.</source>
         <translation>Užduotis buvo nutraukta vartotojo.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="113"/>
         <source>Abort</source>
         <translation>Nutraukti</translation>
     </message>

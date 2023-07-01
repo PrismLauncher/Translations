@@ -1497,7 +1497,7 @@ Please update both your operating system and %1.</source>
         <translation>Export Instanz</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
         <source>Export %1</source>
         <translation>Export %1</translation>
     </message>
@@ -1510,14 +1510,14 @@ Please update both your operating system and %1.</source>
         <translation type="vanished">Dës Datei gëtt et schonn. Wëllt Dir se iwwerschreiwen?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Unable to export instance</source>
         <translation>Konnt d&apos;Instanzen net exportéieren</translation>
     </message>
@@ -1560,27 +1560,27 @@ Please update both your operating system and %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="95"/>
         <source>Export %1</source>
         <translation type="unfinished">Export %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>Error</source>
         <translation type="unfinished">Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>Task aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>The task has been aborted by the user.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="113"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
     </message>

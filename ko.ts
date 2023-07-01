@@ -1559,7 +1559,7 @@ Please update both your operating system and %1.</source>
         <translation>인스턴스 내보내기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
         <source>Export %1</source>
         <translation>%1 내보내기</translation>
     </message>
@@ -1572,14 +1572,14 @@ Please update both your operating system and %1.</source>
         <translation type="vanished">동일한 이름의 파일이 존재합니다. 덮어쓸까요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Unable to export instance</source>
         <translation>인스턴스를 내보낼 수 없음</translation>
     </message>
@@ -1622,27 +1622,27 @@ Please update both your operating system and %1.</source>
         <translation>파일</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="95"/>
         <source>Export %1</source>
         <translation>%1 내보내기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>Task aborted</source>
         <translation>작업이 중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>The task has been aborted by the user.</source>
         <translation>사용자가 작업을 중단했습니다.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="113"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>

@@ -1571,7 +1571,7 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <translation>Eksportuj instancję</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
         <source>Export %1</source>
         <translation>Wyeksportuj %1</translation>
     </message>
@@ -1584,14 +1584,14 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <translation type="vanished">Ten plik już istnieje. Czy chcesz go nadpisać?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Unable to export instance</source>
         <translation>Nie udało się wyeksportować instancji</translation>
     </message>
@@ -1634,27 +1634,27 @@ Proszę zaktualizować zarówno system operacyjny, jak i PolyMC.</translation>
         <translation>Pliki</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="95"/>
         <source>Export %1</source>
         <translation>Wyeksportuj %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>Task aborted</source>
         <translation>Działanie przerwane</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>The task has been aborted by the user.</source>
         <translation>Działanie zostało przerwane przez użytkownika.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="113"/>
         <source>Abort</source>
         <translation>Przerwij</translation>
     </message>

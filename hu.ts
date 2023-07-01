@@ -1555,7 +1555,7 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>Példány exportálása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="127"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
         <source>Export %1</source>
         <translation>%1 exportálása</translation>
     </message>
@@ -1568,14 +1568,14 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation type="vanished">Ez a fájl már létezik. Szeretnéd felülírni?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="141"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="147"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
         <source>Unable to export instance</source>
         <translation>Nem lehet exportálni a példányt</translation>
     </message>
@@ -1618,27 +1618,27 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
         <translation>Fájlok</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="94"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="95"/>
         <source>Export %1</source>
         <translation>%1 exportálása</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="105"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>Task aborted</source>
         <translation>Feladat megszakítva</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="107"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>The task has been aborted by the user.</source>
         <translation>A feladatot a felhasználó megszakította.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="112"/>
+        <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="113"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>
