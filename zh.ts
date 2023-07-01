@@ -4893,7 +4893,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="551"/>
         <source>&amp;View Launcher Root Folder</source>
-        <translation>&amp;查看启动器根目录</translation>
+        <translation>查看启动器根文件夹（&amp;V）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="554"/>
