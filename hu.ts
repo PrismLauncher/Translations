@@ -10294,7 +10294,7 @@ Kérjük, adja meg Mojang vagy Minecraft fiókját.</translation>
     <message>
         <location filename="src/launcher/ui/widgets/WideBar.cpp" line="209"/>
         <source>Customize toolbar actions</source>
-        <translation>Az eszköztár műveleteinek testreszabása</translation>
+        <translation>Eszköztár műveletei:</translation>
     </message>
 </context>
 <context>
