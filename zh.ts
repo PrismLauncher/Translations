@@ -179,7 +179,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>No loader version set for modpack!</source>
-        <translation>没有为模组包设定模组加载器版本！</translation>
+        <translation>整合包没有设定模组加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="536"/>
@@ -249,7 +249,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="980"/>
         <source>Installing modpack</source>
-        <translation>正在安装模组包</translation>
+        <translation>正在安装整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="992"/>
@@ -449,12 +449,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
         <source>Username</source>
-        <translation>用户名</translation>
+        <translation>Minecraft 用户名</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation>账号</translation>
+        <translation>Xbox 账号</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
@@ -474,7 +474,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>该账号的 Minecraft 用户名。</translation>
+        <translation>该账号的 Minecraft Java 版用户名。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -483,7 +483,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation>账号的用户名。</translation>
+        <translation>该账号的 Xbox 用户名。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
@@ -499,7 +499,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>该账号能否迁移到微软账户</translation>
+        <translation>该账号能否迁移到微软账户。</translation>
     </message>
 </context>
 <context>
@@ -851,7 +851,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>警告：这是一个未完成的功能，可能会使您导入的模组包出现问题。</translation>
+        <translation>警告：这是一个未完成的功能，可能会使您导入的整合包出现问题。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -2078,7 +2078,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="296"/>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation>未找到指定的覆盖目录（%1）。或许模组包之前已经用过了？</translation>
+        <translation>未找到指定的覆盖目录（%1）。或许这个整合包之前已经用过了？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="315"/>
@@ -2145,7 +2145,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
-        <translation>不支持在模组包中嵌套模组包。未下载任何数据：%1</translation>
+        <translation>不支持在整合包中嵌套整合包。未下载任何数据：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
@@ -2163,7 +2163,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="346"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;您好！ &lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎为空。这是因为旧版本启动器中存在错误。 &lt;br/&gt;如果没有此信息，我们将无法执行正确的 API 请求。 &lt;br/&gt;&lt;br/&gt;所以为了使此功能正常工作， 您需要用内置下载器重新下载模组包。 &lt;br/&gt;&lt;br/&gt;下载器会要求您更新此实例，所以您不必担心会丢失此实例！ &lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;您好！ &lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎为空。这是因为旧版本启动器中存在错误。 &lt;br/&gt;如果没有此信息，我们将无法执行正确的 API 请求。 &lt;br/&gt;&lt;br/&gt;所以为了使此功能正常工作， 您需要用内置下载器重新下载整合包。 &lt;br/&gt;&lt;br/&gt;下载器会要求您更新此实例，所以您不必担心会丢失此实例！ &lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="408"/>
@@ -2519,12 +2519,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation>- CurseForge 模组包 (ZIP)</translation>
+        <translation>- CurseForge 整合包 (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth 模组包（ZIP 和 mrpack）</translation>
+        <translation>- Modrinth 整合包（ZIP 或 mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
@@ -2556,12 +2556,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation>Modrinth 模组包</translation>
+        <translation>Modrinth 整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation>选择模组包</translation>
+        <translation>选择整合包</translation>
     </message>
     <message>
         <source>Zip (*.zip)</source>
@@ -2688,34 +2688,34 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="88"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>正在下载模组包：
+        <translation>正在下载整合包：
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="97"/>
         <source>Modpack download</source>
-        <translation>下载模组包</translation>
+        <translation>下载整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Extracting modpack</source>
-        <translation>正在解压模组包</translation>
+        <translation>正在解压整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="143"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>无法打开提供的模组包 zip 压缩文件。</translation>
+        <translation>无法打开提供的整合包 zip 压缩文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="188"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="257"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>压缩包未包含可识别的模组包类型。</translation>
+        <translation>压缩包未包含可识别的整合包类型。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="205"/>
         <source>Failed to extract modpack</source>
-        <translation>解压模组包失败</translation>
+        <translation>解压整合包失败</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="233"/>
@@ -4077,17 +4077,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="113"/>
         <source>Public Modpack</source>
-        <translation>公开模组包</translation>
+        <translation>公开整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="115"/>
         <source>Third Party Modpack</source>
-        <translation>第三方模组包</translation>
+        <translation>第三方整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp" line="117"/>
         <source>Private Modpack</source>
-        <translation>私有模组包</translation>
+        <translation>私有整合包</translation>
     </message>
 </context>
 <context>
@@ -4095,7 +4095,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="114"/>
         <source>Public Packs</source>
-        <translation>公开模组包</translation>
+        <translation>公开整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="118"/>
@@ -4105,7 +4105,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackFetchTask.cpp" line="122"/>
         <source>Failed to download some pack lists: %1</source>
-        <translation>下载模组包列表时出错：%1</translation>
+        <translation>下载一些包列表时出错：%1</translation>
     </message>
 </context>
 <context>
@@ -4123,17 +4123,17 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
         <source>Extracting modpack</source>
-        <translation>正在解压模组包</translation>
+        <translation>正在解压整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="125"/>
         <source>Failed to open modpack file %1!</source>
-        <translation>无法打开模组包文件 %1！</translation>
+        <translation>无法打开整合包文件 %1！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="151"/>
         <source>Installing modpack</source>
-        <translation>正在安装模组包</translation>
+        <translation>正在安装整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="159"/>
@@ -4167,12 +4167,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="94"/>
         <source>Add pack</source>
-        <translation>添加模组包</translation>
+        <translation>添加整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="101"/>
         <source>Remove selected pack</source>
-        <translation>删除所选模组包</translation>
+        <translation>删除选中整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="121"/>
@@ -4207,23 +4207,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="242"/>
         <source>Failed to download pack information for code %1.
 Should it be removed now?</source>
-        <translation>无法下载代码为 %1 的模组包信息。
-要将它移除吗？</translation>
+        <translation>无法下载代码为 %1 的整合包信息。
+要立即将它移除吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="380"/>
         <source>Add FTB pack</source>
-        <translation>添加 FTB 模组包</translation>
+        <translation>添加 FTB 整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="381"/>
         <source>Enter pack code:</source>
-        <translation>输入模组包代码：</translation>
+        <translation>输入整合包代码：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="404"/>
         <source>Remove pack</source>
-        <translation>移除模组包</translation>
+        <translation>移除整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="405"/>
@@ -5508,12 +5508,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation>模组包信息</translation>
+        <translation>整合包信息</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation>模组包名称：</translation>
+        <translation>整合包名称：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -5553,7 +5553,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="118"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>网站：&lt;a href=%1&gt;%2&lt;/a&gt;    |    模组包 ID：%3    |    版本 ID：%4</translation>
+        <translation>网站：&lt;a href=%1&gt;%2&lt;/a&gt;    |    整合包 ID：%3    |    版本 ID：%4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
@@ -5583,7 +5583,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="181"/>
         <source>Update pack</source>
-        <translation>更新模组包</translation>
+        <translation>更新整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="192"/>
@@ -5593,7 +5593,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="195"/>
         <source>Failed to request changelog data for this modpack.</source>
-        <translation>无法获取此模组包的更新日志数据。</translation>
+        <translation>无法获取此整合包的更新日志数据。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="197"/>
@@ -6608,7 +6608,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="318"/>
         <source>A network error occurred. Could not load modpacks.</source>
-        <translation>发生网络错误。无法加载模组包。</translation>
+        <translation>发生网络错误，无法加载整合包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthModel.cpp" line="325"/>
@@ -6739,7 +6739,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="332"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>这个模组包中的一些模组是可选的。它们会被下载，但默认禁用！</translation>
+        <translation>这个整合包中的一些模组是可选的。它们会被下载，但默认禁用！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="375"/>
@@ -6750,7 +6750,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="406"/>
         <source>Could not understand pack index:
 </source>
-        <translation>无法解析模组包索引
+        <translation>无法解析整合包索引
 </translation>
     </message>
 </context>
@@ -6838,7 +6838,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation>注意： Modrinth 模组包仍处于 alpha 阶段。有些事情可能很粗糙，或者根本不能用！谨慎使用。</translation>
+        <translation>注意： Modrinth 整合包仍处于 alpha 阶段。有些功能可能做得很粗糙，或者根本不能用！请谨慎使用。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -8086,16 +8086,16 @@ New name: %2</source>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
         <source>Similar modpack was found!</source>
-        <translation>找到了类似的模组包！</translation>
+        <translation>找到了类似的整合包！</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="25"/>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>您拥有一个或更多来自此模组包（%1）的实例。您想创建一个独立的实例，还是更新现有的实例？
+        <translation>您拥有一个或更多来自此整合包（%1）的实例。您想创建一个独立的实例，还是更新现有的实例？
 
-注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会（由于模组包的覆盖）被损坏或遗失。</translation>
+注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会（由于整合包的覆盖）损坏或遗失。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
@@ -9298,28 +9298,28 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="42"/>
         <source>Downloading modpack:
 %1</source>
-        <translation>正在下载模组包：
+        <translation>正在下载整合包：
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation>模组包下载</translation>
+        <translation>下载整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="62"/>
         <source>Extracting modpack</source>
-        <translation>正在解压模组包</translation>
+        <translation>正在解压整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="70"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>无法打开提供的模组包 zip 压缩包文件。</translation>
+        <translation>无法打开提供的整合包 zip 压缩包文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="98"/>
         <source>Failed to extract modpack</source>
-        <translation>解压模组包时失败</translation>
+        <translation>解压整合包时失败</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="125"/>
@@ -9354,7 +9354,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="70"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="72"/>
         <source>Resolving modpack files</source>
-        <translation>正在解析模组包文件</translation>
+        <translation>正在解析整合包文件</translation>
     </message>
     <message>
         <source>Downloading modpack:</source>
@@ -9364,7 +9364,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="85"/>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="109"/>
         <source>Downloading modpack</source>
-        <translation>正在下载模组包</translation>
+        <translation>正在下载整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="101"/>
@@ -9376,12 +9376,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation>正在解压模组包</translation>
+        <translation>正在解压整合包</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
         <source>Failed to extract modpack</source>
-        <translation>解压模组包时失败</translation>
+        <translation>解压整合包时失败</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="213"/>
