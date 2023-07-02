@@ -78,7 +78,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation>在此处输入 Modrinth 的自定义 API 密钥。</translation>
+        <translation>在此处输入 Modrinth 的一个自定义 API 密钥。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
@@ -123,7 +123,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation>注意：如果 CurseForge 服务已经正常工作， 您通常不需要设置此项。</translation>
+        <translation>注意：如果 CurseForge 服务已经可以正常工作， 您通常不需要设置此项。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
@@ -174,12 +174,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>找不到合适的 %1 版本</translation>
+        <translation>无法找到合适的 %1 版本</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>No loader version set for modpack!</source>
-        <translation>未在模组包中找到模组加载器版本设定！</translation>
+        <translation>没有为模组包设定模组加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="536"/>
@@ -209,7 +209,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="741"/>
         <source>Selecting optional mods...</source>
-        <translation>选择可选模组……</translation>
+        <translation>选择额外的模组……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
@@ -239,7 +239,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="896"/>
         <source>Failed to extract mods...</source>
-        <translation>解压模组失败……</translation>
+        <translation>模组解压失败……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="907"/>
@@ -277,7 +277,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是一个 Minecraft 的第三方启动器，它可以让你更便捷地管理不同版本的 Minecraft 。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是 Minecraft 的一个第三方启动器，它可以让你更便捷地管理不同版本的 Minecraft 实例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -387,19 +387,19 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation>处理中</translation>
+        <translation>正在处理</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="320"/>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation>错误</translation>
+        <translation>发生错误</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation>过期</translation>
+        <translation>已过期</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
@@ -454,12 +454,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
         <source>Account</source>
-        <translation>账户</translation>
+        <translation>账号</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation>类型</translation>
+        <translation>账户类型</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
@@ -469,12 +469,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Can Migrate?</source>
-        <translation>能否迁移？</translation>
+        <translation>能否迁移</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
         <source>Minecraft username associated with the account.</source>
-        <translation>该账户的 Minecraft 用户名。</translation>
+        <translation>该账号的 Minecraft 用户名。</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -483,23 +483,23 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
         <source>User name of the account.</source>
-        <translation>账户的用户名。</translation>
+        <translation>账号的用户名。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Type of the account - Mojang or MSA.</source>
-        <translation>账户类型—— Mojang 或微软账户。</translation>
+        <translation>Mojang 或微软账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>Current status of the account.</source>
-        <translation>账户当前的状态。</translation>
+        <translation>账号当前的状态。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
-        <translation>该账户能否迁移到微软账户？</translation>
+        <translation>该账号能否迁移到微软账户</translation>
     </message>
 </context>
 <context>
@@ -520,13 +520,13 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation>设为默认（&amp;S）</translation>
+        <translation>设为默认账号（&amp;S）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>清除默认（&amp;N）</translation>
+        <translation>清除默认账号（&amp;N）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
@@ -561,45 +561,45 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation>刷新账户信息（&amp;R）</translation>
+        <translation>刷新（&amp;R）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation>刷新账户令牌</translation>
+        <translation>刷新账号令牌</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
         <source>Accounts</source>
-        <translation>帐号</translation>
+        <translation>账号</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>欢迎！
-如果你是第一次来到这里，你可以点击“添加”按钮来添加你的 Mojang 或 Minecraft 账户。</translation>
+如果你是第一次来到这里，你可以点击“添加”按钮来添加你的 Minecraft 账号（Mojang 或微软账户）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
         <source>No Microsoft Authentication client ID was set.</source>
-        <translation>未设置微软身份验证客户端 ID。</translation>
+        <translation>未设置微软身份验证的客户端 ID。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="117"/>
         <source>Context menu</source>
-        <translation>上下文菜单</translation>
+        <translation>功能表</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>请输入你的 Mojang 账户邮箱和密码来添加账户。</translation>
+        <translation>请输入你要添加的 Mojang 账户的邮箱和密码。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation>微软账户不可用</translation>
+        <translation>微软账户目前不可用</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -607,7 +607,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>微软账户只能在 macOS 10.13 或更新的版本上使用，且完全更新 %1。
+        <translation>微软账户只能在 macOS 10.13 或更新的版本上使用，且必须将 %1 更新到最新版本。
 
 请更新您的操作系统和 %1。</translation>
     </message>
@@ -627,7 +627,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您必须先添加拥有 Minecraft 的微软或 Mojang 账户，然后才能添加离线账户。&lt;br&gt;&lt;br&gt;如果您丢失了账户，请联系微软寻求支持。</translation>
+        <translation>您必须在添加至少一个已购买 Minecraft 的微软或 Mojang 账户之后再添加离线账户。&lt;br&gt;&lt;br&gt;如果您丢失了您的账户，请联系微软寻求支持。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -637,7 +637,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation>皮肤已删除</translation>
+        <translation>删除皮肤</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -650,32 +650,32 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
-        <translation>发送请求至身份验证服务器……</translation>
+        <translation>正在发送请求至身份验证服务器……</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
         <source>Authentication task succeeded.</source>
-        <translation>身份验证任务已完成。</translation>
+        <translation>身份验证成功。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="65"/>
         <source>Failed to contact the authentication server.</source>
-        <translation>连接身份验证服务器失败。</translation>
+        <translation>未能连接上身份验证服务器。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="67"/>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation>客户端 ID 已更改。需要创建新会话。</translation>
+        <translation>客户端 ID 已更改。您需要创建新的会话。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="69"/>
         <source>Encountered an error during authentication.</source>
-        <translation>在身份验证过程中出现错误。</translation>
+        <translation>在身份验证过程中出现了错误。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="71"/>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation>认证失败。会话已过期。</translation>
+        <translation>身份验证失败，会话已过期。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
@@ -690,7 +690,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="130"/>
         <source>Unknown account task state: %1</source>
-        <translation>未知账户工作状态： %1</translation>
+        <translation>未知的账号工作状态： %1</translation>
     </message>
 </context>
 <context>
@@ -708,17 +708,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1666"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>找到了来自于 %1 的旧数据，但你已经有了属于 %2 的现存数据，因此你需要自己进行迁移。是否需要在下次启动 %2 时提醒有待处理的数据迁移？</translation>
+        <translation>找到了来自 %1 的旧数据，但正在使用来自 %2 的现存数据，因此您只能自己进行迁移。是否需要在下次启动 %2 时再次提醒有待处理的数据迁移？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation>你似乎曾经使用过 %1。是否需要将你的数据迁移到 %2 的新位置？</translation>
+        <translation>您似乎曾经使用过 %1。是否需要将您那时的数据迁移到 %2 使用的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1676"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>你似乎曾经在 %2 使用过 %1。是否需要将你的数据迁移到 %3 的新位置？</translation>
+        <translation>您似乎曾经在 %2 上用过 %1。是否需要将您那时的数据迁移到 %3 使用的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1719"/>
@@ -736,7 +736,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="28"/>
         <source>Asset index for %1</source>
-        <translation>%1 的 asset 资源索引</translation>
+        <translation>%1 的资源索引</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="46"/>
@@ -747,7 +747,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="75"/>
         <source>Failed to read the assets index!</source>
-        <translation>读取资源索引错误！</translation>
+        <translation>读取资源索引失败！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="81"/>
@@ -758,14 +758,14 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="97"/>
         <source>Failed to download the assets index:
 %1</source>
-        <translation>下载 assets 资源索引时出错：
+        <translation>下载资源索引时出错：
 %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/AssetUpdateTask.cpp" line="102"/>
         <source>Failed to download assets:
 %1</source>
-        <translation>下载 assets 资源时出错：
+        <translation>下载资源时出错：
 %1</translation>
     </message>
 </context>
@@ -810,7 +810,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
         <source>Use Share Code</source>
-        <translation>使用分享代码</translation>
+        <translation>使用分享码</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
@@ -820,17 +820,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
         <source>Select a share code</source>
-        <translation>选择要分享的代码</translation>
+        <translation>选择一个分享码</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation>分享代码：</translation>
+        <translation>分享码：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
         <source>No share code specified!</source>
-        <translation>未指定要分享的代码！</translation>
+        <translation>未指定分享码！</translation>
     </message>
 </context>
 <context>
@@ -851,7 +851,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>警告: 这是一个未完成的功能, 可能会导致你导入的模组包存在问题。</translation>
+        <translation>警告：这是一个未完成的功能，可能会使你导入的模组包出现问题。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -862,7 +862,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation>搜索和筛选……</translation>
+        <translation>搜索与筛选……</translation>
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
@@ -890,22 +890,22 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="61"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation>当前没有 Minecraft %1 版本可用</translation>
+        <translation>目前没有用于 Minecraft %1 的版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="64"/>
         <source>No versions are currently available</source>
-        <translation>当前没有版本可用</translation>
+        <translation>目前没有适用版本</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="66"/>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation>无法加载或下载版本列表！</translation>
+        <translation>无法下载或加载下载版本列表！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlUserInteractionSupportImpl.cpp" line="97"/>
         <source>Installing</source>
-        <translation>安装中</translation>
+        <translation>正在安装</translation>
     </message>
 </context>
 <context>
@@ -931,7 +931,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
-        <translation>Profiler 已终止</translation>
+        <translation>分析器已停止运作</translation>
     </message>
 </context>
 <context>
@@ -943,17 +943,17 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="166"/>
         <source>All mods found</source>
-        <translation>找到了所有模组</translation>
+        <translation>找到的所有模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="169"/>
         <source>Please download the missing mods.</source>
-        <translation>请下载缺少的模组。</translation>
+        <translation>请下载缺失的模组。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="148"/>
         <source>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; Found at %1 &lt;/span&gt;</source>
-        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; 找到 %1 &lt;/span&gt;</translation>
+        <translation>&lt;span style=&quot;color:green&quot;&gt; &amp;#x2714; 在 %1 找到 &lt;/span&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
@@ -963,7 +963,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
         <source>Add Download Folder</source>
-        <translation>添加下载目录</translation>
+        <translation>添加下载文件夹</translation>
     </message>
     <message>
         <source>Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;br/&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.</source>
@@ -972,7 +972,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="131"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>选择下载模组的目录</translation>
+        <translation>选择已下载的模组的目录</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="151"/>
@@ -991,7 +991,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您设置的全局模组文件夹和默认下载文件夹会自动检查您下载的模组，如果找到它们将被自动复制到实例。&lt;/p&gt;&lt;p&gt;或者，您可以将下载好的模组拖到此对话框中。如果您没有将模组下载到默认位置，也可以添加您下载的文件夹。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您设置的“全局模组文件夹”和“默认下载文件夹”会自动检测您下载到那的模组并自动复制到各个实例。&lt;/p&gt;&lt;p&gt;或者，您可以将下载好的模组拖到此对话框中。如果您没有将模组下载到设定的默认位置，也可以现在添加一个默认文件夹。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1017,7 +1017,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/launch/steps/CheckJava.cpp" line="77"/>
         <source>Java checker library could not be found. Please check your installation.</source>
-        <translation>未找到Java运行库，请检查是否安装了相应运行库。</translation>
+        <translation>未找到 Java checker 运行库，请检查 Java 是否正确安装。</translation>
     </message>
 </context>
 <context>
@@ -1045,12 +1045,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="66"/>
         <source>Confirm</source>
-        <translation>确定</translation>
+        <translation>确认</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="78"/>
         <source>Try to automatically use other providers if the chosen one fails</source>
-        <translation>如果创建Metadata失败，将会自动尝试其他托管平台</translation>
+        <translation>如果创建元数据失败，将会自动尝试其他托管平台</translation>
     </message>
 </context>
 <context>
@@ -1069,7 +1069,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>在依赖检测过程中检测到冲突的必要依赖项！</translation>
+        <translation>在依赖项检测过程中检测到了冲突的必需依赖项！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
@@ -1079,13 +1079,13 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>实例在运行时执行的加载/检查中发现了未解析的依赖项。</translation>
+        <translation>实例在运行时执行的加载或检查中发现了未解析的依赖项。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation>组件元数据更新失败，在从远端服务器下载时出现错误：
+        <translation>组件元数据更新失败，在从远程服务器下载时出现错误：
 %1</translation>
     </message>
 </context>
@@ -1142,12 +1142,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation>全部选定</translation>
+        <translation>全部选中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation>禁用此功能将仍然保留模组加载器（如Fabric、Quilt等），但会删除模组文件夹及其配置。</translation>
+        <translation>禁用此功能将仍然保留模组加载器（如 Fabric 、Quilt 等），但会删除模组文件夹及配置。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1162,7 +1162,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>复制游戏内选项如FOV、最大帧率。</translation>
+        <translation>复制游戏内选项如视场角、最大帧率等。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
@@ -1207,7 +1207,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation>如果选择了“复制存档”，则世界存档数据将被复制而不是链接，因此不会在实例之间共享。</translation>
+        <translation>如果选择了“复制存档”，则世界存档数据将被复制而不是链接，因此存档不会在实例之间共享。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
