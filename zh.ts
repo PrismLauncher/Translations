@@ -8883,7 +8883,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation>截图</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="324"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="322"/>
         <source>Context menu</source>
         <translation>上下文菜单</translation>
     </message>
@@ -8904,7 +8904,7 @@ Are you sure?</source>
 确认上传？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="387"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="385"/>
         <source>You are about to upload %1 screenshots to %2.
 You should double-check for personal information.
 
@@ -8915,7 +8915,7 @@ Are you sure?</source>
 您确定吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="390"/>
         <source>You are about to upload the selected screenshot to %1.
 You should double-check for personal information.
 
@@ -8926,35 +8926,35 @@ Are you sure?</source>
 您确定吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="458"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="416"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="456"/>
         <source>Failed to upload screenshots!</source>
         <translation>截图上传失败！</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="459"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="417"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="457"/>
         <source>Unknown error</source>
         <translation>未知错误</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="428"/>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="470"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="426"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="468"/>
         <source>Upload finished</source>
         <translation>上传完成</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="427"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;已自动复制到了您的剪贴板中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="471"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="469"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
         <translation>&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;已自动复制到了您的剪贴板中。</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="519"/>
         <source>You are about to delete %1 screenshots.
 This may be permanent and they will be gone from the folder.
 
@@ -8965,7 +8965,7 @@ Are you sure?</source>
 您确定吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="526"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="524"/>
         <source>You are about to delete the selected screenshot.
 This may be permanent and it will be gone from the folder.
 
@@ -8976,7 +8976,7 @@ Are you sure?</source>
 您确定吗？</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="532"/>
+        <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="530"/>
         <source>Confirm Deletion</source>
         <translation>确认删除</translation>
     </message>
