@@ -73,7 +73,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：只有您需要访问私有数据时才需要设置此项。访问&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt; 文档 &lt;/a&gt;以了解更多信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;注意：只有您需要访问私有数据时才需要设置此项。访问&lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;文档&lt;/a&gt;以了解更多信息。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
@@ -277,7 +277,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是 Minecraft 的一个第三方启动器，它可以让你更便捷地管理不同版本的 Minecraft 实例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是 Minecraft 的一个第三方启动器，它可以让您更便捷地管理不同版本的 Minecraft 实例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -417,7 +417,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation>不适用</translation>
+        <translation>无需迁移</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
@@ -459,7 +459,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Type</source>
-        <translation>账户类型</translation>
+        <translation>账号类型</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
@@ -526,7 +526,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>清除默认账号（&amp;N）</translation>
+        <translation>不设默认账号（&amp;N）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
@@ -578,7 +578,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>欢迎！
-如果你是第一次来到这里，你可以点击“添加”按钮来添加你的 Minecraft 账号（Mojang 或微软账户）。</translation>
+如果您是第一次来到这里，您可以点击“添加”按钮来添加您的 Minecraft 账号（Mojang 或微软账户）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -594,7 +594,7 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation>请输入你要添加的 Mojang 账户的邮箱和密码。</translation>
+        <translation>请输入您要添加的 Mojang 账户的邮箱和密码。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
@@ -627,7 +627,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您必须在添加至少一个已购买 Minecraft 的微软或 Mojang 账户之后再添加离线账户。&lt;br&gt;&lt;br&gt;如果您丢失了您的账户，请联系微软寻求支持。</translation>
+        <translation>您必须在添加至少一个已购买 Minecraft 的微软或 Mojang 账户之后再添加离线账户。&lt;br&gt;&lt;br&gt;如果您丢失了您的账号，请联系微软寻求支持。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -680,7 +680,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="73"/>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation>登录失败，此账户已不存在。</translation>
+        <translation>登录失败，此账号已不存在。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="75"/>
@@ -838,7 +838,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="239"/>
         <source>Are you sure that you want to enable this mod?</source>
-        <translation>你确定要启用这个模组吗？</translation>
+        <translation>您确定要启用这个模组吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="242"/>
@@ -851,7 +851,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation>警告：这是一个未完成的功能，可能会使你导入的模组包出现问题。</translation>
+        <translation>警告：这是一个未完成的功能，可能会使您导入的模组包出现问题。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -1162,7 +1162,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
         <source>Copy the in-game options like FOV, max framerate, etc.</source>
-        <translation>复制游戏内选项如视场角、最大帧率等。</translation>
+        <translation>复制游戏内选项（如视场角、最大帧率等）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="154"/>
@@ -1238,7 +1238,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="329"/>
         <source>CoW (Copy-on-Write) Options</source>
-        <translation>写时拷贝 (Copy-on-Write) 选项</translation>
+        <translation>写时拷贝（Copy-on-Write）选项</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="338"/>
@@ -1253,12 +1253,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>您的文件系统或操作系统不支持引用链接</translation>
+        <translation>您的文件系统和/或操作系统不支持引用链接</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
         <source>Copy shader packs</source>
-        <translation>复制光影</translation>
+        <translation>复制光影包</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
@@ -1273,7 +1273,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="124"/>
         <source>Keep play time</source>
-        <translation>保留游玩时间</translation>
+        <translation>保持游玩时间</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
@@ -1283,7 +1283,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
         <source>No group</source>
-        <translation>没有群组</translation>
+        <translation>清除组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
@@ -1314,7 +1314,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/CreateGameFolders.cpp" line="18"/>
         <source>Couldn&apos;t create the main game folder</source>
-        <translation>无法创建主游戏文件夹</translation>
+        <translation>无法创建游戏主文件夹</translation>
     </message>
 </context>
 <context>
@@ -1329,13 +1329,13 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation>后执行命令（&amp;O）：</translation>
+        <translation>退出后命令（&amp;O）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation>预执行命令（&amp;P）：</translation>
+        <translation>预启动命令（&amp;P）：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
@@ -1347,7 +1347,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;预执行命令会在实例开始之前运行，后执行命令会在实例结束之后运行。&lt;/p&gt;&lt;p&gt;它们均会在启动器的工作目录执行，并带有以下额外环境变量：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 实例名&lt;/li&gt;&lt;li&gt;$INST_ID - 实例 ID (其文件夹名)&lt;/li&gt;&lt;li&gt;$INST_DIR - 实例的绝对路径&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的绝对路径&lt;/li&gt;&lt;li&gt;$INST_JAVA - 运行所使用的 Java 可执行文件&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 运行所使用命令行参数&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包装命令允许使用一个额外的包装程序来运行游戏（例如 Linux 上的 &quot;optirun&quot;）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;预启动命令会在实例启动之前运行，退出后命令会在实例退出之后运行。&lt;/p&gt;&lt;p&gt;它们均会在启动器的工作目录运行，并带有以下额外环境变量：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME——实例名&lt;/li&gt;&lt;li&gt;$INST_ID——实例 ID（其所在文件夹名）&lt;/li&gt;&lt;li&gt;$INST_DIR——实例文件夹的绝对路径&lt;/li&gt;&lt;li&gt;$INST_MC_DIR—— Minecraft 的绝对路径&lt;/li&gt;&lt;li&gt;$INST_JAVA——运行所使用的 Java 可执行文件&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS——运行所使用的命令行参数&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包装命令允许使用一个额外的包装程序来运行游戏（例如 Linux 上的“optirun”）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1462,12 +1462,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
         <source>Failed to scan source path.</source>
-        <translation>扫描源路径失败。</translation>
+        <translation>无法扫描源路径。</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation>复制 %1 中…</translation>
+        <translation>复制 %1 中……</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
@@ -1486,14 +1486,14 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="76"/>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation>包装命令”%1“无法找到。</translation>
+        <translation>找不到包装命令“%1”。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="109"/>
         <source>Could not launch Minecraft!</source>
         <oldsource>Could not launch minecraft!</oldsource>
         <extracomment>Error message displayed if instance can&apos;t start</extracomment>
-        <translation>无法启动 Minecraft！</translation>
+        <translation>无法启动 Minecraft ！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
@@ -1530,24 +1530,24 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="161"/>
         <source>Requesting metadata information from %1...</source>
-        <translation>正在向 %1 获取元数据信息……</translation>
+        <translation>正在向 %1 获取模组元数据信息……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="163"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation>正在向 %1 获取“ %2 ”的元数据信息……</translation>
+        <translation>正在向 %1 获取“%2”的元数据信息……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="242"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="331"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation>正在处理 Modrinth“%1”的 API 响应……</translation>
+        <translation>正在处理 Modrinth 对“%1”的 API 响应……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="398"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="465"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>正在分析“ %1 ”的 CurseForge API 返回数据……</translation>
+        <translation>正在处理 CurseForge 对“%1”的 API 响应……</translation>
     </message>
 </context>
 <context>
@@ -1555,12 +1555,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="15"/>
         <source>Determining game ownership.</source>
-        <translation>正在检查你是否购买了游戏。</translation>
+        <translation>正在检查您是否已购买游戏。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="51"/>
         <source>Got entitlements</source>
-        <translation>已经购买过游戏了</translation>
+        <translation>已购买过游戏</translation>
     </message>
 </context>
 <context>
@@ -1568,7 +1568,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation>导出实例</translation>
+        <translation>导出该实例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
@@ -1611,7 +1611,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation>总结</translation>
+        <translation>简介</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.ui" line="39"/>
@@ -1651,7 +1651,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>The task has been aborted by the user.</source>
-        <translation>任务已被用户终止。</translation>
+        <translation>任务被用户终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="113"/>
@@ -1719,7 +1719,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation>在文件资源管理器中打开“config“文件夹。</translation>
+        <translation>在文件资源管理器中打开“config”文件夹。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
@@ -1750,7 +1750,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
         <source>Context menu</source>
-        <translation>上下文菜单</translation>
+        <translation>功能表</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="204"/>
@@ -1764,10 +1764,10 @@ Please update both your operating system and PolyMC.</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>你即将删除 %1 项项目。
-这可能是永久性的且它们将从文件夹被永久删除。
+        <translation>您即将删除 %1 项项目。
+这可能是永久性的，如果是，它们将被从文件夹永久删除。
 
-你确定吗？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="242"/>
@@ -1775,10 +1775,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation>你即将删除文件夹“%1”。
-这可能是永久性的且它将从父文件夹被永久删除。
+        <translation>您即将删除文件夹“%1”。
+这可能是永久性的，如果是，它将被从父文件夹永久删除。
 
-你确定吗？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
@@ -1803,7 +1803,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation>检查</translation>
+        <translation>检查安装</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
@@ -2163,7 +2163,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="346"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;您好！ &lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎为空。这是因为旧版本启动器中存在错误。 &lt;br/&gt;如果没有此信息，我们将无法执行正确的 API 请求。 &lt;br/&gt;&lt;br/&gt;所以为了使此功能正常工作， 您需要从内置下载器重新下载模组包。 &lt;br/&gt;&lt;br/&gt;下载器会要求您更新此实例，所以您不必担心会丢失此实例！ &lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;您好！ &lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎为空。这是因为旧版本启动器中存在错误。 &lt;br/&gt;如果没有此信息，我们将无法执行正确的 API 请求。 &lt;br/&gt;&lt;br/&gt;所以为了使此功能正常工作， 您需要用内置下载器重新下载模组包。 &lt;br/&gt;&lt;br/&gt;下载器会要求您更新此实例，所以您不必担心会丢失此实例！ &lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="408"/>
@@ -2232,7 +2232,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>注意：CurseForge 允许作者阻止从 Prism Launcher 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些模组才能安装整合包。</translation>
+        <translation>注意：CurseForge 允许创作者阻止从 Prism Launcher 等第三方应用中访问他们的作品。因此，您可能需要手动下载一些模组才能安装整合包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2530,12 +2530,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher / PolyMC / MultiMC 导出的实例（ZIP）</translation>
+        <translation>- Prism Launcher、PolyMC 或 MultiMC 导出的实例（ZIP）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technic 模组包（ZIP）</translation>
+        <translation>- Technic 整合包（ZIP）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -2578,12 +2578,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>选择你想要导入此资源包的实例。</translation>
+        <translation>选择您想要导入此资源包的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>选择你想导入这个%1的实例。</translation>
+        <translation>选择您想把 %1 导入的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -3025,12 +3025,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="614"/>
         <source>Override default account</source>
-        <translation>覆盖默认账户</translation>
+        <translation>覆盖默认账号</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="634"/>
         <source>Account:</source>
-        <translation>账户：</translation>
+        <translation>账号：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="368"/>
@@ -3052,22 +3052,22 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="497"/>
         <source>Enable Feral GameMode</source>
-        <translation>启用 GameMode</translation>
+        <translation>启用 Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="504"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用MangoHud支持。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 MangoHud 的高级性能覆盖。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="507"/>
         <source>Enable MangoHud</source>
-        <translation>启动MangoHud</translation>
+        <translation>启用 MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="514"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独立显卡以替代主显卡进行渲染。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代主显卡（适用于双显卡用户）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="517"/>
@@ -3107,12 +3107,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>你的系统上找不到 Feral Interactive 的 GameMode。</translation>
+        <translation>无法在您的系统上找到 Feral Interactive 的 GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="374"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>你的系统上找不到 MangoHud。</translation>
+        <translation>在您的系统上找不到 MangoHud 。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="398"/>
@@ -3301,7 +3301,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="266"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>如果启用该选项，那么在找不到 Java 的时候启动器将不会提示你选择 Java 版本。</translation>
+        <translation>如果启用该选项，那么在找不到 Java 的时候启动器将不会提示您选择 Java 版本。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="269"/>
@@ -3360,11 +3360,11 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>你没有选择 Java 或选择了无效的 Java。
+        <translation>您没有选择 Java 或选择了无效的 Java。
 %1 将无法启动 Minecraft。
-你想在没有 Java 的情况下继续吗？
+您想在没有任何 Java 版本的情况下继续吗？
 
-你可以稍后在设置中修改 Java 版本。
+您可以稍后在设置中修改 Java 版本。
 </translation>
     </message>
     <message>
@@ -3448,7 +3448,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>没有找到你的语言或翻译质量不尽人意？&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;帮助我们翻译吧！&lt;/a&gt;</translation>
+        <translation>没有找到您使用的语言或翻译质量不尽人意？&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;来帮助我们翻译吧！&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3479,23 +3479,23 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="95"/>
         <source>No Accounts</source>
-        <translation>无账户</translation>
+        <translation>无账号</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation>要玩 Minecraft，你必须至少登录一个微软或 Mojang 账户。Mojang 账号只能离线使用。您想现在打开账户管理添加一个账户吗？</translation>
+        <translation>要玩 Minecraft，您必须至少登录一个微软或 Mojang 账户。Mojang 账户只能离线使用。您想现在打开账号管理添加一个账号吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
         <source>Which account would you like to use?</source>
-        <translation>你想使用哪个账户？</translation>
+        <translation>您想使用哪个账号？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="152"/>
         <source>No account selected for launch.</source>
-        <translation>没有选中用于启动游戏的账户。</translation>
+        <translation>没有选中用于启动游戏的账号。</translation>
     </message>
     <message>
         <source>Your account is currently not logged in. Please enter your password to log in again. &lt;br /&gt; &lt;br /&gt; This could be caused by a password change.</source>
@@ -3509,7 +3509,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="166"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>在 %1 次尝试后，我们似乎仍无法启动。 你想继续尝试吗？</translation>
+        <translation>在 %1 次尝试后，我们似乎仍无法启动。您想继续尝试吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -3542,8 +3542,8 @@ Please select one of the following or browse for a java executable.</oldsource>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation>此账户并不拥有 Minecraft。
-你需要先购买该游戏才能正常游玩。
+        <translation>这个账号还未购买 Minecraft。
+您需要先购买该游戏才能正常游玩。
 
 是否游玩演示模式？</translation>
     </message>
@@ -3560,7 +3560,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="261"/>
         <source>Launch cancelled - account does not own Minecraft.</source>
-        <translation>启动已取消 - 账户未持有 Minecraft。</translation>
+        <translation>启动已取消——账号未购买 Minecraft。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="277"/>
@@ -3570,17 +3570,17 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>账户已过期，需要手动重新登录。</translation>
+        <translation>账号已过期，需要手动重新登录。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="293"/>
         <source>Account refresh failed</source>
-        <translation>账户刷新失败</translation>
+        <translation>账号刷新失败</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="302"/>
         <source>The launcher&apos;s client identification has changed. Please remove this account and add it again.</source>
-        <translation>启动器的客户端标识已更改。请删除此账户，然后重新添加。</translation>
+        <translation>启动器的客户端标识已更改。请删除此账号，然后重新添加。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="305"/>
@@ -3590,12 +3590,12 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>服务器上不再存在该账户。它可能已迁移，在这种情况下，请添加您迁移到的新账户。</translation>
+        <translation>服务器上不再存在该账号。它可能已迁移，在这种情况下，请添加您迁移到的新账号。</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="317"/>
         <source>Account gone</source>
-        <translation>账户遗失了</translation>
+        <translation>账号不存在</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="327"/>
@@ -3629,7 +3629,7 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>游戏启动会延迟，直到你按下按钮。现在分析器服务器正在运行，所以你应该在此时设置分析器。
+        <translation>游戏启动会延迟，直到您按下按钮。但此时分析器服务器正在运行，您应该在此时设置分析器。
 
 %1</translation>
     </message>
@@ -3820,7 +3820,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;： 禁用模组元数据可能也会禁用一些方便功能，例如模组更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;： 禁用模组元数据可能也会禁用一些方便的功能，例如模组更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Breeze Light</source>
@@ -3898,7 +3898,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="271"/>
         <source>The menubar is more friendly for keyboard-driven interaction.</source>
-        <translation>对键盘交互更友好的菜单栏。</translation>
+        <translation>菜单栏对于键盘交互更加友好。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="274"/>
@@ -3965,12 +3965,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation>你试图指定的实例文件夹路径包含至少一个“!”字符。Java 在这种情况下会出现问题，你的实例（可能）无法运行！</translation>
+        <translation>您试图指定的实例文件夹路径包含至少一个“!”字符。Java 在这种情况下会出现问题，您的实例（可能）无法运行！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>你真的想使用这个路径吗？选择“否”将会关闭且不会替换你的实例路径。</translation>
+        <translation>您真的想使用这个路径吗？选择“否”将会关闭且不会替换您的实例路径。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
@@ -3982,7 +3982,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation>你正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
+        <translation>您正在尝试把一个实例的目录设置到一个 Flatpak 的临时目录上。
 这很可能会造成问题。重启后启动器可能会损坏，因为它不再能访问到该文件夹。
 
 我们推荐通过 Flatseal 授权 %1。</translation>
@@ -3990,7 +3990,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
         <source>Do you want to proceed anyway?</source>
-        <translation>你还想继续吗？</translation>
+        <translation>您还想继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="154"/>
@@ -4316,8 +4316,8 @@ You&apos;ll have to correct this problem manually.</source>
         <translation>一些被标记为“本地”的包缺失文件。
 %1
 
-你需要添加这些文件，或删除要求这些文件的包。
-你必须手动修正这个问题。</translation>
+您需要添加这些文件，或删除要求这些文件的包。
+您必须手动修正这个问题。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
@@ -4374,7 +4374,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>上传日志到 paste.ee - 只会保留一个月</translation>
+        <translation>上传日志到 paste.ee ——只会保留一个月</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -4454,7 +4454,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation>添加账户</translation>
+        <translation>添加账号</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="39"/>
@@ -4495,7 +4495,7 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="90"/>
         <source>Microsoft user authentication failed - client identification has changed.</source>
-        <translation>Microsoft 账户身份验证失败 - 客户端标识已更改。</translation>
+        <translation>Microsoft 账户身份验证失败——客户端标识已更改。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="127"/>
@@ -4505,12 +4505,12 @@ Reason:
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="133"/>
         <source>Microsoft user authentication ended with a network error.</source>
-        <translation>微软账户认证时遇到了网络错误。</translation>
+        <translation>微软账户认证因网络错误终止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="138"/>
         <source>Microsoft user authentication failed - user no longer exists.</source>
-        <translation>微软用户身份验证失败 - 用户不再存在。</translation>
+        <translation>微软用户身份验证失败——用户不再存在。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MSAStep.cpp" line="143"/>
@@ -4829,7 +4829,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="316"/>
         <source>&amp;Manage Accounts...</source>
-        <translation>账户管理（&amp;M）……</translation>
+        <translation>账号管理（&amp;M）……</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="257"/>
@@ -4919,7 +4919,7 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.ui" line="700"/>
         <source>%1 &amp;Help</source>
         <oldsource>%1 He&amp;lp</oldsource>
-        <translation>%1 &amp;帮助（&amp;H）</translation>
+        <translation>%1 帮助（&amp;H）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="703"/>
@@ -5220,7 +5220,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="500"/>
         <source>No accounts added!</source>
-        <translation>未添加账户！</translation>
+        <translation>未添加账号！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="758"/>
@@ -5230,7 +5230,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="512"/>
         <source>No Default Account</source>
-        <translation>取消默认账户</translation>
+        <translation>不设置默认账号</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="515"/>
@@ -5272,8 +5272,8 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1017"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation>启动器无法在没有账户添加的情况下下载 Minecraft 或更新实例。
-请添加你的 Mojang 或微软账户。</translation>
+        <translation>启动器无法在没有账号添加的情况下下载 Minecraft 或更新实例。
+请添加您的 Mojang 或微软账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1201"/>
@@ -5293,7 +5293,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1223"/>
         <source>Are you sure you want to delete the group %1?</source>
-        <translation>你确定要移除实例组 %1 吗？</translation>
+        <translation>您确定要移除实例组 %1 吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1327"/>
@@ -5303,7 +5303,7 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1328"/>
         <source>%1 was successfully added to your PATH. You can now start it by running `%2`.</source>
-        <translation>%1 已成功被添加至你的 PATH。你现在可以通过运行 `%2` 来启动它。</translation>
+        <translation>%1 已成功被添加至您的 PATH。您现在可以通过运行 `%2` 来启动它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1331"/>
@@ -5333,7 +5333,7 @@ Are you sure?</oldsource>
         <translation>将要删除：“%1”
 这将永久删除此实例。
 
-你确定吗？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1389"/>
@@ -5442,27 +5442,27 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1730"/>
         <source>Your instance folder contains &apos;!&apos; and this is known to cause Java problems!</source>
-        <translation>你的实例文件夹包含“!”符号，这可能会导致 Java 出现问题！</translation>
+        <translation>您的实例文件夹包含“!”符号，这可能会导致 Java 出现问题！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1732"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation>你现在有两个选项可选：&lt;br/&gt; - 在设置中修改实例文件夹 &lt;br/&gt; - 将 %1 移动至其他文件夹</translation>
+        <translation>您现在有两个选项可选：&lt;br/&gt; - 在设置中修改实例文件夹 &lt;br/&gt; - 将 %1 移动至其他文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1741"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation>这问题不小：&lt;br/&gt; - 操作系统可能会在没有事先警告的情况下自动删除此启动器 &lt;br/&gt; - 马上关闭启动器并将启动器解压至其他目录，而非临时文件夹</translation>
+        <translation>发现一个问题：&lt;br/&gt; - 操作系统可能会在没有事先警告的情况下自动删除此启动器 &lt;br/&gt; - 马上关闭启动器并将启动器解压至其他目录，而非临时文件夹</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1748"/>
         <source>Your instance folder contains &apos;Rar$&apos; - that means you haven&apos;t extracted the launcher archive!</source>
-        <translation>你的实例文件夹包含“Rar$”——这意味着你并未解压启动器压缩包！</translation>
+        <translation>您的实例文件夹包含“Rar$”——这意味着您并未解压启动器压缩包！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1756"/>
         <source>Your instance folder is in a temporary folder: &apos;%1&apos;!</source>
-        <translation>你的实例文件夹位于临时文件夹：%1 中！</translation>
+        <translation>您的实例文件夹位于临时文件夹：%1 中！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1769"/>
@@ -5484,13 +5484,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="195"/>
         <source>&amp;Accounts</source>
-        <translation>账户（&amp;A）</translation>
+        <translation>账号（&amp;A）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="691"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="836"/>
         <source>Accounts</source>
-        <translation>账户</translation>
+        <translation>账号</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -5752,32 +5752,32 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="225"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive 的 GameMode，可能会提高游戏效能。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 Feral Interactive 的 GameMode，可能会提高游戏性能。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="228"/>
         <source>Enable Feral GameMode</source>
-        <translation>启动 Feral GameMode</translation>
+        <translation>启用 Feral GameMode</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="235"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用MangoHud支持。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;启用 MangoHud 的高级性能覆盖。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="238"/>
         <source>Enable MangoHud</source>
-        <translation>启用MangoHud</translation>
+        <translation>启用 MangoHud</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="245"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显以替代主显卡（适用于双显卡用户）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;使用独显替代主显卡（适用于双显卡用户）。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="248"/>
         <source>Use discrete GPU</source>
-        <translation>使用独立显卡</translation>
+        <translation>使用独显</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="117"/>
@@ -5839,12 +5839,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="126"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>你的系统上找不到 Feral Interactive 的 GameMode。</translation>
+        <translation>无法在您的系统上找到 Feral Interactive 的 GameMode。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="131"/>
         <source>MangoHud could not be found on your system.</source>
-        <translation>你的系统上找不到 MangoHud。</translation>
+        <translation>无法在您的系统上找到 MangoHud 。</translation>
     </message>
 </context>
 <context>
@@ -5852,18 +5852,18 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="17"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation>获取 Minecraft 个人资料中。</translation>
+        <translation>正在获取 Minecraft 档案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="54"/>
         <source>Account has no Minecraft profile.</source>
-        <translation>此账户没有 Minecraft 个人资料。</translation>
+        <translation>此账号没有 Minecraft 档案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="70"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="76"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>Minecraft Java 配置文件获取失败：%1</translation>
+        <translation>Minecraft Java 版档案获取失败：%1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -5872,12 +5872,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="85"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>Minecraft Java 版个人资料响应无法解析</translation>
+        <translation>获取 Minecraft Java 版档案时收到的响应无法解析</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp" line="97"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Minecraft Java 版个人资料获取成功。</translation>
+        <translation>Minecraft Java 版档案获取成功。</translation>
     </message>
 </context>
 <context>
@@ -5885,23 +5885,23 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="17"/>
         <source>Fetching the Minecraft profile.</source>
-        <translation>获取 Minecraft 个人资料中。</translation>
+        <translation>获取 Minecraft 档案中。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="23"/>
         <source>A UUID is required to get the profile.</source>
-        <translation>必须为该配置文件指定一个 UUID。</translation>
+        <translation>必须指定一个 UUID。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="57"/>
         <source>Account has no Minecraft profile.</source>
-        <translation>此账户没有 Minecraft 个人资料。</translation>
+        <translation>此账号没有 Minecraft 档案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="73"/>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="79"/>
         <source>Minecraft Java profile acquisition failed: %1</source>
-        <translation>Minecraft Java 配置文件获取失败：%1</translation>
+        <translation>Minecraft Java 版档案获取失败：%1</translation>
     </message>
     <message>
         <source>Minecraft Java profile acquisition failed.</source>
@@ -5910,12 +5910,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="88"/>
         <source>Minecraft Java profile response could not be parsed</source>
-        <translation>Minecraft Java 版个人资料响应无法解析</translation>
+        <translation>获取 Minecraft Java 版档案时收到的响应无法解析</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/MinecraftProfileStepMojang.cpp" line="100"/>
         <source>Minecraft Java profile acquisition succeeded.</source>
-        <translation>Minecraft Java 版个人资料获取成功。</translation>
+        <translation>Minecraft Java 版档案获取成功。</translation>
     </message>
 </context>
 <context>
@@ -6231,7 +6231,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="207"/>
         <source>All selected mods are up-to-date! :)</source>
-        <translation>所选模组均为最新版本！ :)</translation>
+        <translation>选中模组均为最新版本！ :)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="210"/>
@@ -6241,7 +6241,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="202"/>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation>“ %1 ”已更新至最新版本！:)</translation>
+        <translation>“%1”已更新至最新版本！:)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="205"/>
@@ -6397,7 +6397,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="74"/>
         <source>Could not generate metadata for the following mods:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>无法为以下模组生成Metadata：&lt;br&gt;你想在不包含这些模组的情況下继续吗？</translation>
+        <translation>无法为以下模组生成Metadata：&lt;br&gt;您想在不包含这些模组的情況下继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="88"/>
@@ -6467,7 +6467,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="170"/>
         <source>Could not check or get the following mods for updates:&lt;br&gt;Do you wish to proceed without those mods?</source>
-        <translation>无法获取以下模组更新：&lt;br&gt;你想在不包含这些模组的情況下继续吗？</translation>
+        <translation>无法获取以下模组更新：&lt;br&gt;您想在不包含这些模组的情況下继续吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="207"/>
@@ -6739,7 +6739,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="332"/>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
-        <translation>这个模组包中的一个或多个模组是可选的。它们会被下载，但默认禁用！</translation>
+        <translation>这个模组包中的一些模组是可选的。它们会被下载，但默认禁用！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="375"/>
@@ -7143,7 +7143,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="20"/>
         <source>Add Account</source>
-        <translation>添加账户</translation>
+        <translation>添加账号</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="42"/>
@@ -7153,7 +7153,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="49"/>
         <source>Usernames longer than 16 characters cannot be used for LAN games or offline-mode servers.</source>
-        <translation>超过 16 个字符的用户名不能用于在线游戏或离线服务器。</translation>
+        <translation>超过 16 个字符的用户名不能用于局域网联机或离线（关闭正版验证的）服务器。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/OfflineLoginDialog.ui" line="52"/>
@@ -7205,7 +7205,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>上传日志到 paste.ee - 只会保留一个月.</translation>
+        <translation>上传日志到 paste.ee ——只会保留一个月.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
@@ -7242,7 +7242,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="173"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation>文件（%1）太大了。你可能需要在一个为大文件优化过的查看器里面打开它。</translation>
+        <translation>文件（%1）太大了。您可能需要用一个为大文件优化过的查看器打开。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
@@ -7263,7 +7263,7 @@ Are you sure?</source>
         <translation>将要删除：“%1”。
 这可能将其从日志文件夹中永久删除。
 
-你确定吗？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
@@ -7273,13 +7273,13 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="258"/>
         <source>Are you sure you want to delete all log files?</source>
-        <translation>你确定要删除所有日志文件吗？</translation>
+        <translation>您确定要删除所有日志文件吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="263"/>
         <source>Are you sure you want to delete all these files?
 %1</source>
-        <translation>你确定要将这些文件全部删除吗？
+        <translation>您确定要将这些文件全部删除吗？
 %1</translation>
     </message>
     <message>
@@ -7400,7 +7400,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
         <source>Use new default service</source>
-        <translation>使用新的默认服务</translation>
+        <translation>使用新服务的默认设置</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="50"/>
@@ -7467,22 +7467,22 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="14"/>
         <source>Select an Account</source>
-        <translation>选择一个账户</translation>
+        <translation>选择一个账号</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="20"/>
         <source>Select a profile.</source>
-        <translation>选择一个账户。</translation>
+        <translation>选择一个档案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="38"/>
         <source>Use as default?</source>
-        <translation>用作默认？</translation>
+        <translation>用作默认账号</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.ui" line="45"/>
         <source>Use as default for this instance only?</source>
-        <translation>仅对本实例用作默认？</translation>
+        <translation>仅用于本实例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSelectDialog.cpp" line="41"/>
@@ -7508,34 +7508,34 @@ Error message: %3</source>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation>只差最后一步就可在此账户上玩 Minecraft 了。
+        <translation>只差最后一步就可在此账号上玩 Minecraft 了。
 
-请慎重选择你的游戏名称：</translation>
+请慎重选择您在游戏里的名称：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
-        <translation>名称太短 - 长度必须介于 3 到 16 个字符之间。</translation>
+        <translation>名称太短——长度必须介于 3 到 16 个字符之间。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="184"/>
         <source>Minecraft profile with name %1 already exists.</source>
-        <translation>名为 %1 的 Minecraft 用户名已存在。</translation>
+        <translation>名为 %1 的 Minecraft 档案已存在。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="187"/>
         <source>The name %1 is not allowed.</source>
-        <translation>不允许使用此名称。（%1）.</translation>
+        <translation>不允许将“%1”作为名称。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="190"/>
         <source>Unhandled profile name status: %1</source>
-        <translation>未处理的个人资料名称状态：%1</translation>
+        <translation>无法处理的个人档案状态：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="194"/>
         <source>Failed to check name availability.</source>
-        <translation>检查名称可用性失败。</translation>
+        <translation>无法检查名称可用性。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="271"/>
@@ -7589,7 +7589,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="61"/>
         <source>Uses your system&apos;s default proxy settings.</source>
-        <translation>使用你的系统的默认代理设置。</translation>
+        <translation>使用您系统中的默认代理设置。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
@@ -7726,10 +7726,10 @@ Choose your name carefully:</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>将“%1”上传到“%2”。
+        <translation>即将将“%1”上传到“%2”。
 您应该再次检查个人信息。
 
-确认上传？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="89"/>
@@ -7744,7 +7744,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="101"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;到上传的日志的链接&lt;/a&gt;已经放到了你的剪贴板中。</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;到上传的日志的链接&lt;/a&gt;已自动复制到了您的剪贴板中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
@@ -7761,7 +7761,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="314"/>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二进制文件无法使用你提供的参数工作：&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法使用您提供的参数工作：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="325"/>
@@ -7825,7 +7825,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>无法确定主 Jar 的网址 - Mojang 删除了我们用作备份的服务器。</translation>
+        <translation>无法确定主 Jar 的网址—— Mojang 删除了我们用作备份的服务器。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="304"/>
@@ -7879,7 +7879,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="464"/>
         <source>No profile (%1)</source>
-        <translation>没有个人资料（%1）</translation>
+        <translation>没有档案（%1）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountData.cpp" line="477"/>
@@ -7973,9 +7973,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation>你正在尝试手动设置 JVM 内存选项（使用“-XX:PermSize”，-XX-MaxHeapSize&quot;， &quot;-XX:InitialHeapSize&quot;，“-Xmx”或“-Xms”选项）。
-这些选项已包含在设置（Java - 内存）中，你无需手动设置。
-此信息将一直显示，直到你删除这些 JVM 参数。</translation>
+        <translation>您正在尝试手动设置 JVM 内存选项（使用“-XX:PermSize”，-XX-MaxHeapSize&quot;， &quot;-XX:InitialHeapSize&quot;，“-Xmx”或“-Xms”选项）。
+这些选项已包含在设置（“Java”栏，顶端的“内存”分组）中，您无需手动设置。
+此信息将一直显示，直到您删除这些 JVM 参数。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="52"/>
@@ -7987,8 +7987,8 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="59"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation>您试图通过 JVM 参数指定所需的 Java 版本（使用“-version=xxx”），这并不安全也将不被允许。
-在你移除这条 JVM 参数前这条消息将会保持显示。</translation>
+        <translation>您试图通过 JVM 参数指定所需的 Java 版本（使用“-version=xxx”），这并不安全也不被允许。
+此信息将一直显示，直到您删除这些 JVM 参数。</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
@@ -8004,13 +8004,13 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="91"/>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二进制文件无法使用你提供的参数工作：&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法使用您提供的参数工作：&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation>指定的 Java 二进制文件无法工作。&lt;br /&gt;你应该使用自动检测功能，或者设置 Java 可执行文件的路径。&lt;br /&gt;</translation>
+        <translation>指定的 Java 二进制文件无法工作。&lt;br /&gt;您应该使用自动检测功能，或者设置 Java 可执行文件的路径。&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
@@ -8078,7 +8078,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation>该实例的名称似乎包含旧版本。 你想更新它吗？
+        <translation>该实例的名称似乎包含旧版本。 您想更新它吗？
 
 旧名称: %1
 新名称: %2</translation>
@@ -8093,9 +8093,9 @@ New name: %2</source>
         <source>One or more of your instances are from this same modpack%1. Do you want to create a separate instance, or update the existing one?
 
 NOTE: Make sure you made a backup of your important instance data before updating, as worlds can be corrupted and some configuration may be lost (due to pack overrides).</source>
-        <translation>你拥有一个或更多的实例来自此模组包%1。你想创建一个单独实例，还是更新现有的实例？
+        <translation>您拥有一个或更多来自此模组包（%1）的实例。您想创建一个独立的实例，还是更新现有的实例？
 
-注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会因模组包覆盖而被损坏或遗失。</translation>
+注意：在更新实例前请确保备份了实例的重要数据，游戏数据与配置文件可能会（由于模组包的覆盖）被损坏或遗失。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="30"/>
@@ -8880,7 +8880,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="76"/>
         <source>Screenshots</source>
-        <translation>截屏</translation>
+        <translation>截图</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="324"/>
@@ -8910,9 +8910,9 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>您即将上传 %1 张截图到 %2 。
-请仔细检查个人信息。
+请再次仔细检查个人信息。
 
-确定要上传吗？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="392"/>
@@ -8923,13 +8923,13 @@ Are you sure?</source>
         <translation>您即将上传选中的截图到 %1 。
 请仔细检查个人信息。
 
-确定要上传吗？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="418"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="458"/>
         <source>Failed to upload screenshots!</source>
-        <translation>截屏上传失败！</translation>
+        <translation>截图上传失败！</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="419"/>
@@ -8946,12 +8946,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="429"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;已经放到了你的剪贴板中。</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;已自动复制到了您的剪贴板中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="471"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;已经放到了你的剪贴板中。</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;上传的截图链接&lt;/a&gt;已自动复制到了您的剪贴板中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="521"/>
@@ -8959,10 +8959,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation>将要删除：%1张截图。
+        <translation>即将删除%1张截图。
 这可能将其从文件夹中永久删除。
 
-确认删除？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="526"/>
@@ -8970,10 +8970,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>将要删除：已选择的截图。
+        <translation>即将删除选中的截图。
 这可能将其从文件夹中永久删除。
 
-确认删除？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="532"/>
@@ -9103,10 +9103,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>将要删除：“%1”
-该服务器将从你的服务器列表永久删除（真的很久）。
+        <translation>即将删除：“%1”
+该服务器将从您的服务器列表永久删除（真的很久）。
 
-确认删除？</translation>
+您确定吗？</translation>
     </message>
 </context>
 <context>
@@ -9246,7 +9246,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="95"/>
         <source>You cannot use an invalid URL for uploading skins.</source>
-        <translation>你不能使用无效的网址来上传皮肤。</translation>
+        <translation>您不能使用无效的网址来上传皮肤。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.cpp" line="110"/>
@@ -9627,7 +9627,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation>选择你想要使用的主题</translation>
+        <translation>选择您想要使用的主题</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
@@ -10113,7 +10113,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="311"/>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation>无法加载实例配置文件。</translation>
+        <translation>无法加载实例配置。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="332"/>
@@ -10129,7 +10129,7 @@ Are you sure?</source>
         <translation>将要删除：“%1”
 这将永久删除自定义组件。
 
-确认删除？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="346"/>
@@ -10205,8 +10205,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="491"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation>启动器无法在没有账户添加的情况下下载 Minecraft 或更新实例。
-请添加你的 Mojang 或 Microsoft 账户。</translation>
+        <translation>启动器无法在没有任何账号添加的情况下下载 Minecraft 或更新实例。
+请添加您的 Mojang 或微软账户。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="745"/>
@@ -10219,10 +10219,10 @@ Please add your Mojang or Minecraft account.</source>
 This is permanent and will completely revert your customizations.
 
 Are you sure?</source>
-        <translation>将要还原：“%1”。
-这将永久还原你的自定义内容。
+        <translation>即将重置：“%1”。
+这将永久还原您更改过的内容。
 
-确认还原？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <source>PolyMC cannot download Minecraft or update instances unless you have at least one account added.
@@ -10573,7 +10573,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="140"/>
         <source>Remove world icon to make the game re-generate it on next load.</source>
-        <translation>删除世界图标以便游戏在下次加载时重新生成图标。</translation>
+        <translation>删除世界图标使游戏在下次加载时重新生成图标。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.ui" line="145"/>
@@ -10628,8 +10628,8 @@ Do you want to continue?</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="314"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation>你没有设置好 MCEdit 或者它的路径变了。
-你可以在全局设置里面设置它。</translation>
+        <translation>您没有设置好 MCEdit 的路径或它被移动了。
+您可以在全局设置里面设置它。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
@@ -10676,10 +10676,10 @@ Do you wish to proceed?</source>
 The world may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation>将要删除：“%1”。
-你的世界将会永久失去（真的很久）。
+        <translation>即将删除：“%1”。
+您的世界将会永久失去（真的很久）。
 
-确认删除？</translation>
+您确定吗？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
@@ -10754,7 +10754,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="141"/>
         <source>This Microsoft account does not have an XBox Live profile. Buy the game on %1 first.</source>
-        <translation>此微软账户没有 Xbox Live 个人资料。请先在 %1 购买游戏。</translation>
+        <translation>此微软账户没有 Xbox Live 档案。请先在 %1 购买游戏。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="150"/>
@@ -10785,7 +10785,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="18"/>
         <source>Fetching Xbox profile.</source>
-        <translation>正在获取 Xbox 个人资料。</translation>
+        <translation>正在获取 Xbox 档案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="63"/>
@@ -10800,7 +10800,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxProfileStep.cpp" line="77"/>
         <source>Got Xbox profile</source>
-        <translation>成功获取 Xbox 个人资料</translation>
+        <translation>成功获取 Xbox 档案</translation>
     </message>
 </context>
 <context>
@@ -10851,12 +10851,12 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="215"/>
         <source>Authentication server didn&apos;t send a selected profile.</source>
-        <translation>身份验证服务器未发送选定的用户。</translation>
+        <translation>身份验证服务器未发送选定的档案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="230"/>
         <source>Authentication server didn&apos;t send a UUID in selected profile.</source>
-        <translation>身份验证服务器没有为所选用户提供 UUID。</translation>
+        <translation>身份验证服务器没有为所选档案提供 UUID。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="248"/>
@@ -10871,7 +10871,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;SSL 握手失败。&lt;/b&gt;&lt;br/&gt;可能的原因如下：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;你正在使用 Windows 并且你需要更新你的根证书，请在系统更新处安装任何突出显示的更新。&lt;/li&gt;&lt;li&gt;你的网络上有设备正在干扰 SSL 流量，在这种情况下，你应该比 Minecraft 无法启动更加担心。&lt;/li&gt;&lt;li&gt;可能原因还有很多，请查看日志文件以获取详细信息&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>&lt;b&gt;SSL 握手失败。&lt;/b&gt;&lt;br/&gt;可能的原因如下：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;您正在使用 Windows 并且需要更新您的根证书，请在系统更新处安装那些突出显示的更新。&lt;/li&gt;&lt;li&gt;您的网络上有设备正在干扰 SSL 流量，在这种情况下，您该担心的不仅仅是 Minecraft 无法启动。&lt;/li&gt;&lt;li&gt;可能的原因还有很多，请查看日志文件以获取详细信息&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
@@ -10919,7 +10919,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/YggdrasilStep.cpp" line="49"/>
         <source>Mojang user authentication ended with a network error.</source>
-        <translation>Mojang 账户认证时遇到了网络错误。</translation>
+        <translation>Mojang 账户认证因网络错误终止。</translation>
     </message>
 </context>
 </TS>
