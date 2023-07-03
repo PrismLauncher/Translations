@@ -209,7 +209,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="741"/>
         <source>Selecting optional mods...</source>
-        <translation>选择额外的模组……</translation>
+        <translation>正在选定可选模组……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
@@ -972,7 +972,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="131"/>
         <source>Select directory where you downloaded the mods</source>
-        <translation>选择已下载的模组的目录</translation>
+        <translation>选择下载的模组所在目录</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="151"/>
@@ -1347,7 +1347,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;预启动命令会在实例启动之前运行，退出后命令会在实例退出之后运行。&lt;/p&gt;&lt;p&gt;它们均会在启动器的工作目录运行，并带有以下额外环境变量：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME——实例名&lt;/li&gt;&lt;li&gt;$INST_ID——实例 ID（其所在文件夹名）&lt;/li&gt;&lt;li&gt;$INST_DIR——实例文件夹的绝对路径&lt;/li&gt;&lt;li&gt;$INST_MC_DIR—— Minecraft 的绝对路径&lt;/li&gt;&lt;li&gt;$INST_JAVA——运行所使用的 Java 可执行文件&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS——运行所使用的命令行参数&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包装命令允许使用一个额外的包装程序来运行游戏（例如 Linux 上的“optirun”）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;预启动命令会在实例启动之前运行，退出后命令会在实例退出之后运行。&lt;/p&gt;&lt;p&gt;它们均会在启动器的工作目录运行，并带有以下额外环境变量：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME——实例名&lt;/li&gt;&lt;li&gt;$INST_ID——实例 ID（其所在文件夹名）&lt;/li&gt;&lt;li&gt;$INST_DIR——实例文件夹的绝对路径&lt;/li&gt;&lt;li&gt;$INST_MC_DIR——Minecraft 的绝对路径&lt;/li&gt;&lt;li&gt;$INST_JAVA——运行所使用的 Java 可执行文件&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS——运行所使用的命令行参数&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包装命令允许使用一个额外的包装程序来运行游戏（例如 Linux 上的“optirun”）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1756,7 +1756,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="204"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation>选择 %1</translation>
+        <translation>选择%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
@@ -1918,7 +1918,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/launch/ExtractNatives.cpp" line="104"/>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;</source>
-        <translation>无法解压 Native Jar 文件 &quot;%1&quot; 到目标位置 &apos;%2&apos;</translation>
+        <translation>无法解压原 Jar 文件 &quot;%1&quot; 到目标位置 &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -2519,23 +2519,23 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="43"/>
         <source>- CurseForge modpacks (ZIP)</source>
         <oldsource>- Curseforge modpacks (ZIP)</oldsource>
-        <translation>- CurseForge 整合包 (ZIP)</translation>
+        <translation>- CurseForge 整合包（Zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="53"/>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation>- Modrinth 整合包（ZIP 或 mrpack）</translation>
+        <translation>- Modrinth 整合包（Zip 及 Mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher、PolyMC 或 MultiMC 导出的实例（ZIP）</translation>
+        <translation>- Prism Launcher、PolyMC 或 MultiMC 导出的实例（Zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
         <source>- Technic modpacks (ZIP)</source>
-        <translation>- Technic 整合包（ZIP）</translation>
+        <translation>- Technic 整合包（Zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="98"/>
@@ -2578,12 +2578,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>选择您想要导入此资源包的实例。</translation>
+        <translation>选择您要导入资源包的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
         <source>Choose the instance you would like to import this %1 to.</source>
-        <translation>选择您想把 %1 导入的实例。</translation>
+        <translation>选择您想把%1导入的实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
@@ -2704,7 +2704,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="143"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>无法打开提供的整合包 zip 压缩文件。</translation>
+        <translation>无法打开提供的整合包 Zip 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="188"/>
@@ -3970,7 +3970,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>您真的想使用这个路径吗？选择“否”将会关闭且不会替换您的实例路径。</translation>
+        <translation>您真的想使用这个路径吗？选择“否”将会关闭且不会改变您目前的实例路径。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
@@ -4113,12 +4113,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="67"/>
         <source>Downloading zip for %1</source>
-        <translation>正在下载 %1 的 zip 压缩文件</translation>
+        <translation>正在下载 %1 的 zip 文件</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="106"/>
         <source>Downloading zip for %1 (%2%)</source>
-        <translation>正在下载 %1 的 zip 压缩文件（已完成 %2%）</translation>
+        <translation>正在为%1下载 Zip 文件（已完成 %2%）</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
@@ -4304,7 +4304,7 @@ Should it be removed now?</source>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="34"/>
         <source>Null jar is specified in the metadata, aborting.</source>
-        <translation>metadata 清单中指定了空白或错误的 .jar 文件，操作中止。</translation>
+        <translation>元数据中指定了空 Jar 文件，操作中止。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="65"/>
@@ -4374,7 +4374,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation>上传日志到 paste.ee ——只会保留一个月</translation>
+        <translation>上传日志到 paste.ee——只会保留一个月</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
@@ -4541,7 +4541,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="328"/>
         <source>Launch the selected instance.</source>
-        <translation>运行选择的实例。</translation>
+        <translation>运行选中实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="35"/>
@@ -4868,12 +4868,12 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="463"/>
         <source>Export the selected instance to supported formats.</source>
-        <translation>将选择的实例导出为支持的格式。</translation>
+        <translation>将选中实例导出为支持的格式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="471"/>
         <source>Prism Launcher (zip)</source>
-        <translation>Prism Launcher（zip）</translation>
+        <translation>Prism Launcher（Zip）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
@@ -4933,7 +4933,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="378"/>
         <source>Change the selected instance&apos;s icon.</source>
-        <translation>更改选择实例的图标。</translation>
+        <translation>更改选中实例的图标。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="352"/>
@@ -4943,7 +4943,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="355"/>
         <source>Rename the selected instance.</source>
-        <translation>重命名选择的实例。</translation>
+        <translation>重命名选中实例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="440"/>
@@ -5102,7 +5102,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="367"/>
         <source>Change the selected instance&apos;s group.</source>
-        <translation>更改选择实例的组。</translation>
+        <translation>更改选中实例的组。</translation>
     </message>
     <message>
         <source>Minecraft Folder</source>
@@ -5150,7 +5150,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="432"/>
         <source>Copy the selected instance.</source>
-        <translation>复制选择的实例。</translation>
+        <translation>复制选中实例。</translation>
     </message>
     <message>
         <source>%1 - Version %2</source>
@@ -6269,12 +6269,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="61"/>
         <source>Couldn&apos;t remove stale jar file: %1</source>
-        <translation>无法移除旧的 jar 文件：%1</translation>
+        <translation>无法移除旧的 Jar 文件：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="76"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>无法创建自定义 Minecraft jar 文件。</translation>
+        <translation>无法创建自定义 Minecraft.jar 文件。</translation>
     </message>
 </context>
 <context>
@@ -6444,7 +6444,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation>模组 “%1” 还没有元数据。我们需要生成它用于检索模组更新的相关信息。为此，请选择一个模组托管平台，我们可以使用它来检查此模组的更新。</translation>
+        <translation>模组 “%1” 还没有元数据。我们需要生成相关信息用于检查模组更新。因此，请选择一个模组托管平台，并使用它来检查此模组的更新。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
@@ -6830,7 +6830,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="242"/>
         <source>A zip error occurred</source>
-        <translation>一个 zip 文件发生错误</translation>
+        <translation>一个 Zip 文件发生错误</translation>
     </message>
 </context>
 <context>
@@ -7205,7 +7205,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="84"/>
         <source>Upload the log to the paste service configured in preferences.</source>
-        <translation>上传日志到 paste.ee ——只会保留一个月.</translation>
+        <translation>上传日志到 paste.ee——只会保留一个月.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="87"/>
@@ -7825,7 +7825,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation>无法确定主 Jar 的网址—— Mojang 删除了我们用作备份的服务器。</translation>
+        <translation>无法确定主 Jar 的网址——Mojang 删除了我们用作备份的服务器。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="304"/>
@@ -8321,7 +8321,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ModPage.cpp" line="140"/>
         <source>Cannot select invalid version :(</source>
-        <translation>不能选择无效的版本 :(</translation>
+        <translation>不能选择无效的版本（ノへ￣、）</translation>
     </message>
 </context>
 <context>
@@ -8339,7 +8339,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="116"/>
         <source>Opens a new popup to review your selected %1 and confirm your selection. Shortcut: Ctrl+Return</source>
-        <translation>打开一个新的窗口，查看并确认您选择的%1。快捷键: Ctrl + Return</translation>
+        <translation>打开一个新的弹窗以查看并确认您选中的%1。快捷键：Ctrl + Return</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="154"/>
@@ -8435,7 +8435,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"/>
         <source>Select %1 for download</source>
-        <translation>选择要下载的 %1</translation>
+        <translation>选择要下载的%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="201"/>
@@ -8475,7 +8475,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
         <source>Deselect %1 for download</source>
-        <translation>取消选择要下载的 %1</translation>
+        <translation>取消选择要下载的%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="275"/>
@@ -8485,7 +8485,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="276"/>
         <source>Cannot select invalid version :(</source>
-        <translation>不能选择无效的版本 :(</translation>
+        <translation>不能选择无效的版本（ノへ￣、）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="292"/>
@@ -8695,7 +8695,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="149"/>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
-        <translation>是否启用该资源包？（仅对 ZIP 有效）</translation>
+        <translation>是否启用该资源包？（仅对 Zip 文件有效）</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="151"/>
@@ -8765,7 +8765,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation>选择版本：</translation>
+        <translation>选中版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
@@ -8825,7 +8825,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
         <source>Confirm %1 selection</source>
-        <translation>确认 %1 选择</translation>
+        <translation>确认选择%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="104"/>
@@ -9314,17 +9314,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="70"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>无法打开提供的整合包 zip 压缩包文件。</translation>
+        <translation>无法打开提供的整合包 Zip 文件。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="98"/>
         <source>Failed to extract modpack</source>
-        <translation>解压整合包时失败</translation>
+        <translation>解压整合包时发生错误</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="125"/>
         <source>Could not fix permissions for %1</source>
-        <translation>无法修复 %1 的权限</translation>
+        <translation>无法修复 %1 的权限设置</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="142"/>
@@ -9399,7 +9399,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation>无法打开 “bin/modpack.jar” 文件！</translation>
+        <translation>无法打开“bin/modpack.jar”文件！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="68"/>
@@ -9416,7 +9416,7 @@ Are you sure?</source>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="91"/>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation>无法在“bin/modpack.jar”中找到“Version.json”，且 Minecraft 版本未知</translation>
+        <translation>无法在“bin/modpack.jar”中找到“version.json”，且 Minecraft 版本未知</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="105"/>
@@ -9453,7 +9453,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation>选择的版本：</translation>
+        <translation>选中版本：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
@@ -10008,12 +10008,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="220"/>
         <source>Add Agents</source>
-        <translation>添加 Agents</translation>
+        <translation>添加探针</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="223"/>
         <source>Add Java agents.</source>
-        <translation>添加 Java agents。</translation>
+        <translation>添加 Java 探针（Java Agent）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="228"/>
@@ -10139,22 +10139,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
         <source>Select jar mods</source>
-        <translation>选择 jar 模组</translation>
+        <translation>选择 Jar 模组</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="363"/>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
-        <translation>需要添加到 Minecraft.jar 中的模组 (*.zip *.jar)</translation>
+        <translation>需要添加到 Minecraft.jar 中的模组(*.zip *.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="373"/>
         <source>Select jar</source>
-        <translation>选择 jar</translation>
+        <translation>选择 Jar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="373"/>
         <source>Minecraft.jar replacement (*.jar)</source>
-        <translation>用于替换的 Minecraft.jar (*.jar)</translation>
+        <translation>用于替换的 Minecraft.jar(*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="383"/>
@@ -10179,12 +10179,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="398"/>
         <source>Select agents</source>
-        <translation>选择 agents</translation>
+        <translation>选择探针</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="398"/>
         <source>Java agents (*.jar)</source>
-        <translation>Java 代理 (*.jar)</translation>
+        <translation>Java 探针(*.jar)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="459"/>
@@ -10646,12 +10646,12 @@ It may be necessary to reinstall it.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
         <source>Select a Minecraft world zip</source>
-        <translation>选择一个 Minecraft 世界存档 zip 压缩包</translation>
+        <translation>选择一个包含 Minecraft 世界的 Zip 文件</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
         <source>Minecraft World Zip File (*.zip)</source>
-        <translation>Minecraft 世界存档 Zip 压缩包文件 (*.zip)</translation>
+        <translation>Minecraft 世界 Zip 文件 (*.zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
