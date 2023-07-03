@@ -574,7 +574,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>歡迎！
-如果您是第一次來這裡，你可以點一下「新增」按鈕來新增你的 Mojang 或 Minecraft 帳號。</translation>
+如果您是第一次來這裡，您可以點一下「新增」按鈕來新增您的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -615,7 +615,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>在你新增離線帳號之前，您必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果你遺失了您的帳號，你可以嘗試聯絡 Microsoft 尋求支援。</translation>
+        <translation>在你新增離線帳號之前，您必須先新增一個擁有 Minecraft 的 Microsoft 或 Mojang 帳號。&lt;br&gt;&lt;br&gt;如果您遺失了您的帳號，您可以嘗試聯絡 Microsoft 尋求支援。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
@@ -975,7 +975,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;你設定的全域模組資料夾和預設下載資料夾會自動檢查下載的模組，如果找到它們將被複製到實例。&lt;/p&gt;&lt;p&gt;你可以選擇如果你沒有將模組下載到預設位置，可以將下載的模組拖移到此對話框或新增一個資料夾查看。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;您設定的全域模組資料夾和預設下載資料夾會自動檢查下載的模組，如果找到它們將被複製到實例。&lt;/p&gt;&lt;p&gt;您可以選擇如果你沒有將模組下載到預設位置，可以將下載的模組拖移到此對話框或新增一個資料夾查看。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1237,7 +1237,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="367"/>
         <source>Your filesystem and/or OS doesn&apos;t support reflinks</source>
-        <translation>你的檔案系統和（或）作業系統不支援引用連結</translation>
+        <translation>您的檔案系統和（或）作業系統不支援引用連結</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="161"/>
@@ -2095,7 +2095,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="438"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>以下檔案無法在第三方啟動器中下載。&lt;br/&gt;你將需要手動去下載它們並把它們加入到實例之中。</translation>
+        <translation>以下檔案無法在第三方啟動器中下載。&lt;br/&gt;您將需要手動去下載它們並把它們加入到實例之中。</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
@@ -2224,7 +2224,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>備註：CurseForge 的 API 目前相當不可靠。CurseForge 以及一些模組作者已經不容許玩家在第三方應用程式中下載模組，像是 Prism Launcher。因此，你可能會需要手動下載一些模組，才能夠完成安裝模組包。</translation>
+        <translation>備註：CurseForge 的 API 目前相當不可靠。CurseForge 以及一些模組作者已經不容許玩家在第三方應用程式中下載模組，像是 Prism Launcher。因此，您可能會需要手動下載一些模組，才能夠完成安裝模組包。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2570,7 +2570,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.ui" line="20"/>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation>選擇你想要導入此資源包的實例。</translation>
+        <translation>選擇您想要導入此資源包的實例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="46"/>
@@ -3099,7 +3099,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="369"/>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation>在你的系統上找不到 Feral Interactive 的遊戲模式。</translation>
+        <translation>在您的系統上找不到 Feral Interactive 的遊戲模式。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="374"/>
@@ -3123,12 +3123,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="510"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>你分配的最大記憶體超過系統記憶體容量。</translation>
+        <translation>您分配的最大記憶體超過系統記憶體容量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="513"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>你分配的最大記憶體接近系統記憶體容量。</translation>
+        <translation>您分配的最大記憶體接近系統記憶體容量。</translation>
     </message>
 </context>
 <context>
@@ -3293,7 +3293,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="266"/>
         <source>If enabled, the launcher will not prompt you to choose a Java version if one isn&apos;t found.</source>
-        <translation>啟用該選項後，啟動器將不會在找不到你所選擇的 Java 版本時提醒你。</translation>
+        <translation>啟用該選項後，啟動器將不會在找不到你所選擇的 Java 版本時提醒您。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="269"/>
@@ -3329,12 +3329,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>你分配的最大記憶體超過系統記憶體容量。</translation>
+        <translation>您分配的最大記憶體超過系統記憶體容量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>你分配的最大記憶體接近系統記憶體容量。</translation>
+        <translation>您分配的最大記憶體接近系統記憶體容量。</translation>
     </message>
 </context>
 <context>
@@ -3352,9 +3352,9 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>你尚未選擇 Java 版本或指定了無效的 Java。
+        <translation>您尚未選擇 Java 版本或指定了無效的 Java。
 %1 將無法啟動 Minecraft。
-你要忽略嗎？
+您要忽略嗎？
 
 你之後可以在設定中更改 Java 的設定。
 </translation>
@@ -3402,12 +3402,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>你分配的最大記憶體超過系統記憶體容量。</translation>
+        <translation>您分配的最大記憶體超過系統記憶體容量。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>你分配的最大記憶體接近系統記憶體容量。</translation>
+        <translation>您分配的最大記憶體接近系統記憶體容量。</translation>
     </message>
 </context>
 <context>
@@ -3482,7 +3482,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="128"/>
         <source>Which account would you like to use?</source>
-        <translation>你想使用哪一個帳號？</translation>
+        <translation>您想使用哪一個帳號？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="152"/>
@@ -3501,7 +3501,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="166"/>
         <source>It looks like we couldn&apos;t launch after %1 tries. Do you want to continue trying?</source>
-        <translation>在經過 %1 次嘗試後，我們似乎無法正常啟動。你還想要繼續嘗試嗎？</translation>
+        <translation>在經過 %1 次嘗試後，我們似乎無法正常啟動。您還想要繼續嘗試嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="206"/>
@@ -3812,7 +3812,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：停用模組後設資料可能會連同即將到來的生物品質功能，像是模組更新也一起停用！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;警告&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;：停用模組後設資料可能也會停用一些生活品質功能，像是模組更新！&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Breeze Light</source>
@@ -3958,7 +3958,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation>你真的確定要使用此路徑？選擇「否」會關閉此對話框且不會修改實例路徑。</translation>
+        <translation>您真的確定要使用此路徑？選擇「否」會關閉此對話框且不會修改實例路徑。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
@@ -4304,8 +4304,8 @@ You&apos;ll have to correct this problem manually.</source>
         <translation>這些標記為「本機」的檔案遺失了：
 %1
 
-你需要增加這些檔案，或是移除需要他們的套件。
-你必須手動修復這個問題。</translation>
+您需要增加這些檔案，或是移除需要他們的套件。
+您必須手動修復這個問題。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
@@ -4713,7 +4713,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="491"/>
         <source>Creates a shortcut on your desktop to launch the selected instance.</source>
-        <translation>在你的桌面上建立一個捷徑以啟動選擇的實例。</translation>
+        <translation>在您的桌面上建立一個捷徑以啟動選擇的實例。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="91"/>
@@ -7727,7 +7727,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/GuiUtil.cpp" line="101"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;記錄檔連結&lt;/a&gt;已經在你的剪貼簿中。</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;記錄檔連結&lt;/a&gt; 已經在你的剪貼簿中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="297"/>
@@ -8929,12 +8929,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="427"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;上傳的螢幕擷圖連結&lt;/a&gt;已經在你的剪貼簿中。</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;上傳的螢幕擷圖連結&lt;/a&gt; 已經在你的剪貼簿中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="469"/>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;上傳的相簿連結&lt;/a&gt;已經在你的剪貼簿中。</translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;上傳的相簿連結&lt;/a&gt; 已經在你的剪貼簿中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="519"/>
