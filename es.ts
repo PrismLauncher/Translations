@@ -1378,7 +1378,7 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation>Old Snapshots</translation>
+        <translation>Snapshots Viejas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
