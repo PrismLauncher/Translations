@@ -1368,32 +1368,32 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="76"/>
         <source>Releases</source>
-        <translation type="unfinished">Lanzamiento regular</translation>
+        <translation>Lanzamiento</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="89"/>
         <source>Snapshots</source>
-        <translation type="unfinished">Snapshots</translation>
+        <translation>Snapshots</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished">Viejas Snapshots</translation>
+        <translation>Old Snapshots</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
         <source>Betas</source>
-        <translation type="unfinished">Betas</translation>
+        <translation>Betas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="119"/>
         <source>Alphas</source>
-        <translation type="unfinished">Alfas</translation>
+        <translation>Alphas</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="129"/>
         <source>Experiments</source>
-        <translation type="unfinished">Experimentos</translation>
+        <translation>Experimentales</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="152"/>
@@ -1404,32 +1404,32 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished">Cargador de mods</translation>
+        <translation>Mod Loader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
         <source>None</source>
-        <translation type="unfinished">Ninguno</translation>
+        <translation>Ninguna</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="200"/>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="210"/>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="220"/>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="230"/>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.h" line="60"/>
@@ -1439,17 +1439,17 @@ Por favor, actualice su sistema operativo y PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="129"/>
         <source>No Minecraft version is selected.</source>
-        <translation type="unfinished">No se ha elegido ninguna versión de Minecraft.</translation>
+        <translation>No se ha seleccionado ninguna versión de Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="136"/>
         <source>No mod loader is selected.</source>
-        <translation type="unfinished">No se ha elegido ninún cargador de mods.</translation>
+        <translation>No se ha seleccionado ningún mod loader.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.cpp" line="172"/>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente no hay versiones disponibles para Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2417,7 +2417,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtener dependencias</translation>
     </message>
 </context>
 <context>
@@ -2549,7 +2549,7 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importar desde zip</translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <source>Modrinth pack (*.mrpack)</source>
@@ -2617,12 +2617,12 @@ NOTA: Asegúrate de que hayas hecho una copia de seguridad de tus datos de insta
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="117"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="124"/>
         <source>Report issues to: </source>
-        <translation type="unfinished"></translation>
+        <translation>Informar de los problemas a: </translation>
     </message>
 </context>
 <context>
@@ -4896,7 +4896,7 @@ Motivo:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="580"/>
         <source>Report a Bug or Suggest a Feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Informar de un error o sugerir una función</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="607"/>
@@ -5348,6 +5348,13 @@ Do you wish to proceed?</source>
 %1
 
 Borrarla podría romper la otra instancia, 
+
+¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
+
+%1
+
+Borrarlo podría romper las otras instancias, 
 
 ¿Desea continuar?</numerusform>
             <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
@@ -6047,17 +6054,17 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Última modificación</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="164"/>
@@ -8340,22 +8347,22 @@ NOTA: Asegúrese de hacer una copia de seguridad de los datos importantes de su 
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="159"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="164"/>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="170"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Abortar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="171"/>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobación de dependencias...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -8585,12 +8592,12 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Última modificación</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -8617,7 +8624,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="550"/>
         <source>Show / Hide Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar / Ocultar columnas</translation>
     </message>
 </context>
 <context>
@@ -8629,17 +8636,17 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Última modificación</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="77"/>
@@ -8801,17 +8808,17 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
         <source>Provider: %1</source>
-        <translation type="unfinished">Proveedor: %1</translation>
+        <translation>Proveedor: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="66"/>
         <source>Required by: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Requerido por: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="68"/>
         <source>Required by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Requerido por:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="102"/>
@@ -8900,7 +8907,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás a punto de subir %1 capturas de pantalla a %2.
+Deberías volver a comprobar la información personal.
+
+¿Está seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="390"/>
@@ -8908,7 +8918,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Está a punto de subir la captura de pantalla seleccionada a %1.
+Deberías volver a comprobar la información personal.
+
+¿Está seguro?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="416"/>
@@ -9482,29 +9495,29 @@ falta inheritsFrom</translation>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="49"/>
         <source>Last Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Última modificación</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="88"/>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
+        <translation>
 Advertencia: Este recurso está enlazado simbólicamente desde otro lugar. Si lo edita, también modificará el original.
 Ruta canónica: %1</translation>
     </message>
@@ -9512,26 +9525,26 @@ Ruta canónica: %1</translation>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="94"/>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
+        <translation>
 Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también modificará el original.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="134"/>
         <source>Is the resource enabled?</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished">¿Está el recurso habilitado?</translation>
+        <translation>¿Está habilitado el recurso?</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="137"/>
         <source>The name of the resource.</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished">El nombre del recurso.</translation>
+        <translation>El nombre del recurso.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/TexturePackFolderModel.cpp" line="140"/>
         <source>The date and time this resource was last changed (or added).</source>
         <extracomment>Here, resource is a generic term for external resources, like Mods, Resource Packs, Shader Packs, etc.</extracomment>
-        <translation type="unfinished">La fecha y hora en la que este recurso fue cambiado (o añadido) por última vez.</translation>
+        <translation>La fecha y hora en que este recurso se modificó (o añadió) por última vez.</translation>
     </message>
 </context>
 <context>
