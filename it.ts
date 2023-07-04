@@ -2534,7 +2534,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importa</translation>
+        <translation>Importa</translation>
     </message>
     <message>
         <source>Modrinth pack (*.mrpack)</source>
@@ -2953,7 +2953,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="351"/>
         <source>Automatically close console when the game quits</source>
         <oldsource>Automatically close console when the game quits?</oldsource>
-        <translation type="unfinished">Chiudere automaticamente la console all&apos;uscita dal gioco?</translation>
+        <translation>Chiudi automaticamente la console all&apos;uscita dal gioco</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="358"/>
@@ -5323,16 +5323,17 @@ Do you wish to proceed?</source>
 
 %1
 
-L&apos;eliminazione potrebbe rompere l&apos;altra istanza,
+L&apos;eliminazione potrebbe corrompere l&apos;altra istanza,
 
 Vuoi procedere?</numerusform>
             <numerusform>Le seguenti istanze potrebbero fare riferimento ai file in questa istanza:
 
 %1
 
-L&apos;eliminazione potrebbe rompere le altre istanze,
+L&apos;eliminazione potrebbe corrompere le altre istanze,
 
 Vuoi procedere?</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
