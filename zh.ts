@@ -4878,7 +4878,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
         <source>Modrinth (mrpack)</source>
-        <translation>Modrinth（mrpack）</translation>
+        <translation>Modrinth（Mrpack）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="524"/>
@@ -9993,7 +9993,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="207"/>
         <source>Add to Minecraft.jar</source>
-        <translation>安装到 Minecraft.jar 中</translation>
+        <translation>安装模组到 Minecraft.jar 中</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="210"/>
