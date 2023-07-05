@@ -3079,7 +3079,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="569"/>
         <source>Record time spent playing this instance</source>
-        <translation>記錄本實例遊玩時數</translation>
+        <translation>紀錄本實例遊玩時數</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="579"/>
@@ -4352,7 +4352,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="93"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>複製整個記錄檔到剪貼簿</translation>
+        <translation>將整個記錄複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
@@ -5779,7 +5779,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="137"/>
         <source>&amp;Record time spent playing instances</source>
         <oldsource>Record time spent playing instances</oldsource>
-        <translation>記錄本實例遊玩時數（&amp;R）</translation>
+        <translation>紀錄本實例遊玩時數（&amp;R）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="147"/>
@@ -6670,7 +6670,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="138"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些文件的重複。你想繼續嗎？</translation>
+        <translation>我們無法找到適合舊版本的索引檔案。這可能會導致一些檔案的重複。你想繼續嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="182"/>
@@ -7167,7 +7167,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="64"/>
         <source>Copy the whole log into the clipboard</source>
-        <translation>將整個記錄檔複製至剪貼簿</translation>
+        <translation>將整個記錄複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
