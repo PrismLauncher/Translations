@@ -4234,8 +4234,8 @@ Alasan:
         <translation>Bawah</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>Riwayat Minecraft</translation>
     </message>
@@ -7250,16 +7250,16 @@ Are you sure?</source>
         <translation>Pengetesan Java sukses&lt;br /&gt;Platform dilaporkan: %1&lt;br /&gt;Versi java dilaporkan: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test success</source>
         <translation>Tes Java sukses</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>Test java gagal</translation>
     </message>
@@ -7502,8 +7502,8 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <translation>Jalur tidak valid menuju JVisualVM</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>Jalur tidak ada</translation>
     </message>
@@ -7693,8 +7693,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Urutkan berdasarkan popularitas</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <source>Sort by Last Updated</source>
         <translation>Urutkan Berdasarkan Terakhir Diperbarui</translation>
     </message>
@@ -7709,8 +7709,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Urutkan Berdasarkan Pembuat</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished">Urutkan berdasarkan Unduhan</translation>
     </message>

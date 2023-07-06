@@ -3802,8 +3802,8 @@ Reason:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6353,8 +6353,8 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6497,16 +6497,16 @@ Choose your name carefully:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test success</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6846,8 +6846,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <source>Sort by Last Updated</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6862,8 +6862,8 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <source>Sort by Downloads</source>
         <translation type="unfinished"></translation>
     </message>

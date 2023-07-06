@@ -4430,8 +4430,8 @@ Razão:
         <translation>Final</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>Registro do Minecraft</translation>
     </message>
@@ -7808,16 +7808,16 @@ Tem certeza?</translation>
         <translation>O teste de Java foi concluído!&lt;br /&gt;Plataforma: %1&lt;br /&gt;Versão do Java: %2&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="83"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test success</source>
         <translation>O teste de Java foi concluído</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <location filename="src/launcher/JavaCommon.cpp" line="93"/>
         <location filename="src/launcher/JavaCommon.cpp" line="102"/>
         <location filename="src/launcher/JavaCommon.cpp" line="109"/>
+        <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="334"/>
         <source>Java test failure</source>
         <translation>O teste de Java falhou</translation>
     </message>
@@ -8081,8 +8081,8 @@ Essa mensagem vai aparecer até que você remova isso dos seus argumentos da JVM
         <translation>O caminho da JVisualVM é inválido</translation>
     </message>
     <message>
-        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <location filename="src/launcher/tools/MCEditTool.cpp" line="37"/>
+        <location filename="src/launcher/tools/JProfiler.cpp" line="105"/>
         <source>Path does not exist</source>
         <translation>O caminho não existe</translation>
     </message>
@@ -8277,8 +8277,8 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <translation>Ordenar por Popularidade</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="115"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="208"/>
         <source>Sort by Last Updated</source>
         <translation>Ordenar por Atualizado Recentemente</translation>
     </message>
@@ -8293,8 +8293,8 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
         <translation>Ordenar por Autor</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <location filename="src/launcher/modplatform/modrinth/ModrinthAPI.cpp" line="113"/>
+        <location filename="src/launcher/modplatform/flame/FlameAPI.cpp" line="211"/>
         <source>Sort by Downloads</source>
         <translation>Ordenar por Downloads</translation>
     </message>
