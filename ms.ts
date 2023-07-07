@@ -265,7 +265,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sebuah pelancar tersuai yang memudahkan pengurusan Minecraft dengan membolehkan anda mempunyai banyak instance Minecraft sekaligus.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -657,12 +657,12 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nampaknya anda sudah menggunakan %1 sebelum ini. Adakah anda mahu memindahkan data anda ke lokasi baharu %2?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1676"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nampaknya anda sudah menggunakan %1 pada %2 sebelum ini. Adakah anda mahu memindahkan data anda ke lokasi baharu %3?</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1719"/>
@@ -793,7 +793,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="42"/>
         <source>Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>Amaran: Ini masih kerja dalam proses. Jika anda menghadapi masalah dengan modpack yang diimport, ia mungkin sebuah pepijat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
@@ -901,7 +901,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="39"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Folder mod global anda yang dikonfigurasikan dan folder muat turun lalai disemak secara automatik untuk mod yang dimuat turun dan ia akan disalin ke dalam instance jika ditemui.&lt;/p&gt;&lt;p&gt;Secara pilihan, anda boleh seret dan lepaskan mod yang dimuat turun ke dialog ini atau menambah folder untuk melihat jika anda tidak memuat turun mod ke lokasi lalai.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
@@ -1056,7 +1056,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
         <source>Disabling this will still keep the mod loader (ex: Fabric, Quilt, etc.) but erase the mods folder and their configs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyahdayakan ini masih akan mengekalkan pemuat mod (contoh: Fabric, Quilt, dll.) tetapi memadamkan folder mod dan konfigurasinya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="118"/>
@@ -1116,7 +1116,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="288"/>
         <source>If &quot;copy saves&quot; is selected world save data will be copied instead of linked and thus not shared between instances.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jika &quot;salin simpanan&quot; dipilih data simpanan dunia akan disalin dan bukannya dipautkan dan dengan itu tidak dikongsi antara instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="291"/>
@@ -1256,7 +1256,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Arahan prapelancaran dijalankan sebelum instance dilancarkan dan perintah pascakeluar dijalankan selepas instance keluar.&lt;/p&gt;&lt;p&gt;Kedua-duanya akan dijalankan dalam folder kerja pelancar dengan pemboleh ubah persekitaran tambahan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Nama instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID instance (nama foldernya)&lt;/li&gt;&lt;li&gt;$INST_DIR - laluan mutlak instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - laluan mutlak minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - binari java yang digunakan untuk pelancaran&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - parameter baris perintah digunakan untuk pelancaran &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Perintah pembalut membenarkan pelancaran menggunakan program pembalut tambahan (seperti &apos;optirun&apos; pada Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1665,7 +1665,10 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan mengalih keluar %1 item.
+Ini mungkin kekal dan ia akan hilang daripada folder.
+
+Adakah anda pasti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="242"/>
@@ -1673,7 +1676,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the parent folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan mengalih keluar folder &quot;%1&quot;.
+Ini mungkin akan kekal dan ia akan hilang daripada folder induk.
+
+Adakah anda pasti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="249"/>
@@ -1894,7 +1900,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="144"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiada versi yang sah ditemui untuk mod ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod semasa.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="152"/>
@@ -1926,7 +1932,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="243"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kami tidak menemui fail indeks yang sesuai untuk versi yang lebih lama. Ini boleh menyebabkan beberapa fail diduakan. Adakah anda mahu meneruskan?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="291"/>
@@ -1969,7 +1975,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="438"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Fail berikut tidak tersedia untuk dimuat turun dalam pelancar pihak ketiga.&lt;br/&gt;Anda perlu memuat turunnya secara manual dan menambahkannya ke dalam instance.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
@@ -2017,7 +2023,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="346"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Hai!&lt;/h1&gt;&lt;h4&gt;Nampaknya ID Pek anda adalah null. Ini adalah kerana pepijat dalam versi pelancar yang lebih lama.&lt;br/&gt;Malangnya, kami tidak boleh melakukan permintaan API yang betul tanpa maklumat ini.&lt;br/&gt;&lt;br/&gt;Jadi, untuk membolehkan ciri ini berfungsi, anda perlu memuat turun semula modpack daripada pemuat turun terbina dalam.&lt;br/&gt;&lt;br/&gt;Jangan risau, ia akan meminta anda untuk mengemas kini instance ini, jadi anda tidak akan kehilangan instance ini!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="408"/>
@@ -2041,7 +2047,7 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nota: CurseForge membenarkan pencipta untuk menyekat akses kepada alatan pihak ketiga seperti Prism Launcher. Oleh itu, anda mungkin perlu memuat turun beberapa mod secara manual untuk dapat memasang modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -2934,7 +2940,12 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Anda tidak memilih versi Java atau memilih sesuatu yang tidak berfungsi.
+%1 tidak akan dapat memulakan Minecraft.
+Adakah anda ingin meneruskan tanpa Java?
+
+Anda boleh menukar versi Java di dalam tetapan kemudian.
+</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="277"/>
@@ -3000,7 +3011,8 @@ You can change the Java version in the settings later.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a java executable.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anda belum mempunyai persediaan Java yang berfungsi atau ia telah hilang.
+Sila pilih salah satu daripada yang berikut atau semak imbas untuk executable Java.</translation>
     </message>
 </context>
 <context>
@@ -3090,7 +3102,10 @@ Please select one of the following or browse for a java executable.</oldsource>
 You need to purchase the game first to play it.
 
 Do you want to play the demo?</source>
-        <translation type="unfinished"></translation>
+        <translation>Akaun ini bukan milik Minecraft.
+Anda perlu membeli permainan terlebih dahulu untuk memainkannya.
+
+Adakah anda mahu bermain demo?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
@@ -3125,7 +3140,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Akaun tidak lagi wujud pada pelayan. Ia mungkin telah dipindahkan, dalam hal ini sila tambahkan akaun baharu yang anda gunakan untuk memindahkan akaun ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="317"/>
@@ -3164,7 +3179,9 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelancaran permainan ditangguhkan sehingga anda menekan butang. Ini adalah masa yang sesuai untuk menyediakan pemprofil, kerana pelayan pemprofil sedang berjalan sekarang.
+
+%1</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="421"/>
@@ -3199,7 +3216,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini boleh menyebabkan instance menjadi rosak dan hanya boleh digunakan jika Minecraft menjadi beku atas sebab tertentu</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="302"/>
@@ -3225,7 +3242,7 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/LaunchController.cpp" line="96"/>
         <source>In order to play Minecraft, you must have at least one Microsoft or Mojang account logged in. Mojang accounts can only be used offline. Would you like to open the account manager to add an account now?</source>
         <oldsource>In order to play Minecraft, you must have at least one Mojang or Microsoft account logged in. Would you like to open the account manager to add an account now?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Untuk bermain Minecraft, anda mesti mempunyai sekurang-kurangnya satu akaun Microsoft atau Mojang yang dilog masuk. Akaun Mojang hanya boleh digunakan di luar talian. Adakah anda mahu membuka pengurus akaun untuk menambah akaun sekarang?</translation>
     </message>
 </context>
 <context>
@@ -3234,7 +3251,8 @@ Do you want to play the demo?</source>
         <location filename="src/launcher/launch/LaunchTask.cpp" line="234"/>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished"></translation>
+        <translation>Berhenti menonton log permainan kerana panjang log telah melebihi % 1 baris.
+Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke dalam fail dan berkemungkinan membazir ruang cakera keras pada kadar yang membimbangkan!</translation>
     </message>
 </context>
 <context>
@@ -3297,7 +3315,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="153"/>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
-        <translation type="unfinished"></translation>
+        <translation>Apabila didayakan, sebagai tambahan kepada folder muat turun, subfoldernya juga akan dicari semasa mencari sumber (contoh semasa mencari mod yang disekat di CurseForge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="156"/>
@@ -3355,7 +3373,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="182"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Disabling mod metadata may also disable some upcoming QoL features, such as mod updating!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Amaran&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: Menyahdayakan metadata mod juga boleh menyahdayakan beberapa ciri QoL, seperti pengemaskinian mod!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="265"/>
@@ -3432,12 +3450,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda cuba menentukan folder instance yang laluannya mengandungi sekurang-kurangnya satu &apos;!&apos;. Java diketahui menyebabkan masalah jika itu berlaku, instance anda (mungkin) tidak akan bermula!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="118"/>
         <source>Do you really want to use this path? Selecting &quot;No&quot; will close this and not alter your instance path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adakah anda benar-benar mahu menggunakan laluan ini? Memilih &quot;Tidak&quot; akan menutup ini dan tidak mengubah laluan instance anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="130"/>
@@ -3449,7 +3467,10 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anda cuba menentukan folder instance yang diberikan buat sementara waktu melalui Flatpak.
+Ini diketahui akan menyebabkan masalah. Selepas memulakan semula pelancar mungkin rosak, kerana ia tidak lagi mempunyai akses kepada direktori itu.
+
+Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="137"/>
@@ -3707,7 +3728,11 @@ Should it be removed now?</source>
 
 You need to either add the files, or removed the packages that require them.
 You&apos;ll have to correct this problem manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beberapa artifak yang ditandakan sebagai &apos;local&apos; tiada failnya:
+%1
+
+Anda perlu sama ada menambah fail, atau mengalih keluar pakej yang memerlukannya.
+Anda perlu membaiki masalah ini secara manual.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/update/LibrariesTask.cpp" line="71"/>
@@ -4437,7 +4462,8 @@ Reason:
         <location filename="src/launcher/ui/MainWindow.cpp" line="1004"/>
         <source>The launcher cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelancar tidak boleh memuat turun Minecraft atau mengemas kini instance melainkan anda mempunyai sekurang-kurangnya satu akaun ditambah.
+Sila tambah akaun Mojang atau Minecraft anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1188"/>
@@ -4494,7 +4520,10 @@ Are you sure?</source>
 This may be permanent and will completely delete the instance.
 
 Are you sure?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan memadamkan &quot;%1&quot;.
+Ini mungkin akan kekal dan akan memadamkan instance itu sepenuhnya.
+
+Adakah anda pasti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1376"/>
@@ -4510,8 +4539,14 @@ Are you sure?</oldsource>
 Deleting it could break the other instance(s), 
 
 Do you wish to proceed?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Instance berikut mungkin merujuk fail dalam instance ini:
+
+%1
+
+Memadamnya boleh merosakkan instance yang lain,
+
+Adakah anda ingin meneruskan?</numerusform>
         </translation>
     </message>
     <message>
@@ -4584,12 +4619,12 @@ Do you wish to proceed?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1719"/>
         <source>You have now two options: &lt;br/&gt; - change the instance folder in the settings &lt;br/&gt; - move this installation of %1 to a different folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda kini mempunyai dua pilihan: &lt;br/&gt; - tukar folder instance dalam tetapan &lt;br/&gt; - alihkan pemasangan %1 ini ke folder lain</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1728"/>
         <source>This is a problem: &lt;br/&gt; - The launcher will likely be deleted without warning by the operating system &lt;br/&gt; - close the launcher now and extract it to a real location, not a temporary folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini adalah masalah: &lt;br/&gt; - Pelancar berkemungkinan akan dipadamkan tanpa amaran oleh sistem pengendalian &lt;br/&gt; - tutup pelancar sekarang dan ekstraknya ke lokasi sebenar, bukan folder sementara</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1735"/>
@@ -5100,7 +5135,9 @@ Do you wish to proceed?</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Mengeditnya juga akan menukar yang asal.
+Laluan Sebenar: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="117"/>
@@ -5356,7 +5393,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="246"/>
         <source>The mod &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod &apos;%1&apos; belum mempunyai metadata lagi. Kami perlu menjananya untuk menjejaki maklumat yang berkaitan tentang cara mengemas kini mod ini. Untuk melakukan ini, sila pilih penyedia mod yang boleh kami gunakan untuk menyemak kemas kini untuk mod ini.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ModUpdateDialog.cpp" line="343"/>
@@ -5450,7 +5487,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="105"/>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiada versi yang sah ditemui untuk mod ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod semasa.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthCheckUpdate.cpp" line="135"/>
@@ -5478,7 +5515,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="138"/>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kami tidak menemui fail indeks yang sesuai untuk versi yang lebih lama. Ini boleh menyebabkan beberapa fail diduakan. Adakah anda mahu meneruskan?</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="182"/>
@@ -5500,7 +5537,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="236"/>
         <source>One of the files has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salah satu fail mempunyai laluan yang membawa kepada lokasi arbitrari (%1). Ini adalah risiko keselamatan dan tidak dibenarkan.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="267"/>
@@ -5658,7 +5695,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="22"/>
         <source>Note: Modrinth modpacks are still in alpha phase. Some things may be rough on the edges, or not working at all! Use it with caution.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Modpack Modrinth masih dalam fasa alfa. Sesetengah perkara mungkin tidak lancar atau tidak berfungsi sama sekali! Gunakannya dengan berhati-hati.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="37"/>
@@ -5964,7 +6001,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="173"/>
         <source>The file (%1) is too big. You may want to open it in a viewer optimized for large files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fail tersebut (%1) terlalu besar. Anda mungkin mahu membukanya dalam pemapar yang dioptimumkan untuk fail besar.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="188"/>
@@ -5982,7 +6019,10 @@ Please update %1!</source>
 This may be permanent and it will be gone from the logs folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan memadamkan &quot;%1&quot;.
+Ini mungkin kekal dan ia akan hilang daripada folder logs.
+
+Adakah anda pasti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.cpp" line="255"/>
@@ -6086,7 +6126,7 @@ Error message: %3</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="20"/>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Perkhidmatan penampalan lalai telah bertukar kepada mclo.gs, sila pilih perkara yang anda mahu lakukan dengan tetapan anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/PasteWizardPage.ui" line="37"/>
@@ -6191,7 +6231,9 @@ Error message: %3</source>
         <source>You just need to take one more step to be able to play Minecraft on this account.
 
 Choose your name carefully:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda hanya perlu mengambil satu langkah lagi untuk dapat bermain Minecraft pada akaun ini.
+
+Pilih nama anda dengan teliti:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProfileSetupDialog.cpp" line="124"/>
@@ -6394,7 +6436,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="271"/>
         <source>URL for the main jar could not be determined - Mojang removed the server that we used as fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>URL untuk jar utama tidak dapat ditentukan - Mojang telah mengalih keluar pelayan yang kami gunakan sebagai sandaran.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/OneSixVersionFormat.cpp" line="304"/>
@@ -6449,7 +6491,7 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="214"/>
         <source>The &apos;minimumLauncherVersion&apos; value of this version (%1) is higher than supported by %3 (%2). It might not work properly!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilai &apos;minimumLauncherVersion&apos; versi ini (%1) adalah lebih tinggi daripada yang disokong oleh %3 (%2). Ia mungkin tidak akan berfungsi dengan betul!</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MojangVersionFormat.cpp" line="352"/>
@@ -6620,7 +6662,9 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anda cuba menetapkan pilihan ingatan JVM secara manual (menggunakan &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;, &quot;-Xmx&quot; atau &quot;-Xms&quot;).
+Terdapat kotak khusus untuk ini dalam tetapan (tab Java, dalam kumpulan Ingatan di bahagian atas).
+Mesej ini akan dipaparkan sehingga anda mengalih keluarnya daripada argumen JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="52"/>
@@ -6632,7 +6676,8 @@ This message will be displayed until you remove them from the JVM arguments.</ol
         <location filename="src/launcher/JavaCommon.cpp" line="59"/>
         <source>You tried to pass required Java version argument to the JVM (using &quot;-version:xxx&quot;). This is not safe and will not be allowed.
 This message will be displayed until you remove this from the JVM arguments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda cuba menghantar argumen versi Java yang diperlukan kepada JVM (menggunakan &quot;-version:xxx&quot;). Ini tidak selamat dan tidak akan dibenarkan.
+Mesej ini akan dipaparkan sehingga anda mengalih keluar ini daripada argumen JVM.</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="74"/>
@@ -6654,7 +6699,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/JavaCommon.cpp" line="99"/>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the Java executable.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work.&lt;br /&gt;You should use the auto-detect feature, or set the path to the java executable.&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Perduaan Java yang ditentukan tidak berfungsi.&lt;br /&gt;Anda harus menggunakan ciri pengesan automatik atau tetapkan laluan kepada executable Java.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/JavaCommon.cpp" line="108"/>
@@ -6678,7 +6723,10 @@ This message will be displayed until you remove this from the JVM arguments.</so
 
 Old name: %1
 New name: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nama instance nampaknya menyertakan versi lama. Adakah anda ingin mengemaskininya?
+
+Nama lama: %1
+Nama baharu: %2</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceTask.cpp" line="24"/>
@@ -7168,7 +7216,9 @@ Please update %1!</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Mengeditnya juga akan menukar yang asal.
+Laluan Sebenar: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.cpp" line="437"/>
@@ -7249,7 +7299,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Amaran: Sumber ini dipautkan secara simbolik dari tempat lain. Mengeditnya juga akan menukar yang asal.
+Laluan Sebenar: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="114"/>
@@ -7364,7 +7416,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="55"/>
         <source>This file will be downloaded to a folder location different from the default, possibly due to its loader requiring it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fail ini akan dimuat turun ke lokasi folder yang berbeza daripada lalai, mungkin disebabkan oleh pemuat yang memerlukannya.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ReviewMessageBox.cpp" line="59"/>
@@ -7443,7 +7495,10 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan memuat naik tangkapan layar yang dipilih ke %1.
+Anda harus menyemak semula untuk maklumat peribadi.
+
+Adakah anda pasti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="416"/>
@@ -7479,7 +7534,10 @@ Are you sure?</source>
 This may be permanent and they will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan memadamkan %1 tangkapan layar.
+Ini mungkin kekal dan ia akan hilang daripada folder.
+
+Adakah anda pasti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="524"/>
@@ -7487,7 +7545,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan memadamkan tangkapan layar yang dipilih.
+Ini mungkin kekal dan ia akan hilang daripada folder.
+
+Adakah anda pasti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="530"/>
@@ -7626,7 +7687,10 @@ Are you sure?</source>
 This is permanent and the server will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan mengalih keluar &quot;%1&quot;.
+Ini adalah kekal dan pelayan akan hilang dari senarai anda buat selama-lamanya (MASA YANG LAMA).
+
+Adakah anda pasti?</translation>
     </message>
 </context>
 <context>
@@ -8083,7 +8147,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="105"/>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="112"/>
         <source>The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kucing muncul di latar belakang dan tidak ditunjukkan secara lalai. Ia hanya akan kelihatan apabila anda menekan butang Kucing pada Bar Alat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
@@ -8106,7 +8170,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
         <source>Hint: The cat appears in the background and is not shown by default. It is only made visible when pressing the Cat button in the Toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Petunjuk: Kucing muncul di latar belakang dan tidak ditunjukkan secara lalai. Ia hanya akan kelihatan apabila menekan butang Kucing pada Bar Alat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="54"/>
@@ -8184,7 +8248,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="67"/>
         <source>This instance is not compatible with Java version %1.
 Please switch to one of the following Java versions for this instance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance ini tidak serasi dengan versi Java %1.
+Sila tukar kepada salah satu daripada versi Java berikut untuk instance ini:</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="72"/>
@@ -8194,7 +8259,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/minecraft/launch/VerifyJavaInstall.cpp" line="74"/>
         <source>Go to instance Java settings to change your Java version or disable the Java compatibility check if you know what you&apos;re doing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergi ke tetapan Java instance untuk menukar versi Java anda atau menyahdayakan semakan keserasian Java jika anda tahu apa yang anda lakukan.</translation>
     </message>
 </context>
 <context>
@@ -8463,7 +8528,10 @@ Please switch to one of the following Java versions for this instance:</source>
 This is permanent and will completely remove the custom component.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan mengalih keluar &quot;%1&quot;.
+Ini adalah kekal dan akan mengalih keluar komponen tersuai sepenuhnya.
+
+Adakah anda pasti?</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="346"/>
@@ -8539,7 +8607,8 @@ Are you sure?</source>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="491"/>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add your Mojang or Minecraft account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak boleh memuat turun Minecraft atau mengemas kini instance melainkan anda mempunyai sekurang-kurangnya satu akaun yang ditambah.
+Sila tambah akaun Mojang atau Minecraft anda.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="517"/>
@@ -8932,7 +9001,8 @@ Canonical Path: %1</source>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="314"/>
         <source>You do not have MCEdit set up or it was moved.
 You can set it up in the global settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda tidak mempunyai MCEdit yang ditetapkan atau ia telah dialihkan.
+Anda boleh menetapkannya di dalam tetapan global.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="323"/>
@@ -9064,7 +9134,9 @@ Are you sure?</source>
         <source>This Microsoft account is underaged and is not linked to a family.
 
 Please set up your account according to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Akaun Microsoft ini di bawah umur dan tidak dipautkan dengan sebuah keluarga.
+
+Sila sediakan akaun anda mengikut %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp" line="165"/>
@@ -9157,7 +9229,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;SSL Handshake gagal.&lt;/b&gt;&lt;br/&gt;Mungkin terdapat beberapa sebab untuknya:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Anda menggunakan Windows dan perlu mengemas kini sijil root anda, sila pasang sebarang kemas kini yang belum selesai .&lt;/li&gt;&lt;li&gt;Sesetengah peranti pada rangkaian anda mengganggu trafik SSL. Dalam kes itu, anda mempunyai kebimbangan yang lebih besar daripada Minecraft yang tidak mahu bermula.&lt;/li&gt;&lt;li&gt;Mungkin suatu sebab yang lain. Semak fail log untuk mendapatkan butiran&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
