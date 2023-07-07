@@ -418,19 +418,25 @@
         <translation>Потерян</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
+        <source>Unknown</source>
+        <comment>Account status</comment>
+        <translation type="unfinished">Неизвестный</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
         <translation>Н/Д</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
         <source>No</source>
         <comment>Can Migrate</comment>
         <translation>Нет</translation>
@@ -451,32 +457,32 @@
         <translation type="vanished">Нет</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Username</source>
         <translation>Имя пользователя</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Account</source>
         <translation>Учётная запись</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="388"/>
         <source>Can Migrate?</source>
         <translation>Можно перенести?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Имя пользователя Minecraft, связанное с учётной записью.</translation>
     </message>
@@ -485,22 +491,22 @@
         <translation type="vanished">Профиль</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>User name of the account.</source>
         <translation>Имя учётной записи.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Type of the account - Mojang or MSA.</source>
         <translation>Тип учетной записи - Mojang или MSA.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="403"/>
         <source>Current status of the account.</source>
         <translation>Текущий статус аккаунта.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="405"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
         <translation>Возможен ли перенос данной учётной записи на учётную запись Microsoft?</translation>
@@ -2123,17 +2129,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Скачать мод Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="506"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 из %2 завершено</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="519"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
         <source>Copying Blocked Mods...</source>
         <translation>Копирование заблокированных модов...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="532"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="533"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Копирование заблокированных модов (%1 из %2 выполнены)</translation>
     </message>
@@ -2147,17 +2153,17 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>Этой &apos;Папке&apos; возможно нужна распаковка: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="486"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Вложение сборки в сборку не реализовано, ничего не было получено: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="491"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Нераспознанный/необработанный PackageType для: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="511"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="512"/>
         <source>Downloading mods...</source>
         <translation>Загрузка модов...</translation>
     </message>
@@ -3453,12 +3459,12 @@ You can change the Java version in the settings later.
 <context>
     <name>JavaWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="94"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="96"/>
         <source>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
@@ -9740,7 +9746,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="460"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="461"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -9751,22 +9757,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 %4 Всего</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
         <source>Language</source>
         <translation>Язык</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="482"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
         <source>Completeness</source>
         <translation>Завершенность</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="492"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
         <source>The native language name.</source>
         <translation>Родное название языка.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="496"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="497"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Завершенность - это отношение переведенных строк к их общему количеству, не считая автоматически распознанные.</translation>
     </message>
@@ -10471,12 +10477,12 @@ Please add your Mojang or Minecraft account.</source>
         <translation>%1 (используется)</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="205"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="201"/>
         <source>Recommended</source>
         <translation>Рекомендованная</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="212"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
         <source>Latest</source>
         <translation>Последний</translation>
     </message>
@@ -10736,22 +10742,22 @@ It may be necessary to reinstall it.</source>
 Возможно, его необходимо переустановить.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
         <source>Select a Minecraft world zip</source>
         <translation>Выберите zip-архив сохранения Minecraft</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>Zip-файл сохранения Minecraft (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
         <source>Copy World</source>
         <translation>Копировать сохранение</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="396"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Изменение сохранения во время работы игры небезопасно.
@@ -10774,23 +10780,23 @@ Are you sure?</source>
 Вы уверены?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="443"/>
         <source>World name</source>
         <translation>Название сохранения</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
         <source>Enter a new name for the copy.</source>
         <translation>Введите новое имя для копии.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <source>Rename World</source>
         <translation>Переименовать мир</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="443"/>
         <source>Enter a new world name.</source>
         <translation>Введите название нового сохранения.</translation>
     </message>
@@ -10971,22 +10977,22 @@ Please set up your account according to %1.</source>
         <translation>Аккаунт Mojang больше не существует. Возможно, он был перенесен в аккаунт Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="281"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
         <translation>Не удалось произвести авторизацию из-за сетевой ошибки: %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="306"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
         <translation>Не удалось разобрать ответ сервера аутентификации, JSON-ответ: %1 со смещением %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="330"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
         <translation>Произошла неизвестная ошибка при попытке установить связь с сервером авторизации: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="352"/>
         <source>An unknown Yggdrasil error occurred.</source>
         <translation>При работе Yggdrasil произошла неизвестная ошибка.</translation>
     </message>

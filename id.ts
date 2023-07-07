@@ -402,19 +402,25 @@
         <translation>Tidak ada</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
+        <source>Unknown</source>
+        <comment>Account status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
         <translation type="unfinished">T/A</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
         <translation type="unfinished">Bisa</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
         <source>No</source>
         <comment>Can Migrate</comment>
         <translation type="unfinished">Tidak Bisa</translation>
@@ -435,32 +441,32 @@
         <translation type="vanished">Tidak Bisa</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Username</source>
         <translation>Nama pengguna</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Account</source>
         <translation>Akun</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Type</source>
         <translation>Tipe</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="388"/>
         <source>Can Migrate?</source>
         <translation>Bisa Migrasi?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Nama pengguna Minecraft yang terasosiasi dengan akun tersebut.</translation>
     </message>
@@ -469,22 +475,22 @@
         <translation type="vanished">Profil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>User name of the account.</source>
         <translation>Nama pengguna akun.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Type of the account - Mojang or MSA.</source>
         <translation>Tipe akun - Mojang atau MSA.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="403"/>
         <source>Current status of the account.</source>
         <translation>Status akun saat ini.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="405"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
         <translation>Bisakah akun ini bermigrasi ke sebuah akun Microsoft?</translation>
@@ -2075,17 +2081,17 @@ Coba ulang lagi.</translation>
         <translation>Unduhan Mod Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="506"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 dari %2 selesai</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="519"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
         <source>Copying Blocked Mods...</source>
         <translation>Menyalin Mod-mod Diblokir...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="532"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="533"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Menyalin Mod-mod diblokir (%1 dari %2 selesai)</translation>
     </message>
@@ -2099,17 +2105,17 @@ Coba ulang lagi.</translation>
         <translation>&apos;Folder&apos; ini mungkin perlu diekstrak: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="486"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Modpack bersarang dalam modpack tidak diimplementasikan, tidak ada yang diunduh: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="491"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>PackageType tidak dikenal / tidak tertangani untuk: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="511"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="512"/>
         <source>Downloading mods...</source>
         <translation>Mengunduh mods...</translation>
     </message>
@@ -3303,12 +3309,12 @@ Anda dapat mengubah versi Java di pengaturan nanti.
 <context>
     <name>JavaWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="94"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="96"/>
         <source>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
@@ -9041,7 +9047,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="460"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="461"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -9052,22 +9058,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 %4 jumlah</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
         <source>Language</source>
         <translation>Bahasa</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="482"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
         <source>Completeness</source>
         <translation>Kelengkapan</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="492"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
         <source>The native language name.</source>
         <translation>Nama bahasa asli.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="496"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="497"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Kelengkapan adalah persentase dari deretan yang telah diterjemahkan sepenuhnya, tidak termasuk yang ditebak secara otomatis.</translation>
     </message>
@@ -9732,12 +9738,12 @@ Mohon tambahkan akun Mojang atau Minecraft anda.</translation>
         <translation>%1 (dipasang)</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="205"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="201"/>
         <source>Recommended</source>
         <translation>Disarankan</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="212"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
         <source>Latest</source>
         <translation>Terbaru</translation>
     </message>
@@ -9995,22 +10001,22 @@ It may be necessary to reinstall it.</source>
 Disarankan untuk menginstall ulang MCEdit.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
         <source>Select a Minecraft world zip</source>
         <translation>Pilih dunia Minecraft yang berbentuk zip</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>File ZIP Dunia Minecraft (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
         <source>Copy World</source>
         <translation>Salin Dunia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="396"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Mengubah dunia disaat minecraft sedang berjalan berpotensi tidak aman.
@@ -10030,23 +10036,23 @@ Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="443"/>
         <source>World name</source>
         <translation>Nama Dunia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
         <source>Enter a new name for the copy.</source>
         <translation>Masukkan nama baru untuk salinan.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <source>Rename World</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="443"/>
         <source>Enter a new world name.</source>
         <translation>Masukkan nama baru dunia.</translation>
     </message>
@@ -10227,22 +10233,22 @@ Tolong atur akun anda menurut %1.</translation>
         <translation>Akun Mojang tidak ada lagi. Mungkin telah dimigrasikan ke akun Microsoft.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="281"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
         <translation>Operasi autentikasi gagal dikarenakan terdapat error dalam jaringan: %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="306"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
         <translation>Gagal menguraikan respon server autentikasi, respon JSON: %1 di offset %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="330"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
         <translation>Sebuah error yang tidak diketahui terjadi disaat mencoba untuk berkomunikasi dengan server autentikasi: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="352"/>
         <source>An unknown Yggdrasil error occurred.</source>
         <translation>Terjadi kesalahan Yggdrasil yang tidak diketahui.</translation>
     </message>

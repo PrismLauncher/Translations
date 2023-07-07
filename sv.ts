@@ -402,19 +402,25 @@
         <translation>Borta</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="336"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
+        <source>Unknown</source>
+        <comment>Account status</comment>
+        <translation type="unfinished">Okänd</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
         <translation>N/A</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
         <source>Yes</source>
         <comment>Can Migrate</comment>
         <translation>Ja</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="345"/>
         <source>No</source>
         <comment>Can Migrate</comment>
         <translation>Nej</translation>
@@ -435,32 +441,32 @@
         <translation type="vanished">Nej</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="376"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
         <source>Username</source>
         <translation>Användarnamn</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="378"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Account</source>
         <translation>Konto</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="380"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="388"/>
         <source>Can Migrate?</source>
         <translation>Kan migreras?</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="393"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Minecraft username associated with the account.</source>
         <translation>Minecraft-användarnamn som är associerat med kontot.</translation>
     </message>
@@ -469,22 +475,22 @@
         <translation type="vanished">Profil</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="395"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>User name of the account.</source>
         <translation>Användarnamn för kontot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
         <source>Type of the account - Mojang or MSA.</source>
         <translation>Kontotyp - Mojang eller MSA.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="403"/>
         <source>Current status of the account.</source>
         <translation>Aktuell status för kontot.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
+        <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="405"/>
         <source>Can this account migrate to a Microsoft account?</source>
         <oldsource>Name of the Minecraft profile associated with the account.</oldsource>
         <translation>Kan det här kontot migreras till ett Microsoft-konto?</translation>
@@ -2091,17 +2097,17 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <translation>Nedladdning av mod: Flame</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="505"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="506"/>
         <source>%1 out of %2 complete</source>
         <translation>%1 av %2 slutförda</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="519"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="520"/>
         <source>Copying Blocked Mods...</source>
         <translation>Kopierar blockerade mods...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="532"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="533"/>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
         <translation>Kopierar blockerade mods (%1 av %2 färdiga)</translation>
     </message>
@@ -2115,17 +2121,17 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
         <translation>Denna &apos;mapp&apos; kan behöva extraheras: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="485"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="486"/>
         <source>Nesting modpacks in modpacks is not implemented, nothing was downloaded: %1</source>
         <translation>Stöd för modpaket inuti andra modpaket är inte implementerat. Inget laddades ner: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="490"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="491"/>
         <source>Unrecognized/unhandled PackageType for: %1</source>
         <translation>Okänd/obehandlad PaketTyp för: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="511"/>
+        <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="512"/>
         <source>Downloading mods...</source>
         <translation>Laddar ner mods...</translation>
     </message>
@@ -3379,12 +3385,12 @@ Du kan ändra Java-versionen i inställningarna senare.
 <context>
     <name>JavaWizardPage</name>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="94"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
         <source>Java</source>
         <translation>Java</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="95"/>
+        <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="96"/>
         <source>You do not have a working Java set up yet or it went missing.
 Please select one of the following or browse for a Java executable.</source>
         <oldsource>You do not have a working Java set up yet or it went missing.
@@ -9451,7 +9457,7 @@ Varning: Denna resurs är hårt länkad någon annanstans. Om du redigerar den �
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="460"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="461"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -9462,22 +9468,22 @@ Varning: Denna resurs är hårt länkad någon annanstans. Om du redigerar den �
 %4 totalt</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="478"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
         <source>Language</source>
         <translation>Språk</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="482"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
         <source>Completeness</source>
         <translation>Fullständighet</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="492"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
         <source>The native language name.</source>
         <translation>Språkets lokala namn.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="496"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="497"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Fullständighet är antalet procent av fullt översätta meningar, de som har maskinöversatts automatiskt räknas inte.</translation>
     </message>
@@ -10180,12 +10186,12 @@ Var god och lägg till ditt Mojang- eller Minecraft konto.</translation>
         <translation>%1 (installerad)</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="205"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="201"/>
         <source>Recommended</source>
         <translation>Rekommenderad</translation>
     </message>
     <message>
-        <location filename="src/launcher/VersionProxyModel.cpp" line="212"/>
+        <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
         <source>Latest</source>
         <translation>Senaste</translation>
     </message>
@@ -10445,22 +10451,22 @@ It may be necessary to reinstall it.</source>
 Det kan vara nödvändigt att installera om det.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="373"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
         <source>Select a Minecraft world zip</source>
         <translation>Välj en Minecraft-värld (ZIP-format)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="374"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="375"/>
         <source>Minecraft World Zip File (*.zip)</source>
         <translation>Minecraftvärld (*.zip)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="413"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="414"/>
         <source>Copy World</source>
         <translation>Kopiera värld</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="395"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="396"/>
         <source>Changing a world while Minecraft is running is potentially unsafe.
 Do you wish to proceed?</source>
         <translation>Att ändra en värld samtidigt som Minecraft körs kan potentiellt skada den.
@@ -10483,23 +10489,23 @@ Världen kan försvinna för alltid (VÄLDIGT LÄNGE).
 Är du säker?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="443"/>
         <source>World name</source>
         <translation>Världens namn</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="419"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="420"/>
         <source>Enter a new name for the copy.</source>
         <translation>Välj ett nytt namn för kopian.</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="435"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="436"/>
         <source>Rename World</source>
         <translation>Byt namn på världen</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="442"/>
+        <location filename="src/launcher/ui/pages/instance/WorldListPage.cpp" line="443"/>
         <source>Enter a new world name.</source>
         <translation>Ange ett nytt namn på världen.</translation>
     </message>
@@ -10672,22 +10678,22 @@ Vänligen ställ in ditt konto enligt %1.</translation>
         <translation>Mojang-kontot finns inte längre. Det kan ha migrerats till ett Microsoft-konto.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="280"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="281"/>
         <source>Authentication operation failed due to a network error: %1 (%2)</source>
         <translation>Autentiseringsoperationen misslyckades på grund av ett nätverksfel: %1 (%2)</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="305"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="306"/>
         <source>Failed to parse authentication server response JSON response: %1 at offset %2.</source>
         <translation>Misslyckades med att analysera serverns JSON-svar: %1 vid offset %2.</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="329"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="330"/>
         <source>An unknown error occurred when trying to communicate with the authentication server: %1</source>
         <translation>Ett okänt fel inträffade vid försök att kommunicera med autentiseringsservern: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="351"/>
+        <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="352"/>
         <source>An unknown Yggdrasil error occurred.</source>
         <translation>Ett okänt Yggdrasil-fel inträffade.</translation>
     </message>
