@@ -99,7 +99,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>後設資料伺服器</translation>
+        <translation>後設資料伺服器（&amp;D）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
@@ -250,7 +250,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="992"/>
         <source>Failed to create libraries component</source>
-        <translation>建立元件程式庫失敗</translation>
+        <translation>建立元件函式庫失敗</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1016"/>
@@ -1166,12 +1166,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>使用符號連結或是永久連結而不是複製檔案。</translation>
+        <translation>使用符號連結或是硬連結而不是複製檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
         <source>Symbolic and Hard Link Options</source>
-        <translation>符號連結和永久連結選項</translation>
+        <translation>符號連結和硬連結選項</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="248"/>
@@ -1201,12 +1201,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="304"/>
         <source>Use hard links instead of copying files.</source>
-        <translation>使用永久連結而不要複製檔案。</translation>
+        <translation>使用硬連結而不要複製檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="307"/>
         <source>Use hard links</source>
-        <translation>使用永久連結</translation>
+        <translation>使用硬連結</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="314"/>
@@ -8567,7 +8567,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此資源在其他地方是永久連結的。編輯它也會改變原來的。</translation>
+警告：此資源在其他地方是硬鏈接的。編輯它也會改變原來的。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
@@ -8659,7 +8659,7 @@ Canonical Path: %1</source>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-警告：此世界已永久連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
+警告：此世界已硬連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -10430,7 +10430,7 @@ Please add your Mojang or Minecraft account.</source>
         <source>
 This world is hard linked elsewhere.</source>
         <translation>
-這個世界在別處是永久連結的。</translation>
+這個世界在別處是硬連結的。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="239"/>
@@ -10442,7 +10442,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>警告：此世界已永久連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
+        <translation>警告：此世界已硬連結至其他位置，若修改也會同步修改該位置的檔案。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
