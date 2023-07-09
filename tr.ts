@@ -94,7 +94,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation>Özel bir Kullanıcı Aracısı girin. Özel dize $LAUNCHER_VER, başlatıcının sürümüyle değiştirilecek.</translation>
+        <translation>Buraya özel bir Kullanıcı Aracısı girin. Özel dize $LAUNCHER_VER, başlatıcının sürümü ile değiştirilecektir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -3437,7 +3437,7 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>Dilinizi görmüyor veya kalitesi kötü mü?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Çevirilerde bize yardım et!&lt;/a&gt;</translation>
+        <translation>Dil mevcut değil veya kalitesiz mi?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Çevirilerde bize yardım et!&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5340,6 +5340,13 @@ Do you wish to proceed?</source>
 %1
 
 Bu profili silmek diğer profili de bozabilir,
+
+Devam etmek istiyor musunuz?</numerusform>
+            <numerusform>Aşağıdaki profiller bu profildeki dosyaları kullanıyor olabilir:
+
+%1
+
+Bu profili silmek diğer profilleri de bozabilir,
 
 Devam etmek istiyor musunuz?</numerusform>
         </translation>
