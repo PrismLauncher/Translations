@@ -2808,7 +2808,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JProfiler.cpp" line="41"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pemprofilan dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -2821,7 +2821,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/tools/JVisualVM.cpp" line="39"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pemprofilan dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -3547,7 +3547,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="212"/>
         <location filename="src/launcher/minecraft/launch/LauncherPartLaunch.cpp" line="226"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Permainan ranap.</translation>
     </message>
 </context>
 <context>
@@ -3616,7 +3616,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mengekstrak modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="125"/>
@@ -3670,7 +3670,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui" line="121"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="224"/>
@@ -3680,7 +3680,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tugasan dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
@@ -4461,7 +4461,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="950"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tugasan dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="950"/>
@@ -4753,7 +4753,7 @@ Adakah anda ingin meneruskan?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="168"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tugasan dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="168"/>
@@ -5542,7 +5542,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="57"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> (versi %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthInstanceCreationTask.cpp" line="137"/>
@@ -5613,7 +5613,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="268"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (Semasa)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="281"/>
@@ -5701,7 +5701,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="259"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pautan eksternal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="263"/>
@@ -5747,7 +5747,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h" line="62"/>
@@ -5859,7 +5859,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tiada kumpulan</translation>
     </message>
 </context>
 <context>
@@ -6308,7 +6308,7 @@ Pilih nama anda dengan teliti:</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="26"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sila tunggu...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ProgressDialog.ui" line="49"/>
@@ -7129,7 +7129,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="219"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pautan eksternal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="223"/>
@@ -7425,7 +7425,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="62"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.ui" line="80"/>
@@ -7924,12 +7924,12 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="47"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Muat turun modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="62"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mengekstrak modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp" line="70"/>
@@ -7976,7 +7976,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="139"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mengekstrak modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/SolderPackInstallTask.cpp" line="186"/>
@@ -8051,7 +8051,7 @@ inheritsFrom is missing</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="22"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/technic/TechnicPage.ui" line="74"/>
