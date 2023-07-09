@@ -10145,7 +10145,7 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="389"/>
         <source>Some components could not be imported. Check logs for details</source>
-        <translation>Bazı bileşenler içe aktarılamadı. Ayrıntılar için logları kontrol edin</translation>
+        <translation>Bazı bileşenler içe aktarılamadı. Ayrıntılar için günlüğü kontrol edin</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.cpp" line="398"/>
