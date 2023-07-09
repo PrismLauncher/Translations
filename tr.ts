@@ -5342,13 +5342,6 @@ Do you wish to proceed?</source>
 Bu profili silmek diğer profili de bozabilir,
 
 Devam etmek istiyor musunuz?</numerusform>
-            <numerusform>Aşağıdaki profiller bu profildeki dosyaları kullanıyor olabilir:
-
-%1
-
-Bu profili silmek diğer profillleri de bozabilir,
-
-Devam etmek istiyor musunuz?</numerusform>
         </translation>
     </message>
     <message>
