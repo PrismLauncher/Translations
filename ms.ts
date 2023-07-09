@@ -232,7 +232,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="907"/>
         <source>Extracting mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengekstrak mod...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="980"/>
@@ -301,7 +301,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentang Qt</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
@@ -556,7 +556,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Skin Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Padam Kekulit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -753,7 +753,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="40"/>
         <source>Select Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih yang Disyorkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="33"/>
@@ -763,7 +763,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.ui" line="47"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus Semua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="345"/>
@@ -773,7 +773,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="346"/>
         <source>Share code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kongsi kod:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlOptionalModDialog.cpp" line="360"/>
@@ -804,7 +804,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="59"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui" line="74"/>
@@ -859,7 +859,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/tools/BaseProfiler.cpp" line="30"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemprofilan dibatalkan</translation>
     </message>
 </context>
 <context>
@@ -882,7 +882,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="52"/>
         <source>Open Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka yang Hilang</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.cpp" line="55"/>
@@ -912,7 +912,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/BlockedModsDialog.ui" line="62"/>
         <source>Watched Folders:</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder yang Dilihat:</translation>
     </message>
 </context>
 <context>
@@ -920,12 +920,12 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="54"/>
         <source>Equipping cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Memasang mantel</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/services/CapeChange.cpp" line="73"/>
         <source>Removing cape</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengalih keluar mantel</translation>
     </message>
 </context>
 <context>
@@ -951,7 +951,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="52"/>
         <source>Skip all</source>
-        <translation type="unfinished"></translation>
+        <translation>Langkau semua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ChooseProviderDialog.ui" line="59"/>
@@ -1019,7 +1019,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="290"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sila tunggu...</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="292"/>
@@ -1034,7 +1034,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="296"/>
         <source>Task finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugasan selesai.</translation>
     </message>
 </context>
 <context>
@@ -1042,7 +1042,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1057,7 +1057,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="198"/>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih semua</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="131"/>
@@ -1072,7 +1072,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="134"/>
         <source>Copy mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="151"/>
@@ -1087,7 +1087,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="175"/>
         <source>Copy saves</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin simpanan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="218"/>
@@ -1178,7 +1178,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="168"/>
         <source>Copy servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin pelayan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="144"/>
@@ -1193,12 +1193,12 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="182"/>
         <source>Copy screenshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin tangkapan layar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="81"/>
         <source>No group</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiada kumpulan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.cpp" line="103"/>
@@ -1221,7 +1221,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.h" line="79"/>
         <source>Core mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod teras</translation>
     </message>
 </context>
 <context>
@@ -1238,25 +1238,25 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="32"/>
         <source>&amp;Custom Commands</source>
         <oldsource>Cus&amp;tom Commands</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Perintah Tersuai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="44"/>
         <source>P&amp;ost-exit command:</source>
         <oldsource>Post-exit command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;erintah pascakeluar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="57"/>
         <source>&amp;Pre-launch command:</source>
         <oldsource>Pre-launch command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Perintah pralancar:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="70"/>
         <source>&amp;Wrapper command:</source>
         <oldsource>Wrapper command:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Perintah pemb&amp;ungkus:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
@@ -1270,7 +1270,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/CustomCommandsPage.h" line="55"/>
         <source>Custom Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Perintah Tersuai</translation>
     </message>
 </context>
 <context>
@@ -1293,7 +1293,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="99"/>
         <source>Old Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Petikan Lama</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="109"/>
@@ -1319,7 +1319,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="177"/>
         <source>Mod Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemuat Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/CustomPage.ui" line="187"/>
@@ -1372,7 +1372,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="26"/>
         <source>Scanning files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengimbas fail...</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="48"/>
@@ -1382,7 +1382,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="61"/>
         <source>Copying %1…</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyalin %1…</translation>
     </message>
     <message>
         <location filename="src/launcher/DataMigrationTask.cpp" line="73"/>
@@ -1414,7 +1414,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permainan ranap.</translation>
     </message>
 </context>
 <context>
@@ -1475,7 +1475,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="51"/>
         <source>Got entitlements</source>
-        <translation type="unfinished"></translation>
+        <translation>Dapat hak milik</translation>
     </message>
 </context>
 <context>
@@ -1483,12 +1483,12 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.ui" line="14"/>
         <source>Export Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport Instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
@@ -1543,7 +1543,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="95"/>
         <source>Export %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="106"/>
@@ -1553,7 +1553,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugasan dibatalkan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportMrPackDialog.cpp" line="108"/>
@@ -1621,7 +1621,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="127"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>Lihat &amp;Konfigurasi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="130"/>
@@ -1631,7 +1631,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="135"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Lihat &amp;Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="143"/>
@@ -1673,7 +1673,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="204"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pilih %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="237"/>
@@ -1710,7 +1710,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="319"/>
         <source> (%1 installed)</source>
-        <translation type="unfinished"></translation>
+        <translation> (%1 dipasang)</translation>
     </message>
 </context>
 <context>
@@ -1731,17 +1731,17 @@ Adakah anda pasti?</translation>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="159"/>
         <source>&amp;Text Editor:</source>
         <oldsource>Text Editor:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Penyunting &amp;Teks:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.h" line="57"/>
         <source>External Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Alatan Eksternal</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="108"/>
         <source>JProfiler Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder JProfiler</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="116"/>
@@ -1775,7 +1775,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
         <source>JVisualVM Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Executable JVisualVM</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="153"/>
@@ -1792,12 +1792,12 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
         <source>MCEdit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikasi MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="185"/>
         <source>MCEdit Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder MCEdit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="194"/>
@@ -1814,7 +1814,7 @@ Adakah anda pasti?</translation>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
         <source>JSON Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Penyunting JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
@@ -1938,7 +1938,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="117"/>
         <source> (version %1)</source>
-        <translation type="unfinished"></translation>
+        <translation> (versi %1)</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="242"/>
@@ -2044,7 +2044,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="408"/>
         <source>%1 (Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Semasa)</translation>
     </message>
 </context>
 <context>
@@ -2052,7 +2052,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="88"/>
         <source>Version selected:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi yang dipilih:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="44"/>
@@ -2121,7 +2121,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="259"/>
         <source>External links:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pautan eksternal:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.cpp" line="263"/>
@@ -2166,7 +2166,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/GameOptionsPage.h" line="65"/>
         <source>Game Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Tetapan Permainan</translation>
     </message>
 </context>
 <context>
@@ -2194,7 +2194,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="104"/>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak diketahui (%1)</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/World.cpp" line="106"/>
@@ -2215,12 +2215,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="16"/>
         <source>Getting skin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mendapatkan kekulit.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/GetSkinStep.cpp" line="42"/>
         <source>Got skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Dapat kekulit</translation>
     </message>
 </context>
 <context>
@@ -2228,33 +2228,33 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.ui" line="14"/>
         <source>Pick icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih ikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="64"/>
         <source>Add Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambah Ikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="65"/>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus Ikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka Folder</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pilih Ikon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="107"/>
         <source>Icons %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon %1</translation>
     </message>
 </context>
 <context>
@@ -2300,12 +2300,12 @@ Please try again.</source>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="155"/>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pek Modrinth</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.cpp" line="156"/>
         <source>Choose modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
@@ -2334,7 +2334,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ImportResourceDialog.cpp" line="47"/>
         <source>File: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fail: %1</translation>
     </message>
 </context>
 <context>
@@ -2342,7 +2342,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="131"/>
         <source>License: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesen: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/InfoFrame.cpp" line="138"/>
@@ -2416,12 +2416,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="97"/>
         <source>Modpack download</source>
-        <translation type="unfinished"></translation>
+        <translation>Muat turun modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="135"/>
         <source>Extracting modpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengekstrak modpack</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="143"/>
@@ -2450,7 +2450,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/InstanceList.cpp" line="180"/>
         <source>%1 Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance %1</translation>
     </message>
 </context>
 <context>
@@ -2476,7 +2476,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="55"/>
         <source>Java insta&amp;llation</source>
-        <translation type="unfinished"></translation>
+        <translation>Pe&amp;masangan Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
@@ -2541,17 +2541,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
         <source>Java argumen&amp;ts</source>
-        <translation type="unfinished"></translation>
+        <translation>Ar&amp;gumen Java</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="251"/>
         <source>Game windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Tetingkap permainan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="260"/>
         <source>Game Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Tetingkap Permainan</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="272"/>
@@ -2562,17 +2562,17 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="281"/>
         <source>Window height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinggi tetingkap:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="288"/>
         <source>Window width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lebar tetingkap:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="332"/>
         <source>Conso&amp;le Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Tetapan Konso&amp;l</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="344"/>
@@ -2605,7 +2605,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="411"/>
         <source>Custom commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Perintah tersuai</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="421"/>
@@ -8748,7 +8748,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="121"/>
         <source>Branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Cabang</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="123"/>
@@ -8758,17 +8758,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="125"/>
         <source>Architecture</source>
-        <translation type="unfinished"></translation>
+        <translation>Seni Bina</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="127"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Laluan</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="129"/>
         <source>Released</source>
-        <translation type="unfinished"></translation>
+        <translation>Dikeluarkan</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="137"/>
@@ -8813,12 +8813,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="201"/>
         <source>Recommended</source>
-        <translation type="unfinished"></translation>
+        <translation>Disyorkan</translation>
     </message>
     <message>
         <location filename="src/launcher/VersionProxyModel.cpp" line="206"/>
         <source>Latest</source>
-        <translation type="unfinished"></translation>
+        <translation>Terkini</translation>
     </message>
 </context>
 <context>
