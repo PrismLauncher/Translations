@@ -2537,7 +2537,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Launcher, PolyMC veya MultiMC dışa çıkarılmış profiller (ZIP)</translation>
+        <translation>- Prism Başlatıcı, PolyMC veya MultiMC dışa çıkarılmış profiller (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -4730,7 +4730,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="337"/>
         <source>&amp;Kill</source>
-        <translation>&amp;Öldür</translation>
+        <translation>&amp;Sonlandır</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="325"/>
@@ -4858,7 +4858,7 @@ Sebep:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="471"/>
         <source>Prism Launcher (zip)</source>
-        <translation>Prism Launcher (zip)</translation>
+        <translation>Prism Başlatıcı (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="479"/>
