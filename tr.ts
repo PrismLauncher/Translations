@@ -1184,7 +1184,7 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="230"/>
         <source>Use symbolic or hard links instead of copying files.</source>
-        <translation>Dosyaları kopyalamak yerine sembolik veya sabit bağlantılar kullanın.</translation>
+        <translation>Dosyaları kopyalamak yerine sembolik veya hard bağlantılar kullanın.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="233"/>
