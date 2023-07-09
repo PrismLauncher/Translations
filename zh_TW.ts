@@ -8495,7 +8495,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
         <source>Deselect %1 for download</source>
-        <translation>取消選擇要下載的 %1</translation>
+        <translation>取消選擇要下載的%1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="275"/>
