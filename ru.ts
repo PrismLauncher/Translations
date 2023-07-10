@@ -1874,7 +1874,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="135"/>
         <source>JProfiler setup seems to be OK</source>
-        <translation>Установка JProfiler успешно завершена</translation>
+        <translation>Установка JProfiler выглядит нормально</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="145"/>
@@ -1892,7 +1892,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="172"/>
         <source>JVisualVM setup seems to be OK</source>
-        <translation>Установка JVisualVM успешно завершена</translation>
+        <translation>Установка JVisualVM выглядит нормально</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="183"/>
@@ -1915,7 +1915,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="213"/>
         <source>MCEdit setup seems to be OK</source>
-        <translation>Установка MCEdit успешно завершена</translation>
+        <translation>Установка MCEdit выглядит нормально</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="220"/>
@@ -1925,7 +1925,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
         <source>Invalid</source>
-        <translation>Недействительный</translation>
+        <translation>Недействительно</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>
@@ -2009,12 +2009,12 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="121"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation>Подготавливаю моды для CurseForge...</translation>
+        <translation>Подготовка модов для CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation>Отключённые моды не будут обновлены для предотвращения ошибок их дублирования!</translation>
+        <translation>Отключенные моды не будут обновлены, чтобы предотвратить дублирование модов!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="130"/>
@@ -2046,7 +2046,7 @@ Please try again.</source>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="279"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не удалось понять манифест пакета:
+        <translation>Не удалось разобрать манифест пакета:
 </translation>
     </message>
     <message>
@@ -2131,7 +2131,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="438"/>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation>Эти файлы недоступны для сторонних лаунчерах.&lt;br/&gt;Вам нужно скачать их вручную и добавить их сборку.</translation>
+        <translation>Эти файлы недоступны для сторонних лаунчеров.&lt;br/&gt;Вам нужно скачать их вручную и добавить их сборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameInstanceCreationTask.cpp" line="460"/>
@@ -2183,7 +2183,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="346"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Привет!&lt;/h1&gt;&lt;h4&gt;Похоже, ваш Pack ID недействителен. Это связано с ошибкой в старых версиях программы запуска.&lt;br/&gt;К сожалению, без этой информации мы не можем выполнять правильные запросы к API.&lt;br/&gt;&lt;br/&gt;Итак, чтобы эта функция работала, вам нужно будет повторно загрузить сборку модов из встроенного загрузчика.&lt;br/&gt;&lt;br/&gt;Не волнуйтесь, вместо этого вам будет предложено обновить эту сборку, чтобы вы не потеряли эту сборку!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Привет!&lt;/h1&gt;&lt;h4&gt;Похоже, ваш Pack ID недействителен. Это связано с ошибкой в старых версиях лаунчера.&lt;br/&gt;К сожалению, без этой информации мы не можем выполнять правильные запросы к API.&lt;br/&gt;&lt;br/&gt;Итак, чтобы эта функция работала, вам нужно будет повторно загрузить сборку из встроенного загрузчика.&lt;br/&gt;&lt;br/&gt;Не волнуйтесь, вместо этого вам будет предложено обновить эту сборку, чтобы вы не потеряли эту сборку!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="408"/>
@@ -2280,7 +2280,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
         <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Примечание: CurseForge позволяет авторам блокировать доступ для сторонних приложений таких как Prism Launcher. В связи с этим, вам может потребоваться загрузить некоторые моды вручную, чтобы установить модпак.</translation>
+        <translation>Примечание: CurseForge позволяет авторам блокировать доступ для сторонних приложений, таких как Prism Launcher. В связи с этим, вам может потребоваться загрузить некоторые моды вручную, чтобы установить модпак.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
