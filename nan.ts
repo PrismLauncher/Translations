@@ -796,7 +796,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="28"/>
         <source>Initializing</source>
-        <translation>Initializing</translation>
+        <translation>當咧原初化</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/flows/AuthFlow.cpp" line="58"/>
@@ -900,13 +900,14 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation type="unfinished"></translation>
+        <translation>實例咧載入/檢查的時，拄著猶未解決的相倚性問題。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
         <source>Component metadata update task failed while downloading from remote server:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>對伺服器下載部件的後設資料時陣出現錯誤：
+%1</translation>
     </message>
 </context>
 <context>
@@ -914,12 +915,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="71"/>
         <source>Failed to abort all running tasks.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法度停止所有當咧執行的任務。</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="149"/>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished"></translation>
+        <translation>當咧執行 %1 个 任務（%3 个任務當中已經完成 %2 个）</translation>
     </message>
 </context>
 <context>
@@ -927,7 +928,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="17"/>
         <source>Copy Instance</source>
-        <translation type="unfinished"></translation>
+        <translation>複製實例</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/CopyInstanceDialog.ui" line="74"/>
@@ -1001,7 +1002,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/widgets/CustomCommands.ui" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;預啟動指令（Pre-launch command）會佇實例啟動進前就執行，而結束後指令（post-exit command）會佇伊結束了後才執行。&lt;/p&gt;&lt;p&gt; 這兩个攏會佇啟動器的工作鋏仔當中佮附加的環境變數執行：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - 實例的名&lt;/li&gt;&lt;li&gt;$INST_ID - 實例的 ID（資料鋏仔名稱）&lt;/li&gt;&lt;li&gt;$INST_DIR - 實例的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraft 的絕對路徑&lt;/li&gt;&lt;li&gt;$INST_JAVA - 啟動所揀的 Java 執行檔&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - 啟動所用的命令列引數&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;包裝指令允准啟動的時陣使用其他的包裝程式（像 Linux 中的「optirun」）&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1056,29 +1057,29 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="88"/>
         <source>Checking if mods have metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>當咧檢查 mods 敢有後設資料…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="162"/>
         <source>Requesting metadata information from %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>當咧向 %1 請求後設資料資訊…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="164"/>
         <source>Requesting metadata information from %1 for &apos;%2&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在向 %1 請求「%2」的後設資料資訊…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="243"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="318"/>
         <source>Parsing API response from Modrinth for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在處理「%1」的 Modrinth API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="389"/>
         <location filename="src/launcher/modplatform/EnsureMetadataTask.cpp" line="456"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>當咧處理 CurseForge 對“%1”的 API 回應…</translation>
     </message>
 </context>
 <context>
@@ -1086,7 +1087,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="14"/>
         <source>Determining game ownership.</source>
-        <translation type="unfinished"></translation>
+        <translation>當咧檢查你敢有買遊戲。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/EntitlementsStep.cpp" line="52"/>
@@ -1159,74 +1160,74 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="107"/>
         <source>Remove selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>共揀起來的項目刣掉</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="112"/>
         <source>&amp;Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>開開（&amp;E）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="115"/>
         <source>Enable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>共揀起來的項目開開</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="120"/>
         <source>&amp;Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>禁掉（&amp;D）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="123"/>
         <source>Disable selected item</source>
-        <translation type="unfinished"></translation>
+        <translation>共揀起來的項目禁掉</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="128"/>
         <source>View &amp;Configs</source>
-        <translation type="unfinished"></translation>
+        <translation>檢視配置（&amp;C）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="131"/>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>佇檔案總管共「config」資料鋏仔拍開。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="136"/>
         <source>View &amp;Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>檢視資料鋏仔（&amp;F）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="144"/>
         <source>&amp;Download</source>
-        <translation type="unfinished"></translation>
+        <translation>下載（&amp;D）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="147"/>
         <source>Download a new resource</source>
-        <translation type="unfinished"></translation>
+        <translation>下載新的資源</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="155"/>
         <source>Check for &amp;Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查更新（&amp;U）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="158"/>
         <source>Try to check or update all selected resources (all resources if none are selected)</source>
         <oldsource>&quot;Tries to find / update all selected resources (all resources if none is selected)&quot;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>共揀起來的資源攏檢查抑更新看覓（若無揀任何物件就會檢查所有資源）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="65"/>
         <source>Context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>功能表</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="147"/>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>揀 %1</translation>
     </message>
 </context>
 <context>
@@ -1236,7 +1237,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="96"/>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="133"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>檢查</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.ui" line="150"/>
