@@ -83,11 +83,11 @@
             "untranslated" : 785
         },
         "de" : {
-            "file" : "2187c16649c692a72790ff0d8332fd8461e9b717.class",
-            "sha1" : "2187c16649c692a72790ff0d8332fd8461e9b717",
-            "size" : 245649,
-            "translated" : 1625,
-            "fuzzy" : 13,
+            "file" : "586d9a0ea103ca3c1ba5950da4c1fbdfa4c9b5e1.class",
+            "sha1" : "586d9a0ea103ca3c1ba5950da4c1fbdfa4c9b5e1",
+            "size" : 245645,
+            "translated" : 1626,
+            "fuzzy" : 12,
             "untranslated" : 8
         },
         "de_CH" : {
@@ -323,9 +323,9 @@
             "untranslated" : 48
         },
         "ja_KANJI" : {
-            "file" : "7f0661e36d3f330b8b9cce3957f9fb082fcba09a.class",
-            "sha1" : "7f0661e36d3f330b8b9cce3957f9fb082fcba09a",
-            "size" : 87560,
+            "file" : "ce8b97e08936e06a1a49384c16a9f80ddec02207.class",
+            "sha1" : "ce8b97e08936e06a1a49384c16a9f80ddec02207",
+            "size" : 87632,
             "translated" : 709,
             "fuzzy" : 151,
             "untranslated" : 786
@@ -403,12 +403,12 @@
             "untranslated" : 998
         },
         "nan" : {
-            "file" : "03629b3eb67c296e12711fbfb8e350f5a8d03fac.class",
-            "sha1" : "03629b3eb67c296e12711fbfb8e350f5a8d03fac",
-            "size" : 17565,
-            "translated" : 188,
+            "file" : "8eb154ca9f7aa1eea211781e777e147446aaf73f.class",
+            "sha1" : "8eb154ca9f7aa1eea211781e777e147446aaf73f",
+            "size" : 21877,
+            "translated" : 215,
             "fuzzy" : 0,
-            "untranslated" : 1213
+            "untranslated" : 1186
         },
         "nb" : {
             "file" : "0da1e606b9cd5f4ae30645f99508eb2a345cb503.class",
@@ -483,9 +483,9 @@
             "untranslated" : 649
         },
         "ru" : {
-            "file" : "a8846500d4ebbd1d41e06db51adc5d477fd727f0.class",
-            "sha1" : "a8846500d4ebbd1d41e06db51adc5d477fd727f0",
-            "size" : 235556,
+            "file" : "919ae5ebfe06fcf05700a7da4611048d97a1c049.class",
+            "sha1" : "919ae5ebfe06fcf05700a7da4611048d97a1c049",
+            "size" : 235530,
             "translated" : 1628,
             "fuzzy" : 15,
             "untranslated" : 3
