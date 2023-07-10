@@ -3324,7 +3324,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
-        <translation>あなたの言語が見つからないか、質が低いですか? &lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳を手伝ってください!&lt;/a&gt;</translation>
+        <translation>あなたの言語が見つからないか、質が低いですか? &lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;翻訳を手伝ってください!&lt;/a&gt; なお、「日本語(漢字)」ではなく、「日本語」版の使用を強く推奨します！</translation>
     </message>
 </context>
 <context>
