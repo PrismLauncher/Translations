@@ -13,17 +13,17 @@
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="45"/>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Сэрвіс &amp;Устаўкі</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="58"/>
         <source>Base &amp;URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Базавы &amp;URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="78"/>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заўвага: магчыма, вы пажадаеце зьмяніць альбо ачысьціць URL пасьля зьмены сэрвіса ўстаўкі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
         <source>User Agent</source>
-        <translation>Карыстальнік Агент</translation>
+        <translation>User Agent</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
@@ -91,12 +91,12 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
         <source>Meta&amp;data Server</source>
-        <translation>Мета%дата Сэрвер</translation>
+        <translation>Сэр&amp;вер метададзеных</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="97"/>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation>Вы можаце адзначыць гэта для 3-паці метадата сэрвера каб карыстаць патчные  бібліятэкі або іншыя взломы</translation>
+        <translation>Вы можаце напісаць іншы сэрвер метададзеных для выкарыстаньня патчаныя бібліятэкі альбо іншыя хакі.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="117"/>
