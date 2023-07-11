@@ -1855,7 +1855,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="240"/>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Подтвердите удаление</translation>
+        <translation>Подтвердить удаление</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="322"/>
@@ -2649,7 +2649,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="74"/>
         <source>Open Folder</source>
-        <translation>Папка с иконками</translation>
+        <translation>Открыть папку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/IconPickerDialog.cpp" line="104"/>
@@ -3694,7 +3694,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="247"/>
         <source>Play demo?</source>
-        <translation>Сыграть в демо?</translation>
+        <translation>Сыграть в демо-версию?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="248"/>
@@ -3705,12 +3705,12 @@ Do you want to play the demo?</source>
         <translation>Эта учётная запись не владеет Minecraft.
 Чтобы поиграть, вам нужно сначала купить игру.
 
-Хотите сыграть в демо?</translation>
+Хотите сыграть в демо-версию?</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="250"/>
         <source>Play Demo</source>
-        <translation>Сыграть в демо</translation>
+        <translation>Сыграть в демо-версию</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="251"/>
@@ -3730,7 +3730,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="290"/>
         <source>The account has expired and needs to be logged into manually again.</source>
-        <translation>Cрок действия учетной записи истёк, необходимо войти в систему самостоятельно.</translation>
+        <translation>Cрок действия учетной записи истёк, необходимо снова войти в систему.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="293"/>
@@ -3750,7 +3750,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="314"/>
         <source>The account no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
-        <translation>Аккаунт больше не существует на серверах. Возможно, он был перенесен, в этом случае добавьте новый аккаунт, на который вы перенесли нынешний.</translation>
+        <translation>Аккаунт больше не существует на серверах. Возможно, он был перенесен, в этом случае добавьте новый аккаунт, на который вы перенесли этот.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="317"/>
@@ -3789,7 +3789,7 @@ Do you want to play the demo?</source>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation>Запуск игры приостановлен до тех пор, пока вы не нажмете кнопку. Это подходящее время, чтобы настроить профайлер, поскольку сервер профайлера сейчас работает.
+        <translation>Запуск игры приостановлен до тех пор, пока вы не нажмете кнопку. Это подходящее время, чтобы настроить профайлер, поскольку сервер профайлера запущен.
 
 %1</translation>
     </message>
@@ -3826,7 +3826,7 @@ Do you want to play the demo?</source>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="477"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
-        <translation>Это может привести к нарушению работоспособности игры. Используйте только в случае зависания клиента Minecraft по какой-либо причине</translation>
+        <translation>Это может привести к нарушению работоспособности игры. Используйте только в случае зависания Minecraft по какой-либо причине</translation>
     </message>
 </context>
 <context>
@@ -3903,12 +3903,12 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="119"/>
         <source>&amp;Mods:</source>
-        <translation>&amp;Моды:</translation>
+        <translation>Моды:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="143"/>
         <source>&amp;Icons:</source>
-        <translation>&amp;Иконки:</translation>
+        <translation>Иконки:</translation>
     </message>
     <message>
         <source>Move the data to new location (will restart the launcher)</source>
@@ -3922,7 +3922,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="218"/>
         <source>Instance view sorting mode</source>
-        <translation>Режим сортировки установок</translation>
+        <translation>Режим сортировки сборок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="224"/>
@@ -3933,7 +3933,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="234"/>
         <source>By &amp;name</source>
-        <translation>По &amp;названию</translation>
+        <translation>По названию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="247"/>
@@ -4035,7 +4035,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="73"/>
         <source>&amp;Downloads:</source>
-        <translation>&amp;Скачиваний:</translation>
+        <translation>Скачи&amp;ваний:</translation>
     </message>
     <message>
         <source>...</source>
@@ -4065,7 +4065,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="274"/>
         <source>&amp;Replace toolbar with menubar</source>
         <oldsource>Replace toolbar with menubar</oldsource>
-        <translation>Заменить панель инструментов строкой меню</translation>
+        <translation>Заменить панель инструментов стро&amp;кой меню</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="298"/>
@@ -4105,7 +4105,7 @@ You may have to fix your mods because the game is still logging to files and lik
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="340"/>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation>Прекратить запись в журнал при его переполнении</translation>
+        <translation>Прекращать запись в журнал при его переполнении</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="353"/>
@@ -4121,7 +4121,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="104"/>
         <source>Instance Folder</source>
-        <translation>Папка установок</translation>
+        <translation>Папка сборки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="113"/>
@@ -4156,7 +4156,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="154"/>
         <source>Icons Folder</source>
-        <translation>Папка со иконками</translation>
+        <translation>Папка с иконками</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="166"/>
@@ -4166,7 +4166,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="178"/>
         <source>Downloads Folder</source>
-        <translation>Папка Загрузок</translation>
+        <translation>Папка загрузок</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.cpp" line="308"/>
@@ -4356,12 +4356,12 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>Task aborted</source>
-        <translation>Задание прервано</translation>
+        <translation>Задача прервана</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="229"/>
         <source>The task has been aborted by the user.</source>
-        <translation>Задание было прервано пользователем.</translation>
+        <translation>Задача была прервана пользователем.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/legacy_ftb/Page.cpp" line="241"/>
@@ -4534,7 +4534,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation>&amp;Копировать</translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -5063,7 +5063,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="559"/>
         <source>&amp;View Launcher Root Folder</source>
-        <translation>&amp;Просмотреть корневую папку лаунчера</translation>
+        <translation>Прос&amp;мотреть корневую папку лаунчера</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="562"/>
@@ -5123,7 +5123,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="448"/>
         <source>Launch &amp;Demo</source>
-        <translation>Запустить демо-версию</translation>
+        <translation>Запустить демо-&amp;версию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="451"/>
@@ -5425,7 +5425,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="951"/>
         <source>Task aborted</source>
-        <translation>Задание прервано</translation>
+        <translation>Задача прервана</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="951"/>
@@ -5520,21 +5520,21 @@ Deleting it could break the other instance(s),
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Сборка может ссылаться на файл из этой сборки:
+            <numerusform>Сборка может ссылаться на файлы из этой сборки:
 
 %1
 
 Удаление этого файла может привести к неправильной работе другой сборки, 
 
 Вы хотите продолжить?</numerusform>
-            <numerusform>Сборка может ссылаться на файл из этой сборки:
+            <numerusform>Сборки могут ссылаться на файлы из этой сборки:
 
 %1
 
 Удаление этого файла может привести к неправильной работе нескольких сборок, 
 
 Вы хотите продолжить?</numerusform>
-            <numerusform>Сборка может ссылаться на файл из этой сборки:
+            <numerusform>Сборки могут ссылаться на файлы из этой сборки:
 
 %1
 
@@ -5604,7 +5604,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1421"/>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
-        <translation>Quilt на данный момент не поддерживается сборками модов CurseForge.</translation>
+        <translation>Quilt на данный момент не поддерживается сборками CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1424"/>
@@ -5615,7 +5615,7 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
         <source>Create instance Application</source>
-        <translation>Создать зависимость приложению</translation>
+        <translation>Создать приложение-сборку</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
@@ -5634,7 +5634,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1610"/>
         <source>Desktop Entries (*.desktop)</source>
-        <translation>Записи рабочего стола (*.desktop)</translation>
+        <translation>Ярлыки рабочего стола (*.desktop)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1649"/>
@@ -5720,12 +5720,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="37"/>
         <source>Pack information</source>
-        <translation>Информация о паке</translation>
+        <translation>Информация о сборке</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="45"/>
         <source>Pack name:</source>
-        <translation>Имя пака:</translation>
+        <translation>Имя сборки:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.ui" line="63"/>
@@ -5765,7 +5765,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="118"/>
         <source>Website: &lt;a href=%1&gt;%2&lt;/a&gt;    |    Pack ID: %3    |    Version ID: %4</source>
-        <translation>Сайт: &lt;a href=%1&gt;%2&lt;/a&gt;</translation>
+        <translation>Сайт: &lt;a href=%1&gt;%2&lt;/a&gt;    |    ID сборки: %3    |    ID версии: %4</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="161"/>
@@ -5875,7 +5875,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="925"/>
         <source>Minecraft %1</source>
-        <translation>Майнкрафт %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="930"/>
@@ -6046,7 +6046,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.h" line="62"/>
         <source>Minecraft</source>
-        <translation>Майнкрафт</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.cpp" line="126"/>
@@ -6231,7 +6231,7 @@ Are you sure?</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Warning: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование также изменит оригинал.
+Внимание: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование также изменит оригинал.
 Канонический путь: %1</translation>
     </message>
     <message>
@@ -6239,7 +6239,7 @@ Warning: Этот ресурс связан с другими ресурсами
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Warning: этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
+Внимание: этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ModFolderModel.cpp" line="61"/>
@@ -7178,7 +7178,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp" line="269"/>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation>Дискорд: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Loading versions...</source>
@@ -7310,12 +7310,12 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="39"/>
         <source>&amp;Group:</source>
-        <translation>&amp;Группа:</translation>
+        <translation>Гру&amp;ппа:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.ui" line="56"/>
         <source>&amp;Name:</source>
-        <translation>&amp;Название:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/NewInstanceDialog.cpp" line="96"/>
@@ -7462,7 +7462,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="67"/>
         <source>&amp;Copy</source>
-        <translation>&amp;Копировать</translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="74"/>
@@ -7867,18 +7867,18 @@ Choose your name carefully:</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="64"/>
         <source>&amp;Default</source>
-        <translation>&amp;По умолчанию</translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="74"/>
         <source>&amp;None</source>
-        <translation>&amp;Не использовать</translation>
+        <translation>Не использова&amp;ть</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="84"/>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation>SO&amp;CKS5</translation>
+        <translation>&amp;SOCKS5</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ProxyPage.ui" line="94"/>
@@ -8005,7 +8005,7 @@ You should double-check for personal information.
 
 Are you sure?</source>
         <translation>Вы собираетесь загрузить &quot;%1&quot; в %2.
-Вам следует дважды проверить личную информацию.
+Вам следует дважды проверить отсутствие личной информации.
 
 Вы уверены?</translation>
     </message>
@@ -8713,7 +8713,7 @@ Please update %1!</source>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="103"/>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="249"/>
         <source>Select %1 for download</source>
-        <translation>Выберете %1 для загрузки</translation>
+        <translation>Выбрать %1 для загрузки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="201"/>
@@ -8753,7 +8753,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="251"/>
         <source>Deselect %1 for download</source>
-        <translation>Уберите %1 для загрузки</translation>
+        <translation>Убрать %1 для загрузки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ResourcePage.cpp" line="275"/>
@@ -8854,7 +8854,7 @@ Please update %1!</source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Warning: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование также изменит оригинал.
+Внимание: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование также изменит оригинал.
 Канонический путь: %1</translation>
     </message>
     <message>
@@ -8862,12 +8862,12 @@ Warning: Этот ресурс связан с другими ресурсами
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Warning: Этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
+Внимание: Этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourceFolderModel.h" line="203"/>
@@ -8938,7 +8938,7 @@ Warning: Этот ресурс связан в другом месте при п
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="154"/>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation>Идентификационный номер пакета ресурсов, так же как Minecraft версия для которой он был разработан.</translation>
+        <translation>ID пакета ресурсов и версия Minecraft для которой он был разработан.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="108"/>
@@ -8946,7 +8946,7 @@ Warning: Этот ресурс связан в другом месте при п
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
         <translation>
-Warning: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование также изменит оригинал.
+Внимание: Этот ресурс связан с другими ресурсами при помощи символических ссылок. Его редактирование также изменит оригинал.
 Канонический путь: %1</translation>
     </message>
     <message>
@@ -8954,12 +8954,12 @@ Warning: Этот ресурс связан с другими ресурсами
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
         <translation>
-Warning: Этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
+Внимание: Этот ресурс связан в другом месте при помощи жёстких ссылок. Его редактирование также изменит оригинал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/ResourcePackFolderModel.cpp" line="54"/>
@@ -9153,7 +9153,7 @@ Warning: Этот ресурс связан в другом месте при п
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="92"/>
         <source>Copy File(s)</source>
-        <translation>Копировать файл(ы)</translation>
+        <translation>Скопировать файл(ы)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.h" line="76"/>
@@ -9187,7 +9187,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Вы собираетесь загрузить скриншоты %1 в %2.
+        <translation>Вы собираетесь загрузить %1 скриншотов в %2.
 Вы должны перепроверить личную информацию.
 
 Вы уверены?</translation>
@@ -9297,7 +9297,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="338"/>
         <source>Address</source>
-        <translation>IP Адрес</translation>
+        <translation>Адрес</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.cpp" line="340"/>
@@ -9310,7 +9310,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="72"/>
         <source>&amp;Name</source>
-        <translation>&amp;Название</translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="85"/>
@@ -9320,7 +9320,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="98"/>
         <source>Reso&amp;urces</source>
-        <translation>Рес&amp;урс-пак</translation>
+        <translation>Ресурс-пак</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ServersPage.ui" line="109"/>
@@ -9399,22 +9399,22 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="29"/>
         <source>&amp;Next &gt;</source>
-        <translation>&amp;Далее &gt;</translation>
+        <translation>Далее &gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="30"/>
         <source>&lt; &amp;Back</source>
-        <translation>&lt; &amp;Назад</translation>
+        <translation>&lt; Назад</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="31"/>
         <source>&amp;Finish</source>
-        <translation>&amp;Завершить</translation>
+        <translation>З&amp;авершить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="32"/>
         <source>&amp;Refresh</source>
-        <translation>&amp;Обновить</translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/SetupWizard.cpp" line="33"/>
@@ -9511,12 +9511,12 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="61"/>
         <source>Steve Model</source>
-        <translation>Стив</translation>
+        <translation>Модель Стива</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="71"/>
         <source>Alex Model</source>
-        <translation>Алекс</translation>
+        <translation>Модель Алекс</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/SkinUploadDialog.ui" line="81"/>
@@ -9684,7 +9684,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="56"/>
         <source>Unable to open &quot;bin/modpack.jar&quot; file!</source>
-        <translation>Не удалось открыть файл &quot;bin/modpack.jar&quot;!</translation>
+        <translation>Не удалось открыть &quot;bin/modpack.jar&quot;!</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/technic/TechnicPackProcessor.cpp" line="68"/>
@@ -9882,12 +9882,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="35"/>
         <source>&amp;Icons</source>
-        <translation>&amp;Иконки</translation>
+        <translation>Иконки</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="58"/>
         <source>&amp;Colors</source>
-        <translation>&amp;Цвета</translation>
+        <translation>Цвета</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="81"/>
@@ -9899,7 +9899,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.ui" line="84"/>
         <source>C&amp;at</source>
-        <translation>К&amp;от</translation>
+        <translation>Кот</translation>
     </message>
 </context>
 <context>
@@ -9912,7 +9912,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="20"/>
         <source>Select the Theme you wish to use</source>
-        <translation>Выберите тему, которую вам по душе</translation>
+        <translation>Выберите тему, которая вам по душе</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/ThemeWizardPage.ui" line="37"/>
@@ -10338,7 +10338,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="255"/>
         <source>Open the instance&apos;s .minecraft folder.</source>
-        <translation>Открыть папку .minecraft сборок.</translation>
+        <translation>Открыть папку .minecraft сборки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="260"/>
@@ -10348,12 +10348,12 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="263"/>
         <source>Open the instance&apos;s local libraries folder.</source>
-        <translation>Открыть папку библиотек сборок.</translation>
+        <translation>Открыть папку библиотек сборки.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="268"/>
         <source>Import Components</source>
-        <translation>Импорт Компонентов</translation>
+        <translation>Импорт компонентов</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="271"/>
@@ -10744,7 +10744,7 @@ Canonical Path: %1</source>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="243"/>
         <source>Warning: This world is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation>Внимание: Этот мир серьезно задействован в другом месте. Редактирование может изменить его оригинал.</translation>
+        <translation>Внимание: Этот мир связан жёсткой ссылкой в другом месте. Редактирование изменит его оригинал.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/WorldList.cpp" line="289"/>
@@ -11108,7 +11108,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="78"/>
         <source>XBox user authentication response could not be understood.</source>
-        <translation>Не удалось понять ответ аутентификации пользователя Xbox.</translation>
+        <translation>Не удалось понять ответ аутентификации пользователя XBox.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/steps/XboxUserStep.cpp" line="82"/>
@@ -11156,7 +11156,7 @@ Please set up your account according to %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="256"/>
         <source>&lt;b&gt;SSL Handshake failed.&lt;/b&gt;&lt;br/&gt;There might be a few causes for it:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;You use Windows and need to update your root certificates, please install any outstanding updates.&lt;/li&gt;&lt;li&gt;Some device on your network is interfering with SSL traffic. In that case, you have bigger worries than Minecraft not starting.&lt;/li&gt;&lt;li&gt;Possibly something else. Check the log file for details&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation>&lt;b&gt;SSL-рукопожатие не удалось.&lt;/b&gt;&lt;br/&gt;У этого может быть несколько причин:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Вы используете Windows и нужно обновить корневые сертификаты, пожалуйста, установите все оставшиеся обновления.&lt;/li&gt;&lt;li&gt;Некоторые устройства в вашей сети вмешиваются в SSL-трафик. В этом случае, у Вас есть проблема посерьёзнее, чем не запускающийся Minecraft.&lt;/li&gt;&lt;li&gt;Возможно, что-то другое. Проверьте файл журнала для подробностей&lt;/li&gt;&lt;/ul&gt;</translation>
+        <translation>&lt;b&gt;SSL-рукопожатие не удалось.&lt;/b&gt;&lt;br/&gt;У этого может быть несколько причин:&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Вы используете Windows и нужно обновить корневые сертификаты, пожалуйста, установите все доступные обновления.&lt;/li&gt;&lt;li&gt;Некоторые устройства в вашей сети вмешиваются в SSL-трафик. В этом случае, у Вас есть проблема посерьёзнее, чем нерабочий Minecraft.&lt;/li&gt;&lt;li&gt;Возможно, что-то другое. Проверьте файл журнала для подробностей&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/Yggdrasil.cpp" line="274"/>
