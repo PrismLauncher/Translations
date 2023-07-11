@@ -2706,7 +2706,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.h" line="60"/>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation>Импорт из архива</translation>
+        <translation>Импорт</translation>
     </message>
     <message>
         <source>Modrinth pack (*.mrpack)</source>
@@ -2870,7 +2870,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/InstanceImportTask.cpp" line="188"/>
         <location filename="src/launcher/InstanceImportTask.cpp" line="257"/>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation>Файл архива не содержит instance.cfg.</translation>
+        <translation>Архив не содержит поддерживаемую сборку.</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="205"/>
@@ -3066,32 +3066,32 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="126"/>
         <source>Minimum memory allocation:</source>
-        <translation>Минимальный объем выделенной памяти:</translation>
+        <translation>Минимальный объём выделенной памяти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="169"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Максимальный разрешённый для использования объем памяти Minecraft.</translation>
+        <translation>Максимальный разрешённый для использования объём памяти Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="147"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Минимальный объём памяти для запуска Minecraft.</translation>
+        <translation>Объём памяти, с которым запускается Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="191"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Объем доступной памяти для хранения загруженных классов Java.</translation>
+        <translation>Объём доступной памяти для хранения загруженных классов Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="133"/>
         <source>Maximum memory allocation:</source>
-        <translation>Максимальный объем выделенной памяти:</translation>
+        <translation>Максимальный объём выделенной памяти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="140"/>
         <source>Note: Permgen is set automatically by Java 8 and later</source>
-        <translation>Внимание: Permgen устанавливается автоматически для Java 8 и для более поздних версий</translation>
+        <translation>Примечание: Permgen устанавливается автоматически в Java 8 и более поздних версиях</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="232"/>
@@ -3237,22 +3237,22 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="550"/>
         <source>Override global game time settings</source>
-        <translation>Переопределить общие настройки времени проведённого в игре</translation>
+        <translation>Переопределить общие настройки времени в игре</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Show time spent playing this instance</source>
-        <translation>Показать время проведённое в этой сборке</translation>
+        <translation>Показывать время, проведённое в этой сборке</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="569"/>
         <source>Record time spent playing this instance</source>
-        <translation>Записать время проведённое в этой сборке</translation>
+        <translation>Записывать время, проведённое в этой сборке</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="579"/>
         <source>Set a server to join on launch</source>
-        <translation>Подключиться к серверу после запуска</translation>
+        <translation>Подключаться к серверу после запуска</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="599"/>
@@ -3291,12 +3291,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="506"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Максимальное выделение памяти превышает объем системной памяти.</translation>
+        <translation>Максимальное выделение памяти превышает объём системной памяти.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.cpp" line="509"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Максимальное выделение памяти приближается к емкости системной памяти.</translation>
+        <translation>Максимальное выделение памяти приближается к объёму системной памяти.</translation>
     </message>
 </context>
 <context>
@@ -3401,29 +3401,29 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="103"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Максимальный разрешённый для использования объем памяти Minecraft.</translation>
+        <translation>Максимальный разрешённый для использования объём памяти Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="71"/>
         <source>&amp;Minimum memory allocation:</source>
         <oldsource>Minimum memory allocation:</oldsource>
-        <translation>Минимал&amp;ьный объем выделенной памяти:</translation>
+        <translation>Минимал&amp;ьный объём выделенной памяти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="51"/>
         <source>Ma&amp;ximum memory allocation:</source>
         <oldsource>Maximum memory allocation:</oldsource>
-        <translation>Максимальный объем выделенной памяти:</translation>
+        <translation>Максимальный объём выделенной памяти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="81"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Минимальный объём памяти для запуска Minecraft.</translation>
+        <translation>Объём памяти, с которым запускается Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="125"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Объем доступной памяти для хранения загруженных классов Java.</translation>
+        <translation>Объём доступной памяти для хранения загруженных классов Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.ui" line="160"/>
@@ -3497,12 +3497,12 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="203"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Объем выделенной памяти превышает допустимое значение.</translation>
+        <translation>Максимальное выделение памяти превышает объём системной памяти.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/JavaPage.cpp" line="206"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Объем выделенной памяти приближается к допустимому значению.</translation>
+        <translation>Максимальное выделение памяти приближается к объёму системной памяти.</translation>
     </message>
 </context>
 <context>
@@ -3520,7 +3520,7 @@ Do you wish to proceed without any Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation>Вы не выбрали ни версию Java или выбрали что-то не рабочее.
+        <translation>Вы не выбрали версию Java или выбрали что-то нерабочее.
 %1 не сможет запустить Minecraft.
 Вы хотите продолжить без Java?
 
@@ -3540,27 +3540,27 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="438"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation>Максимальный разрешённый для использования объем памяти Minecraft.</translation>
+        <translation>Максимальный разрешённый для использования объём памяти Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="439"/>
         <source>Minimum memory allocation:</source>
-        <translation>Минимальный объем выделенной памяти:</translation>
+        <translation>Минимальный объём выделенной памяти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="440"/>
         <source>Maximum memory allocation:</source>
-        <translation>Максимальный объем выделенной памяти:</translation>
+        <translation>Максимальный объём выделенной памяти:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="441"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation>Минимальный объём памяти для запуска Minecraft.</translation>
+        <translation>Объём памяти, с которым запускается Minecraft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="442"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation>Объем доступной памяти для хранения загруженных классов Java.</translation>
+        <translation>Объём доступной памяти для хранения загруженных классов Java.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="443"/>
@@ -3570,12 +3570,12 @@ You can change the Java version in the settings later.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="452"/>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation>Максимальное выделение памяти превышает объем системной памяти.</translation>
+        <translation>Максимальное выделение памяти превышает объём системной памяти.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.cpp" line="455"/>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation>Максимальное выделение памяти приближается к емкости системной памяти.</translation>
+        <translation>Максимальное выделение памяти приближается к объёму системной памяти.</translation>
     </message>
 </context>
 <context>
