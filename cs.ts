@@ -1638,63 +1638,63 @@ Prosím aktualizujte váš operační systém a %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="14"/>
         <source>Export Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat balíček</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished">Informace</translation>
+        <translation>Informace</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished">Souhrn</translation>
+        <translation>Souhrn</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">Název</translation>
+        <translation>Název</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">Verze</translation>
+        <translation>Verze</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished">1.0.0</translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="67"/>
         <source>Files</source>
-        <translation type="unfinished">Soubory</translation>
+        <translation>Soubory</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="111"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportovat %1</translation>
+        <translation>Exportovat %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="125"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Úloha přerušena</translation>
+        <translation>Úloha přerušena</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">Úloha byla přerušena uživatelem.</translation>
+        <translation>Úloha byla přerušena uživatelem.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
         <source>Abort</source>
-        <translation type="unfinished">Přerušit</translation>
+        <translation>Přerušit</translation>
     </message>
 </context>
 <context>
@@ -2211,7 +2211,7 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="346"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;Čauky Mňauky!🐈&lt;/h1&gt;&lt;h4&gt; Vypadá to že Pack ID je null. Toto je kvůli chybě ve starší verzi launcheru.&lt;br/&gt;Bohužel, nedokážeme udělat správné API dotazy bez této informace.&lt;br/&gt;&lt;br/&gt;Takže, pokud budete chtít aby tato funkce fungovala, budete muset znovu stáhnout tento modpack přes vestavěné stahování modpacků.&lt;br/&gt;&lt;br/&gt;Nebojte se, launcher se vás zeptá jestli chcete aktualizovat tuto instanci, abyste ji neztratili!&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;Ahoj!&lt;/h1&gt;&lt;h4&gt;Vypadá to, že ID vašeho balíčku má nulovou hodnotu. Toto je kvůli chybě ve starší verzi launcheru.&lt;br/&gt;Bez této informace bohužel nedokážeme udělat správné API dotazy.&lt;br/&gt;&lt;br/&gt;Pokud tedy budete chtít aby tato funkce fungovala, budete muset znovu stáhnout tento modpack pomocí vestavěného stahování modpacků.&lt;br/&gt;&lt;br/&gt;Nebojte se, launcher se vás zeptá, zda chcete aktualizovat tuto instanci, abyste ji neztratili!&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="408"/>
@@ -2272,59 +2272,59 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="60"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Hledání souborů...</translation>
+        <translation>Hledání souborů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="91"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Nepodařilo se vyhledat soubory</translation>
+        <translation>Nepodařilo se vyhledat soubory</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="108"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledání kontrolních součtů souborů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="189"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledání verzí pro kontrolní součty...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="301"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Zpracovávání odpovědi API z CurseForge pro &apos;%1&apos;...</translation>
+        <translation>Zpracovávání odpovědi API z CurseForge pro „%1“...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="258"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledání informací o projektu na CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="336"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Přidávání souborů...</translation>
+        <translation>Přidávání souborů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="343"/>
         <source>Could not create file</source>
-        <translation type="unfinished">Nepodařilo se vytvořit soubor</translation>
+        <translation>Nepodařilo se vytvořit soubor</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="352"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="359"/>
         <source>Could not create index</source>
-        <translation type="unfinished">Nepodařilo se vytvořit index</translation>
+        <translation>Nepodařilo se vytvořit index</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="390"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished">Nepodařilo se přečíst a zkomprimovat %1</translation>
+        <translation>Nepodařilo se přečíst a zkomprimovat %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="401"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished">Vyskytla se chyba zipu</translation>
+        <translation>Vyskytla se chyba zipu</translation>
     </message>
 </context>
 <context>
@@ -3920,7 +3920,7 @@ Možná budete muset opravit své mody, protože hra se stále zapisuje do soubo
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished">Zakázat používání metadat poskytnuté poskytovateli modů (např. Modrinth nebo CurseForge) pro mody.</translation>
+        <translation>Zakázat používání metadat poskytnutých poskytovateli modů (např. Modrinth nebo CurseForge) pro mody.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -4986,7 +4986,7 @@ Důvod:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="532"/>
@@ -5534,24 +5534,24 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1421"/>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpacky z CurseForge momentálně nepodporují Quilt.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1424"/>
         <source>Snapshots are currently not supported by CurseForge modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modpacky z CurseForge momentálně nepodporují vývojové verze.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit aplikaci z instance</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodařilo se vytvořit ikonu aplikace.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1593"/>
@@ -5574,7 +5574,7 @@ Jste si jisti?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Zkratka na tuto instanci úspěšně vytvořena!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1761"/>
@@ -6968,12 +6968,12 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="98"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhledávání kontrolních součtů souborů...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="162"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhledávání verzí pro kontrolní součty...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="197"/>
