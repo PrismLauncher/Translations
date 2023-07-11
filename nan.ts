@@ -1394,7 +1394,11 @@ Please update both your operating system and %1.</source>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>下載以下檔案的時發生錯誤：
+%1
+
+原因：%2
+請閣再試看覓。</translation>
     </message>
 </context>
 <context>
@@ -1402,7 +1406,7 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="20"/>
         <source>Resolving mod IDs...</source>
-        <translation type="unfinished"></translation>
+        <translation>當咧解讀 mod ID…</translation>
     </message>
 </context>
 <context>
@@ -1410,18 +1414,18 @@ Please try again.</source>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="117"/>
         <source>Preparing mods for CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>當咧為 CurseForge 準備 mods…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="122"/>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
-        <translation type="unfinished"></translation>
+        <translation>為著避免產生 mods 檔案問題，予禁掉的 mods 袂閣再更新！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="126"/>
         <source>Getting API response from CurseForge for &apos;%1&apos;...</source>
         <oldsource>Getting API response from CurseForge for &apos;%1&apos;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>當咧為對「%1」討 CurseForge API 回應…</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlameCheckUpdate.cpp" line="137"/>
