@@ -1088,7 +1088,7 @@ Actualice su sistema operativo y %1.</translation>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="294"/>
         <source>Executing 1 task:</source>
-        <translation>Ejecutando 1 tarea :</translation>
+        <translation>Ejecutando 1 tarea:</translation>
     </message>
     <message>
         <location filename="src/launcher/tasks/ConcurrentTask.cpp" line="296"/>
