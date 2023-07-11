@@ -1642,63 +1642,63 @@ Kérjük, frissítse az operációs rendszert és a %1-t is.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="14"/>
         <source>Export Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Csomag exportálása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished">Információ</translation>
+        <translation>Információ</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished">Összefoglalás</translation>
+        <translation>Összefoglalás</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">Név</translation>
+        <translation>Név</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">Verzió</translation>
+        <translation>Verzió</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished">1.0.0</translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="67"/>
         <source>Files</source>
-        <translation type="unfinished">Fájlok</translation>
+        <translation>Fájlok</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="111"/>
         <source>Export %1</source>
-        <translation type="unfinished">%1 exportálása</translation>
+        <translation>%1 exportálása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="125"/>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Feladat megszakítva</translation>
+        <translation>Feladat megszakítva</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">A feladatot a felhasználó megszakította.</translation>
+        <translation>A feladatot a felhasználó megszakította.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
         <source>Abort</source>
-        <translation type="unfinished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
 </context>
 <context>
@@ -2269,59 +2269,59 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="60"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Fájlok keresése...</translation>
+        <translation>Fájlok keresése...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="91"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Nem sikerült fájlokat keresni</translation>
+        <translation>Nem sikerült fájlokat keresni</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="108"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl hashek keresése...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="189"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verziók keresése a hashekhez...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="301"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
+        <translation>API-válasz elemzése a CurseForge-tól a következőhöz: &quot;%1&quot;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="258"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektinformációk keresése a CurseForge-ból...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="336"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Fájlok hozzáadása...</translation>
+        <translation>Fájlok hozzáadása...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="343"/>
         <source>Could not create file</source>
-        <translation type="unfinished">Nem sikerült létrehozni a fájlt</translation>
+        <translation>Nem sikerült létrehozni a fájlt</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="352"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="359"/>
         <source>Could not create index</source>
-        <translation type="unfinished">Nem sikerült létrehozni az indexet</translation>
+        <translation>Nem sikerült létrehozni az indexet</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="390"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished">Nem sikerült beolvasni és tömöríteni a(z) %1</translation>
+        <translation>Nem sikerült beolvasni és tömöríteni a(z) %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="401"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished">Zip hiba történt</translation>
+        <translation>Zip hiba történt</translation>
     </message>
 </context>
 <context>
@@ -3902,7 +3902,7 @@ Lehet, hogy javítania kell a modjait, mert a játék még mindig naplóz a fáj
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished">Tiltsa le a mod-szolgáltatók (például a Modrinth vagy a Curseforge) által biztosított metaadatok használatát a modokhoz.</translation>
+        <translation>Tiltsa le a mod-szolgáltatók (például a Modrinth vagy a Curseforge) által biztosított metaadatok használatát a modokhoz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -4944,7 +4944,7 @@ Indok:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="532"/>
@@ -5473,24 +5473,24 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1421"/>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Quilt jelenleg nem támogatott a CurseForge modcsomagok által.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1424"/>
         <source>Snapshots are currently not supported by CurseForge modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Snapshotok jelenleg nem támogatottak a CurseForge modcsomagok által.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Példányalkalmazás létrehozása</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült létrehozni az alkalmazás ikonját.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1593"/>
@@ -5513,7 +5513,7 @@ Biztos vagy benne?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1657"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Parancsikon létrehozva ehhez a példányhoz!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1761"/>
@@ -6876,12 +6876,12 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="98"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl hashek keresése...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="162"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verziók keresése a hashekhez...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="197"/>
