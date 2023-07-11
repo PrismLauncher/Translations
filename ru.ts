@@ -1509,7 +1509,7 @@ Please update both your operating system and PolyMC.</source>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="118"/>
         <location filename="src/launcher/minecraft/launch/DirectJavaLaunch.cpp" line="128"/>
         <source>Game crashed.</source>
-        <translation>Игра вылетела.</translation>
+        <translation>Игра крашнулась.</translation>
     </message>
 </context>
 <context>
@@ -1662,7 +1662,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="14"/>
         <source>Export Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт пакета</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
@@ -3036,7 +3036,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
         <source>Auto-detect...</source>
-        <translation>Автоопределение...</translation>
+        <translation>Авто-обнаружение...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="77"/>
@@ -5615,13 +5615,13 @@ Are you sure?</source>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать зависимость приложению</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1557"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1569"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось создать иконку для приложения.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1593"/>
