@@ -28,55 +28,55 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="150"/>
         <source>API Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>API Ключы</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="156"/>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>Microsoft Authentication</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Аўтэнтыфікацыя &amp;Microsoft</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="162"/>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заўвага: напэўна, вам не патрэбна зьмяняць гэта, калі ўваход у акаўнт Microsoft ужо працуе.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="175"/>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="281"/>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Па змаўчаньні)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="182"/>
         <source>Enter a custom client ID for Microsoft Authentication here.</source>
         <oldsource>Enter a custom client ID for Microsoft Authentication here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Увядзіце тут свой client ID для аўтэнтыфікацыі Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="204"/>
         <source>&amp;Modrinth API</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Modrinth API</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="210"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Note: you only need to set this to access private data. Read the &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;documentation&lt;/a&gt; for more information.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Заўвага: вам патрэбна зьмяняць гэта толькі каб атрымаць доступ да прыватных дадзеных. Прачытайце &lt;a href=&quot;https://docs.modrinth.com/api-spec/#section/Authentication&quot;&gt;дакументацыю&lt;/a&gt; каб даведацца больш.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="217"/>
         <source>Enter a custom API token for Modrinth here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увядзіце свой API токен для Modrinth.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="236"/>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Няма)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="305"/>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Рознае</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="317"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="326"/>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увядзіце тут свой User Agent. Спецыяльны радок $LAUNCHER_VER будзе заменены на версію лаўнчара.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="91"/>
@@ -111,18 +111,18 @@
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="255"/>
         <source>Note: you probably don&apos;t need to set this if CurseForge already works.</source>
-        <translation type="unfinished"></translation>
+        <translation>Заўвага: напэўна, вам не патрэбна зьмяняць гэта, калі CurseForge ужо працуе.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.ui" line="262"/>
         <source>Enter a custom API Key for CurseForge here.</source>
         <oldsource>Enter a custom API Key for CurseForge here. </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Увядзіце тут свой API ключ для CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/APIPage.h" line="59"/>
         <source>APIs</source>
-        <translation type="unfinished"></translation>
+        <translation>API</translation>
     </message>
 </context>
 <context>
@@ -131,22 +131,23 @@
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="119"/>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма зразумець маніфест зборкі:
+</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="345"/>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося атрымаць лакальны індэкс метададзеных для %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="151"/>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не ўдалося атрымаць лакальны індэкс метададзеных для &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Непадтрымліваемы рэжым усталёўкі</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
@@ -171,7 +172,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="536"/>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невядомы альбо непадтрымліваемы рэжым спампаваньня: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="653"/>
@@ -186,7 +187,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="700"/>
         <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
+        <translation>Выманьне налад...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="707"/>
@@ -196,7 +197,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="741"/>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбар неабавязковых мадыфікацый...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="750"/>
@@ -226,7 +227,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="896"/>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Не атрымалася разкрыць моды...</translation>
+        <translation>Не атрымалася выняць моды...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="907"/>
@@ -236,7 +237,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="980"/>
         <source>Installing modpack</source>
-        <translation type="unfinished">Інсталюецца модпак</translation>
+        <translation type="unfinished">Усталяваньне пакета модаў</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="992"/>
@@ -246,12 +247,12 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1016"/>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Нязразумелы тып лоадэра </translation>
+        <translation>Незразумелы тып загрузчыка </translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1030"/>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Не атрымалася стварыць кампанент</translation>
+        <translation>Не атрымалася стварыць кампанент зборкі</translation>
     </message>
 </context>
 <context>
@@ -259,7 +260,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="107"/>
         <source>About</source>
-        <translation type="unfinished">О</translation>
+        <translation>Аб праграме</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
@@ -269,7 +270,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
         <source>Platform:</source>
-        <translation type="unfinished">Платформа:</translation>
+        <translation>Платформа:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="189"/>
@@ -280,22 +281,22 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="205"/>
         <source>Commit:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Коміт:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation type="unfinished">Канал:</translation>
+        <translation>Канал:</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
         <source>Credits</source>
-        <translation type="unfinished"></translation>
+        <translation>Падзяка</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="262"/>
         <source>License</source>
-        <translation type="unfinished">Ліцэнзія</translation>
+        <translation>Ліцэнзія</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="298"/>
@@ -305,7 +306,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="318"/>
         <source>Close</source>
-        <translation type="unfinished">Блізка</translation>
+        <translation>Закрыць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="135"/>
@@ -320,7 +321,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="156"/>
         <source>Commit: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Коміт: %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="161"/>
@@ -339,7 +340,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Неправеранае</translation>
+        <translation>Неправераны</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
@@ -351,7 +352,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Гатова</translation>
+        <translation type="unfinished">Гатовы</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
@@ -369,25 +370,25 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="323"/>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Прайшло</translation>
+        <translation>Пратэрмінавана</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="329"/>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Больш няма</translation>
+        <translation>Страчан</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished"></translation>
+        <translation>Невядомы</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
         <source>N/A</source>
         <comment>Can Migrate</comment>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="342"/>
@@ -409,7 +410,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="382"/>
         <source>Account</source>
-        <translation type="unfinished">Акаунт</translation>
+        <translation>Уліковы запіс</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="384"/>
@@ -419,7 +420,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="386"/>
         <source>Status</source>
-        <translation type="unfinished">Статус</translation>
+        <translation>Стан</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="388"/>
@@ -429,12 +430,12 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="397"/>
         <source>Minecraft username associated with the account.</source>
-        <translation type="unfinished">Майнкрафт нік звязаны з вашым акаунтам</translation>
+        <translation>Імя карыстача Minecraft зьвязана з вашым уліковым запісам.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="399"/>
         <source>User name of the account.</source>
-        <translation type="unfinished">Імя юзера акаунта</translation>
+        <translation type="unfinished">Імя карыстача ўліковага запісу.</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="401"/>
@@ -456,7 +457,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="326"/>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Адключаны</translation>
+        <translation>Адключаны</translation>
     </message>
 </context>
 <context>
@@ -477,19 +478,19 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="78"/>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">&amp;Зрабіць Звычайным</translation>
+        <translation>&amp;Зрабіць значэньням па змаўчаньні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">&amp;Няма Звычайнага</translation>
+        <translation>&amp;Няма значэньня па змаўчаньні</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
         <source>&amp;Upload Skin</source>
         <oldsource>Upload Skin</oldsource>
-        <translation type="unfinished">&amp;Дадаць Скін</translation>
+        <translation>&amp;Дадаць скін</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="96"/>
@@ -500,7 +501,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="99"/>
         <source>Delete the currently active skin and go back to the default one</source>
-        <translation type="unfinished">Выдаліць актыўны скін і звяртацца да звычайнага</translation>
+        <translation type="unfinished">Выдаліць скін і вярнуцца да звычайнага</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="104"/>
@@ -512,12 +513,12 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="114"/>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Абнавіць</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="117"/>
         <source>Refresh the account tokens</source>
-        <translation type="unfinished"></translation>
+        <translation>Абнавіць токены ўліковага запісу</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="66"/>
@@ -535,12 +536,12 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
-        <translation type="unfinished">Калі ласка напішыце ваш Моянг акаунт емэйл і хасла каб дадаць твой акаунт.</translation>
+        <translation>Напішыце, калі ласка, пошту і пароль вашага ўліковага запісу Mojang каб дадаць акаунт.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation type="unfinished">Майкрасофт Акаунты нямаюць доступа</translation>
+        <translation>Уліковыя запісы Microsoft недаступны</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
@@ -548,9 +549,9 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation type="unfinished">Майкрасофт акаунты толькі патрэбны на macOS 10.13 або навей, з цалкам апдэйчаны  %1.
+        <translation type="unfinished">Уліковыя запісы Microsoft патрэбны толькі на macOS 10.13 або найноўшай версіі з абноўленым  %1.
 
-Калі ласка заапдэйцьце дзьве аперацыённыя сістэмы й %1.</translation>
+Калі ласка абнавіце аперацыйную сістэму й %1.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
@@ -560,7 +561,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Не атрымалася выдаліць ваш скін!</translation>
+        <translation>Не атрымалася выдаліць ваш скін!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.h" line="63"/>
@@ -571,7 +572,7 @@ Please update both your operating system and %1.</source>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="109"/>
         <source>Add &amp;Offline</source>
         <oldsource>Add Offline</oldsource>
-        <translation type="unfinished">Дадаць &amp;Офлайн</translation>
+        <translation type="unfinished">Дадаць &amp;Па-за сеткай</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
@@ -581,12 +582,12 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished">Вам трэба дадаць Майкрасофт або Моянг акаунт які валодае Майнкрафтам да таго як вы можаце дадаць офлайн акаунт.&lt;br&gt;&lt;br&gt;Есьлі у вас ёсць акаунт без доступа вы можаце напісаць Майкрасофт у сапорт</translation>
+        <translation type="unfinished">Вам трэба дадаць уліковы запіс Microsoft альбо Mojang, які валодае Minecraft, перш чым вы зможаце дадаць уліковы запіс па-за сеткай.&lt;br&gt;&lt;br&gt;Калі вы страцілі ўліковы запіс, вы можаце напісаць у службу падтрымкі Microsoft.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
         <source>Please enter your desired username to add your offline account.</source>
-        <translation type="unfinished">Калі ласка ўпішыце свой жаданы ник каб дадаць ваш офлайн акаунт</translation>
+        <translation>Калі ласка, напішыце імя карыстача, каб дадаць уліковы запіс па-за сеткай.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -599,7 +600,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
-        <translation type="unfinished"></translation>
+        <translation>Адпраўленьне запыту на сэрвера аўтарызацыі...</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
