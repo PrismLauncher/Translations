@@ -3539,7 +3539,7 @@ Kérjük, válasszon egyet a következők közül, vagy keressen egy java futtat
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Használja a rendszer területi beállításait</translation>
     </message>
 </context>
 <context>
@@ -5360,12 +5360,12 @@ Kérlek ad meg a Mojang vagy Minecraft fiókodat.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>A példány nem szerkeszthető</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1291"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a példány nem szerkeszthető. Lehet, hogy sérült, érvénytelen vagy túl régi. A részletekért ellenőrizze a naplókat.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
