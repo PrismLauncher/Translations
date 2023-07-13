@@ -702,32 +702,32 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="723"/>
+        <location filename="src/launcher/Application.cpp" line="724"/>
         <source>Settings</source>
         <translation>Configurações</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1240"/>
+        <location filename="src/launcher/Application.cpp" line="1236"/>
         <source>Aborted</source>
         <translation>Cancelado</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Dados antigos do %1 foram encontrados, mas você já tem dados existentes para o %2. Infelizmente, você terá de migrar manualmente. Você quer ser lembrado de dados pendentes de migração da próxima vez que você iniciar %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1678"/>
+        <location filename="src/launcher/Application.cpp" line="1674"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Parece que você usou o %1 anteriormente. Você gostaria de migrar seus dados para a nova localização do %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1684"/>
+        <location filename="src/launcher/Application.cpp" line="1680"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Parece que você usou o %1 em %2 anteriormente. Você gostaria de migrar seus dados para a nova localização do %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1727"/>
+        <location filename="src/launcher/Application.cpp" line="1723"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Falha na migração! Razão: %1</translation>
     </message>
@@ -3588,9 +3588,14 @@ Por favor, selecione um dos seguintes ou busque um executável do Java no seu si
 <context>
     <name>LanguageSelectionWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
         <translation>Não vê o seu idioma ou a qualidade é ruim?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Ajude-nos com as traduções!&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
+        <source>Use system locales</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9890,7 +9895,7 @@ Aviso: Este recurso está vinculado a outro lugar. Editá-lo também alterará o
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="461"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="462"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -9901,22 +9906,22 @@ confusas: %3
 total: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="480"/>
         <source>Language</source>
         <translation>Idioma</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="484"/>
         <source>Completeness</source>
         <translation>Progresso</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="494"/>
         <source>The native language name.</source>
         <translation>Nome original do idioma.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="497"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="498"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Porcentagem de textos totalmente traduzidas, exceto por tradução automática.</translation>
     </message>

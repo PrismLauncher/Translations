@@ -673,32 +673,32 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="723"/>
+        <location filename="src/launcher/Application.cpp" line="724"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1240"/>
+        <location filename="src/launcher/Application.cpp" line="1236"/>
         <source>Aborted</source>
         <translation>Аборт</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Стари данни от %1 са намерени, но вече имате съществуващи данни от %2. За жалост ще трябва да мигрирате. Искате ли да бъдете напомнени за предстоящото мигриране на вашите данни при следващият старт на %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1678"/>
+        <location filename="src/launcher/Application.cpp" line="1674"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Изглежда сте ползвали %1 преди. Искате ли да мигрирате вашите данни към новото местоположение на %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1684"/>
+        <location filename="src/launcher/Application.cpp" line="1680"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Изглежда сте ползвали %1 на %2 преди. Искате ли да мигрирате вашите данни към новото местоположение на %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1727"/>
+        <location filename="src/launcher/Application.cpp" line="1723"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Миграцията е неуспешна! Причина: %1</translation>
     </message>
@@ -3305,9 +3305,14 @@ Please select one of the following or browse for a java executable.</oldsource>
 <context>
     <name>LanguageSelectionWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
         <translation>Не намираш езика си или качеството е ниско?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Помогни ни с преводите!&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
+        <source>Use system locales</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8814,7 +8819,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="461"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="462"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -8822,22 +8827,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="480"/>
         <source>Language</source>
         <translation type="unfinished">Език</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="484"/>
         <source>Completeness</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="494"/>
         <source>The native language name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="497"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="498"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation type="unfinished"></translation>
     </message>

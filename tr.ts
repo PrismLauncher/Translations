@@ -698,32 +698,32 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="723"/>
+        <location filename="src/launcher/Application.cpp" line="724"/>
         <source>Settings</source>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1240"/>
+        <location filename="src/launcher/Application.cpp" line="1236"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1&apos;deki eski veri bulundu, ama hâlihazırda %2 için veriye sahipsin. Kendi başına aktarma yapmak zorundasın. %2&apos;yi sıradaki başlatışında bekleyen veri hakkında hatırlatılmak istiyor musun ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1678"/>
+        <location filename="src/launcher/Application.cpp" line="1674"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Görünüşe bakılırsa %1&apos;i daha önce kullanmışsın. Verilerini %2&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1684"/>
+        <location filename="src/launcher/Application.cpp" line="1680"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Görünüşe bakılırsa daha önceden %1&apos;i %2 de kullanmışsın. Yeni verileri %3&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1727"/>
+        <location filename="src/launcher/Application.cpp" line="1723"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Aktarım başarısız! Hatanın sebebi: %1</translation>
     </message>
@@ -3547,9 +3547,14 @@ Lütfen aşağıdakilerden birini seçin veya bir Java programı için göz atı
 <context>
     <name>LanguageSelectionWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
         <translation>Dil mevcut değil veya kalitesiz mi?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Çevirilerde bize yardım et!&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
+        <source>Use system locales</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9778,7 +9783,7 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="461"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="462"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -9789,22 +9794,22 @@ Uyarı: Bu kaynak başka bir yerde sabit bağlantılıdır. Düzenlemek orijinal
 %4 toplam</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="480"/>
         <source>Language</source>
         <translation>Dil</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="484"/>
         <source>Completeness</source>
         <translation>Tamamlık</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="494"/>
         <source>The native language name.</source>
         <translation>Dilin adı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="497"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="498"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>Tamamlık; tamamı çevrilmiş metinlerin yüzdesidir, otomatik tahmin edilenlerinki değildir.</translation>
     </message>

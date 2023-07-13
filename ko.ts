@@ -694,32 +694,32 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="723"/>
+        <location filename="src/launcher/Application.cpp" line="724"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1240"/>
+        <location filename="src/launcher/Application.cpp" line="1236"/>
         <source>Aborted</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1670"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1에서 이전 데이터를 찾았지만 %2에 대한 기존 데이터가 이미 있습니다. 안타깝게도 직접 마이그레이션해야 합니다. 다음에 %2를 시작할 때 보류 중인 데이터 마이그레이션에 대한 알림을 받으시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1678"/>
+        <location filename="src/launcher/Application.cpp" line="1674"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>이전에 %1을 사용한 것 같습니다. 데이터를 새 위치 %2로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1684"/>
+        <location filename="src/launcher/Application.cpp" line="1680"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>이전에 %2에서 %1을 사용한 것 같습니다. 데이터를 %3의 새 위치로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1727"/>
+        <location filename="src/launcher/Application.cpp" line="1723"/>
         <source>Migration failed! Reason: %1</source>
         <translation>마이그레이션 실패! 이유: %1</translation>
     </message>
@@ -3537,9 +3537,14 @@ Please select one of the following or browse for a java executable.</oldsource>
 <context>
     <name>LanguageSelectionWidget</name>
     <message>
-        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="55"/>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="62"/>
         <source>Don&apos;t see your language or the quality is poor?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;Help us with translations!&lt;/a&gt;</source>
         <translation>언어가 지원되지 않거나 번역의 질이 좋지 않나요?&lt;br/&gt;&lt;a href=&quot;%1&quot;&gt;번역 작업을 도와주세요!&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
+        <source>Use system locales</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9733,7 +9738,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 <context>
     <name>TranslationsModel</name>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="461"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="462"/>
         <source>%1:
 %2 translated
 %3 fuzzy
@@ -9744,22 +9749,22 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
 전체: %4</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="479"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="480"/>
         <source>Language</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="483"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="484"/>
         <source>Completeness</source>
         <translation>완료됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="493"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="494"/>
         <source>The native language name.</source>
         <translation>언어의 이름.</translation>
     </message>
     <message>
-        <location filename="src/launcher/translations/TranslationsModel.cpp" line="497"/>
+        <location filename="src/launcher/translations/TranslationsModel.cpp" line="498"/>
         <source>Completeness is the percentage of fully translated strings, not counting automatically guessed ones.</source>
         <translation>완료된 정도는 완전히 번역된 문장의 비율이며, 자동 번역 문장은 포함되지 않습니다.</translation>
     </message>
