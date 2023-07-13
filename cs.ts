@@ -3564,7 +3564,7 @@ Vyberte prosím jedno z následujících nebo vyberte spustitelný soubor Java.<
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít národní prostředí systému</translation>
     </message>
 </context>
 <context>
@@ -5407,12 +5407,12 @@ Prosít přidejte váš Mojang nebo Minecraft účet.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Instanci nelze upravit</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1291"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuto instanci nelze upravovat. Může být nefunkční, neplatná nebo příliš stará. Podrobnosti najdete v protokolech.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
