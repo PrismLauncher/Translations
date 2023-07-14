@@ -580,7 +580,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>歡迎！
-如果您是第一次來這裡，您可以點一下「新增」按鈕來新增您的 Mojang 或 Minecraft 帳號。</translation>
+如果您是第一次來這裡，您可以按一下「新增」按鈕來新增您的 Mojang 或 Minecraft 帳號。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -3573,7 +3573,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>使用系統語言</translation>
     </message>
 </context>
 <context>
@@ -5420,12 +5420,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>實例不可編輯</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1291"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>此實例無法編輯。它可能已損壞、無效或過時。請檢查記錄檔以獲取詳細資訊。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
