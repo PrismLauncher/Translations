@@ -3581,7 +3581,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">使用系统位置</translation>
     </message>
 </context>
 <context>
@@ -5437,12 +5437,12 @@ Please add your Mojang or Minecraft account.</source>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>实例不可被编辑</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1291"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>该实例不可被编辑。也许它损坏，无效或太旧？请查看日志了解详情。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
