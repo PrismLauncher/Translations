@@ -680,32 +680,32 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="724"/>
+        <location filename="src/launcher/Application.cpp" line="728"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1236"/>
+        <location filename="src/launcher/Application.cpp" line="1240"/>
         <source>Aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1670"/>
+        <location filename="src/launcher/Application.cpp" line="1674"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1678"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1680"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1723"/>
+        <location filename="src/launcher/Application.cpp" line="1727"/>
         <source>Migration failed! Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4027,33 +4027,32 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation>Mod 包 %1 の zip 圧縮文件を受信中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="106"/>
         <source>Downloading zip for %1 (%2%)</source>
-        <translation>Mod 包 %1 の zip 圧縮文件を受信中 (進捗率 %2%)</translation>
+        <translation type="vanished">Mod 包 %1 の zip 圧縮文件を受信中 (進捗率 %2%)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="95"/>
         <source>Extracting modpack</source>
         <translation>Mod 整合包を展開中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="103"/>
         <source>Failed to open modpack file %1!</source>
         <translation>Mod 整合包 %1 の開くに失敗しました!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="151"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="131"/>
         <source>Installing modpack</source>
         <translation>Mod 整合包を装入中</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="159"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="137"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
         <translation type="unfinished">解凍した Minecraft の文件の移動に失敗しました!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="226"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="197"/>
         <source>No installation method found!</source>
         <translation>装入方式が未発見!</translation>
     </message>
@@ -4318,8 +4317,8 @@ Reason:
         <translation>一番下へ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>Minecraft の履録</translation>
     </message>

@@ -673,32 +673,32 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="724"/>
+        <location filename="src/launcher/Application.cpp" line="728"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1236"/>
+        <location filename="src/launcher/Application.cpp" line="1240"/>
         <source>Aborted</source>
         <translation>Аборт</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1670"/>
+        <location filename="src/launcher/Application.cpp" line="1674"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Стари данни от %1 са намерени, но вече имате съществуващи данни от %2. За жалост ще трябва да мигрирате. Искате ли да бъдете напомнени за предстоящото мигриране на вашите данни при следващият старт на %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1678"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Изглежда сте ползвали %1 преди. Искате ли да мигрирате вашите данни към новото местоположение на %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1680"/>
+        <location filename="src/launcher/Application.cpp" line="1684"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Изглежда сте ползвали %1 на %2 преди. Искате ли да мигрирате вашите данни към новото местоположение на %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1723"/>
+        <location filename="src/launcher/Application.cpp" line="1727"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Миграцията е неуспешна! Причина: %1</translation>
     </message>
@@ -3877,33 +3877,32 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
         <translation>Изтегляне на архив за %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="106"/>
         <source>Downloading zip for %1 (%2%)</source>
-        <translation>Изтегляне на архив за %1 (%2%)</translation>
+        <translation type="vanished">Изтегляне на архив за %1 (%2%)</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="116"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="95"/>
         <source>Extracting modpack</source>
         <translation>Извличане на пакет с модификации</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="125"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="103"/>
         <source>Failed to open modpack file %1!</source>
         <translation>Неуспешно отваряне на файла %1 от пакета за модификации!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="151"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="131"/>
         <source>Installing modpack</source>
         <translation>Инсталиране на пакет с модификации</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="159"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="137"/>
         <source>Failed to move unzipped Minecraft!</source>
         <oldsource>Failed to move unzipped minecraft!</oldsource>
         <translation type="unfinished">Неуспешно преместване на разархивирания minecraft!</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="226"/>
+        <location filename="src/launcher/modplatform/legacy_ftb/PackInstallTask.cpp" line="197"/>
         <source>No installation method found!</source>
         <translation>Метод за инсталиране не бе намерен!</translation>
     </message>
@@ -4162,8 +4161,8 @@ Reason:
         <translation>Долу</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>Дневник на Minecraft</translation>
     </message>
