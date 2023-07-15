@@ -3581,7 +3581,7 @@ Please select one of the following or browse for a java executable.</oldsource>
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished">使用系统位置</translation>
+        <translation>使用系统位置</translation>
     </message>
 </context>
 <context>
@@ -5844,7 +5844,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/minecraft/MinecraftInstance.cpp" line="930"/>
         <source>, last played on %1 for %2</source>
-        <translation>，最后一次在 %1 上游玩了 %2</translation>
+        <translation>，上一次是在 %1 时游玩了 %2</translation>
     </message>
     <message>
         <source>Minecraft %1 (%2)</source>
