@@ -1658,7 +1658,7 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="14"/>
         <source>Export Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar pacote</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
@@ -1808,12 +1808,12 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="165"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitar a pagina desse mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.ui" line="168"/>
         <source>Go to mods home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para a página inicial do mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ExternalResourcesPage.cpp" line="115"/>
@@ -2343,7 +2343,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="258"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurando informações do projeto no CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="336"/>
@@ -5454,12 +5454,12 @@ Por favor, adicione a sua conta Mojang ou Minecraft.</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1290"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Essa instancia não é editavel</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1291"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Essa instancia não é editavel. Pode estar quebrado, pode ser invalido ou velho. Verifique os registros para mais detalhes.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1325"/>
@@ -5593,12 +5593,12 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1431"/>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualmente, o Quilt não é suportado por modpacks da CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1434"/>
         <source>Snapshots are currently not supported by CurseForge modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualmente, Snapshots não são suportadas por Modpacks da CurseForge.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1567"/>
@@ -5633,7 +5633,7 @@ Você tem certeza?</translation>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1667"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Um atalho foi criado para essa instancia!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1771"/>
@@ -6391,22 +6391,22 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="91"/>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="106"/>
         <source>Go to mod&apos;s home page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para a página inicial do Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="105"/>
         <source>Visit mod&apos;s page</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitar a página do Mod</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="108"/>
         <source>Visit mods&apos; pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitar a página dos Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="109"/>
         <source>Go to the pages of the selected mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para as páginas dos Mods selecionados</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ModFolderPage.cpp" line="163"/>
