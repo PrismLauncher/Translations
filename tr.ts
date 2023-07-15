@@ -5471,7 +5471,14 @@ Do you wish to proceed?</source>
 
 %1
 
-Bu profili silmek diğer profili de bozabilir,
+Bu profili silmek diğer profili de bozabilir.
+
+Devam etmek istiyor musunuz?</numerusform>
+            <numerusform>Aşağıdaki profiller bu profildeki dosyaları kullanıyor olabilir:
+
+%1
+
+Bu profili silmek diğer profilleri de bozabilir.
 
 Devam etmek istiyor musunuz?</numerusform>
         </translation>
@@ -9276,7 +9283,7 @@ Emin misin?</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.h" line="49"/>
         <source>Shader packs</source>
-        <translation>Gölgelendirme Paketleri</translation>
+        <translation>Gölgelendirme paketleri</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ShaderPackPage.cpp" line="52"/>
