@@ -417,7 +417,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="332"/>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desconhecido</translation>
+        <translation>Desconhecido</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="339"/>
@@ -1663,58 +1663,58 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
         <source>Information</source>
-        <translation type="unfinished">Informação</translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="29"/>
         <source>Summary</source>
-        <translation type="unfinished">Sumário</translation>
+        <translation>Resumo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="39"/>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="46"/>
         <source>Version</source>
-        <translation type="unfinished">Versão</translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="56"/>
         <source>1.0.0</source>
-        <translation type="unfinished">1.0.0</translation>
+        <translation>1.0.0</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="67"/>
         <source>Files</source>
-        <translation type="unfinished">Arquivos</translation>
+        <translation>Arquivos</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="107"/>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="111"/>
         <source>Export %1</source>
-        <translation type="unfinished">Exportar %1</translation>
+        <translation>Exportar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="125"/>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Task aborted</source>
-        <translation type="unfinished">Tarefa cancelada</translation>
+        <translation>Tarefa cancelada</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished">A tarefa foi cancelada pelo usuário.</translation>
+        <translation>A tarefa foi cancelada pelo usuário.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
         <source>Abort</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2317,28 +2317,28 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="60"/>
         <source>Searching for files...</source>
-        <translation type="unfinished">Procurando por arquivos...</translation>
+        <translation>Procurando arquivos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="91"/>
         <source>Could not search for files</source>
-        <translation type="unfinished">Não foi possível procurar por arquivos</translation>
+        <translation>Não foi possível procurar arquivos</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="108"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrando hashes de arquivo...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="189"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrando versões para hashes...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="301"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Analisando resposta do API de CurseForge para &apos;%1&apos;...</translation>
+        <translation>Analisando a resposta do API do CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="258"/>
@@ -2348,28 +2348,28 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="336"/>
         <source>Adding files...</source>
-        <translation type="unfinished">Adicionando arquivos...</translation>
+        <translation>Adicionando arquivos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="343"/>
         <source>Could not create file</source>
-        <translation type="unfinished">Não foi possível criar o arquivo</translation>
+        <translation>Não foi possível criar o arquivo</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="352"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="359"/>
         <source>Could not create index</source>
-        <translation type="unfinished">Não foi possível criar o índice</translation>
+        <translation>Não foi possível criar o índice</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="390"/>
         <source>Could not read and compress %1</source>
-        <translation type="unfinished">Não foi possível ler e compactar %1</translation>
+        <translation>Não foi possível ler e compactar %1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="401"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished">Ocorreu um erro de compactação (zip)</translation>
+        <translation>Ocorreu um erro de compactação</translation>
     </message>
 </context>
 <context>
@@ -3595,7 +3595,7 @@ Por favor, selecione um dos seguintes ou busque um executável do Java no seu si
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar localidades do sistema</translation>
     </message>
 </context>
 <context>
@@ -3956,7 +3956,7 @@ Você talvez tenha de consertar os seus mods, pois o jogo ainda está registrand
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="172"/>
         <source>Disable using metadata provided by mod providers (like Modrinth or CurseForge) for mods.</source>
         <oldsource>Disable using metadata provided by mod providers (like Modrinth or Curseforge) for mods.</oldsource>
-        <translation type="unfinished">Desativa o uso de metadados para mods provenientes de fornecedores de mods (como Modrinth ou Curseforge).</translation>
+        <translation>Desativa o uso de metadados para mods provenientes de fornecedores de mods (como Modrinth ou Curseforge).</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="175"/>
@@ -5034,7 +5034,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="532"/>
@@ -5604,13 +5604,13 @@ Você tem certeza?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1567"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1579"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar aplicativo de instância</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1567"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1579"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao criar ícone para o aplicativo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1603"/>
@@ -7017,12 +7017,12 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="98"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrando hashes de arquivo...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="162"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrando versões para hashes...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="197"/>
