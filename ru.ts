@@ -3036,7 +3036,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="70"/>
         <source>Auto-detect...</source>
-        <translation>Авто-обнаружение...</translation>
+        <translation>Автоматическое обнаружение...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="77"/>
