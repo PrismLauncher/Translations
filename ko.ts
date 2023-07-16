@@ -2026,12 +2026,12 @@ Please try again.</source>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="28"/>
         <source>Resolving mod IDs...</source>
         <translation>모드 ID 처리중...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="82"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="86"/>
         <source>Invalid data returned from the API.</source>
         <translation>API에서 유효하지 않은 데이터가 반환되었습니다.</translation>
     </message>

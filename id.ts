@@ -1994,12 +1994,12 @@ Coba ulang lagi.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="28"/>
         <source>Resolving mod IDs...</source>
         <translation>Menyelesaikan ID mod...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="82"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="86"/>
         <source>Invalid data returned from the API.</source>
         <translation>Data tidak sah telah diberikan oleh API.</translation>
     </message>

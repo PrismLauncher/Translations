@@ -1986,12 +1986,12 @@ Vui lòng thử lại.</translation>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="28"/>
         <source>Resolving mod IDs...</source>
         <translation>Đang giải quyết mod IDs...</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="82"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="86"/>
         <source>Invalid data returned from the API.</source>
         <translation>Dữ liệu không hợp lệ được trả về từ API.</translation>
     </message>

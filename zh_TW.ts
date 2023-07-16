@@ -2022,12 +2022,12 @@ Please try again.</source>
 <context>
     <name>Flame::FileResolvingTask</name>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="24"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="28"/>
         <source>Resolving mod IDs...</source>
         <translation>正在解析模組 ID…</translation>
     </message>
     <message>
-        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="82"/>
+        <location filename="src/launcher/modplatform/flame/FileResolvingTask.cpp" line="86"/>
         <source>Invalid data returned from the API.</source>
         <translation>從 API 返回的數據資料無效。</translation>
     </message>
