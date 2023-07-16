@@ -587,11 +587,11 @@
             "untranslated" : 505
         },
         "zh" : {
-            "file" : "bd6d3963123ac6ec9b520ef58aac4d493897cd53.class",
-            "sha1" : "bd6d3963123ac6ec9b520ef58aac4d493897cd53",
+            "file" : "373e9c1d757c860fccba3481fb2d6a186a10fea8.class",
+            "sha1" : "373e9c1d757c860fccba3481fb2d6a186a10fea8",
             "size" : 169419,
-            "translated" : 1666,
-            "fuzzy" : 1,
+            "translated" : 1667,
+            "fuzzy" : 0,
             "untranslated" : 0
         },
         "zh_TW" : {
