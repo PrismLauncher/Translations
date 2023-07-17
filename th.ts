@@ -589,47 +589,45 @@ If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mo
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="148"/>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="177"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="164"/>
         <source>Please enter your Mojang account email and password to add your account.</source>
         <translation>กรุณาป้อนอีเมลและรหัสผ่าน Minecraft เพื่อเพิ่มบัญชี</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="165"/>
         <source>Microsoft Accounts not available</source>
-        <translation>บัญชี Microsoft ไม่พร้อมใช้งาน</translation>
+        <translation type="vanished">บัญชี Microsoft ไม่พร้อมใช้งาน</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="167"/>
         <source>Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated %1.
 
 Please update both your operating system and %1.</source>
         <extracomment>%1 refers to the launcher itself</extracomment>
-        <translation>บัญชี Microsoft สามารถใช้ได้เฉพาะกับ macOS เวอร์ชัน 10.13 ขึ้นไป ควบคู่กับเวอร์ชันของ %1 ที่อัพเดตเป็นปัจจุบันแล้วเท่านั้น
+        <translation type="vanished">บัญชี Microsoft สามารถใช้ได้เฉพาะกับ macOS เวอร์ชัน 10.13 ขึ้นไป ควบคู่กับเวอร์ชันของ %1 ที่อัพเดตเป็นปัจจุบันแล้วเท่านั้น
 
 โปรดอัพเดตทั้งระบบปฏิบัติการและ %1 ของคุณ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="194"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="181"/>
         <source>Error</source>
         <translation>เกิดข้อผิดพลาด</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="195"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="182"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
         <translation>คุณต้องเพิ่มบัญชีของ Microsoft หรือ Mojang ที่มีการซื้อ Minecraft ไว้แล้วก่อนที่จะเพิ่มบัญชีออฟไลน์&lt;br&gt;&lt;br&gt;ถ้าเกิดคุณได้ทำบัญชีของคุณหาย คุณสามารถติดต่อทาง Microsoft เพื่อขอความช่วยเหลือได้</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="206"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
         <source>Please enter your desired username to add your offline account.</source>
         <translation>โปรดกรอกชื่อผู้ใช้ที่คุณต้องการเพื่อเพิ่มบัญชีออฟไลน์ของคุณ</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="294"/>
         <source>Skin Delete</source>
         <translation>ลบสกิน</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="307"/>
+        <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="294"/>
         <source>Failed to delete current skin!</source>
         <translation>เกิดข้อผิดพลาดในการลบสกินปัจจุบัน!</translation>
     </message>
@@ -685,32 +683,32 @@ Please update both your operating system and %1.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="src/launcher/Application.cpp" line="728"/>
+        <location filename="src/launcher/Application.cpp" line="729"/>
         <source>Settings</source>
         <translation>การตั้งค่า</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1240"/>
+        <location filename="src/launcher/Application.cpp" line="1241"/>
         <source>Aborted</source>
         <translation>ล้มเลิก</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1674"/>
+        <location filename="src/launcher/Application.cpp" line="1675"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>พบข้อมูลเก่าจาก %1 แต่คุณมีข้อมูลดังกล่าวสำหรับ %2 แล้ว น่าเสียดายที่คุณจะต้องทำการโยกย้ายคุณเอง คุณต้องการที่จะให้เตือนการรอการโยกย้ายข้อมูลของคุณหลังจากที่เริ่มเปิด %2 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1678"/>
+        <location filename="src/launcher/Application.cpp" line="1679"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 มาก่อนหน้านี้ คุณต้องการที่จะโยกย้ายข้อมูลของคุณเข้ามาอยู่ในตำแหน่งใหม่ของ %2 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1684"/>
+        <location filename="src/launcher/Application.cpp" line="1685"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>ดูเหมือนว่าคุณจะเคยใช้ %1 บน %2 มาก่อนหน้านี้แล้ว คุณต้องการที่จะโยกย้ายข้อมูลของคุณไปยังตำแหน่งใหม่ของ %3 หรือไม่?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1727"/>
+        <location filename="src/launcher/Application.cpp" line="1728"/>
         <source>Migration failed! Reason: %1</source>
         <translation>การโยกย้ายข้อมูลผิดพลาด! เหตุผล: %1</translation>
     </message>
@@ -3593,7 +3591,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="337"/>
-        <location filename="src/launcher/LaunchController.cpp" line="409"/>
+        <location filename="src/launcher/LaunchController.cpp" line="412"/>
         <source>Error!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3609,49 +3607,49 @@ Do you want to play the demo?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="409"/>
+        <location filename="src/launcher/LaunchController.cpp" line="412"/>
         <source>Couldn&apos;t start profiler: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="418"/>
+        <location filename="src/launcher/LaunchController.cpp" line="421"/>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="421"/>
+        <location filename="src/launcher/LaunchController.cpp" line="424"/>
         <source>Waiting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="423"/>
+        <location filename="src/launcher/LaunchController.cpp" line="426"/>
         <source>Launch</source>
         <translation>เปิด</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="431"/>
+        <location filename="src/launcher/LaunchController.cpp" line="434"/>
         <source>Couldn&apos;t start the profiler: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="432"/>
+        <location filename="src/launcher/LaunchController.cpp" line="435"/>
         <source>Error</source>
         <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="460"/>
+        <location filename="src/launcher/LaunchController.cpp" line="463"/>
         <source>Abort</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="476"/>
+        <location filename="src/launcher/LaunchController.cpp" line="479"/>
         <source>Kill Minecraft?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/LaunchController.cpp" line="477"/>
+        <location filename="src/launcher/LaunchController.cpp" line="480"/>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation type="unfinished"></translation>
     </message>
