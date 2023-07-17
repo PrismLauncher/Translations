@@ -2411,7 +2411,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="60"/>
         <source>Searching for files...</source>
-        <translation>Procurando arquivos...</translation>
+        <translation>Procurando por arquivos...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="91"/>
@@ -2432,7 +2432,7 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="301"/>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation>Analisando a resposta do API do CurseForge para &apos;%1&apos;...</translation>
+        <translation>Analisando a resposta da API do CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="258"/>
