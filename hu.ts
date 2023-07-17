@@ -4595,8 +4595,8 @@ Indok:
         <translation>Alja</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
         <translation>Minecraft napló</translation>
     </message>
@@ -8504,6 +8504,11 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
         <translation>kötegelt MKLINK program a Prismlauncherrel használható windowshoz</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
+        <source>Ungrouped</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -4611,8 +4611,8 @@ Anledning:
         <translation>Till slutet</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
         <translation>Minecraft-logg</translation>
     </message>
@@ -8427,6 +8427,11 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
         <translation>Ett batch MKLINK-program för Windows att använda med Prism Launcher</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
+        <source>Ungrouped</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

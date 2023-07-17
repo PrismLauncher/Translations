@@ -4642,8 +4642,8 @@ Reason:
         <translation>底部</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
         <translation>Minecraft 記錄</translation>
     </message>
@@ -8607,6 +8607,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
         <translation>與 PrismLauncher 一起使用的 Windows 的 MKLINK 程式</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
+        <source>Ungrouped</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

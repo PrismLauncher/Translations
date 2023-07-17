@@ -4480,8 +4480,8 @@ Motivo:
         <translation>Final</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
         <translation>Registo do Minecraft</translation>
     </message>
@@ -8110,6 +8110,11 @@ NOTA: Tem a certeza de que fazes um backup dos dados importantes da tua instânc
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
         <translation>Um programa de Lote MKLINK para o Windows a ser usado com o prismlauncher</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
+        <source>Ungrouped</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

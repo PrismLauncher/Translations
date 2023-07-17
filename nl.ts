@@ -4618,8 +4618,8 @@ Reden:
         <translation>Onderaan</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
         <source>Minecraft Log</source>
         <translation>Minecraft logbestand</translation>
     </message>
@@ -8513,6 +8513,11 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
         <location filename="src/launcher/filelink/FileLink.cpp" line="95"/>
         <source>a batch MKLINK program for windows to be used with prismlauncher</source>
         <translation>een batch MKLINK programma voor windows voor gebruik met prismlauncher</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
+        <source>Ungrouped</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
