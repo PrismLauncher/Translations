@@ -1782,7 +1782,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">這取決於這些模組的中繼資料。 如果要保證其可用，可以該實例中運行更新，而不需要將更新安裝到實例中。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
@@ -3239,17 +3239,17 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">模組加載器設定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="559"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁用Quilt加載器計數 Beacon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁用 Quilt 加載器爲計算月活躍用户發出的 Beacon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="639"/>
@@ -5999,17 +5999,17 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">模組加載器設定</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
         <source>Disable Quilt Loader Beacon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁用Quilt加載器計數 Beacon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="205"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">禁用 Quilt 加載器爲計算月活躍用户發出的 Beacon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -8611,7 +8611,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">解組</translation>
     </message>
 </context>
 <context>
