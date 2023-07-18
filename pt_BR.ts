@@ -1720,17 +1720,17 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar pacote para lista de mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
         <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
@@ -1740,50 +1740,50 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto simples</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informação opcional</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="104"/>
         <source>Version</source>
-        <translation type="unfinished">Versão</translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autores</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
@@ -1793,12 +1793,12 @@ Por favor atualize ambos o seu sistema operacional e o PolyMC.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Isso depende dos metadados dos mods. Para garantir que esteja disponível, execute uma atualização na instância. Não é necessário instalar as atualizações.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
@@ -5148,7 +5148,7 @@ Razão:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de Mods</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
@@ -8667,7 +8667,7 @@ NOTA: Lembre-se de fazer uma cópia de segurança dos seus arquivos importantes 
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Desagrupado</translation>
     </message>
 </context>
 <context>
