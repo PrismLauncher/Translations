@@ -4690,8 +4690,8 @@ Powód:
         <translation>Na dół</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <location filename="src/launcher/ui/pages/instance/LogPage.cpp" line="285"/>
+        <location filename="src/launcher/ui/pages/instance/LogPage.h" line="61"/>
         <source>Minecraft Log</source>
         <translation>Log Minecraft</translation>
     </message>
@@ -5993,10 +5993,10 @@ Czy chcesz kontynuować?</translation>
 <context>
     <name>MinecraftAccount</name>
     <message>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="138"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="149"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="160"/>
-        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="182"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="139"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="150"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="161"/>
+        <location filename="src/launcher/minecraft/auth/MinecraftAccount.cpp" line="183"/>
         <source>Aborted</source>
         <translation>Przerwane</translation>
     </message>
