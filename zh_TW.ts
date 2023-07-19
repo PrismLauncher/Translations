@@ -710,7 +710,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1689"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
-        <translation>看起來您以前在 %2 上使用過 %1。 是否要將資料遷移到 %3 的新位置？</translation>
+        <translation>看起來您以前在 %2 上使用過 %1。是否要將資料遷移到 %3 的新位置？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1732"/>
@@ -1057,7 +1057,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="534"/>
         <source>Conflicting requirements detected during dependency checking!</source>
-        <translation>相依性檢查時，發現衝突的需求！</translation>
+        <translation>前置檢查時，發現衝突的需求！</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="553"/>
@@ -1067,7 +1067,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="560"/>
         <source>Instance has unresolved dependencies while loading/checking for launch.</source>
-        <translation>在啟動載入或檢查時，發現實例有未解決的相依性。</translation>
+        <translation>在啟動載入或檢查時，發現實例有未解決的前置。</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/ComponentUpdateTask.cpp" line="710"/>
@@ -2313,7 +2313,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="353"/>
         <source>&lt;h1&gt;Hey there!&lt;/h1&gt;&lt;h4&gt;It seems like your Pack ID is null. This is because of a bug in older versions of the launcher.&lt;br/&gt;Unfortunately, we can&apos;t do the proper API requests without this information.&lt;br/&gt;&lt;br/&gt;So, in order for this feature to work, you will need to re-download the modpack from the built-in downloader.&lt;br/&gt;&lt;br/&gt;Don&apos;t worry though, it will ask you to update this instance instead, so you&apos;ll not lose this instance!&lt;/h4&gt;</source>
-        <translation>&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常運作， 您需要從內置下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會丟失此實例！&lt;/h4&gt;</translation>
+        <translation>&lt;h1&gt;您好！&lt;/h1&gt;&lt;h4&gt;您的 Pack ID 似乎為空。這是因為舊版本啟動器中存在錯誤。&lt;br/&gt;不幸的是，如果沒有此資訊，我們將無法執行正確的 API 請求。&lt;br/&gt;&lt;br/&gt;因此，為了使此功能正常運作，您需要從內置下載器重新下載模組包。&lt;br/&gt;&lt;br/&gt;別擔心，它會要求您更新此實例，所以您不會丟失此實例！&lt;/h4&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ManagedPackPage.cpp" line="415"/>
@@ -2632,7 +2632,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/minecraft/mod/tasks/GetModDependenciesTask.cpp" line="51"/>
         <source>Get dependencies</source>
-        <translation>取得相依項</translation>
+        <translation>取得前置</translation>
     </message>
 </context>
 <context>
@@ -2922,7 +2922,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="143"/>
         <source>Unable to open supplied modpack zip file.</source>
-        <translation>無法開啟提供的模組包壓縮檔。</translation>
+        <translation>無法開啟提供的模組包 Zip 壓縮檔。</translation>
     </message>
     <message>
         <location filename="src/launcher/InstanceImportTask.cpp" line="188"/>
@@ -3253,7 +3253,7 @@ Proceed with caution!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="562"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished">禁用 Quilt 加載器爲計算月活躍用户發出的 Beacon</translation>
+        <translation type="unfinished">停用 Quilt 載入器為計算月活躍使用者發出的 Beacon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="639"/>
@@ -4726,7 +4726,7 @@ Reason:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="475"/>
         <source>A zip error occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Zip 壓縮檔發生了錯誤</translation>
     </message>
 </context>
 <context>
@@ -6041,7 +6041,7 @@ Are you sure?</source>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="205"/>
         <source>Disable Quilt loader&apos;s beacon for counting monthly active users</source>
-        <translation type="unfinished">禁用 Quilt 加載器爲計算月活躍用户發出的 Beacon</translation>
+        <translation type="unfinished">停用 Quilt 載入器為計算月活躍使用者發出的 Beacon</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="215"/>
@@ -6611,7 +6611,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <message>
         <location filename="src/launcher/minecraft/launch/ModMinecraftJar.cpp" line="76"/>
         <source>Failed to create the custom Minecraft jar file.</source>
-        <translation>無法建立自訂的 Minecraft jar 檔。</translation>
+        <translation>無法建立自訂的 Minecraft Jar 檔案。</translation>
     </message>
 </context>
 <context>
@@ -8720,7 +8720,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.cpp" line="173"/>
         <source>Checking for dependencies...</source>
-        <translation>正在檢查相依項...</translation>
+        <translation>正在檢查前置...</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ResourceDownloadDialog.h" line="59"/>
@@ -9265,7 +9265,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您將要把 %1 螢幕截圖上傳至 %2。
+        <translation>您將要把 %1 螢幕擷取畫面上傳至 %2。
 您應該再次檢查個人資訊。
 
 你確定嗎？</translation>
@@ -9276,7 +9276,7 @@ Are you sure?</source>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>您將要把選取的螢幕截圖上傳至 %１。
+        <translation>您將要把選取的螢幕擷取畫面上傳至 %１。
 您應該再次檢查個人資訊。
 
 你確定嗎？</translation>
@@ -9326,10 +9326,10 @@ Are you sure?</source>
 This may be permanent and it will be gone from the folder.
 
 Are you sure?</source>
-        <translation>你正在刪除已選取的螢幕截圖。
+        <translation>你正在刪除已選取的螢幕擷取畫面。
 這可能是永久性的，它們將從資料夾中消失。
 
-你確定要刪除嗎？</translation>
+你確定嗎？</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.cpp" line="530"/>
