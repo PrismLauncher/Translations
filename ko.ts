@@ -1563,7 +1563,7 @@ Please update both your operating system and %1.</source>
         <translation>인스턴스 내보내기</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="130"/>
         <source>Export %1</source>
         <translation>%1 내보내기</translation>
     </message>
@@ -1576,16 +1576,20 @@ Please update both your operating system and %1.</source>
         <translation type="vanished">동일한 이름의 파일이 존재합니다. 덮어쓸까요?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="150"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
         <source>Unable to export instance</source>
         <translation>인스턴스를 내보낼 수 없음</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
+        <source>Abort</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4646,6 +4650,34 @@ Reason:
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
         <translation>비밀번호</translation>
+    </message>
+</context>
+<context>
+    <name>MMCZip::ExportToZipTask</name>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="437"/>
+        <source>Folder doesn&apos;t exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="440"/>
+        <source>Could not create file</source>
+        <translation type="unfinished">파일을 생성할 수 없습니다</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="448"/>
+        <source>Could not create:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="469"/>
+        <source>Could not read and compress %1</source>
+        <translation type="unfinished">%1 을(를) 읽고 압축할 수 없습니다</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="475"/>
+        <source>A zip error occurred</source>
+        <translation type="unfinished">압축 오류가 발생했습니다</translation>
     </message>
 </context>
 <context>

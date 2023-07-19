@@ -1527,7 +1527,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <translation>Eksportuoti egzempliorių</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="130"/>
         <source>Export %1</source>
         <translation>Eksportuoti %1</translation>
     </message>
@@ -1540,16 +1540,20 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
         <translation type="vanished">Toks failas jau yra. Ar norite jį perrašyti?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="150"/>
         <source>Error</source>
         <translation>Klaida</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
         <source>Unable to export instance</source>
         <translation>Negalima išeksportuoti egzemplioriaus</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
+        <source>Abort</source>
+        <translation type="unfinished">Nutraukti</translation>
     </message>
 </context>
 <context>
@@ -4271,6 +4275,34 @@ Reason:
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
         <translation>Slaptažodis</translation>
+    </message>
+</context>
+<context>
+    <name>MMCZip::ExportToZipTask</name>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="437"/>
+        <source>Folder doesn&apos;t exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="440"/>
+        <source>Could not create file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="448"/>
+        <source>Could not create:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="469"/>
+        <source>Could not read and compress %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="475"/>
+        <source>A zip error occurred</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

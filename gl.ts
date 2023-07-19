@@ -1530,7 +1530,7 @@ Se es novo aquí, clic no botón &quot;Engadir&quot; para agregar a túa conta d
         <translation>Exportar instancia</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="130"/>
         <source>Export %1</source>
         <translation>Exportar %1</translation>
     </message>
@@ -1543,16 +1543,20 @@ Se es novo aquí, clic no botón &quot;Engadir&quot; para agregar a túa conta d
         <translation type="vanished">O ficheiro xa existe. Desexa substituílo?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="150"/>
         <source>Error</source>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
         <source>Unable to export instance</source>
         <translation>Non se puido exportar a instancia</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
+        <source>Abort</source>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -4418,6 +4422,34 @@ Motivo:
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
         <translation>Contrasinal</translation>
+    </message>
+</context>
+<context>
+    <name>MMCZip::ExportToZipTask</name>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="437"/>
+        <source>Folder doesn&apos;t exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="440"/>
+        <source>Could not create file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="448"/>
+        <source>Could not create:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="469"/>
+        <source>Could not read and compress %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="475"/>
+        <source>A zip error occurred</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

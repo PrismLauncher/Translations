@@ -1583,7 +1583,7 @@ Bitte aktualisiere macOS und PolyMC.</translation>
         <translation>Instanz exportieren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="133"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="130"/>
         <source>Export %1</source>
         <translation>%1 exportieren</translation>
     </message>
@@ -1596,16 +1596,20 @@ Bitte aktualisiere macOS und PolyMC.</translation>
         <translation type="vanished">Diese Datei existiert bereits. Möchtest du sie überschreiben?</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="150"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="145"/>
-        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="151"/>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="142"/>
         <source>Unable to export instance</source>
         <translation>Instanz konnte nicht exportiert werden</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/ui/dialogs/ExportInstanceDialog.cpp" line="154"/>
+        <source>Abort</source>
+        <translation type="unfinished">Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -4743,6 +4747,34 @@ Grund:
         <location filename="src/launcher/ui/dialogs/LoginDialog.ui" line="49"/>
         <source>Password</source>
         <translation>Passwort</translation>
+    </message>
+</context>
+<context>
+    <name>MMCZip::ExportToZipTask</name>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="437"/>
+        <source>Folder doesn&apos;t exist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="440"/>
+        <source>Could not create file</source>
+        <translation type="unfinished">Datei konnte nicht erstellt werden</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="448"/>
+        <source>Could not create:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="469"/>
+        <source>Could not read and compress %1</source>
+        <translation type="unfinished">%1 konnte nicht gelesen und gepackt werden</translation>
+    </message>
+    <message>
+        <location filename="src/launcher/MMCZip.cpp" line="475"/>
+        <source>A zip error occurred</source>
+        <translation type="unfinished">Es ist ein zip Fehler aufgetreten</translation>
     </message>
 </context>
 <context>
