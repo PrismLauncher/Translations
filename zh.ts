@@ -159,27 +159,27 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="141"/>
         <source>Unsupported installation mode</source>
-        <translation>不支持的安装方式</translation>
+        <translation>不支持的安装模式</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="183"/>
         <source>Deleting existing files...</source>
-        <translation>正在删除现有文件……</translation>
+        <translation>正在删除原有文件……</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="332"/>
         <source>Unknown mod type: %1</source>
-        <translation>未知模组类型：%1</translation>
+        <translation>未知的模组类型：%1</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="377"/>
         <source>Failed to find version for %1 loader</source>
-        <translation>无法找到合适的 %1 版本</translation>
+        <translation>无法找到 %1 加载器的合适版本</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="391"/>
         <source>No loader version set for modpack!</source>
-        <translation>整合包没有设定模组加载器版本！</translation>
+        <translation>整合包没有设置模组加载器版本！</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="536"/>
@@ -254,7 +254,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="992"/>
         <source>Failed to create libraries component</source>
-        <translation>未能创建库组件</translation>
+        <translation>无法创建库组件</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1016"/>
@@ -264,7 +264,7 @@
     <message>
         <location filename="src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp" line="1030"/>
         <source>Failed to create pack component</source>
-        <translation>未能创建包组件</translation>
+        <translation>无法创建包组件</translation>
     </message>
 </context>
 <context>
@@ -277,7 +277,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是 Minecraft 的一个第三方启动器，它可以让您更便捷地管理不同版本的 Minecraft 实例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;这是 Minecraft 的一个第三方启动器，让您能够更便捷地在单个启动器中管理多个 Minecraft 实例。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -298,7 +298,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="221"/>
         <source>Channel:</source>
-        <translation>频道：</translation>
+        <translation>通道：</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="248"/>
@@ -347,7 +347,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.cpp" line="166"/>
         <source>Channel</source>
-        <translation>频道</translation>
+        <translation>通道</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -364,7 +364,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="308"/>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation>未勾选</translation>
+        <translation>未选</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="311"/>
@@ -381,7 +381,7 @@
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="314"/>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation>在线</translation>
+        <translation>就绪</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="317"/>
@@ -532,7 +532,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="86"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation>不设默认账号（&amp;N）</translation>
+        <translation>不设置默认账号（&amp;N）</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="91"/>
@@ -584,7 +584,7 @@
         <source>Welcome!
 If you&apos;re new here, you can click the &quot;Add&quot; button to add your Mojang or Minecraft account.</source>
         <translation>欢迎！
-如果您是第一次来到这里，您可以点击“添加”按钮来添加您的 Minecraft 账号（Mojang 或微软账户）。</translation>
+如果您是第一次来到这里，您可以点击“添加”按钮来添加您的 Minecraft 账号（必须是微软或 Mojang 账户）。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="101"/>
@@ -626,12 +626,12 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="181"/>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation>发生错误</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="182"/>
         <source>You must add a Microsoft or Mojang account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation>您必须在添加至少一个已购买 Minecraft 的微软或 Mojang 账户之后再添加离线账户。&lt;br&gt;&lt;br&gt;如果您丢失了您的账号，请联系微软寻求支持。</translation>
+        <translation>您必须在添加至少一个已购买 Minecraft 的微软或 Mojang 账户之后才能添加离线账户。&lt;br&gt;&lt;br&gt;如果您丢失了您的账号，请联系微软寻求支持。</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.cpp" line="193"/>
@@ -654,7 +654,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="61"/>
         <source>Sending request to auth servers...</source>
-        <translation>正在发送请求至身份验证服务器……</translation>
+        <translation>正在向身份验证服务器发送请求……</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountTask.cpp" line="63"/>
@@ -712,7 +712,7 @@ Please update both your operating system and PolyMC.</source>
     <message>
         <location filename="src/launcher/Application.cpp" line="1679"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
-        <translation>找到了来自 %1 的旧数据，但正在使用来自 %2 的现存数据，因此您只能自己进行迁移。是否需要在下次启动 %2 时再次提醒有待处理的数据迁移？</translation>
+        <translation>找到了来自 %1 的旧数据，但正在使用 %2 的现存数据，因此您只能自己进行迁移。是否需要在下次启动 %2 时再次提醒有待处理的数据迁移？</translation>
     </message>
     <message>
         <location filename="src/launcher/Application.cpp" line="1683"/>
