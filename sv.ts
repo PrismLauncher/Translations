@@ -1632,7 +1632,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="14"/>
         <source>Export Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera paket</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.ui" line="23"/>
@@ -1678,12 +1678,12 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>Task aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppgift avbrutet</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="127"/>
         <source>The task has been aborted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppgiften har avbrutits av användaren.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportPackDialog.cpp" line="133"/>
@@ -1696,7 +1696,7 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="14"/>
         <source>Export Pack to ModList</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera paket till ModList</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="25"/>
@@ -1706,42 +1706,42 @@ Uppdatera både ditt operativsystem och %1.</translation>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="32"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="37"/>
         <source>Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="42"/>
         <source>Plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Oformatterad text</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="47"/>
         <source>JSON</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="52"/>
         <source>CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>CSV</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="57"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassad</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="65"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Mall</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="77"/>
         <source>Optional Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Valfri information</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="83"/>
@@ -1753,28 +1753,28 @@ Uppdatera både ditt operativsystem och %1.</translation>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="90"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="111"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Författare</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="97"/>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="118"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="137"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="147"/>
         <source>Result</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="176"/>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta beror på moddets metadata. Kontrollera att den är tillgänglig genom att köra en uppdatering på instansen. Det är inte nödvändigt att installera uppdateringarna.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/ExportToModListDialog.ui" line="190"/>
@@ -2369,12 +2369,12 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="108"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar filhashar...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="189"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar versioner för hasher...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="239"/>
@@ -2385,7 +2385,7 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="258"/>
         <source>Finding project info from CurseForge...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta projektinformation från CurseForge...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/flame/FlamePackExportTask.cpp" line="336"/>
@@ -3209,7 +3209,7 @@ Var försiktig!</translation>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="553"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod loader inställningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/InstanceSettingsPage.ui" line="559"/>
@@ -3652,7 +3652,7 @@ Vänligen välj en av följande eller sök efter en körbar Java-fil.</translati
     <message>
         <location filename="src/launcher/ui/widgets/LanguageSelectionWidget.cpp" line="65"/>
         <source>Use system locales</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd systemspråk</translation>
     </message>
 </context>
 <context>
@@ -4675,7 +4675,7 @@ Anledning:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="437"/>
         <source>Folder doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapp finns inte</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="440"/>
@@ -4685,7 +4685,7 @@ Anledning:
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="448"/>
         <source>Could not create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte skapa:</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="469"/>
@@ -5095,12 +5095,12 @@ Anledning:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="487"/>
         <source>CurseForge (zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="495"/>
         <source>Mod List</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod lista</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="540"/>
@@ -5591,34 +5591,34 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1197"/>
         <source>Instance not editable</source>
-        <translation type="unfinished"></translation>
+        <translation>Instansen kan inte redigeras</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1198"/>
         <source>This instance is not editable. It may be broken, invalid, or too old. Check logs for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den här instansen kan inte redigeras. Den kan vara trasigt, ogiltigt eller för gammalt. Kontrollera loggarna för mer information.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1347"/>
         <source>Quilt is currently not supported by CurseForge modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quilt stöds för närvarande inte av CurseForge modpacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1350"/>
         <source>Snapshots are currently not supported by CurseForge modpacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshots stöds för närvarande inte av CurseForge modpacks.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1474"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
         <source>Create instance Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa instansapplikation</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1474"/>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1485"/>
         <source>Failed to create icon for Application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det gick inte att skapa ikonen för programmet.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1509"/>
@@ -5641,7 +5641,7 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1573"/>
         <source>Created a shortcut to this instance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapade en genväg till den här instansen!</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1672"/>
@@ -5924,7 +5924,7 @@ Vill du fortsätta?</numerusform>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="196"/>
         <source>Mod loader settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod loader inställningar</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/MinecraftPage.ui" line="202"/>
@@ -6988,12 +6988,12 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="98"/>
         <source>Finding file hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar filhashar...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="162"/>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittar versioner för hasher...</translation>
     </message>
     <message>
         <location filename="src/launcher/modplatform/modrinth/ModrinthPackExportTask.cpp" line="197"/>
@@ -8463,7 +8463,7 @@ OBS! Se till att du har gjort en säkerhetskopia av dina viktiga instansdata inn
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="191"/>
         <source>Ungrouped</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogrupperade</translation>
     </message>
 </context>
 <context>
