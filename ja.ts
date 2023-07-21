@@ -685,27 +685,27 @@ OSと%1をアップデートしてください。</translation>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1245"/>
+        <location filename="src/launcher/Application.cpp" line="1255"/>
         <source>Aborted</source>
         <translation>中止</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1679"/>
+        <location filename="src/launcher/Application.cpp" line="1689"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1 からの古いデータが見つかりましたが、%2 用のデータが既に存在しています。手動で移行する必要があります。次回 %2 を起動する際に保留中のデータ移行について通知しますか？</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1683"/>
+        <location filename="src/launcher/Application.cpp" line="1693"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>あなたは以前%1を利用していたようです。データを%2の新しい場所に移行しますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1689"/>
+        <location filename="src/launcher/Application.cpp" line="1699"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>あなたは%2以前に%1を利用していたようです。データを%3の新しい場所に移行しますか?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1732"/>
+        <location filename="src/launcher/Application.cpp" line="1742"/>
         <source>Migration failed! Reason: %1</source>
         <translation>次の理由で移行に失敗しました: %1</translation>
     </message>
@@ -7958,82 +7958,82 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>キャンセル</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="57"/>
         <source>Simple (Colored Icons)</source>
         <translation>シンプル（カラーアイコン）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Light Icons)</source>
         <translation>シンプル（ライトアイコン）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Dark Icons)</source>
         <translation>シンプル（ダークアイコン）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Blue Icons)</source>
         <translation>シンプル（青いアイコン）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Breeze Light</source>
         <translation>ブリーズライト</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Dark</source>
         <translation>ブリーズダーク</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
         <source>OSX</source>
         <translation>OSX</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>iOS</source>
         <translation>iOS</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>Flat</source>
         <translation>フラット</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat (White)</source>
         <translation>フラット（ホワイト）</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Legacy</source>
         <translation>レガシー</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Custom</source>
         <translation>カスタム</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="183"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>背景猫(マルチMCから)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="184"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (アシュタカ描き下ろし)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="74"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="185"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (フラット版、アシュタカ描き下ろし)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="186"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie（SympathyTea描き下ろし）</translation>
     </message>

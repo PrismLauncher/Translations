@@ -685,27 +685,27 @@ Vă rugăm să vă actualizați atât sistemul de operare, cât și %1.</transla
         <translation>Setări</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1245"/>
+        <location filename="src/launcher/Application.cpp" line="1255"/>
         <source>Aborted</source>
         <translation>Anulat</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1679"/>
+        <location filename="src/launcher/Application.cpp" line="1689"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Date vechi din %1 au fost găsite, doar că există deja date pentru %2. Din păcate va trebui să migrați datele manual. Doriți să vi se aducă aminte de migrația în așteptare următoarea dată când porniți %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1683"/>
+        <location filename="src/launcher/Application.cpp" line="1693"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Se pare că ați folosit deja %1. Doriți să vă migrați datele în locatia nouă %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1689"/>
+        <location filename="src/launcher/Application.cpp" line="1699"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Se pare că ați folosit deja %1 pe %2 înainte. Doriți să vă migrați datele în noua locație a lui %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1732"/>
+        <location filename="src/launcher/Application.cpp" line="1742"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migrarea a eșuat! Motiv: %1</translation>
     </message>
@@ -7757,82 +7757,82 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation type="unfinished">Anulează</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="57"/>
         <source>Simple (Colored Icons)</source>
         <translation type="unfinished">Simplu (pictograme colorate)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Light Icons)</source>
         <translation type="unfinished">Simplu (pictograme luminoase)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Dark Icons)</source>
         <translation type="unfinished">Simplu (pictograme întunecate)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Blue Icons)</source>
         <translation type="unfinished">Simplu (pictograme albastre)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Breeze Light</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Dark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
         <source>OSX</source>
         <translation>OSX</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>iOS</source>
         <translation>iOS</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>Flat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat (White)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Legacy</source>
         <translation type="unfinished">Legacy</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="183"/>
         <source>Background Cat (from MultiMC)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="184"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="74"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="185"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="186"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation type="unfinished"></translation>
     </message>

@@ -701,27 +701,27 @@ Lütfen sisteminizi ve PolyMC&apos;yi güncelleyin.</translation>
         <translation>Ayarlar</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1245"/>
+        <location filename="src/launcher/Application.cpp" line="1255"/>
         <source>Aborted</source>
         <translation>İptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1679"/>
+        <location filename="src/launcher/Application.cpp" line="1689"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1&apos;deki eski veri bulundu, ama hâlihazırda %2 için veriye sahipsin. Kendi başına aktarma yapmak zorundasın. %2&apos;yi sıradaki başlatışında bekleyen veri hakkında hatırlatılmak istiyor musun ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1683"/>
+        <location filename="src/launcher/Application.cpp" line="1693"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Görünüşe bakılırsa %1&apos;i daha önce kullanmışsın. Verilerini %2&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1689"/>
+        <location filename="src/launcher/Application.cpp" line="1699"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Görünüşe bakılırsa daha önceden %1&apos;i %2 de kullanmışsın. Yeni verileri %3&apos;deki yeni konuma aktarmak ister misin ?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1732"/>
+        <location filename="src/launcher/Application.cpp" line="1742"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Aktarım başarısız! Hatanın sebebi: %1</translation>
     </message>
@@ -8408,82 +8408,82 @@ NOT: Güncellemeden önce oturumunuzun önemli verilerini yedeklediğinizden emi
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="57"/>
         <source>Simple (Colored Icons)</source>
         <translation>Basit (Renkli İkonlar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Light Icons)</source>
         <translation>Basit (Açık İkonlar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Dark Icons)</source>
         <translation>Basit (Koyu İkonlar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Blue Icons)</source>
         <translation>Basit (Mavi İkonlar)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Breeze Light</source>
         <translation>Breeze (Açık)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Dark</source>
         <translation>Breeze (Karanlık)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
         <source>OSX</source>
         <translation>OSX</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>iOS</source>
         <translation>iOS</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>Flat</source>
         <translation>Düz</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat (White)</source>
         <translation>Düz (Beyaz)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Legacy</source>
         <translation>Eski</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Custom</source>
         <translation>Özel</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="183"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Arkaplan Kedisi (MultiMC&apos;den)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="184"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (Ashtaka tarafından çizildi)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="74"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="185"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (düz versiyonu, Ashtaka tarafından çizildi)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="186"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (SympathyTea tarafından çizildi)</translation>
     </message>

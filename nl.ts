@@ -693,27 +693,27 @@ Gelieve zowel uw besturingssysteem als %1 bij te werken.</translation>
         <translation>Instellingen</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1245"/>
+        <location filename="src/launcher/Application.cpp" line="1255"/>
         <source>Aborted</source>
         <translation>Geannuleerd</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1679"/>
+        <location filename="src/launcher/Application.cpp" line="1689"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>Er zijn oude gegevens van %1 gevonden, maar u hebt al bestaande gegevens voor %2. U zult helaas zelf moeten migreren. Wilt u de volgende keer dat u %2 start, herinnerd worden aan de hangende gegevensmigratie?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1683"/>
+        <location filename="src/launcher/Application.cpp" line="1693"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>Het lijkt erop dat u al eerder %1 gebruikte. Wilt u uw gegevens migreren naar de nieuwe locatie van %2?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1689"/>
+        <location filename="src/launcher/Application.cpp" line="1699"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>Het lijkt erop dat u %1 al eerder gebruikte op %2. Wilt u uw gegevens migreren naar de nieuwe locatie van %3?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1732"/>
+        <location filename="src/launcher/Application.cpp" line="1742"/>
         <source>Migration failed! Reason: %1</source>
         <translation>Migratie mislukt! Reden: %1</translation>
     </message>
@@ -8370,82 +8370,82 @@ N.B. Zorg dat u een back-up hebt gemaakt van uw belangrijke instantie-data voord
         <translation>Annuleren</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="57"/>
         <source>Simple (Colored Icons)</source>
         <translation>Simpel (gekleurde pictogrammen)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Light Icons)</source>
         <translation>Simpel (lichte pictogrammen)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Dark Icons)</source>
         <translation>Simpel (donkere pictogrammen)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Blue Icons)</source>
         <translation>Simpel (blauwe pictogrammen)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Breeze Light</source>
         <translation>Breeze Licht</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Dark</source>
         <translation>Breeze Donker</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
         <source>OSX</source>
         <translation>OSX</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>iOS</source>
         <translation>IOS</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>Flat</source>
         <translation>Vlak</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat (White)</source>
         <translation>Vlak (wit)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Legacy</source>
         <translation>Verouderd</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Custom</source>
         <translation>Aangepast</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="183"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>Achtergrondkat (van MultiMC)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="184"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (getekend door Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="74"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="185"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (vlakke editie, getekend door Ashtaka)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="186"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (getekend door SympathyTea)</translation>
     </message>

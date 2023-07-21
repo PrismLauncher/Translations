@@ -697,27 +697,27 @@ Please update both your operating system and %1.</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1245"/>
+        <location filename="src/launcher/Application.cpp" line="1255"/>
         <source>Aborted</source>
         <translation>중단됨</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1679"/>
+        <location filename="src/launcher/Application.cpp" line="1689"/>
         <source>Old data from %1 was found, but you already have existing data for %2. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start %2?</source>
         <translation>%1에서 이전 데이터를 찾았지만 %2에 대한 기존 데이터가 이미 있습니다. 안타깝게도 직접 마이그레이션해야 합니다. 다음에 %2를 시작할 때 보류 중인 데이터 마이그레이션에 대한 알림을 받으시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1683"/>
+        <location filename="src/launcher/Application.cpp" line="1693"/>
         <source>It looks like you used %1 before. Do you want to migrate your data to the new location of %2?</source>
         <translation>이전에 %1을 사용한 것 같습니다. 데이터를 새 위치 %2로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1689"/>
+        <location filename="src/launcher/Application.cpp" line="1699"/>
         <source>It looks like you used %1 on %2 before. Do you want to migrate your data to the new location of %3?</source>
         <translation>이전에 %2에서 %1을 사용한 것 같습니다. 데이터를 %3의 새 위치로 마이그레이션하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="src/launcher/Application.cpp" line="1732"/>
+        <location filename="src/launcher/Application.cpp" line="1742"/>
         <source>Migration failed! Reason: %1</source>
         <translation>마이그레이션 실패! 이유: %1</translation>
     </message>
@@ -8363,82 +8363,82 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="57"/>
         <source>Simple (Colored Icons)</source>
         <translation>심플 (다색 아이콘들)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="58"/>
         <source>Simple (Light Icons)</source>
         <translation>심플 (밝은 아이콘들)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="59"/>
         <source>Simple (Dark Icons)</source>
         <translation>심플 (어두운 아이콘들)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="60"/>
         <source>Simple (Blue Icons)</source>
         <translation>심플 (파란 아이콘들)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="61"/>
         <source>Breeze Light</source>
         <translation>Breeze (라이트 모드)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="62"/>
         <source>Breeze Dark</source>
         <translation>Breeze (다크 모드)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="63"/>
         <source>OSX</source>
         <translation>OSX</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="64"/>
         <source>iOS</source>
         <translation>iOS</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="65"/>
         <source>Flat</source>
         <translation>플랫</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="66"/>
         <source>Flat (White)</source>
         <translation>플랫 (화이트)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="67"/>
         <source>Legacy</source>
         <translation>레거시</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="69"/>
+        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="68"/>
         <source>Custom</source>
         <translation>사용자 정의</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="72"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="183"/>
         <source>Background Cat (from MultiMC)</source>
         <translation>고양이 배경화면 (MultiMC에서 가져옴)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="73"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="184"/>
         <source>Rory ID 11 (drawn by Ashtaka)</source>
         <translation>Rory ID 11 (Ashtaka가 그림)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="74"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="185"/>
         <source>Rory ID 11 (flat edition, drawn by Ashtaka)</source>
         <translation>Rory ID 11 (플랫 에디션, Ashtaka가 그림)</translation>
     </message>
     <message>
-        <location filename="src/launcher/ui/widgets/ThemeCustomizationWidget.h" line="75"/>
+        <location filename="src/launcher/ui/themes/ThemeManager.cpp" line="186"/>
         <source>Teawie (drawn by SympathyTea)</source>
         <translation>Teawie (SympathyTea가 그림)</translation>
     </message>
